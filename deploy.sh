@@ -7,6 +7,8 @@ MGIZAPP="$TOOLS/mgizapp"
 IRSTLM="$TOOLS/irstlm"
 MOSES="$TOOLS/moses"
 
+# Install dependencies
+sudo apt-get install build-essential curl libboost-all-dev cmake autotools-dev libtool git-core automake zlib1g zlib1g-dev libbz2-dev
 
 
 mkdir $TOOLS
