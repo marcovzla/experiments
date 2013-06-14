@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 0.829316 um 0.147894 and 0.0227908
+align 2 *DELETE* 0.829316 do 0.170684
+align 3 you 1
+align 4 have 1
+align 5 any 1
+align 6 problems 1
+align 7 with 1
+align 8 the 0.998002 a 0.00199805
+align 9 village 1
+align 10 *DELETE* 0.999775 i 9.95504e-05 uh 7.49102e-05 to 2.17951e-05 is 1.99832e-05 the 4.67969e-06 do 3.41376e-06 a 1.05664e-06 and 4.53411e-10 in 9.68987e-12
+align 11 </s> 1

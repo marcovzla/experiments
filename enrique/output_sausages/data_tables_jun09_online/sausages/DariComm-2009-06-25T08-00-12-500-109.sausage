@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 i 1
+align 3 have 1
+align 4 a 1
+align 5 headache 1
+align 6 i 0.998587 *DELETE* 0.00141299
+align 7 would 0.847843 *DELETE* 0.13676 i 0.0153968
+align 8 *DELETE* 0.98484 would 0.0151602
+align 9 you 0.859882 always 0.127451 was 0.00954569 *DELETE* 0.00312188
+align 10 *DELETE* 0.983132 he 0.0101113 eat 0.00539326 you 0.00136336
+align 11 use 0.986595 used 0.0134051
+align 12 aspirations 0.501945 aspiration 0.498055
+align 13 *DELETE* 0.999437 i 0.000217774 uh 0.00018602 in 8.4577e-05 a 3.50801e-05 of 2.50208e-05 it 5.5423e-06 do 3.57695e-06 um 2.62907e-06 you 2.05668e-06 to 1.99989e-07 oh 3.15834e-08 is 6.66857e-09 the 2.26805e-09
+align 14 </s> 1

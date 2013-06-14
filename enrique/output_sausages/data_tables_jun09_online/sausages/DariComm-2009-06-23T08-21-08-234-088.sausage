@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 are 1
+align 4 you 1
+align 5 going 1
+align 6 to 1
+align 7 stay 1
+align 8 in 0.578083 and 0.421917
+align 9 home 0.994746 how 0.00381314 *DELETE* 0.00144102
+align 10 and 0.978602 in 0.0161442 many 0.00352973 *DELETE* 0.00172443
+align 11 *DELETE* 0.944802 uh 0.0287256 i 0.0159212 you 0.00493212 helmet 0.00144102 them 0.000843714 a 0.000652961 it 0.00050911 i'm 0.000351219 um 0.00034225 in 0.000317338 meant 0.000282916 the 0.000218086 me 0.000160702 to 0.000126523 and 8.38335e-05 do 5.19507e-05 we 4.5807e-05 they 4.40893e-05 he 3.92401e-05 then 3.50796e-05 all 2.71789e-05 if 2.38981e-05 an 1.20246e-05 that 4.95338e-06 go 1.71979e-06 when 1.35739e-06 be 1.12486e-06 men 5.01278e-07 now 2.89455e-07 so 9.20402e-08 two 6.65083e-08 let 3.17631e-08 on 2.75272e-08 who 1.23402e-08 get 4.69583e-09 did 1.02104e-10
+align 12 </s> 1

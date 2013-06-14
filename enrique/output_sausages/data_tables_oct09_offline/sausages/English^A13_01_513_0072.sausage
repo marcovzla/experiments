@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 tidy 1
+align 2 action 0.66358 actually 0.33642
+align 3 even 0.79537 me 0.118079 *DELETE* 0.062262 they 0.0122263 been 0.00670145 my 0.00536115
+align 4 feel 1
+align 5 about 1
+align 6 the 1
+align 7 *DELETE* 0.999822 uh 0.000177552
+align 8 americans 1
+align 9 *DELETE* 0.484991 that 0.478664 at 0.0256013 out 0.0107437
+align 10 you've 0.402454 i 0.286951 are 0.165039 you 0.112555 actually 0.033001
+align 11 been 0.535543 keeping 0.406827 keep 0.0234803 could 0.0216829 bring 0.0124673
+align 12 *DELETE* 0.978317 been 0.0215487 bring 0.00013422
+align 13 in 0.998473 an 0.00130251 and 0.000224123
+align 14 *DELETE* 0.97652 in 0.0234787 an 1.6256e-06
+align 15 afghanistan 0.998941 eye 0.00105907
+align 16 *DELETE* 0.998927 innocent 0.00105902 i 1.36991e-05 and 5.28423e-08
+align 17 *DELETE* 1 so 5.28423e-08
+align 18 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 also 1
+align 2 i 1
+align 3 noticed 0.963139 notice 0.0368614
+align 4 that 0.999788 it 0.000211507
+align 5 some 1
+align 6 of 1
+align 7 your 1
+align 8 men 1
+align 9 were 0.499868 we're 0.499507 are 0.00024059 or 0.000233509 *DELETE* 7.50947e-05 of 6.08201e-05 who 9.76787e-06 uh 3.51549e-06 the 1.89536e-06
+align 10 running 1
+align 11 out 1
+align 12 of 1
+align 13 water 1
+align 14 </s> 1

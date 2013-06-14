@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 can 0.934961 could 0.0650389
+align 2 you 1
+align 3 please 1
+align 4 describe 1
+align 5 this 0.273395 these 0.247189 your 0.222461 its 0.096209 his 0.0709523 the 0.0537283 you 0.0105344 to 0.00783332 nice 0.00432403 *DELETE* 0.00368636 and 0.00239849 be 0.00229136 each 0.00169947 it's 0.00132719 used 0.000683217 beans 0.000379125 gives 0.00032394 he 0.000294493 just 0.000221959 it 3.98581e-05 as 1.24438e-05 in 8.76797e-06 need 7.00045e-06
+align 6 problems 0.996427 problem's 0.0031147 problem 0.000403811 need 5.47198e-05
+align 7 *DELETE* 0.999675 sir 0.000156973 uh 6.64184e-05 problems 5.47198e-05 so 4.71572e-05 is 3.98351e-08 i 1.32595e-14 to 7.17796e-16
+align 8 </s> 1

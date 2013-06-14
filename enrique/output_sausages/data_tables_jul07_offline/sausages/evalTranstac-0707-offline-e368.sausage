@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 i'm 0.972374 i 0.0276258
+align 3 *DELETE* 0.972374 am 0.0276258
+align 4 i'm 0.994203 i 0.005797
+align 5 *DELETE* 0.994203 am 0.005797
+align 6 glad 1
+align 7 to 1
+align 8 hear 0.999782 here 0.000217538
+align 9 that 1
+align 10 *DELETE* 0.999476 uh 0.000518748 i 4.82864e-06
+align 11 </s> 1

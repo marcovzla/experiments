@@ -1,0 +1,52 @@
+numaligns 50
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i'm 0.970753 i 0.0292475
+align 3 going 0.602136 *DELETE* 0.368617 want 0.0292475
+align 4 to 0.631383 gonna 0.368617
+align 5 bring 1
+align 6 uh 1
+align 7 all 0.913226 uh 0.0867735
+align 8 *DELETE* 0.90924 all 0.0907598
+align 9 this 0.999982 those 1.84767e-05
+align 10 back 1
+align 11 to 1
+align 12 my 1
+align 13 base 1
+align 14 and 0.901675 in 0.0979406 a 0.000384368
+align 15 uh 0.433449 i 0.287868 lot 0.147224 um 0.0880145 not 0.0416883 i'm 0.00106115 *DELETE* 0.000694239
+align 16 *DELETE* 0.52506 uh 0.313795 of 0.14915 um 0.00731001 know 0.00423185 i 0.000452826
+align 17 *DELETE* 0.999011 i 0.000988654
+align 18 my 1
+align 19 commander 1
+align 20 know 0.652791 no 0.347209
+align 21 all 1
+align 22 the 1
+align 23 issues 1
+align 24 that 1
+align 25 are 1
+align 26 here 1
+align 27 and 0.964977 in 0.0350226
+align 28 uh 1
+align 29 *DELETE* 0.881258 uh 0.118742
+align 30 the 1
+align 31 things 1
+align 32 that 1
+align 33 we 1
+align 34 can 1
+align 35 give 1
+align 36 to 1
+align 37 you 1
+align 38 to 0.837589 terminate 0.156033 tell 0.00580129 too 0.000576307
+align 39 make 0.788531 *DELETE* 0.156033 made 0.0316896 mate 0.0214535 may 0.00229294
+align 40 make 0.972853 it 0.0271471
+align 41 *DELETE* 0.972853 make 0.0271471
+align 42 this 1
+align 43 a 1
+align 44 better 1
+align 45 facility 1
+align 46 for 0.99998 four 2.03746e-05
+align 47 yourself 0.999959 your 4.10375e-05
+align 48 *DELETE* 0.999959 self 4.10375e-05
+align 49 </s> 1

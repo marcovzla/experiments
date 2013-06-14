@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 i 0.994236 *DELETE* 0.00576375
+align 2 think 0.994236 uh 0.00573463 but 2.91203e-05 *DELETE* 1.06862e-11 are 9.60544e-12
+align 3 i 0.994236 they 0.00576375
+align 4 *DELETE* 0.99791 are 0.00208958
+align 5 got 1
+align 6 *DELETE* 0.997616 got 0.00238362
+align 7 all 1
+align 8 the 0.878042 *DELETE* 0.121958
+align 9 information 1
+align 10 that 1
+align 11 i 1
+align 12 need 1
+align 13 from 0.999998 for 1.86039e-06
+align 14 you 0.999998 me 1.86039e-06 your 4.069e-08
+align 15 *DELETE* 0.998865 know 0.000828478 i 0.000118733 a 8.34738e-05 uh 7.30169e-05 is 1.21239e-05 now 1.01774e-05 in 2.62996e-06 and 2.29419e-06 were 1.37685e-06 um 1.31732e-06 how 8.85803e-07 may 3.59307e-07 or 5.89494e-08
+align 16 *DELETE* 1 i 2.02262e-08
+align 17 </s> 1

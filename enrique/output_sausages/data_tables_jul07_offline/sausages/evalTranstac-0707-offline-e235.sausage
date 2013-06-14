@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 weapons 1
+align 4 were 0.699766 *DELETE* 0.300234
+align 5 in 0.699733 *DELETE* 0.176047 when 0.124132 run 5.54842e-05 on 3.25031e-05
+align 6 the 0.531058 one 0.175985 *DELETE* 0.171138 a 0.121757 rent 5.95522e-05 went 2.32312e-06
+align 7 house 1
+align 8 </s> 1

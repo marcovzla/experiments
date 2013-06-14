@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 where 1
+align 3 do 1
+align 4 you 1
+align 5 live 1
+align 6 *DELETE* 0.999903 in 9.66555e-05
+align 7 </s> 1

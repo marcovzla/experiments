@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 else 0.961915 is 0.0380829 us 1.87712e-06 as 2.5844e-07
+align 3 would 1
+align 4 you 1
+align 5 like 1
+align 6 to 1
+align 7 tell 1 set 1.19536e-12
+align 8 me 1
+align 9 *DELETE* 0.998407 uh 0.0012923 i 0.000118228 if 7.63329e-05 that 6.71831e-05 do 2.58051e-05 to 1.18653e-05 you 1.16742e-06 how 1.7984e-07 like 5.85061e-08 in 5.56772e-08 now 1.68218e-09 oh 9.1087e-10 he 4.44177e-10 so 4.10072e-11 it 3.00953e-11
+align 10 </s> 1

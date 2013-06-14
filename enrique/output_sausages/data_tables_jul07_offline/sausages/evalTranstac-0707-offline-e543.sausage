@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 currently 1
+align 2 how 1
+align 3 many 1
+align 4 hours 1
+align 5 electricity 1
+align 6 can 1
+align 7 you 1
+align 8 count 0.990804 *DELETE* 0.00889919 counted 0.000204157 come 8.35064e-05 account 8.69942e-06
+align 9 on 0.984074 *DELETE* 0.00732061 tell 0.00488465 counter 0.00372033
+align 10 *DELETE* 0.987976 them 0.00292602 off 0.0025069 all 0.0024412 us 0.00185583 time 0.000888661 uh 0.000471271 on 0.000262812 it 0.000207499 kanan 0.000187865 a 0.000131705 kahlan 0.000106301 him 1.79199e-05 i'm 1.79026e-05 i 1.71632e-06 the 4.22222e-07 un 4.22854e-08 kahla' 3.78675e-08 to 2.90481e-08
+align 11 *DELETE* 1 on 1.81587e-08
+align 12 </s> 1

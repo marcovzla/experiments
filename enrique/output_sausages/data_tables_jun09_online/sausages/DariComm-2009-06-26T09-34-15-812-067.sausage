@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 animals 0.999965 animals' 3.19647e-05 *DELETE* 2.00925e-14
+align 6 *DELETE* 0.999959 uh 1.76802e-05 i 1.30785e-05 to 7.31317e-06 evidence 2.59182e-06 it 3.51148e-08 in 3.37965e-09
+align 7 </s> 1

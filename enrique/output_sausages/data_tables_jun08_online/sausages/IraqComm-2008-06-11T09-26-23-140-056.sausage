@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 help 1
+align 5 from 1
+align 6 americans 0.992344 americans' 0.0042192 american's 0.00343726
+align 7 for 0.994817 four 0.00518292
+align 8 your 0.999524 you're 0.000476017
+align 9 project 0.999949 projects 5.06274e-05
+align 10 </s> 1

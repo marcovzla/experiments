@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 why 0.808914 well 0.18653 one 0.00188905 we 0.00102713 right 0.00100047 yeah 0.000489687 i 0.000149627
+align 2 *DELETE* 0.998959 have 0.00102713 he 1.35278e-05 yeah 1.86367e-08
+align 3 is 0.998459 i 0.00154051
+align 4 *DELETE* 0.998459 is 0.00154051
+align 5 this 1
+align 6 building 1
+align 7 the 0.991126 that 0.00887444
+align 8 next 1
+align 9 time 0.495648 how 0.230376 *DELETE* 0.179543 is 0.0526004 ties 0.0206711 to 0.00774015 uh 0.00750416 town 0.00591794
+align 10 is 0.695425 as 0.186675 *DELETE* 0.0732715 house 0.0277068 towers 0.0159476 eyes 0.000973788
+align 11 priority 0.999929 priorities 7.06145e-05
+align 12 *DELETE* 1 you 5.30696e-18 in 3.58182e-18 i 1.5113e-19 he 3.60211e-21
+align 13 </s> 1

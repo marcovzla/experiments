@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 0.988383 it 0.0063634 what 0.00418191 would 0.00107171
+align 3 is 1 as 2.53002e-07
+align 4 to 1
+align 5 oldest 0.999539 old 0.000321759 all 0.000103493 *DELETE* 3.56247e-05
+align 6 *DELETE* 0.999975 were 1.78656e-05 would 5.29074e-06 what 1.50244e-06 we're 9.48648e-08 do 5.25289e-09
+align 7 *DELETE* 0.999539 is 0.000208423 does 9.61416e-05 it's 8.01285e-05 as 3.9452e-05 otis 2.96013e-05 always 6.0234e-06 organs 5.97589e-07 gives 3.08838e-07 dues 2.00389e-07
+align 8 child 0.988288 sour 0.00425069 shop 0.00350175 *DELETE* 0.00228713 so 0.00167265
+align 9 *DELETE* 0.995952 i'll 0.00167087 chop 0.000629202 south 0.000283966 sabah 0.000253271 salah 0.000199889 shower 0.000165869 chopped 0.000119815 sam 0.000116534 chow 0.000103421 sawa 9.68614e-05 sawir 9.00311e-05 i 6.21796e-05 saba 4.55341e-05 solve 4.31251e-05 shaab 3.96102e-05 shihab 3.47919e-05 in 2.33794e-05 sow 2.1173e-05 saab 1.76284e-05 uh 1.59222e-05 saoud 6.13493e-06 sab 5.28455e-06 shopped 1.27435e-06 shab 1.09304e-06 stop 1.0304e-06 it 3.1081e-08
+align 10 *DELETE* 0.999982 oh 2.5205e-06 on 2.50101e-06 shab 2.50034e-06 stop 2.39136e-06 stopped 2.34455e-06 shopped 1.79974e-06 saw 1.76453e-06 all 6.18915e-07 sound 4.31798e-07 off 2.28751e-07 top 2.2403e-07 a 1.81572e-07 s'oud 9.95211e-08 how 3.99384e-08 shop 3.1081e-08 out 7.20246e-09 shout 3.58013e-09 and 2.07759e-09 or 1.49702e-09 at 3.93772e-10 chopper 3.03993e-10 shahba' 2.14684e-10 to 2.51102e-11 that 1.226e-13 i 1.85206e-14 soud 7.94587e-19 o 7.69555e-20 sahba 6.69014e-28 own 1.19684e-31 our 3.54512e-32 i'm 3.31839e-36 sowed 1.2675e-37
+align 11 </s> 1

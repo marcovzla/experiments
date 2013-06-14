@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 to 0.999114 could 0.000582188 would 0.000303424
+align 2 be 1
+align 3 able 1
+align 4 to 1
+align 5 put 0.987945 pull 0.0120551
+align 6 the 0.524423 *DELETE* 0.189161 two 0.163037 to 0.114129 a 0.00437034 too 0.00436505 you 0.000514274
+align 7 explosives 1
+align 8 in 1
+align 9 it 1
+align 10 uh 1
+align 11 *DELETE* 0.991442 uh 0.00855804
+align 12 that 1
+align 13 leads 0.911239 leaves 0.0887611
+align 14 us 0.992222 *DELETE* 0.00777828
+align 15 to 0.881771 two 0.0740582 too 0.0441703
+align 16 *DELETE* 0.992222 us 0.00777828
+align 17 *DELETE* 0.992222 to 0.00777828
+align 18 automotive 1
+align 19 shop 0.980539 shops 0.0194414 shop's 2.00118e-05
+align 20 *DELETE* 0.998713 to 0.00121873 is 3.65191e-05 so 1.07146e-05 this 8.85663e-06 as 4.13679e-06 i 3.00963e-06 it 1.51437e-06 in 1.33255e-06 a 9.53406e-07 if 7.39618e-07 the 3.52188e-07 do 1.14405e-07
+align 21 </s> 1

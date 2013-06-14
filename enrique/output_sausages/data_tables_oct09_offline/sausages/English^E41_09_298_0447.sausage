@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 0.679301 they 0.319107 *DELETE* 0.00159211
+align 2 haven't 0.987701 have 0.0122988
+align 3 been 1
+align 4 uh 0.896812 *DELETE* 0.103188
+align 5 *DELETE* 0.71836 uh 0.178452 to 0.0866792 a 0.0165086
+align 6 drinking 1
+align 7 enough 1
+align 8 water 1
+align 9 or 0.999728 *DELETE* 0.000271985
+align 10 *DELETE* 0.998025 are 0.00100518 uh 0.000784064 a 0.000178296 our 5.16895e-06 for 1.53684e-06 i 5.87763e-07 or 1.06681e-07
+align 11 </s> 1

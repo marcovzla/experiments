@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 yeah 1
+align 2 once 0.929381 what 0.0577241 what's 0.0128946
+align 3 the 1
+align 4 vehicle 0.990634 *DELETE* 0.00936561
+align 5 is 0.895934 *DELETE* 0.0947005 vehicle's 0.00936561
+align 6 stopped 0.962057 stops 0.0379432
+align 7 and 0.999817 *DELETE* 0.00018324
+align 8 *DELETE* 0.998736 the 0.00108087 in 0.000118847 an 6.43934e-05
+align 9 security 1
+align 10 is 1
+align 11 set 1
+align 12 uh 0.545449 *DELETE* 0.454551
+align 13 uh 0.953503 *DELETE* 0.0464967
+align 14 they 0.968299 they're 0.0316142 the 5.8072e-05 their 2.489e-05 there 3.75562e-06
+align 15 going 1
+align 16 to 1
+align 17 do 0.971777 get 0.0282226
+align 18 to 0.85072 you 0.121258 a 0.0280218
+align 19 go 1
+align 20 ahead 0.51566 *DELETE* 0.48434
+align 21 and 1
+align 22 take 1
+align 23 the 1
+align 24 part 1
+align 25 procedures 0.997446 procedure's 0.00213699 procedure 0.000417159
+align 26 *DELETE* 0.999902 uh 8.33213e-05 i 1.44025e-05 in 3.74599e-07 to 1.50172e-07
+align 27 </s> 1

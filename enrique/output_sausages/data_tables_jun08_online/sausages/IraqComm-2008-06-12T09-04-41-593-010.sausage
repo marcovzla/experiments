@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 *DELETE* 0.9981 a 0.00166148 an 0.000238516
+align 5 information 0.997723 in 0.00203838 formation 0.000238516
+align 6 *DELETE* 0.997962 formation 0.00203838
+align 7 to 0.996546 two 0.00147841 too 0.000794137 do 0.00071705 you 0.000464061 can 1.92048e-07 that 1.14261e-11
+align 8 *DELETE* 0.999417 you 0.000517908 to 3.53863e-05 the 2.97721e-05
+align 9 report 0.995532 a 0.0044677 *DELETE* 1.41881e-21
+align 10 *DELETE* 0.995268 report 0.0044677 it 0.00024204 uh 1.48571e-05 a 6.52066e-06 i 1.35359e-06 reports 3.18245e-14 you 1.43732e-14 on 4.64851e-17
+align 11 </s> 1

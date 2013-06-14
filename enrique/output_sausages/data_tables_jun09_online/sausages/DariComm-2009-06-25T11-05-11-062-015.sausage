@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 please 0.991708 plea 0.0071482 okay 0.00114426
+align 2 please 1
+align 3 say 0.999532 sir 0.000468071
+align 4 his 0.997691 it 0.00129995 whose 0.000639374 is 0.000370145
+align 5 *DELETE* 0.9987 his 0.00129995
+align 6 name 1
+align 7 again 1 *DELETE* 2.98571e-12 we 2.4095e-16
+align 8 *DELETE* 0.999986 uh 7.64435e-06 sir 6.14089e-06 and 4.16204e-07 against 3.92852e-08 in 6.41616e-12 i 2.63298e-13 um 7.41358e-15 can 2.4095e-16
+align 9 </s> 1

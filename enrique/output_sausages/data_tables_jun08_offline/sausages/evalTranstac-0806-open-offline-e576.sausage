@@ -1,0 +1,50 @@
+numaligns 48
+posterior 1
+align 0 <s> 1
+align 1 tell 0.952697 oh 0.0464372 tower 0.000690933 *DELETE* 0.000174626
+align 2 *DELETE* 0.967943 our 0.0313213 or 0.000735606
+align 3 al-awra 0.750654 i 0.237592 *DELETE* 0.00659472 our 0.00291867 a 0.00146233 in 0.000202865 already 0.000185258 tolerant 0.000174626 uh 9.55292e-05 of 8.11446e-05 and 3.81054e-05
+align 4 *DELETE* 0.786681 will 0.213319
+align 5 *DELETE* 0.777487 write 0.0903154 read 0.0866191 ready 0.0228113 rent 0.0135835 right 0.00762889 our 0.00128175 are 0.000142236 road 0.000130368
+align 6 try 1
+align 7 *DELETE* 0.803043 to 0.196957
+align 8 do 1
+align 9 is 1
+align 10 have 1
+align 11 uh 0.971839 a 0.0281613
+align 12 uh 1
+align 13 your 0.908999 uh 0.0910007
+align 14 *DELETE* 0.908999 your 0.0910007
+align 15 forces 1
+align 16 uh 1
+align 17 conduct 0.977097 conducts 0.0229033
+align 18 be 0.800076 the 0.151642 uh 0.0443523 b 0.00392949
+align 19 *DELETE* 0.955648 be 0.0443523
+align 20 the 1
+align 21 uh 1
+align 22 the 1
+align 23 face 1
+align 24 faces 0.997548 face 0.00245181
+align 25 *DELETE* 0.997548 is 0.00245181
+align 26 upfront 0.997464 up 0.0025362
+align 27 *DELETE* 0.997464 front 0.0025362
+align 28 and 0.570931 in 0.429069
+align 29 conduct 1
+align 30 all 0.936929 *DELETE* 0.0630715
+align 31 these 0.885488 always 0.0630715 the 0.0514406
+align 32 searches 1
+align 33 and 1
+align 34 we 1
+align 35 will 0.98532 we'll 0.0146802
+align 36 place 0.713361 play 0.286116 pay 0.000411299 pick 0.000111453 plays 2.96829e-07
+align 37 *DELETE* 0.999477 place 0.000522752
+align 38 support 0.743515 a 0.245614 is 0.00980749 it 0.00106414
+align 39 *DELETE* 0.743515 support 0.256483 port 2.41457e-06
+align 40 roll 0.741122 role 0.258246 rule 0.000632763
+align 41 all 0.515297 up 0.281712 of 0.0956122 um 0.0831363 uh 0.0165728 on 0.00728679 out 0.000196319 off 0.000186597
+align 42 *DELETE* 0.999964 uh 3.62513e-05
+align 43 behind 0.999934 uh 6.59823e-05
+align 44 *DELETE* 0.999934 behind 6.59823e-05
+align 45 you 1
+align 46 *DELETE* 0.999998 uh 1.84964e-06 i 6.98599e-09
+align 47 </s> 1

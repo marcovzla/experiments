@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 from 1
+align 2 where 0.999999 *DELETE* 1.38152e-09
+align 3 *DELETE* 0.963747 do 0.0362533
+align 4 you 0.99502 to 0.00484006 he 0.000139135 worry 1.22329e-06
+align 5 get 1
+align 6 your 1
+align 7 water 1
+align 8 sport 0.584532 support 0.409513 sports 0.00595542
+align 9 source 0.999529 sorts 0.000465892 *DELETE* 4.72452e-06
+align 10 *DELETE* 0.999949 i 2.95488e-05 of 1.56543e-05 sources 4.72452e-06 is 9.87515e-07 if 1.77544e-07 it 9.97655e-08 to 9.06557e-08
+align 11 </s> 1

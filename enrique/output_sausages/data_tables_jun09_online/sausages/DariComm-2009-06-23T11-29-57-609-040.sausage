@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 there's 0.955165 there 0.0448353
+align 3 *DELETE* 0.955165 is 0.0448353
+align 4 any 1
+align 5 talaban 0.98856 tell 0.0114402
+align 6 *DELETE* 0.98856 about 0.0114402
+align 7 inside 0.999692 side 0.000307602
+align 8 you 0.997619 we 0.00238065
+align 9 need 1
+align 10 to 1
+align 11 arrest 1
+align 12 them 1
+align 13 and 1
+align 14 if 1
+align 15 they 1
+align 16 flight 0.669171 fight 0.329939 fly 0.000890269
+align 17 you 0.999999 *DELETE* 3.94907e-09
+align 18 you 0.999991 *DELETE* 9.07923e-06
+align 19 *DELETE* 0.995855 you 0.00414463
+align 20 need 1
+align 21 to 1
+align 22 kill 1
+align 23 them 0.993316 him 0.0066843 *DELETE* 8.94323e-23
+align 24 *DELETE* 0.999781 all 0.000114295 in 5.90542e-05 uh 2.10467e-05 and 8.11525e-06 if 6.95338e-06 um 6.02293e-06 you 3.84904e-06 i 1.46072e-10 with 4.04073e-11 or 4.32459e-12 the 1.27873e-20
+align 25 </s> 1

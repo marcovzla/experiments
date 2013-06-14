@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 weapons 1
+align 6 *DELETE* 0.999656 in 0.00024691 i 7.65281e-05 uh 1.98947e-05 to 1.03077e-06 or 1.21156e-07 on 1.98212e-09 you 3.00636e-10 with 1.64613e-11 do 1.47611e-11 and 1.34228e-11 i'm 5.72613e-13
+align 7 </s> 1

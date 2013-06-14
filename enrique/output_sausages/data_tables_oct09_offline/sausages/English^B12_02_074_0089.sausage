@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 did 0.998668 do 0.000819401 could 0.000512368
+align 2 you 1
+align 3 grow 1
+align 4 up 1
+align 5 in 1
+align 6 this 1
+align 7 area 0.889562 air 0.110438
+align 8 in 0.988732 *DELETE* 0.011265 and 2.928e-06
+align 9 this 0.988735 miss 0.0112613 as 3.64941e-06
+align 10 town 1
+align 11 *DELETE* 0.999886 uh 0.00011362 i 2.41466e-07
+align 12 </s> 1

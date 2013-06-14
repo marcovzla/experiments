@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.640415 uh 0.337762 oh 0.021823
+align 2 i 0.640415 we'll 0.256245 we 0.0866017 we're 0.00999379 where 0.00661962 *DELETE* 0.000124811
+align 3 will 0.727142 *DELETE* 0.272858
+align 4 leave 1
+align 5 as 1
+align 6 soon 1
+align 7 as 1
+align 8 possible 1
+align 9 *DELETE* 0.999882 uh 0.000117506
+align 10 </s> 1

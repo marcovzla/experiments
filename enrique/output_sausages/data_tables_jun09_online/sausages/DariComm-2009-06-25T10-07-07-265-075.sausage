@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.517454 we 0.361909 where 0.120637
+align 2 well 0.517317 are 0.465273 *DELETE* 0.0174096
+align 3 the 0.999863 what 0.000136529
+align 4 *DELETE* 0.999863 other 0.000136529
+align 5 police 0.92218 please 0.0585713 place 0.0155686 pleas 0.00314955 plates 0.000489769 placed 3.42807e-05 pleased 6.46908e-06
+align 6 located 1
+align 7 *DELETE* 0.998768 at 0.000746808 in 0.000328672 uh 0.000156592 i 1.80492e-10 the 4.14259e-13
+align 8 </s> 1

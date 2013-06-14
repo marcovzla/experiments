@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 1
+align 3 the 1
+align 4 modes 0.730631 mood 0.269369
+align 5 of 1
+align 6 this 0.472076 the 0.433046 his 0.0929342 *DELETE* 0.00194418
+align 7 safety 1
+align 8 selector 0.997232 select 0.00211716 *DELETE* 0.000651264
+align 9 *DELETE* 0.996965 or 0.00199357 selective 0.000651264 i 0.000217019 their 0.000123598 a 4.527e-05 uh 2.03664e-06 in 2.00572e-06 to 6.26575e-07 for 2.93463e-12 if 1.60868e-12
+align 10 </s> 1

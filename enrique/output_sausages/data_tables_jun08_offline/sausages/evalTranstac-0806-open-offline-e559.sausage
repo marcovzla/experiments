@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sounds 1
+align 3 great 1
+align 4 uh 1
+align 5 let's 0.838542 lets 0.161174 *DELETE* 0.00028329
+align 6 *DELETE* 0.810584 say 0.189416
+align 7 uh 1
+align 8 *DELETE* 0.999717 let's 0.00028329
+align 9 *DELETE* 0.627258 uh 0.366663 a 0.00302091 oh 0.00285128 i 0.000206786
+align 10 first 1
+align 11 are 0.505712 our 0.243693 uh 0.236474 or 0.0104374 r 0.00291883 of 0.000401487 so 0.000363936
+align 12 what's 0.721277 what 0.276926 once 0.000956307 oh 0.000833753 uh 7.43583e-06
+align 13 *DELETE* 0.999159 what's 0.000833753 what 7.43583e-06
+align 14 the 0.723067 city 0.276671 see 0.000262293
+align 15 uh 0.740325 um 0.245956 are 0.0137189
+align 16 what's 0.98199 uh 0.0180103
+align 17 *DELETE* 0.98199 what's 0.0180103
+align 18 going 1
+align 19 on 1
+align 20 that 0.985246 in 0.014754
+align 21 *DELETE* 0.985246 that 0.014754
+align 22 um 1
+align 23 why 1
+align 24 *DELETE* 0.562954 are 0.437046
+align 25 you 0.998754 *DELETE* 0.00124555
+align 26 why 1
+align 27 are 1
+align 28 you 1
+align 29 conducting 1
+align 30 this 1
+align 31 patrol 1
+align 32 </s> 1

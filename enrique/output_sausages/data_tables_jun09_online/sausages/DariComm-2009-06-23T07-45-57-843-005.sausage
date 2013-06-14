@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 how 1
+align 4 are 1
+align 5 you 1
+align 6 doing 1
+align 7 sir 1
+align 8 *DELETE* 0.871023 uh 0.128782 um 0.00019335 i 1.21414e-06
+align 9 </s> 1

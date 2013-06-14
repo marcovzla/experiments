@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 who 0.402727 i 0.37443 who's 0.11476 how 0.0427737 *DELETE* 0.037158 whose 0.0281505
+align 2 *DELETE* 0.613404 is 0.385943 has 0.000652948
+align 3 *DELETE* 0.478484 was 0.470493 your 0.0510227
+align 4 a 0.681781 your 0.081921 in 0.0790455 *DELETE* 0.0510227 the 0.0442825 are 0.0306887 our 0.0205311 or 0.00795563 i 0.00269241 their 7.91864e-05
+align 5 morning 0.969935 mourning 0.0300648
+align 6 going 1 go 4.31845e-10
+align 7 *DELETE* 1 in 4.31845e-10
+align 8 </s> 1

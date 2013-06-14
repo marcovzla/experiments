@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 what 1
+align 3 about 1
+align 4 all 1
+align 5 the 0.996515 *DELETE* 0.00348538
+align 6 all 0.996216 of 0.00378411
+align 7 the 0.997077 *DELETE* 0.00156839 of 0.00135412
+align 8 *DELETE* 0.997643 the 0.00135412 uh 0.00100275
+align 9 all 0.999998 of 1.79854e-06
+align 10 the 0.997647 of 0.00235277
+align 11 *DELETE* 0.997647 the 0.00235277
+align 12 rest 1
+align 13 of 1
+align 14 the 1
+align 15 stuff 1
+align 16 of 0.73505 all 0.219197 are 0.0422968 uh 0.00345641
+align 17 the 1
+align 18 money 1
+align 19 and 1
+align 20 and 1
+align 21 uh 1
+align 22 the 0.981669 to 0.0134914 uh 0.00334831 *DELETE* 0.00114929 a 0.000341815
+align 23 drugs 0.946654 drug 0.0502994 dragon 0.00304684
+align 24 in 0.98538 *DELETE* 0.00834574 and 0.00618559 end 6.21602e-05 then 2.68755e-05
+align 25 here 0.949059 your 0.0338923 *DELETE* 0.00777929 any 0.00523314 you'd 0.0040363
+align 26 *DELETE* 0.976611 and 0.0088024 you 0.00628288 need 0.00263037 too 0.00148174 name 0.001241 it 0.000721698 knee 0.000484085 you're 0.000373186 hear 0.000330338 now 0.000180401 to 0.000166647 new 0.00014005 do 0.000128045 in 0.000119131 i 8.99908e-05 uh 8.61489e-05 endured 6.57633e-05 needs 3.56823e-05 hit 8.50916e-06 they 5.55936e-06 an 4.95735e-06 that 4.82237e-06 knees 3.88036e-06 due 1.01463e-06 we 2.80602e-07 duty 2.00747e-07 the 1.78825e-09 your 5.1531e-10 did 1.65536e-10
+align 27 *DELETE* 0.999997 i 1.86969e-06 uh 7.84002e-07 a 6.14675e-08 if 5.30978e-08 do 1.52559e-08 to 7.82321e-09
+align 28 </s> 1

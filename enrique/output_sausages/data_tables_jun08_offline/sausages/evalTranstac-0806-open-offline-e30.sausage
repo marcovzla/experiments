@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 1
+align 3 as 1
+align 4 seats 0.928641 seeds 0.0713585
+align 5 open 0.987389 opened 0.0126107
+align 6 up 1
+align 7 at 0.891733 that 0.106306 out 0.00196082
+align 8 the 0.9994 that 0.000600319
+align 9 training 0.999994 train 6.14678e-06
+align 10 facilities 1
+align 11 these 0.899645 he's 0.0925602 peace 0.00643838 fees 0.0013565
+align 12 police 1
+align 13 also 0.858765 off 0.113744 aws 0.0200685 sauce 0.00742209
+align 14 will 0.87747 we'll 0.12253
+align 15 be 1
+align 16 sent 1
+align 17 out 1
+align 18 in 0.758192 and 0.241808
+align 19 small 1
+align 20 sports 0.981228 supports 0.00682814 support 0.00629302 sport 0.00369607 sports' 0.000775414 sport's 0.000563828 spur 0.000349886 spurt 0.000265918
+align 21 *DELETE* 0.999991 i 7.05816e-06 a 1.12517e-06 in 5.50854e-07 it 4.61028e-07 uh 1.86288e-07
+align 22 </s> 1

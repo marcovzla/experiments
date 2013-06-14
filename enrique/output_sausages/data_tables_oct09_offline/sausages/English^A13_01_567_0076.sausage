@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 i 0.909262 is 0.0907375
+align 3 do 0.821451 *DELETE* 0.0907375 see 0.0878116
+align 4 you 0.999742 *DELETE* 0.000257909
+align 5 know 1
+align 6 why 1
+align 7 *DELETE* 0.999889 a 0.000110623
+align 8 is 1
+align 9 it 0.995194 that 0.00480574
+align 10 that 1
+align 11 this 0.924726 there's 0.041236 it's 0.0308038 it 0.00308673 is 0.000104928 there 4.29447e-05
+align 12 *DELETE* 0.99687 this 0.00308673 is 4.29447e-05
+align 13 drugs 0.943864 is 0.0561363
+align 14 *DELETE* 0.943864 drugs 0.0561363
+align 15 in 1
+align 16 here 0.740372 you 0.246949 *DELETE* 0.0116277 your 0.00105066
+align 17 and 0.908435 in 0.0799376 hearing 0.0108763 *DELETE* 0.000751368
+align 18 you 1
+align 19 have 1
+align 20 no 1
+align 21 idea 1
+align 22 why 1
+align 23 is 0.588728 it's 0.411272
+align 24 here 1
+align 25 and 1
+align 26 the 0.918292 there 0.0742552 that 0.00369981 *DELETE* 0.00192386 dip 0.0010814 they 0.000309302 i 0.000294895 they're 5.92463e-05 then 5.18707e-05 their 2.98996e-05 look 2.62123e-06 did 8.27402e-08 let 7.59066e-08
+align 27 </s> 1

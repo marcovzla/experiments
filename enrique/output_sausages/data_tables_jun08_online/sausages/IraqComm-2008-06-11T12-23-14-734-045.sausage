@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 any 1
+align 4 major 1
+align 5 diseases 0.981026 disease 0.0189744
+align 6 *DELETE* 0.981026 is 0.0189744
+align 7 affecting 0.998648 effecting 0.00135157
+align 8 your 0.999936 you're 6.35674e-05 a 6.8308e-07 her 2.9578e-13 or 6.12613e-14
+align 9 town 0.999948 *DELETE* 5.16629e-05
+align 10 *DELETE* 0.997029 uh 0.00291932 time 5.16629e-05 um 3.12924e-12 towns 1.58243e-12 town's 1.09622e-14
+align 11 </s> 1

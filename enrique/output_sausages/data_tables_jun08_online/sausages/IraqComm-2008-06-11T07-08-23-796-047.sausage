@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 the 0.993091 to 0.00690863
+align 5 sheikh's 1
+align 6 permission 1
+align 7 to 1
+align 8 do 0.999976 due 2.35209e-05
+align 9 the 0.998832 they 0.000539276 to 0.000390463 that 0.000237863
+align 10 contract 0.998906 contracts 0.000575237 contractor 0.00047105 contractors 4.74781e-05
+align 11 *DELETE* 0.999986 uh 1.25343e-05 i 1.04871e-06 to 2.8869e-19
+align 12 </s> 1

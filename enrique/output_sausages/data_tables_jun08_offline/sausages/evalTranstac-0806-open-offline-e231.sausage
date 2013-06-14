@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 do 1
+align 3 you 1
+align 4 mind 1
+align 5 if 1
+align 6 i 1
+align 7 go 1
+align 8 up 1
+align 9 and 0.894878 in 0.105122
+align 10 *DELETE* 0.884512 the 0.115488
+align 11 uh 1
+align 12 speak 0.972696 uh 0.0273043
+align 13 *DELETE* 0.972696 speak 0.0273043
+align 14 to 1
+align 15 the 1
+align 16 individual 1
+align 17 with 0.980264 what 0.0179963 look 0.00172833 well 5.80148e-06 will 4.78015e-06 *DELETE* 1.50353e-12
+align 18 us 0.598484 his 0.174084 those 0.15702 as 0.0636086 is 0.00679383 does 5.63453e-06 there's 2.93663e-06 weapons 8.08858e-07 was 1.18922e-09
+align 19 like 1
+align 20 it 0.704334 that 0.229357 uh 0.0352501 of 0.0199109 i 0.00579478 a 0.00474859 other 0.000605061 up 4.748e-08
+align 21 off 0.999841 *DELETE* 9.12021e-05 of 6.77874e-05
+align 22 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 rooms 1
+align 4 *DELETE* 1 i 3.02789e-23
+align 5 </s> 1

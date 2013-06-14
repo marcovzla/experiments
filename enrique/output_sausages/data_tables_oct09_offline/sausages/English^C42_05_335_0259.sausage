@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.999133 will 0.000866718
+align 2 see 1
+align 3 you 1
+align 4 in 1
+align 5 three 1
+align 6 days 0.999988 days' 1.18231e-05
+align 7 *DELETE* 0.999992 i 4.98587e-06 uh 2.8092e-06
+align 8 </s> 1

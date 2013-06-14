@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 well 0.826806 will 0.102105 we 0.0678931 were 0.00319543 what 4.27597e-07
+align 2 you 0.926732 *DELETE* 0.0678931 we 0.00537445
+align 3 have 0.827154 *DELETE* 0.172846
+align 4 an 0.827154 haven't 0.172846
+align 5 interpreter 1
+align 6 present 0.813585 president 0.186415
+align 7 while 1
+align 8 we 1
+align 9 are 1
+align 10 conducting 1
+align 11 our 0.94631 or 0.0367607 are 0.0169289
+align 12 mission 1
+align 13 brief 1
+align 14 so 1
+align 15 your 0.961313 you're 0.0386866
+align 16 men 1
+align 17 fully 1
+align 18 understand 1
+align 19 the 1
+align 20 mission 1
+align 21 that 0.980525 now 0.0186561 i 0.000751392 out 6.76058e-05
+align 22 will 0.835624 we'll 0.164376
+align 23 be 1
+align 24 going 1
+align 25 on 1
+align 26 </s> 1

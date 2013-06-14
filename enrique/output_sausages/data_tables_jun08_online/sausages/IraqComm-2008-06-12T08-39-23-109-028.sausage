@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 good 0.999649 *DELETE* 0.000351074 a 1.17166e-10
+align 2 morning 0.999637 goodbye 0.000350682 *DELETE* 1.2097e-05 okay 4.29806e-08 but 2.38671e-25 i 2.79196e-55
+align 3 *DELETE* 0.996787 uh 0.0032005 body 1.06574e-05 bye 1.11469e-06 i 5.27476e-07 go 1.77437e-21
+align 4 *DELETE* 1 goodbye 3.48297e-07 my 1.86191e-08 goodnight 8.88407e-10 by 1.7255e-10 good 5.6209e-16 brother 1.02172e-16
+align 5 </s> 1

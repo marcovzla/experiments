@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 did 0.986464 would 0.0135363
+align 3 you 1
+align 4 receive 1
+align 5 this 1
+align 6 information 1
+align 7 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 what's 1
+align 6 inside 1
+align 7 the 1
+align 8 bag 0.999931 back 5.68952e-05 bags 1.18578e-05
+align 9 *DELETE* 1 now 2.02284e-11 you 1.80468e-13 yeah 5.4417e-16 too 4.4106e-17 to 9.34769e-19
+align 10 </s> 1

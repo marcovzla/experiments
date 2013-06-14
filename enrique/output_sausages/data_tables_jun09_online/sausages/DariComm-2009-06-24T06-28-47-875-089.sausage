@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 short 0.995186 sure 0.00481365
+align 4 *DELETE* 0.99519 it 0.00481011
+align 5 on 0.888124 of 0.110956 own 0.00091606 at 3.53945e-06
+align 6 *DELETE* 0.551983 a 0.447669 uh 0.0003398 pray 4.17687e-06 all 3.53945e-06 pay 3.92416e-07
+align 7 pain 0.742975 paying 0.233253 praying 0.0192855 painting 0.0035155 playing 0.00094566 *DELETE* 1.93658e-05 in 4.41607e-06 a 7.7183e-07 paint 1.85851e-07 payne 1.12952e-07 main 5.45986e-08 pane 5.12116e-08 and 2.35428e-09 okay 8.03389e-20
+align 8 medication 0.994319 the 0.00482226 in 0.000676137 *DELETE* 0.000182611 and 1.26342e-09
+align 9 *DELETE* 0.994319 medication 0.0054984 medications 0.000182611 uh 3.30121e-07 i 5.04252e-08 to 4.96167e-11
+align 10 </s> 1

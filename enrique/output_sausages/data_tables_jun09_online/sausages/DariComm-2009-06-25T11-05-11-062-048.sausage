@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 soldiers 1
+align 5 to 0.993151 *DELETE* 0.0053462 who 0.00150308
+align 6 provide 1
+align 7 security 1
+align 8 for 1
+align 9 this 1
+align 10 area 0.990947 uh 0.00905336
+align 11 *DELETE* 0.990886 area 0.00905336 uh 6.07075e-05 is 9.20574e-09
+align 12 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 principal 0.940457 principle 0.0595434
+align 6 here 0.997855 hear 0.00214453
+align 7 *DELETE* 0.998696 uh 0.000994423 i 0.000306862 in 2.42148e-06 to 1.8727e-07 a 5.73778e-08 is 1.52534e-08 if 1.47122e-08
+align 8 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 yeah 0.734621 uh 0.262232 *DELETE* 0.00314643
+align 3 um 0.958216 *DELETE* 0.0384745 have 0.00314643 well 0.000163063
+align 4 we 1
+align 5 need 0.999989 *DELETE* 1.09239e-05
+align 6 them 0.956364 then 0.0268014 in 0.00997166 and 0.00571748 an 0.00113449 needn't 1.09239e-05 to 6.34727e-08
+align 7 *DELETE* 1 and 6.34727e-08
+align 8 done 0.612881 down 0.385301 *DELETE* 0.00181787
+align 9 in 0.490673 and 0.421257 *DELETE* 0.0820917 an 0.0041612 dying 0.00181787
+align 10 in 0.700544 and 0.298796 *DELETE* 0.000659891
+align 11 two 1
+align 12 months 1 month's 1.54219e-08
+align 13 </s> 1

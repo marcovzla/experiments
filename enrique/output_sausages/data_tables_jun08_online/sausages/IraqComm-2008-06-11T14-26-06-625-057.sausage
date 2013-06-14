@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 first 1
+align 5 step 0.999889 up 5.7861e-05 death 5.32675e-05
+align 6 to 0.939882 two 0.0583586 into 0.00175595 too 3.57416e-06 tool 1.06082e-10
+align 7 hiring 0.845434 hire 0.117774 higher 0.0272659 a 0.00952655
+align 8 *DELETE* 0.984254 higher 0.00952655 and 0.0062199 a 1.29757e-08
+align 9 new 0.949653 and 0.0389357 *DELETE* 0.00821506 in 0.0017131 you 0.000923283 him 0.000339235 an 0.000220295
+align 10 *DELETE* 0.949061 you 0.0502394 knew 0.000409087 new 0.000214644 need 4.09378e-05 your 3.51626e-05
+align 11 doctors 0.996821 doctors' 0.00171228 doctor's 0.00146651
+align 12 *DELETE* 1 i 5.47599e-11
+align 13 </s> 1

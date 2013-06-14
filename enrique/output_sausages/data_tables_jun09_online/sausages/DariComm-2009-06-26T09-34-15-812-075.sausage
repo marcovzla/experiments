@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 0.758179 had 0.241821
+align 3 a 0.999818 *DELETE* 0.000181915
+align 4 lot 0.999818 *DELETE* 0.000181915
+align 5 of 0.999818 uh 0.000181915
+align 6 problems 1
+align 7 with 1
+align 8 talaban 0.999997 *DELETE* 3.48603e-06
+align 9 *DELETE* 0.996554 in 0.00136357 i 0.000949244 uh 0.000611986 you 9.30255e-05 a 8.83357e-05 to 8.52246e-05 it 8.48406e-05 do 7.71715e-05 if 2.81263e-05 is 1.91157e-05 the 1.61614e-05 and 1.04926e-05 i'm 7.25163e-06 as 4.33604e-06 so 3.63832e-06 touban 3.48603e-06 an 2.25563e-11 it's 1.74879e-12
+align 10 </s> 1

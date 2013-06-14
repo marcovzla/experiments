@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 1
+align 3 you 1
+align 4 *DELETE* 1 sir 1.69118e-07 i 4.50927e-08 in 3.11265e-13 uh 9.68205e-14
+align 5 </s> 1

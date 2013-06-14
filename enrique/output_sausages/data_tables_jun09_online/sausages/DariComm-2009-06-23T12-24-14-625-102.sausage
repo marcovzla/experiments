@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 any 0.702298 enemy 0.297702
+align 4 *DELETE* 0.892905 me 0.106428 any 0.000667421
+align 5 activities 1
+align 6 in 0.992139 and 0.00786094
+align 7 this 0.99372 its 0.00540904 his 0.000330114 *DELETE* 0.000295971 it's 0.000218264 as 2.65391e-05 is 2.16967e-12 does 1.81404e-23
+align 8 location 0.999704 dislocation 0.000295971 *DELETE* 1.15353e-25
+align 9 *DELETE* 0.999735 uh 0.00026549 i 5.90936e-10 is 7.73142e-11 and 8.51743e-15 locations 1.96562e-16
+align 10 </s> 1

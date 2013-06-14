@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 on 0.912449 owned 0.085922 don't 0.00162878
+align 6 the 0.803431 a 0.194909 know 0.00162878 them 2.93714e-05 *DELETE* 5.41586e-10
+align 7 mercedes 1
+align 8 *DELETE* 1 is 1.27215e-15
+align 9 </s> 1

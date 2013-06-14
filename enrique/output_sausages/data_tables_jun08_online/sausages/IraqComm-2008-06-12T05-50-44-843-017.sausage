@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 owns 1
+align 3 the 0.976727 *DELETE* 0.0232733
+align 4 land 1
+align 5 around 0.999637 a 0.000363018 the 2.13269e-17
+align 6 *DELETE* 0.999637 round 0.000363018
+align 7 here 1 *DELETE* 4.65264e-17
+align 8 *DELETE* 0.999716 uh 0.000266645 um 1.26555e-05 in 2.59034e-06 i 1.87833e-06 her 5.49506e-13 hear 3.41858e-19
+align 9 </s> 1

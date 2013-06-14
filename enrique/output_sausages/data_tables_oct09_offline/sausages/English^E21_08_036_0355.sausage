@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 and 0.981331 *DELETE* 0.0186691
+align 2 uh 1
+align 3 *DELETE* 0.981331 and 0.0186691
+align 4 *DELETE* 0.951363 uh 0.0486373
+align 5 i 0.981692 *DELETE* 0.0159785 uh 0.00232931
+align 6 *DELETE* 0.975825 i 0.0241748
+align 7 will 0.997748 we'll 0.00225212
+align 8 go 1
+align 9 over 0.975539 or 0.0244608
+align 10 the 0.70118 uh 0.294689 *DELETE* 0.00413119
+align 11 *DELETE* 0.692162 the 0.294689 difference 0.00901723 that 0.00413119
+align 12 differences 0.987187 is 0.00901723 difference 0.00379614
+align 13 *DELETE* 0.996204 is 0.00379614
+align 14 and 1
+align 15 uh 1
+align 16 the 0.757969 *DELETE* 0.177215 posing 0.0328166 uh 0.0311445 big 0.000854732
+align 17 *DELETE* 0.968855 the 0.0311445
+align 18 poles 0.366921 posing 0.170721 clothes 0.117064 pulls 0.115213 *DELETE* 0.100333 close 0.0471835 pose 0.0367783 pools 0.0290614 rules 0.0141304 comp 0.00208028 be 0.000513989
+align 19 and 0.454149 in 0.245342 *DELETE* 0.200637 closing 0.0701109 an 0.0289406 comp 0.00082065
+align 20 compound 0.996326 *DELETE* 0.00208028 and 0.00082065 comp 0.000772717
+align 21 *DELETE* 0.999227 and 0.000772717
+align 22 both 0.891562 bald 0.0263309 bolt 0.0213875 book 0.0212894 but 0.0135459 boat 0.00942555 build 0.00582029 ball 0.00214144 bold 0.00172276 bulb 0.00162899 built 0.000946413 we'll 0.000921288 boiled 0.000745051 boats 0.000594451 will 0.00044509 books 0.000403068 bill 0.000270879 bowl 0.000214296 booked 0.00018848 broke 0.000109059 boil 6.92278e-05 well 5.6548e-05 low 3.95435e-05 beau 3.28991e-05 bo 3.23032e-05 bow 2.8925e-05 of 1.5927e-05 while 1.48679e-05 bulbs 4.10924e-06 bullet 3.36643e-06 blow 2.6704e-06 bolts 2.58229e-06 woke 2.51001e-06 bought 8.06173e-07 bulls 7.76869e-07 boast 3.2887e-09 what 8.78748e-11
+align 23 *DELETE* 0.999905 uh 8.57376e-05 i 6.34604e-06 the 1.80523e-06 to 8.98209e-07 of 4.20233e-07 a 2.67232e-07
+align 24 </s> 1

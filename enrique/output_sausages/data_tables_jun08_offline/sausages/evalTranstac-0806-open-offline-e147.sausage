@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 0.999418 i 0.000480542 now 0.000101084
+align 3 you 1
+align 4 have 1
+align 5 a 1
+align 6 lovely 1
+align 7 house 1
+align 8 *DELETE* 0.99977 uh 0.000134316 i 8.95137e-05 so 3.20239e-06 a 2.80987e-06
+align 9 </s> 1

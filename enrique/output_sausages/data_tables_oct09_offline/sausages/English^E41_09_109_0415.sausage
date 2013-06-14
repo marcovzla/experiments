@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 that 0.893588 had 0.0574934 uh 0.0236657 not 0.0221753 but 0.0028138 i 0.000263989
+align 2 tourniquets 0.985207 turning 0.0075303 tourniquet 0.00726241
+align 3 *DELETE* 0.985207 kids 0.0075303 is 0.00726241
+align 4 *DELETE* 0.769136 going 0.230864
+align 5 gonna 0.769136 to 0.230864
+align 6 go 1
+align 7 ahead 1
+align 8 and 1
+align 9 do 0.820477 be 0.0887796 these 0.0854868 the 0.00525628
+align 10 you 0.731619 *DELETE* 0.151307 used 0.0791548 use 0.0225607 ease 0.0110303 is 0.00385082 tight 0.000477319
+align 11 use 0.797917 *DELETE* 0.202083
+align 12 ties 0.892495 tires 0.101314 tire's 0.00324703 tired 0.00148016 types 0.000721524 it's 0.000471763 times 0.000185857 tights 5.88174e-05 tied 2.01484e-05 *DELETE* 5.55622e-06
+align 13 you 0.999415 do 0.000584203 u 8.26702e-07 yu 4.0611e-08
+align 14 *DELETE* 0.999416 you 0.000584203
+align 15 can 0.993315 can't 0.00413296 canned 0.00240662 candy 9.48209e-05 kin 5.07777e-05
+align 16 *DELETE* 0.998041 i 0.00114466 do 0.000344707 you 0.000306659 uh 0.00012135 be 2.61318e-05 the 6.82637e-06 they 4.75275e-06 to 1.84476e-06 we 1.43841e-06 and 6.75371e-07
+align 17 </s> 1

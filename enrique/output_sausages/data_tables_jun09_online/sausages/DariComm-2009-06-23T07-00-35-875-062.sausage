@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 you 0.999478 *DELETE* 0.000522002
+align 3 do 1
+align 4 not 1
+align 5 need 1
+align 6 help 1
+align 7 with 0.994998 *DELETE* 0.00500165
+align 8 anything 1
+align 9 *DELETE* 0.999815 uh 9.02683e-05 i 7.04312e-05 we 2.06407e-05 that 3.67165e-06 if 7.39293e-08 but 4.40138e-11
+align 10 </s> 1

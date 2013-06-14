@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 can 0.999101 she 0.00089933
+align 2 you 1
+align 3 show 1
+align 4 me 1
+align 5 exactly 1
+align 6 which 1
+align 7 house 1
+align 8 uh 1
+align 9 uh 0.968982 um 0.031018
+align 10 it 0.964339 uh 0.0356609
+align 11 *DELETE* 0.964339 it 0.0356609
+align 12 is 1
+align 13 that 1
+align 14 you're 1
+align 15 talking 1
+align 16 about 1
+align 17 *DELETE* 0.999937 uh 5.52613e-05 it 5.49312e-06 i 2.01076e-06
+align 18 </s> 1

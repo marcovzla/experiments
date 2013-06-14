@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 years 1
+align 4 is 0.981439 as 0.0185607
+align 5 the 1
+align 6 average 1
+align 7 person 1
+align 8 go 1
+align 9 to 1
+align 10 school 1
+align 11 here 0.999999 *DELETE* 1.90981e-10
+align 12 *DELETE* 0.999993 i 4.2906e-06 hear 1.34037e-06 uh 1.23709e-06
+align 13 </s> 1

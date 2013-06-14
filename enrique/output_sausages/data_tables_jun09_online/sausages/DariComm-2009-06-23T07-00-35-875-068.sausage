@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 0.998332 *DELETE* 0.00166776
+align 2 you 0.998332 he 0.00166776
+align 3 say 1
+align 4 again 1
+align 5 i 1 i've 6.1029e-14
+align 6 did 0.589262 do 0.410738 been 2.44853e-13
+align 7 not 1 uh 2.44853e-13
+align 8 understand 0.999949 i 5.07839e-05
+align 9 *DELETE* 0.995182 uh 0.00324935 you 0.000908315 it 0.00059852 understand 5.07839e-05 i 8.92907e-06 a 8.21575e-07 how 6.1032e-07 if 4.94744e-07 her 2.13063e-08 and 3.28737e-12 me 8.78874e-13 who 3.46948e-13 that 9.91549e-23 the 1.06881e-25
+align 10 </s> 1

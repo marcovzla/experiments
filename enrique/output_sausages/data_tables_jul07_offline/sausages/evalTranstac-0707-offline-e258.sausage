@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 you 0.999408 he 0.000591742
+align 2 should 1
+align 3 be 0.999943 have 5.68167e-05
+align 4 *DELETE* 0.999943 been 5.68167e-05
+align 5 given 1
+align 6 a 0.999973 *DELETE* 1.46332e-05 to 1.21362e-05
+align 7 receipt 1
+align 8 for 1
+align 9 that 1
+align 10 weapon 1
+align 11 *DELETE* 0.999994 uh 5.67564e-06
+align 12 </s> 1

@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 we've 0.749879 we 0.250121
+align 3 been 0.915239 *DELETE* 0.0847606
+align 4 to 0.859417 bint 0.0847606 *DELETE* 0.0553166 two 0.000505424
+align 5 hold 0.997477 hole 0.00128524 cold 0.00123756
+align 6 is 0.886874 it 0.0708668 his 0.0422595
+align 7 that 1
+align 8 probably 1
+align 9 the 1
+align 10 owner 1
+align 11 of 1
+align 12 the 1
+align 13 shop 1
+align 14 is 1
+align 15 letting 1
+align 16 them 0.999292 the 0.000707582
+align 17 in 0.999292 men 0.000707582
+align 18 but 0.790778 that 0.1814 at 0.0278212
+align 19 the 0.934475 *DELETE* 0.0655251
+align 20 employees 0.999897 employee's 0.000103087
+align 21 are 1
+align 22 gone 1
+align 23 and 0.707343 in 0.238658 on 0.0319751 *DELETE* 0.0220243
+align 24 don't 0.937581 oh 0.0436275 of 0.0187702 *DELETE* 2.11772e-05 own 1.92014e-08
+align 25 know 0.536005 now 0.452281 no 0.00920032 out 0.00169584 help 0.000390133 go 0.00029501 *DELETE* 0.000133168
+align 26 *DELETE* 0.999374 oh 0.000266093 it 0.000176458 i'll 8.72193e-05 uh 4.90097e-05 abu 1.86702e-05 um 1.56601e-05 i 1.06132e-05 donella 2.50707e-06 of 1.73726e-08
+align 27 </s> 1

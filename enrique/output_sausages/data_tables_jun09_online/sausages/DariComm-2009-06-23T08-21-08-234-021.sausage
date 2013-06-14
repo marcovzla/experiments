@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999988 it 1.16663e-05
+align 2 is 1
+align 3 your 1
+align 4 brother 0.683917 brother's 0.316083
+align 5 sick 0.997988 sic 0.00105662 sake 0.000947506 *DELETE* 7.78694e-06
+align 6 *DELETE* 0.997248 uh 0.00185021 i 0.000636153 you 0.000114762 in 5.67581e-05 um 2.55053e-05 a 1.46423e-05 i'm 1.18503e-05 do 8.50295e-06 six 7.78694e-06 it 6.42865e-06 and 5.81483e-06 due 4.24095e-06 too 3.19294e-06 now 2.39452e-06 if 2.27866e-06 we 9.41103e-07 with 4.58856e-07 the 1.25485e-07 at 7.98987e-08 to 6.41915e-08 who 1.11865e-08 he 6.01937e-09 like 4.13619e-09 of 1.36334e-10 is 1.68357e-11
+align 7 </s> 1

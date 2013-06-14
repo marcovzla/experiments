@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.998043 eight 0.00195669
+align 3 this 1
+align 4 will 0.999987 we'll 1.3394e-05
+align 5 be 1
+align 6 the 1
+align 7 first 1
+align 8 how 0.622598 house 0.377402
+align 9 else 0.622598 *DELETE* 0.377402
+align 10 i 1
+align 11 recommend 1
+align 12 that 1
+align 13 we 1
+align 14 take 1
+align 15 *DELETE* 0.9992 it 0.000653683 uh 7.56013e-05 a 6.70237e-05 you 3.72563e-06 the 8.23625e-08 to 4.9112e-08 if 9.27612e-13 i 3.07495e-13
+align 16 </s> 1

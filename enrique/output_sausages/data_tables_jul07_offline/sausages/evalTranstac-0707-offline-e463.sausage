@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.99897 will 0.000639692 well 0.000390474
+align 2 leave 1
+align 3 as 1
+align 4 soon 1
+align 5 as 1
+align 6 possible 1
+align 7 *DELETE* 1 uh 3.62665e-08
+align 8 </s> 1

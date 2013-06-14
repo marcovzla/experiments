@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 job 1
+align 5 position 0.975331 positioned 0.0239112 positions 0.000740822 *DELETE* 1.68037e-05
+align 6 *DELETE* 0.999942 i 3.08401e-05 positioning 1.68037e-05 uh 6.26668e-06 a 3.8978e-06
+align 7 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 way 1
+align 3 we'll 1
+align 4 do 1
+align 5 that 1
+align 6 is 0.952964 as 0.0470364
+align 7 when 0.58931 we 0.301072 so 0.109617
+align 8 you 0.893889 need 0.054049 *DELETE* 0.0520617
+align 9 pinch 0.999942 pinched 5.79391e-05
+align 10 the 0.999003 to 0.000730063 they 9.63341e-05 than 9.52857e-05 a 5.79391e-05 there 1.74334e-05
+align 11 nose 0.92018 knows 0.078915 know 0.00075222 those 9.52857e-05 no 5.04827e-05 notes 6.52534e-06
+align 12 *DELETE* 0.999197 us 0.000750935 is 5.17671e-05 i 1.42865e-07
+align 13 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 um 0.976153 uh 0.0238471
+align 2 do 1
+align 3 you 1
+align 4 provide 1
+align 5 security 1
+align 6 for 1
+align 7 your 1
+align 8 workers 1
+align 9 *DELETE* 0.99998 do 1.96899e-05
+align 10 </s> 1

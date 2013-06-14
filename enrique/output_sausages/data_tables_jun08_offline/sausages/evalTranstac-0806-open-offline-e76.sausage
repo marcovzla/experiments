@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 0.757765 *DELETE* 0.20778 how 0.00934794 i'll 0.00899994 the 0.00875286 well 0.00408766 oh 0.00274117 uh 0.000443195 out 8.25257e-05
+align 2 *DELETE* 0.994587 would 0.00541329
+align 3 like 0.778863 *DELETE* 0.202647 want 0.0144687 alike 0.00394056 liked 8.05664e-05
+align 4 to 0.651591 let's 0.202422 *DELETE* 0.145988
+align 5 see 1
+align 6 what 0.989898 where 0.00988262 with 0.000219303
+align 7 *DELETE* 0.732748 that 0.173695 at 0.0935574
+align 8 is 0.662735 fence 0.267816 i 0.0686533 *DELETE* 0.000796287
+align 9 *DELETE* 0.931347 can 0.0686533
+align 10 inside 0.662735 line 0.251846 sign 0.0686533 on 0.0159696 i've 0.000796287
+align 11 is 0.920292 his 0.032616 this 0.0275327 as 0.0185528 been 0.000796287 it 0.000209864
+align 12 as 0.998805 sinuses 0.000796287 says 0.000209864 is 0.000151424 his 3.75987e-05 has 6.4774e-13
+align 13 well 0.99984 while 0.000119126 wall 3.49865e-05 wa'el 5.27325e-06 wow 3.2288e-07 will 2.6228e-07 whoa 9.56834e-11
+align 14 </s> 1

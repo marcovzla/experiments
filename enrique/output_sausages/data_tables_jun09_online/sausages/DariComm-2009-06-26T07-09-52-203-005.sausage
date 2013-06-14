@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 morning 0.755592 more 0.127693 where 0.0406166 when 0.0262999 wanting 0.0242463 one 0.0162631 warning 0.00339862 what 0.00283931 well 0.00156109 white 0.00108971 why 0.000393056 warnings 7.55709e-06
+align 2 *DELETE* 0.996807 of 0.00291871 are 0.000238851 and 3.57446e-05
+align 3 gentleman 0.968876 gentlemen 0.0310468 enjoyment 7.7534e-05
+align 4 *DELETE* 0.999762 i 0.000163445 uh 7.0698e-05 to 2.33285e-06 if 7.38482e-07 a 3.3878e-07 and 5.3765e-08 you 3.91243e-08 that 6.16358e-09 it 6.0694e-10 do 9.51983e-13 is 8.18141e-13
+align 5 </s> 1

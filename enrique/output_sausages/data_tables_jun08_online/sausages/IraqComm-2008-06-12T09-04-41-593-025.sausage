@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 men 0.772275 *DELETE* 0.227725
+align 5 were 0.604175 mental 0.22414 to 0.149844 *DELETE* 0.0182562 many 0.00194712 then 0.00136813 the 0.000269413
+align 6 *DELETE* 0.999956 men 4.40801e-05
+align 7 *DELETE* 0.570727 observe 0.407432 lives 0.0156549 loads 0.00333952 words 0.00244853 world's 0.000202086 lobes 0.000195103 roads 6.6689e-07
+align 8 observed 0.516369 it 0.213904 *DELETE* 0.187649 observant 0.0521239 there 0.0209619 you 0.00899185
+align 9 *DELETE* 0.989681 it 0.00360798 observing 0.00138251 that 0.00114687 this 0.000892 are 0.000863903 observes 0.000667851 it's 0.000656323 the 0.000610209 observance 0.000141072 at 0.000135653 and 0.000122735 its 9.14424e-05 him 3.78458e-08
+align 10 *DELETE* 0.999698 to 4.90976e-05 hit 4.36608e-05 observers 3.12886e-05 if 2.81607e-05 time 2.51049e-05 tea 2.28799e-05 two 1.97533e-05 can 1.72934e-05 observer 1.12808e-05 their 1.08356e-05 it 5.94096e-06 take 5.57209e-06 or 4.2048e-06 heat 3.50696e-06 tie 3.39745e-06 with 3.31548e-06 do 3.24219e-06 in 3.03604e-06 each 2.49787e-06 eat 1.94227e-06 him 1.91903e-06 them 1.82895e-06 hits 1.4826e-06 key 3.1082e-07 your 2.64154e-07 but 7.98724e-08 you'd 5.48635e-08
+align 11 *DELETE* 1 to 1.65948e-07 thing 6.82642e-08 but 4.2515e-08 each 3.5913e-08 had 3.52152e-08 you'd 3.50192e-08 your 2.64617e-08 what 1.24484e-08 get 6.12788e-09 could 1.43465e-09 a 5.46446e-10 would 1.66001e-10 i 9.4623e-11 they're 1.80288e-11 uh 1.23546e-13 ten 1.0639e-14 is 4.01885e-16 they 2.00031e-17 that's 1.08134e-18 other 5.73419e-19 these 4.25989e-20 his 2.28684e-21 you've 1.24045e-22 it's 8.92953e-23 how 6.3906e-23 the 3.48841e-23 you 1.39154e-23 he 3.88222e-24 an 6.25033e-25 as 3.85893e-25 air 1.97521e-26
+align 12 </s> 1

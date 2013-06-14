@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 he 1
+align 3 need 1
+align 4 anything 0.999307 any 0.000692958
+align 5 *DELETE* 0.999307 thing 0.000692958
+align 6 while 0.994586 well 0.00541366
+align 7 he's 0.997037 these 0.00172947 ease 0.000761359 his 0.000472217
+align 8 resting 0.999709 rest 0.000268391 *DELETE* 2.2244e-05
+align 9 *DELETE* 0.997504 uh 0.00216481 thing 0.000268391 on 3.03416e-05 arresting 2.2244e-05 oh 5.77625e-06 in 3.74821e-06 i 1.18378e-06 them 6.66244e-17 and 9.03206e-18 at 6.77537e-21 a 9.10634e-25 it 4.57143e-25
+align 10 </s> 1

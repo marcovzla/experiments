@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 plan 0.976924 planned 0.0230759
+align 5 for 1
+align 6 getting 0.995487 get 0.00451335
+align 7 *DELETE* 0.994817 in 0.00511131 a 4.96392e-05 and 2.17636e-05
+align 8 new 0.999673 knew 0.00018663 the 0.000121043 nu 1.91285e-05
+align 9 guards 0.999621 guard's 0.000161361 guards' 0.000145015 cards 7.22776e-05
+align 10 *DELETE* 0.999956 uh 3.52834e-05 it 9.17636e-06 i 1.6521e-11
+align 11 </s> 1

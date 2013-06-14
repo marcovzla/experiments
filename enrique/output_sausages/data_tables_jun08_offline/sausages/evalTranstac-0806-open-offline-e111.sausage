@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 let's 0.994317 lets 0.00568286
+align 3 do 0.695849 see 0.30364 you 0.000510533 due 4.85564e-07
+align 4 that 0.758346 that's 0.241633 you 2.05591e-05 the 1.17589e-09
+align 5 *DELETE* 0.999828 it's 9.99649e-05 at 2.39536e-05 its 2.21588e-05 that's 2.05217e-05 it 2.83248e-06 if 1.05044e-06 us 9.67969e-07 is 1.04701e-07 that 3.73921e-08
+align 6 </s> 1

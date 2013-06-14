@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 captain 1
+align 5 watson 1
+align 6 *DELETE* 0.999967 i 3.34469e-05
+align 7 </s> 1

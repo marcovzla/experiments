@@ -1,0 +1,50 @@
+numaligns 48
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.998712 uh 0.00121774 i 7.03891e-05 a 5.84637e-08
+align 2 that's 0.999788 let's 0.000212219
+align 3 why 1
+align 4 you're 0.958087 your 0.0419131
+align 5 an 0.545206 in 0.454794
+align 6 office 0.762069 *DELETE* 0.237931
+align 7 or 0.762069 officer 0.237931
+align 8 is 0.982954 or 0.0170457
+align 9 *DELETE* 0.982954 is 0.0170457
+align 10 that 1
+align 11 you 0.995909 if 0.00409074
+align 12 *DELETE* 0.995909 you 0.00409074
+align 13 you 1
+align 14 must 1
+align 15 you 0.937735 do 0.0622655
+align 16 *DELETE* 0.942648 you 0.0573517
+align 17 uh 1
+align 18 uh 0.907089 *DELETE* 0.0760191 i 0.0138322 and 0.00292898 a 0.000111609 in 1.8687e-05
+align 19 do 1
+align 20 it 1
+align 21 because 1
+align 22 it's 1
+align 23 your 1
+align 24 job 1
+align 25 and 1
+align 26 and 1
+align 27 not 1
+align 28 do 1
+align 29 it 0.908534 that 0.0914658
+align 30 because 1
+align 31 um 1
+align 32 you 1
+align 33 know 1
+align 34 you 1
+align 35 may 0.914771 *DELETE* 0.0852288
+align 36 be 0.914771 maybe 0.0852288
+align 37 influenced 0.922075 influence 0.0779251
+align 38 by 1
+align 39 somebody 1
+align 40 you 0.999495 *DELETE* 0.000504749
+align 41 know 1
+align 42 or 0.367171 are 0.29987 our 0.234857 were 0.0490599 we're 0.0490418
+align 43 because 1
+align 44 so 0.458743 the 0.218844 to 0.164163 sir 0.118626 of 0.027951 uh 0.00440552 they're 0.00399101 i 0.00209769 *DELETE* 0.00117826
+align 45 older 0.988558 all 0.0111646 old 0.000277007 over 7.02905e-09
+align 46 *DELETE* 0.988409 dirt 0.00745833 there 0.00359961 or 0.000271775 their 0.000106694 i 9.37273e-05 uh 5.52149e-05 are 5.23172e-06 a 1.50386e-07
+align 47 </s> 1

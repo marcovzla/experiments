@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 no 0.996678 now 0.00144236 nope 0.00112691 know 0.000752202 go 7.4212e-07
+align 2 *DELETE* 0.997904 uh 0.00143497 i 0.000613257 it 4.77158e-05 by 8.58614e-08
+align 3 </s> 1

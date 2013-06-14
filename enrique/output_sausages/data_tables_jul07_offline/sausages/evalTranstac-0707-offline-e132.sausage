@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 may 0.99959 no 0.00041
+align 2 i 1
+align 3 speak 1
+align 4 if 1
+align 5 you 1
+align 6 free 1
+align 7 few 0.999723 can 0.000167223 to 0.000106613 fuel 2.05454e-06 feel 9.73697e-07
+align 8 moments 1
+align 9 *DELETE* 0.999991 i 7.33813e-06 a 1.22516e-06
+align 10 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 need 1
+align 5 plaster 0.976226 plastered 0.0179078 plasters 0.00586643
+align 6 for 0.919271 force 0.0277916 fork 0.0241986 four 0.0181185 *DELETE* 0.0106206
+align 7 *DELETE* 0.950699 it 0.0197178 uh 0.00609191 work 0.00519758 fourth 0.00502242 you 0.00427412 ford 0.003325 a 0.0025504 forth 0.00221204 the 0.000596101 i 0.000154981 fore 6.1092e-05 that 2.87993e-05 in 2.30652e-05 an 2.30049e-05 to 9.20689e-06 all 4.97246e-06 for 4.44391e-06 four 1.74082e-06 them 1.33577e-06 me 1.22205e-06 fours 6.31753e-10 if 2.66021e-18 two 2.47535e-18
+align 8 </s> 1

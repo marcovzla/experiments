@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 types 1
+align 3 of 1
+align 4 weapons 1
+align 5 do 0.997151 did 0.00284914
+align 6 they 1
+align 7 use 1
+align 8 *DELETE* 0.999995 it 4.80017e-06 used 2.32422e-21
+align 9 </s> 1

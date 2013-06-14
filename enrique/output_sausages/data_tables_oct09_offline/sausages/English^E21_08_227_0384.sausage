@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 way 1
+align 3 they 1
+align 4 can 0.743816 *DELETE* 0.256184
+align 5 uh 0.743816 cannot 0.256184
+align 6 react 0.983287 uh 0.0167134
+align 7 *DELETE* 0.983287 react 0.0167134
+align 8 to 1
+align 9 the 1
+align 10 uh 0.917341 *DELETE* 0.0826593
+align 11 the 1
+align 12 gunfire 0.74761 gun 0.25239
+align 13 *DELETE* 0.74761 fired 0.18773 fire 0.0646603
+align 14 but 1
+align 15 the 0.988551 that 0.0102813 uh 0.00116774
+align 16 immediate 1
+align 17 threat 1
+align 18 is 1
+align 19 that 1
+align 20 vehicle 1
+align 21 *DELETE* 0.987372 in 0.00675513 and 0.00371002 i'm 0.0019538 on 0.000108307 of 0.000100441
+align 22 we 0.999957 only 4.30805e-05
+align 23 need 1
+align 24 to 1
+align 25 stop 1
+align 26 that 1
+align 27 the 0.999054 they 0.000946151
+align 28 immediate 0.776583 media 0.223417
+align 29 threat 0.994287 through 0.00401878 trip 0.00135976 are 0.000288505 there 4.18221e-05 drip 4.07068e-06 to 4.50425e-07
+align 30 *DELETE* 0.995981 it 0.00401878
+align 31 first 1
+align 32 </s> 1

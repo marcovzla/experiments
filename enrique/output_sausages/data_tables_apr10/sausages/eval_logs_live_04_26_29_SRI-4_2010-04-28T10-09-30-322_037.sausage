@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 in 0.566491 and 0.299356 um 0.0739788 m 0.0435012 uh 0.0114699 am 0.0043406 of 0.000862031 an 3.34044e-07
+align 6 *DELETE* 1 you 3.90298e-07
+align 7 give 0.499558 your 0.497844 yeah 0.00144475 you 0.000847047 gimme 0.000305947 have 5.20607e-07
+align 8 *DELETE* 0.999781 have 0.000219272
+align 9 me 0.581971 new 0.290612 knee 0.125824 *DELETE* 0.000965058 have 0.000627645
+align 10 *DELETE* 0.998713 any 0.000703816 the 0.000235731 new 0.000179497 me 0.000167713
+align 11 workers 0.96903 workers' 0.016611 worker's 0.0143589
+align 12 under 1
+align 13 you 0.999996 *DELETE* 4.29267e-06
+align 14 *DELETE* 0.999983 uh 7.48691e-06 i 5.02952e-06 u 4.29257e-06 your 9.26755e-11 you'll 9.00949e-13
+align 15 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 you 0.97441 *DELETE* 0.0255895
+align 2 will 0.973072 you'll 0.0255895 *DELETE* 0.00133813
+align 3 have 1
+align 4 your 1
+align 5 two 1
+align 6 friends 1
+align 7 search 0.738086 to 0.195972 searched 0.0659417 surge 1.71254e-07
+align 8 *DELETE* 0.804028 search 0.195972
+align 9 the 0.98984 a 0.00933408 to 0.000741775 that 2.48298e-05 two 2.26645e-05 of 2.13832e-05 their 1.37052e-05 do 8.69498e-08 *DELETE* 1.43827e-11 it 1.22369e-25
+align 10 car 0.99954 *DELETE* 0.000459866
+align 11 *DELETE* 0.997075 uh 0.00187387 call 0.000459866 in 0.000370424 i 0.000132767 and 3.8837e-05 that 2.34448e-05 to 1.09895e-05 you 4.36991e-06 is 4.05662e-06 at 2.25966e-06 if 1.98516e-06 but 1.06722e-06 now 5.61172e-07 then 3.98777e-07 we 9.17294e-08 so 3.03882e-13 let 2.90971e-13 the 1.70924e-13 it 2.77478e-14
+align 12 </s> 1

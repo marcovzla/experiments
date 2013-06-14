@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 are 0.852543 uh 0.147457
+align 2 *DELETE* 0.852543 are 0.147457
+align 3 these 1
+align 4 men 1
+align 5 uh 1
+align 6 strangers 0.972652 uh 0.0273481
+align 7 *DELETE* 0.972652 strangers 0.0273481
+align 8 to 1
+align 9 the 1
+align 10 area 1
+align 11 *DELETE* 0.999995 i 3.03877e-06 uh 1.69702e-06
+align 12 </s> 1

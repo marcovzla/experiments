@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 wives 1
+align 4 do 1
+align 5 you 1
+align 6 have 0.999947 *DELETE* 5.27724e-05
+align 7 *DELETE* 0.997413 uh 0.00134456 a 0.000888404 it 0.000206642 to 8.79442e-05 know 5.27724e-05 the 3.35873e-06 in 2.04858e-06 that 1.15907e-06 i 6.02601e-13 on 6.29372e-19
+align 8 </s> 1

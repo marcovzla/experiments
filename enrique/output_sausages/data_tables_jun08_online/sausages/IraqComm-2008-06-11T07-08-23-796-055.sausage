@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 projects 1
+align 3 have 1
+align 4 you 1
+align 5 worked 1
+align 6 on 1
+align 7 *DELETE* 0.999302 uh 0.000668556 it 2.9669e-05 a 2.45488e-07
+align 8 </s> 1

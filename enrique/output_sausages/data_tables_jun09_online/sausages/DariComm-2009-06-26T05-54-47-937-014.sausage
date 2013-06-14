@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 0.994888 *DELETE* 0.00511158
+align 2 *DELETE* 0.990231 i 0.00976892
+align 3 am 0.994888 i'm 0.00511158
+align 4 well 1
+align 5 all 0.985637 i'll 0.0143633
+align 6 blocked 1
+align 7 yourselves 1
+align 8 *DELETE* 0.999958 okay 3.98425e-05 uh 2.38487e-06 it 5.42152e-10 to 2.02116e-10 oh 7.65757e-15 i 6.55328e-15
+align 9 </s> 1

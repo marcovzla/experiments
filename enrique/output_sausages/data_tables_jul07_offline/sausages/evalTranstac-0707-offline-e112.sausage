@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 can 1
+align 3 try 1
+align 4 this 1
+align 5 medicine 1
+align 6 um 1
+align 7 but 1
+align 8 what 1
+align 9 i 1
+align 10 also 0.998344 i 0.00165586
+align 11 *DELETE* 0.998344 also 0.00165586
+align 12 want 1
+align 13 you 1
+align 14 to 1
+align 15 do 1
+align 16 is 1
+align 17 boil 1
+align 18 your 1
+align 19 water 1
+align 20 before 1
+align 21 you 1
+align 22 drink 1
+align 23 it 0.999977 yet 2.2385e-05 at 9.7275e-07
+align 24 </s> 1

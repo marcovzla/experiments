@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 but 0.982693 that 0.0173069
+align 3 uh 0.961807 i 0.0209243 *DELETE* 0.0172691
+align 4 *DELETE* 0.708956 uh 0.243302 i 0.0477421
+align 5 *DELETE* 0.990084 i 0.00842454 uh 0.00149138
+align 6 we 1
+align 7 so 0.914876 saw 0.0596837 still 0.0188198 sow 0.00518154 sell 0.00143904
+align 8 that 0.999732 *DELETE* 0.000268013
+align 9 they're 0.912639 their 0.0609326 they 0.0133546 there 0.0125829 there's 0.00049086
+align 10 still 1
+align 11 more 1
+align 12 things 1
+align 13 on 0.964021 are 0.0253616 *DELETE* 0.0106174
+align 14 *DELETE* 0.386198 non 0.233812 on 0.2283 the 0.146294 nan 0.0053964
+align 15 uh 0.924619 *DELETE* 0.057613 now 0.017768
+align 16 on 0.521874 *DELETE* 0.467509 non 0.0106174
+align 17 uh 0.534006 *DELETE* 0.465943 search 5.18338e-05
+align 18 *DELETE* 0.998363 uh 0.00108791 search 0.000548726
+align 19 searching 0.999399 in 0.000600554 and 5.84064e-09
+align 20 the 1
+align 21 vehicle 0.999948 vehicles 5.24701e-05
+align 22 *DELETE* 0.99997 uh 2.95818e-05
+align 23 </s> 1

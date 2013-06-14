@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 now 1
+align 3 let's 0.794543 i'll 0.205457
+align 4 *DELETE* 0.794543 let's 0.205457
+align 5 let's 1
+align 6 talk 1
+align 7 about 1
+align 8 the 1
+align 9 mounted 1
+align 10 patrol 1
+align 11 that 1
+align 12 we're 0.997647 were 0.00235286
+align 13 going 0.671866 gonna 0.328134
+align 14 be 1 to 3.66919e-09
+align 15 conducting 1
+align 16 uh 0.912285 out 0.0826037 a 0.00431226 *DELETE* 0.00079928
+align 17 around 1
+align 18 the 1
+align 19 area 1
+align 20 of 1
+align 21 the 1
+align 22 uh 0.999911 *DELETE* 8.8654e-05
+align 23 the 0.995635 to 0.00174639 their 0.00118544 they're 0.000964971 there 0.000468197
+align 24 recruiting 1
+align 25 </s> 1

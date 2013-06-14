@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 0.999997 can 3.22726e-06
+align 2 you 1
+align 3 understand 1
+align 4 what 1
+align 5 a 0.999917 the 8.34241e-05
+align 6 breaching 1
+align 7 element 1
+align 8 is 0.882082 it 0.0980216 *DELETE* 0.0190173 a 0.000640377 in 0.000238601
+align 9 *DELETE* 0.881635 is 0.0951631 it's 0.0098714 its 0.00481182 as 0.00419868 was 0.0032847 iz 0.000537044 a 0.000224173 uh 0.000221658 airs 2.60059e-05 s 2.13287e-05 heirs 3.08373e-06 i 1.40833e-06 ears 6.66637e-07 this 9.5213e-10 us 3.25609e-10
+align 10 </s> 1

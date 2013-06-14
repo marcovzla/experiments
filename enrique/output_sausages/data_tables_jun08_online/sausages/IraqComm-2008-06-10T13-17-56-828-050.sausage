@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 turn 0.992479 turned 0.00556621 i 0.00195458
+align 2 *DELETE* 0.998045 turn 0.00195458
+align 3 your 1
+align 4 safety 1
+align 5 to 0.983657 two 0.0131914 too 0.00315129
+align 6 read 0.919097 red 0.0809035
+align 7 if 0.441658 it 0.351856 that 0.0501619 the 0.0441117 to 0.0375147 *DELETE* 0.0295051 day 0.0276747 and 0.0175174
+align 8 if 0.558342 *DELETE* 0.441658
+align 9 the 1
+align 10 enemy 1
+align 11 is 1
+align 12 closer 0.687841 close 0.312159
+align 13 *DELETE* 0.687841 there 0.312159
+align 14 and 0.840666 *DELETE* 0.159334 their 2.35666e-08 in 1.28045e-11
+align 15 then 0.84079 than 0.142649 them 0.0165617
+align 16 two 0.928868 to 0.0711318
+align 17 blocks 0.942013 block 0.0579873
+align 18 *DELETE* 1 uh 2.18638e-08 i 2.87778e-11
+align 19 </s> 1

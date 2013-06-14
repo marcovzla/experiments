@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 we 0.999668 you 0.000331745
+align 3 *DELETE* 0.517581 want 0.482419
+align 4 won't 0.515956 *DELETE* 0.459466 to 0.0229071 wanna 0.0015205 one 5.86648e-05 won 4.59742e-05 uh 2.12743e-05 i 1.6839e-05 a 7.84384e-06
+align 5 have 1
+align 6 these 1
+align 7 contain 0.827769 contained 0.140782 can 0.0254528 *DELETE* 0.00599617
+align 8 *DELETE* 0.968551 team 0.0254528 continue 0.00510637 contains 0.000889802
+align 9 patrols 0.995494 patrol's 0.00450601
+align 10 continuously 1
+align 11 going 0.999982 *DELETE* 1.7628e-05
+align 12 *DELETE* 0.995375 uh 0.00291639 i 0.000906861 in 0.000295923 to 0.000251739 up 0.000181021 oh 2.32973e-05 doing 1.7628e-05 on 9.02727e-06 if 8.04188e-06 high 7.62072e-06 it 4.19895e-06 how 2.32581e-06 a 6.49225e-07 i'm 6.34581e-08
+align 13 </s> 1

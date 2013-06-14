@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 i'll 0.999649 i 0.000350771
+align 2 *DELETE* 0.999649 will 0.000350771
+align 3 be 1
+align 4 in 0.952918 *DELETE* 0.047082
+align 5 the 0.952918 any 0.047082
+align 6 area 1
+align 7 again 1
+align 8 in 0.944767 and 0.0552333
+align 9 a 0.999859 the 0.000141499
+align 10 month 1
+align 11 or 0.995428 there 0.0045717
+align 12 so 1
+align 13 *DELETE* 0.995805 i 0.00419541
+align 14 when 0.686778 and 0.245479 *DELETE* 0.0310976 i 0.0212213 on 0.0131339 i'd 0.00197539 in 0.000315135
+align 15 *DELETE* 0.994842 and 0.00515791
+align 16 i'll 0.988797 and 0.00928136 *DELETE* 0.00192153
+align 17 *DELETE* 0.988797 i'll 0.0112029
+align 18 be 1
+align 19 able 1
+align 20 to 1
+align 21 give 1
+align 22 you 0.998296 your 0.00170439
+align 23 report 0.876329 a 0.123671
+align 24 *DELETE* 0.876329 report 0.123671
+align 25 on 0.999763 out 0.000236806
+align 26 our 1
+align 27 progress 1
+align 28 at 0.999722 *DELETE* 0.000277166 that 3.72642e-07
+align 29 that 0.99631 the 0.00369049
+align 30 time 1
+align 31 *DELETE* 1 i 3.04979e-08
+align 32 </s> 1

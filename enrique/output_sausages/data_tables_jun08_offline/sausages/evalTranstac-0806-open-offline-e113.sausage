@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 exactly 0.434885 yeah 0.404336 uh 0.112256 a 0.0208264 *DELETE* 0.0191883 they 0.00547205 okay 0.00290346 so 0.000133225
+align 2 exactly 0.565115 *DELETE* 0.434885
+align 3 it's 0.757133 its 0.209547 us 0.0333201
+align 4 why 1
+align 5 don't 1
+align 6 want 0.8334 *DELETE* 0.1666
+align 7 you 0.969138 watch 0.0305909 *DELETE* 0.000270689
+align 8 to 0.901086 the 0.0393858 it 0.0305909 uh 0.028937
+align 9 *DELETE* 0.937322 a 0.031767 up 0.0305909 the 0.000270689 uh 4.92523e-05
+align 10 point 0.600846 appoint 0.399154
+align 11 right 0.986151 rate 0.00470148 red 0.00393054 read 0.00308115 write 0.00212739 re 8.82283e-06
+align 12 at 0.998414 up 0.00104849 out 0.000512919 that 2.48471e-05
+align 13 the 0.9984 a 0.000820692 that 0.000496156 *DELETE* 0.000283383
+align 14 house 1
+align 15 *DELETE* 0.99997 uh 2.65613e-05 i 3.80509e-06
+align 16 </s> 1

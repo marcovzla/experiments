@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 white 0.664701 why 0.331095 wide 0.00321704 wife 0.000960361 y 2.65186e-05 *DELETE* 1.56365e-23
+align 2 *DELETE* 0.999996 i 4.13704e-06 wai 4.71545e-08 you 3.1224e-09
+align 3 *DELETE* 1 why 1.08151e-17 do 1.05725e-18 uh 3.37464e-23
+align 4 </s> 1

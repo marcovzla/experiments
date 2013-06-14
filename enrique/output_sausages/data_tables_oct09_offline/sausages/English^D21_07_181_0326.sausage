@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 that's 0.999868 that 0.000131663
+align 2 something 1
+align 3 i 0.999978 that 2.17681e-05
+align 4 *DELETE* 0.995519 i 0.00448059
+align 5 can 1
+align 6 give 0.4937 get 0.491154 do 0.0151467
+align 7 my 1
+align 8 hands 1
+align 9 on 1
+align 10 i 1
+align 11 *DELETE* 0.572217 can 0.427783
+align 12 cannot 0.572217 i 0.370806 uh 0.0569773
+align 13 help 1
+align 14 you 1
+align 15 with 1
+align 16 more 1
+align 17 in 1
+align 18 the 1
+align 19 future 1
+align 20 </s> 1

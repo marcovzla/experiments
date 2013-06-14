@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 ammunition 0.988353 the 0.0116475
+align 4 *DELETE* 0.988353 ammunition 0.0116475
+align 5 and 0.98685 in 0.0131503
+align 6 uh 1
+align 7 *DELETE* 0.533532 oh 0.333524 uh 0.132944
+align 8 well 0.989717 what 0.00545881 while 0.00482376
+align 9 we're 0.999219 word 0.000634324 were 0.000146393
+align 10 just 1
+align 11 gonna 0.987751 going 0.0122494
+align 12 *DELETE* 0.987751 to 0.0122494
+align 13 do 0.929812 doing 0.0701878
+align 14 now 1
+align 15 we're 1 it's 6.22967e-09 is 4.95744e-09
+align 16 just 1 going 1.11871e-08
+align 17 gonna 0.999998 going 1.82957e-06 to 1.11871e-08
+align 18 *DELETE* 0.999998 to 1.82957e-06
+align 19 go 1
+align 20 ahead 1
+align 21 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.84813 well 0.143743 we'll 0.0051784 while 0.00288678 wow 6.18605e-05
+align 2 construction 1
+align 3 company 1
+align 4 do 1
+align 5 you 1
+align 6 work 1
+align 7 for 0.999982 four 1.80642e-05
+align 8 *DELETE* 1 a 3.4205e-14
+align 9 </s> 1

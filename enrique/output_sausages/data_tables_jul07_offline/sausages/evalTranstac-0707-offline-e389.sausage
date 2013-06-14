@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 doesn't 1
+align 2 that 1
+align 3 uh 1
+align 4 make 0.992891 makes 0.00710931
+align 5 you 1
+align 6 oil 1
+align 7 filter 1
+align 8 where 0.61359 wear 0.380846 were 0.00350058 we're 0.00112682 ware 0.000581738 aware 0.000354431
+align 9 out 0.853846 are 0.130377 our 0.0153605 or 0.000281816 route 0.000134589
+align 10 *DELETE* 0.853981 out 0.146019
+align 11 faster 1 fast 5.30982e-09
+align 12 *DELETE* 0.999989 i 7.89149e-06 uh 3.58866e-06 or 5.30982e-09
+align 13 </s> 1

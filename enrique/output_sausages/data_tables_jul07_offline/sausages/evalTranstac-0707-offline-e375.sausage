@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 if 0.941987 uh 0.0567266 a 0.00104694 yeah 0.000138192 okay 0.000101141
+align 2 *DELETE* 0.94192 if 0.05808
+align 3 you 1
+align 4 look 1
+align 5 at 1
+align 6 the 1
+align 7 other 1
+align 8 soldiers 1
+align 9 they 1
+align 10 are 1
+align 11 ready 1
+align 12 but 1
+align 13 they 1
+align 14 are 1
+align 15 not 1
+align 16 holding 0.8472 meaning 0.107659 aiming 0.018686 being 0.0118891 gaining 0.0101735 owning 0.00298121 only 0.000997761 painting 0.000413773
+align 17 *DELETE* 0.987113 in 0.0128868
+align 18 their 0.987078 there 0.00996047 they 0.00106057 they're 0.00100041 the 0.000900587
+align 19 weapons 1
+align 20 at 0.994535 uh 0.00399581 a 0.00146893
+align 21 innocent 1
+align 22 people 0.999929 peoples 7.07512e-05 people's 3.5311e-08
+align 23 </s> 1

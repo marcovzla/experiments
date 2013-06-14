@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 fuel 0.927396 you'll 0.0725946 the 9.59958e-06
+align 5 *DELETE* 0.99999 you'll 9.59958e-06
+align 6 do 1
+align 7 you 1
+align 8 require 1
+align 9 for 1
+align 10 your 0.999845 you're 0.000106196 *DELETE* 4.90311e-05
+align 11 generators 1
+align 12 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 yes 0.996317 it 0.0036829
+align 2 you 0.882023 she 0.10904 shoots 0.00893707
+align 3 should 0.991063 *DELETE* 0.00506378 the 0.00387329
+align 4 decide 0.987782 the 0.00834433 side 0.00203563 *DELETE* 0.00183766
+align 5 *DELETE* 0.989818 side 0.010182
+align 6 in 0.998137 a 0.00177558 and 8.70222e-05
+align 7 case 1
+align 8 of 1
+align 9 a 0.999803 the 0.000197492
+align 10 ricky 0.534309 rikki 0.114978 rickey 0.114978 ricki 0.114978 rickie 0.114978 wreaking 0.00528 repeat 0.000417811 rick 7.53728e-05 wreak 6.82941e-06
+align 11 *DELETE* 0.999918 as 8.22022e-05
+align 12 shade 0.890518 shit 0.0699592 sheet 0.0378381 shape 0.000715089 sheikh 0.000399774 shaheed 0.000312113 shake 9.03614e-05 shaved 5.2911e-05 sheep 4.78463e-05 shaped 3.81145e-05 shiite 1.20067e-05 she 8.13233e-06 shoot 7.61033e-06 sheets 6.89858e-07 seat 1.63395e-08
+align 13 *DELETE* 1 eat 1.26686e-07 need 7.09907e-08
+align 14 </s> 1

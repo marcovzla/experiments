@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you're 0.967441 your 0.0325592
+align 2 taking 1
+align 3 vegetables 1
+align 4 two 0.842981 to 0.1401 too 0.0169185
+align 5 hours 0.870372 ours 0.128607 our 0.00102102
+align 6 through 0.987709 for 0.00954963 threw 0.00253579 three 0.000205351
+align 7 the 1
+align 8 desert 0.999998 deserts 2.34609e-06
+align 9 *DELETE* 0.999998 it 1.89406e-06 i 3.01487e-07
+align 10 </s> 1

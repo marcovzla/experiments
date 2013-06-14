@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 okay 0.999078 a 0.000922104
+align 2 good 1
+align 3 good 0.991427 *DELETE* 0.00857327
+align 4 morning 1
+align 5 uh 0.825625 *DELETE* 0.174375
+align 6 add 0.248168 i'd 0.211778 today 0.203056 at 0.157572 it 0.095301 *DELETE* 0.0712758 to 0.012352 too 0.000261892 two 0.000235705
+align 7 today 0.796195 *DELETE* 0.203056 they 0.00074892
+align 8 uh 1
+align 9 or 0.51864 our 0.286301 are 0.181602 her 0.0134569
+align 10 *DELETE* 0.814113 our 0.185887
+align 11 or 0.814113 purpose 0.165757 *DELETE* 0.0201294
+align 12 purposes 0.701966 is 0.165757 purpose 0.132277
+align 13 *DELETE* 0.867723 is 0.132277
+align 14 to 0.975098 too 0.0199803 two 0.00492208
+align 15 uh 1
+align 16 discuss 1
+align 17 the 0.702541 *DELETE* 0.170297 in 0.0884153 an 0.0316583 uh 0.00708815
+align 18 upcoming 1
+align 19 military 0.640336 milton 0.359664
+align 20 operation 1
+align 21 by 0.958057 are 0.0419433
+align 22 using 1
+align 23 this 1
+align 24 sand 0.999547 same 0.000452858 san 8.48095e-08
+align 25 table 0.996406 tables 0.00353246 tape 6.19373e-05
+align 26 *DELETE* 0.999999 i 5.13039e-07 uh 1.6472e-09
+align 27 </s> 1

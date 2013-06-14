@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 the 1
+align 3 first 1
+align 4 thing 1
+align 5 we're 1
+align 6 gonna 0.990279 going 0.00972114
+align 7 *DELETE* 0.990279 to 0.00972114
+align 8 go 1
+align 9 into 1
+align 10 is 1
+align 11 uh 1
+align 12 triage 0.996204 tree 0.00379614 tea 2.71706e-12
+align 13 *DELETE* 0.996204 arch 0.00379613 uh 1.14794e-08 is 7.10655e-09
+align 14 </s> 1

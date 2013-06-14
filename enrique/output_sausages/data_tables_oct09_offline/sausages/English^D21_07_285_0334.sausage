@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 0.999967 the 3.27951e-05
+align 3 uh 0.648361 *DELETE* 0.351639
+align 4 that 0.957232 that's 0.0427675
+align 5 fridge 0.847894 for 0.151683 free 0.000423117
+align 6 *DELETE* 0.847894 each 0.152106
+align 7 as 0.99936 has 0.000640212
+align 8 just 0.998889 jess 0.00111106
+align 9 as 1
+align 10 it's 0.659863 this 0.166609 as 0.0740174 its 0.0382806 us 0.0328124 his 0.0262213 is 0.00187635 just 0.000319691
+align 11 gone 0.576429 gun 0.331706 kind 0.0725088 gotten 0.0183832 got 0.000876819 gotta 9.6451e-05
+align 12 *DELETE* 0.999046 a 0.000876819 we're 7.74464e-05
+align 13 word 0.999258 were 0.000603659 done 7.74464e-05 ward 6.05695e-05
+align 14 that 0.999752 done 8.00768e-05 at 6.17661e-05 bad 4.71119e-05 it 3.62492e-05 dented 2.23822e-05
+align 15 *DELETE* 0.999911 at 4.35918e-05 it 3.6485e-05 that 8.50324e-06
+align 16 that's 0.994563 there's 0.00249091 it 0.00232871 at 0.000559675 thus 4.94433e-05 it's 8.50324e-06
+align 17 *DELETE* 0.997112 that's 0.00288838
+align 18 been 0.999984 being 1.46738e-05 bin 1.6932e-06
+align 19 fixed 1
+align 20 *DELETE* 1 i 5.24017e-08
+align 21 </s> 1

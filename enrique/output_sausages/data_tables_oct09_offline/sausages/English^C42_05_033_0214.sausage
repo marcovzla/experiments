@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i 0.986287 uh 0.0137134
+align 3 *DELETE* 0.986287 i 0.0137134
+align 4 would 0.931852 i 0.0681482
+align 5 *DELETE* 0.931852 would 0.0681482
+align 6 like 1
+align 7 to 1
+align 8 explain 1
+align 9 what 1
+align 10 uh 1
+align 11 the 0.915853 uh 0.0841473
+align 12 *DELETE* 0.91585 the 0.0841473 job 2.33255e-06
+align 13 jobs 0.998909 job's 0.00108892 as 2.33255e-06
+align 14 are 0.999439 our 0.00049853 r 6.2798e-05 or 2.56879e-09
+align 15 *DELETE* 0.996097 are 0.00385319 uh 1.97991e-05 a 1.37209e-05 i 1.24811e-05 in 3.31195e-06 you 1.89967e-07 our 4.59879e-10
+align 16 </s> 1

@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 uh 0.661445 um 0.338555
+align 2 what 1
+align 3 kind 1
+align 4 of 1
+align 5 drugs 1
+align 6 do 1
+align 7 you 1
+align 8 have 1
+align 9 on 1 one 7.32885e-18
+align 10 hand 1
+align 11 and 1
+align 12 what 0.737465 what's 0.262535
+align 13 the 0.674347 to 0.194265 some 0.0915524 in 0.0294376 so 0.0103979
+align 14 most 0.951614 of 0.0483855
+align 15 pressing 1
+align 16 need 1
+align 17 you 0.995454 do 0.00416423 u 0.000317393 to 4.77045e-05 your 1.67407e-05
+align 18 *DELETE* 0.995836 you 0.00416423
+align 19 have 1 *DELETE* 3.04969e-13
+align 20 *DELETE* 0.999044 uh 0.000699916 a 0.000214762 to 2.10109e-05 i 1.79956e-05 it 2.55955e-06 half 1.19198e-08 you 3.66119e-09
+align 21 </s> 1

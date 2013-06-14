@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 i 1
+align 3 *DELETE* 0.999922 i 7.82402e-05
+align 4 don't 1
+align 5 know 1
+align 6 who 0.941172 *DELETE* 0.058828 the 1.84541e-09
+align 7 your 0.999686 you're 0.000313603
+align 8 brother 1
+align 9 is 0.999989 as 1.09626e-05 iz 2.32518e-07
+align 10 *DELETE* 0.999997 a 3.48662e-06
+align 11 </s> 1

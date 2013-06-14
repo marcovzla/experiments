@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 about 1
+align 3 the 1
+align 4 talaban 0.999982 *DELETE* 1.34055e-05 tab 4.37657e-06 tall 1.05301e-07
+align 5 *DELETE* 0.991101 uh 0.00191557 i 0.00164534 it 0.00132872 is 0.00127218 you 0.000976428 in 0.000532154 do 0.000375422 a 0.000276456 to 0.000136932 me 8.2767e-05 the 5.85897e-05 that 5.13814e-05 and 5.03648e-05 so 4.47488e-05 if 4.21133e-05 as 3.18933e-05 at 1.68446e-05 an 1.52409e-05 touban 1.34055e-05 them 1.13509e-05 i'm 8.70221e-06 they 5.87633e-06 but 1.95774e-06 your 1.63183e-06 let 1.33642e-06 like 8.78083e-07 we 3.35892e-07 band 1.05301e-07 you're 2.2338e-09 look 1.51032e-09 all 1.04215e-09 due 1.0105e-10 who 4.79662e-12 it's 4.0115e-13
+align 6 </s> 1

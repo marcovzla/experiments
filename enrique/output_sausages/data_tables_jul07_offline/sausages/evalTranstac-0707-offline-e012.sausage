@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 that's 0.629195 it's 0.328385 its 0.0418825 uh 0.000537637
+align 2 *DELETE* 0.999462 it's 0.000537637
+align 3 it 0.99862 in 0.00123542 it's 0.000144201
+align 4 let's 0.861623 lets 0.138377
+align 5 go 1
+align 6 or 0.806144 *DELETE* 0.175489 we're 0.0131008 where 0.00496474 for 0.000301383
+align 7 out 0.824513 around 0.175477 route 9.56298e-06 at 1.56374e-07 any 1.26868e-07 ratted 1.82088e-11
+align 8 *DELETE* 0.525008 of 0.474482 a 0.00042021 in 8.94615e-05 at 1.49551e-07 it 5.35095e-08
+align 9 here 0.999994 hear 5.69173e-06
+align 10 *DELETE* 0.999998 uh 1.7242e-06 i 1.89822e-07
+align 11 </s> 1

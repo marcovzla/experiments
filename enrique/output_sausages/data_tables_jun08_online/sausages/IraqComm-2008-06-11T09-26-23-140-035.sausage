@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 workers 1
+align 5 do 1
+align 6 you 1
+align 7 employ 0.829189 employed 0.170722 *DELETE* 8.85061e-05
+align 8 *DELETE* 0.992077 a 0.00733252 you 0.000312694 in 0.000155694 employs 8.29676e-05 i 1.99408e-05 to 7.29665e-06 the 6.38217e-06 employee 5.53759e-06 or 2.78213e-09 employing 9.05435e-10 it 4.36865e-10 an 5.14371e-16
+align 9 </s> 1

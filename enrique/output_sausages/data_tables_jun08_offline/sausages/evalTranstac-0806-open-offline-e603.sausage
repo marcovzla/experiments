@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 let's 0.996872 lets 0.00312823
+align 2 work 0.999991 worked 9.07821e-06
+align 3 together 1
+align 4 so 1
+align 5 we 1
+align 6 can 1
+align 7 find 1
+align 8 a 1
+align 9 way 1
+align 10 to 1
+align 11 identify 0.983622 uh 0.0163783
+align 12 *DELETE* 0.983622 identify 0.0163783
+align 13 the 0.999733 that 0.000206775 their 6.05303e-05
+align 14 vehicle 1
+align 15 *DELETE* 0.999407 uh 0.000592127 i 6.56882e-07
+align 16 </s> 1

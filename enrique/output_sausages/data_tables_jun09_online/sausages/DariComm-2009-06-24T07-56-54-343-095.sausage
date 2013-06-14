@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 a 0.987179 are 0.0119498 of 0.000852944 *DELETE* 1.86385e-05
+align 4 *DELETE* 0.999481 of 0.000518785
+align 5 different 1
+align 6 place 1
+align 7 to 1
+align 8 put 1
+align 9 the 1
+align 10 trash 1
+align 11 *DELETE* 0.996519 in 0.00293419 uh 0.000527056 to 8.31769e-06 do 8.05609e-06 i 3.40176e-06 the 3.65942e-07 and 1.10465e-08 you 1.40906e-13 so 5.10298e-14
+align 12 </s> 1

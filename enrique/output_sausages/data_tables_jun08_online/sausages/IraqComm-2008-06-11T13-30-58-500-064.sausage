@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 0.999344 *DELETE* 0.000656286 can 3.25907e-08
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 0.873036 of 0.126964
+align 7 americans 0.988591 american's 0.0114088
+align 8 going 1
+align 9 to 1
+align 10 the 1
+align 11 mosque 1
+align 12 </s> 1

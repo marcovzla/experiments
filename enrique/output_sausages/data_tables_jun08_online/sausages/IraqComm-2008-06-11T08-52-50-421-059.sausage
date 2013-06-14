@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999806 you 0.000181409 i 1.24288e-05
+align 2 can 1
+align 3 you 1
+align 4 please 1
+align 5 repeat 1
+align 6 what 1
+align 7 you 1
+align 8 just 1
+align 9 said 1
+align 10 *DELETE* 0.984868 it 0.0151082 in 2.32428e-05 i 3.05644e-07 uh 4.10463e-08 set 2.34765e-18
+align 11 </s> 1

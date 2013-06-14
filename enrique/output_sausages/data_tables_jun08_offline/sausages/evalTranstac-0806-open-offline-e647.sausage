@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 additionally 1
+align 2 are 1
+align 3 you 1
+align 4 prepared 1
+align 5 *DELETE* 0.999928 to 7.17296e-05
+align 6 if 1
+align 7 you 1
+align 8 detain 1
+align 9 the 1
+align 10 individuals 1
+align 11 are 1
+align 12 you 1
+align 13 prepared 0.999482 prepare 0.000517923
+align 14 to 1
+align 15 take 1
+align 16 them 1
+align 17 back 1
+align 18 to 1
+align 19 the 1
+align 20 police 1
+align 21 station 1
+align 22 </s> 1

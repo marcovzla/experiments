@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.997923 i 0.00207718
+align 2 did 1
+align 3 you 1
+align 4 have 0.997444 had 0.00255558
+align 5 success 1
+align 6 with 1
+align 7 these 0.999877 ease 0.000121579 fees 1.31615e-06
+align 8 actions 1
+align 9 </s> 1

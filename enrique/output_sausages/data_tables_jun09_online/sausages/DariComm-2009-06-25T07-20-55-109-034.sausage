@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i'll 0.998073 we'll 0.000978951 all 0.000756607 well 0.000191521
+align 2 talk 1
+align 3 to 1
+align 4 my 1
+align 5 command 0.515672 *DELETE* 0.474655 commanders 0.00967261
+align 6 and 0.488826 commander 0.474655 *DELETE* 0.0365191
+align 7 see 0.99531 to 0.00468964
+align 8 *DELETE* 0.99531 see 0.00468964
+align 9 what 1
+align 10 i 1
+align 11 can 1
+align 12 do 1
+align 13 *DELETE* 0.997793 it 0.00110152 uh 0.000378349 you 0.000333549 is 0.000163197 i 0.000157018 that 4.76311e-05 to 2.43219e-05 a 6.78797e-07 so 1.82594e-07 this 1.18505e-07 do 3.92016e-08 the 1.50211e-10
+align 14 </s> 1

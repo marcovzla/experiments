@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 all 0.976635 i'll 0.0212971 *DELETE* 0.00206778
+align 2 *DELETE* 0.97507 be 0.0145604 by 0.0103696
+align 3 come 0.671549 become 0.326383 abham 0.00206778
+align 4 up 1
+align 5 here 0.999995 hear 5.30258e-06
+align 6 every 1
+align 7 afternoon 1
+align 8 *DELETE* 0.989231 with 0.00879627 of 0.00197248
+align 9 the 0.878819 to 0.10563 with 0.0105826 *DELETE* 0.00496882
+align 10 *DELETE* 0.984449 a 0.0155514
+align 11 local 1
+align 12 police 1
+align 13 and 1
+align 14 we'll 0.388055 will 0.366607 *DELETE* 0.221502 would 0.0238362
+align 15 be 0.932316 the 0.0541837 do 0.0134635 b 3.65958e-05
+align 16 one 0.99607 won't 0.00232754 want 0.000866732 won 0.000697215 wan 3.08427e-05 when 7.80125e-06
+align 17 patrol 0.999988 *DELETE* 1.24886e-05
+align 18 *DELETE* 0.999887 uh 5.89961e-05 i 3.28924e-05 patrols 1.24886e-05 if 5.1732e-06 a 1.90885e-06 in 1.66191e-06 of 6.32582e-08
+align 19 </s> 1

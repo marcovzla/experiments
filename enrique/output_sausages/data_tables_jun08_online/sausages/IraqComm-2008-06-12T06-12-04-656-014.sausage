@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.999873 *DELETE* 0.000126651 well 1.34239e-07
+align 2 going 0.994969 glad 0.00490399 *DELETE* 0.000126651 god 1.9793e-07 good 8.9257e-10
+align 3 to 0.999643 *DELETE* 0.000187793 god 8.91978e-05 if 4.22629e-05 okay 3.74534e-05
+align 4 *DELETE* 0.885836 do 0.105261 hear 0.00467413 be 0.00422898
+align 5 a 0.786595 offend 0.114783 *DELETE* 0.0931809 your 0.00444179 it 0.000386524 who 0.000353039 if 0.000223215 are 2.14527e-05 an 5.70312e-06 and 5.25932e-06 i 4.28467e-06
+align 6 *DELETE* 0.99998 there 1.1205e-05 they 8.93564e-06
+align 7 *DELETE* 0.999817 an 0.000118588 family 2.72959e-05 do 1.32203e-05 who 1.1205e-05 fan 8.47818e-06 found 2.61205e-06 you 1.31203e-06 and 2.8269e-07
+align 8 family's 0.616935 families 0.246016 is 0.114927 family 0.0212675 fan 0.000830353 *DELETE* 2.41545e-05 these 2.94813e-08
+align 9 *DELETE* 0.977878 is 0.022122
+align 10 doing 1 don't 1.24027e-23
+align 11 well 0.999957 while 4.30868e-05
+align 12 </s> 1

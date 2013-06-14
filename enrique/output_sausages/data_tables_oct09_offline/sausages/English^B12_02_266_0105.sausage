@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 uh 1
+align 4 does 1
+align 5 each 1
+align 6 officer 1
+align 7 have 1
+align 8 his 1
+align 9 own 1
+align 10 weapon 0.999802 a 0.000118172 *DELETE* 8.01325e-05
+align 11 *DELETE* 0.999802 weapon 0.000118172 weapons 8.01325e-05
+align 12 </s> 1

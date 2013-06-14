@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 1 *DELETE* 5.27172e-39
+align 2 were 1
+align 3 you 1
+align 4 born 1
+align 5 *DELETE* 0.997268 in 0.0027325
+align 6 </s> 1

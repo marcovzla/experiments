@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 need 1
+align 3 to 0.999101 *DELETE* 0.00089942
+align 4 dig 1
+align 5 too 0.951683 to 0.0311945 two 0.0171225
+align 6 well 1
+align 7 olds 0.786628 also 0.106916 old's 0.0671471 is 0.0157548 as 0.012243 *DELETE* 0.0113109 all 5.60513e-10
+align 8 *DELETE* 0.999969 i 1.80664e-05 a 1.12071e-05 uh 2.10731e-06 to 4.26862e-08 it 3.60807e-08 if 4.84069e-09 you 4.16385e-09
+align 9 </s> 1

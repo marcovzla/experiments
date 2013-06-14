@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 it 0.565859 *DELETE* 0.325205 is 0.108935
+align 2 is 0.891065 *DELETE* 0.108935
+align 3 the 1
+align 4 water 1
+align 5 most 0.916761 in 0.0824448 of 0.000659063 and 0.000135048
+align 6 *DELETE* 0.916761 most 0.083239
+align 7 important 1
+align 8 to 0.970063 you 0.0152556 too 0.0142492 two 0.000432508
+align 9 you 1
+align 10 and 1
+align 11 your 1
+align 12 family 1
+align 13 or 0.968423 are 0.0315774
+align 14 the 0.904042 you 0.0959581
+align 15 electricity 1
+align 16 most 1
+align 17 important 1
+align 18 your 0.586194 to 0.413806
+align 19 *DELETE* 0.586194 your 0.413806
+align 20 family 1
+align 21 or 1
+align 22 the 0.980616 are 0.0193836
+align 23 *DELETE* 0.980616 the 0.0193836
+align 24 sewers 0.816501 sewerage 0.143087 sewer's 0.0404114
+align 25 most 1
+align 26 important 0.998643 importance 0.00135685
+align 27 *DELETE* 0.999998 uh 1.62969e-06
+align 28 </s> 1

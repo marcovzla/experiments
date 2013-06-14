@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 after 1
+align 3 our 0.600787 are 0.399167 *DELETE* 4.53831e-05
+align 4 to 0.577286 two 0.420088 too 0.00236493 tea 0.000215781 artie 4.53831e-05
+align 5 rescue 1
+align 6 rests 0.693178 rats 0.12515 ras 0.10293 rest 0.0647192 rat's 0.0140233
+align 7 what 0.999898 well 5.88103e-05 we'll 4.31538e-05 will 9.00287e-13
+align 8 we'll 0.999978 will 2.21373e-05
+align 9 do 1
+align 10 is 1
+align 11 we'll 1
+align 12 uh 1
+align 13 place 0.999993 play 7.02783e-06
+align 14 are 0.621046 our 0.372131 or 0.00372757 r 0.00308841 sir 7.02783e-06
+align 15 fingers 1
+align 16 on 1
+align 17 his 1
+align 18 neck 1
+align 19 like 1
+align 20 this 1
+align 21 and 1
+align 22 check 1
+align 23 for 1
+align 24 his 1
+align 25 heartbeat 0.992841 heart 0.00714958 heartbeats 9.75438e-06 hard 1.48087e-11
+align 26 *DELETE* 0.99285 be 0.00677529 b 0.000227937 beat 0.000132469 bee 1.38809e-05
+align 27 </s> 1

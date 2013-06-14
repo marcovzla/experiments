@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 full 1
+align 5 name 1
+align 6 *DELETE* 1 is 1.59408e-15
+align 7 </s> 1

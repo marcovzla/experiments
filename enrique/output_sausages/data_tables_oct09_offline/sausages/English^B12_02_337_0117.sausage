@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 how 0.893235 huh 0.106765
+align 3 about 0.882359 but 0.0625231 a 0.0551176
+align 4 *DELETE* 0.944882 bit 0.0515434 bed 0.00357421
+align 5 how 1
+align 6 exactly 1
+align 7 how 1
+align 8 many 1
+align 9 vehicles 0.893175 you 0.0564779 you've 0.0503469
+align 10 *DELETE* 0.893175 vehicles 0.106825
+align 11 do 1
+align 12 you 1
+align 13 have 1
+align 14 um 0.997066 *DELETE* 0.00293446
+align 15 there 0.254081 they're 0.211987 that 0.205104 *DELETE* 0.19135 they 0.133686 uh 0.00293446 the 0.000858149
+align 16 are 0.476665 *DELETE* 0.326663 their 0.193142 or 0.00104258 air 0.000858149 they're 0.000580133 there 0.000549383 our 0.000500375
+align 17 *DELETE* 0.999734 are 0.000236333 uh 1.71032e-05 there're 1.23424e-05
+align 18 operational 1
+align 19 *DELETE* 0.99998 uh 1.21048e-05 i 7.75021e-06
+align 20 </s> 1

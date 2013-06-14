@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 see 1
+align 3 who 0.964549 okay 0.0354512
+align 4 captured 0.912529 capture 0.05202 after 0.0354508 should 3.61194e-07
+align 5 them 0.999478 him 0.000522016 the 2.18902e-08 on 1.72051e-08 *DELETE* 9.87457e-11
+align 6 *DELETE* 1 i 3.14674e-09 um 2.00659e-09 dumb 6.62144e-12
+align 7 </s> 1

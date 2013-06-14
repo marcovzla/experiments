@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 is 1
+align 3 there 1
+align 4 a 0.856117 any 0.143883
+align 5 uh 1
+align 6 uh 0.911656 a 0.088344
+align 7 certain 0.990907 a 0.0088993 uh 0.000193532
+align 8 *DELETE* 0.990907 certain 0.00909283
+align 9 time 0.994389 times 0.00561074
+align 10 that 1
+align 11 you 1
+align 12 see 0.94049 *DELETE* 0.0595098
+align 13 the 0.646581 he 0.289544 c._d. 0.0457437 c._v. 0.0137661 d 0.00363121 if 0.000548808 *DELETE* 0.000184975
+align 14 *DELETE* 0.999451 he 0.000548808
+align 15 strange 1
+align 16 men 1
+align 17 coming 1
+align 18 to 0.996245 too 0.00369205 two 6.32615e-05
+align 19 and 0.927406 you 0.0571244 in 0.0134087 end 0.00206142
+align 20 *DELETE* 0.942876 and 0.0571244
+align 21 from 1
+align 22 the 1
+align 23 house 0.999918 houses 8.18331e-05
+align 24 </s> 1

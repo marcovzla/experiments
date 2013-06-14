@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 this 1
+align 3 the 0.994135 that 0.00476954 *DELETE* 0.00109312 they 2.57357e-06 a 3.4716e-10
+align 4 work 0.992661 book 0.00697319 *DELETE* 0.000366157
+align 5 of 0.996173 at 0.00337593 market 0.000366157 up 5.81476e-05 in 2.67181e-05
+align 6 *DELETE* 0.998797 the 0.00120309
+align 7 insurgents 0.989026 the 0.0104918 *DELETE* 0.000482275
+align 8 *DELETE* 0.988177 insurgents 0.0104882 uh 0.000848216 insurgence 0.000283897 insurgents' 0.000201956 in 1.80509e-07 insurgency 3.52573e-08 i 4.08456e-12 do 2.55779e-12 and 9.67655e-15 um 1.96243e-16
+align 9 *DELETE* 1 uh 1.86967e-22
+align 10 </s> 1

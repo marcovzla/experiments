@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 yes 1
+align 3 thank 1
+align 4 you 1
+align 5 *DELETE* 0.996433 uh 0.00209455 know 0.000674737 um 0.000374922 i 0.000292538 now 6.23642e-05 too 5.48674e-05 go 1.35035e-05 no 5.29218e-21
+align 6 </s> 1

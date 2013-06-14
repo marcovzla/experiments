@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 take 1
+align 4 care 1
+align 5 of 1
+align 6 your 1
+align 7 friends 1
+align 8 wounds 0.89297 will 0.0984921 were 0.00804332 *DELETE* 0.000494782
+align 9 *DELETE* 0.892468 wounds 0.104642 owns 0.00189343 wound 0.000494782 uh 0.000275496 i 0.000192783 you 2.38196e-05 if 8.66046e-06 to 8.86092e-07 that 1.3537e-07 a 6.30173e-09 it 1.23296e-09 do 3.7032e-10 in 2.2897e-11 were 9.23392e-12 or 2.73769e-12 and 3.957e-16
+align 10 </s> 1

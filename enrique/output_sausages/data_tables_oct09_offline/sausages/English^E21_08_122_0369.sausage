@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999703 oh 0.00029724
+align 2 okay 1
+align 3 yeah 0.974839 uh 0.0251609
+align 4 that's 1
+align 5 that's 0.996788 a 0.00321232
+align 6 *DELETE* 0.996788 that's 0.00321232
+align 7 always 1
+align 8 key 1
+align 9 always 1
+align 10 queue 0.677446 key 0.203757 cue 0.118797
+align 11 to 1
+align 12 have 0.925063 had 0.0749373
+align 13 that 1
+align 14 three 0.996284 to 0.00371579
+align 15 *DELETE* 0.996284 be 0.00371579
+align 16 on 0.470838 and 0.462814 men 0.0524615 in 0.0138864
+align 17 uh 0.746219 a 0.253781
+align 18 three 1
+align 19 hundred 1
+align 20 six 0.876859 since 0.100454 *DELETE* 0.0222447 seized 0.000307972 sixth 0.00013506
+align 21 *DELETE* 0.993652 you 0.00244241 should 0.00233764 of 0.0015675
+align 22 they 0.900411 do 0.0644588 sixty 0.0222447 the 0.00999023 *DELETE* 0.00178345 day 0.00111163
+align 23 are 0.900411 *DELETE* 0.0753405 to 0.0166357 do 0.0048095 two 0.0025409 a 0.000262128
+align 24 *DELETE* 0.999997 do 3.2058e-06
+align 25 *DELETE* 0.704385 a 0.208088 uh 0.0874852 the 4.20453e-05
+align 26 degree 0.999546 agree 0.000454318
+align 27 security 1
+align 28 one 0.988227 keewan 0.00940853 won 0.00177526 key 0.000463274 could 0.000126228
+align 29 *DELETE* 0.999874 be 0.000126228
+align 30 *DELETE* 0.999212 one 0.000589502 the 0.000194134 that 4.02895e-06
+align 31 nothing 0.999802 thing 0.000194134 can 4.02895e-06 the 4.51197e-08
+align 32 *DELETE* 1 thing 4.51197e-08
+align 33 *DELETE* 0.945041 uh 0.0549592
+align 34 to 1
+align 35 *DELETE* 0.995968 to 0.00403217
+align 36 penetrate 1
+align 37 your 0.995655 you're 0.00434525
+align 38 patrol 0.999932 patrols 6.76788e-05
+align 39 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 0.995057 which 0.00348197 what's 0.00146096
+align 2 is 0.96537 do 0.0240768 does 0.00980453 to 0.000710834 uh 1.79765e-05 his 1.51231e-05 did 3.29852e-06 a 1.44289e-10 *DELETE* 8.97199e-11
+align 3 there 0.826625 the 0.158868 *DELETE* 0.0145073
+align 4 *DELETE* 0.82659 air 0.153126 their 0.0142372 ear 0.0050158 area 0.000725797 they're 0.000269127 uh 2.63847e-05 to 9.18454e-06 well 3.26968e-18
+align 5 *DELETE* 0.999978 uh 1.13948e-05 a 8.17674e-06 today 1.01496e-06 in 7.09417e-07 is 3.47999e-07 other 1.29344e-07 i 2.12845e-08
+align 6 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i'll 1
+align 2 meet 1
+align 3 with 1
+align 4 you 1
+align 5 at 1
+align 6 eight 1
+align 7 o'clock 1
+align 8 in 1
+align 9 the 1
+align 10 morning 1
+align 11 here 0.962562 care 0.0284978 hear 0.00776525 *DELETE* 0.00117446
+align 12 *DELETE* 0.992418 uh 0.00520101 i 0.00106249 year 0.000865048 khair 9.73814e-05 cure 8.37909e-05 is 5.48759e-05 her 4.44976e-05 air 3.99699e-05 sure 3.982e-05 you 3.72208e-05 if 1.28205e-05 um 8.73254e-06 a 6.05578e-06 in 6.01369e-06 it 5.41339e-06 to 4.55961e-06 keir 3.95585e-06 too 3.40871e-06 so 3.1279e-06 and 1.63121e-06 do 2.32224e-07 oh 9.90996e-09 with 5.14034e-10 i'm 1.57682e-11 that 3.46938e-13 the 2.95344e-13 we 2.70266e-13 as 3.9738e-14 are 1.93383e-14 it's 9.73103e-15
+align 13 </s> 1

@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 computer 0.995597 computers 0.00425539 *DELETE* 0.000147852
+align 2 *DELETE* 0.998965 work 0.00070315 computing 0.000147227 i 7.06931e-05 it 6.3317e-05 or 2.68849e-05 there 2.14965e-05 are 1.15633e-06 completely 6.24991e-07 a 3.0695e-07 here 6.8926e-08 is 2.00882e-09 and 1.69751e-10 to 5.74922e-12 in 8.30656e-13 uh 8.31747e-14 complete 1.95127e-14
+align 3 </s> 1

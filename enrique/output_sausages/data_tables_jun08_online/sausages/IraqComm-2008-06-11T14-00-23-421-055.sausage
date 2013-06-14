@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 neighbors 0.437529 *DELETE* 0.297154 neighbor 0.265317
+align 5 *DELETE* 0.437529 his 0.238318 neighbor's 0.192858 neighbors' 0.104296 is 0.022419 has 0.00457992
+align 6 religion 1
+align 7 *DELETE* 0.999996 i 3.18842e-06 in 7.95953e-07 to 3.36961e-14 and 2.15917e-14 is 8.04291e-16
+align 8 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 1
+align 3 you 1
+align 4 doing 1
+align 5 today 1
+align 6 *DELETE* 0.998701 uh 0.00128228 sir 8.81736e-06 i 7.47606e-06 um 2.24932e-11 i'm 5.30739e-12
+align 7 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 are 0.593649 uh 0.405801 i 0.000550034
+align 3 *DELETE* 0.593649 are 0.406351
+align 4 there 0.974328 they 0.0256718
+align 5 any 1
+align 6 enemies 0.995027 enemy's 0.00497285
+align 7 in 0.998122 and 0.0018782
+align 8 this 0.996824 its 0.0025505 his 0.000570629 it's 5.4759e-05
+align 9 location 0.999968 *DELETE* 3.22143e-05
+align 10 *DELETE* 0.999313 uh 0.00063809 locations 3.22143e-05 is 1.12695e-05 for 4.34861e-06 i 6.69946e-07 and 7.27659e-08 in 1.25381e-08 could 2.36159e-10 you 1.18407e-12 that 4.00883e-13 before 1.23758e-17 a 4.56378e-18 cook 5.11845e-23 of 1.64738e-23
+align 11 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 the 0.938918 this 0.0610822
+align 3 school 1
+align 4 all 0.302486 *DELETE* 0.286875 or 0.270957 is 0.0435539 in 0.0203218 up 0.0193691 on 0.0171161 it 0.0139643 oh 0.0118204 uh 0.00831969 and 0.00173921 of 0.000890002 at 0.000869922 out 0.000848404 i 0.000701015 a 0.000167889
+align 5 next 1
+align 6 to 1
+align 7 the 1
+align 8 mosque 1
+align 9 *DELETE* 0.999982 is 1.65166e-05 at 1.28541e-06 to 2.28954e-08 if 2.77069e-09
+align 10 </s> 1

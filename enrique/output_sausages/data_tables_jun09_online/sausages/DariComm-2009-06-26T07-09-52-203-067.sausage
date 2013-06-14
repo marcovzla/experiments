@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 0.995601 word 0.00213606 worried 0.00107948 we're 0.000613775 were 0.00029726 worry 0.00022729 wuroud 4.47274e-05
+align 2 are 0.995601 *DELETE* 0.00368548 in 0.000704263 a 8.84448e-06
+align 3 do 1
+align 4 you 1
+align 5 get 1
+align 6 your 1
+align 7 water 1
+align 8 from 0.999999 *DELETE* 2.41031e-14
+align 9 *DELETE* 0.999789 it 0.000166807 the 1.6239e-05 them 1.57536e-05 you 1.11282e-05 um 1.25873e-06 a 6.80074e-08
+align 10 </s> 1

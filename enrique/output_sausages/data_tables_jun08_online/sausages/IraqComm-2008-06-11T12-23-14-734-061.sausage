@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 would 0.689067 when 0.309979 i 0.000953814
+align 2 *DELETE* 0.999046 would 0.000953814
+align 3 you 1
+align 4 enlarge 0.75051 in 0.150718 enlarged 0.0478253 were 0.046405 are 0.00454237
+align 5 *DELETE* 0.949053 in 0.0509473
+align 6 *DELETE* 0.798335 large 0.201665
+align 7 the 0.988439 a 0.0115612
+align 8 clinic 1
+align 9 will 0.707864 we 0.292136
+align 10 you 0.970984 *DELETE* 0.0137103 get 0.00790786 can 0.00423043 i 0.00161193 are 0.00155518
+align 11 add 0.978209 at 0.0129192 *DELETE* 0.0070755 had 0.00117705 ad 0.000619567
+align 12 new 0.917641 news 0.057372 knew 0.0106793 adnan 0.0070755 *DELETE* 0.0037249 a 0.00350762
+align 13 *DELETE* 0.992147 new 0.00350762 nu 0.00221096 'nouz 0.00151394 service 0.00062027
+align 14 services 0.998467 services' 0.000912811 is 0.00062027 surfaces 2.38045e-07
+align 15 *DELETE* 1 uh 1.19128e-12 i 1.70671e-13 as 1.1668e-17
+align 16 </s> 1

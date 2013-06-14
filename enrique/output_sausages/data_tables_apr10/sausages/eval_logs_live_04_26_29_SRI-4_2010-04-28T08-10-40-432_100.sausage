@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 when 0.98736 what 0.00824211 *DELETE* 0.00435331 one 4.41045e-05
+align 2 was 0.809912 is 0.190088
+align 3 the 1
+align 4 last 1
+align 5 time 1
+align 6 you 0.987997 *DELETE* 0.0120034
+align 7 were 0.98481 your 0.00992128 are 0.00314365 you're 0.0020821 or 4.30746e-05
+align 8 in 1 and 7.81143e-08
+align 9 pakistan 1
+align 10 *DELETE* 0.999995 i 5.3641e-06
+align 11 </s> 1

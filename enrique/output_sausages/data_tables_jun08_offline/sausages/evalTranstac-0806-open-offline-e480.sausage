@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 inside 1
+align 2 the 1
+align 3 building 1
+align 4 can 1
+align 5 we 1
+align 6 anticipate 1
+align 7 any 1
+align 8 high 1
+align 9 value 1
+align 10 individuals 1
+align 11 inside 1
+align 12 that 0.999883 it 8.08665e-05 debt 2.38553e-05 the 1.20939e-05
+align 13 *DELETE* 0.999988 it 1.20939e-05
+align 14 we 0.564135 *DELETE* 0.435865
+align 15 have 0.563491 we've 0.435865 had 0.000558819 *DELETE* 8.56924e-05
+align 16 been 1
+align 17 looking 1
+align 18 for 0.999823 four 0.000176808
+align 19 *DELETE* 0.979513 it 0.0193497 a 0.000597433 uh 0.000488245 um 4.51029e-05 i 6.22412e-06
+align 20 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sounds 1
+align 3 good 1
+align 4 that's 0.976695 and 0.0233046
+align 5 *DELETE* 0.976695 that's 0.0233046
+align 6 what 1
+align 7 we 1
+align 8 do 0.999994 need 5.77383e-06 *DELETE* 2.94761e-15
+align 9 *DELETE* 0.981348 uh 0.0103882 you 0.00545166 now 0.00237079 it 0.000339583 is 8.33781e-05 i 1.24794e-05 that 4.88467e-06 do 6.40176e-07 the 8.61958e-09 in 1.2895e-09 as 1.37135e-12 give 2.63689e-13 if 1.65058e-14 a 2.45456e-16 know 3.0897e-23
+align 10 *DELETE* 0.999932 do 6.7881e-05
+align 11 </s> 1

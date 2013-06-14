@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 can 1
+align 3 provide 1
+align 4 generators 1
+align 5 in 0.85053 it 0.0869613 if 0.043806 *DELETE* 0.0187022
+align 6 important 1
+align 7 areas 0.987975 area 0.0115881 *DELETE* 0.000257347 uh 0.000179517 a 7.99157e-15
+align 8 *DELETE* 0.987938 us 0.011588 area's 0.000257347 areas 0.000179517 i 2.11329e-05 uh 1.62867e-05 it's 1.12092e-07 is 1.41344e-16 to 2.47039e-27 of 7.62115e-31
+align 9 </s> 1

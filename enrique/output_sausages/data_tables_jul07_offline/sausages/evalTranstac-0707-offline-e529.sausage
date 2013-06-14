@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 based 1
+align 2 upon 1
+align 3 your 0.995941 you're 0.00365093 you 0.000408319
+align 4 *DELETE* 0.999592 are 0.000408319
+align 5 knowledge 1
+align 6 of 0.999694 if 0.000306217
+align 7 the 1
+align 8 area 1
+align 9 what 0.999196 would 0.000804191
+align 10 direction 0.994576 directions 0.0054241
+align 11 should 0.994781 sure 0.00521908
+align 12 they 1
+align 13 come 1
+align 14 from 1
+align 15 *DELETE* 1 a 6.36238e-08
+align 16 </s> 1

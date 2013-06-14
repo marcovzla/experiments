@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 money 1
+align 4 was 1
+align 5 uh 1
+align 6 was 0.995805 oh 0.00343663 uh 0.000705776 we'll 5.2905e-05 with 4.30028e-10
+align 7 *DELETE* 0.995681 was 0.00419531 miss 0.000123402
+align 8 missing 0.999872 it 0.000123402 messy 4.37573e-06 messing 5.17128e-08
+align 9 </s> 1

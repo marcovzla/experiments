@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 would 0.999543 did 0.000456624
+align 2 you 1
+align 3 like 1
+align 4 to 1
+align 5 double 1
+align 6 the 1
+align 7 nurses 0.989865 nurse 0.0035905 nurse's 0.00328529 nurses' 0.00325958
+align 8 *DELETE* 0.996415 is 0.00358456
+align 9 as 1 this 2.84555e-14 is 6.72508e-15
+align 10 *DELETE* 0.999994 as 5.93747e-06
+align 11 well 1 while 9.38174e-12
+align 12 </s> 1

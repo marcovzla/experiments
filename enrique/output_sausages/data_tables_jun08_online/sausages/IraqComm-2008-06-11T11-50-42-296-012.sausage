@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 a 0.999945 the 5.50362e-05
+align 4 coalition 1
+align 5 checkpoint 1
+align 6 *DELETE* 0.999998 i 2.16434e-06 uh 6.45771e-08 in 3.4178e-16
+align 7 </s> 1

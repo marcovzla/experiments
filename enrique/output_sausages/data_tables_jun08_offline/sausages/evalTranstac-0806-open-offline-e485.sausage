@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 1
+align 3 your 1
+align 4 men 1
+align 5 trained 0.999364 train 0.000635521
+align 6 with 1
+align 7 their 0.973365 there 0.0265756 they're 5.96064e-05
+align 8 night 1
+align 9 vision 1
+align 10 goggles 1
+align 11 </s> 1

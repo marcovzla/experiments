@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.996668 when 0.00186748 or 0.00126158 well 9.88204e-05 where 7.40771e-05 it 2.97188e-05
+align 2 *DELETE* 0.999999 it 1.19452e-06
+align 3 does 1
+align 4 the 1
+align 5 hospital 1
+align 6 need 1
+align 7 *DELETE* 0.999548 uh 0.000415015 it 3.42855e-05 a 2.20951e-06 to 8.2976e-07 i 4.16201e-14
+align 8 </s> 1

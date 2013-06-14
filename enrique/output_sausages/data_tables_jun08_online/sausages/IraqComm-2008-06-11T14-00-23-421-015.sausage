@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 sir 1
+align 4 my 1
+align 5 name 1
+align 6 is 1
+align 7 sergeant 1
+align 8 jones 1
+align 9 </s> 1

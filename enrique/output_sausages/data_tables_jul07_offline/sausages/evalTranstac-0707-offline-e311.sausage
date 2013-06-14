@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 yeah 0.638664 and 0.20483 i 0.0986666 uh 0.0328158 *DELETE* 0.0250243
+align 2 i 1
+align 3 want 1
+align 4 you 1
+align 5 to 1
+align 6 stop 0.999141 stopped 0.000858943
+align 7 in 0.692137 and 0.240698 it 0.0611206 end 0.00604395
+align 8 *DELETE* 0.938879 in 0.0548032 and 0.00631735
+align 9 these 1
+align 10 houses 1
+align 11 around 1
+align 12 the 1
+align 13 autoshop 0.974771 auto 0.024454 otto 0.000775161
+align 14 *DELETE* 0.974771 shop 0.024489 shops 0.000641797 show 9.83773e-05
+align 15 *DELETE* 0.999856 up 9.83773e-05 uh 4.46822e-05 if 8.48049e-07
+align 16 </s> 1

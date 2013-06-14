@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.999586 one 0.000414201
+align 2 is 0.998385 does 0.00161475
+align 3 the 1
+align 4 contents 1
+align 5 of 1
+align 6 these 1
+align 7 d._v._d.s 1
+align 8 *DELETE* 1 uh 2.31892e-15
+align 9 </s> 1

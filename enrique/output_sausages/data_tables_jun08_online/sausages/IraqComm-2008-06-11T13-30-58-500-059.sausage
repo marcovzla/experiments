@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 my 0.999949 may 5.13284e-05
+align 2 men 1
+align 3 can 1
+align 4 also 1
+align 5 provides 0.971774 provide 0.0282258
+align 6 an 0.966133 some 0.0285573 in 0.00308436 and 0.00222574
+align 7 infantry 1
+align 8 troops 0.999975 troopers 2.5314e-05
+align 9 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 requested 1
+align 4 training 0.989373 writing 0.00986634 riding 0.000761101
+align 5 from 1
+align 6 the 1
+align 7 government 1
+align 8 *DELETE* 1 i 3.68559e-17
+align 9 </s> 1

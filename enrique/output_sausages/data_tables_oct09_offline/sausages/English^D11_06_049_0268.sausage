@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 now 0.999197 it 0.000794727 uh 8.60555e-06
+align 3 *DELETE* 0.999197 now 0.000803333
+align 4 is 1
+align 5 there 1
+align 6 a 0.954493 uh 0.0455074
+align 7 *DELETE* 0.897342 a 0.102658
+align 8 building 1
+align 9 there 0.604765 near 0.368305 their 0.0169758 they're 0.00995428
+align 10 that 1
+align 11 we 0.91361 *DELETE* 0.0863904
+align 12 were 0.508617 are 0.404993 we're 0.0863904
+align 13 able 1
+align 14 to 1
+align 15 build 0.999907 *DELETE* 9.30908e-05
+align 16 up 0.997152 a 0.00250355 uh 0.000251076 buildup 9.30908e-05
+align 17 *DELETE* 0.997225 up 0.00275463 a 1.9563e-05 i 6.77025e-07
+align 18 </s> 1

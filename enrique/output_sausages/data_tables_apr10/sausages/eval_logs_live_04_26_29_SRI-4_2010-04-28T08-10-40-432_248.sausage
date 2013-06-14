@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 are 0.817604 *DELETE* 0.181953 our 0.000442938
+align 2 there 0.732566 other 0.164992 their 0.0459318 those 0.0244825 either 0.0169612 the 0.0149879 they 7.8829e-05
+align 3 *DELETE* 0.999786 a 0.00013473 are 7.8829e-05
+align 4 threats 1
+align 5 from 1
+align 6 the 1
+align 7 talaban 0.999434 tail 0.000558669 touban 7.61027e-06
+align 8 *DELETE* 0.999441 of 0.000558669
+align 9 *DELETE* 0.999441 van 0.000558669
+align 10 to 0.99914 for 0.000731254 too 0.000120868 two 5.15115e-06 take 1.30663e-06 till 9.50978e-07 turn 8.34715e-09 tell 7.94365e-09
+align 11 the 0.999952 *DELETE* 4.77977e-05
+align 12 hospital 0.975447 hospitals 0.0244855 hospital's 6.72547e-05
+align 13 *DELETE* 0.999997 i 1.65291e-06 uh 1.00785e-06 you 3.35681e-08
+align 14 </s> 1

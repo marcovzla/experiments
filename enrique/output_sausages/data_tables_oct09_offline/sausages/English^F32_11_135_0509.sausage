@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 0.989873 oh 0.0101274
+align 2 *DELETE* 0.989873 okay 0.0101274
+align 3 well 0.908195 what 0.0903046 why 0.00102641 while 0.000331297 *DELETE* 0.000142479
+align 4 we're 1
+align 5 going 1
+align 6 to 1
+align 7 have 1
+align 8 to 1
+align 9 uh 1
+align 10 take 0.926924 pick 0.0719088 make 0.000730064 check 0.000384718 picked 5.20161e-05
+align 11 one 1
+align 12 side 1
+align 13 *DELETE* 0.999983 uh 1.35053e-05 i 3.29194e-06
+align 14 </s> 1

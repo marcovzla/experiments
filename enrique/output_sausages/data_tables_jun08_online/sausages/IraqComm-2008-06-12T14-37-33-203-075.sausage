@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 are 1
+align 3 they 1
+align 4 attacking 1
+align 5 *DELETE* 0.999299 uh 0.000509484 a 0.000119702 you 4.58427e-05 i 2.44051e-05 the 1.2166e-06 us 4.53491e-07 do 3.41577e-20
+align 6 </s> 1

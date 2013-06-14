@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 we're 0.999203 were 0.000797483
+align 2 conducting 1
+align 3 the 0.936412 a 0.0635102 he 7.74685e-05 *DELETE* 4.89843e-18
+align 4 utilities 0.98764 utilities' 0.00960663 utility 0.00275304
+align 5 survey 0.994241 surveying 0.00574807 are 1.09752e-05 serve 4.57222e-15
+align 6 *DELETE* 0.999889 uh 8.45229e-05 i 1.58207e-05 they 1.09752e-05 surveyed 2.81317e-14 a 4.57222e-15 surveys 7.76358e-16 it 1.41502e-17
+align 7 </s> 1

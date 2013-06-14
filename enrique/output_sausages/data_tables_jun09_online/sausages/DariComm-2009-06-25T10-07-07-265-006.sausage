@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 command 0.597134 a 0.243227 come 0.157961 imam 0.00167844
+align 2 *DELETE* 0.598812 man 0.401188
+align 3 play 0.78631 plate 0.176482 played 0.0369152 place 0.000292865
+align 4 instructions 1
+align 5 *DELETE* 0.999661 i 0.000255987 on 2.85438e-05 to 2.60901e-05 you 1.5245e-05 uh 6.75964e-06 in 3.55692e-06 and 2.13297e-06 do 9.94927e-07 it 1.01887e-07 that 2.21226e-11 are 1.17381e-14 of 1.15157e-17
+align 6 </s> 1

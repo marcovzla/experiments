@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 i 0.911248 and 0.0797177 *DELETE* 0.00898893 uh 4.55249e-05
+align 2 i 0.517075 recommend 0.46391 *DELETE* 0.0190148
+align 3 commend 0.517133 that 0.266988 it 0.196922 recommended 0.0189573
+align 4 you 0.934558 it 0.0654417
+align 5 *DELETE* 0.934558 you 0.0654417
+align 6 turn 0.994193 turned 0.00580676
+align 7 your 1
+align 8 daughter's 0.982892 daughters 0.0171084
+align 9 head 0.998717 had 0.00128328
+align 10 so 0.999704 to 0.000295705
+align 11 this 0.942095 the 0.0228211 that 0.0198853 they 0.00808723 *DELETE* 0.00707318 it 3.774e-05
+align 12 *DELETE* 0.938514 she 0.025976 should 0.0246609 you 0.0108496
+align 13 doesn't 1
+align 14 see 1
+align 15 the 0.992243 they 0.00775697
+align 16 needle 0.835777 need 0.162535 needles 0.00168793 meat 3.97566e-07
+align 17 *DELETE* 0.837693 on 0.151965 of 0.00772045 in 0.00237095 and 0.00025138
+align 18 or 0.73667 her 0.207208 our 0.0258872 are 0.0188131 *DELETE* 0.00763853 owner 0.00284456 a 0.000547083 here 0.000367285 and 9.43086e-06 under 9.32379e-06 over 5.7235e-06
+align 19 arm 0.989584 harm 0.00704804 armed 0.00137624 arms 0.00125373 are 0.000570314 our 7.96466e-05 army 3.23275e-05 now 2.16956e-05 i'll 1.49468e-05 i'm 8.73519e-06 *DELETE* 5.89733e-06 harmed 4.80972e-06
+align 20 *DELETE* 0.999992 um 2.54308e-06 i 2.22639e-06 off 1.28553e-06 armor 1.03744e-06 on 7.32061e-07 unarmed 2.72969e-07 a 1.49603e-07 uh 1.46326e-08 no 8.35877e-09 thorough 1.71727e-10 from 3.40862e-11 all 1.06616e-11 how 2.8005e-21
+align 21 </s> 1

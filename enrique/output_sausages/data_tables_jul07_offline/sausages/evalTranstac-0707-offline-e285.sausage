@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 the 0.820855 they 0.179145
+align 3 uh 1
+align 4 *DELETE* 0.914473 uh 0.0855272
+align 5 identification 1
+align 6 for 0.999733 four 0.00026685
+align 7 all 1
+align 8 of 0.999981 *DELETE* 1.92967e-05
+align 9 the 1
+align 10 people 1
+align 11 in 0.999948 and 5.24373e-05
+align 12 the 1
+align 13 car 1
+align 14 will 0.999718 we'll 0.00028203
+align 15 be 1
+align 16 checked 1
+align 17 in 0.999999 and 5.67014e-07
+align 18 the 1
+align 19 holding 1
+align 20 area 1
+align 21 *DELETE* 1 uh 9.8593e-08
+align 22 </s> 1

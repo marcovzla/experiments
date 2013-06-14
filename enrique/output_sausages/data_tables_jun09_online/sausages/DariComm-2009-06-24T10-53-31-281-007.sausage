@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 repeat 0.995154 repay 0.00334731 we 0.00085707 *DELETE* 0.000641439
+align 2 *DELETE* 0.994012 it 0.00257066 that 0.00169795 pay 0.00085707 repaint 0.000587337 i 0.000162282 uh 3.66505e-05 the 2.02294e-05 rikki 1.271e-05 rickie 1.271e-05 rickey 1.271e-05 ricki 1.271e-05 ricky 3.26221e-06 to 6.53979e-07 a 4.50016e-07 this 2.13873e-07 them 5.95305e-08 you 1.95825e-11 in 6.21832e-12 repaid 5.66266e-12
+align 3 </s> 1

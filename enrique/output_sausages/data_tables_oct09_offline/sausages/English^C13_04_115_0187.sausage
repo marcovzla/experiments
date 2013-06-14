@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 yeah 0.879066 *DELETE* 0.115702 uh 0.00523204
+align 3 uh 0.932598 i 0.0621696 *DELETE* 0.00523204
+align 4 *DELETE* 0.905169 uh 0.0948307
+align 5 the 1
+align 6 more 1
+align 7 information 1
+align 8 you 1
+align 9 can 1
+align 10 provide 1
+align 11 me 1
+align 12 about 1
+align 13 about 0.842888 uh 0.0758515 go 0.0464504 know 0.027621 the 0.002848 *DELETE* 0.00219216 now 0.00089429 though 0.000831351 beau 0.00019585 bow 0.000171029 bo 5.65509e-05
+align 14 *DELETE* 0.99421 uh 0.00359811 no 0.00219216
+align 15 where 0.949311 uh 0.0506888
+align 16 *DELETE* 0.949311 where 0.0506888
+align 17 you 1
+align 18 live 1
+align 19 or 1
+align 20 oral 0.347677 *DELETE* 0.34489 old 0.151261 will 0.123489 roll 0.032683 room 6.38395e-16
+align 21 *DELETE* 0.432255 uh 0.219651 rule 0.146094 we'll 0.122926 role 0.0620139 or 0.00720848 roll 0.00449975 on 0.00382026 all 0.00102504 rolled 0.000390881 ruled 0.000116228 we 6.38395e-16
+align 22 *DELETE* 0.989845 uh 0.00804155 on 0.0018204 of 0.000238128 off 5.07219e-05 are 4.1488e-06
+align 23 one 0.596463 what 0.358369 uh 0.0243304 of 0.0178123 on 0.00286481 while 0.000148272 want 8.62312e-06 when 4.10606e-06
+align 24 *DELETE* 0.954937 one 0.0313086 what 0.0136937 a 5.52256e-05 while 5.31063e-06
+align 25 *DELETE* 0.999976 a 2.42218e-05
+align 26 house 1
+align 27 it 0.822526 that 0.177474
+align 28 is 1
+align 29 you 0.942601 it 0.0572904 *DELETE* 0.000108775
+align 30 would 0.849863 will 0.14532 *DELETE* 0.004708 you'll 0.000108775
+align 31 make 1
+align 32 it 1
+align 33 easier 0.967347 easy 0.0326535
+align 34 for 1
+align 35 me 1
+align 36 to 1
+align 37 find 1
+align 38 out 1
+align 39 uh 0.97471 um 0.0252902
+align 40 where 1
+align 41 your 0.999197 you're 0.000802802
+align 42 brother 1
+align 43 is 0.999987 as 1.31404e-05
+align 44 *DELETE* 0.999997 a 2.52002e-06 i 3.31216e-07
+align 45 </s> 1

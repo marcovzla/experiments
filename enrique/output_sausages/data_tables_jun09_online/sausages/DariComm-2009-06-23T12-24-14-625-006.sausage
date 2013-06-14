@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 complete 0.838501 compete 0.088918 peter 0.0671162 computer 0.00417313 copied 0.000903778 competing 0.000169695 competed 0.000109151 completed 8.15107e-05 company 2.73335e-05
+align 2 *DELETE* 0.999973 to 2.73335e-05
+align 3 instructions 0.999903 a 9.74675e-05
+align 4 *DELETE* 0.999447 i 0.000231005 instructions 9.74675e-05 to 9.14151e-05 you 4.8183e-05 do 3.05183e-05 and 2.35183e-05 in 1.4785e-05 uh 8.36216e-06 now 5.7184e-06 um 1.40757e-06 are 3.78762e-07 it 5.97684e-09 we 1.04932e-11 that 8.85231e-13 the 1.74157e-13 or 6.9388e-15
+align 5 </s> 1

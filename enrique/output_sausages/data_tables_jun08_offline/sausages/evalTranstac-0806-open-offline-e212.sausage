@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 *DELETE* 0.999984 you 1.61018e-05
+align 4 the 1
+align 5 doctor 1
+align 6 that 0.941659 they 0.0530563 the 0.00528425
+align 7 treated 1
+align 8 him 0.997312 them 0.00129061 here 0.000886603 have 0.000510833 *DELETE* 4.96185e-13
+align 9 *DELETE* 0.99965 uh 0.000287938 in 3.48302e-05 i 2.61199e-05 a 6.41244e-07 hand 1.61671e-11 to 1.13379e-12 head 1.84814e-14
+align 10 </s> 1

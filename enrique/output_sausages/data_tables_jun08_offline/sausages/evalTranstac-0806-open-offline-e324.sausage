@@ -1,0 +1,44 @@
+numaligns 42
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 you 0.997486 we 0.00251389
+align 3 come 1
+align 4 up 1
+align 5 to 0.861109 *DELETE* 0.138885 with 5.78056e-06
+align 6 this 1
+align 7 person 1
+align 8 you 1
+align 9 wanna 0.91739 want 0.0826096
+align 10 *DELETE* 0.91739 to 0.0826096
+align 11 see 1
+align 12 if 1
+align 13 the 1
+align 14 airway 1
+align 15 is 1
+align 16 obstructed 1
+align 17 and 0.998662 an 0.00133757
+align 18 if 1
+align 19 it 1
+align 20 is 1
+align 21 obstructed 1
+align 22 you 1
+align 23 need 1
+align 24 you 1
+align 25 need 1
+align 26 to 1
+align 27 remove 1
+align 28 the 1
+align 29 obstruction 1
+align 30 from 0.910261 form 0.0708775 for 0.0181169 farm 0.000745011
+align 31 *DELETE* 0.986741 him 0.00920169 um 0.00405733
+align 32 his 1
+align 33 airway 1
+align 34 such 1
+align 35 as 1
+align 36 his 1
+align 37 throat 1
+align 38 or 0.999924 for 7.60235e-05
+align 39 his 1
+align 40 mouth 1
+align 41 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 patrol 1
+align 3 route 1
+align 4 do 1
+align 5 you 1
+align 6 wish 0.99968 wished 0.000320416
+align 7 to 1 you 6.31745e-09
+align 8 take 1
+align 9 *DELETE* 0.883398 it 0.115408 uh 0.000500851 a 0.000348679 you 0.000104648 up 0.000104126 i 0.000103739 the 2.67772e-05 in 4.7089e-06 to 1.78207e-07 if 4.54589e-10 an 5.07265e-11 all 1.7682e-11
+align 10 </s> 1

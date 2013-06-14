@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 right 1
+align 2 what 0.889049 well 0.110327 while 0.000612584 when 1.05539e-05
+align 3 we 1
+align 4 do 1
+align 5 is 1
+align 6 once 1
+align 7 we're 0.89088 *DELETE* 0.108929 rented 0.000190695
+align 8 in 0.882295 rain 0.0783802 ran 0.0275552 a 0.00447522 end 0.0041424 rent 0.00271606 *DELETE* 0.000379207 rained 5.6765e-05
+align 9 that 0.933988 there 0.0501949 at 0.00802763 net 0.00444284 their 0.00172378 out 0.00122211 renda 0.000161869 a 0.000147864 render 5.82414e-05 *DELETE* 3.23777e-05 renna 7.79803e-07
+align 10 first 1
+align 11 building 1
+align 12 what 0.988161 when 0.0118395
+align 13 i 1
+align 14 recommend 1
+align 15 you 1
+align 16 do 1
+align 17 is 0.836493 it 0.163507
+align 18 see 0.888347 say 0.0420288 sea 0.0356116 c 0.0292572 so 0.0047557
+align 19 you 1
+align 20 push 1
+align 21 your 0.958587 our 0.0230139 you're 0.0125016 here 0.00589763
+align 22 first 1
+align 23 platoon 1
+align 24 to 1
+align 25 conduct 1
+align 26 the 1
+align 27 assault 1
+align 28 on 1
+align 29 the 0.901557 a 0.0984432
+align 30 warehouse 1
+align 31 and 1
+align 32 clear 1
+align 33 it 1
+align 34 and 1
+align 35 then 1
+align 36 secure 0.999906 *DELETE* 9.38569e-05
+align 37 it 0.994941 at 0.00488167 security 9.38569e-05 a 4.26944e-05 *DELETE* 3.07843e-05 in 9.34545e-06 i 5.73795e-07 eight 9.34219e-08 uh 1.73065e-10
+align 38 *DELETE* 0.999994 i 6.02345e-06
+align 39 </s> 1

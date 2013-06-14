@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 um 1
+align 3 so 1
+align 4 we 1
+align 5 need 1
+align 6 to 1
+align 7 talk 1
+align 8 about 1
+align 9 price 0.997437 the 0.0025632
+align 10 *DELETE* 0.997117 price 0.0025632 i 0.000166959 uh 0.000124753 in 7.61627e-06 do 6.86028e-06 it 5.74882e-06 to 1.85782e-06 is 1.72318e-06 a 1.62484e-06 at 1.42104e-06 how 6.49172e-07 you 3.91489e-07 and 8.52419e-09
+align 11 </s> 1

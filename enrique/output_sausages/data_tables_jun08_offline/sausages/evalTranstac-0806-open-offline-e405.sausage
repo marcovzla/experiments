@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 these 1
+align 2 are 1
+align 3 all 1
+align 4 things 1
+align 5 you 0.558907 *DELETE* 0.441093
+align 6 need 0.998599 *DELETE* 0.00140093 he 2.7083e-10
+align 7 to 0.998599 did 0.00140093
+align 8 tell 1
+align 9 your 1
+align 10 team 1
+align 11 leaders 1
+align 12 to 1
+align 13 make 1
+align 14 sure 1
+align 15 that 1
+align 16 they 1
+align 17 get 0.998711 good 0.00114163 go 9.95444e-05 give 4.81405e-05 did 5.54863e-12
+align 18 done 0.872561 down 0.0940808 don 0.0117713 gone 0.00753916 going 0.00655552 don't 0.00413678 dawn 0.00239685 go 0.000727024 donn 0.000120593 gun 6.29888e-05 *DELETE* 4.82449e-05 dung 4.64728e-08
+align 19 *DELETE* 0.999225 on 0.000775269
+align 20 </s> 1

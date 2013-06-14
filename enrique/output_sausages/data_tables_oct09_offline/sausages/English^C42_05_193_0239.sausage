@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 uh 0.72528 *DELETE* 0.267247 i 0.00315729 and 0.00284605 at 0.00113604 it 0.000298972 how 3.47892e-05 an 4.99084e-07
+align 3 *DELETE* 0.997842 uh 0.0020878 i 7.01607e-05
+align 4 how 0.999962 i 3.76889e-05
+align 5 *DELETE* 0.999973 how 1.81539e-05 i 8.36414e-06
+align 6 long 0.884708 will 0.0580903 well 0.0502218 what 0.00498626 *DELETE* 0.00199371
+align 7 will 1.00169
+align 8 it 1
+align 9 take 1
+align 10 to 1
+align 11 build 1
+align 12 the 0.973562 this 0.0264384
+align 13 schools 0.986608 school 0.0126595 school's 0.000718138 schools' 1.45426e-05
+align 14 *DELETE* 0.999537 uh 0.000327867 so 0.000116316 sir 1.34717e-05 i 5.08562e-06 the 1.47105e-07
+align 15 </s> 1

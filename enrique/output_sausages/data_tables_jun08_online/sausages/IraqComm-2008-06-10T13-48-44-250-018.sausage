@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 were 0.89173 where 0.0984532 we're 0.00981727 with 3.01576e-08
+align 2 these 0.999325 the 0.000674904
+align 3 supplies 0.999972 supply 2.75268e-05
+align 4 stolen 0.999803 stole 0.000196947
+align 5 *DELETE* 0.999642 one 0.000149259 i 9.48836e-05 uh 6.33067e-05 in 4.76879e-05 a 2.8211e-06 it 3.25758e-10 if 1.01587e-13 an 4.20533e-22
+align 6 </s> 1

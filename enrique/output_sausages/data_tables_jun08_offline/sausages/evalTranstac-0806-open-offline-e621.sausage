@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 don't 1
+align 3 have 1
+align 4 any 1
+align 5 communications 1
+align 6 intercepts 0.995428 intercept 0.00457196
+align 7 at 0.998284 that 0.00124451 so 0.000289052 of 0.000182645
+align 8 *DELETE* 0.999528 at 0.000471696
+align 9 this 1
+align 10 time 1
+align 11 </s> 1

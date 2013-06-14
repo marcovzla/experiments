@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 you'll 0.722946 you 0.277054
+align 3 *DELETE* 0.722946 will 0.272132 we'll 0.0049219
+align 4 pinch 0.866756 pinched 0.133244
+align 5 the 1
+align 6 nose 0.930076 knows 0.0699236
+align 7 and 1
+align 8 then 1
+align 9 you 1
+align 10 will 1
+align 11 breathe 0.972822 breeze 0.0155029 breathes 0.00694552 brief 0.00473003
+align 12 into 1
+align 13 his 1
+align 14 mouth 1
+align 15 </s> 1

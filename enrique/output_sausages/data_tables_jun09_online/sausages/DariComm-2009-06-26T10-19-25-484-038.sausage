@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 equipment 1
+align 5 and 1
+align 6 supplies 1
+align 7 does 1
+align 8 it 0.999868 that 0.000132219
+align 9 need 0.999342 mean 0.000585411 *DELETE* 7.21443e-05
+align 10 *DELETE* 0.999342 a 0.000245144 uh 0.000201313 to 9.54983e-05 needs 7.21443e-05 it 3.23851e-05 i 1.14099e-05 in 5.50548e-15
+align 11 </s> 1

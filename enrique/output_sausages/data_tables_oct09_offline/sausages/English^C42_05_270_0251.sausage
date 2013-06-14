@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 how 1
+align 3 much 1
+align 4 would 1
+align 5 you 1
+align 6 were 0.954305 *DELETE* 0.0456945
+align 7 much 0.959398 limit 0.0406016
+align 8 would 0.999557 what 0.000442561
+align 9 it 1
+align 10 cost 1
+align 11 to 1
+align 12 build 1
+align 13 *DELETE* 0.98471 a 0.0146741 it 0.000615449
+align 14 one 0.999895 want 0.000104928
+align 15 of 1 up 1.75944e-07
+align 16 the 1
+align 17 schools 0.999505 school's 0.000494453 schools' 5.0462e-07
+align 18 *DELETE* 0.999993 in 7.38244e-06
+align 19 </s> 1

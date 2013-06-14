@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 recommend 1
+align 3 that 1
+align 4 we 1
+align 5 place 1
+align 6 uh 1
+align 7 observation 0.998659 uh 0.00134123
+align 8 *DELETE* 0.998659 observation 0.00134123
+align 9 post 0.99312 posts 0.00688044
+align 10 here 0.997723 year 0.00227667
+align 11 and 0.658847 in 0.340938 an 0.000215186 any 7.07957e-07
+align 12 here 0.999176 hear 0.000817605 he 5.99878e-06 a 3.30631e-08 *DELETE* 1.90866e-08
+align 13 *DELETE* 0.999813 uh 0.000112102 i 6.84079e-05 here 6.03184e-06 heater 1.18058e-09
+align 14 *DELETE* 1 here 4.07534e-08
+align 15 </s> 1

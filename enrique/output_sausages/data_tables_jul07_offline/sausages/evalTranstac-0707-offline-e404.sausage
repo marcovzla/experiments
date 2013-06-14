@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 uh 0.99722 oh 0.00278033
+align 2 what 1
+align 3 kind 1
+align 4 of 1
+align 5 uh 1
+align 6 uh 0.85386 *DELETE* 0.14614
+align 7 *DELETE* 0.896704 uh 0.103296
+align 8 uh 0.950369 you 0.0339886 a 0.0137888 *DELETE* 0.00135087 your 0.000496539 oh 4.11615e-06 it 2.13992e-06
+align 9 things 1
+align 10 break 0.86446 brake 0.135147 brick 0.000278433 to 0.000114982
+align 11 *DELETE* 0.999885 break 0.000114982
+align 12 most 1
+align 13 often 1
+align 14 your 0.685846 to 0.203171 in 0.0542669 you're 0.0375069 you 0.00973997 a 0.00488044 do 0.00177944 it 0.00153555 he 0.00127338
+align 15 cars 0.968293 car's 0.0310913 car 0.000433155 cards 0.000144214 cars' 3.87049e-05
+align 16 *DELETE* 0.999498 is 0.000433029 uh 5.59424e-05 i 1.14478e-05 in 8.2032e-07 a 5.93004e-07 as 1.26567e-07
+align 17 </s> 1

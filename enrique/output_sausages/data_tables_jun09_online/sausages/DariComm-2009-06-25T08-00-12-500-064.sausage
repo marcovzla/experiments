@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 what 1
+align 5 this 1
+align 6 is 0.971468 areas 0.0233656 area 0.00300444 *DELETE* 0.00216189
+align 7 *DELETE* 0.994805 is 0.00300444 area's 0.00216189 uh 2.41495e-05 it 3.31004e-06 a 1.39004e-06
+align 8 </s> 1

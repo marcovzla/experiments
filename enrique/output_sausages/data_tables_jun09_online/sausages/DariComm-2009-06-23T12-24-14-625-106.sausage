@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 we 0.916923 okay 0.083077
+align 2 will 0.916923 we'll 0.083077
+align 3 search 1
+align 4 this 0.966739 his 0.0332607
+align 5 vehicle 0.999941 *DELETE* 5.87117e-05
+align 6 *DELETE* 0.998121 uh 0.00175431 vehicles 5.87117e-05 i 3.28775e-05 is 1.89343e-05 it 8.5449e-06 um 3.40703e-06 a 2.56915e-06 you 5.31307e-09 and 1.44642e-11 in 3.03796e-14 that 1.9579e-14 of 1.88839e-20 vehicle's 1.45286e-23
+align 7 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 kids 1
+align 4 would 0.727154 with 0.272846
+align 5 each 0.98209 be 0.00982657 teach 0.0078818 you 0.0001217 the 8.02764e-05
+align 6 *DELETE* 0.989971 each 0.0100285 it 1.08852e-07
+align 7 wife 0.419161 wives 0.255524 why 0.0984406 wise 0.0662327 wide 0.065759 white 0.0603824 life 0.0131796 wives' 0.0115683 lives 0.00319847 *DELETE* 0.00287024 wife's 0.00244141 one 0.00124216
+align 8 *DELETE* 0.994083 if 0.00162286 is 0.00116523 live 0.000941355 wai 0.000766708 y 0.000708363 why's 0.000371537 uh 0.000153835 leith 7.69349e-05 i've 7.69325e-05 i 2.67463e-05 why'd 5.34075e-06 a 1.2356e-06 um 9.96483e-11 who 9.82287e-13 life's 1.80858e-15
+align 9 </s> 1

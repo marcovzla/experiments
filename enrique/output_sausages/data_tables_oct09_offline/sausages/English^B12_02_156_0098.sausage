@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 so 0.76141 *DELETE* 0.234625 sir 0.00396516
+align 2 how 1
+align 3 many 1
+align 4 what's 1
+align 5 the 1
+align 6 average 1
+align 7 number 1
+align 8 of 1
+align 9 years 1
+align 10 at 0.689893 that 0.239907 it's 0.0367726 it 0.0178763 but 0.00998024 its 0.0042155 and 0.00135577
+align 11 your 0.99196 our 0.00752167 you're 0.000518262
+align 12 officers 1
+align 13 have 0.938004 a 0.0619961
+align 14 been 1
+align 15 with 1
+align 16 you 0.998218 here 0.00100128 me 0.000563231 him 0.00021738 a 2.62425e-08 few 1.36939e-10
+align 17 *DELETE* 0.999984 uh 9.53409e-06 i 6.58149e-06
+align 18 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 what 0.998523 well 0.00117799 *DELETE* 0.000150442 when 7.74413e-05 why 7.14814e-05
+align 4 i'm 0.99985 one 0.000150442
+align 5 *DELETE* 0.942864 going 0.057136
+align 6 gonna 0.942714 to 0.0572864
+align 7 suggest 0.721259 suggests 0.278741
+align 8 the 0.551935 that 0.320873 so 0.0995617 a 0.0272475 to 0.000346171 is 2.53452e-05 as 1.14686e-05
+align 9 *DELETE* 0.999963 a 3.68138e-05
+align 10 we 1
+align 11 hit 0.994162 heat 0.00583831
+align 12 it 1
+align 13 from 1
+align 14 the 1
+align 15 north 1
+align 16 and 1
+align 17 the 1
+align 18 south 1
+align 19 *DELETE* 1 of 1.09635e-07
+align 20 </s> 1

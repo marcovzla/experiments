@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 can 1
+align 3 provide 1
+align 4 generators 1
+align 5 for 1
+align 6 the 0.798436 this 0.201564
+align 7 school 1
+align 8 and 0.98045 in 0.0195498
+align 9 the 0.966273 a 0.0337267
+align 10 hospital 0.999762 hospitals 0.00023751 *DELETE* 4.26058e-17
+align 11 *DELETE* 0.999944 now 3.77051e-05 uh 1.12357e-05 is 6.65646e-06 hospital's 2.85395e-08 and 1.53359e-08 in 1.41141e-10
+align 12 </s> 1

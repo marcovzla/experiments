@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 on 1
+align 2 the 1
+align 3 job 1
+align 4 site 1
+align 5 i 1
+align 6 *DELETE* 0.99954 i 0.000459965
+align 7 will 0.940165 we'll 0.0598354
+align 8 be 1
+align 9 providing 1
+align 10 security 1
+align 11 for 1
+align 12 the 1
+align 13 workers 0.998635 workers' 0.00124064 worker's 0.00012474
+align 14 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.957191 one 0.0426287 well 0.000172585 *DELETE* 7.83801e-06
+align 2 is 0.939547 of 0.0438473 was 0.0085958 are 0.00538897 *DELETE* 0.00225272 do 0.000242236 does 0.000126002
+align 3 the 1
+align 4 size 1
+align 5 of 0.99996 in 3.954e-05 and 1.75398e-18
+align 6 the 1
+align 7 school 0.999986 schools 1.41328e-05
+align 8 *DELETE* 0.999968 uh 3.15033e-05 in 2.21041e-07 of 4.0737e-16
+align 9 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 is 1
+align 3 this 0.999743 his 0.000257348
+align 4 car 0.999864 collar 0.000135512
+align 5 here 0.998594 hear 0.000844666 a 0.000561569 *DELETE* 2.03507e-33
+align 6 *DELETE* 0.997547 uh 0.00141679 here 0.000561569 i 0.000401574 is 4.43027e-05 to 1.46815e-05 it 1.10432e-05 in 3.16245e-06 and 2.63003e-07 you 4.33076e-09 but 8.3614e-10 the 1.18622e-12 do 2.88527e-15 her 3.79205e-31
+align 7 </s> 1

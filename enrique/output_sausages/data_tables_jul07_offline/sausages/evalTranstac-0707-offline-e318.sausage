@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 now 0.506755 all 0.25007 not 0.114345 alright 0.108894 how 0.0172485 oh 0.0018542 uh 0.000832413
+align 2 right 0.890273 *DELETE* 0.108894 alright 0.000832413
+align 3 now 1
+align 4 since 0.994397 sir 0.00560258
+align 5 *DELETE* 0.994729 so 0.00527098
+align 6 we 0.87082 we're 0.128813 so 0.000331605 *DELETE* 3.59807e-05
+align 7 just 1
+align 8 receive 0.534202 receives 0.465045 received 0.000753287
+align 9 the 0.537019 a 0.461753 them 0.000987834 their 0.000195105 that 4.1534e-05 then 3.96494e-06
+align 10 mission 0.998955 nation 0.00104452
+align 11 we're 0.958459 were 0.0407268 more 0.000585826 we 0.00022814
+align 12 *DELETE* 0.999772 were 0.00022814
+align 13 still 1
+align 14 in 0.995005 on 0.0049947
+align 15 the 1
+align 16 planning 1
+align 17 process 1
+align 18 uh 0.999274 *DELETE* 0.000643341 so 8.2683e-05
+align 19 *DELETE* 0.970251 uh 0.0260012 i 0.00270702 a 0.00103741 if 1.64661e-06 it 1.39255e-06
+align 20 </s> 1

@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 uh 0.983048 *DELETE* 0.0105612 i'll 0.00475955 i 0.0016311
+align 4 i'll 0.966221 uh 0.0219486 i 0.00707608 *DELETE* 0.00475412
+align 5 *DELETE* 0.970981 i'll 0.0288612 will 0.000157973
+align 6 provide 1
+align 7 you 1
+align 8 with 1
+align 9 the 0.823063 that 0.0972711 *DELETE* 0.0455367 uh 0.0341287
+align 10 uh 0.593627 *DELETE* 0.406117 a 0.000255509
+align 11 we 1
+align 12 have 1
+align 13 extras 0.585313 extra 0.400964 actions 0.0122652 action 0.0014577
+align 14 so 1
+align 15 i'll 0.999995 uh 5.44439e-06
+align 16 provide 1
+align 17 you 1
+align 18 with 1
+align 19 uh 1
+align 20 spike 1
+align 21 strips 1
+align 22 </s> 1

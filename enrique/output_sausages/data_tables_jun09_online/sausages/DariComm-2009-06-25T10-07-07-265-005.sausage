@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 command 0.962758 can 0.0245048 *DELETE* 0.00945713 come 0.00327999
+align 2 *DELETE* 0.962758 man 0.037242
+align 3 play 0.748587 playing 0.157281 plate 0.0938906 place 0.00024099
+align 4 instruction 0.994183 instructions 0.00554035 destruction 0.000276525 *DELETE* 1.51518e-26
+align 5 *DELETE* 0.999969 i 2.75366e-05 on 2.91013e-06 to 3.81581e-07 in 1.97143e-07 uh 8.70819e-08 it 4.12611e-09 and 8.92155e-14 structure 5.2513e-17
+align 6 </s> 1

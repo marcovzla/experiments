@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 correct 1
+align 4 and 0.995965 in 0.00403539
+align 5 it 1
+align 6 will 1
+align 7 be 1
+align 8 one 1
+align 9 hundred 1
+align 10 and 1
+align 11 fifty 0.986308 fifteen 0.0136916
+align 12 meters 1
+align 13 high 0.999908 hi 9.15357e-05 hay 1.48441e-15
+align 14 *DELETE* 1 uh 2.24406e-17
+align 15 </s> 1

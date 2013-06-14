@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 did 0.60693 do 0.39307
+align 3 they 0.999953 a 4.6664e-05
+align 4 attack 1
+align 5 *DELETE* 0.999847 you 0.000151569 the 1.75637e-06 a 4.14416e-18
+align 6 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.983049 i 0.0169506
+align 3 only 1
+align 4 understood 1
+align 5 massage 1 massaged 1.27047e-17
+align 6 collector 0.657445 an 0.279614 and 0.0325409 in 0.0292201 *DELETE* 0.00117964 at 8.74304e-10
+align 7 *DELETE* 0.637705 electric 0.342308 of 0.0197384 electoral 0.000246817 if 2.24321e-06
+align 8 therapy 0.989115 their 0.0092982 there 0.00129095 they're 0.000182996 *DELETE* 0.000112787
+align 9 *DELETE* 0.989115 pay 0.00514557 p 0.00193907 pain 0.00169378 be 0.000614169 pee 0.00044344 pre 0.000360237 appear 0.00029267 pink 0.000260223 turkey 0.000112786 being 2.29955e-05 european 1.58243e-09 paying 4.857e-14 i 4.69306e-14 paid 1.71848e-16 bring 8.24183e-18 big 2.46549e-18 peak 1.44127e-18 appeal 7.29243e-19 ping 1.87041e-21 pick 5.57453e-22
+align 10 </s> 1

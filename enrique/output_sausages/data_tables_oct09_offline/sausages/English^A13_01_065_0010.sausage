@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 uh 0.597829 a 0.395417 our 0.00675474
+align 4 female 0.94857 a 0.0514302
+align 5 *DELETE* 0.94857 female 0.0514302
+align 6 personnel 1
+align 7 that's 0.994897 *DELETE* 0.00497534 is 0.000127512
+align 8 gonna 0.96632 going 0.0214111 not 0.00729343 as 0.00497534
+align 9 *DELETE* 0.973614 to 0.0263864
+align 10 search 1
+align 11 you 0.581828 your 0.393838 here 0.0238837 you're 0.000197757 in 9.59742e-05 and 9.33597e-05 *DELETE* 6.29624e-05
+align 12 *DELETE* 0.999987 your 1.33097e-05
+align 13 aunt 0.411366 add 0.331057 at 0.209092 uh 0.0197537 and 0.013321 um 0.00475464 i 0.00403176 ad 0.00298224 ant 0.00111151 ass 0.00103946 act 0.000547912 ask 0.000426867 as 0.000206053 a 9.1526e-05 in 7.82031e-05 yeah 6.29624e-05 added 4.70614e-05 asked 1.33469e-05 ads 9.50505e-06 it 3.93067e-06 adds 3.54316e-06 an 5.16898e-08
+align 14 *DELETE* 0.999794 add 0.000191577 it 5.65022e-06 i 4.62091e-06 a 2.62617e-06 uh 1.65342e-06 to 2.787e-07
+align 15 </s> 1

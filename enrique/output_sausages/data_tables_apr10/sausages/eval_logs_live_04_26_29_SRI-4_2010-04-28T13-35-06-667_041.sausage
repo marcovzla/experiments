@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 regular 0.633058 a 0.366942
+align 5 *DELETE* 0.484824 regular 0.366942 uh 0.145475 i 0.00247404 a 0.000286163
+align 6 access 0.983624 uh 0.014754 i 0.00162158
+align 7 *DELETE* 0.983624 access 0.0163756
+align 8 to 0.999911 too 8.93332e-05
+align 9 a 0.999871 it 0.000128898
+align 10 doctor 1
+align 11 *DELETE* 0.999997 i 2.51719e-06
+align 12 </s> 1

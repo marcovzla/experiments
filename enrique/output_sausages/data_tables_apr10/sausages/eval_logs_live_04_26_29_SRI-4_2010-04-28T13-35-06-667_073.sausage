@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 condition 1
+align 5 of 1
+align 6 your 1
+align 7 child's 0.782798 child 0.217202
+align 8 school 0.997452 cool 0.00247719 schools 6.9528e-05 *DELETE* 2.79423e-10
+align 9 *DELETE* 0.999957 i 2.40387e-05 uh 1.51171e-05 up 2.62057e-06 call 8.62365e-07 if 5.03232e-07 schooled 1.38326e-09 a 6.45978e-11
+align 10 </s> 1

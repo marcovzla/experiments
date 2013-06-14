@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 entire 1
+align 4 family 1
+align 5 live 1
+align 6 in 1
+align 7 the 1
+align 8 same 1
+align 9 house 1
+align 10 *DELETE* 0.999998 i 2.30058e-06
+align 11 </s> 1

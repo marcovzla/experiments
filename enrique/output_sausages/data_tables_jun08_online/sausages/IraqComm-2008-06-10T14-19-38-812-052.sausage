@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.997143 i 0.00285736
+align 2 did 1
+align 3 you 1
+align 4 speak 1
+align 5 to 0.999759 two 0.00024095
+align 6 any 1
+align 7 local 1
+align 8 leaders 1
+align 9 and 0.999904 an 9.61321e-05 in 3.16471e-07
+align 10 ask 0.993973 asked 0.00602732
+align 11 for 1
+align 12 help 1
+align 13 *DELETE* 0.999932 uh 6.10767e-05 you 2.91628e-06 i 1.91503e-06 her 9.30958e-07 if 8.11504e-07 us 2.03938e-12 and 5.26368e-14 in 3.02118e-14
+align 14 </s> 1

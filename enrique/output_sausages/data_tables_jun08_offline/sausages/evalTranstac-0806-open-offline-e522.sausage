@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 well 0.410841 will 0.384463 we'll 0.204696
+align 2 hit 0.853141 hear 0.114042 here 0.0319373 hid 0.000879449
+align 3 it 0.707389 *DELETE* 0.281411 a 0.0107953 if 0.000404893
+align 4 from 1
+align 5 the 1
+align 6 east 1 *DELETE* 3.02389e-12
+align 7 and 1 eastern 3.72214e-08
+align 8 west 1
+align 9 </s> 1

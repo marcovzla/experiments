@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 products 1
+align 5 do 1 due 6.41356e-27
+align 6 you 1
+align 7 sell 0.997504 self 0.00188099 *DELETE* 0.00061495
+align 8 *DELETE* 0.997876 it 0.0013056 cell 0.00061495 them 0.000127883 in 3.50011e-05 the 3.42783e-05 a 3.11369e-06 do 2.6036e-06 uh 8.27153e-07 at 3.55742e-10 you 1.50218e-11 to 3.98655e-12 that 9.11221e-14
+align 9 </s> 1

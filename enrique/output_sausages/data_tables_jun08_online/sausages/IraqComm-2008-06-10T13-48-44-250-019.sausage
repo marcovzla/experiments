@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 did 0.640158 i 0.140591 *DELETE* 0.13051 a 0.0572734 you 0.0127368 okay 0.00942173 uh 0.00829701 it 0.000794142 eight 0.000215556 is 3.19775e-06
+align 2 *DELETE* 0.640158 did 0.177487 get 0.043986 good 0.0362418 could 0.029574 if 0.0265467 it's 0.0221809 kid 0.016133 that 0.00248249 its 0.00168785 it 0.00116397 kids 0.000645035 kit 0.000428163 can 0.000419045 aided 0.00032157 third 0.000282659 it'd 0.000123128 would 5.95775e-05 gate 4.5675e-05 kids' 3.2166e-05 kits 1.87347e-06
+align 3 somebody 1
+align 4 steal 0.999993 steel 6.7625e-06
+align 5 these 0.995409 the 0.00459087
+align 6 supplies 1
+align 7 *DELETE* 0.999902 uh 9.8489e-05 i 1.21495e-12
+align 8 </s> 1

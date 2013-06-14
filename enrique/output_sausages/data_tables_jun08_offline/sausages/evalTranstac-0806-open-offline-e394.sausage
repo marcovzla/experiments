@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 since 1
+align 2 you're 0.726485 your 0.272373 you 0.00114184
+align 3 *DELETE* 0.998858 are 0.00114184
+align 4 iraqi 0.938524 iraq 0.0614765
+align 5 *DELETE* 0.93188 you 0.0678624 may 0.000202062 of 5.52764e-05
+align 6 maybe 0.999798 be 0.000202062
+align 7 you 1
+align 8 could 1
+align 9 tell 1
+align 10 me 1
+align 11 *DELETE* 0.998996 a 0.00100379
+align 12 but 1
+align 13 i 1
+align 14 *DELETE* 0.99942 i 0.000580346
+align 15 got 1
+align 16 a 1
+align 17 pretty 1
+align 18 good 1
+align 19 bad 0.999943 revive 2.67566e-05 revived 1.61975e-05 *DELETE* 1.37503e-05
+align 20 from 0.677311 can 0.27755 in 0.0293394 thing 0.00760102 and 0.00760009 *DELETE* 0.000502594 come 8.21966e-05 revived 1.37503e-05
+align 21 *DELETE* 0.999997 from 2.87751e-06
+align 22 the 0.999555 to 0.000332312 *DELETE* 0.000113095 that 2.27115e-10
+align 23 people 0.999834 peoples 0.000166332 people's 1.40797e-07
+align 24 *DELETE* 0.999979 uh 1.67551e-05 i 4.08773e-06 of 6.40018e-09
+align 25 </s> 1

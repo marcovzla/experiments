@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 had 1
+align 4 any 1
+align 5 problems 1
+align 6 with 1
+align 7 uh 1
+align 8 weapons 0.999805 weapon 0.000194663
+align 9 theft 0.996531 staffed 0.00151583 left 0.00116364 fast 0.000359928 thefts 0.000343481 staff 8.55197e-05 *DELETE* 3.17478e-13
+align 10 *DELETE* 0.999996 of 2.82324e-06 that 6.29945e-07 i 2.49008e-07 or 5.11646e-11
+align 11 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.986084 do 0.0139158
+align 2 *DELETE* 0.897134 you 0.102866
+align 3 the 0.782741 *DELETE* 0.114444 have 0.102815 if 4.99206e-11
+align 4 any 0.995631 of 0.00436938
+align 5 *DELETE* 0.995631 any 0.00436938
+align 6 weapons 1
+align 7 in 1
+align 8 the 1
+align 9 house 1
+align 10 *DELETE* 0.999956 i 3.77161e-05 uh 6.59966e-06
+align 11 </s> 1

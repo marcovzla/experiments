@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 we 0.862314 *DELETE* 0.137609 with 6.22697e-05 would 1.50621e-05
+align 2 are 0.85813 we're 0.137609 *DELETE* 0.00426046
+align 3 you 1
+align 4 going 1
+align 5 today 1
+align 6 *DELETE* 1 uh 1.89339e-14
+align 7 </s> 1

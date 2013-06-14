@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 open 1
+align 4 up 1
+align 5 the 0.999999 to 5.17563e-07 that 3.96224e-08
+align 6 uh 0.966024 *DELETE* 0.0339764
+align 7 the 0.999832 does 0.000110064 dirt 5.25873e-05 *DELETE* 4.49982e-06 back 1.34076e-06 but 9.20107e-12
+align 8 hood 0.999833 it 0.000162593 better 4.48743e-06 that 5.89837e-08 bitter 1.23943e-08
+align 9 *DELETE* 0.999998 it 1.57584e-06
+align 10 please 1 pleas 7.24189e-08
+align 11 </s> 1

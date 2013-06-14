@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 um 1
+align 3 about 0.674412 how 0.325588
+align 4 *DELETE* 0.674412 about 0.325588
+align 5 your 1
+align 6 hospital 1
+align 7 um 0.999451 uh 0.000548662
+align 8 *DELETE* 0.999996 uh 3.65387e-06
+align 9 how 1
+align 10 many 1
+align 11 doctors 1
+align 12 do 1
+align 13 you 1
+align 14 have 1
+align 15 here 1
+align 16 *DELETE* 0.991763 are 0.0082372
+align 17 and 1
+align 18 how 1
+align 19 many 1
+align 20 nurses 1
+align 21 do 1
+align 22 you 1
+align 23 have 1
+align 24 on 0.999914 a 4.36804e-05 in 4.26048e-05
+align 25 your 0.999956 new 4.36804e-05
+align 26 staff 1
+align 27 *DELETE* 1 i 2.01002e-07
+align 28 </s> 1

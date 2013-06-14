@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i'm 1 i 1.78482e-07
+align 2 *DELETE* 1 am 1.78482e-07
+align 3 fine 1
+align 4 how 1
+align 5 are 1
+align 6 you 1
+align 7 *DELETE* 0.999911 now 6.18745e-05 i 9.5628e-06 know 8.19102e-06 in 8.03572e-06 sir 6.66037e-07 uh 4.21838e-07 going 1.80761e-07 all 1.28703e-08
+align 8 </s> 1

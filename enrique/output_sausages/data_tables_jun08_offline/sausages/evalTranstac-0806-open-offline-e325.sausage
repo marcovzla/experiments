@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 no 0.705213 now 0.205581 *DELETE* 0.0777076 oh 0.00618132 uh 0.00294294 not 0.00221403 none 0.000160304
+align 2 i 0.843354 *DELETE* 0.156646
+align 3 know 0.840377 no 0.154866 now 0.00472755 of 2.9841e-05
+align 4 the 1
+align 5 first 1
+align 6 thing 1
+align 7 uh 0.996422 i 0.00196689 out 0.0013758 *DELETE* 0.000234935
+align 8 *DELETE* 0.962888 when 0.0198981 one 0.0152475 uh 0.00196689
+align 9 over 0.776438 *DELETE* 0.165221 or 0.021071 we're 0.017269 wilmer 0.0072409 were 0.00714246 what 0.00280511 our 0.00201705 one 0.000444991 when 0.000350525
+align 10 *DELETE* 0.999204 or 0.000444991 we're 0.000227478 were 0.000123047
+align 11 time 0.834779 overtime 0.165221
+align 12 what 1
+align 13 airway 1
+align 14 uh 0.999737 oh 0.000262823
+align 15 you'll 0.589076 you 0.403912 uh 0.00561083 your 0.00140101
+align 16 *DELETE* 0.993864 you'll 0.00293217 you 0.00267866 a 0.000525268
+align 17 come 1
+align 18 up 1
+align 19 to 1
+align 20 the 1
+align 21 victim 1
+align 22 *DELETE* 0.999993 i 6.97661e-06
+align 23 uh 1
+align 24 in 0.683779 and 0.12398 an 0.0915115 a 0.0457266 *DELETE* 0.0333807 n 0.013836 uh 0.00778696
+align 25 *DELETE* 0.992213 in 0.00743537 and 0.000351589
+align 26 you 0.920893 new 0.0456367 annual 0.0333807 knew 8.99355e-05
+align 27 actually 0.992386 will 0.00722548 well 0.000387774 uh 7.0969e-07
+align 28 *DELETE* 0.991255 actually 0.00761397 you 0.00113096
+align 29 look 1
+align 30 in 0.999611 and 0.000388811
+align 31 his 1
+align 32 mouth 1
+align 33 </s> 1

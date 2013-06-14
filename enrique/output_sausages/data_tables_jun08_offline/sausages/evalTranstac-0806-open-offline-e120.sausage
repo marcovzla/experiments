@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 do 1
+align 3 you 0.998929 *DELETE* 0.00107066
+align 4 *DELETE* 0.999426 know 0.000573921
+align 5 do 1
+align 6 you 1
+align 7 know 1
+align 8 uh 1
+align 9 what 0.999366 uh 0.000634331
+align 10 *DELETE* 0.999366 what 0.000634331
+align 11 time 1
+align 12 uh 1
+align 13 the 1
+align 14 red 0.999371 right 0.000629411
+align 15 car 1
+align 16 left 0.913603 last 0.0835846 laughed 0.00133644 a 0.0010784 lest 0.000259135 lafta 7.85354e-05 lasts 5.99267e-05
+align 17 *DELETE* 0.998911 left 0.0010784 uh 5.65224e-06 a 3.96998e-06 i 1.24348e-06 the 8.15757e-08
+align 18 </s> 1

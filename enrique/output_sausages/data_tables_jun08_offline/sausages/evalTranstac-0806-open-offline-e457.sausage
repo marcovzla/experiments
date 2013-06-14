@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 if 1
+align 3 we 1
+align 4 meet 1
+align 5 uh 1
+align 6 light 0.685394 like 0.263347 late 0.0512592
+align 7 resistance 1
+align 8 uh 1
+align 9 we'll 0.939137 will 0.0594718 uh 0.00139109
+align 10 *DELETE* 0.998609 we'll 0.00138092 will 1.01717e-05
+align 11 continue 1
+align 12 on 1
+align 13 with 1
+align 14 the 1
+align 15 the 0.999982 be 9.26975e-06 thi 9.19603e-06
+align 16 assault 0.997764 is 0.00209218 *DELETE* 0.000104214 a 3.95638e-05 insult 7.82227e-12
+align 17 *DELETE* 0.997764 salt 0.00223596
+align 18 </s> 1

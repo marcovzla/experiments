@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 if 0.825454 *DELETE* 0.174546
+align 2 you 1
+align 3 need 0.825454 can 0.174546
+align 4 to 0.825454 either 0.174546
+align 5 cooperate 1
+align 6 </s> 1

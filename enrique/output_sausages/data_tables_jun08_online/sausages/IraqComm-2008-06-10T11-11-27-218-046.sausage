@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 tell 1
+align 2 me 1
+align 3 again 1
+align 4 who 0.994357 he 0.00564043 *DELETE* 4.94838e-11
+align 5 lives 1
+align 6 here 1
+align 7 </s> 1

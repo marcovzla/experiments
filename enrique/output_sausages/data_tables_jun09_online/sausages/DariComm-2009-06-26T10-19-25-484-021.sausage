@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.644777 why 0.331248 well 0.0239207 where 5.48879e-05
+align 2 do 1
+align 3 you 1
+align 4 need 1
+align 5 the 0.996947 them 0.00299014 to 6.29798e-05
+align 6 money 1
+align 7 for 0.999549 *DELETE* 0.000451159
+align 8 *DELETE* 0.992386 it 0.00604828 you 0.000856877 four 0.000451159 the 0.000161825 a 4.41534e-05 uh 2.35618e-05 that 1.90179e-05 i 8.72607e-06
+align 9 </s> 1

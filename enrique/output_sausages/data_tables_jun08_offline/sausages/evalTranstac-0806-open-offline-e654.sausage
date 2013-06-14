@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 are 1
+align 3 you 1
+align 4 prepared 1
+align 5 to 1
+align 6 conduct 1
+align 7 this 1
+align 8 uh 1
+align 9 procedure 1
+align 10 tomorrow 0.393774 that 0.371782 it 0.119622 uh 0.0690488 *DELETE* 0.043413 who 0.00215065 of 0.00010552 if 6.60575e-05 the 3.70995e-05 or 4.12075e-07 for 6.9855e-11
+align 11 tomorrow 0.606226 *DELETE* 0.393774
+align 12 at 0.685984 in 0.183459 and 0.127368 admit 0.00179567 it 0.000999395 i 0.000309719 edna 7.285e-05 if 1.04066e-05
+align 13 *DELETE* 0.685925 the 0.294678 that 0.0159167 mid 0.00317031 admit 0.000309719
+align 14 midday 0.684056 day 0.315942 de 1.33149e-06
+align 15 *DELETE* 1 i 2.21986e-09
+align 16 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 like 0.876483 i 0.123517
+align 2 *DELETE* 0.934933 like 0.0650669
+align 3 something 0.979966 some 0.0200342
+align 4 *DELETE* 0.979966 can 0.0200342
+align 5 bright 0.996206 bray 0.00379445
+align 6 as 0.996895 *DELETE* 0.00310474
+align 7 a 0.761911 of 0.0981104 if 0.0677112 it 0.0518805 us 0.00991018 as 0.00483072 azza 0.00310474 assume 0.00242682 affirm 0.000114088
+align 8 *DELETE* 0.484083 for 0.224399 from 0.164193 four 0.0862731 through 0.0261086 firm 0.00599934 thin 0.00248185 sore 0.0016624 third 0.00160554 fore 0.00155998 some 0.00138061 thing 0.000253233 fruit 4.67312e-07
+align 9 singer 0.463724 there 0.425025 their 0.0848901 flare 0.0125547 they're 0.00530112 air 0.00365478 further 0.0020957 finger 0.0012258 her 0.00041392 sooner 0.000356022 severe 0.000215515 foreigner 0.000175611 flower 0.000132507 or 7.11226e-05 center 5.11224e-05 here 4.25551e-05 fever 2.54076e-05 error 1.39499e-05 thinner 1.11695e-05 flour 9.42068e-06 our 6.84347e-06 are 3.44758e-06 ever 2.26951e-07 samir 3.91615e-08
+align 10 *DELETE* 0.999997 are 3.3221e-06
+align 11 </s> 1

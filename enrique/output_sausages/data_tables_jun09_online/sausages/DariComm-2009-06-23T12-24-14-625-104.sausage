@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 search 1
+align 4 the 0.999986 *DELETE* 1.44609e-05
+align 5 van 0.979223 vein 0.0184427 *DELETE* 0.0023344
+align 6 *DELETE* 0.995809 who 0.00131745 vendor 0.000988345 vans 0.000916859 him 0.000220646 vent 0.000165295 event 0.000147947 vance 8.40371e-05 it 6.22729e-05 and 6.21665e-05 uh 6.00162e-05 too 3.32316e-05 to 2.9471e-05 her 2.48753e-05 i 2.21302e-05 high 1.80637e-05 venture 1.65843e-05 vanna 1.28396e-05 you 2.66652e-06 veins 2.46528e-06 a 2.37816e-06 how 6.88163e-07 do 2.23254e-07 vents 2.47495e-08 did 2.75156e-09 on 4.7213e-10 venom 1.68491e-10 um 2.7044e-13 that 9.14564e-15 come 3.6692e-16 in 1.75061e-16 hi 6.97954e-18 can 1.23203e-18 he 8.0494e-19 now 3.93204e-20 events 1.38021e-20 here 1.22746e-22 whom 1.49985e-23 vanish 9.15935e-32
+align 7 *DELETE* 1 and 7.01756e-27 in 3.09666e-29
+align 8 </s> 1

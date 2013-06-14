@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 well 0.944855 what 0.0503063 all 0.00194902 we'll 0.00128384 will 0.000852486 we 0.000502471 or 0.000180782 *DELETE* 5.94575e-05 while 1.10012e-05
+align 2 we 1
+align 3 can 1
+align 4 do 1
+align 5 is 0.999108 as 0.000892368
+align 6 you 1
+align 7 can 1
+align 8 leave 0.886483 lead 0.113517 we 9.86296e-08 *DELETE* 9.17412e-12
+align 9 it 0.990554 to 0.00508902 at 0.00195069 that 0.00133034 hit 0.000585162 here 0.000326869 yet 0.000154436 get 8.95195e-06 good 2.20659e-07 lita 1.40254e-08 lida 1.40254e-08 leda 1.40254e-08
+align 10 *DELETE* 0.998861 it 0.00113796 uh 9.79329e-07 at 4.7718e-09
+align 11 </s> 1

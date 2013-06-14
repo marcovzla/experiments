@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 i've 0.711358 i 0.288642
+align 2 seen 0.968547 see 0.0314532
+align 3 *DELETE* 0.968547 no 0.0227846 you 0.00866855
+align 4 *DELETE* 0.991331 know 0.00866855
+align 5 uh 1
+align 6 *DELETE* 0.95282 uh 0.0471801
+align 7 *DELETE* 0.999945 uh 5.5268e-05
+align 8 on 1
+align 9 the 1
+align 10 back 1
+align 11 at 0.603666 of 0.396334
+align 12 the 1
+align 13 hospital 1
+align 14 *DELETE* 0.904723 in 0.079405 i'm 0.0114951 and 0.00262374 now 0.00160226 no 0.000151091
+align 15 on 1
+align 16 the 1
+align 17 side 1
+align 18 of 0.998245 on 0.00172174 *DELETE* 3.34765e-05
+align 19 hospitals 0.994834 hospital's 0.00516577 hospitals' 8.46729e-08
+align 20 well 1
+align 21 i've 0.988235 i 0.0117654
+align 22 *DELETE* 0.9905 i've 0.0094998 i 2.32999e-07
+align 23 seen 0.999925 see 7.45943e-05
+align 24 uh 0.642115 us 0.211244 a 0.057531 or 0.0346801 is 0.0244688 as 0.0180333 are 0.00916294 the 0.00150242 *DELETE* 0.00118873 no 5.33508e-05 now 1.16481e-05 you 9.59543e-06
+align 25 *DELETE* 0.99999 know 9.59543e-06
+align 26 some 0.996856 sum 0.0029369 them 0.000205909 in 1.11741e-06
+align 27 graffiti 1 of 1.85895e-08
+align 28 *DELETE* 0.999895 i 5.70296e-05 uh 4.70517e-05 a 1.23673e-06 graffiti 1.85895e-08
+align 29 </s> 1

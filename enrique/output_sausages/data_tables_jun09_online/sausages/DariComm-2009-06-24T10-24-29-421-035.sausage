@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 tell 1
+align 2 me 1
+align 3 again 1
+align 4 what 1
+align 5 else 1
+align 6 do 1
+align 7 you 1
+align 8 need 1
+align 9 *DELETE* 0.995043 uh 0.00283574 it 0.00131134 to 0.000645008 a 0.000133178 that 2.8621e-05 the 1.15749e-06 you 9.12099e-07 do 2.9219e-07 them 2.06969e-07 um 1.64838e-07 us 4.83328e-08 i 3.73993e-08 in 3.68214e-08 me 4.72273e-10 and 5.76386e-11 at 3.77683e-12
+align 10 </s> 1

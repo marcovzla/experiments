@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 does 1 is 1.25967e-11
+align 2 your 1
+align 3 brother 1
+align 4 have 1
+align 5 any 1
+align 6 tattoos 1
+align 7 or 0.998675 were 0.00128686 we're 3.78956e-05
+align 8 scars 0.995509 stars 0.0044907
+align 9 </s> 1

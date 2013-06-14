@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 1
+align 7 the 0.999964 a 3.57323e-05
+align 8 neighborhood 0.99999 *DELETE* 9.90272e-06
+align 9 *DELETE* 0.999155 uh 0.000831613 neighborhoods 9.83156e-06 i 2.13998e-06 is 1.10981e-06 neighborhood's 7.11605e-08 do 7.40501e-14 to 3.82219e-14
+align 10 </s> 1

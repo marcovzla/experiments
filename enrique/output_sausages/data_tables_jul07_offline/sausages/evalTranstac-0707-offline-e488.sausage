@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999999 does 8.76049e-07
+align 3 his 1
+align 4 name 1 name's 9.42623e-08
+align 5 sir 1
+align 6 </s> 1

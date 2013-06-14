@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 you're 0.557495 you 0.434521 your 0.00362214 we 0.00326795 they're 0.0010941
+align 2 are 0.437537 a 0.435873 *DELETE* 0.12659
+align 3 very 0.999728 ever 0.000251996 a 2.04199e-05
+align 4 *DELETE* 0.99998 very 2.04199e-05
+align 5 strong 1
+align 6 woman 0.999948 will 4.27763e-05 we'll 7.34625e-06 what 2.37439e-06
+align 7 and 0.999332 *DELETE* 0.000615832 may 5.24969e-05
+align 8 i 1
+align 9 look 1
+align 10 forward 1
+align 11 to 0.947461 as 0.0310643 is 0.0214746
+align 12 saying 0.851978 seeing 0.114233 sing 0.0337887
+align 13 hello 1
+align 14 to 1
+align 15 you 1
+align 16 in 1
+align 17 the 1
+align 18 future 1
+align 19 *DELETE* 1 i 1.73008e-07
+align 20 </s> 1

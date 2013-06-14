@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 hopefully 1
+align 2 we'll 0.994989 will 0.00501112
+align 3 have 1
+align 4 an 0.999264 any 0.000736266
+align 5 answer 1
+align 6 for 1
+align 7 you 1
+align 8 by 0.815889 buy 0.181184 bye 0.00247869 but 0.000448661
+align 9 then 0.614374 them 0.377962 there 0.00530411 that 0.00150985 the 0.000667861 than 9.09929e-05 their 8.85581e-05 either 3.05809e-06 though 2.69205e-08 god 2.0635e-08 this 8.3494e-13
+align 10 *DELETE* 0.999945 end 2.20523e-05 in 1.18321e-05 m 1.05348e-05 uh 7.12066e-06 i 3.30067e-06
+align 11 </s> 1

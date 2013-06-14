@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999965 oh 3.51035e-05
+align 2 okay 1
+align 3 thanks 0.715867 thank 0.221353 thing 0.0627802
+align 4 a 0.473421 some 0.269544 i'm 0.200103 *DELETE* 0.0569314
+align 5 much 0.473421 what's 0.27054 watch 0.105552 *DELETE* 0.0817599 somewhat 0.0569314 wants 0.011007 once 0.000788387
+align 6 and 0.904679 watching 0.0817599 in 0.0135607
+align 7 thank 1
+align 8 you 1
+align 9 for 1
+align 10 your 0.999991 you 9.18124e-06
+align 11 time 1
+align 12 *DELETE* 0.998513 uh 0.00145051 i 3.61696e-05 um 7.3296e-07
+align 13 </s> 1

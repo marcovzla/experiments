@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 we're 0.649207 were 0.297302 where 0.0534916
+align 3 well 0.516383 we'll 0.482344 will 0.000944864 what 0.000297496 while 3.12204e-05
+align 4 we'll 0.996092 will 0.00390825
+align 5 go 1
+align 6 ahead 1
+align 7 and 1
+align 8 do 1
+align 9 while 0.537804 why 0.399954 *DELETE* 0.0620707 a 0.000171668 what 2.9298e-09
+align 10 we're 0.605631 were 0.230035 well 0.0733763 will 0.0522775 we'll 0.025063 *DELETE* 0.00670138 where 0.00586382 why 0.000350933 while 0.000274211 words 0.000125088 weren't 0.000116594 one 9.95148e-05 was 8.52088e-05 word 1.60294e-08
+align 11 *DELETE* 0.999222 we'll 0.000761956 one 1.24323e-05 was 3.2168e-06
+align 12 inside 0.999558 side 0.000442071
+align 13 the 1
+align 14 base 1
+align 15 i'll 0.989792 so 0.00740979 all 0.00279852
+align 16 go 1
+align 17 ahead 1
+align 18 and 1
+align 19 uh 1
+align 20 train 0.916475 uh 0.0835251
+align 21 *DELETE* 0.916475 train 0.0835251
+align 22 your 1
+align 23 men 1
+align 24 *DELETE* 0.999982 at 1.56057e-05 to 2.25465e-06 uh 8.96482e-08
+align 25 </s> 1

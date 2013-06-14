@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 also 1
+align 4 going 1
+align 5 to 1
+align 6 home 1
+align 7 and 1 *DELETE* 1.16425e-10
+align 8 *DELETE* 0.954318 uh 0.0269142 i 0.0162693 a 0.000665047 it 0.000442542 the 0.000387282 to 0.000233848 you 0.000212622 do 0.000136899 um 0.00011855 in 8.773e-05 we 7.36909e-05 if 5.67122e-05 and 3.03485e-05 i'm 2.99616e-05 they 9.19247e-06 he 7.23832e-06 then 2.92561e-06 be 2.54032e-06 at 4.7418e-07 on 3.75945e-07 did 2.03824e-07 an 5.34279e-08 as 3.52992e-08 end 3.40027e-10
+align 9 </s> 1

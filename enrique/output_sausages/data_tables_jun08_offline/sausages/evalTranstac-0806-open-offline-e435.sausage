@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 dismount 1
+align 3 uh 0.960182 *DELETE* 0.0310164 a 0.00880121
+align 4 cordon 0.93224 cord 0.0366532 accord 0.0310164 *DELETE* 9.07741e-05
+align 5 *DELETE* 0.995839 uh 0.0039268 it 0.000143221 coordinate 9.07741e-05 a 5.86849e-08
+align 6 and 1
+align 7 cordon 1
+align 8 off 1
+align 9 the 1 *DELETE* 1.83092e-14
+align 10 area 1
+align 11 </s> 1

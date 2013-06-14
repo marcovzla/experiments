@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 0.999256 okay 0.0007441
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 what's 1
+align 6 your 1
+align 7 occupation 1
+align 8 again 1
+align 9 *DELETE* 0.999999 okay 4.01875e-07 uh 1.46333e-07
+align 10 </s> 1

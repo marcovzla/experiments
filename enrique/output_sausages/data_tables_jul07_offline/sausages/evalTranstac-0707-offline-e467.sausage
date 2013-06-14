@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.998031 i 0.00196888
+align 3 know 1
+align 4 it's 1
+align 5 not 1
+align 6 the 1
+align 7 best 1
+align 8 thing 1
+align 9 for 1
+align 10 you 1
+align 11 the 0.560601 but 0.439399
+align 12 long 1
+align 13 term 1
+align 14 it'll 0.999978 he'll 2.17749e-05
+align 15 be 1
+align 16 the 1
+align 17 best 1
+align 18 for 0.998129 your 0.00187061
+align 19 security 1
+align 20 in 1 *DELETE* 3.14342e-11
+align 21 the 1 any 1.31881e-08
+align 22 area 1
+align 23 *DELETE* 0.999999 uh 7.71171e-07 i 4.39579e-07
+align 24 </s> 1

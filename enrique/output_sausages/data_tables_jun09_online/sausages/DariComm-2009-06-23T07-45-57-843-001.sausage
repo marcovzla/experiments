@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 that's 0.866446 testing 0.11844 yes 0.0133737 um 0.00174079
+align 2 *DELETE* 0.997749 that's 0.00174038 a 0.000510385 yes 4.12324e-07
+align 3 a 0.94446 okay 0.0361096 *DELETE* 0.0191523 i 0.00027435 they 3.90692e-06 my 1.21146e-07
+align 4 *DELETE* 0.994223 a 0.00577744
+align 5 </s> 1

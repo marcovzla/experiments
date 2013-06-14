@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 how 0.910787 now 0.0630655 i 0.0183595 uh 0.0077876
+align 2 you 0.995739 do 0.00362646 *DELETE* 0.000442743 i 0.000191808
+align 3 see 0.996856 *DELETE* 0.00314353
+align 4 you 0.573434 a 0.422369 seize 0.00300335 *DELETE* 0.00105356 sees 0.000140182
+align 5 stick 0.676873 stake 0.19552 steak 0.127607
+align 6 to 1
+align 7 prove 1
+align 8 beneath 1
+align 9 the 0.979441 a 0.0205588
+align 10 lettuce 1
+align 11 you 1
+align 12 suspect 0.985516 suspects 0.0144841
+align 13 that 1
+align 14 there 0.678536 they 0.295872 they're 0.0181277 the 0.00727797 *DELETE* 0.000186598
+align 15 are 0.986227 or 0.00831836 *DELETE* 0.0043177 were 0.000948987 their 0.000186598 work 1.47489e-06
+align 16 crates 0.826545 grates 0.129704 creates 0.0372635 car 0.00565511 kurds 0.00069659 crate 4.85142e-05 great 4.56638e-05 krayd 2.28177e-05 qrayt 1.11817e-05 create 6.34679e-06 right 1.47489e-06
+align 17 *DELETE* 0.994345 it's 0.00565511
+align 18 there 0.937161 their 0.0353111 they're 0.0210467 sir 0.00593113 *DELETE* 0.000550049
+align 19 *DELETE* 0.998646 uh 0.000822419 are 0.000316327 air 8.82436e-05 they 5.43979e-05 there're 2.90985e-05 that 1.76728e-05 then 1.10034e-05 i 1.0336e-05 a 3.86463e-06 is 2.0992e-07 in 7.29975e-14 or 1.97209e-14 the 3.23215e-17
+align 20 *DELETE* 0.999983 are 1.68893e-05
+align 21 </s> 1

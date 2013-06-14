@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 hella 1
+align 2 card 0.965982 cart 0.0340182
+align 3 helicopter 1
+align 4 gun 1
+align 5 ships 1
+align 6 and 1 in 4.41803e-07
+align 7 uh 0.990336 the 0.00966397
+align 8 on 0.992198 *DELETE* 0.00742108 uh 0.000380554
+align 9 *DELETE* 0.999872 on 0.000128464
+align 10 me 0.964699 *DELETE* 0.0347175 in 0.000578173 uh 5.05011e-06
+align 11 and 0.971794 men 0.0190507 man 0.00645658 *DELETE* 0.00269847
+align 12 *DELETE* 0.990235 men 0.00692013 manned 0.00266352 me 0.000180893
+align 13 *DELETE* 0.99979 and 0.000180893 mend 2.05773e-05 main 8.35209e-06
+align 14 aerial 1
+align 15 vehicles 1
+align 16 to 1
+align 17 provide 1
+align 18 uh 1
+align 19 reconnaissance 1
+align 20 support 1
+align 21 during 1
+align 22 the 0.996781 in 0.00317223 that 2.20993e-05 an 2.19321e-05 to 1.12658e-06 it 1.03608e-06 a 1.81733e-07
+align 23 *DELETE* 0.996653 the 0.00334696
+align 24 operation 1
+align 25 </s> 1

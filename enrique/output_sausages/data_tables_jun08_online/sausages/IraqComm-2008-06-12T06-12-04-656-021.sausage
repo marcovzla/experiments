@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 that's 1
+align 3 correct 1
+align 4 but 0.990241 uh 0.00563275 *DELETE* 0.00237548 what 0.00175068
+align 5 we 1
+align 6 also 1
+align 7 do 0.999787 did 0.000213095
+align 8 it 0.969484 *DELETE* 0.0305162
+align 9 together 1
+align 10 basic 1
+align 11 intelligence 0.999104 intelligent 0.000895609
+align 12 *DELETE* 0.99997 uh 3.01388e-05 is 3.58567e-12 i 1.0755e-21
+align 13 </s> 1

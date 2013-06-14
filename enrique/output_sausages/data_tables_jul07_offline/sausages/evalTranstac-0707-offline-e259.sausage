@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 you 0.986147 he 0.0132551 we 0.000384354 yes 0.000213705
+align 2 should 0.998705 she 0.00073538 see 0.000345808 you 0.000213705
+align 3 get 0.41403 *DELETE* 0.394546 give 0.176852 do 0.00836789 you 0.00380506 dig 0.0023992
+align 4 a 0.423983 be 0.390445 you 0.175232 me 0.00864772 the 0.000771948 your 0.000372873 it 0.000367078 *DELETE* 0.000179446
+align 5 brother 0.909714 but 0.0827562 by 0.00611705 buy 0.000736227 bother 0.000657128 a 1.93643e-05
+align 6 *DELETE* 0.999311 at 0.000669959 brother 1.93643e-05
+align 7 the 1
+align 8 *DELETE* 0.993147 the 0.00685327
+align 9 receipt 0.998472 receipts 0.00152818
+align 10 and 1
+align 11 have 1
+align 12 him 0.999916 them 8.42739e-05
+align 13 come 1
+align 14 to 1
+align 15 the 1
+align 16 cmoc 1
+align 17 to 0.999997 they 3.25165e-06
+align 18 get 1
+align 19 the 1
+align 20 weapon 0.999951 weapons 4.86049e-05
+align 21 </s> 1

@@ -1,0 +1,41 @@
+numaligns 39
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 0.696515 *DELETE* 0.184209 i 0.119276
+align 3 i 0.948837 *DELETE* 0.0511605 uh 2.22641e-06
+align 4 *DELETE* 0.982028 i 0.0179718
+align 5 want 1
+align 6 you 1
+align 7 to 1
+align 8 don't 1
+align 9 be 1
+align 10 alarmed 1
+align 11 uh 1
+align 12 we're 0.613412 uh 0.377958 i 0.00748455 *DELETE* 0.00114598
+align 13 *DELETE* 0.613412 we're 0.37725 were 0.00933874
+align 14 going 1
+align 15 to 1
+align 16 uh 1
+align 17 establish 0.999696 established 0.00030442
+align 18 some 1
+align 19 security 1
+align 20 here 1
+align 21 for 1
+align 22 uh 1
+align 23 *DELETE* 0.99372 uh 0.00628029
+align 24 the 1
+align 25 safety 1
+align 26 of 1
+align 27 your 1
+align 28 house 1
+align 29 and 0.995835 in 0.00416462
+align 30 i 0.426422 uh 0.268835 *DELETE* 0.221433 i'm 0.0743644 the 0.00462849 um 0.00431755
+align 31 also 0.909574 uh 0.0667462 i 0.0187221 whole 0.00396415 i'll 0.000993377
+align 32 *DELETE* 0.909574 also 0.0853934 so 0.00495753 i'll 7.49714e-05
+align 33 *DELETE* 0.999925 so 7.49714e-05
+align 34 my 0.999362 may 0.000638143
+align 35 men 0.99952 man 0.000445316 *DELETE* 2.00716e-05 many 1.16921e-05 main 2.5904e-06
+align 36 here 0.993081 her 0.00553969 hear 0.000598155 *DELETE* 0.000216759 who 0.000214397 him 0.00017901 in 0.000120614 you 1.67636e-05 menu 1.40284e-05 there 1.14909e-05 manner 5.78804e-06 year 6.9614e-07 are 6.27023e-07 manager 2.5517e-07 near 1.79651e-07 hair 5.39352e-08 hur 3.47757e-09 uh 3.03768e-10
+align 37 *DELETE* 0.99997 i 2.23791e-05 are 7.46818e-06 were 6.5474e-09
+align 38 </s> 1

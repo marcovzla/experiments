@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 well 0.355593 now 0.222739 uh 0.173264 no 0.103324 so 0.0794205 *DELETE* 0.0183039 oh 0.0152876 what 0.0116976 wow 0.00597 and 0.00474493 yeah 0.00270351 the 0.00247714 how 0.00205352 why 0.00114762 or 0.000875823 tell 0.00029626 for 8.20577e-05 a 1.88096e-05 all 8.58567e-07 where 5.47375e-08
+align 2 what 0.921243 where 0.0787569
+align 3 do 1
+align 4 you 1
+align 5 sell 1
+align 6 at 0.999935 it 6.34854e-05 what 1.90649e-06
+align 7 your 1
+align 8 store 0.987585 storm 0.00803487 farm 0.00418798 star 0.00018282 starve 7.26347e-06 start 1.95628e-06
+align 9 </s> 1

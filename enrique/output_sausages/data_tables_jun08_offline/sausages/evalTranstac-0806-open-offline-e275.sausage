@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.992657 i 0.00734319
+align 3 am 1
+align 4 a 1
+align 5 lieutenant 0.999626 they 0.000373809
+align 6 *DELETE* 0.999626 tend 0.000373809
+align 7 *DELETE* 0.999626 it 0.000373809
+align 8 in 1
+align 9 the 1
+align 10 marines 1
+align 11 uh 1
+align 12 i'm 1
+align 13 infantry 0.794796 if 0.112152 *DELETE* 0.0930511
+align 14 *DELETE* 0.794796 a 0.191613 the 0.0135209 it 6.95193e-05
+align 15 *DELETE* 0.775608 tree 0.112141 infantry 0.0930511 office 0.0191887 tray 1.14614e-05 treat 4.33256e-09
+align 16 officer 0.963956 office 0.016784 sir 0.0165958 *DELETE* 0.00266424
+align 17 *DELETE* 0.980449 sir 0.0145355 or 0.00494222 i 7.31595e-05
+align 18 *DELETE* 0.999928 officer 7.1358e-05 uh 2.73503e-07 are 1.62008e-10
+align 19 </s> 1

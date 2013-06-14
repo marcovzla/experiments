@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 facility 0.742127 facilities 0.255158 facility's 0.00271546
+align 3 should 1
+align 4 be 1
+align 5 working 1
+align 6 by 0.974625 bye 0.0160018 buy 0.00574972 my 0.00302168 may 0.00058651 bite 1.11374e-05 might 4.19171e-06 but 6.98295e-08
+align 7 now 0.999988 a 1.24122e-05
+align 8 *DELETE* 0.999988 now 1.24122e-05 no 1.44914e-16
+align 9 </s> 1

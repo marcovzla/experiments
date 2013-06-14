@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 please 0.997322 uh 0.00258544 a 3.89216e-05 are 2.70547e-05 our 2.70546e-05
+align 2 *DELETE* 0.997322 please 0.00267847
+align 3 repeat 0.999979 you're 1.33688e-05 your 8.12663e-06
+align 4 *DELETE* 0.998077 it 0.00173325 that 0.000168043 peak 1.85408e-05 peek 2.95471e-06 i 2.45084e-07 um 2.17686e-15 uh 2.68254e-17 the 1.44029e-17
+align 5 </s> 1

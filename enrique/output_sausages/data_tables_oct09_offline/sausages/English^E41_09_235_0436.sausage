@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 that'll 0.824573 i'll 0.157544 god 0.0109217 that 0.00682384 i 0.000136916
+align 2 *DELETE* 0.993039 would 0.00691517 will 4.55917e-05
+align 3 be 1
+align 4 something 1
+align 5 or 0.583428 uh 0.16395 all 0.129416 are 0.0899455 oil 0.0173532 i'll 0.00898816 no 0.00480748 i 0.00209498 now 1.67359e-05
+align 6 you 1
+align 7 have 1
+align 8 to 1
+align 9 uh 0.941891 *DELETE* 0.058109
+align 10 go 1
+align 11 ahead 1
+align 12 and 1
+align 13 uh 1
+align 14 do 0.697738 two 0.126897 due 0.107886 to 0.0620541 too 0.00542493
+align 15 back 0.983636 you 0.0163645
+align 16 *DELETE* 0.983636 back 0.0163645
+align 17 at 1 out 3.3553e-21
+align 18 the 1
+align 19 hospital 1
+align 20 </s> 1

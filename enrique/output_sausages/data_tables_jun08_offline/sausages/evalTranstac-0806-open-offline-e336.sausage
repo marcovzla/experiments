@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 there's 0.983085 those 0.0142652 this 0.00234127 here's 0.000308355
+align 3 two 0.992023 to 0.00445597 too 0.00352055
+align 4 methods 1
+align 5 that 0.998946 uh 0.00105355
+align 6 we 0.508458 *DELETE* 0.491542
+align 7 will 0.547429 we'll 0.272351 would 0.180213 what 7.13791e-06
+align 8 use 0.996039 used 0.00245766 you 0.00150331
+align 9 *DELETE* 0.998429 use 0.00150331 it 6.55579e-05 to 1.43991e-06 the 3.60645e-07 a 2.64613e-07 of 4.69616e-08
+align 10 </s> 1

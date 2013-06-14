@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 that 0.416514 what 0.305806 but 0.27768
+align 2 this 0.542874 does 0.3375 *DELETE* 0.0846261 as 0.0349999
+align 3 is 0.622143 your 0.188353 you 0.176941 his 0.0072063 doesn't 0.00535701
+align 4 *DELETE* 0.920731 your 0.0514014 you 0.0216728 just 0.00619493
+align 5 school 1
+align 6 building 1
+align 7 need 0.999118 knead 0.00083832 *DELETE* 4.34923e-05 the 7.01253e-10
+align 8 *DELETE* 0.996718 uh 0.00193497 a 0.000409186 to 0.000357495 now 0.000268244 it 0.000131407 i 4.92682e-05 um 4.83126e-05 needs 4.14957e-05 them 3.07461e-05 you 1.0234e-05 in 2.46294e-07 the 5.94628e-08 need 7.01253e-10 that 3.33004e-10 so 1.10684e-11 of 4.73386e-14 no 6.29941e-17
+align 9 </s> 1

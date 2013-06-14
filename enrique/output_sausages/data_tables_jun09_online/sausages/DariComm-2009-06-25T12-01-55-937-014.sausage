@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 patrol 1
+align 5 or 0.858364 are 0.0559119 where 0.042029 well 0.0301609 our 0.0129115 we're 0.00062307
+align 6 we 0.982242 we've 0.00846025 a 0.00642406 we're 0.00104761 we'd 0.000464783 weed 0.000403516 were 0.000240165 weak 0.0002299 would 0.000229051 wheat 0.000108708 wood 7.2957e-05 weep 4.65241e-05 weave 3.06782e-05
+align 7 planning 0.952959 planting 0.0469199 plan 6.30331e-05 plant 5.83161e-05 *DELETE* 2.37717e-12
+align 8 *DELETE* 0.999806 a 6.7268e-05 i 4.94775e-05 to 4.09052e-05 and 3.07946e-05 uh 5.52692e-06 planned 2.07211e-07 is 5.15551e-08
+align 9 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 no 1
+align 2 we 1
+align 3 will 1 we'll 9.3548e-31
+align 4 bring 0.457713 rain 0.298943 *DELETE* 0.243344 raining 2.26254e-13
+align 5 a 0.457713 *DELETE* 0.298903 reign 0.243056 marine 0.000287368 in 4.00338e-05
+align 6 *DELETE* 1 in 3.10496e-09
+align 7 school 1
+align 8 materials 0.941548 but 0.058452
+align 9 *DELETE* 0.940812 aerials 0.058452 i 0.000311596 uh 0.000159851 in 0.000116968 to 5.6541e-05 do 3.75435e-05 it 1.74755e-05 at 1.1798e-05 and 8.89358e-06 you 6.94999e-06 if 6.50351e-06 um 2.22811e-06 like 7.33051e-08 area 1.09954e-08 the 4.18537e-09 are 4.90697e-10 with 5.98611e-12 that 5.97581e-12 a 8.76172e-14
+align 10 *DELETE* 1 is 1.09954e-08
+align 11 </s> 1

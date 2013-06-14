@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 must 0.999865 may 0.00013522
+align 3 slide 0.999469 slight 0.000273357 fly 0.000257701 live 4.19218e-07
+align 4 the 0.510928 this 0.489072
+align 5 safety 1
+align 6 lever 1
+align 7 to 1
+align 8 turn 1
+align 9 it 1
+align 10 on 1
+align 11 and 1
+align 12 off 1
+align 13 *DELETE* 0.999814 uh 0.00018646 and 8.93959e-13
+align 14 </s> 1

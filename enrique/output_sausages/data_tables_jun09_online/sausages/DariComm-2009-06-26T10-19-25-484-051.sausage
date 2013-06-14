@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 does 1
+align 4 it 1
+align 5 cost 1
+align 6 to 1
+align 7 train 1
+align 8 a 0.606041 our 0.175287 i'm 0.166302 are 0.0279275 on 0.018934 i 0.00326901 and 0.0022396
+align 9 nurse 1
+align 10 or 1
+align 11 doctor 0.996405 a 0.00359512
+align 12 *DELETE* 0.996231 doctor 0.00359512 i 9.0814e-05 uh 8.05973e-05 in 2.51882e-06 a 4.60313e-09 to 1.28998e-12 if 5.79361e-13
+align 13 </s> 1

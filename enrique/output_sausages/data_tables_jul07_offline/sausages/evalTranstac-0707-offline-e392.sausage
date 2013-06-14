@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 hi 0.999336 i 0.000664253
+align 2 good 0.999834 got 0.000166149 i 1.41814e-10
+align 3 *DELETE* 1 got 1.41814e-10
+align 4 afternoon 1
+align 5 are 1
+align 6 you 1
+align 7 here 1
+align 8 to 1
+align 9 you 0.65841 uh 0.34159
+align 10 i'll 0.577475 *DELETE* 0.34159 i 0.0809354
+align 11 learn 1
+align 12 about 1
+align 13 the 1
+align 14 i 0.983565 uh 0.0124102 *DELETE* 0.00402522
+align 15 *DELETE* 0.987587 the 0.012413
+align 16 *DELETE* 0.983565 army 0.0163324 i 0.000103027
+align 17 *DELETE* 0.99982 don't 0.000180185
+align 18 mechanics 0.967408 thanks 0.0163324 mechanic's 0.0160791 attacks 0.000180185 mechanic 2.60774e-07
+align 19 </s> 1

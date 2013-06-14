@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 as 1
+align 2 as 1
+align 3 far 1
+align 4 as 0.999866 is 0.000133687
+align 5 intelligence 1
+align 6 goes 1
+align 7 uh 1
+align 8 it 0.972246 they 0.0277543
+align 9 would 1
+align 10 help 1
+align 11 *DELETE* 0.999948 me 5.23752e-05
+align 12 if 1
+align 13 you 1
+align 14 would 0.97183 were 0.0281702 we 2.89154e-17
+align 15 develop 0.974247 developed 0.0257532
+align 16 some 1
+align 17 of 0.885418 *DELETE* 0.114582
+align 18 your 0.914622 here 0.0852624 air 0.000115234
+align 19 own 1
+align 20 sources 0.995951 source 0.00404933
+align 21 *DELETE* 0.995951 is 0.00404933
+align 22 while 1
+align 23 we're 0.999169 *DELETE* 0.000789983 were 4.1218e-05
+align 24 out 0.99921 route 0.000789983
+align 25 there 1
+align 26 in 0.924904 *DELETE* 0.0731546 of 0.00083548 are 0.000740921 on 0.000240523 and 7.88843e-05 at 4.60558e-05
+align 27 the 0.959818 a 0.0351281 that 0.0034881 they 0.00123344 to 0.000235114 and 8.75965e-05 *DELETE* 9.24792e-06
+align 28 community 1
+align 29 *DELETE* 0.999993 uh 7.41689e-06
+align 30 </s> 1

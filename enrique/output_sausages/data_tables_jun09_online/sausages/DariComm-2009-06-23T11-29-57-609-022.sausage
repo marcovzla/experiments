@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 how 1
+align 3 many 1
+align 4 trucks 1
+align 5 will 0.935883 were 0.0471659 where 0.0169512
+align 6 you 1
+align 7 use 0.997669 *DELETE* 0.00233115
+align 8 *DELETE* 0.990794 it 0.00492659 used 0.00233115 to 0.00116504 uh 0.000304211 a 0.000202496 the 0.000195735 i 5.14592e-05 in 2.86092e-05 you 1.05951e-06 is 3.43739e-09
+align 9 </s> 1

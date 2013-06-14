@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999968 and 3.19043e-05
+align 2 i 1
+align 3 *DELETE* 0.996433 i 0.00356727
+align 4 know 1
+align 5 that 1
+align 6 *DELETE* 0.999757 that 0.000243477
+align 7 there's 1
+align 8 a 0.920253 *DELETE* 0.0791494 uh 0.000597959
+align 9 accounts 0.981833 counts 0.014746 a 0.00324241 constant 0.000178272
+align 10 in 0.782288 *DELETE* 0.16465 it 0.0253462 issue 0.0204528 that 0.00402031 counts 0.00324241
+align 11 *DELETE* 0.996758 it 0.00324241
+align 12 issue 0.860062 initiate 0.110577 *DELETE* 0.0204528 issued 0.00890787
+align 13 trying 1
+align 14 to 1
+align 15 keep 1
+align 16 everything 0.999997 your 1.96197e-06 her 8.99527e-07
+align 17 *DELETE* 0.999997 anything 2.8615e-06
+align 18 running 0.987613 run 0.00909139 ran 0.00243744 *DELETE* 0.000380163 ron 0.000273259 wrong 0.000191321 around 1.29908e-05 rana 1.29952e-07
+align 19 *DELETE* 0.98747 in 0.00919327 and 0.00245404 rahman 0.000370535 an 0.000241218 uh 9.65337e-05 end 7.00611e-05 i 4.02355e-05 then 2.65342e-05 it 2.21484e-05 roman 8.32728e-06 a 4.71683e-06 arriving 1.19495e-06 any 6.8249e-07 on 3.45565e-07 raman 1.05354e-07
+align 20 </s> 1

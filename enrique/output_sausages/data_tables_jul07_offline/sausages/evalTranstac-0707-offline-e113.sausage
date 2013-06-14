@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 not 1
+align 3 drink 1
+align 4 the 1
+align 5 water 1
+align 6 without 0.999913 with 4.42459e-05 was 4.25445e-05
+align 7 *DELETE* 0.999913 out 4.2432e-05 up 3.59397e-05 uh 8.41872e-06
+align 8 boiling 1
+align 9 *DELETE* 0.507009 it 0.492744 i 0.000222776 a 1.00551e-05 at 7.09619e-06 uh 4.3705e-06 in 1.48915e-06 the 1.10971e-06
+align 10 </s> 1

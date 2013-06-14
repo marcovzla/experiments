@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.99446 i 0.0055397
+align 2 *DELETE* 0.993105 am 0.0055397 sorry 0.00135525
+align 3 surgical 0.931025 sergeant 0.0676198 circle 0.00135525
+align 4 *DELETE* 0.93238 cole 0.0674073 full 0.000136061 coal 7.64071e-05
+align 5 and 0.942267 i'm 0.0478218 in 0.00528693 um 0.00322065 on 0.00139089 an 1.2598e-05 *DELETE* 3.10911e-13
+align 6 i'm 0.999745 i 0.000254646
+align 7 *DELETE* 0.999745 am 0.000254646
+align 8 here 1
+align 9 to 1
+align 10 the 0.820586 *DELETE* 0.179414
+align 11 other 0.820586 *DELETE* 0.179414
+align 12 way 0.820586 evaluate 0.179414
+align 13 your 0.813835 *DELETE* 0.186165
+align 14 picture 0.650963 *DELETE* 0.337452 per 0.0115851
+align 15 you're 0.78258 *DELETE* 0.199951 kia 0.00682856 year 0.00588459 clear 0.00473019 keir 2.6342e-05
+align 16 *DELETE* 0.449744 put 0.337436 a 0.212805 per 1.55839e-05
+align 17 *DELETE* 0.613884 your 0.3861 keir 1.55839e-05
+align 18 uh 0.489904 out 0.28058 *DELETE* 0.212805 us 0.00584409 i'll 0.00559538 of 0.00522548 are 4.0067e-05 i 6.35403e-06
+align 19 squad 0.678538 squat 0.273568 squash 0.0468672 squads 0.00100525 squad's 1.55118e-05 squashed 6.2134e-06 quad 2.65573e-07 quite 2.49477e-12
+align 20 *DELETE* 0.999993 a 3.35885e-06 uh 3.19257e-06 at 2.83991e-07 in 1.74537e-07 is 1.50756e-07 i 3.74566e-08 it 3.5964e-08 to 1.82722e-09
+align 21 </s> 1

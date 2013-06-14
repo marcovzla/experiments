@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 that's 0.735474 this 0.264526
+align 2 man 0.895681 manned 0.0699123 a 0.0182886 *DELETE* 0.0161185
+align 3 *DELETE* 0.965593 man 0.0182886 mann 0.0112946 ma'an 0.00482393
+align 4 claims 0.999975 climbs 1.13513e-05 clinics 9.10786e-06 clings 3.76149e-06 cleansed 8.81143e-07
+align 5 to 1
+align 6 be 1
+align 7 your 0.995313 or 0.0033847 you're 0.00062063 in 0.000338416 all 0.00020484 of 6.26312e-05 *DELETE* 2.98451e-05 our 2.70841e-05 a 1.65473e-05 are 2.62254e-06
+align 8 *DELETE* 0.999662 your 0.000338416
+align 9 brother 0.99961 the 0.000354252 *DELETE* 3.2451e-05 by 3.38672e-06 a 1.31762e-10 oh 2.36572e-21
+align 10 *DELETE* 0.99937 other 0.000357639 uh 0.000192693 in 4.67672e-05 bother 3.24512e-05 i 3.63199e-11
+align 11 </s> 1

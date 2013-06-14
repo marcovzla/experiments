@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 0.971179 what's 0.028821
+align 2 steps 0.971179 that 0.028821
+align 3 did 1
+align 4 you 1
+align 5 take 1
+align 6 to 0.9989 two 0.00105132 too 4.87486e-05
+align 7 *DELETE* 0.999962 to 3.83656e-05
+align 8 screen 1
+align 9 these 0.997465 knees 0.00217889 needs 0.000356165
+align 10 men 0.948263 man 0.0508027 manned 0.000678502 ma'am 0.000148531 *DELETE* 0.000107195
+align 11 *DELETE* 0.999069 uh 0.000824026 ma'an 7.58047e-05 main 1.59806e-05 mann 1.54083e-05 maan 1.43393e-09 name 1.60184e-10 meant 8.70939e-14 in 3.77598e-18 min 1.74982e-18 on 7.95472e-19 mans 4.73938e-21 mean 1.59184e-22
+align 12 </s> 1

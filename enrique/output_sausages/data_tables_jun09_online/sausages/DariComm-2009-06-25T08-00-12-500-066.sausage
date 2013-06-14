@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 called 1
+align 4 a 1
+align 5 seeing 0.505659 scene 0.200452 c 0.139261 seen 0.0930216 see 0.0614905 *DELETE* 6.37157e-05 senior 2.77687e-05 sea 2.4932e-05
+align 6 i'm 0.762625 am 0.182648 him 0.0343084 m 0.0199944 them 0.000277374 um 5.36468e-05 seenama 3.24174e-05 senior 3.12984e-05 ammo 1.63186e-05 *DELETE* 1.24671e-05
+align 7 splint 0.965413 spoilt 0.018804 split 0.00616419 splints 0.00412181 support 0.00214671 spoiled 0.00187785 sport 0.000788646 spoil 0.000678559 *DELETE* 5.35509e-06
+align 8 *DELETE* 0.998268 it 0.00135347 to 0.000100003 on 7.30819e-05 i 5.02682e-05 you 4.02224e-05 uh 3.72552e-05 that 2.70843e-05 um 2.4596e-05 in 1.84038e-05 up 4.3089e-06 spy 1.60892e-06 and 1.38833e-06 if 7.95974e-07
+align 9 *DELETE* 0.999987 and 4.28702e-06 if 4.05219e-06 spoilt 2.18474e-06 spy 1.56142e-06 a 8.23708e-07 the 2.86404e-07 is 1.90308e-07 them 3.50049e-08 time 2.58583e-08 do 2.15009e-08 supporting 7.44581e-15 can 3.00351e-15
+align 10 </s> 1

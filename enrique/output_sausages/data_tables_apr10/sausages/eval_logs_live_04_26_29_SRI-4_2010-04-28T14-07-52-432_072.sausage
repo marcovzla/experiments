@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 has 0.702845 as 0.269595 is 0.0211503 how 0.00600524 i 0.000403654
+align 2 *DELETE* 0.993591 is 0.00600524 as 0.000403654
+align 3 the 1
+align 4 school 1
+align 5 ever 1
+align 6 been 0.999987 ben 1.28003e-05 benn 1.1653e-16
+align 7 attacked 0.992584 attack 0.0074164
+align 8 *DELETE* 0.999956 you 3.31051e-05 it 9.97234e-06 i 5.5449e-07 at 2.51732e-07 uh 1.99024e-07 a 2.45962e-08 the 1.99013e-08
+align 9 </s> 1

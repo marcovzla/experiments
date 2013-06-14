@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 family 1
+align 6 *DELETE* 0.999927 i 5.41127e-05 uh 1.70828e-05 a 1.31288e-06 in 1.56977e-07 if 1.63822e-08 and 3.85999e-09 to 1.0472e-11 with 2.45645e-12
+align 7 </s> 1

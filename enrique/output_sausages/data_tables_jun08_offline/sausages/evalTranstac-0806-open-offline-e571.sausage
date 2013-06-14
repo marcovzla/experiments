@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 um 0.993006 uh 0.00699379
+align 3 i'm 0.995962 i 0.00403808
+align 4 *DELETE* 0.99361 going 0.00638999
+align 5 gonna 0.989572 to 0.00638999 wanna 0.00372681 want 0.000311272
+align 6 *DELETE* 0.999689 to 0.000311272
+align 7 draw 0.971363 *DELETE* 0.0286366
+align 8 *DELETE* 0.711904 a 0.259455 drive 0.0150331 dry 0.0136035 the 3.79508e-06
+align 9 diagram 0.99775 diagramed 0.00224984
+align 10 here 0.999405 hear 0.000577085 you 1.75106e-05
+align 11 *DELETE* 0.999702 i 0.000154896 uh 0.000105361 are 1.85979e-05 here 1.75106e-05 a 1.40348e-06 of 2.82322e-08
+align 12 </s> 1

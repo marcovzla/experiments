@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 interaction 0.985101 inner 0.00783828 enter 0.00706046
+align 3 *DELETE* 0.9757 action 0.0148987 a 0.00874957 uh 0.000652095
+align 4 *DELETE* 0.997444 to 0.00255593
+align 5 have 0.936684 i 0.0360553 to 0.0272606
+align 6 *DELETE* 0.936684 have 0.063316
+align 7 the 0.999091 a 0.000908886
+align 8 police 1
+align 9 had 1
+align 10 with 1
+align 11 the 0.927165 a 0.0728348
+align 12 patient 1
+align 13 they 0.685911 that 0.276163 the 0.0192948 their 0.0110876 there 0.00365215 then 0.00286788 they're 0.00102385
+align 14 *DELETE* 0.991286 i 0.00871358
+align 15 had 0.650184 head 0.341726 have 0.00808984
+align 16 is 0.999975 as 2.19672e-05 *DELETE* 3.30497e-06
+align 17 late 0.542331 lake 0.240298 like 0.211062 lay 0.00630562 his 3.30497e-06 *DELETE* 3.07177e-10
+align 18 cut 0.996943 *DELETE* 0.00164689 it 0.00117226 that 0.000234076 leg 3.30497e-06 laid 5.36259e-07 of 3.22374e-07
+align 19 off 0.998349 cutoff 0.00165073
+align 20 *DELETE* 0.999978 uh 1.53668e-05 i 5.21871e-06 a 1.1372e-06 it 6.69169e-07 at 7.96472e-08
+align 21 </s> 1

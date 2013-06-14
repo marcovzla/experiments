@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 uh 0.431669 *DELETE* 0.285669 no 0.138143 now 0.0893959 oh 0.0402572 well 0.0112689 and 0.00282493 all 0.000772043
+align 2 that 0.435222 no 0.285381 *DELETE* 0.279397
+align 3 *DELETE* 0.968701 that 0.0312985
+align 4 medicine 0.53348 is 0.462276 i 0.00424377
+align 5 to 0.53348 something 0.396632 some 0.0611011 sent 0.00830729 not 0.000479547 sort 1.35625e-11
+align 6 *DELETE* 0.930112 to 0.0663201 the 0.00356793
+align 7 we'll 0.923947 will 0.0760409 war 1.1974e-05 of 1.35625e-11 *DELETE* 7.32653e-12
+align 8 *DELETE* 1 war 1.35625e-11
+align 9 have 1
+align 10 to 1
+align 11 work 1
+align 12 on 0.999612 in 0.000387998
+align 13 *DELETE* 0.999758 uh 0.000140338 a 8.92251e-05 it 1.10964e-05 the 9.76996e-07
+align 14 </s> 1

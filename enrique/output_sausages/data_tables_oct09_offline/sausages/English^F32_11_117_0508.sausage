@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 which 0.906315 would 0.0936848
+align 3 side 1
+align 4 is 1
+align 5 uh 0.997004 the 0.00299602
+align 6 the 1
+align 7 vehicle 1
+align 8 mostly 0.991282 most 0.0079916 mosaic 0.000726765
+align 9 *DELETE* 0.988376 like 0.00382809 in 0.00305285 leg 0.00271443 late 0.00141946 come 0.000579095 right 2.96189e-05
+align 10 coming 0.993901 it 0.00551952 in 0.000570365 and 8.72997e-06 incoming 1.88217e-08 becoming 1.30292e-08
+align 11 *DELETE* 0.99448 coming 0.00551952
+align 12 from 1
+align 13 *DELETE* 0.999362 uh 0.000380841 the 0.000180391 it 2.86628e-05 to 2.56335e-05 a 1.15254e-05 i 1.10026e-05 in 1.11904e-07
+align 14 </s> 1

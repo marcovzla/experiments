@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 do 1
+align 3 you 1
+align 4 take 1
+align 5 your 1
+align 6 trash 1
+align 7 *DELETE* 0.999886 in 7.06077e-05 uh 1.9586e-05 i 1.66287e-05 to 6.79359e-06
+align 8 </s> 1

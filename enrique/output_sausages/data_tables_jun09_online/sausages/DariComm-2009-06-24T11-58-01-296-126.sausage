@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 0.887585 *DELETE* 0.112415
+align 3 is 0.892701 does 0.104369 did 0.00293031
+align 4 your 0.999998 the 2.31105e-06
+align 5 wife 0.999997 *DELETE* 1.34429e-10
+align 6 *DELETE* 0.999023 now 0.000353196 uh 0.000343056 sir 0.000153773 do 9.35883e-05 the 1.28188e-05 to 8.14405e-06 with 3.04912e-06 in 2.98766e-06 wife's 2.63039e-06 and 2.4623e-06 is 1.145e-06 you 3.10869e-07 a 8.41808e-08 did 3.58198e-08 i 6.47123e-09 know 1.44944e-09 have 2.00073e-10 that 6.05695e-12 so 8.07497e-13
+align 7 </s> 1

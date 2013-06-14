@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 are 0.999996 our 4.47412e-06
+align 2 there 0.998433 their 0.0015669
+align 3 two 0.914207 to 0.078383 *DELETE* 0.00436621 are 0.00304334
+align 4 *DELETE* 0.99259 too 0.00436621 two 0.00304334
+align 5 schools 0.999884 school's 0.000115938 *DELETE* 1.45283e-13
+align 6 *DELETE* 0.999596 uh 0.000282504 i 6.89898e-05 a 2.92588e-05 in 2.05329e-05 the 8.50366e-07 to 7.38372e-07 schools' 3.42457e-07 do 2.88202e-07 and 3.03388e-08
+align 7 </s> 1

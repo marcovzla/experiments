@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 understand 1
+align 4 the 1
+align 5 importance 1
+align 6 of 1
+align 7 making 1
+align 8 in 0.944137 an 0.0309898 and 0.0223213 *DELETE* 0.00255223
+align 9 asked 0.442521 ask 0.441054 ass 0.100122 asks 0.0121233 s 0.0041795
+align 10 her 0.540926 curve 0.324288 occur 0.0762928 *DELETE* 0.0584931
+align 11 *DELETE* 0.826286 of 0.115221 or 0.0359952 curved 0.0218297 curves 0.000668174
+align 12 road 0.976355 rode 0.0236453
+align 13 before 1
+align 14 you 1
+align 15 get 1
+align 16 to 0.999971 *DELETE* 2.89838e-05 the 7.24114e-13
+align 17 the 1
+align 18 checkpoint 0.999984 checkpoints 1.57916e-05
+align 19 *DELETE* 1 i 9.69891e-15
+align 20 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 they 0.918818 today 0.0426504 the 0.0233828 do 0.00619668 and 0.00375008 uh 0.00276415 there 0.00131493 if 0.0011023 that 2.0623e-05
+align 2 *DELETE* 0.962804 they 0.0371723 there 2.37008e-05
+align 3 were 0.958389 we're 0.0416112
+align 4 searching 1
+align 5 for 1
+align 6 terrorists 0.999753 terrorists' 0.000174096 terrorist's 7.33962e-05
+align 7 </s> 1

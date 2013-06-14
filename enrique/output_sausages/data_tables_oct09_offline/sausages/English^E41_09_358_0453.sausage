@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i'll 0.99523 uh 0.00476988
+align 3 try 1
+align 4 to 1
+align 5 stop 1
+align 6 that 0.999757 the 0.000243192
+align 7 bleeding 1
+align 8 *DELETE* 0.99995 i 2.63625e-05 uh 2.31612e-05 though 4.12454e-07 you 1.80893e-07
+align 9 </s> 1

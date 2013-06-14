@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 uh 0.992453 the 0.00754728
+align 2 *DELETE* 0.992608 uh 0.00739229
+align 3 that 1
+align 4 is 1
+align 5 excellent 1
+align 6 and 0.999464 in 0.000536143
+align 7 *DELETE* 0.99999 i 9.9026e-06
+align 8 we 1
+align 9 can 1
+align 10 work 1
+align 11 together 1
+align 12 on 1
+align 13 this 0.997981 that 0.00201742 those 1.27328e-06
+align 14 </s> 1

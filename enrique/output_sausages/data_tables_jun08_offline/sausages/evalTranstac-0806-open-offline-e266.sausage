@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 *DELETE* 0.997388 i 0.00261183
+align 4 understand 1
+align 5 that 1
+align 6 but 1
+align 7 is 0.548547 as 0.289722 if 0.102885 it's 0.0577214 his 0.00112532
+align 8 he 0.715225 you 0.284775
+align 9 recently 1
+align 10 saul 0.502236 so 0.37678 saw 0.0993651 soul 0.0129851 sole 0.0084539 cell 0.000180684
+align 11 *DELETE* 0.526233 all 0.473655 i 0.000112549
+align 12 after 0.998725 laughter 0.00127499
+align 13 the 1 that 1.49199e-18
+align 14 recent 1
+align 15 soccer 0.999975 saqr 2.45064e-05 sakher 6.79364e-08
+align 16 game 0.999866 games 0.000134335
+align 17 *DELETE* 0.999979 i 2.13789e-05
+align 18 </s> 1

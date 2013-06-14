@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 does 0.999017 it 0.000983319
+align 3 *DELETE* 0.999017 is 0.000983319
+align 4 are 0.423751 uh 0.331902 our 0.224519 of 0.0122208 i've 0.00413557 i 0.00346587 i'll 6.53723e-06
+align 5 guy 0.997092 guide 0.00229086 got 0.000617458
+align 6 name 0.623496 named 0.336278 names 0.0377915 name's 0.00237762 i 5.67887e-05
+align 7 *DELETE* 0.999943 name 5.67887e-05
+align 8 so 0.895956 *DELETE* 0.0854727 saw 0.018571
+align 9 lot 0.333287 out 0.190168 i'll 0.156886 i 0.12828 salah 0.0854727 i'm 0.0540144 *DELETE* 0.0342117 off 0.0121115 uh 0.00556887
+align 10 *DELETE* 0.850059 off 0.149793 i 0.000147314
+align 11 from 1
+align 12 baghdad 1
+align 13 need 0.998077 *DELETE* 0.00192314
+align 14 a 1
+align 15 *DELETE* 0.998077 need 0.00192314
+align 16 *DELETE* 0.998077 a 0.00192314
+align 17 truck 1
+align 18 to 0.999703 do 0.000220915 they 7.57917e-05 two 1.3209e-07
+align 19 go 1
+align 20 to 1
+align 21 syria 1
+align 22 </s> 1

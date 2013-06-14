@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 crops 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 in 0.999773 and 0.000159422 an 6.71135e-05
+align 9 the 0.999872 a 0.000128477
+align 10 garden 0.999851 guard 0.00011603 *DELETE* 3.25341e-05
+align 11 *DELETE* 0.999967 gardens 3.25341e-05 and 2.40734e-14
+align 12 </s> 1

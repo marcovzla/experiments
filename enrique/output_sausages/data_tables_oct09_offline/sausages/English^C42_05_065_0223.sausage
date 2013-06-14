@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 can 1
+align 3 you 1
+align 4 can 1
+align 5 you 1
+align 6 uh 1
+align 7 tell 1
+align 8 me 1
+align 9 a 1
+align 10 little 1
+align 11 bit 1
+align 12 about 1
+align 13 your 1
+align 14 company 1
+align 15 and 1
+align 16 the 0.939814 they 0.0461038 that 0.0140304 a 4.909e-05 be 2.83301e-06
+align 17 kind 1
+align 18 of 1
+align 19 work 1
+align 20 *DELETE* 0.668975 you've 0.330213 do 0.000812045
+align 21 you 0.646192 dented 0.242269 done 0.0541005 *DELETE* 0.033843 too 0.0235954
+align 22 gena 0.228883 genna 0.228883 jenna 0.228883 *DELETE* 0.159899 the 0.153453
+align 23 the 0.619403 *DELETE* 0.362954 generate 0.0169819 a 0.000661489
+align 24 past 0.805985 passed 0.194015
+align 25 *DELETE* 0.999977 uh 1.88866e-05 i 3.81204e-06 a 9.98718e-09
+align 26 </s> 1

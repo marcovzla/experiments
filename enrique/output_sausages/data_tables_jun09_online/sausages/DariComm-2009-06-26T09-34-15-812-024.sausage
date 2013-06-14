@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 1
+align 7 the 1
+align 8 water 1
+align 9 *DELETE* 0.997649 here 0.00158133 uh 0.000695042 or 5.84909e-05 i 1.17416e-05 there 3.89899e-06 is 2.2813e-10 in 4.42331e-13 him 2.74731e-13 and 2.54499e-13 it 1.47252e-14 are 8.15554e-22 her 1.69688e-27
+align 10 </s> 1

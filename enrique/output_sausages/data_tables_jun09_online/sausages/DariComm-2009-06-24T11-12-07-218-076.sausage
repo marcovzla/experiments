@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 where 0.301029 what 0.278386 well 0.183904 when 0.0731492 one 0.0620376 why 0.0599141 we're 0.0245031 *DELETE* 0.00825044 were 0.0053271 wear 0.00228314 we'll 0.00121662
+align 3 *DELETE* 0.953651 i 0.0463492
+align 4 should 1
+align 5 be 1
+align 6 able 1
+align 7 to 0.999763 *DELETE* 0.000236973
+align 8 arrange 0.999763 terrain 0.000236973
+align 9 something 1
+align 10 *DELETE* 0.998176 uh 0.00148706 i 0.000217952 it 4.75448e-05 in 3.42398e-05 to 1.91418e-05 a 1.0399e-05 you 5.07928e-06 that 2.3242e-06 like 4.64183e-08 do 4.74787e-09 and 1.259e-09 at 1.28839e-12 the 9.97685e-13
+align 11 </s> 1

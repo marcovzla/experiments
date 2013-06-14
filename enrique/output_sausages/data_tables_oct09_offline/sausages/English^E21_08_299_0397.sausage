@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 way 1
+align 3 uh 1
+align 4 you 1
+align 5 in 0.84281 and 0.15719
+align 6 your 1
+align 7 squad 1
+align 8 could 1
+align 9 uh 0.795841 i 0.204159
+align 10 go 0.998611 uh 0.00138867
+align 11 *DELETE* 0.998611 go 0.00138867
+align 12 over 1
+align 13 what 1
+align 14 i 0.962704 i'd 0.0372963
+align 15 just 1
+align 16 taught 0.732599 talk 0.189272 talked 0.0781286 talks 3.03293e-09
+align 17 *DELETE* 0.811129 to 0.188871
+align 18 you 0.999294 u 0.000159029 should 0.000153421 shoe 0.000101952 use 8.54705e-05 *DELETE* 6.28057e-05 shoot 5.76808e-05 she 1.73834e-05 shoes 1.55101e-05 yu 1.39927e-05 hugh 1.39636e-05 youth 1.37241e-05 you'd 7.13811e-06 your 3.58178e-06
+align 19 *DELETE* 0.996138 uh 0.00245174 to 0.000476662 i 0.000392339 in 0.000216488 a 0.000112861 the 0.000107057 are 3.40098e-05 it 1.71325e-05 were 1.16102e-05 do 9.34488e-06 they 6.55965e-06 or 4.96289e-06 eat 3.72329e-06 at 3.08157e-06 that 2.93404e-06 eye 2.81676e-06 up 2.4119e-06 you 2.25053e-06 go 1.4877e-06 of 1.21048e-06 if 9.5523e-07 is 2.37959e-07 how 3.06278e-08
+align 20 </s> 1

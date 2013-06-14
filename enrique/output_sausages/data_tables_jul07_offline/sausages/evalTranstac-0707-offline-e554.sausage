@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 we're 0.883762 were 0.068837 we 0.0474007
+align 3 going 1
+align 4 to 1
+align 5 show 0.760361 shut 0.200469 shout 0.0296161 check 0.00955339
+align 6 you 0.999567 your 0.000432996
+align 7 down 1
+align 8 *DELETE* 0.999744 uh 0.000210433 a 1.99576e-05 i 1.96495e-05 the 2.63195e-06 to 1.92911e-06 in 9.56195e-07 it 2.9793e-07 on 5.24116e-08
+align 9 </s> 1

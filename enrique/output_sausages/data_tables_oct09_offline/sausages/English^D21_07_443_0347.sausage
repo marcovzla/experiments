@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 have 0.998208 yeah 0.00175827 *DELETE* 3.35424e-05
+align 2 *DELETE* 0.998242 the 0.00175827
+align 3 you 0.974525 you've 0.0254753
+align 4 *DELETE* 0.995933 uh 0.00380167 i 0.000228034 have 3.35424e-05 if 3.72699e-06
+align 5 *DELETE* 0.999963 you've 3.35424e-05 i 3.72699e-06
+align 6 had 0.995312 have 0.00468808
+align 7 a 1
+align 8 problem 1
+align 9 with 1
+align 10 the 0.540555 uh 0.459445
+align 11 saw 0.720385 some 0.156505 sun 0.0445494 sorrow 0.025208 *DELETE* 0.0221388 sar 0.0192518 size 0.0119623
+align 12 *DELETE* 0.962915 son 0.0148504 of 0.0115966 so 0.00578651 uh 0.00197403 some 0.00137583 sir 0.0013505 sought 0.000151441
+align 13 *DELETE* 0.999997 the 3.19344e-06
+align 14 someone 0.998563 one 0.000797601 on 0.000578233 some 6.08773e-05
+align 15 *DELETE* 0.999939 one 4.11407e-05 on 1.97366e-05
+align 16 around 1
+align 17 here 0.915963 have 0.0810296 a 0.00155659 her 0.000764811 it 0.000686421
+align 18 bothering 0.910008 bothered 0.088834 bother 0.00115684 bothers 1.21913e-06
+align 19 you 0.99959 him 0.000188262 me 0.000145394 *DELETE* 7.58758e-05 and 4.22685e-12
+align 20 *DELETE* 0.999885 new 6.19614e-05 know 2.28638e-05 uh 1.64405e-05 knew 1.38738e-05 due 4.05847e-08 a 8.03274e-10 i 5.23969e-10 um 4.49236e-10 now 2.67941e-11 you 4.22685e-12 do 3.22945e-12
+align 21 </s> 1

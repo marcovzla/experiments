@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 are 0.999943 *DELETE* 5.67536e-05
+align 3 you 1
+align 4 from 1
+align 5 *DELETE* 0.999529 it 0.000365374 uh 8.8159e-05 her 1.70636e-05 you 1.43815e-10
+align 6 </s> 1

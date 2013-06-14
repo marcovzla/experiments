@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.902188 i 0.0678804 uh 0.012378 some 0.00548341 then 0.00417074 them 0.00230449 um 0.00203649 now 0.00158086 done 0.00072984 no 0.00046461 and 0.000406609 oh 0.000354596 down 2.17134e-05
+align 2 *DELETE* 0.931765 am 0.0669899 i'm 0.0012451
+align 3 with 0.996072 of 0.0039279
+align 4 the 1
+align 5 police 1
+align 6 *DELETE* 0.489611 to 0.41401 the 0.0963788
+align 7 the 0.843075 *DELETE* 0.156925
+align 8 training 0.99999 train 1.0093e-05
+align 9 team 0.999965 *DELETE* 3.53412e-05
+align 10 in 0.99974 *DELETE* 0.000223971 tea 2.5646e-05 t 9.69418e-06 and 9.83123e-07 tee 1.03575e-09
+align 11 the 0.999741 any 0.000223827 many 3.54853e-05
+align 12 area 1
+align 13 *DELETE* 0.999959 uh 4.09612e-05
+align 14 </s> 1

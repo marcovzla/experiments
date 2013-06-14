@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 there's 1
+align 2 been 1
+align 3 an 1
+align 4 increase 1
+align 5 in 0.99662 and 0.00338025
+align 6 *DELETE* 0.99995 the 4.95857e-05
+align 7 vehicle 1
+align 8 bombs 1
+align 9 going 1
+align 10 off 1
+align 11 in 0.999999 and 1.15838e-06
+align 12 the 1
+align 13 area 1
+align 14 </s> 1

@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999898 oh 0.00010246
+align 2 okay 1
+align 3 now 1
+align 4 well 1
+align 5 what 0.996473 where 0.00352701
+align 6 do 1
+align 7 you 1
+align 8 what 1
+align 9 exactly 0.861309 is 0.138691
+align 10 *DELETE* 0.861309 that 0.138691
+align 11 *DELETE* 0.861309 the 0.138691
+align 12 deed 0.864207 dede 0.0766425 did 0.0591506
+align 13 so 1
+align 14 your 0.801481 you're 0.132699 you 0.0658195
+align 15 *DELETE* 0.934181 or 0.0658195
+align 16 your 0.934496 you're 0.0655044
+align 17 squad 1
+align 18 *DELETE* 0.418719 uh 0.385666 on 0.0927884 in 0.0623788 them 0.023126 and 0.0173211
+align 19 to 0.998706 should 0.00119898 will 9.51009e-05
+align 20 be 1
+align 21 looking 1
+align 22 out 1
+align 23 for 1
+align 24 *DELETE* 0.740782 when 0.240236 one 0.018982
+align 25 wonder 0.735104 there 0.179694 that 0.0481258 they're 0.0103615 day 0.00965746 their 0.00792467 to 0.00335443 window 0.00290206 wander 0.00273119 the 7.49499e-05 wondered 4.42335e-05 did 2.54224e-05 they 4.54381e-08 do 2.42699e-08
+align 26 as 0.713576 is 0.284149 eyes 0.00224293 *DELETE* 3.20475e-05
+align 27 that 0.855782 if 0.0902175 of 0.0177507 the 0.00876664 a 0.00551698 at 0.00543613 uh 0.00534254 their 0.00319837 are 0.00232492 it 0.00197186 *DELETE* 0.0013555 our 0.00114721 they're 0.000745996 there 0.000411207 azza 3.20475e-05
+align 28 they're 0.871193 their 0.0659797 the 0.0577027 there 0.00370554 other 0.0013555 dear 6.40304e-05
+align 29 patrolling 0.933786 patrol 0.0627303 patrolmen 0.00347809 patrolled 5.40719e-06
+align 30 *DELETE* 0.938532 in 0.0604201 me 0.000396937 now 0.000333701 and 9.83588e-05 men 8.31935e-05 an 3.72167e-05 man 3.58543e-05 on 2.86278e-05 no 1.04643e-05 it 7.99192e-06 to 6.28926e-06 i'm 3.29214e-06 at 2.52639e-06 mean 2.27336e-06 a 6.00555e-07 not 5.88987e-07 nine 1.56076e-07 may 1.23183e-09
+align 31 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 your 0.984758 you 0.0152422
+align 3 *DELETE* 0.999944 had 2.81718e-05 been 2.74108e-05
+align 4 men 0.985738 been 0.0115593 mean 0.00213788 name 0.000564536
+align 5 received 0.628832 receive 0.350283 receives 0.0208848
+align 6 security 0.996673 a 0.0026044 the 0.000722144
+align 7 *DELETE* 0.996673 security 0.00332654
+align 8 training 1 *DELETE* 7.04811e-19
+align 9 *DELETE* 0.999809 uh 0.000185753 i 4.85266e-06 a 4.90009e-08 trainee 6.09343e-14
+align 10 </s> 1

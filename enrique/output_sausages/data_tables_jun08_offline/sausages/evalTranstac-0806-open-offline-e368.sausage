@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 correct 1
+align 4 and 0.675704 *DELETE* 0.324296
+align 5 in 0.614941 *DELETE* 0.209016 i'm 0.151152 then 0.0244931 that 0.000397779
+align 6 *DELETE* 0.573238 and 0.426762
+align 7 uh 0.581355 *DELETE* 0.319102 in 0.0995429
+align 8 a 0.675408 *DELETE* 0.305645 to 0.0134789 then 0.00312129 an 0.00214668 the 0.000200065
+align 9 *DELETE* 0.997853 to 0.00214668
+align 10 *DELETE* 0.499873 a 0.17437 uh 0.173369 it 0.0900467 i'll 0.0402332 i 0.0221083
+align 11 *DELETE* 0.972582 i 0.0126464 it 0.00593571 i'll 0.00479998 i've 0.00403594
+align 12 doctor 1
+align 13 will 0.987969 we'll 0.0120313
+align 14 examine 1
+align 15 him 0.668516 them 0.217444 um 0.092863 i'm 0.00915953 *DELETE* 0.00738433 on 0.00378905 am 0.000843577
+align 16 *DELETE* 0.99988 uh 8.09361e-05 i 2.39595e-05 m 6.24565e-06 room 4.45263e-06 a 2.87143e-06 in 5.36944e-07 to 3.62622e-07 and 1.51866e-07 around 2.29906e-12
+align 17 </s> 1

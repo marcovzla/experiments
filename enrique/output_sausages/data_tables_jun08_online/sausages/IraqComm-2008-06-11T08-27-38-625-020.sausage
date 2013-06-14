@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 my 1
+align 3 name 1
+align 4 is 1
+align 5 staff 1
+align 6 sergeant 1
+align 7 still 0.955938 stole 0.0394715 stale 0.00390173 *DELETE* 0.000583438 stable 0.000104902 stove 1.89248e-09 stall 5.50281e-11 stuff 1.73328e-11
+align 8 some 0.881166 sum 0.0431027 soon 0.0165927 sick 0.0162302 sir 0.00963871 son 0.00898935 sin 0.00724406 so 0.00435562 sing 0.00434698 sent 0.0015304 sign 0.00117756 send 0.00112248 sun 0.00100315 still 0.000915153 sell 0.000824537 *DELETE* 0.000754511 stalls 0.000583438 cell 0.000422309
+align 9 *DELETE* 0.998534 and 0.000513385 sam 0.000317279 sting 0.00031532 uh 0.000101246 same 8.21764e-05 in 7.63823e-05 scent 3.33803e-05 i'm 1.45869e-05 sown 5.36829e-06 i 4.3371e-06 a 1.37415e-06 since 6.65674e-07 cent 2.39266e-07 side 4.71625e-08 of 2.51836e-08 say 1.5378e-08 something 8.8036e-09 sink 8.34409e-09 signed 2.01803e-09 site 3.09486e-10 sen 1.40715e-10 seem 8.42432e-11 to 4.43671e-13
+align 10 </s> 1

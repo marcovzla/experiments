@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 well 1
+align 3 then 1
+align 4 uh 0.710533 now 0.232367 *DELETE* 0.0570992
+align 5 i 0.979129 look 0.0131343 i'll 0.00760249 uh 0.00013438
+align 6 look 0.986866 *DELETE* 0.00942662 for 0.00370769
+align 7 *DELETE* 0.950423 for 0.0495579 work 1.9218e-05
+align 8 *DELETE* 0.999704 work 0.00029589
+align 9 forward 0.946734 working 0.0529504 you 0.000315108
+align 10 *DELETE* 0.96646 to 0.0335396
+align 11 with 0.889487 to 0.0879078 *DELETE* 0.0226048
+align 12 *DELETE* 0.982364 with 0.0176358
+align 13 you 0.905354 the 0.0937294 me 0.000916396
+align 14 next 1
+align 15 time 1
+align 16 *DELETE* 1 i 3.71856e-07
+align 17 </s> 1

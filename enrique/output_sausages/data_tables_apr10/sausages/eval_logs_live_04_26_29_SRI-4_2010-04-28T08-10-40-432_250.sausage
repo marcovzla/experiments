@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 0.557142 two 0.442793 to 6.5561e-05
+align 2 talaban 0.999934 tell 6.5561e-05
+align 3 *DELETE* 0.999934 them 6.5561e-05
+align 4 threaten 0.953135 threatened 0.046865
+align 5 people 1
+align 6 in 0.996091 *DELETE* 0.00260373 on 0.00129906 and 6.24978e-06
+align 7 the 0.982328 that 0.0131581 and 0.00215712 *DELETE* 0.00165649 an 0.000446322 their 0.000253958
+align 8 area 0.999993 the 1.322e-05
+align 9 *DELETE* 0.99996 uh 3.31321e-05 area 6.5546e-06
+align 10 </s> 1

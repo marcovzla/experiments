@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 0.984207 i 0.0155961 oh 0.00019729
+align 2 *DELETE* 0.999998 don't 2.01872e-06
+align 3 is 0.76984 was 0.0859596 it's 0.0618236 has 0.0577109 his 0.0113719 does 0.00502351 this 0.00446659 as 0.00377349 are 3.05787e-05
+align 4 *DELETE* 0.999969 it's 3.05787e-05
+align 5 farming 0.908214 fighting 0.0526343 finding 0.030121 firing 0.00466291 funding 0.0016634 filing 0.00163347 five 0.00107089
+align 6 *DELETE* 0.998929 in 0.00107089
+align 7 going 1 *DELETE* 3.47755e-12
+align 8 these 1 goings 2.50393e-07
+align 9 days 1
+align 10 *DELETE* 0.999307 uh 0.000687144 i 6.02458e-06
+align 11 </s> 1

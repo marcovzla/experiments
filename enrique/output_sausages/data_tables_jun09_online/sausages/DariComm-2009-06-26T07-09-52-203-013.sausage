@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 lot 1
+align 6 of 0.999369 uh 0.000334975 *DELETE* 0.000295954
+align 7 farmland 1 farm 3.11413e-32
+align 8 in 0.998799 and 0.00119137 then 9.21549e-06 landing 3.11413e-32
+align 9 your 1 you're 1.03631e-08
+align 10 area 1
+align 11 *DELETE* 0.999999 uh 9.37531e-07 and 2.38016e-12 do 1.73451e-13 to 8.70893e-14 i 1.89051e-14
+align 12 </s> 1

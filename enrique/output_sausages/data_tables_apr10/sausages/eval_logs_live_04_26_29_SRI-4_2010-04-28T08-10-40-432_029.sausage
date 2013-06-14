@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 oh 0.953516 so 0.0454679 *DELETE* 0.00101658
+align 2 oh 0.952527 *DELETE* 0.0474729
+align 3 how 1
+align 4 are 1
+align 5 you 0.99998 your 2.01646e-05
+align 6 today 1
+align 7 *DELETE* 0.998763 uh 0.00108732 i'll 4.30587e-05 i'm 4.15392e-05 or 2.00103e-05 okay 1.71758e-05 huh 1.50654e-05 um 4.02736e-06 i 3.36034e-06 now 2.20726e-06 oh 1.73349e-06 well 5.1891e-07 you 4.4584e-07 my 4.03416e-07 on 1.22993e-07 who 4.15687e-09 no 3.82611e-09 with 3.63411e-09
+align 8 </s> 1

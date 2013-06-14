@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 1 i'd 7.54845e-10
+align 2 *DELETE* 0.955302 i 0.0446979
+align 3 need 1
+align 4 to 1
+align 5 search 1
+align 6 your 0.950427 a 0.0495733
+align 7 property 0.99853 properly 0.00147001
+align 8 now 0.999998 no 1.82381e-06 *DELETE* 1.21144e-08 in 4.53042e-18
+align 9 *DELETE* 0.999996 i 2.98949e-06 no 6.46424e-07 uh 5.14872e-17 now 4.53042e-18
+align 10 </s> 1

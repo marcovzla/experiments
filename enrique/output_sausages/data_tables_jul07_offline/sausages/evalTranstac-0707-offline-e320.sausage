@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 looking 1
+align 2 at 1
+align 3 the 1
+align 4 uh 1
+align 5 *DELETE* 0.999968 uh 3.20245e-05
+align 6 how 1
+align 7 the 1
+align 8 building's 0.576479 buildings 0.423521
+align 9 laid 0.998377 late 0.00162272
+align 10 out 1
+align 11 are 0.437505 uh 0.179522 of 0.140754 i 0.100298 a 0.0872534 at 0.054314 and 0.000353313
+align 12 looks 0.917603 look 0.0698228 looked 0.0125739
+align 13 like 1
+align 14 we've 1
+align 15 got 1
+align 16 uh 1
+align 17 *DELETE* 0.999914 uh 8.59272e-05
+align 18 some 1
+align 19 good 1
+align 20 avenues 0.916316 avenue's 0.0836839
+align 21 uh 1
+align 22 in 1
+align 23 uh 1
+align 24 *DELETE* 0.990713 uh 0.00739342 a 0.00134929 i 0.000500265 in 3.30315e-05 oh 1.07917e-05
+align 25 </s> 1

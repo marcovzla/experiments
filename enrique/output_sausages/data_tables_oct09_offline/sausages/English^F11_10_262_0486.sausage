@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 you're 0.998855 your 0.000987765 you 0.000157672
+align 3 *DELETE* 0.999842 are 0.000157672
+align 4 going 1
+align 5 to 1
+align 6 have 1
+align 7 my 1
+align 8 you're 0.997102 your 0.00289847
+align 9 *DELETE* 0.787022 going 0.212978
+align 10 gonna 0.787022 to 0.212978
+align 11 have 1
+align 12 my 1
+align 13 men 1
+align 14 on 1
+align 15 the 1
+align 16 *DELETE* 0.995794 you 0.00420635
+align 17 *DELETE* 0.995601 see 0.00420635 e._c._p. 0.000192355
+align 18 e._c._p.s 0.995601 peas 0.00388991 peace 0.000250168 ease 0.000192355 piece 6.62745e-05
+align 19 </s> 1

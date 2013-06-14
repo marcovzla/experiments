@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 name 1
+align 5 of 0.981162 if 0.0188379
+align 6 the 0.998327 they 0.000715453 a 0.000425909 your 0.00042199 to 0.000101678 that 8.44903e-06
+align 7 teacher 0.999719 *DELETE* 0.000280996 teach 2.23237e-29
+align 8 *DELETE* 0.99765 in 0.00073881 uh 0.000698846 her 0.000298234 teachers 0.000280996 i 0.000140245 and 6.51785e-05 or 6.20519e-05 who 5.47303e-05 oh 9.79075e-06 um 6.93713e-07 o 2.31062e-07 owe 9.57565e-08 to 7.65433e-08 on 4.48228e-08 now 2.09853e-11 of 2.45752e-12 it 5.26212e-20 a 1.32593e-22 is 5.09865e-24 all 1.17652e-27 your 2.23237e-29
+align 9 </s> 1

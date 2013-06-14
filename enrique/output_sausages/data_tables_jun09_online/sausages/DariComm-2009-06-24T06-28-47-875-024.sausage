@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 if 0.906606 is 0.0933943
+align 2 they 0.797733 there 0.202267
+align 3 are 0.919607 a 0.0803934
+align 4 short 1
+align 5 of 1
+align 6 medication 1
+align 7 here 0.941112 *DELETE* 0.0383013 in 0.0205864
+align 8 in 0.979414 *DELETE* 0.0205864
+align 9 the 0.999923 a 7.32282e-05 *DELETE* 3.34413e-06
+align 10 hospital 1
+align 11 *DELETE* 1 uh 4.46589e-10 in 1.46631e-12 i 1.85433e-14 you 2.3377e-15 do 3.521e-16
+align 12 </s> 1

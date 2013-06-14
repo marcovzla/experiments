@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 uh 1
+align 4 what 1
+align 5 your 0.999793 you're 0.000206847
+align 6 name 0.999998 named 1.56001e-06
+align 7 *DELETE* 0.999991 is 9.08049e-06
+align 8 </s> 1

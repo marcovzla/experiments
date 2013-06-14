@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 uh 0.829163 oh 0.154176 um 0.0166608
+align 2 *DELETE* 0.995977 uh 0.00264076 oh 0.00138177
+align 3 we 1
+align 4 can 1
+align 5 depart 0.981041 be 0.0186493 do 0.000309476
+align 6 *DELETE* 0.981041 part 0.0189588
+align 7 the 1
+align 8 base 1
+align 9 and 0.998902 in 0.00109787
+align 10 we 1
+align 11 should 1
+align 12 be 1
+align 13 at 1
+align 14 the 1
+align 15 objective 0.996675 object 0.0033248
+align 16 by 0.996675 to 0.0033248
+align 17 *DELETE* 0.996675 buy 0.00261919 by 0.000705613
+align 18 zero 1
+align 19 six 1
+align 20 thirty 1
+align 21 </s> 1

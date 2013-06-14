@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 the 1
+align 3 water 1
+align 4 good 1
+align 5 quality 0.999853 qualities 0.000147409
+align 6 *DELETE* 0.999976 i 9.85433e-06 uh 6.96849e-06 if 4.84528e-06 in 1.61373e-06 of 7.34411e-07 you 9.51478e-18
+align 7 </s> 1

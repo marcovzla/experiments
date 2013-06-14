@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 refrigerant 0.684825 refrigerated 0.253791 refrigerator 0.0304259 refrigerators 0.0296343 refer 0.00132415
+align 3 *DELETE* 0.999934 asia 6.63812e-05
+align 4 *DELETE* 0.998676 agents 0.00125777 and 6.63812e-05
+align 5 sir 0.962094 are 0.0257051 *DELETE* 0.0116902 or 0.000510533
+align 6 *DELETE* 0.999988 uh 9.71379e-06 i 2.16469e-06 there 1.06957e-12 of 2.66947e-13 serve 3.11771e-15 our 6.87247e-17
+align 7 </s> 1

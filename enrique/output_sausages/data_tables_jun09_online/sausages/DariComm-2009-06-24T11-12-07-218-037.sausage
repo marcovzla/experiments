@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 were 1 where 2.77336e-23
+align 3 they 1
+align 4 doing 1
+align 5 *DELETE* 0.998954 it 0.000712348 uh 0.000282132 that 3.00503e-05 to 1.67936e-05 so 3.72859e-06 them 1.0146e-06 a 1.36388e-07 too 6.5818e-08 the 6.91116e-10 i 1.165e-10 now 9.54934e-11 um 8.26266e-23
+align 6 </s> 1

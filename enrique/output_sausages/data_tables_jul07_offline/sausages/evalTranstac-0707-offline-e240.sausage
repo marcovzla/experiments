@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 but 0.999963 put 3.73206e-05
+align 2 most 1
+align 3 likely 1
+align 4 it's 0.99742 its 0.00258046
+align 5 not 1
+align 6 going 1
+align 7 to 1
+align 8 happen 1 happened 1.3309e-10
+align 9 *DELETE* 0.99998 uh 1.75572e-05 i 2.54857e-06
+align 10 </s> 1

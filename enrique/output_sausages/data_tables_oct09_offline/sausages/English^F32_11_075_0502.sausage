@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 um 1
+align 3 you're 0.815811 do 0.0963069 and 0.0485717 *DELETE* 0.0393025 give 7.88579e-06
+align 4 *DELETE* 0.820211 you 0.0910802 your 0.0887087
+align 5 *DELETE* 0.999879 do 0.000120513
+align 6 you're 1
+align 7 talking 1
+align 8 about 1
+align 9 uh 0.999274 us 0.000725729
+align 10 *DELETE* 0.724414 uh 0.238038 a 0.0375476
+align 11 snap 1
+align 12 v._c._p.s 1
+align 13 *DELETE* 0.999825 uh 0.00011312 though 6.17572e-05
+align 14 </s> 1

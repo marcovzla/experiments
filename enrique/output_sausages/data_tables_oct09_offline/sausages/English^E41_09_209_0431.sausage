@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 0.987908 they 0.0120917
+align 3 uh 0.928198 now 0.0593925 know 0.0120917 oh 0.000317521
+align 4 you 1
+align 5 will 0.781878 we'll 0.218122
+align 6 go 1
+align 7 ahead 1
+align 8 and 1
+align 9 take 0.992231 tape 0.00776944
+align 10 down 1
+align 11 uh 0.778587 the 0.115626 a 0.0966053 not 0.00729026 on 0.00177854 i 0.000104297 us 9.2382e-06
+align 12 *DELETE* 0.998221 a 0.00177854
+align 13 three 0.983813 uh 0.0161873
+align 14 *DELETE* 0.983813 three 0.0161873
+align 15 sides 1
+align 16 of 1
+align 17 it 0.689115 the 0.306721 a 0.00416372
+align 18 and 0.978173 inner 0.00936437 in 0.00551651 new 0.00504677 *DELETE* 0.00112109 any 0.000778759
+align 19 *DELETE* 0.999003 a 0.000605762 the 0.00039121
+align 20 leave 1
+align 21 one 1
+align 22 side 0.986306 site 0.00663768 signed 0.00477741 sight 0.00151309 sign 0.00076551
+align 23 open 0.965945 opened 0.0306465 *DELETE* 0.00194207 i 0.00146648
+align 24 *DELETE* 0.996163 open 0.00116133 okay 0.000952223 opel 0.000596619 it 0.000381198 opened 0.000305149 opening 0.000227033 opens 9.58231e-05 opener 3.47455e-05 hope 3.29762e-05 in 2.97939e-05 to 6.18746e-06 if 5.52838e-06 okra 2.64158e-06 up 2.16138e-06 on 1.45718e-06 and 6.57251e-07 or 4.78483e-07 uh 3.00683e-07 a 2.2679e-07 i 1.07981e-07 an 5.30319e-08 at 4.21489e-09 over 3.58626e-09 opal 1.27902e-09 you 7.03866e-11 rope 1.61046e-11
+align 25 </s> 1

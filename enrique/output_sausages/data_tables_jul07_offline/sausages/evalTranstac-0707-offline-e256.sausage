@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999061 uh 0.000896311 yeah 4.23417e-05
+align 2 it 1
+align 3 is 1
+align 4 the 0.999979 a 2.10434e-05
+align 5 law 1
+align 6 of 1
+align 7 the 1
+align 8 of 0.6462 uh 0.330246 air 0.0219745 are 0.000548102 area 0.000472194 at 0.00033765 *DELETE* 0.00022155
+align 9 *DELETE* 0.997522 of 0.00247804
+align 10 the 0.999778 elvie 0.000187624 *DELETE* 3.39262e-05
+align 11 iraqi 1
+align 12 government 1 *DELETE* 9.18799e-23
+align 13 *DELETE* 0.999994 i 5.47554e-06 uh 9.16498e-07 to 1.33158e-08 government's 2.46851e-16
+align 14 </s> 1

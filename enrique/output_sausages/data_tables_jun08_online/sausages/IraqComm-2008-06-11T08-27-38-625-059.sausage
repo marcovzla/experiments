@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 area 1
+align 5 is 0.981602 it 0.0183982 as 4.97762e-11
+align 6 *DELETE* 0.981602 is 0.0183982 has 1.09738e-16
+align 7 this 1
+align 8 *DELETE* 0.999999 uh 1.25325e-06 a 7.99321e-08
+align 9 </s> 1

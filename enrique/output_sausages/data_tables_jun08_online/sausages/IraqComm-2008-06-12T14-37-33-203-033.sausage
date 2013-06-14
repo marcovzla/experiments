@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 this 1
+align 3 an 1
+align 4 area 1
+align 5 full 0.950443 a 0.049557
+align 6 *DELETE* 0.950443 full 0.049557
+align 7 of 1
+align 8 insurgents 0.999509 insurgence 0.000285959 insurgents' 0.000204048 the 1.12524e-06 *DELETE* 1.06914e-24
+align 9 *DELETE* 0.999087 uh 0.000912051 insurgents 1.12524e-06 i 3.69444e-11 insurgency 1.10878e-15 in 2.95966e-17
+align 10 </s> 1

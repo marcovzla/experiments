@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 0.999636 they 0.000349836 *DELETE* 1.40141e-05
+align 3 any 1
+align 4 many 0.599916 men 0.393148 man 0.00693539
+align 5 in 1
+align 6 the 1
+align 7 village 1
+align 8 that 1
+align 9 would 1
+align 10 join 0.862408 drawing 0.0576048 joint 0.0380947 joined 0.0278535 throwing 0.00521749 drive 0.0035837 going 0.00194879 trying 0.00176693 try 0.000583964 dry 0.000304709 *DELETE* 0.000271394 you 0.000214788 draw 8.02133e-05 go 6.54553e-05 be 1.44718e-06
+align 11 *DELETE* 0.994356 in 0.00262459 and 0.000846522 a 0.000730012 it 0.000350847 the 0.000220879 i 0.000184944 join 0.000161265 doing 0.000138038 uh 8.44918e-05 drying 7.79872e-05 to 5.92956e-05 joined 5.35227e-05 joining 4.3824e-05 you 3.47455e-05 them 1.33624e-05 drilling 7.67046e-06 if 5.89005e-06 joins 2.78617e-06 trying 1.44718e-06 giant 1.04683e-06 um 3.02874e-07 joints 4.13155e-08
+align 12 </s> 1

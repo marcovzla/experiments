@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 good 1
+align 3 that 1
+align 4 you 1
+align 5 practice 0.993804 practiced 0.00619608
+align 6 </s> 1

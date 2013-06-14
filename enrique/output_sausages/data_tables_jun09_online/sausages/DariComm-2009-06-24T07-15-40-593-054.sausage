@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 when 0.984431 wind 0.00513529 win 0.00472371 what 0.00226331 went 0.00170258 one 0.00131633 wouldn't 0.000227908 wooden 0.000199662
+align 2 is 0.994286 his 0.00571376
+align 3 this 1
+align 4 attack 1
+align 5 *DELETE* 0.995984 it 0.00193739 you 0.00170302 them 9.76491e-05 uh 7.43897e-05 in 5.34668e-05 me 4.05067e-05 is 3.67717e-05 that 1.49316e-05 at 1.27682e-05 us 1.17235e-05 i 1.1278e-05 to 6.02761e-06 a 5.95269e-06 do 4.20896e-06 and 2.31753e-06 with 1.69903e-06 but 1.17786e-06 the 6.66252e-07 on 4.81425e-10 if 1.03586e-11 so 4.32722e-12 like 2.00931e-13
+align 6 </s> 1

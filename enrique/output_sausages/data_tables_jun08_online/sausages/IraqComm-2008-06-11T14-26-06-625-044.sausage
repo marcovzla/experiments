@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.997981 one 0.00201896
+align 2 is 1
+align 3 his 0.42877 a 0.426153 the 0.090232 this 0.0477265 it 0.00706897 that 4.9704e-05
+align 4 situational 0.997385 situation 0.00261526
+align 5 *DELETE* 0.997385 of 0.00245559 else 0.00011602 i'll 1.78371e-05 all 1.67885e-05 will 9.02485e-06
+align 6 status 1
+align 7 *DELETE* 0.999992 uh 7.88589e-06
+align 8 </s> 1

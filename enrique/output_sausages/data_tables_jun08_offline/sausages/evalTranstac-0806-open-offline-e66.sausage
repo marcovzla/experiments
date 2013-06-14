@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 grown 0.469812 brewing 0.248466 overwhelm 0.12007 everyone 0.0856931 ruined 0.0194426 girl 0.0142927 growing 0.0135248 very 0.0117769 merlin 0.00758672 ruin 0.00326419 overwhelmed 0.00246774 where 0.00116783 gray 0.000814663 who 0.000713635 going 0.000563405 over 0.000320492 we 2.39102e-05
+align 2 *DELETE* 0.991584 well 0.0059791 and 0.00243726
+align 3 *DELETE* 0.618476 in 0.291259 then 0.0608421 now 0.00880382 and 0.00580227 i'm 0.00544936 on 0.00367916 one 0.00360506 when 0.000816576 ruin 0.000713635 uh 0.000529739 run 2.39102e-05
+align 4 numb 0.642211 i'm 0.174564 them 0.15719 um 0.0260354
+align 5 my 1
+align 6 main 1
+align 7 concern 1
+align 8 is 1
+align 9 your 0.997915 the 0.00208471
+align 10 security 1
+align 11 guards 1
+align 12 *DELETE* 0.998981 uh 0.00101843 i 4.93403e-07 in 4.86663e-09
+align 13 </s> 1

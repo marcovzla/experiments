@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.774262 i 0.141657 uh 0.0802677 oh 0.00379469 down 1.85801e-05
+align 2 *DELETE* 0.77428 am 0.117907 i'm 0.107812
+align 3 here 1
+align 4 to 1
+align 5 teach 1
+align 6 you 0.988938 it 0.00718832 a 0.00387383
+align 7 god 0.782219 gotta 0.130276 go 0.0713664 *DELETE* 0.0124417 the 0.00369648
+align 8 *DELETE* 0.912495 uh 0.0750629 guard 0.0124417
+align 9 military 1
+align 10 tactics 1 type 1.47888e-10
+align 11 *DELETE* 1 six 1.47888e-10
+align 12 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 makes 0.977776 next 0.0203499 mix 0.00187439
+align 3 check 0.884703 take 0.0783283 sick 0.0322322 sake 0.00473622
+align 4 under 1
+align 5 the 1
+align 6 car 1
+align 7 *DELETE* 0.998867 uh 0.00086134 to 0.000188062 in 7.66723e-05 i 3.14573e-06 and 2.55688e-06 is 1.05217e-06 at 1.10352e-12
+align 8 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 while 0.9591 well 0.0341983 what 0.00475593 why 0.0019453
+align 3 the 0.993214 would 0.00678627
+align 4 morning 0.988719 mourning 0.0112812
+align 5 outside 1
+align 6 today 0.971573 two 0.016085 to 0.0115091 too 0.00083245
+align 7 *DELETE* 0.968257 day 0.0229866 uh 0.00286202 date 0.00249056 days 0.00222261 do 0.000460965 i 0.000296254 gain 0.000278285 to 7.45531e-05 so 3.26244e-05 it 1.44414e-05 you 1.0537e-05 gay 7.13793e-06 is 2.96864e-06 sir 2.24446e-06 i'm 4.20652e-07 a 3.50496e-07 and 1.92737e-07 in 5.27282e-08 um 1.57793e-11 die 9.7362e-15 de 5.3452e-16 doing 4.64378e-21
+align 8 </s> 1

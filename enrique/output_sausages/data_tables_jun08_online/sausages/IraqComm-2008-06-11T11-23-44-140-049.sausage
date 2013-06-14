@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 0.64488 *DELETE* 0.35512
+align 2 you 0.643342 *DELETE* 0.354979 your 0.00153819 a 0.000141386 i 8.64441e-08
+align 3 till 0.446182 regular 0.354979 killer 0.107989 kill 0.0885404 children 0.00153888 two 0.000769045 too 1.86393e-06 to 1.74986e-07
+align 4 *DELETE* 0.999229 of 0.000771084
+align 5 free 0.465271 afraid 0.417406 the 0.104072 our 0.0132445 for 6.65408e-06
+align 6 *DELETE* 0.882683 free 0.105352 afraid 0.0119644
+align 7 of 0.913163 *DELETE* 0.0868306 your 6.65408e-06
+align 8 needles 0.842357 meals 0.157405 nails 0.00023782
+align 9 *DELETE* 1 uh 9.9614e-18
+align 10 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 0.988025 um 0.0119752
+align 2 my 1
+align 3 platoon 1
+align 4 will 0.962475 we'll 0.0366477 were 0.000873927 well 3.0325e-06 *DELETE* 1.93013e-10
+align 5 also 1
+align 6 fall 0.985788 follow 0.0142122
+align 7 into 0.999569 in 0.000430962
+align 8 the 0.578312 that 0.408338 a 0.0112295 their 0.00212044
+align 9 *DELETE* 0.999936 uh 6.423e-05
+align 10 building 1
+align 11 with 1
+align 12 you 1 u 9.66764e-10
+align 13 </s> 1

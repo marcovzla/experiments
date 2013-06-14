@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 family 1
+align 4 have 1
+align 5 food 1
+align 6 to 1 tea 1.10366e-09
+align 7 eat 1
+align 8 *DELETE* 0.998053 it 0.00194738 uh 3.60998e-09 that 7.92951e-10 the 1.11709e-14
+align 9 </s> 1

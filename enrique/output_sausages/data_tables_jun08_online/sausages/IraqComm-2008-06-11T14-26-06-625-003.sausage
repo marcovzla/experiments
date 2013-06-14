@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 the 1
+align 4 last 1
+align 5 scenario 0.99963 in 0.000201419 and 0.000168223
+align 6 *DELETE* 0.99963 area 0.000201419 aerial 0.000168223
+align 7 before 1
+align 8 we 1
+align 9 and 0.870274 in 0.0841255 end 0.0456002 *DELETE* 4.89907e-19
+align 10 the 0.996699 that 0.00329618 then 4.90778e-06 they 2.41916e-07 ended 1.2445e-14
+align 11 day 0.999876 de 0.000124409
+align 12 *DELETE* 1 i 3.44874e-07
+align 13 </s> 1

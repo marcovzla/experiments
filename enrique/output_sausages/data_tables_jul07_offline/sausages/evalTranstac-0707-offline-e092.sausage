@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.872441 uh 0.0780024 i 0.0478913 oh 0.00166526
+align 3 yes 0.952109 guess 0.0478913
+align 4 we 0.936838 me 0.031926 we've 0.0274636 he 0.00377267
+align 5 for 0.938151 four 0.0343852 heard 0.0274636
+align 6 i've 0.873246 a 0.064022 i 0.0266931 uh 0.0192509 it 0.0144882 of 0.00154996 an 0.000749615
+align 7 *DELETE* 0.873246 i've 0.123127 have 0.00362696
+align 8 heard 1
+align 9 that 1
+align 10 there 1
+align 11 are 1
+align 12 some 0.993298 *DELETE* 0.00626118 said 0.000441161
+align 13 time 0.663012 three 0.0933983 very 0.0691773 pain 0.0634283 coming 0.0619433 i 0.0199106 can 0.00934557 *DELETE* 0.0076444 occurring 0.00494692 soccer 0.00333088 something 0.00293031 touring 0.000654024 paying 0.000277488
+align 14 *DELETE* 0.980089 carry 0.0112146 can 0.00869599
+align 15 in 0.568938 from 0.226236 of 0.185744 for 0.0114844 nerve 0.00720324 even 0.000394861
+align 16 *DELETE* 0.996669 from 0.00333088
+align 17 the 0.796905 me 0.203095
+align 18 outside 1
+align 19 but 0.998923 what 0.00107736
+align 20 i've 0.960872 of 0.0360862 i'm 0.0029888 have 5.26746e-05
+align 21 also 1
+align 22 heard 1
+align 23 that 1
+align 24 some 1
+align 25 or 0.588077 were 0.408251 more 0.00367227
+align 26 or 0.605754 are 0.261099 our 0.133147
+align 27 iraqi 0.988521 iraq 0.0114787
+align 28 *DELETE* 0.988521 you 0.0114787
+align 29 also 0.99736 all 0.00264008 i'll 5.87936e-13
+align 30 *DELETE* 0.997089 so 0.00263565 i'll 0.000248957 uh 1.92757e-05 sew 4.42979e-06 of 1.73317e-06 a 4.94341e-07 i 2.89688e-08 sow 5.63516e-10
+align 31 </s> 1

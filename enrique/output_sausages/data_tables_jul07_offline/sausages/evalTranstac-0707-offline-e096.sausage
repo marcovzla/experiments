@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 would 0.867517 who 0.0772752 *DELETE* 0.0355478 we 0.01966
+align 2 *DELETE* 0.873248 do 0.126319 would 0.000432761
+align 3 you 0.990715 dig 0.00573105 *DELETE* 0.003554
+align 4 grow 0.99177 our 0.00514541 got 0.00159141 good 0.000437566 are 0.00032457 go 0.00022341 or 0.000219993 agree 0.000206092 of 3.45369e-05 great 1.93123e-05 guard 9.83619e-06 a 6.54471e-06 gonna 6.04344e-06 grab 4.15222e-06 grew 1.3217e-06 right 1.0614e-09 road 4.06267e-10
+align 5 crops 1
+align 6 *DELETE* 0.999999 uh 1.08929e-06
+align 7 </s> 1

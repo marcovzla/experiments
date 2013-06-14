@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 that'll 0.999985 that 1.48668e-05
+align 2 *DELETE* 0.999985 will 1.48668e-05
+align 3 be 1
+align 4 fine 0.962744 find 0.037013 fined 0.000242584
+align 5 as 0.536949 us 0.305213 ask 0.145236 is 0.00687468 *DELETE* 0.00535826 s 0.000313227 i 5.62502e-05 ass 5.22113e-10
+align 6 *DELETE* 0.999941 ask 5.62502e-05 a 2.28228e-06
+align 7 but 0.787274 by 0.0943754 well 0.0562354 far 0.0265199 buy 0.0127851 what 0.00843607 asmar 0.00535826 part 0.00341975 why 0.00326717 bye 0.00232878
+align 8 we 1
+align 9 *DELETE* 0.787208 are 0.122342 a 0.0870046 have 0.00316789 i 0.000277913
+align 10 preparing 0.947765 prepare 0.0522351
+align 11 *DELETE* 0.997307 and 0.00269333
+align 12 now 0.997191 you 0.00280897
+align 13 *DELETE* 0.997191 now 0.00280897
+align 14 to 1
+align 15 prevent 1
+align 16 or 1
+align 17 *DELETE* 0.65352 maybe 0.345599 may 0.000508354 many 0.000373418
+align 18 *DELETE* 0.999492 be 0.000508354
+align 19 mitigate 0.65352 get 0.344275 gate 0.00191575 gay 0.000255522 gaye 3.37554e-05 getting 6.97613e-07
+align 20 any 0.99969 a 0.000310191
+align 21 these 0.537754 *DELETE* 0.256603 of 0.205332 new 0.000310191
+align 22 *DELETE* 0.537754 the 0.290442 these 0.17046 any 0.00132813 eighty 1.45368e-05 thi 1.05333e-06
+align 23 situations 0.994933 situation's 0.00506734
+align 24 *DELETE* 1 i 3.73118e-07
+align 25 </s> 1

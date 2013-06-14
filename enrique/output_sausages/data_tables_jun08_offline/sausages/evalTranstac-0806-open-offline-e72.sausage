@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.995505 uh 0.00449492
+align 2 how 1
+align 3 many 1
+align 4 entry 1
+align 5 points 1
+align 6 or 1
+align 7 an 0.999648 any 0.000229566 and 0.000121974
+align 8 entry 1
+align 9 case 0.877611 chase 0.0678255 gates 0.0517022 chased 0.00137701 qais 0.000666825 cases 0.00060867 qays 0.000208796
+align 10 *DELETE* 0.95342 do 0.0451188 to 0.00146104
+align 11 you 0.841595 do 0.158405
+align 12 *DELETE* 0.841594 you 0.158406
+align 13 have 1
+align 14 to 0.999976 two 2.4095e-05
+align 15 your 0.999995 you're 4.55752e-06
+align 16 facility 0.999514 facilities 0.000485571
+align 17 *DELETE* 0.999994 uh 6.10096e-06 is 2.93355e-07
+align 18 </s> 1

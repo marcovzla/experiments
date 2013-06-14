@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 insurgents 0.788767 insurgence 0.209914 insurgents' 0.00131906
+align 2 come 0.90424 *DELETE* 0.0957598
+align 3 in 0.90424 coming 0.0957598
+align 4 at 1
+align 5 night 1
+align 6 to 1
+align 7 make 1
+align 8 the 0.989883 *DELETE* 0.0101171
+align 9 bombs 1
+align 10 </s> 1

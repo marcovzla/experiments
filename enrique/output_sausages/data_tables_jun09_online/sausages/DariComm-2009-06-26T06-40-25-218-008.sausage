@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 feel 1
+align 5 about 1
+align 6 the 1
+align 7 weather 0.525699 whether 0.474301
+align 8 this 1
+align 9 morning 0.999975 *DELETE* 2.46879e-05
+align 10 *DELETE* 0.999111 i 0.000862424 mourning 2.46879e-05 uh 1.46936e-06 it 7.3605e-12 so 3.65296e-13 you 2.74915e-13
+align 11 </s> 1

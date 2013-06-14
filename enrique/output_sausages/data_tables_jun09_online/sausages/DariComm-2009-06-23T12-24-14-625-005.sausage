@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 hello 0.999951 *DELETE* 4.88924e-05
+align 2 *DELETE* 0.999269 uh 0.000673386 hilal 4.88924e-05 i 7.47061e-06 sir 7.52195e-07 i'm 1.43908e-10
+align 3 </s> 1

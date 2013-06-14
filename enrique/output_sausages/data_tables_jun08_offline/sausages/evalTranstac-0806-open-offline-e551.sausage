@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 maybe 1
+align 3 we 1
+align 4 should 1
+align 5 we 1
+align 6 should 1
+align 7 plan 1
+align 8 aside 1
+align 9 a 0.998734 *DELETE* 0.00126593
+align 10 little 1
+align 11 bit 1
+align 12 more 1
+align 13 with 1
+align 14 more 1
+align 15 personnel 1
+align 16 *DELETE* 0.999986 uh 7.36216e-06 i 6.51343e-06 in 8.76135e-08
+align 17 </s> 1

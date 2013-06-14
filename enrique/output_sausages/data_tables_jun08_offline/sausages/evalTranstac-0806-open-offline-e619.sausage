@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 0.61446 in 0.329612 then 0.0559283
+align 2 these 0.900848 he's 0.0991523
+align 3 occupants 1
+align 4 matching 0.998835 match 0.00116494
+align 5 *DELETE* 0.998835 in 0.00116494
+align 6 it's 0.671349 this 0.304144 its 0.0211242 that's 0.00317778 is 0.000205077
+align 7 description 0.999996 descriptions 3.81507e-06
+align 8 *DELETE* 0.999887 uh 6.05974e-05 i 4.7924e-05 of 4.04768e-06
+align 9 </s> 1

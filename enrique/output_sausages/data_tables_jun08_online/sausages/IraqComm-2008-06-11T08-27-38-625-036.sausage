@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 be 0.999785 b 0.000215183
+align 3 what 0.851998 which 0.125559 would 0.0185368 with 0.0039058
+align 4 you 1
+align 5 just 1
+align 6 said 0.998656 side 0.00105166 set 0.000277731 such 1.31614e-05 *DELETE* 1.02274e-08
+align 7 *DELETE* 0.999996 it 3.29798e-06 that 1.03055e-06 son 6.93248e-08 uh 2.05352e-15 sat 1.35062e-20 add 5.47951e-21
+align 8 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 0.539713 computers 0.460287
+align 2 say 0.987199 stay 0.00847981 a 0.00266112 said 0.00166047 *DELETE* 6.93862e-22
+align 3 again 0.999687 that 0.000313043 they're 4.22403e-08 they 3.88176e-09 *DELETE* 2.46276e-12 sick 8.54926e-19
+align 4 *DELETE* 0.999658 again 0.000313043 i 2.84163e-05 going 4.22403e-08 go 5.84476e-09 um 3.37724e-09 uh 5.9606e-10 then 8.54926e-19
+align 5 </s> 1

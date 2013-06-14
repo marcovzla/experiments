@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 i 1
+align 3 cannot 1
+align 4 release 1
+align 5 him 0.9111 them 0.0888875 i'm 1.2247e-05
+align 6 in 0.662798 and 0.337202
+align 7 there's 0.745502 there 0.254498
+align 8 *DELETE* 0.745502 is 0.254498
+align 9 nothing 1
+align 10 i 1
+align 11 can 1
+align 12 do 1
+align 13 at 0.957777 it 0.0240642 with 0.018158 if 4.80808e-07 what 1.62431e-12
+align 14 this 0.997433 his 0.00127323 its 0.00119602 as 9.73566e-05 us 1.58401e-08 is 1.29274e-09
+align 15 time 1
+align 16 *DELETE* 0.999993 i 6.91741e-06 uh 2.14567e-12
+align 17 </s> 1

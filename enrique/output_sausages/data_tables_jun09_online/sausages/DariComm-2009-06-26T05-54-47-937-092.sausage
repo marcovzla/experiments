@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 we 0.645004 you 0.354974 do 2.15927e-05
+align 2 *DELETE* 0.999978 you 2.15927e-05
+align 3 will 0.957389 we'll 0.042611
+align 4 try 0.998224 tried 0.00177637
+align 5 to 1
+align 6 get 1
+align 7 you 0.751091 to 0.248909
+align 8 that 0.909353 the 0.0863199 uh 0.00432749
+align 9 you 0.999615 *DELETE* 0.000384593
+align 10 will 0.999615 *DELETE* 0.000384593
+align 11 *DELETE* 0.757453 do 0.242547
+align 12 the 0.746104 *DELETE* 0.156502 be 0.035393 that 0.0273329 it 0.0189973 they 0.00616276 let 0.00383955 look 0.00337725 get 0.00190661 you'll 0.000384593
+align 13 generators 0.999985 that 1.23345e-05 let 2.55326e-06
+align 14 *DELETE* 0.999974 generators 1.48878e-05 i 5.84181e-06 uh 5.09557e-06 a 7.67505e-08
+align 15 </s> 1

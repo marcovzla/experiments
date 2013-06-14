@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 where 0.969187 were 0.0296995 we're 0.00111343
+align 2 do 0.991854 *DELETE* 0.0081462
+align 3 you 1
+align 4 go 1
+align 5 to 1
+align 6 sell 0.983424 so 0.00752378 cell 0.00683038 sew 0.00222059 *DELETE* 1.21377e-10
+align 7 crops 0.887691 props 0.0854151 cops 0.0144774 co-ops 0.0123298 cop's 8.5119e-05 soak 1.38855e-06
+align 8 *DELETE* 0.999962 i 3.61357e-05 ops 1.38855e-06 do 1.26697e-07 in 9.14522e-08
+align 9 </s> 1

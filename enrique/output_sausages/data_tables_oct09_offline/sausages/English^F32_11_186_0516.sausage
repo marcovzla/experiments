@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 *DELETE* 0.827086 you're 0.155022 he 0.0100996 she 0.00621172 they 0.00143078 your 0.000121397 sir 2.23231e-05 so 5.58081e-06
+align 3 you 0.827114 going 0.172886
+align 4 *DELETE* 0.962157 going 0.0378428
+align 5 gonna 0.783989 to 0.210729 gotta 0.0052821
+align 6 be 0.976349 take 0.023651
+align 7 taking 0.971823 in 0.023651 taken 0.00452618
+align 8 one 0.990893 what 0.00890296 want 0.00011583 once 8.82872e-05
+align 9 side 0.999949 set 5.06965e-05
+align 10 of 1
+align 11 the 1
+align 12 bridge 1
+align 13 </s> 1

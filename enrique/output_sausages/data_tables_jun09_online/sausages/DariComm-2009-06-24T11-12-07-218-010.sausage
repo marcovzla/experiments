@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 patrolling 1
+align 5 have 0.999137 of 0.000862975
+align 6 you 0.99902 you've 0.000979631 you'd 9.81898e-18
+align 7 done 0.999995 *DELETE* 5.42203e-06
+align 8 *DELETE* 0.997213 uh 0.00115827 it 0.00053884 that 0.000515404 i 0.000253464 a 0.000224896 in 3.96403e-05 up 2.46958e-05 you 1.53691e-05 gone 5.42203e-06 to 5.4148e-06 the 4.00372e-06 if 1.3387e-06 so 5.119e-07 this 2.02145e-07 is 3.45729e-14
+align 9 </s> 1

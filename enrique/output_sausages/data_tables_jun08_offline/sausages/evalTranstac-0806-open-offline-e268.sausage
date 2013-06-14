@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 agree 1
+align 4 and 1
+align 5 i 1
+align 6 think 1
+align 7 uh 1
+align 8 uh 0.675691 *DELETE* 0.224077 your 0.097005 a 0.00322718
+align 9 your 0.759056 you're 0.142326 *DELETE* 0.097005 you 0.00161258
+align 10 leadership 1
+align 11 is 0.982794 this 0.0172064
+align 12 that 0.640425 *DELETE* 0.33108 to 0.025732 of 0.00276317
+align 13 the 1
+align 14 *DELETE* 0.926476 the 0.0735241
+align 15 tank 0.742445 battalion 0.257555
+align 16 commander 1
+align 17 to 0.999996 the 3.64963e-06
+align 18 demonstrate 1
+align 19 to 1
+align 20 your 1
+align 21 troops 1
+align 22 the 0.991699 to 0.0082884 that 1.30468e-05
+align 23 proper 1
+align 24 way 1
+align 25 to 1
+align 26 handle 1
+align 27 a 0.999958 all 4.1698e-05 *DELETE* 9.4942e-12
+align 28 weapon 1
+align 29 </s> 1

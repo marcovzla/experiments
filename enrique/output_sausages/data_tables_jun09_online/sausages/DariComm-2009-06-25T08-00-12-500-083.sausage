@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 is 1
+align 3 very 1
+align 4 important 1
+align 5 you 1
+align 6 use 0.69513 used 0.30487
+align 7 the 0.999359 that 0.000393853 their 0.000246584 to 8.82006e-07
+align 8 gloves 0.999014 gross 0.000776471 grows 0.000103055 clothes 6.0452e-05 globes 3.88922e-05 close 4.67116e-06 gauze 1.81644e-06 grocer 5.17174e-07 *DELETE* 7.25761e-10
+align 9 *DELETE* 1 gauze 2.11166e-07 girls 1.26758e-07 uh 1.08367e-07 grocer 1.45342e-08 i 7.72489e-10 was 5.30395e-13 so 5.20288e-14
+align 10 </s> 1

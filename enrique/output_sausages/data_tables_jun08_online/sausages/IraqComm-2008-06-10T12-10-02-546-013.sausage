@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 lieutenant 1
+align 5 inman 0.999982 in 1.7794e-05
+align 6 *DELETE* 0.999982 them 1.7794e-05 uh 2.39143e-17
+align 7 </s> 1

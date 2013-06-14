@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 ever 1
+align 4 got 0.975615 gone 0.0233396 *DELETE* 0.000732314 gotten 0.000313411
+align 5 into 0.915021 in 0.084241 gotten 0.000732314 *DELETE* 6.01558e-06
+align 6 *DELETE* 0.915021 to 0.0849793
+align 7 a 1
+align 8 firefight 1
+align 9 while 1
+align 10 i 0.643178 out 0.257224 *DELETE* 0.099598
+align 11 don't 0.643178 um 0.257224 around 0.099598
+align 12 patrol 1
+align 13 *DELETE* 0.999372 uh 0.000281752 i 0.000130207 to 0.000107425 in 7.4462e-05 it 1.98168e-05 is 8.29059e-06 a 3.41048e-06 do 2.22566e-06 if 8.35614e-07 the 4.96105e-08 so 2.46385e-09 with 2.21403e-09
+align 14 </s> 1

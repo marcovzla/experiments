@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.983823 i 0.0161767
+align 3 think 1
+align 4 we 1
+align 5 do 1
+align 6 it 1
+align 7 in 1
+align 8 conjunction 1
+align 9 with 1
+align 10 uh 0.998072 the 0.00100605 i 0.00092192
+align 11 *DELETE* 0.997278 uh 0.00159732 don't 0.000927203 the 0.000197743
+align 12 go 0.640741 going 0.358134 want 0.00112495
+align 13 onto 0.380758 to 0.359259 into 0.259984
+align 14 a 1
+align 15 number 1
+align 16 of 1
+align 17 different 1
+align 18 uh 1
+align 19 shops 0.903964 uh 0.0828322 shop's 0.0132037
+align 20 *DELETE* 0.917168 shops 0.0828322
+align 21 down 0.99772 done 0.00228014
+align 22 then 0.713421 there 0.108613 in 0.0798216 and 0.0730798 the 0.00787863 than 0.00545059 that 0.00449075 on 0.00230954 to 0.00133073 an 0.00125453 it 0.00124976 none 0.000580305 a 0.000140411 them 0.000130459 their 0.00013027 they 3.95074e-05 uh 2.44325e-05 they're 2.04938e-05 at 1.60128e-05 done 1.47846e-05 i'm 3.33492e-06 i 2.24995e-08
+align 23 *DELETE* 0.999656 uh 0.000160373 in 0.000138631 end 2.7109e-05 and 1.54614e-05 on 1.64741e-06 i 1.23005e-06
+align 24 </s> 1

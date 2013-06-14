@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 right 0.602679 arts 0.192314 *DELETE* 0.104819 hurts 0.0678546 our 0.0130325 are 0.0126338 i 0.00660643 a 6.04455e-05
+align 2 sir 0.602679 or 0.275033 uh 0.0536595 it's 0.0366556 *DELETE* 0.022174 tour 0.00735814 its 0.00243724 tear 3.24568e-06
+align 3 *DELETE* 0.937013 are 0.0352691 our 0.015645 or 0.0101076 its 0.00192706 tour 3.86406e-05
+align 4 *DELETE* 0.998073 or 0.00153709 are 0.000389976
+align 5 were 0.340082 wall 0.252961 we're 0.144349 *DELETE* 0.100801 it's 0.0887323 wore 0.0730743
+align 6 *DELETE* 0.91208 are 0.0338078 or 0.0281129 our 0.0259996
+align 7 *DELETE* 0.807973 were 0.0818824 we'll 0.0285288 well 0.0274365 we 0.0175405 will 0.0141591 war 0.00767544 we're 0.00603789 why 0.00297281 you 0.00249397 wow 0.00224225 irwa 0.00105727
+align 8 *DELETE* 0.999712 you 0.00028843
+align 9 please 1
+align 10 write 0.99998 right 1.98764e-05
+align 11 this 1
+align 12 down 0.999844 dam 0.000156482
+align 13 *DELETE* 0.999968 uh 3.23462e-05
+align 14 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 want 1
+align 4 to 1
+align 5 know 1
+align 6 what 1
+align 7 you 1
+align 8 recommend 1
+align 9 *DELETE* 0.999912 i 5.36065e-05 uh 2.65261e-05 it 7.19432e-06 a 3.11581e-07 if 4.67193e-08 to 2.47159e-08
+align 10 </s> 1

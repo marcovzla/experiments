@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 will 0.500999 well 0.474096 we'll 0.0244102 with 0.00049392
+align 2 the 1
+align 3 policemen 0.617295 policeman 0.382705
+align 4 need 0.999926 *DELETE* 7.36899e-05
+align 5 a 0.999303 eight 0.000453944 it 0.000169816 needed 7.36899e-05 any 4.56817e-19
+align 6 transfusion 0.996316 a 0.00345308 *DELETE* 0.000230667
+align 7 *DELETE* 0.99631 transfusion 0.00345308 transfusions 0.000230667 uh 5.70403e-06 i 5.87363e-07 a 6.16289e-10 if 1.70529e-18
+align 8 </s> 1

@@ -1,0 +1,41 @@
+numaligns 39
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 *DELETE* 0.992306 the 0.0076944
+align 3 from 0.999998 phone 1.56806e-06
+align 4 the 0.999955 *DELETE* 4.53124e-05
+align 5 let 0.421985 look 0.366254 the 0.0642847 net 0.0459155 leg 0.0391635 low 0.032408 lead 0.0131041 lower 0.0129128 *DELETE* 0.00336993 that 0.000586725 left 1.54428e-05
+align 6 from 0.5856 them 0.236004 for 0.178396
+align 7 looking 1
+align 8 around 1
+align 9 most 1
+align 10 of 1
+align 11 these 1
+align 12 animals 1
+align 13 are 1
+align 14 in 1
+align 15 bad 1
+align 16 condition 1
+align 17 and 1
+align 18 were 0.625765 we're 0.275877 *DELETE* 0.0467791 where 0.0446666 we 0.00691196
+align 19 *DELETE* 0.993088 were 0.00691196
+align 20 about 0.953221 whereabout 0.0467791
+align 21 eighty 1
+align 22 percent 1
+align 23 sure 1
+align 24 that 1
+align 25 is 0.979079 it's 0.0169073 *DELETE* 0.004014
+align 26 the 0.770269 *DELETE* 0.0997036 a 0.089538 to 0.035563 his 0.004014 two 0.000912906
+align 27 calls 0.872125 cause 0.127875 caused 1.36537e-09 called 3.99539e-12
+align 28 some 0.988269 sum 0.00716396 them 0.00456698 of 5.59894e-09
+align 29 *DELETE* 0.999999 of 5.67996e-07
+align 30 that 1 *DELETE* 2.55036e-08 some 5.59894e-09
+align 31 these 1 of 3.35727e-07
+align 32 *DELETE* 0.518929 easy 0.481071 the 9.91879e-10
+align 33 eases 0.459325 is 0.450243 uses 0.0595245 as 0.0175604 *DELETE* 0.0132676 ease 7.97589e-05 diesel 9.91879e-10
+align 34 around 0.986732 *DELETE* 0.0102197 surround 0.00304785 a 6.98331e-14
+align 35 *DELETE* 1 round 6.98331e-14
+align 36 here 0.552508 it 0.292662 you 0.084449 in 0.0232851 him 0.0213311 surrounding 0.0102197 her 0.0040004 there 0.00281992 *DELETE* 0.00245783 and 0.00215532 them 0.00183051 a 0.00123534 if 0.000469586 eight 0.00038 uh 7.76477e-05 an 7.01286e-05 us 4.77936e-05 me 1.27469e-08 hear 1.12445e-08 their 9.0594e-09
+align 37 *DELETE* 0.999994 uh 6.26277e-06 i 6.58156e-08
+align 38 </s> 1

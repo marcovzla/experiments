@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 after 1
+align 2 the 1
+align 3 hospital 1
+align 4 which 1
+align 5 building 1
+align 6 is 0.999806 as 0.00019397
+align 7 most 1
+align 8 important 0.999983 import 1.66038e-05
+align 9 *DELETE* 0.999889 uh 7.50731e-05 now 1.94577e-05 it 1.66038e-05 in 7.13314e-10 no 2.32798e-13 do 1.00418e-17 imported 1.74372e-24
+align 10 </s> 1

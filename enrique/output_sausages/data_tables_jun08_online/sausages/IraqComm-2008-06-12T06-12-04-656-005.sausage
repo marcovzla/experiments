@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 why 0.998564 *DELETE* 0.00143562
+align 2 did 0.997778 why'd 0.00143562 would 0.000786037
+align 3 you 1
+align 4 guys 1
+align 5 go 0.999888 going 0.000111507 good 6.38149e-08
+align 6 to 1 a 6.38149e-08
+align 7 bed 1
+align 8 so 1
+align 9 i 0.999097 *DELETE* 0.000903474
+align 10 last 0.999097 us 0.000621186 *DELETE* 0.000121363 as 9.14363e-05 ask 5.89705e-05 s 1.05173e-05
+align 11 night 0.994217 of 0.0039786 in 0.000756899 to 0.000381628 that 0.000360881 *DELETE* 0.000296037 esta 7.50917e-06 esther 3.89195e-07 ester 3.89195e-07 then 3.54491e-07 but 1.90487e-07 time 1.60024e-12 them 3.53706e-14 not 2.05145e-18 estell 5.4235e-21
+align 12 *DELETE* 0.989682 it 0.00566476 uh 0.00427301 i 0.000127851 time 0.000124552 estimate 0.000113076 the 7.5761e-06 but 5.49108e-06 a 1.86238e-06 knight 4.31766e-08 in 5.11259e-09 on 2.16267e-12 that 1.97947e-16
+align 13 *DELETE* 0.999999 it 6.43297e-07
+align 14 </s> 1

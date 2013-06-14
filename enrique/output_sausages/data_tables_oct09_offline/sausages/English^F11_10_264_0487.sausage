@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 we're 0.961773 *DELETE* 0.0253445 were 0.0128822
+align 3 going 0.974426 *DELETE* 0.0243148 when 0.00125886
+align 4 to 0.974426 where 0.0235701 i 0.00125886 worried 0.000515564 *DELETE* 0.000229195
+align 5 have 1
+align 6 enough 1
+align 7 uh 1
+align 8 enough 1
+align 9 enough 0.996751 uh 0.0032485
+align 10 *DELETE* 0.996737 enough 0.0032485 them 1.41176e-05
+align 11 men 0.996731 mean 0.0030137 man 0.000240881 in 1.41176e-05
+align 12 to 0.980872 that 0.0191276
+align 13 get 1
+align 14 this 1
+align 15 three 0.990888 through 0.00911197
+align 16 sixty 1
+align 17 down 1
+align 18 *DELETE* 0.914655 low 0.0372566 my 0.0214097 uh 0.0197449 the 0.00328858 now 0.00105776 to 0.000671974 may 0.000581807 i 0.000377489 no 0.000279621 we 0.000123454 a 0.000100205 or 7.67619e-05 mow 6.65689e-05 were 3.67793e-05 go 2.79379e-05 um 2.75606e-05 there 2.31967e-05 oh 2.31542e-05 lie 1.70426e-05 know 1.704e-05 mai 1.62937e-05 in 1.41733e-05 we'll 1.22565e-05 wow 1.10113e-05 though 1.02364e-05 you 8.86613e-06 we're 8.60831e-06 how 7.35523e-06 well 6.78313e-06 law 5.32846e-06 too 5.11019e-06 much 4.54816e-06 it 3.7918e-06 on 3.41982e-06 why 2.80676e-06 will 2.7688e-06 i'll 2.3505e-06 one 2.1985e-06 i'm 2.12583e-06 not 2.02564e-06 like 1.34877e-06 what 1.2649e-06 more 8.41047e-07 of 7.53418e-07 let 2.87457e-07 at 2.32118e-07 as 2.29165e-07 and 1.36677e-07 they 9.44464e-08 if 4.81449e-08 all 2.63558e-08 with 1.75529e-08 but 1.01138e-08
+align 19 </s> 1

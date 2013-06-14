@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 is 0.998311 because 0.00111729 *DELETE* 0.000449814 does 6.98809e-05 as 5.23549e-05
+align 2 this 1
+align 3 *DELETE* 0.999552 is 0.000422481 this 2.59855e-05
+align 4 one 0.910957 what 0.0887839 water 0.000258977
+align 5 of 0.766454 *DELETE* 0.231322 do 0.00212595 i 9.74354e-05 a 6.05807e-09
+align 6 your 0.972512 you're 0.0183509 you 0.00691674 *DELETE* 0.00222056
+align 7 *DELETE* 0.991285 are 0.00604009 good 0.0019193 have 0.00045439 year 0.000301264
+align 8 doctors 0.99986 doctor's 9.36948e-05 doctors' 4.66691e-05
+align 9 *DELETE* 0.999965 do 1.48662e-05 to 1.09538e-05 i 7.15032e-06 uh 1.62017e-06 should 1.99721e-14
+align 10 </s> 1

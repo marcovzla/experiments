@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 about 1
+align 6 the 1
+align 7 building 1
+align 8 the 0.742165 of 0.2534 and 0.00442933 *DELETE* 5.53049e-06
+align 9 *DELETE* 0.742165 the 0.25783 that 5.53049e-06
+align 10 facility 1
+align 11 *DELETE* 1 uh 1.715e-07 i 1.63533e-07
+align 12 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 do 1
+align 4 your 0.925113 you 0.0748866
+align 5 teachers 0.992878 teachers' 0.00525427 teacher's 0.00186801
+align 6 make 0.726293 medic 0.271305 *DELETE* 0.00129428 mac 0.00110762
+align 7 *DELETE* 0.98479 a 0.00472169 it 0.00408908 uh 0.0036305 meg 0.00086464 i 0.000623245 you 0.000472741 mag 0.00042943 them 6.9685e-05 in 6.08928e-05 do 5.35332e-05 up 5.33277e-05 the 3.42857e-05 that 3.15204e-05 me 2.8505e-05 to 2.07375e-05 an 1.97818e-05 um 3.13334e-06 and 1.35072e-06 let 9.71257e-07 of 3.23887e-07 all 2.48399e-07 night 2.08995e-07 if 2.73124e-09 this 2.90144e-10 with 1.13132e-10 medics 5.01842e-11 as 2.89355e-12 knife 7.50825e-14 nag 3.75187e-15
+align 8 </s> 1

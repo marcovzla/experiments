@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 medications 1
+align 3 are 1
+align 4 you 0.730445 use 0.251158 *DELETE* 0.018397
+align 5 lose 0.573659 *DELETE* 0.251158 was 0.154619 used 0.018397 news 0.00216625
+align 6 mostly 1
+align 7 not 0.803751 that 0.195299 brought 0.000593128 via 0.00022414 lot 0.000133281
+align 8 for 0.99998 *DELETE* 1.97266e-05
+align 9 the 0.601092 our 0.351438 *DELETE* 0.0472671 a 0.000182577 four 1.64803e-05 from 3.24629e-06
+align 10 patients 0.993932 patients' 0.00320743 patient's 0.00164277 patient 0.00077021 patience 0.000266189 operations 0.0001718 reparations 9.22714e-06 *DELETE* 4.32149e-19
+align 11 *DELETE* 0.999997 are 2.6055e-06 locations 6.91015e-07 i 1.14126e-07 in 1.87085e-09 um 9.09325e-10 and 3.6057e-11 so 1.50156e-17
+align 12 </s> 1

@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sounds 1
+align 3 good 1
+align 4 uh 1
+align 5 let's 0.991158 lets 0.00884169
+align 6 go 1
+align 7 over 1
+align 8 that 1
+align 9 uh 0.960693 i 0.0393065
+align 10 *DELETE* 0.524638 uh 0.475362
+align 11 mounted 1
+align 12 patrol 1
+align 13 first 1
+align 14 um 0.997133 uh 0.00286735
+align 15 how 0.510769 uh 0.332365 oh 0.0807741 i'll 0.0442059 now 0.022884 so 0.00637688 well 0.00228535 i 0.000339982
+align 16 what 0.999487 oh 0.000512739
+align 17 *DELETE* 0.999487 what 0.000512739
+align 18 what 1
+align 19 size 1
+align 20 force 1
+align 21 are 1
+align 22 you 1
+align 23 planning 0.99985 planting 0.000150072
+align 24 on 0.760434 uh 0.239566
+align 25 to 0.95473 two 0.032246 too 0.0130238
+align 26 use 0.9675 used 0.0324995
+align 27 for 1
+align 28 this 1
+align 29 patrol 1
+align 30 </s> 1

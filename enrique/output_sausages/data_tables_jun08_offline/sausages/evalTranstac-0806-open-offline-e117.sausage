@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 where 1
+align 3 are 1
+align 4 these 1
+align 5 uh 0.996773 um 0.00322677
+align 6 vans 0.994643 uh 0.00535727
+align 7 *DELETE* 0.994643 vans 0.00535727
+align 8 located 0.992824 locate 0.00704768 look 0.000127858
+align 9 *DELETE* 0.999996 it 3.68108e-06
+align 10 at 0.998632 it 0.0010211 in 0.000248335 *DELETE* 6.55032e-05 a 3.31631e-05
+align 11 *DELETE* 0.99986 it 9.05092e-05 at 3.73486e-05 a 7.74991e-06 uh 4.67939e-06 the 4.87198e-08
+align 12 </s> 1

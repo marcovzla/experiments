@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 say 1
+align 3 the 1
+align 4 last 1
+align 5 one 0.834003 won 0.119427 want 0.0237017 when 0.0228663 wanna 2.55118e-06
+align 6 again 0.999706 i 0.000161339 *DELETE* 0.000127069 a 2.6419e-06 get 2.55118e-06 to 6.22299e-07
+align 7 *DELETE* 0.999999 get 6.77454e-07
+align 8 *DELETE* 0.99964 got 0.000161281 gun 0.000126255 uh 4.7131e-05 i 1.8753e-05 on 2.9377e-06 gang 2.6419e-06 against 8.13892e-07 in 2.9093e-07 if 1.57351e-08 guide 2.81232e-09 god 1.35439e-12
+align 9 </s> 1

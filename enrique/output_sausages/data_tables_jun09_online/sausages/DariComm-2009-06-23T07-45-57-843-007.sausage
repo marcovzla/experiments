@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 i 0.547665 um 0.452335
+align 2 am 0.547665 *DELETE* 0.452335
+align 3 well 0.814253 while 0.185747
+align 4 *DELETE* 1 i 5.37989e-11 are 5.27888e-22
+align 5 i'm 1 in 5.27888e-22
+align 6 the 1
+align 7 how 0.982595 *DELETE* 0.0174052
+align 8 is 0.982595 how's 0.0172684 *DELETE* 0.000136759
+align 9 the 0.999863 cause 0.000124312 taught 1.086e-05 hose 8.62393e-07 *DELETE* 4.25874e-21
+align 10 morale 0.999863 them 0.000119635 some 1.63927e-05 hazem 7.24542e-07 hasan 2.63184e-10 *DELETE* 3.0392e-11 house 4.48227e-12
+align 11 of 0.999746 around 0.000136753 in 0.000117256
+align 12 *DELETE* 1 my 6.73818e-09
+align 13 *DELETE* 1 around 6.73818e-09
+align 14 your 1
+align 15 men 1
+align 16 doing 0.987227 didn't 0.00946273 do 0.00285077 did 0.000418674 *DELETE* 4.0918e-05
+align 17 *DELETE* 0.996657 and 0.00242387 in 0.000919208
+align 18 today 0.999259 a 0.000733838 to 5.14014e-06 it 9.16605e-08 get 4.33973e-08 *DELETE* 1.17202e-11
+align 19 *DELETE* 0.998672 day 0.000739089 uh 0.000586284 it 2.23266e-06 i 7.68551e-07 attack 1.71948e-09
+align 20 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 been 1
+align 6 the 1
+align 7 chief 1
+align 8 of 1
+align 9 the 1
+align 10 village 1
+align 11 *DELETE* 0.999895 uh 0.000101899 to 3.00522e-06 and 6.9029e-10 i 2.60944e-11
+align 12 </s> 1

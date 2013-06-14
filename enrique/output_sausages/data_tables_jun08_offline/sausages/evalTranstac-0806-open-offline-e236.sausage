@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 *DELETE* 0.999788 now 0.000139135 uh 7.27398e-05
+align 3 i 1
+align 4 *DELETE* 0.999422 i 0.000577825
+align 5 can 1
+align 6 work 1
+align 7 with 1
+align 8 you 1
+align 9 today 1
+align 10 to 1
+align 11 help 1
+align 12 uh 0.868505 out 0.131495
+align 13 *DELETE* 0.970913 uh 0.0290874
+align 14 correct 1
+align 15 that 1
+align 16 problem 1
+align 17 </s> 1

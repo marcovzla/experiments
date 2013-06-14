@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 can 1
+align 3 you 1
+align 4 tell 1
+align 5 me 1
+align 6 about 1
+align 7 some 1
+align 8 of 1
+align 9 the 1
+align 10 follow 1
+align 11 on 1
+align 12 care 1
+align 13 is 0.998897 each 0.00103307 it's 7.01934e-05
+align 14 gonna 0.92777 going 0.07223
+align 15 *DELETE* 0.92777 to 0.07223
+align 16 need 1
+align 17 *DELETE* 0.982202 a 0.0177983
+align 18 after 1
+align 19 he 0.99925 you 0.000749977
+align 20 leaves 1
+align 21 the 1
+align 22 hospital 1
+align 23 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 employees 0.998813 employee's 0.000669744 employees' 0.000517614
+align 6 *DELETE* 0.999996 uh 2.35256e-06 i 1.50019e-06
+align 7 </s> 1

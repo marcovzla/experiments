@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 medication 0.999631 medications 0.000368525
+align 3 do 1
+align 4 you 1
+align 5 use 0.839924 used 0.160076
+align 6 the 0.594186 to 0.405645 them 0.000138587 of 3.02511e-05
+align 7 *DELETE* 0.999952 the 4.82575e-05
+align 8 most 1
+align 9 for 1
+align 10 your 0.998917 you 0.00108319 you're 1.64507e-10
+align 11 patients 0.990218 patience 0.00960925 patients' 0.000143263 patient's 2.9775e-05
+align 12 *DELETE* 1 in 2.56037e-09
+align 13 </s> 1

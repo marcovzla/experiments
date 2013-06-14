@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 how 1
+align 3 long 0.99846 *DELETE* 0.00153975
+align 4 have 0.99846 would 0.00153975
+align 5 you 1
+align 6 been 1
+align 7 the 1
+align 8 chief 1
+align 9 of 0.999741 *DELETE* 0.000258948
+align 10 police 1
+align 11 here 1
+align 12 at 1
+align 13 this 1
+align 14 facility 1
+align 15 *DELETE* 0.999998 uh 2.34693e-06
+align 16 </s> 1

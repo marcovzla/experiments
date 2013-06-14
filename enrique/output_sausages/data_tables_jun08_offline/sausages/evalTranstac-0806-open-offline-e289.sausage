@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 uh 0.782201 *DELETE* 0.204329 of 0.0134697
+align 2 the 1
+align 3 next 1
+align 4 topic 1
+align 5 will 0.853196 we'll 0.146804
+align 6 cover 1
+align 7 is 1
+align 8 pre 1
+align 9 combat 1
+align 10 checks 1
+align 11 and 1
+align 12 pre 1
+align 13 combat 1
+align 14 inspections 1
+align 15 </s> 1

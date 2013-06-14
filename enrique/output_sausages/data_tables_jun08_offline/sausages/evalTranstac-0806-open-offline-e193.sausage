@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 protected 0.982584 uh 0.0174117 protect 4.54674e-06
+align 4 *DELETE* 0.98173 protected 0.0174117 he 0.000853517 it 4.54674e-06
+align 5 his 0.495774 he's 0.285064 use 0.121481 is 0.0976823
+align 6 gunshot 1
+align 7 wound 1
+align 8 to 1
+align 9 his 1
+align 10 chest 1
+align 11 with 0.389927 *DELETE* 0.378772 of 0.197546 or 0.0219392 to 0.0106911 at 0.00112419
+align 12 the 0.610154 a 0.389846
+align 13 bandage 1
+align 14 and 1
+align 15 i 1
+align 16 also 1
+align 17 administer 1
+align 18 the 0.958092 *DELETE* 0.041908
+align 19 uh 0.959177 now 0.0408227
+align 20 *DELETE* 0.890715 oh 0.109285
+align 21 one 0.986301 once 0.0136994
+align 22 shot 0.999483 shat 0.000517036
+align 23 of 0.984864 up 0.0140412 it 0.000807324 at 0.000189139 a 9.86722e-05
+align 24 morphine 0.999559 more 0.000441345
+align 25 *DELETE* 0.999559 thing 0.000441345
+align 26 </s> 1

@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 we've 0.967698 we 0.0323015
+align 2 been 1
+align 3 getting 1
+align 4 complaints 1
+align 5 about 0.994134 of 0.00586628
+align 6 *DELETE* 0.994134 bakhsh 0.00586628
+align 7 sure 0.734161 your 0.265838 *DELETE* 7.51231e-16
+align 8 men 0.999999 tremendous 1.40809e-06
+align 9 go 0.986585 going 0.0134055 uh 9.73428e-06
+align 10 *DELETE* 0.99999 going 7.14189e-06 go 2.59239e-06
+align 11 *DELETE* 0.999996 in 4.00049e-06
+align 12 on 0.624832 in 0.375122 out 4.56716e-05
+align 13 around 0.603625 downtown 0.376234 *DELETE* 0.013371 on 0.00632123 down 0.000277098 now 0.000171871
+align 14 *DELETE* 0.999828 in 0.000171871
+align 15 town 0.617738 *DELETE* 0.376234 time 0.00602782
+align 16 with 0.847181 what 0.152819
+align 17 their 0.672909 the 0.323775 our 0.00331586
+align 18 weapons 1
+align 19 now 1
+align 20 werner 1
+align 21 uniforms 1
+align 22 *DELETE* 0.999894 i 3.90914e-05 do 3.46765e-05 uh 1.33126e-05 you 7.6153e-06 in 5.2604e-06 and 5.05326e-06 if 3.13449e-07 that 2.5327e-07 a 2.1563e-07 um 1.64828e-07 to 6.67705e-11 did 1.86841e-11 it 1.48445e-11 with 4.48397e-13 does 6.13867e-16
+align 23 </s> 1

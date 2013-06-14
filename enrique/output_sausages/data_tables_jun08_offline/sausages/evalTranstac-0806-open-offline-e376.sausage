@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 go 0.994609 i 0.00469549 guy 0.00062901 *DELETE* 6.66856e-05
+align 3 ahead 0.994609 got 0.00475568 had 0.000496483 hat 0.000114698 at 1.78289e-05 god 6.01603e-06 guide 4.77847e-07
+align 4 *DELETE* 0.995411 it 0.00337443 that 0.000552158 had 0.000360836 hat 0.000156386 out 7.81871e-05 up 6.50743e-05 uh 7.29194e-07 have 6.76695e-07 i 5.9841e-07 happy 1.47841e-08 head 6.55403e-10
+align 5 </s> 1

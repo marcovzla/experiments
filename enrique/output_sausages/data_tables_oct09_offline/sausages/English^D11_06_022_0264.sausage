@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 um 1
+align 3 our 0.948068 are 0.0435483 arm 0.00838389
+align 4 mission 1
+align 5 you 0.702823 *DELETE* 0.219124 here 0.0766952 in 0.000707516 it 0.000428242 and 0.000221479
+align 6 here 0.915685 *DELETE* 0.0766952 hear 0.00761984
+align 7 today 1
+align 8 is 1
+align 9 to 1
+align 10 get 1
+align 11 all 1
+align 12 *DELETE* 0.97493 the 0.0250696
+align 13 information 1
+align 14 i 1
+align 15 need 1
+align 16 from 1
+align 17 you 1 me 4.92117e-08
+align 18 so 1
+align 19 we 1
+align 20 can 1
+align 21 we're 0.998166 were 0.00183393
+align 22 going 1
+align 23 to 1
+align 24 help 1
+align 25 you 1
+align 26 set 1
+align 27 up 1
+align 28 uh 1
+align 29 uh 1
+align 30 medical 1
+align 31 facility 0.999999 facilities 1.21828e-06
+align 32 *DELETE* 0.999973 uh 2.74085e-05
+align 33 </s> 1

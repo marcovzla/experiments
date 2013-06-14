@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 um 0.742899 uh 0.257101
+align 2 we're 0.99988 were 0.000119951
+align 3 trying 1
+align 4 to 1
+align 5 train 1
+align 6 uh 0.996323 now 0.00367743
+align 7 *DELETE* 0.872868 uh 0.120429 us 0.00670264
+align 8 some 1
+align 9 local 1
+align 10 people 1
+align 11 to 0.94764 *DELETE* 0.0523601
+align 12 do 1
+align 13 uh 0.999999 um 5.90408e-07
+align 14 *DELETE* 0.999619 uh 0.000381339
+align 15 the 1
+align 16 maintenance 0.707898 main 0.292102
+align 17 *DELETE* 0.707898 it's 0.292102
+align 18 on 1
+align 19 those 1
+align 20 issues 1 *DELETE* 2.62724e-16
+align 21 *DELETE* 0.999908 i 9.16909e-05 issue's 8.28256e-11
+align 22 </s> 1

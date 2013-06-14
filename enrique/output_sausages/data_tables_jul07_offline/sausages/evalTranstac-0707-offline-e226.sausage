@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 questions 1
+align 6 for 1
+align 7 me 1
+align 8 about 1
+align 9 the 1
+align 10 project 0.999866 projects 0.00013433
+align 11 </s> 1

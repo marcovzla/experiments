@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 uh 0.99789 i 0.00210977
+align 2 *DELETE* 0.998833 uh 0.00116699
+align 3 i 1
+align 4 would 0.990256 i 0.00974393
+align 5 *DELETE* 0.990256 would 0.00974393
+align 6 recommend 0.998329 recognize 0.00167075
+align 7 searching 1
+align 8 all 1
+align 9 the 0.996038 of 0.00396242
+align 10 *DELETE* 0.996038 the 0.00396242
+align 11 large 1
+align 12 vehicles 0.962228 vehicle 0.0377718
+align 13 simply 1
+align 14 because 1
+align 15 of 1
+align 16 the 1
+align 17 large 1
+align 18 amounts 0.913228 months 0.0634236 amount 0.0197073 *DELETE* 0.00364127
+align 19 of 0.825863 *DELETE* 0.0921909 a 0.0776711 month's 0.00364127 to 0.000633594
+align 20 cargo 0.99733 car 0.00266982
+align 21 *DELETE* 0.99733 go 0.00266982
+align 22 they 1
+align 23 can 1
+align 24 transport 1
+align 25 and 0.811979 *DELETE* 0.085631 them 0.0480032 that 0.0171936 it 0.0165232 in 0.0159752 at 0.00323804 then 0.00145648
+align 26 how 1
+align 27 much 1
+align 28 easier 1
+align 29 it 1
+align 30 is 0.997404 as 0.00259576
+align 31 too 0.582089 two 0.381309 to 0.0366021
+align 32 and 1
+align 33 not 0.990115 i 0.0098853
+align 34 to 0.6017 just 0.3983
+align 35 smuggling 1
+align 36 not 1
+align 37 to 0.997005 a 0.00299485
+align 38 smuggling 1
+align 39 uh 1
+align 40 weapons 0.902427 uh 0.0975725
+align 41 *DELETE* 0.902427 weapons 0.0975725
+align 42 or 0.996961 are 0.00303907
+align 43 explosives 1
+align 44 *DELETE* 0.999994 i 3.74692e-06 uh 1.56307e-06 in 4.06519e-07 by 7.97749e-09
+align 45 </s> 1

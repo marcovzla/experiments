@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 for 0.999919 with 7.90569e-05 four 2.01536e-06 full 2.32041e-07
+align 8 this 1
+align 9 patrol 1
+align 10 *DELETE* 0.99986 i 0.000140281 uh 3.46473e-12
+align 11 </s> 1

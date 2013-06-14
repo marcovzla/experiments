@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 vehicle 1
+align 5 do 1
+align 6 you 0.999956 *DELETE* 4.43723e-05
+align 7 drive 1 *DELETE* 1.30446e-19
+align 8 *DELETE* 0.99988 it 0.000120068 a 1.11765e-07 up 9.47608e-08 to 1.21743e-08 drives 2.3656e-15
+align 9 </s> 1

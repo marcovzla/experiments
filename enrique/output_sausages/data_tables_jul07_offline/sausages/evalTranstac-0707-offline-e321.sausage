@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 and 0.361 you 0.341254 now 0.132858 yeah 0.11037 no 0.0536312 when 0.000886207
+align 2 *DELETE* 0.658746 know 0.337209 now 0.00404521
+align 3 i 1
+align 4 like 0.986029 i 0.0139705
+align 5 *DELETE* 0.986029 like 0.0139705
+align 6 your 1
+align 7 idea 1
+align 8 of 0.985247 i've 0.00874863 *DELETE* 0.00502818 if 0.000976636
+align 9 haven't 0.958065 have 0.0241964 *DELETE* 0.0177388
+align 10 *DELETE* 0.956617 having 0.0141682 an 0.0100822 in 0.0100195 and 0.00409467 heaven 0.00357064 soldier 0.00144742
+align 11 soldiers 0.923982 soldier's 0.0503161 soldiers' 0.0242546 is 0.00144742
+align 12 up 0.999957 *DELETE* 4.27338e-05
+align 13 on 0.994841 in 0.00511672 upon 4.27338e-05
+align 14 the 1
+align 15 buildings 0.56366 building's 0.435282 building 0.00105827
+align 16 to 0.972312 *DELETE* 0.0220899 take 0.0044842 stick 0.000994914 stay 8.29869e-05 taking 1.44885e-05 steak 1.18216e-05 that 9.4014e-06
+align 17 kind 0.97241 taken 0.0220899 on 0.00550013
+align 18 of 0.97241 to 0.0220899 a 0.00550013
+align 19 be 1
+align 20 able 1
+align 21 to 1
+align 22 look 1
+align 23 down 1
+align 24 on 1
+align 25 it's 0.62853 its 0.340618 it 0.0240669 at 0.00678437
+align 26 um 0.99993 *DELETE* 7.04739e-05
+align 27 *DELETE* 0.998409 uh 0.00142507 i 0.00015391 a 1.16673e-05
+align 28 *DELETE* 0.99993 um 7.04739e-05
+align 29 </s> 1

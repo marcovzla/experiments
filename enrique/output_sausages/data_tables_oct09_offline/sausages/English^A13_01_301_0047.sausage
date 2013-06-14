@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 sir 0.757268 thirty 0.242732
+align 2 your 0.557547 year 0.247274 you're 0.195138 years 4.12297e-05
+align 3 *DELETE* 0.999959 of 4.12297e-05
+align 4 vegetables 1
+align 5 look 0.871147 i 0.0339251 uh 0.0262569 it 0.024978 that 0.0229492 like 0.0156453 *DELETE* 0.00198492 at 0.0015995 are 0.0011733 to 0.000341051
+align 6 *DELETE* 0.888137 look 0.0867167 looked 0.0251466
+align 7 like 0.969272 and 0.0219059 make 0.00806891 likely 0.000476208 looking 0.000276847
+align 8 *DELETE* 0.999408 like 0.000528635 make 6.35679e-05
+align 9 drugs 0.999742 drags 0.000257688
+align 10 and 1
+align 11 i'm 0.999309 um 0.000669064 i 2.16717e-05
+align 12 *DELETE* 0.999978 i'm 2.23391e-05
+align 13 *DELETE* 0.999968 i'm 1.98218e-05 are 1.19915e-05
+align 14 assuming 0.972111 also 0.0245323 i'm 0.00279161 a 0.000330228 i 0.000130645 uh 7.18733e-05 sending 3.18133e-05
+align 15 *DELETE* 0.999928 i'm 7.21142e-05
+align 16 *DELETE* 0.996676 sending 0.00286372 assuming 0.000329987 also 0.000130645
+align 17 the 0.973209 many 0.024663 they 0.00212843
+align 18 are 0.955287 our 0.0427974 art 0.00166146 ardh 0.000254573
+align 19 drugs 0.999445 drags 0.000437423 joints 9.103e-05 jugs 1.81497e-05 drug 8.22276e-06 dry 1.63666e-07
+align 20 *DELETE* 0.999993 i 7.07044e-06 uh 1.09687e-07
+align 21 </s> 1

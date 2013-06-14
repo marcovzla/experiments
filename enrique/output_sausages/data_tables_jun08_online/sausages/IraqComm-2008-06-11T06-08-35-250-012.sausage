@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 sons 0.979102 signs 0.0200844 sense 0.000468726 son's 0.000344125 *DELETE* 2.11313e-12
+align 6 *DELETE* 0.999744 uh 0.000255375 science 5.10271e-07 i 1.12167e-11 who 2.0589e-12 sons' 1.72776e-25
+align 7 </s> 1

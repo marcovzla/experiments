@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.637203 i 0.362797
+align 2 *DELETE* 0.637203 am 0.362797
+align 3 fine 1
+align 4 thank 1 bank 6.67167e-08
+align 5 you 1
+align 6 *DELETE* 0.99855 uh 0.00144292 um 6.39264e-06 i 8.67559e-07
+align 7 </s> 1

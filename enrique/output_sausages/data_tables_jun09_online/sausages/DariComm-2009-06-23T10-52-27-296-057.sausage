@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 so 0.621481 *DELETE* 0.263351 i 0.115168
+align 2 *DELETE* 0.884832 saw 0.115168
+align 3 you 0.736649 sorry 0.263351
+align 4 perfectly 1
+align 5 fine 1
+align 6 *DELETE* 0.9953 and 0.00265417 can 0.0020461
+align 7 we 1
+align 8 can 1
+align 9 move 1
+align 10 on 1
+align 11 *DELETE* 0.989472 on 0.00505985 uh 0.00292889 it 0.00156296 to 0.000487317 you 0.000404481 me 4.40388e-05 them 3.50526e-05 a 3.99527e-06 with 7.32644e-07 that 7.03604e-07 this 1.92028e-07 us 1.15687e-09 the 5.25211e-10 her 4.16659e-10 and 8.98926e-14 time 5.19694e-15
+align 12 *DELETE* 1 the 5.13945e-09
+align 13 </s> 1

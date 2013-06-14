@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 want 0.998494 *DELETE* 0.00150568
+align 3 to 0.998494 wanna 0.00150568
+align 4 know 1
+align 5 your 0.948828 you 0.02768 what 0.0173608 you'll 0.00430323 you're 0.00182802
+align 6 *DELETE* 0.976331 your 0.0173608 a 0.00630821
+align 7 family 0.936751 family's 0.0603838 families 0.00286517
+align 8 size 0.846381 saw 0.0920954 *DELETE* 0.0573596 so 0.00416413
+align 9 *DELETE* 0.846009 us 0.0915177 solves 0.0350606 science 0.00876531 saws 0.0066612 signs 0.00572883 is 0.00474179 silence 0.000662509 sides 0.000475825 i 0.000173521 uh 0.000169757 it 2.82857e-05 sinus 5.34371e-06 a 3.5962e-07 to 1.93129e-07 in 1.73817e-07 do 2.76532e-13 you 7.7015e-14 saads 3.21258e-14 the 1.68012e-14 sala's 7.00004e-15
+align 10 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 think 1
+align 4 this 1
+align 5 information 1
+align 6 is 0.85461 as 0.144414 his 0.000919298 has 5.68546e-05
+align 7 reliable 0.99205 a 0.00769153 are 0.000122575 or 6.9808e-05 our 6.33761e-05 uh 2.67376e-06 were 3.07492e-08 we're 1.89091e-11
+align 8 *DELETE* 0.99205 reliable 0.00769421 liable 0.00025579
+align 9 </s> 1

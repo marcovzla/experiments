@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 0.999927 *DELETE* 7.29602e-05
+align 2 you 0.999927 he 7.29602e-05
+align 3 explain 0.99984 explained 0.000159713
+align 4 the 1
+align 5 photos 1
+align 6 on 1
+align 7 the 0.952119 a 0.0478812
+align 8 cover 0.96423 copper 0.0233106 covered 0.0109492 cupboard 0.00144148 *DELETE* 6.86367e-05
+align 9 *DELETE* 0.99983 of 8.51963e-05 covers 6.86367e-05 a 1.1469e-05 i 4.8681e-06 uh 3.20422e-07 it 2.69094e-10
+align 10 </s> 1

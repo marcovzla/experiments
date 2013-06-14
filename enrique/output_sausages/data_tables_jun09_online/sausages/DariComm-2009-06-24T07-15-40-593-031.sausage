@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 1
+align 3 you 1
+align 4 coming 1
+align 5 to 1
+align 6 *DELETE* 0.677702 you 0.322298
+align 7 see 1
+align 8 my 0.965904 you 0.0340963
+align 9 *DELETE* 0.965904 my 0.0340963
+align 10 commander 1
+align 11 for 0.948474 four 0.0513055 *DELETE* 0.000220963
+align 12 *DELETE* 0.953643 you 0.0300664 a 0.00531059 it 0.00496107 uh 0.00355711 the 0.000832542 that 0.000594974 this 0.000303377 fore 0.000220963 i 0.000213827 me 0.000191831 them 7.25674e-05 to 1.55532e-05 so 1.10939e-05 two 5.12685e-06 an 4.84478e-07 as 1.84468e-11
+align 13 </s> 1

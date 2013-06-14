@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 information 1
+align 5 is 0.997581 as 0.00164295 to 0.000776121 *DELETE* 2.71971e-22
+align 6 it 0.96199 a 0.024595 *DELETE* 0.00644835 uh 0.00398402 the 0.00191659 that 0.00106561
+align 7 *DELETE* 0.9928 uh 0.00472626 in 0.00188214 at 0.000507061 now 5.32247e-05 a 3.12947e-05 out 5.00155e-16 is 2.26489e-18 i 4.28107e-23 the 3.38671e-24
+align 8 *DELETE* 1 the 1.27995e-20
+align 9 </s> 1

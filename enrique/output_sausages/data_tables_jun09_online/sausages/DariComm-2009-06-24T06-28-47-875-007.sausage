@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 0.582304 i'm 0.356171 uh 0.0514382 oh 0.00745499 um 0.00263176
+align 2 am 0.536409 *DELETE* 0.358803 i'm 0.104789
+align 3 from 1
+align 4 the 1
+align 5 medical 0.893945 uh 0.106055
+align 6 *DELETE* 0.87944 medical 0.106055 to 0.014505
+align 7 team 0.979878 you 0.0145042 to 0.00463143 *DELETE* 0.000986758
+align 8 *DELETE* 0.994177 you 0.00463122 thing 0.000678904 i 0.000148624 teen 0.000137725 too 0.000132822 to 4.08159e-05 teams 2.62523e-05 uh 1.42564e-05 tin 1.01406e-05 is 1.21789e-06 a 4.1108e-07 if 3.552e-07 chain 1.64631e-07 in 4.07424e-08 and 2.40759e-09 two 2.27525e-10 that 2.05131e-11 do 6.0705e-13 seen 1.09227e-15 seeing 7.51943e-16 treating 5.24829e-21
+align 9 *DELETE* 1 in 2.44942e-08
+align 10 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 1
+align 3 they 0.829889 the 0.170111
+align 4 *DELETE* 0.992169 usually 0.00783053
+align 5 you 0.99659 *DELETE* 0.0023823 if 0.000985946 you'll 4.22425e-05
+align 6 usually 0.992169 *DELETE* 0.00704491 you 0.00078562
+align 7 *DELETE* 0.516374 if 0.447824 use 0.0358015
+align 8 you 0.814351 *DELETE* 0.162237 is 0.0234118
+align 9 *DELETE* 0.671282 will 0.148328 you 0.143619 you'll 0.0367713
+align 10 will 0.814858 *DELETE* 0.185142
+align 11 patrols 0.94873 patrol 0.05127
+align 12 *DELETE* 0.999923 in 7.56425e-05 and 1.72219e-06
+align 13 consist 0.999965 consists 3.54587e-05
+align 14 of 1
+align 15 *DELETE* 0.99711 uh 0.00166345 a 0.000774642 it 0.000210121 two 0.000135972 the 6.17391e-05 you 2.86254e-05 them 8.96451e-06 i 5.70502e-06 that 4.2363e-07 do 6.44336e-09 to 1.84891e-12 who 2.31508e-13 our 5.36919e-15
+align 16 </s> 1

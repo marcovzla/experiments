@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what's 0.863322 what 0.127081 was 0.00783914 where's 0.00175794 which 9.54808e-13
+align 2 *DELETE* 0.890228 is 0.109772
+align 3 your 0.999214 the 0.000786114 are 9.54808e-13
+align 4 name 1
+align 5 </s> 1

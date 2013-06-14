@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.998601 i 0.00139887
+align 2 that 0.99179 if 0.00593839 but 0.0022713
+align 3 they 0.999973 i 2.71253e-05
+align 4 had 0.998781 have 0.00121854
+align 5 to 0.723209 a 0.105943 there 0.094511 the 0.0763371
+align 6 been 0.9174 bin 0.0778 be 0.0047997
+align 7 pour 0.823866 for 0.156906 four 0.0144281 import 0.0047997
+align 8 together 1
+align 9 in 0.939667 and 0.0603334 on 2.22277e-11
+align 10 a 1
+align 11 shop 1
+align 12 much 0.998542 what's 0.00135137 watch 0.000106404
+align 13 like 1
+align 14 this 1
+align 15 in 0.999801 and 0.000198832
+align 16 you're 0.928241 your 0.0717591
+align 17 the 1
+align 18 only 1
+align 19 one 1
+align 20 in 0.999251 on 0.000472888 and 0.000275659
+align 21 the 1
+align 22 area 1
+align 23 *DELETE* 0.999999 uh 8.67026e-07
+align 24 </s> 1

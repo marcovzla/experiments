@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 0.971719 uh 0.0279685 oh 0.000312899
+align 2 *DELETE* 0.971719 how 0.0282814
+align 3 you 1
+align 4 doing 1
+align 5 today 1
+align 6 sir 1
+align 7 *DELETE* 0.990614 uh 0.00938457 i 1.0256e-06
+align 8 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 we're 1
+align 3 going 1
+align 4 to 1
+align 5 search 1
+align 6 in 0.99333 and 0.00667013
+align 7 the 0.948597 a 0.0462663 this 0.00494276 *DELETE* 0.000171716 his 2.19214e-05
+align 8 street 0.999576 streets 0.000423987
+align 9 *DELETE* 0.999549 uh 0.000449883 and 1.02512e-06 i 1.10622e-07 in 1.49987e-14
+align 10 </s> 1

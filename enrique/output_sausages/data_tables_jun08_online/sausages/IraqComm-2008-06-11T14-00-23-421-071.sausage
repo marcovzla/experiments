@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 *DELETE* 1 of 1.85505e-07
+align 5 the 1
+align 6 names 1
+align 7 of 1
+align 8 the 1
+align 9 americans 1
+align 10 they 0.940779 that 0.0592212
+align 11 came 1
+align 12 to 1
+align 13 your 1
+align 14 house 1
+align 15 *DELETE* 0.999996 is 4.1041e-06
+align 16 </s> 1

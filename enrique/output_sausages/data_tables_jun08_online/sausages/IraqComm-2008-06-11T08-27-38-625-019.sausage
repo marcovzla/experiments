@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 0.977137 a 0.0228631
+align 2 *DELETE* 0.977137 computer 0.0228631
+align 3 play 1
+align 4 instructions 1
+align 5 </s> 1

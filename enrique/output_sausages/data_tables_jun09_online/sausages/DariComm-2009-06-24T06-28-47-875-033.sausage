@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 short 1
+align 4 on 0.851912 only 0.148088
+align 5 utensils 0.848111 to 0.148088 you 0.00210178 him 0.00141065 them 0.000226812 your 6.11092e-05
+align 6 *DELETE* 0.9962 to 0.00380035
+align 7 *DELETE* 0.848111 us 0.151889
+align 8 *DELETE* 0.848111 those 0.151889
+align 9 such 1
+align 10 as 0.980424 is 0.0195761
+align 11 noodles 0.945316 needles 0.0536939 new 0.000990512
+align 12 *DELETE* 0.998794 tools 0.000990512 i 0.000215824
+align 13 bandages 0.998857 bandage 0.00114321 bandaged 3.93159e-22
+align 14 *DELETE* 0.998021 is 0.00102062 i 0.000666563 as 0.000122588 uh 8.42179e-05 do 4.38754e-05 in 2.03098e-05 to 1.61448e-05 you 3.28758e-06 and 1.57015e-06 um 7.2086e-08 his 7.859e-09 if 2.92744e-11 it 1.17915e-12 a 6.17942e-14 that 1.84079e-14
+align 15 </s> 1

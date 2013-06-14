@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 status 1
+align 5 of 1
+align 6 your 1
+align 7 vehicles 0.999731 vehicle's 0.000268465 vehicle 6.81762e-07
+align 8 *DELETE* 0.999998 in 1.12e-06 sir 6.81762e-07 uh 3.25024e-13
+align 9 </s> 1

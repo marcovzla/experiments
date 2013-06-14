@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 until 0.994872 intel 0.00512831
+align 3 then 0.999812 them 0.000187738
+align 4 we're 1
+align 5 going 0.712047 *DELETE* 0.287953
+align 6 to 0.712047 gonna 0.287953
+align 7 have 1
+align 8 to 1
+align 9 seize 1
+align 10 one 0.862693 *DELETE* 0.0609826 when 0.0445821 want 0.0298861 wanted 0.00185598
+align 11 *DELETE* 0.626294 of 0.373706
+align 12 other 0.413811 the 0.341511 *DELETE* 0.0980638 wanna 0.0563365 a 0.0326336 or 0.026297 to 0.0188682 whatever 0.00464611 and 0.0040352 it 0.00208463 in 0.00123488 i 0.000357315 our 0.000120992 at 1.43681e-08
+align 13 *DELETE* 0.998986 a 0.00101402
+align 14 weapons 0.999846 weapon's 0.000149739 weapons' 4.32039e-06
+align 15 *DELETE* 1 i 4.30433e-08
+align 16 </s> 1

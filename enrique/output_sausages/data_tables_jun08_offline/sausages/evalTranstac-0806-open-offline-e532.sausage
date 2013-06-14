@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 very 0.999983 right 1.65528e-05
+align 2 well 1
+align 3 then 0.996671 them 0.0033277 than 9.06969e-07
+align 4 *DELETE* 0.999315 uh 0.000683484 i 1.99959e-06
+align 5 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 did 0.955788 i 0.0316087 that 0.00471904 uh 0.00250663 to 0.00188346 okay 0.00155197 good 0.000980129 it 0.000596786 do 0.000365611 could 9.67307e-10
+align 2 *DELETE* 0.965885 did 0.0335762 think 0.000539132
+align 3 the 1
+align 4 army 0.745572 are 0.254428
+align 5 *DELETE* 0.710369 mean 0.254428 and 0.018048 to 0.0157463 you 0.00140921
+align 6 knock 0.988514 lock 0.0114857
+align 7 on 1
+align 8 the 1
+align 9 door 1
+align 10 before 1
+align 11 entering 1
+align 12 the 1
+align 13 house 0.999184 houses 0.000816148
+align 14 *DELETE* 1 is 2.40801e-07 i 1.47337e-11
+align 15 </s> 1

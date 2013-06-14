@@ -1,0 +1,45 @@
+numaligns 43
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.985932 yeah 0.00576655 uh 0.0046434 it 0.00326393 the 0.000289277 good 0.000105163 and 2.28039e-08 okay 1.4371e-08
+align 2 and 1
+align 3 if 0.996369 it 0.00363119
+align 4 we 0.994325 for 0.00567537
+align 5 want 0.823444 *DELETE* 0.156876 one 0.0196796
+align 6 the 0.39947 to 0.184092 wonder 0.13464 of 0.118547 they 0.0733557 a 0.035594 day 0.0183568 wanna 0.0169471 that 0.0137084 wander 0.00271457 wonda 0.00128195 wanda 0.00128195 wondered 1.01396e-05
+align 7 you 1
+align 8 know 1
+align 9 *DELETE* 0.879092 stay 0.120898 state 1.05882e-05
+align 10 if 0.879092 at 0.0683701 *DELETE* 0.052538
+align 11 the 0.945377 *DELETE* 0.0530247 they 0.00159828
+align 12 if 0.927491 *DELETE* 0.0683289 at 0.00389429 that 0.00028557
+align 13 it 0.594268 the 0.337334 *DELETE* 0.068169 that 0.000229127
+align 14 takes 0.996256 take 0.00374371
+align 15 up 0.374124 out 0.313724 uh 0.270358 a 0.0290671 i 0.0047817 all 0.004102 some 0.00374371 i'll 9.94164e-05
+align 16 multiple 0.997032 old 0.00293027 olds 2.46403e-05 old's 1.26484e-05
+align 17 *DELETE* 0.997032 school 0.00293027 will 2.89061e-05 we'll 8.38268e-06
+align 18 days 0.969987 day's 0.0297458 days' 0.000266756
+align 19 we 1
+align 20 could 0.999898 get 0.000101546
+align 21 uh 0.971257 i 0.0215056 a 0.00713617 the 0.000101546
+align 22 pick 0.957082 take 0.0393232 make 0.00109877 thick 0.000971397 took 0.0007971 like 0.00036078 think 0.000264804 brick 8.87304e-05 kick 1.31266e-05
+align 23 one 1
+align 24 side 1
+align 25 one 1
+align 26 day 1
+align 27 and 0.515424 it 0.359218 you 0.0637336 in 0.0616245
+align 28 and 0.506653 *DELETE* 0.448256 uh 0.0376195 i 0.00747181
+align 29 and 0.543943 then 0.429063 uh 0.0186269 know 0.00747181 i 0.000888872 an 6.78045e-06
+align 30 *DELETE* 0.980484 and 0.0186269 know 0.000888872
+align 31 uh 1
+align 32 the 1
+align 33 next 0.754732 neck 0.245268
+align 34 to 0.555568 if 0.217451 who 0.0996458 thing 0.0848187 in 0.0417893 area 0.00057285 two 0.000154936
+align 35 *DELETE* 0.764869 you 0.226909 we 0.00822232
+align 36 go 1
+align 37 out 0.974775 up 0.0138986 all 0.008573 *DELETE* 0.00275341
+align 38 to 0.997247 onto 0.00275341
+align 39 the 1
+align 40 other 0.999081 *DELETE* 0.000918686
+align 41 side 0.999064 aside 0.000611271 inside 0.000307416 site 1.76038e-05 sides 7.03282e-08
+align 42 </s> 1

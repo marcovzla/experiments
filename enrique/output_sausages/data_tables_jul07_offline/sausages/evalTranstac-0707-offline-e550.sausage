@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 it 0.989634 you 0.0100882 you're 0.000277742
+align 2 definitely 1
+align 3 has 1
+align 4 to 1
+align 5 be 1
+align 6 someone 0.991809 some 0.00819069
+align 7 *DELETE* 0.991809 of 0.00819069
+align 8 in 0.642952 than 0.206081 then 0.0928874 the 0.0549305 and 0.00198126 *DELETE* 0.00116773 been 1.09161e-07
+align 9 those 0.945069 nose 0.0387894 nails 0.0132579 knows 0.00288315
+align 10 quite 1
+align 11 a 1
+align 12 bit 1
+align 13 about 1
+align 14 *DELETE* 0.999893 um 0.00010721
+align 15 *DELETE* 0.99933 a 0.000669746
+align 16 automobiles 0.999893 bills 0.000106303 bill's 6.11018e-07 builds 2.95584e-07
+align 17 *DELETE* 1 i 1.63973e-13 uh 2.59375e-17
+align 18 </s> 1

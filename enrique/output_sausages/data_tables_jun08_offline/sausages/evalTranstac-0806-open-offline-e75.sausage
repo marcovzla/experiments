@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 also 1
+align 2 i 0.650343 *DELETE* 0.349657
+align 3 would 0.650343 *DELETE* 0.260977 i'd 0.0886798
+align 4 like 1
+align 5 to 1
+align 6 see 1
+align 7 the 1
+align 8 how 0.918708 hall 0.0695154 whole 0.0117762
+align 9 big 1
+align 10 the 0.806291 that 0.104775 their 0.0798002 a 0.00576774 guy 0.00333376 i 3.30195e-05
+align 11 whole 0.800633 hole 0.199367
+align 12 *DELETE* 0.461079 is 0.347909 lives 0.191012
+align 13 and 0.36613 listen 0.275224 isn't 0.185855 in 0.156133 an 0.0163199 *DELETE* 0.000338479
+align 14 *DELETE* 0.818334 to 0.122748 it 0.0296765 the 0.0212992 a 0.00553674 that 0.00240515
+align 15 you 0.999903 *DELETE* 9.67763e-05
+align 16 you 1
+align 17 mention 0.958561 mentioned 0.0414393
+align 18 at 0.776776 that 0.141398 it 0.0792253 to 0.00260053
+align 19 the 0.99933 they 0.000669612
+align 20 there 0.610976 *DELETE* 0.389024 do 5.42948e-09
+align 21 is 0.609655 there's 0.389024 was 0.001321
+align 22 a 1
+align 23 fence 1
+align 24 line 0.626276 and 0.290697 in 0.0395425 climb 0.0194611 compliant 0.0161571 *DELETE* 0.0066648 comply 0.00113073 implying 7.09363e-05
+align 25 *DELETE* 0.932074 line 0.0494618 climbed 0.0184642
+align 26 the 0.402351 *DELETE* 0.238656 climbed 0.108129 climb 0.0839622 plan 0.0628361 i 0.0447426 that 0.0277975 planned 0.0140508 now 0.0102666 uh 0.00720849
+align 27 *DELETE* 0.737808 a 0.15424 the 0.107952
+align 28 has 0.962633 have 0.0369449 as 0.000421756
+align 29 a 0.999998 the 2.05626e-06
+align 30 hole 0.999237 whole 0.00076304
+align 31 in 0.999997 and 2.92863e-06
+align 32 *DELETE* 1 the 7.24683e-08
+align 33 it 0.999876 that 0.000118437 at 5.03786e-06 the 9.94918e-07
+align 34 *DELETE* 1 uh 2.69833e-08
+align 35 </s> 1

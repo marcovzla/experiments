@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 let's 0.976004 lets 0.0239961
+align 2 try 1
+align 3 that 0.999881 then 6.93499e-05 to 4.96679e-05
+align 4 again 1 it 3.03136e-12
+align 5 *DELETE* 1 um 1.0362e-11 again 3.03136e-12 to 1.16218e-12 i'm 8.69643e-13 uh 1.4144e-13
+align 6 </s> 1

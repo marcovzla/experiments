@@ -1,0 +1,44 @@
+numaligns 42
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999986 i 1.37397e-05
+align 2 uh 0.979317 well 0.013954 um 0.00660178 of 0.000127076
+align 3 the 0.994453 uh 0.00554737
+align 4 *DELETE* 0.994453 the 0.00554737
+align 5 reason 1
+align 6 we'll 0.985666 will 0.0143293 all 4.64424e-06
+align 7 use 1
+align 8 a 1
+align 9 uh 0.911019 a 0.085576 *DELETE* 0.00340461
+align 10 *DELETE* 0.986579 a 0.0134212
+align 11 *DELETE* 0.999995 a 5.05539e-06
+align 12 an 1
+align 13 armored 1
+align 14 humvees 1
+align 15 just 1
+align 16 case 0.960576 qais 0.0356438 qays 0.0026957 k 0.00108406
+align 17 something 1
+align 18 does 1
+align 19 uh 1
+align 20 detonate 1
+align 21 or 1
+align 22 *DELETE* 0.849328 are 0.150672
+align 23 you 1
+align 24 receive 0.999942 received 5.77395e-05
+align 25 some 0.993476 so 0.00652408
+align 26 kind 1
+align 27 of 1
+align 28 fire 1
+align 29 are 0.554682 *DELETE* 0.376668 or 0.0686501
+align 30 you 1
+align 31 have 1
+align 32 a 1
+align 33 um 0.683481 uh 0.204135 are 0.0882394 *DELETE* 0.0221074 a 0.00203696
+align 34 *DELETE* 0.885727 a 0.0976773 off 0.00691266 up 0.00556476 uh 0.00411856
+align 35 protected 1
+align 36 uh 1
+align 37 vehicle 1
+align 38 for 0.989094 four 0.0109062
+align 39 your 0.995543 you're 0.0044571
+align 40 personnel 0.998861 personal 0.001139
+align 41 </s> 1

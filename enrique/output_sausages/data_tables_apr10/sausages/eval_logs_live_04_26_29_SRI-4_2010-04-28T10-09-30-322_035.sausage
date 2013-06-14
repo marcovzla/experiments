@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 0.915831 *DELETE* 0.0841688
+align 2 is 0.915831 where's 0.0841688
+align 3 your 1
+align 4 shop 1
+align 5 located 1
+align 6 *DELETE* 0.995876 at 0.00412344 uh 8.44261e-07 to 2.09854e-09 in 2.59182e-18
+align 7 </s> 1

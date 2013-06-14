@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 number 1
+align 3 of 1
+align 4 doctors 1
+align 5 you 1
+align 6 have 1
+align 7 the 1
+align 8 medicine 1
+align 9 and 1
+align 10 in 0.602778 then 0.372572 and 0.0205093 zein 0.00172723 ten 0.000978798 an 0.000756319 zane 0.00067845
+align 11 your 0.901739 you're 0.0982613
+align 12 building 1
+align 13 and 0.582523 in 0.417477
+align 14 your 1
+align 15 equipment 1
+align 16 and 1
+align 17 just 0.952255 does 0.0471361 disc 0.000608796
+align 18 get 0.991809 give 0.00758194 it 0.000608796
+align 19 a 0.991392 the 0.00757384 it 0.00056534 us 0.000219684 is 0.000190504 his 5.86544e-05
+align 20 status 1
+align 21 of 0.978726 at 0.0196436 to 0.00163048
+align 22 the 1 that 5.98091e-09
+align 23 facility 1 facilities 1.13659e-10
+align 24 *DELETE* 1 uh 7.2513e-10 i 3.37857e-10
+align 25 </s> 1

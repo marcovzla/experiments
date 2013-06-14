@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 could 1
+align 2 you 1
+align 3 please 1
+align 4 rephrase 0.999939 refer 6.05954e-05
+align 5 *DELETE* 0.999939 is 6.05954e-05
+align 6 that 1 *DELETE* 1.98124e-12
+align 7 *DELETE* 0.99999 uh 1.02394e-05 the 2.67106e-08
+align 8 </s> 1

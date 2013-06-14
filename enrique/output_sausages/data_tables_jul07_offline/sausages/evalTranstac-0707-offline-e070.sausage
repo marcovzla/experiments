@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 oh 0.926104 *DELETE* 0.0440538 why 0.0298423
+align 2 i 1
+align 3 understand 1
+align 4 your 1
+align 5 frustration 1
+align 6 with 0.812071 but 0.0391682 *DELETE* 0.0373419 work 0.0270209 wood 0.0241585 would 0.0161579 route 0.0117829 what 0.00756621 word 0.00623914 which 0.00478293 worked 0.00430191 were 0.00285462 works 0.00166172 root 0.00119772 rick 0.000783871 worth 0.000721416 went 0.000500571 we're 0.000458076 routes 0.00029632 road 0.000263498 we 0.000261974 rich 0.000189436 where 7.38678e-05 more 5.76882e-05 wrote 5.1742e-05 or 2.46692e-05 and 8.10546e-06 when 2.89149e-06 rig 4.64179e-07
+align 7 *DELETE* 0.998836 uh 0.000487442 to 0.000346467 the 0.000313259 a 9.20733e-06 what 8.10546e-06
+align 8 </s> 1

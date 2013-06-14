@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 know 1
+align 3 it 0.997128 a 0.0028716
+align 4 takes 1
+align 5 a 1
+align 6 long 1
+align 7 time 1
+align 8 *DELETE* 1 i 2.95039e-09
+align 9 </s> 1

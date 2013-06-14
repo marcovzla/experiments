@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.902295 that 0.0819575 where 0.0153086 uh 0.000279371 well 0.000158982
+align 2 is 0.999416 does 0.000584468
+align 3 your 1
+align 4 job 1
+align 5 in 0.996787 and 0.00308072 of 6.95093e-05 on 6.28957e-05
+align 6 the 0.93855 a 0.0613486 *DELETE* 0.000101036
+align 7 hospital 0.99975 hospitals 0.000249651
+align 8 *DELETE* 0.999992 now 8.3635e-06 uh 2.3841e-13 i 2.40458e-14
+align 9 </s> 1

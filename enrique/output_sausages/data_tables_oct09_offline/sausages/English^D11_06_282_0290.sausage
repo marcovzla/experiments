@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 sir 0.999093 there 0.0009066
+align 3 we 1
+align 4 we 1
+align 5 *DELETE* 0.997722 we 0.00227752
+align 6 will 0.997549 we'll 0.00245105
+align 7 be 1
+align 8 taking 0.811414 taken 0.188586
+align 9 care 1
+align 10 of 1
+align 11 it 1
+align 12 *DELETE* 0.999919 uh 7.31243e-05 in 8.25435e-06
+align 13 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 been 0.56655 brought 0.351737 put 0.0817124
+align 4 wrapped 0.56655 up 0.43345
+align 5 the 1
+align 6 platoon 1
+align 7 sergeants 0.659431 sergeant's 0.335925 sergeant 0.00464461
+align 8 the 0.728017 take 0.205851 three 0.0279552 tea 0.0234567 t 0.0106585 do 0.00189277 they 0.00140376 tee 0.000765801
+align 9 issue 1
+align 10 ammunition 0.649081 in 0.244674 *DELETE* 0.106244
+align 11 *DELETE* 0.649228 the 0.244442 any 0.106191 english 0.000139063
+align 12 *DELETE* 0.648958 nation 0.232306 mission 0.118327 and 0.000139063 munitions 9.31797e-05 uh 8.1661e-05 ammunitions 5.32025e-05 i 3.72256e-05 to 4.1133e-06 a 3.70427e-07 do 2.21241e-10 is 3.55108e-11 in 2.29563e-11
+align 13 </s> 1

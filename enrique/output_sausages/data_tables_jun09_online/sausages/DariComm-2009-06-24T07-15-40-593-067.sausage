@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 accurate 1
+align 3 is 0.63331 he's 0.362919 *DELETE* 0.00227888 it's 0.00147376 he 1.80081e-05 a 3.94661e-07
+align 4 your 0.993689 you're 0.00350988 easier 0.00229728 you 0.000503687
+align 5 *DELETE* 0.999496 are 0.000305516 or 0.000172285 were 2.58858e-05
+align 6 information 1
+align 7 *DELETE* 0.998526 uh 0.00103819 i 0.000300245 is 5.1969e-05 you 3.86368e-05 in 2.59965e-05 and 8.05716e-06 to 6.43921e-06 that 3.7644e-06 on 1.92891e-07 let 3.30498e-08 do 2.82033e-08 with 3.30669e-09 at 1.27778e-09 but 1.23261e-09 the 1.69926e-10 so 3.85457e-12
+align 8 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 time 1
+align 3 of 1
+align 4 day 1
+align 5 *DELETE* 0.996381 he 0.00361936
+align 6 do 0.989156 *DELETE* 0.0108435
+align 7 you 0.999179 *DELETE* 0.000820535
+align 8 *DELETE* 0.989977 do 0.010023
+align 9 *DELETE* 0.989156 you 0.010023 due 0.000820535
+align 10 practice 0.999 practiced 0.00100008
+align 11 *DELETE* 1 it 5.84798e-09
+align 12 </s> 1

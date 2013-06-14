@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 your 0.97534 the 0.0153649 you 0.00580035 in 0.00349497
+align 2 neighbors 0.996505 a 0.00349497
+align 3 are 0.771105 you 0.191459 or 0.017922 uh 0.0116391 village 0.00349497 *DELETE* 0.0033046 of 0.00107565
+align 4 are 0.989076 very 0.0093702 *DELETE* 0.00152287 our 3.08139e-05
+align 5 good 1
+align 6 people 1
+align 7 *DELETE* 0.999284 and 0.000287546 you 0.000216434 do 0.000207657 uh 3.90819e-06 we 2.91832e-08 i 9.43385e-09 who 8.08062e-12
+align 8 </s> 1

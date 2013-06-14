@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 your 0.999731 you 0.000268783
+align 3 uh 0.89359 are 0.0623602 i 0.018112 or 0.00878052 i'd 0.00762082 out 0.00492965 on 0.00393197 eye 0.000506971 aunt 0.00016754
+align 4 *DELETE* 0.969718 uh 0.0238264 i 0.00645585
+align 5 do 1
+align 6 *DELETE* 0.999898 do 0.000102123
+align 7 you 1
+align 8 have 1
+align 9 any 1
+align 10 uh 1
+align 11 *DELETE* 0.714205 uh 0.285795
+align 12 two-way 1
+align 13 radios 1
+align 14 for 1
+align 15 your 1
+align 16 officers 1
+align 17 to 1
+align 18 use 0.9997 years 0.000253531 yours 3.70432e-05 you 9.53547e-06
+align 19 *DELETE* 0.99998 it 1.06948e-05 this 9.22113e-06 is 3.14341e-07
+align 20 </s> 1

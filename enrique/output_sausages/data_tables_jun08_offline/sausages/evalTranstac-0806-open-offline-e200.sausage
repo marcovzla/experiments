@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999976 i 2.41285e-05 can 3.68404e-09
+align 3 *DELETE* 1 see 3.68404e-09
+align 4 consider 1 considered 8.55448e-08 later 3.68404e-09
+align 5 okay 0.914177 *DELETE* 0.0858235
+align 6 i 0.708333 *DELETE* 0.205845 tat 0.0439625 tear 0.0309196 to 0.0107244 the 0.000185931 it 2.93523e-05
+align 7 *DELETE* 0.962515 up 0.0305868 are 0.0063485 a 0.000355075 tap 0.000172435 to 2.22561e-05 be 2.27762e-07
+align 8 ahmed 0.9622 made 0.0374483 operate 0.000307676 maid 4.18232e-05 lead 9.90723e-07 great 4.11017e-07 read 1.26932e-08 *DELETE* 1.13487e-13
+align 9 and 0.958053 in 0.041946 native 1.29741e-06
+align 10 his 1
+align 11 family 1
+align 12 my 0.999927 may 7.32331e-05
+align 13 family 1
+align 14 *DELETE* 0.999926 uh 7.43006e-05
+align 15 </s> 1

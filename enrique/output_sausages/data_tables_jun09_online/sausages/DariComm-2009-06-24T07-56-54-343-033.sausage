@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 0.998114 let's 0.00187986 well 6.21405e-06
+align 2 *DELETE* 0.999994 it 6.21405e-06
+align 3 is 0.999949 does 5.10098e-05
+align 4 wrong 0.997297 round 0.00149688 around 0.00119978 your 6.19624e-06 *DELETE* 3.43043e-21
+align 5 *DELETE* 0.998688 uh 0.000861523 i 0.000408335 you 3.44143e-05 in 5.72781e-06 with 2.15775e-06 and 4.75754e-09 the 2.06453e-11 that 2.16642e-13 drawn 3.90941e-19
+align 6 </s> 1

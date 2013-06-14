@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 other 1
+align 5 problems 1
+align 6 do 1
+align 7 you 1
+align 8 have 1
+align 9 with 0.918427 put 0.0815235 what 4.97366e-05
+align 10 the 1
+align 11 animals 1 animals' 5.2817e-19
+align 12 </s> 1

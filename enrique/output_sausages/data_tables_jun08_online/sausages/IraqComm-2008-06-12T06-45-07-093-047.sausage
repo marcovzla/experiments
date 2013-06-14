@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 the 0.998687 *DELETE* 0.00131274
+align 2 americans 1
+align 3 can 0.932437 came 0.0397844 can't 0.0277788
+align 4 provide 1
+align 5 close 1
+align 6 air 1
+align 7 support 1
+align 8 if 0.997576 as 0.00189557 is 0.000528902
+align 9 needed 0.999886 we 0.000113861
+align 10 *DELETE* 0.999886 need 0.000113731
+align 11 *DELETE* 0.999886 it 0.000113731 needed 1.29546e-07
+align 12 </s> 1

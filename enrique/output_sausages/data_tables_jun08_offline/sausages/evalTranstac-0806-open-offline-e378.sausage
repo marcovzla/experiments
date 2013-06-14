@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 as 1
+align 3 you 1
+align 4 can 1
+align 5 see 1
+align 6 the 1
+align 7 information 1
+align 8 is 0.999818 has 0.000181507
+align 9 not 1
+align 10 always 1
+align 11 up-to-date 0.95052 up 0.0490068 out 0.000239193 uh 0.000156928 off 5.38601e-05 *DELETE* 1.30262e-05 help 1.01805e-05
+align 12 *DELETE* 0.950742 the 0.0412762 to 0.00772897 a 0.000233304 that 1.94713e-05
+align 13 *DELETE* 0.95052 date 0.0480913 gate 0.000769132 day 0.000333046 today 0.000208986 dates 6.30969e-05 update 1.30262e-05 they 1.34671e-06
+align 14 </s> 1

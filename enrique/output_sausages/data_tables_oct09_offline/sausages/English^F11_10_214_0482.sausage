@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 so 1
+align 4 you'll 1
+align 5 be 1
+align 6 able 1
+align 7 to 1
+align 8 brief 0.979579 bring 0.0204208
+align 9 your 1
+align 10 men 1
+align 11 on 0.996708 *DELETE* 0.00329158 uh 1.6134e-08
+align 12 a 0.994956 only 0.00316699 it 0.00123778 me 0.000211642 ain 0.000183681 awni 7.12472e-05 auntie 5.33475e-05 e 5.21802e-05 a. 4.2768e-05 eight 2.42328e-05 name 1.6134e-08 i 3.89805e-09 any 1.18171e-09 ani 1.36198e-11
+align 13 *DELETE* 0.999831 a 0.000138199 high 2.2392e-05 day 7.6162e-06 uh 6.29057e-07
+align 14 </s> 1

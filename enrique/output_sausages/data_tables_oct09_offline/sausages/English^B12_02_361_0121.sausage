@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 a 0.994447 the 0.00555319
+align 3 citizen 1
+align 4 has 1
+align 5 a 0.995198 i 0.00480214
+align 6 complain 0.973943 complaint 0.026057
+align 7 about 1
+align 8 excessive 1
+align 9 force 0.655911 for 0.247729 *DELETE* 0.0564601 ford 0.0399002
+align 10 *DELETE* 0.655911 is 0.13957 his 0.0638974 us 0.0611069 forties 0.0460847 does 0.0193469 fours 0.0103754 this 0.00370781
+align 11 how 1
+align 12 would 1
+align 13 he 1
+align 14 file 1
+align 15 that 1
+align 16 complaint 0.946788 complain 0.0532115
+align 17 uh 0.892003 um 0.107997
+align 18 with 1
+align 19 your 0.999881 you're 0.000119182
+align 20 department 1 departments 1.30029e-09
+align 21 </s> 1

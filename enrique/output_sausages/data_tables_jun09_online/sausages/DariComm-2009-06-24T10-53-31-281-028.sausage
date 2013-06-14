@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 is 0.995176 it 0.00482432
+align 4 *DELETE* 0.995176 is 0.00482432
+align 5 your 1
+align 6 generator 1
+align 7 running 0.999884 were 0.000115936 *DELETE* 5.3449e-26
+align 8 *DELETE* 0.999068 it 0.000486473 uh 0.000116007 running 0.000115936 i 9.99431e-05 a 8.07496e-05 in 2.28846e-05 to 4.50742e-06 do 3.12752e-06 you 1.96313e-06 at 1.92341e-08 that 2.39804e-10 if 1.53143e-10 and 1.34966e-10 the 3.86113e-11 is 2.98509e-11 as 9.17256e-15 ruining 2.38781e-20
+align 9 </s> 1

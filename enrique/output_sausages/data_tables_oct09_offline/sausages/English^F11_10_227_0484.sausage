@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 the 1
+align 3 first 1
+align 4 thing 1
+align 5 you 1
+align 6 align 0.63662 along 0.360907 a 0.00162414 alone 0.000772026 aline 5.78192e-05 in 1.85354e-05 want 7.50944e-10
+align 7 *DELETE* 0.998357 long 0.00153767 line 8.64719e-05 one 1.85354e-05
+align 8 do 1
+align 9 is 1
+align 10 uh 0.967398 a 0.0326024
+align 11 go 1
+align 12 ahead 1
+align 13 in 0.498919 and 0.242614 *DELETE* 0.204434 an 0.0540328
+align 14 establish 0.941844 established 0.0581559
+align 15 that 1
+align 16 uh 1
+align 17 three 1
+align 18 hundred 1
+align 19 *DELETE* 0.991065 and 0.00893498
+align 20 sixty 1
+align 21 greta 0.530595 grease 0.198853 grieve 0.0898943 greece 0.0874332 *DELETE* 0.0518647 three 0.0139556 grief 0.0127346 greed 0.0106298 greet 0.00353367 green 0.000506846
+align 22 *DELETE* 0.817756 greedy 0.0300059 it's 0.0279725 is 0.0254548 greased 0.0215035 as 0.0163114 use 0.0159427 its 0.0156397 to 0.0153899 you 0.00596168 his 0.0048327 yes 0.00269311 if 0.000180978 greasy 0.000159698 greetings 0.000121814 greeted 7.38505e-05
+align 23 *DELETE* 0.99993 is 4.86273e-05 he 2.1622e-05 you've 2.07489e-07 him 3.91892e-08
+align 24 security 1
+align 25 </s> 1

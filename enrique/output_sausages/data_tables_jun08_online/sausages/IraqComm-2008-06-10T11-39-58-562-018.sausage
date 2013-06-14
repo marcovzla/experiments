@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.827391 oh 0.0932311 uh 0.0791393 i 0.000238777
+align 2 *DELETE* 0.827391 i'm 0.172521 am 8.82287e-05
+align 3 sorry 1
+align 4 we're 0.990472 which 0.00617806 were 0.00334998
+align 5 *DELETE* 0.993822 i 0.00617806
+align 6 checking 0.993822 can 0.00617806
+align 7 all 0.894064 our 0.0873316 on 0.0177745 uh 0.000830277
+align 8 vehicles 1
+align 9 today 1
+align 10 *DELETE* 0.999356 uh 0.000629086 i 1.53391e-05
+align 11 </s> 1

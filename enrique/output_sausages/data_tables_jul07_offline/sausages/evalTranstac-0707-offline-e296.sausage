@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 and 0.999921 in 7.88379e-05
+align 2 if 1
+align 3 you 1
+align 4 don't 1
+align 5 continue 1
+align 6 looking 1
+align 7 that 1
+align 8 way 0.999988 ways 1.22257e-05
+align 9 then 0.804297 that 0.109267 the 0.0559257 than 0.0284305 them 0.00187886 there 0.000122217 they 6.96949e-05 is 4.63633e-06 of 4.56775e-06 and 1.91369e-16
+align 10 *DELETE* 0.999991 that 9.20408e-06
+align 11 nobody's 1
+align 12 looking 1
+align 13 that 0.980605 *DELETE* 0.0193955 and 4.8248e-12
+align 14 way 0.979711 up 0.0114772 out 0.00395402 now 0.00227374 *DELETE* 0.00166786 though 0.000396359 at 0.000214073 i 9.29389e-05 were 8.13034e-05 there 6.4588e-05 them 3.31303e-05 the 9.44486e-06 they 8.95365e-06 why 7.81951e-06 well 4.75771e-06 one 1.82565e-06 away 5.48701e-07 we're 6.65735e-08 in 5.3525e-08 we 1.16822e-08 no 1.08061e-08 map 1.01873e-09 then 6.89237e-10 um 3.22699e-10 work 5.98807e-11 for 7.50287e-12 of 2.25018e-12 man 1.56929e-12 a 1.56853e-12 net 5.92061e-14 they're 2.07866e-15 look 2.97553e-19
+align 15 *DELETE* 0.999671 uh 0.000286333 i 4.22036e-05
+align 16 *DELETE* 0.999996 uh 4.16156e-06 work 6.16423e-10 up 7.66072e-13 that 1.43627e-14 in 2.97553e-19
+align 17 </s> 1

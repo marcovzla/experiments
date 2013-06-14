@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 you 0.542901 we 0.457099
+align 2 have 0.984031 had 0.0159687
+align 3 the 1
+align 4 search 1
+align 5 team 1
+align 6 go 0.999837 goes 0.000162959
+align 7 through 1
+align 8 the 1
+align 9 entire 1
+align 10 vehicle 1
+align 11 from 1
+align 12 front 1
+align 13 to 0.933375 *DELETE* 0.0666245
+align 14 back 1 bak 1.04552e-08
+align 15 </s> 1

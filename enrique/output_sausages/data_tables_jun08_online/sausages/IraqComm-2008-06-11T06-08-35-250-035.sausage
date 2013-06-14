@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 0.996744 do 0.00325576
+align 2 *DELETE* 0.993445 i 0.00655545
+align 3 need 1
+align 4 everyone 1
+align 5 to 1
+align 6 get 1
+align 7 out 1
+align 8 of 1
+align 9 the 1
+align 10 vehicle 0.999689 *DELETE* 0.000311177
+align 11 *DELETE* 0.995773 uh 0.00377293 vehicles 0.000311177 now 0.000143004 and 9.82758e-17
+align 12 </s> 1

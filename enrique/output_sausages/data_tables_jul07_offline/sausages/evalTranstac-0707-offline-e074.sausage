@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 well 0.519119 you 0.47356 no 0.00649275 now 0.00082794
+align 2 *DELETE* 0.525864 know 0.47356 now 0.000262173 well 0.000248983 no 6.439e-05
+align 3 i 1
+align 4 live 1
+align 5 uh 1
+align 6 relatively 1
+align 7 close 1
+align 8 to 1
+align 9 detroit 0.834576 do 0.110387 each 0.0534075 get 0.000538759 date 0.000510971 due 0.000510692 the 6.83982e-05 a 1.22911e-06
+align 10 *DELETE* 0.999129 you 0.00087006 do 1.22911e-06
+align 11 *DELETE* 0.834576 tried 0.109205 right 0.0529316 try 0.00276465 write 0.000339392 ride 0.00010912 dried 7.15445e-05 tripe 2.33773e-06
+align 12 *DELETE* 0.997265 it 0.00237195 to 0.000362597
+align 13 </s> 1

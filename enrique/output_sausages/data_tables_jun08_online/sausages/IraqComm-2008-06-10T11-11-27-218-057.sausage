@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 0.974446 where 0.0255537
+align 2 is 1
+align 3 your 1
+align 4 cousin 1
+align 5 do 0.984097 due 0.0159028 *DELETE* 5.65922e-18
+align 6 *DELETE* 0.995018 you 0.00369272 i 0.0012216 a 5.26501e-05 uh 1.50063e-05 to 1.99015e-08 do 9.26547e-14 bu 2.32021e-15
+align 7 </s> 1

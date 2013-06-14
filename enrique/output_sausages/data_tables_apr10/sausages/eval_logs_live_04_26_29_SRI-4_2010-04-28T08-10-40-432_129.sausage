@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 in 1
+align 5 the 1
+align 6 village 0.997662 *DELETE* 0.00233774
+align 7 are 0.711679 our 0.137487 your 0.0810243 or 0.0664609 villager 0.00233774 you're 0.00100543 there 6.38737e-06
+align 8 policemen 0.760114 policeman 0.239841 police 4.49812e-05 *DELETE* 1.88209e-14
+align 9 *DELETE* 0.999817 uh 7.60294e-05 i 5.94864e-05 men 4.49812e-05 do 1.43154e-06 to 1.00999e-06 placement 1.33501e-07 in 1.03751e-07 of 2.61057e-08 policeman's 1.05045e-08 policemen's 1.05045e-08
+align 10 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 um 0.545129 uh 0.390729 *DELETE* 0.0641421
+align 2 *DELETE* 0.508194 i'm 0.491027 and 0.000778073
+align 3 just 1
+align 4 kill 0.964586 tell 0.0345022 to 0.000911647
+align 5 row 0.953532 run 0.0464676
+align 6 neighborhood 1
+align 7 to 1
+align 8 see 1
+align 9 how 1
+align 10 well 0.966859 *DELETE* 0.033141
+align 11 uh 0.779519 *DELETE* 0.18734 wall 0.033141
+align 12 how 1
+align 13 are 1
+align 14 things 0.999321 these 0.000678627
+align 15 going 0.999211 go 0.000789205
+align 16 *DELETE* 0.999211 on 0.000775655 in 1.35502e-05
+align 17 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 to 1
+align 4 train 1
+align 5 a 0.703033 our 0.256443 i 0.0166033 the 0.0145402 uh 0.00315914 of 0.00299746 i've 0.0017633 i'm 0.00146082
+align 6 *DELETE* 0.98546 a 0.0145402
+align 7 doctor 1
+align 8 or 0.99998 *DELETE* 2.00453e-05
+align 9 nurse 0.88212 a 0.11786 *DELETE* 2.00453e-05
+align 10 *DELETE* 0.882018 nurse 0.11786 uh 5.52296e-05 i 4.61783e-05 owners 2.00453e-05 a 4.23498e-07 or 7.14811e-08 you 1.92804e-13 in 1.67661e-13 so 3.28803e-16 who 5.87402e-19
+align 11 *DELETE* 1 i 5.70424e-17
+align 12 </s> 1

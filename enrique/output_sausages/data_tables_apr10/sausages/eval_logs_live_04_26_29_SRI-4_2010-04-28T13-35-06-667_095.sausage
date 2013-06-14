@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999998 it 2.16457e-06
+align 2 is 0.97305 as 0.02693 it's 1.19629e-05 does 8.33845e-06
+align 3 the 1
+align 4 police 1
+align 5 station 1
+align 6 near 0.997938 or 0.00110748 here 0.00054653 you're 0.00030717 at 7.74681e-05 your 2.14648e-05 of 1.56137e-06
+align 7 the 0.999976 this 2.42876e-05
+align 8 school 0.999991 schools 9.04112e-06
+align 9 </s> 1

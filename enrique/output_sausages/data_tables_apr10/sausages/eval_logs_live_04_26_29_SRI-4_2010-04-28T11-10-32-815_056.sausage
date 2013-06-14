@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 repeat 1
+align 3 your 1
+align 4 last 0.999926 *DELETE* 7.44599e-05
+align 5 statement 0.668197 aiman 0.264934 aim 0.038522 payment 0.0203959 *DELETE* 0.00710607 in 0.000638933 less 7.44599e-05 a 6.90225e-05 name 5.54832e-05 came 5.23563e-06 dame 1.6369e-06
+align 6 *DELETE* 0.953401 it 0.0385605 damon 0.00668867 at 0.000512728 amen 0.000432368 i 0.000116639 in 9.43779e-05 uh 5.66354e-05 man 5.58915e-05 statements 4.60596e-05 meant 1.31135e-05 inman 1.08391e-05 and 6.00721e-06 aiming 2.5954e-06 to 1.52865e-06 of 1.26209e-06 mad 1.75418e-08 men 5.81659e-13
+align 7 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 information 0.998041 *DELETE* 0.00195943
+align 5 *DELETE* 0.987018 you 0.00760679 i 0.00250725 permission 0.00195943 uh 0.000470956 in 0.000250886 and 0.000177081 is 9.43427e-06 to 2.00819e-08 do 2.22141e-09 we 1.85356e-09 they 2.65654e-11 um 3.59953e-14 on 6.45717e-16
+align 6 </s> 1

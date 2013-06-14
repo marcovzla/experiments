@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we 0.999343 *DELETE* 0.000657374
+align 2 will 1
+align 3 have 1
+align 4 six 1
+align 5 uh 0.994957 a 0.00504286
+align 6 armored 1
+align 7 humvees 1
+align 8 </s> 1

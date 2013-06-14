@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999987 if 1.2554e-05
+align 2 so 1
+align 3 he 1
+align 4 is 1
+align 5 being 1
+align 6 held 1
+align 7 indefinitely 1
+align 8 for 1
+align 9 an 0.993715 *DELETE* 0.00618935 and 9.55161e-05 in 6.44316e-15
+align 10 investigation 1
+align 11 *DELETE* 1 i 6.93622e-17
+align 12 </s> 1

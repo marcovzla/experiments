@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 did 1
+align 3 he 1
+align 4 inject 0.999933 injects 6.74384e-05
+align 5 you 1
+align 6 with 1
+align 7 *DELETE* 0.983848 it 0.0102803 uh 0.00432654 a 0.000886557 you 0.000506174 i 5.74292e-05 the 3.61322e-05 that 3.4313e-05 an 1.325e-05 them 9.75917e-06 in 1.90394e-06 is 3.19262e-10
+align 8 </s> 1

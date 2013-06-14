@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i 1
+align 3 understand 1
+align 4 um 1
+align 5 how 1
+align 6 do 0.990054 would 0.0099458 *DELETE* 2.5635e-09
+align 7 you 1
+align 8 think 1
+align 9 that 1
+align 10 we 1
+align 11 use 0.999946 is 5.3889e-05
+align 12 the 0.941227 a 0.0586809 of 9.18991e-05
+align 13 coalition 1
+align 14 forces 1
+align 15 can 1
+align 16 best 1
+align 17 help 1 health 2.71883e-23
+align 18 you 1
+align 19 out 1 *DELETE* 1.68852e-22
+align 20 *DELETE* 0.999947 uh 5.28134e-05
+align 21 </s> 1

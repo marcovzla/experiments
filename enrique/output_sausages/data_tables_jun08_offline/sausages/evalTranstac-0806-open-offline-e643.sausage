@@ -1,0 +1,5 @@
+numaligns 3
+posterior 1
+align 0 <s> 1
+align 1 excellent 1
+align 2 </s> 1

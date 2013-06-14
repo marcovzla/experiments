@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 to 0.997271 okay 0.00211949 they 0.000577284 the 3.19322e-05
+align 2 turn 1
+align 3 the 0.985742 this 0.0142579
+align 4 safety 1
+align 5 *DELETE* 0.999761 all 0.000239499
+align 6 on 1
+align 7 and 1
+align 8 off 1
+align 9 move 0.960708 moved 0.0392915
+align 10 the 0.998697 fill 0.000734748 to 0.000221563 they'll 0.000193179 phil 0.00015341
+align 11 lever 0.867973 letter 0.0855489 ladder 0.0435738 leather 0.00182317 latter 0.000959299 *DELETE* 0.000121845
+align 12 *DELETE* 0.999755 on 7.88376e-05 lighter 6.9893e-05 louder 5.19516e-05 uh 3.36694e-05 i 1.07778e-05
+align 13 </s> 1

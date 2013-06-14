@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 wanna 0.99256 want 0.00405321 would 0.00338666
+align 3 *DELETE* 0.995947 to 0.00405321
+align 4 talk 1
+align 5 to 1
+align 6 you 1
+align 7 about 1
+align 8 um 0.989021 uh 0.0109795
+align 9 your 1
+align 10 training 1
+align 11 the 1
+align 12 morale 1
+align 13 of 1
+align 14 your 1
+align 15 officers 1
+align 16 and 1
+align 17 two 0.639696 some 0.310432 *DELETE* 0.0498717
+align 18 of 1
+align 19 your 1
+align 20 facilities 0.999836 facility's 0.000142403 facility 2.13625e-05
+align 21 and 0.993309 in 0.00668696 an 3.62581e-06
+align 22 equipment 1
+align 23 *DELETE* 0.999726 uh 0.00026036 that 1.25588e-05 i 1.12056e-06 in 3.23886e-07 is 1.47412e-08 and 1.26464e-08
+align 24 </s> 1

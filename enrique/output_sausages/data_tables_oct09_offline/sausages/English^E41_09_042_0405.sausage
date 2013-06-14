@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 treat 0.76665 tree 0.191757 to 0.0226099 two 0.0189832
+align 2 *DELETE* 0.957822 you 0.0421777
+align 3 triage 0.999415 i 0.000416372 *DELETE* 0.00016823
+align 4 *DELETE* 0.998364 is 0.00121925 was 0.000416372
+align 5 is 0.581079 his 0.418753 azzouz 0.00016823
+align 6 *DELETE* 0.981954 is 0.0180462
+align 7 uh 0.996414 a 0.00358632
+align 8 say 1
+align 9 you 1
+align 10 have 1
+align 11 four 0.822466 for 0.177534
+align 12 four 0.998955 for 0.00104466
+align 13 five 1
+align 14 other 0.784925 uh 0.177296 of 0.0353177 up 0.00246064
+align 15 patients 0.907333 uh 0.0430445 *DELETE* 0.0273848 the 0.00897741 a 0.00715339 up 0.00335095 at 0.00205713 it 0.000652277 i 3.05471e-05 out 1.61301e-05
+align 16 *DELETE* 0.907333 patients 0.0517499 patience 0.0299629 patient's 0.00813016 patients' 0.00198159 patient 0.000842616 i 1.69005e-07 in 1.51307e-07
+align 17 *DELETE* 1 is 7.2175e-09 i 7.13562e-09 in 5.49721e-09 so 7.98585e-10 uh 7.57386e-11 to 9.92773e-14
+align 18 </s> 1

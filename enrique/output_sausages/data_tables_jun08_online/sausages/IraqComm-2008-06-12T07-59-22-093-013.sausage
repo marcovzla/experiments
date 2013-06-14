@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 rephrase 0.99923 may 0.000662184 me 0.000108031
+align 4 *DELETE* 0.99923 face 0.000770211 phase 3.74791e-09
+align 5 </s> 1

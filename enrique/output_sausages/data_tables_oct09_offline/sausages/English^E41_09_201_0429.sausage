@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 1
+align 3 you're 0.8096 you 0.1904
+align 4 going 1
+align 5 to 1
+align 6 go 1
+align 7 ahead 1
+align 8 now 0.979016 and 0.0209838
+align 9 *DELETE* 0.979016 uh 0.0209838
+align 10 you 0.933937 you're 0.0660591 you'll 4.32572e-06
+align 11 know 0.93332 gonna 0.0666798
+align 12 want 0.999682 *DELETE* 0.000318493
+align 13 to 0.999682 wanna 0.000318493
+align 14 get 1
+align 15 *DELETE* 0.789573 to 0.210427
+align 16 us 0.717669 the 0.162364 *DELETE* 0.119799 thus 0.00016859
+align 17 *DELETE* 0.379934 up 0.328253 uh 0.291814
+align 18 *DELETE* 0.734941 this 0.265059
+align 19 *DELETE* 0.3502 uh 0.316363 of 0.105652 i've 0.103523 out 0.059061 i 0.0374576 i'll 0.0154465 us 0.0122965
+align 20 *DELETE* 0.984461 up 0.0107315 this 0.00480749
+align 21 *DELETE* 0.993628 uh 0.00480749 i 0.00156499
+align 22 plastic 1
+align 23 bag 1
+align 24 go 0.972092 *DELETE* 0.0258116 or 0.00209628
+align 25 or 0.997904 *DELETE* 0.00209628
+align 26 uh 0.95782 *DELETE* 0.0196936 a 0.0141524 us 0.00582714 is 0.0025065
+align 27 something 1
+align 28 uh 0.903056 up 0.0969437
+align 29 *DELETE* 0.982151 uh 0.016292 last 0.00155673
+align 30 plastic 0.998443 to 0.000860975 a 0.000695758
+align 31 of 0.785324 at 0.157879 uh 0.0418056 that 0.00599372 up 0.00569804 good 0.00131664 go 0.00100105 *DELETE* 0.000435605 i 0.000322791 the 0.000174204 if 4.46889e-05 or 4.13706e-06
+align 32 that 0.997588 *DELETE* 0.0024123
+align 33 it 0.693701 in 0.166154 a 0.113042 at 0.0191875 i 0.00445792 that'd 0.0024123 if 0.000857409 uh 0.00017178 *DELETE* 1.67041e-05
+align 34 nature 0.921738 makes 0.0780342 *DELETE* 0.00021151 detonate 8.57866e-06 detonates 8.12541e-06
+align 35 *DELETE* 0.921674 you 0.0783031 a 2.33847e-05
+align 36 *DELETE* 0.999257 in 0.000313318 natures 0.000188214 and 7.46902e-05 uh 6.03617e-05 them 3.70805e-05 tree 2.30953e-05 i 1.37401e-05 they 1.13712e-05 here 1.0533e-05 or 7.92101e-06 on 1.93549e-06 your 2.65851e-07 to 2.4175e-07 two 2.00191e-07 then 1.8722e-07 of 8.82863e-08 oh 7.79266e-08 high 6.68805e-08 there 7.23186e-09 that 1.68218e-10 it 1.81704e-11
+align 37 </s> 1

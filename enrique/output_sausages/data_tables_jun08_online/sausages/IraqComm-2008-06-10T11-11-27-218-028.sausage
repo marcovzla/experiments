@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what 0.999979 where 1.8593e-05 well 2.66295e-06
+align 2 is 0.999479 was 0.000436153 does 8.4888e-05
+align 3 your 1
+align 4 name 1
+align 5 </s> 1

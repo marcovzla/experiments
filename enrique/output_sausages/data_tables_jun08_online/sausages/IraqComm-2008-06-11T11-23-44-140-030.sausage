@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 when 0.976557 what 0.0191196 we 0.00388671 where 0.000436543
+align 2 did 1
+align 3 you 1
+align 4 first 1
+align 5 notice 1
+align 6 the 1
+align 7 symptoms 0.999958 sometimes 4.15119e-05
+align 8 </s> 1

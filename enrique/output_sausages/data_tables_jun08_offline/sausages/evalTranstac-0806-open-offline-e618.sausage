@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 all 1
+align 2 of 1
+align 3 our 1
+align 4 permanent 1
+align 5 checkpoints 1
+align 6 are 0.993857 or 0.00614271
+align 7 on 0.999303 in 0.000696861
+align 8 alert 0.88611 the 0.11389
+align 9 *DELETE* 0.88611 work 0.11389
+align 10 now 1
+align 11 for 0.998351 four 0.00164927
+align 12 this 1
+align 13 vehicle 1
+align 14 </s> 1

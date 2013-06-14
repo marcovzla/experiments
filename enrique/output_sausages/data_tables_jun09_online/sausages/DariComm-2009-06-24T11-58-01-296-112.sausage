@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.666558 i 0.332167 hi 0.00127517
+align 2 *DELETE* 0.666302 am 0.332167 i'm 0.00127517 sorry 0.000209013 sad 4.71609e-05
+align 3 sergeant 0.999744 to 0.000209013 and 4.71609e-05
+align 4 safe 0.754994 *DELETE* 0.206188 saif 0.0232842 say 0.0138958 shay 0.000726849 shea 0.000702234 stay 9.09614e-05 che 6.21444e-05 shapes 5.63611e-05
+align 5 and 0.684262 jason 0.20028 in 0.0925736 from 0.0155333 safer 0.00525859 ran 0.00141621 stationed 0.000649337 fran 2.36288e-05 an 3.22698e-06 them 1.76016e-08 him 1.64365e-10
+align 6 *DELETE* 0.999999 in 6.16568e-07
+align 7 from 1
+align 8 the 0.992703 a 0.00729667
+align 9 civil 1
+align 10 affairs 0.999564 affair 0.00043642
+align 11 *DELETE* 0.999564 is 0.00043642 as 1.45515e-20
+align 12 office 1
+align 13 *DELETE* 0.999898 uh 8.7238e-05 is 1.07011e-05 i 3.73743e-06 and 1.26014e-10 to 1.72856e-13 in 1.44616e-13
+align 14 </s> 1

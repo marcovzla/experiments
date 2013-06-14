@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 so 0.978395 see 0.0216045
+align 2 you 1
+align 3 *DELETE* 0.995811 you 0.00418911
+align 4 need 1
+align 5 medical 0.999695 a 0.000305453
+align 6 *DELETE* 0.999695 medical 0.000305453
+align 7 supplies 1
+align 8 *DELETE* 0.999808 in 7.14105e-05 it 6.26874e-05 uh 4.52181e-05 to 1.17745e-05 i 9.49048e-07 and 3.51899e-11
+align 9 </s> 1

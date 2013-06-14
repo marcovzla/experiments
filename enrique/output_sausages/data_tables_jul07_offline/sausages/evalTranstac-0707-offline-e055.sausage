@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 uh 0.78271 *DELETE* 0.149894 um 0.0673961
+align 2 um 0.932604 *DELETE* 0.0673961
+align 3 we 1
+align 4 could 0.690019 can 0.309981
+align 5 make 1
+align 6 possibly 1
+align 7 make 1
+align 8 other 1
+align 9 arrangements 1
+align 10 if 1
+align 11 uh 1
+align 12 *DELETE* 0.652951 uh 0.347049
+align 13 you're 0.723468 your 0.250933 you 0.0255985
+align 14 open 0.957028 helping 0.0335317 opened 0.0091038 hoping 0.000336692 help 4.12914e-10
+align 15 to 0.992097 *DELETE* 0.00707545 two 0.000827207
+align 16 it 0.989844 too 0.00645129 *DELETE* 0.00242364 today 0.000623221 uh 0.000406622 a 0.00014085 that 6.89232e-05 the 9.8136e-06 at 8.06159e-06 eight 5.50069e-06 add 3.5886e-06 i 3.54972e-06 them 3.26792e-06 us 2.36798e-06 ache 1.51548e-06 me 1.23666e-06 ten 9.38358e-07 you 8.13791e-07 her 3.50333e-07 eat 2.348e-07 act 1.50364e-07 make 1.34135e-07 hurt 3.73151e-08 do 2.00157e-08 air 1.8023e-09 they 5.73999e-10 into 4.12914e-10 its 6.34051e-11 have 5.21896e-11
+align 17 *DELETE* 0.999114 it 0.000885716 i 5.29782e-07 uh 1.18747e-07 at 2.87329e-09
+align 18 </s> 1

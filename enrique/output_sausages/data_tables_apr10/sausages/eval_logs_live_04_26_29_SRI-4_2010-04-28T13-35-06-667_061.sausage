@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 do 1
+align 4 you 1
+align 5 go 1
+align 6 to 1
+align 7 the 1
+align 8 market 0.999982 markets 1.80352e-05
+align 9 *DELETE* 0.999914 uh 7.41526e-05 i 1.20951e-05 to 3.06665e-08
+align 10 </s> 1

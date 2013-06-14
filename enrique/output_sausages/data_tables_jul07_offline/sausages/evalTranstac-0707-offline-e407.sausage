@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 would 0.791891 who 0.115992 how 0.0350127 what 0.0345314 i 0.0123212 uh 0.00637503 we 0.00366477 whom 0.000211183
+align 2 *DELETE* 0.791891 would 0.173577 do 0.0345314
+align 3 *DELETE* 0.999993 do 7.30273e-06
+align 4 you 1
+align 5 do 0.999912 *DELETE* 8.75396e-05
+align 6 when 0.999909 doing 8.75396e-05 in 3.31532e-06 would 5.97386e-07
+align 7 you 1
+align 8 were 0.999945 we're 5.46923e-05
+align 9 out 0.958737 *DELETE* 0.0332507 i 0.00801221
+align 10 uh 0.540025 of 0.323016 *DELETE* 0.136958
+align 11 i 0.994411 *DELETE* 0.00339759 eye 0.00192258 ice 0.00015902 i. 0.000110094
+align 12 *DELETE* 0.999464 i 0.000536221
+align 13 school 0.953525 i 0.0464388 go 3.58196e-05
+align 14 *DELETE* 0.953561 school 0.0464388
+align 15 for 1
+align 16 two 1
+align 17 years 1
+align 18 erna 0.397508 *DELETE* 0.164504 burner 0.12155 earner 0.0847679 and 0.0518961 or 0.0433071 earn 0.0419028 burn 0.0408462 turner 0.0244653 turn 0.00809547 karina 0.00542768 during 0.00511777 learner 0.00495217 learn 0.00315005 verna 0.00251022
+align 19 *DELETE* 0.956666 in 0.0433343
+align 20 *DELETE* 0.420128 uh 0.229487 a 0.14235 myrna 0.0822524 mirna 0.0822515 i 0.0435311
+align 21 *DELETE* 0.946096 uh 0.0383908 um 0.0153617 i 7.78139e-05 if 1.68816e-05 a 1.5784e-05 it 1.4726e-05 to 7.22884e-06 do 5.58876e-06 of 4.06596e-06 i'm 3.72707e-06 the 1.68792e-06 is 1.57958e-06 you 8.8663e-07 at 5.15883e-07 as 5.11467e-07 and 2.89337e-07
+align 22 </s> 1

@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 uh 0.969015 um 0.0245258 *DELETE* 0.00645939
+align 2 i 0.860465 uh 0.139535
+align 3 *DELETE* 0.811763 i 0.188237
+align 4 want 1
+align 5 you 1
+align 6 to 1
+align 7 rest 1
+align 8 assured 0.735862 assure 0.214728 a 0.0450779 sure 0.00433205
+align 9 *DELETE* 0.954922 sure 0.0450779
+align 10 that 0.85489 it 0.127826 they 0.0165588 there 0.000583073 a 9.64415e-05 i 3.85267e-05 and 7.14291e-06
+align 11 we're 0.979701 were 0.0202986
+align 12 gonna 0.995732 going 0.0042676
+align 13 *DELETE* 0.995732 to 0.0042676
+align 14 try 1
+align 15 to 1
+align 16 make 1
+align 17 this 0.99987 it 0.000127981 if 1.90982e-06
+align 18 *DELETE* 0.99987 this 0.00012989
+align 19 neighborhood 1
+align 20 as 0.998598 is 0.00140153
+align 21 safe 1
+align 22 as 0.997114 is 0.00288617
+align 23 we 1
+align 24 can 1
+align 25 make 1
+align 26 it 0.998004 at 0.0017635 a 0.000125002 good 6.6095e-05 that 4.11719e-05 an 8.54245e-08
+align 27 *DELETE* 0.999873 uh 0.000101427 a 1.53733e-05 i 1.06321e-05
+align 28 </s> 1

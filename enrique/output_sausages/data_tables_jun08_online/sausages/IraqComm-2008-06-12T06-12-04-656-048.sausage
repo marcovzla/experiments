@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 suggestions 1
+align 6 for 1
+align 7 how 0.902243 now 0.0812552 all 0.0097538 uh 0.00420431 out 0.00253847 *DELETE* 5.0859e-06
+align 8 the 0.999995 other 5.0859e-06
+align 9 sign 0.916589 signed 0.0638217 side 0.0099299 signs 0.00607714 science 0.00302195 sides 0.000560404
+align 10 *DELETE* 0.999978 in 2.1964e-05
+align 11 should 1
+align 12 be 1
+align 13 put 0.997692 pulled 0.00230799
+align 14 up 0.999291 out 0.000708555
+align 15 *DELETE* 0.999535 uh 0.000388872 a 7.34854e-05 i 2.88269e-06 to 1.14649e-09
+align 16 </s> 1

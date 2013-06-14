@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 computer 0.779545 peter 0.220455
+align 2 translate 0.972847 translates 0.0262342 *DELETE* 0.000918948
+align 3 *DELETE* 0.994817 uh 0.00236113 it 0.00189781 translator 0.000760621 translated 0.000132681 translating 1.90448e-05 i 5.19861e-06 translation 4.4867e-06 translators 2.11448e-06 a 9.07238e-08 in 8.59031e-13
+align 4 </s> 1

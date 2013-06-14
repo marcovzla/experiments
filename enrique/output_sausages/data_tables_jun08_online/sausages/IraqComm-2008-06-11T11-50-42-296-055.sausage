@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 0.998528 hi 0.00147241
+align 2 there 1
+align 3 any 1
+align 4 explosives 1
+align 5 in 1
+align 6 the 1
+align 7 vehicle 1 vehicles 1.61456e-12
+align 8 </s> 1

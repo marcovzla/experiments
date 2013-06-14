@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 do 0.68379 *DELETE* 0.164083 are 0.094623 were 0.0240097 have 0.0187122 live 0.014753 who 2.93289e-05
+align 5 you 0.721575 in 0.262774 been 0.0125825 going 0.00156483 *DELETE* 0.000881485 haven't 0.000592846 can 2.9051e-05 are 2.77934e-07
+align 6 *DELETE* 0.934001 in 0.0520019 the 0.0107106 a 0.00196004 to 0.00132688
+align 7 need 0.999914 *DELETE* 8.56322e-05
+align 8 *DELETE* 0.99623 uh 0.00316356 of 0.000170597 a 0.000126565 it 0.000123398 indeed 7.1999e-05 to 6.1459e-05 here 3.59864e-05 needed 1.28313e-05 me 2.25457e-06 knead 8.018e-07 you 2.68357e-07 um 4.8255e-09
+align 9 </s> 1

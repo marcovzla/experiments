@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 purpose 1
+align 3 of 1
+align 4 my 1
+align 5 visit 1
+align 6 today 1
+align 7 is 1
+align 8 to 1
+align 9 assess 1
+align 10 and 1
+align 11 afghanistan 1
+align 12 actual 0.620708 optional 0.285433 action 0.0696823 should 0.0100721 ashour 0.00833203 ashur 0.00454947 *DELETE* 0.0010661 ash 8.40379e-05 i 7.26119e-05
+align 13 *DELETE* 0.999932 in 6.78718e-05
+align 14 *DELETE* 0.906166 or 0.0588519 all 0.0333893 show 0.00113871 oil 0.000300643 oh 0.000153006
+align 15 army 1
+align 16 soldier 0.999985 *DELETE* 1.5457e-05
+align 17 *DELETE* 0.999113 uh 0.000521784 i 0.000236779 in 3.53109e-05 it 2.66579e-05 you 2.4102e-05 soldiers 1.5457e-05 to 1.35137e-05 the 7.79881e-06 a 3.27992e-06 that 9.5195e-07 who 6.03263e-07 or 2.66374e-07 and 9.4221e-08 too 5.34822e-08 with 1.78751e-08 is 3.57721e-09 do 1.23576e-09 i'm 1.66207e-13 would 1.81576e-14
+align 18 </s> 1

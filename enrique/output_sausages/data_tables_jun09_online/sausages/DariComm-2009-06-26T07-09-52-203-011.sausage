@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999205 uh 0.000795416
+align 2 and 1
+align 3 you 1
+align 4 sir 1
+align 5 where 0.998199 why 0.00180134
+align 6 are 0.999993 *DELETE* 6.94832e-06
+align 7 you 1
+align 8 from 1
+align 9 *DELETE* 0.999821 it 0.000166554 uh 1.25174e-05 that 4.26021e-08 and 1.77886e-08 you 1.44196e-10
+align 10 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 show 0.999989 *DELETE* 1.13162e-05
+align 3 me 0.999989 *DELETE* 1.13162e-05
+align 4 *DELETE* 0.99955 uh 0.000392503 i 1.59474e-05 in 1.2327e-05 shami 1.13162e-05 the 1.05286e-05 if 4.14936e-06 a 2.84907e-06 to 3.02278e-08 you 4.16718e-09 an 1.87631e-09 i'm 8.78521e-10
+align 5 </s> 1

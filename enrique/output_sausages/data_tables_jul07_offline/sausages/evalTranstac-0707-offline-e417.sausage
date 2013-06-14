@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 once 0.923803 what 0.0440639 want 0.0306754 why 0.00092746 watch 0.000529976
+align 2 you 0.999073 should 0.00092746
+align 3 come 1
+align 4 out 0.973587 uh 0.0219941 i 0.00258261 by 0.00171356 all 0.00011335 on 9.21063e-06
+align 5 here 0.997417 hear 0.00258261
+align 6 and 0.848784 in 0.0927118 *DELETE* 0.031116 to 0.0232411 a 0.00414714
+align 7 meet 0.919222 me 0.0519966 the 0.0183902 *DELETE* 0.0103907
+align 8 me 0.977462 knee 0.0121471 mimi 0.0103907
+align 9 in 1
+align 10 the 1
+align 11 morning 1
+align 12 *DELETE* 0.82358 if 0.1083 and 0.0539651 in 0.0141542
+align 13 you 0.966033 he 0.0333176 the 0.000649255
+align 14 could 0.758286 can 0.241714
+align 15 tell 1
+align 16 me 1
+align 17 were 0.757749 this 0.131304 uh 0.0570859 where 0.040491 the 0.0125618 thus 0.000629804 verse 0.000136087 *DELETE* 4.18349e-05
+align 18 us 0.867702 *DELETE* 0.132258 is 3.99517e-05
+align 19 this 0.999958 versus 4.18349e-05 *DELETE* 3.45826e-11
+align 20 *DELETE* 1 is 7.39279e-09
+align 21 information 1
+align 22 </s> 1

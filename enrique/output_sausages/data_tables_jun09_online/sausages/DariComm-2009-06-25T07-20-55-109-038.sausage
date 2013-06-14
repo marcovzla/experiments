@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 point 0.99993 put 7.0073e-05
+align 4 to 0.976154 of 0.0238458
+align 5 the 0.999783 that 0.00021738
+align 6 part 0.813525 power 0.157895 player 0.0238564 plan 0.00271743 plot 0.00170345 planner 0.000302299
+align 7 of 1
+align 8 the 1
+align 9 land 0.816107 line 0.183893
+align 10 you 0.571026 you're 0.427773 your 0.00120081
+align 11 referring 0.998919 are 0.00107857 return 2.89713e-06 *DELETE* 9.79216e-25
+align 12 *DELETE* 0.998921 referring 0.00107857
+align 13 to 0.999075 *DELETE* 0.000925029 regarding 3.43363e-19
+align 14 *DELETE* 0.993536 you 0.00533964 too 0.00090692 the 0.000169538 two 1.81088e-05 do 1.14908e-05 it 9.88551e-06 uh 7.42253e-06 is 1.3683e-06
+align 15 </s> 1

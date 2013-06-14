@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 is 1
+align 3 the 1
+align 4 hospital 0.999994 hospitals 6.36124e-06
+align 5 *DELETE* 1 in 4.40103e-17 uh 4.55001e-23
+align 6 </s> 1

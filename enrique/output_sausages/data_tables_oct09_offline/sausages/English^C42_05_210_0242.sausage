@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 we 1
+align 3 also 1
+align 4 need 1
+align 5 to 1
+align 6 get 1
+align 7 the 1
+align 8 bridge 1
+align 9 uh 0.889193 *DELETE* 0.110807
+align 10 *DELETE* 0.580342 or 0.211424 of 0.110807 we're 0.0347925 were 0.0328153 uh 0.0189726 we 0.010846
+align 11 rebuilt 1
+align 12 at 0.999972 if 2.84693e-05
+align 13 the 1
+align 14 same 1
+align 15 time 1
+align 16 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 0.678038 um 0.321623 alright 0.000312289 i 1.69188e-05 and 9.95473e-06
+align 2 how 0.993291 uh 0.00670889
+align 3 *DELETE* 0.993291 how 0.00670889
+align 4 many 1
+align 5 total 1
+align 6 officers 0.984106 offices 0.0158938
+align 7 do 1
+align 8 you 1
+align 9 have 1
+align 10 on 1
+align 11 your 0.999955 you're 4.5213e-05
+align 12 force 0.998524 forces 0.00147645
+align 13 </s> 1

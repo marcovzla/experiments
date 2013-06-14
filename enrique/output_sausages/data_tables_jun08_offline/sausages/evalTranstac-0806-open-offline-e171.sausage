@@ -1,0 +1,45 @@
+numaligns 43
+posterior 1
+align 0 <s> 1
+align 1 well 0.999986 *DELETE* 1.39097e-05
+align 2 what 1
+align 3 i 1
+align 4 think 1
+align 5 we 1
+align 6 should 1
+align 7 do 1
+align 8 is 1
+align 9 uh 1
+align 10 take 0.855072 uh 0.144928
+align 11 *DELETE* 0.855072 take 0.144928
+align 12 a 0.859111 *DELETE* 0.042573 it 0.0391372 this 0.0333751 us 0.0136042 as 0.00454773 his 0.00426257 its 0.00176027 at 0.00105582 that 0.000573083
+align 13 site 0.885671 sight 0.0717563 aside 0.042573
+align 14 surveying 0.599522 survey 0.400478
+align 15 and 0.998145 in 0.00124401 him 0.000324202 i'm 0.00018641 an 0.000100822
+align 16 go 1
+align 17 out 1
+align 18 together 1
+align 19 uh 1
+align 20 *DELETE* 0.997949 uh 0.00205092
+align 21 to 1
+align 22 look 1
+align 23 at 1
+align 24 the 1
+align 25 the 1
+align 26 old 1
+align 27 facility 1
+align 28 old 0.811321 the 0.120942 hold 0.0309795 bold 0.0128305 gold 0.0121843 uh 0.00835394 a 0.00333131 i 5.70256e-05
+align 29 *DELETE* 0.867315 old 0.132685
+align 30 medical 1
+align 31 facility 1
+align 32 and 0.936521 in 0.0634786
+align 33 then 0.933547 and 0.0664528
+align 34 also 1
+align 35 the 0.965653 that 0.0289364 than 0.00541011 then 5.16163e-09
+align 36 new 0.926736 knee 0.0732124 you 3.42e-05 *DELETE* 1.77033e-05
+align 37 *DELETE* 0.999976 knew 1.24173e-05 were 6.03197e-06 me 5.28605e-06 we're 7.09669e-10 newer 1.25157e-12
+align 38 warehouse 0.999994 house 6.03268e-06
+align 39 that 0.996841 at 0.00315886
+align 40 you're 0.987394 your 0.0126058
+align 41 proposing 1
+align 42 </s> 1

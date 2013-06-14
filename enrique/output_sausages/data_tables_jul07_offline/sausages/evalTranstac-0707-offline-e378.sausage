@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 people 1
+align 3 do 1
+align 4 not 1
+align 5 need 1
+align 6 to 1
+align 7 be 1
+align 8 made 1
+align 9 afraid 1
+align 10 of 1
+align 11 their 0.984819 they're 0.0108676 there 0.00431358
+align 12 military 1
+align 13 *DELETE* 0.999959 i 3.01066e-05 uh 9.15544e-06 a 1.38774e-06
+align 14 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 0.733141 the 0.24929 their 0.0175694
+align 5 crack 0.71403 correct 0.282581 a 0.00338881
+align 6 *DELETE* 0.996611 crack 0.00338881
+align 7 supplies 1
+align 8 in 1 and 1.93386e-07
+align 9 order 1
+align 10 to 1
+align 11 build 1
+align 12 a 0.522435 the 0.475411 that 0.00215365
+align 13 checkpoint 0.922957 checkpoints 0.0770429
+align 14 *DELETE* 0.999717 uh 0.000195165 in 3.07397e-05 is 2.92942e-05 i 1.54092e-05 there 9.72034e-06 and 2.21885e-06 a 9.56517e-08 we 2.18142e-08 no 1.06648e-13 them 2.38096e-20 oh 4.73112e-21 do 2.43431e-21 you 1.11514e-21 it 2.74177e-23
+align 15 </s> 1

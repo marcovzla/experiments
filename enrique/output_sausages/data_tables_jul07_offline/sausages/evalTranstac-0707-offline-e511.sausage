@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 can 0.667992 *DELETE* 0.332008
+align 3 and 0.582266 cannot 0.224833 can't 0.107175 *DELETE* 0.0771574 in 0.00856844
+align 4 *DELETE* 0.998663 and 0.00133718
+align 5 i 1
+align 6 will 0.985148 i 0.0148518
+align 7 *DELETE* 0.985148 will 0.0148518
+align 8 write 1
+align 9 it 1
+align 10 down 1
+align 11 for 1
+align 12 you 1
+align 13 and 0.999701 in 0.000299457
+align 14 give 1
+align 15 it 1
+align 16 to 1
+align 17 you 0.999962 *DELETE* 3.82739e-05 be 2.67752e-10
+align 18 before 1 for 2.67752e-10
+align 19 you 1
+align 20 leave 1
+align 21 *DELETE* 0.99997 i 2.99834e-05 it 6.1369e-11
+align 22 </s> 1

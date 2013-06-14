@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 that 1
+align 4 is 1
+align 5 uh 1
+align 6 for 0.948901 uh 0.0500657 four 0.00103363
+align 7 *DELETE* 0.949934 for 0.0500657
+align 8 the 1
+align 9 animals 1
+align 10 *DELETE* 0.999999 in 1.48446e-06
+align 11 </s> 1

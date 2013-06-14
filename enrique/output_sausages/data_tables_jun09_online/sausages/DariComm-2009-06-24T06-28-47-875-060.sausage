@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 all 0.949432 *DELETE* 0.0505678
+align 2 right 0.949432 alright 0.0505678
+align 3 to 1
+align 4 train 0.996417 change 0.00358295
+align 5 the 0.62844 in 0.16083 and 0.0698483 on 0.0453068 a 0.0408224 them 0.0308307 you 0.0151949 to 0.00872731
+align 6 nurses 0.92799 nurses' 0.0305132 nurse's 0.0274277 nurse 0.014069
+align 7 *DELETE* 0.985931 is 0.014069
+align 8 all 0.779141 are 0.215623 on 0.00523556
+align 9 medical 1
+align 10 *DELETE* 0.786495 uh 0.213505
+align 11 op 0.768781 part 0.208485 pop 0.0126266 put 0.00501973 up 0.00335945 opera 0.00172809
+align 12 patients 0.878837 basins 0.0668279 patience 0.0212489 patient's 0.0190363 patients' 0.0136546 patient 0.000292119 questions 8.70918e-05 *DELETE* 1.57557e-05 gray 1.4046e-29
+align 13 *DELETE* 0.999823 uh 8.29999e-05 i 3.14747e-05 in 2.63681e-05 is 1.78794e-05 christians 1.57557e-05 do 1.29006e-06 it 1.06303e-06 to 7.57088e-08 you 1.549e-10 and 4.30509e-11 if 1.04793e-14 so 6.42518e-17 since 1.4046e-29
+align 14 </s> 1

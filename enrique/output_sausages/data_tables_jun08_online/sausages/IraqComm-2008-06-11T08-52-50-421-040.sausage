@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 0.99881 with 0.00101955 which 0.000170209
+align 2 job 0.999207 tribe 0.000792921
+align 3 are 0.817358 or 0.164364 but 0.0064078 by 0.00529231 our 0.00515994 uh 0.00141781
+align 4 they'll 0.67778 the 0.306966 though 0.0152539
+align 5 leaving 0.697318 leading 0.247917 low 0.0547646
+align 6 *DELETE* 0.945235 leaving 0.0423461 leading 0.0124185
+align 7 workers 0.857684 workers' 0.0785313 worker's 0.0637848
+align 8 looking 1
+align 9 for 0.999184 four 0.000816393
+align 10 *DELETE* 0.998946 uh 0.00101508 a 2.72176e-05 i 1.20519e-05 it 6.13545e-09
+align 11 </s> 1

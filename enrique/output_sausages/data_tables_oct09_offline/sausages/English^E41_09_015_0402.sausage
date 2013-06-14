@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 0.984731 *DELETE* 0.0152689
+align 3 *DELETE* 0.870431 uh 0.0960584 if 0.0182413 are 0.0152689
+align 4 first 1
+align 5 what 0.986513 we're 0.013487
+align 6 is 0.986513 just 0.013487
+align 7 go 1
+align 8 ahead 1
+align 9 and 1
+align 10 start 1
+align 11 off 0.999771 often 0.000229285
+align 12 *DELETE* 0.999938 uh 3.26058e-05 i 2.50431e-05 a 2.94742e-06 in 6.44152e-07 to 2.65138e-07 the 1.05572e-07
+align 13 </s> 1

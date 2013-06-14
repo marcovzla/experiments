@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 thank 0.965298 i 0.0347023
+align 2 *DELETE* 0.965298 thank 0.0347023
+align 3 you 1
+align 4 for 1
+align 5 coming 1
+align 6 by 1
+align 7 today 1
+align 8 *DELETE* 0.986714 uh 0.0118934 you 0.00125521 i 0.000136942 i'm 2.93922e-07 in 2.70902e-08 um 1.4847e-10
+align 9 </s> 1

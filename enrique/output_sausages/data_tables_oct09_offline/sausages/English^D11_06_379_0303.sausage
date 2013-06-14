@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 1
+align 3 thank 1
+align 4 you 1
+align 5 *DELETE* 0.99925 uh 0.000405592 it 0.000175793 too 6.2098e-05 in 3.7092e-05 at 2.82989e-05 i 1.90211e-05 and 1.22949e-05 to 6.23483e-06 know 2.33412e-06 add 9.25931e-07 would 2.19666e-07 do 1.70881e-08
+align 6 </s> 1

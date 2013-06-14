@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999991 i 9.48525e-06
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 enough 1
+align 6 teachers 1
+align 7 for 1
+align 8 the 0.97654 these 0.0234605
+align 9 schools 0.998061 school's 0.00187989 schools' 5.9102e-05
+align 10 *DELETE* 0.999997 in 2.1154e-06 uh 1.05546e-06
+align 11 </s> 1

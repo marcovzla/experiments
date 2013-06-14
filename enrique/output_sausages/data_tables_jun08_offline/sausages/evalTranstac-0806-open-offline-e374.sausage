@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 think 1
+align 2 that 1
+align 3 the 0.996219 their 0.00378076
+align 4 movement 0.877598 the 0.122402
+align 5 *DELETE* 0.877598 movement 0.122402
+align 6 was 1
+align 7 good 1
+align 8 *DELETE* 0.956684 and 0.0272675 in 0.0160485
+align 9 but 1
+align 10 uh 1
+align 11 i 0.993999 uh 0.00304729 i'd 0.00295363
+align 12 *DELETE* 0.988098 i 0.0119022
+align 13 believe 0.997046 leave 0.00295363
+align 14 you 0.915815 he 0.0490244 you're 0.0182651 me 0.00934943 we 0.00476098 be 0.000994478 the 0.000864519 there 0.000422446 you've 0.000376152 your 8.54275e-05 they 4.21383e-05 we're 2.69613e-08
+align 15 probably 1
+align 16 could 0.612234 *DELETE* 0.387766
+align 17 it 0.390841 could've 0.387766 a 0.207778 have 0.0136152
+align 18 been 0.401381 be 0.390841 bit 0.207778
+align 19 a 0.998404 in 0.00159572
+align 20 *DELETE* 0.998404 a 0.00159572
+align 21 little 1
+align 22 bit 1
+align 23 more 1
+align 24 spread 1
+align 25 out 1
+align 26 *DELETE* 0.99992 uh 7.28929e-05 i 4.2847e-06 a 2.94124e-06 of 2.35202e-07 it 1.29169e-08
+align 27 </s> 1

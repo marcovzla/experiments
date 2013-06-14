@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 0.978334 and 0.0207404 um 0.00092514
+align 2 *DELETE* 0.978334 do 0.0216656
+align 3 you 1
+align 4 *DELETE* 0.921066 you 0.0789339
+align 5 need 1
+align 6 *DELETE* 0.904791 to 0.0952091
+align 7 a 1
+align 8 school 1
+align 9 build 0.745257 built 0.241601 bill 0.013142
+align 10 in 1
+align 11 your 1
+align 12 village 1
+align 13 *DELETE* 0.999952 are 4.79661e-05 and 2.38627e-07 do 2.18358e-08 that 1.31355e-08
+align 14 </s> 1

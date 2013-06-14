@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 where 1 we're 6.46024e-19
+align 2 is 1
+align 3 he 0.999907 she 9.24116e-05 *DELETE* 4.67173e-09
+align 4 *DELETE* 0.999966 a 1.38474e-05 uh 1.01456e-05 now 6.52521e-06 in 3.35548e-06 the 3.90649e-07 see 1.97934e-07 you 3.72143e-18 he 4.93939e-19
+align 5 </s> 1

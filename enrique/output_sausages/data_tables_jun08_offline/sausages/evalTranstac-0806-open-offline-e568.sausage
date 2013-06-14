@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999454 i 0.000546442
+align 2 uh 1
+align 3 the 0.985942 uh 0.0140585
+align 4 *DELETE* 0.985942 the 0.0140585
+align 5 time 0.885989 timing 0.114011
+align 6 sounds 0.99689 i'm 0.00198963 is 0.00106444 and 5.54791e-05
+align 7 *DELETE* 0.99689 sounds 0.00310955
+align 8 good 1
+align 9 *DELETE* 0.435948 uh 0.372225 though 0.101477 oh 0.09035
+align 10 oh 0.662878 *DELETE* 0.196014 go 0.0704756 that'll 0.037059 i'll 0.0290768 no 0.00410339 so 0.000392734
+align 11 that 0.999731 they 0.000268681
+align 12 won't 0.999892 will 0.000107572
+align 13 be 1
+align 14 a 1
+align 15 problem 1
+align 16 for 1
+align 17 us 1
+align 18 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.998898 i 0.00110178
+align 3 have 1
+align 4 two 0.999323 to 0.00067676
+align 5 children 1
+align 6 also 0.999971 all 2.83065e-05 *DELETE* 2.04864e-07
+align 7 *DELETE* 0.998109 uh 0.000648521 do 0.000494259 i 0.000352406 you 0.000164148 a 6.0009e-05 it 4.04851e-05 can 3.69134e-05 to 3.17377e-05 so 2.83065e-05 if 1.85577e-05 did 7.61971e-06 due 3.91935e-06 them 1.9887e-06 in 1.6161e-06 that 1.68267e-07 um 1.92586e-08 be 2.05323e-12 just 1.87294e-12 the 4.68753e-13 and 7.52462e-14
+align 8 *DELETE* 1 also 2.81412e-07
+align 9 </s> 1

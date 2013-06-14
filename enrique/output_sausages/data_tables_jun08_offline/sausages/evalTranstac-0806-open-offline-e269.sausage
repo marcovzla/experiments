@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 only 0.935458 to 0.0637126 pull 0.000829464
+align 3 *DELETE* 0.935458 only 0.064542
+align 4 use 1
+align 5 it 0.989484 that 0.00770715 *DELETE* 0.00209704 the 0.000483968 a 0.000227838
+align 6 in 0.836723 and 0.127658 then 0.0277239 can 0.00379832 attend 0.00209704 ten 0.00188866 than 0.000110851
+align 7 the 1
+align 8 proper 1
+align 9 circumstances 1
+align 10 will 0.964189 we'll 0.035811
+align 11 be 1
+align 12 the 1
+align 13 uh 1
+align 14 proper 1
+align 15 example 0.98004 examples 0.0199604
+align 16 for 0.994071 four 0.00592876
+align 17 everyone 1
+align 18 else 1 house 1.25202e-07 aws 9.80184e-11
+align 19 *DELETE* 1 uh 3.67221e-08
+align 20 </s> 1

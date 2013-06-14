@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 0.999543 uh 0.000453738 a 3.20767e-06
+align 5 *DELETE* 0.999543 enough 0.000456946
+align 6 doctors 0.999919 *DELETE* 8.05028e-05
+align 7 *DELETE* 0.99823 uh 0.000760982 so 0.000403222 to 0.000139409 i 0.000123159 should 0.000112808 and 6.87645e-05 doctor's 4.02514e-05 doctors' 4.02514e-05 or 2.24256e-05 do 2.00671e-05 in 1.97335e-05 are 7.54573e-06 who 6.52755e-06 it 5.20145e-06 of 1.08705e-09 you 4.31784e-11 is 1.46916e-13 on 1.33396e-15 at 5.89402e-18
+align 8 </s> 1

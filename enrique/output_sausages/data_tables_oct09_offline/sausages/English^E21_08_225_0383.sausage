@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 what 1
+align 3 immediate 1
+align 4 uh 0.674559 aid 0.2142 at 0.0734289 is 0.0135673 had 0.0127122 add 0.00529375 ad 0.00316827 a 0.00239972 *DELETE* 0.00064374 as 2.72243e-05
+align 5 that 0.993825 the 0.0032128 at 0.00120374 a 0.000917293 abdu 0.00032882 abda 0.00026781 to 0.000179762 abed 4.71093e-05 good 9.9015e-06 *DELETE* 7.74592e-06
+align 6 that's 1
+align 7 why 0.987125 *DELETE* 0.0128748
+align 8 i 0.987125 last 0.0128748
+align 9 served 0.91389 surely 0.0732351 area 0.0128748
+align 10 if 1
+align 11 we 1
+align 12 uh 1
+align 13 uh 0.654277 *DELETE* 0.342921 i 0.00134057 oh 0.0011776 a 0.000215166 it 5.40952e-05 all 8.86163e-06 are 5.04863e-06 and 3.28091e-07
+align 14 *DELETE* 0.999912 i 8.79831e-05
+align 15 we 1
+align 16 have 1
+align 17 immediate 1
+align 18 action 1
+align 19 drills 1
+align 20 for 0.992573 four 0.00742705
+align 21 your 0.928753 his 0.0685959 you 0.00223438 you're 0.000417139
+align 22 squad 0.999833 squat 0.000166872
+align 23 </s> 1

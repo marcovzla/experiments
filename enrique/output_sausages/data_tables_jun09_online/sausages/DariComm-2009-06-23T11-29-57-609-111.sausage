@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 very 1
+align 4 much 1
+align 5 i'll 0.994946 i 0.00505428
+align 6 *DELETE* 0.994946 will 0.00505428
+align 7 see 1
+align 8 you 1
+align 9 tomorrow 1
+align 10 morning 1
+align 11 *DELETE* 0.999811 i 0.000100389 uh 8.29844e-05 at 4.61265e-06 and 4.80965e-07 that 1.8531e-07 it 6.75793e-08 um 2.64674e-08
+align 12 </s> 1

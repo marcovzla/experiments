@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 i'm 1
+align 3 so 0.99998 sick 1.48829e-05 still 5.32492e-06 stay 5.13805e-11 sky 3.63959e-22
+align 4 lieutenant 0.99987 would 0.000117982 i 1.18711e-05 we're 6.10222e-08 what 2.62304e-16 *DELETE* 3.14127e-39
+align 5 inman 0.99906 and 0.000406178 in 0.000261764 him 0.000134845 take 0.000117174 would 1.18711e-05 hand 5.5362e-06 ten 8.6888e-07 *DELETE* 5.18877e-07 tend 7.40694e-11 uh 2.62304e-16 to 9.75703e-17
+align 6 *DELETE* 0.999988 take 1.18711e-05
+align 7 *DELETE* 0.999871 him 0.000129045 hand 2.62304e-16
+align 8 *DELETE* 0.99906 in 0.000495549 them 0.000261721 and 0.000129251 an 4.5055e-05 then 4.38405e-06 men 2.10235e-06 man 1.34484e-06 i 1.7095e-07 him 5.05037e-13 uh 3.05773e-13
+align 9 *DELETE* 1 to 1.95523e-14 in 1.11706e-14 and 1.00712e-14 on 2.28305e-16 min 1.54889e-16 at 5.08893e-18 attendant 2.2017e-20
+align 10 </s> 1

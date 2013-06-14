@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 pass 0.969202 past 0.0197269 *DELETE* 0.00789994 passed 0.00317101
+align 3 do 0.846817 to 0.145283 pasty 0.00789994
+align 4 your 1
+align 5 men 1
+align 6 that 1
+align 7 i 1
+align 8 was 1
+align 9 very 1
+align 10 please 0.87047 police 0.0766437 pleased 0.035628 pleas 0.0172583
+align 11 with 1
+align 12 what 1
+align 13 i 1
+align 14 saw 0.913292 *DELETE* 0.0867083
+align 15 all 0.607848 but 0.201092 *DELETE* 0.103788 solved 0.0476376 solve 0.0390707 a 0.000412825 i 0.000150386
+align 16 but 0.798908 *DELETE* 0.201092
+align 17 there 1
+align 18 are 1
+align 19 some 1
+align 20 things 1
+align 21 we 1
+align 22 need 1
+align 23 to 1
+align 24 work 1
+align 25 on 1
+align 26 *DELETE* 0.999838 a 7.60768e-05 uh 4.41961e-05 it 4.1277e-05 to 2.17424e-09
+align 27 </s> 1

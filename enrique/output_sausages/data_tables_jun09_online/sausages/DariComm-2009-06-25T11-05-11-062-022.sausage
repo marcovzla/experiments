@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 i 0.710775 *DELETE* 0.289225
+align 3 understand 0.982708 i 0.0172915
+align 4 *DELETE* 0.982708 understand 0.0172915
+align 5 who 0.999956 we 4.42009e-05
+align 6 will 0.997312 we'll 0.00268805
+align 7 conduct 1
+align 8 the 1
+align 9 i 0.775875 iron 0.224125
+align 10 work 0.630794 or 0.19391 i 0.135454 *DELETE* 0.0333383 clay 0.00650257
+align 11 *DELETE* 0.864546 work 0.135454
+align 12 load 0.458783 lord 0.307466 cleared 0.181854 and 0.0264886 quart 0.0103702 record 0.00962641 it 0.00318959 court 0.00222252
+align 13 on 1
+align 14 of 0.984187 but 0.0136657 uh 0.000819176 up 0.000704556 or 0.000251791 at 0.000145135 all 0.000136724 our 4.85343e-05 that 4.14449e-05
+align 15 this 1
+align 16 area 1
+align 17 *DELETE* 0.999898 uh 9.98365e-05 is 2.26708e-06 i 1.77672e-11
+align 18 </s> 1

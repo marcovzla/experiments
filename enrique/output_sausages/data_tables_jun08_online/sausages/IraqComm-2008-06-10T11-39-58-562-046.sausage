@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 were 0.995464 where 0.00453555
+align 2 there 1
+align 3 any 1
+align 4 problems 1
+align 5 then 1
+align 6 *DELETE* 0.999897 i 0.000103273 we 8.65301e-08 than 1.55581e-13 them 3.92595e-17
+align 7 </s> 1

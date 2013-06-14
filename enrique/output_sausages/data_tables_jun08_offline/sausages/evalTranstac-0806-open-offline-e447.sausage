@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 we 0.992527 *DELETE* 0.00747326
+align 2 will 0.940168 would 0.0467029 we'll 0.0115132 go 0.00121807 wheel 0.000398051
+align 3 enter 0.614371 ensure 0.37359 and 0.0105713 into 0.00146688
+align 4 *DELETE* 0.989429 to 0.0105713
+align 5 that 1
+align 6 building 1
+align 7 and 1 in 2.42404e-07
+align 8 prepare 1
+align 9 for 0.999992 four 8.39561e-06
+align 10 the 1
+align 11 assault 0.999912 us 8.76298e-05 salt 5.66202e-12
+align 12 *DELETE* 0.999912 all 8.76298e-05
+align 13 </s> 1

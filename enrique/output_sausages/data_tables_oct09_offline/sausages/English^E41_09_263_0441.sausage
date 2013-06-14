@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 with 0.97207 *DELETE* 0.0279301
+align 2 the 0.837679 a 0.132693 within 0.0279301 it 0.0016981
+align 3 next 0.824535 neck 0.175465
+align 4 in 0.73407 so 0.175465 and 0.0690831 it 0.0213817
+align 5 when 0.99999 *DELETE* 1.03244e-05
+align 6 you're 0.99432 you 0.00526256 your 0.000417217
+align 7 going 0.540672 *DELETE* 0.459328
+align 8 to 0.540672 gonna 0.459328
+align 9 go 1
+align 10 ahead 1
+align 11 and 1
+align 12 uh 1
+align 13 do 0.953259 uh 0.0467102 i 3.03336e-05
+align 14 *DELETE* 0.953259 do 0.0467406
+align 15 the 0.949748 this 0.0502521
+align 16 same 1
+align 17 procedures 1
+align 18 that 1
+align 19 we 1
+align 20 just 0.696833 do 0.303167
+align 21 *DELETE* 0.741003 use 0.258997
+align 22 so 0.999694 this 0.000306411
+align 23 *DELETE* 0.999694 uh 0.000306411
+align 24 when 0.965307 one 0.0235089 went 0.0110304 what 0.000154128
+align 25 over 0.99949 i 0.000454559 a 5.5818e-05
+align 26 *DELETE* 0.999429 over 0.000510377 uh 2.49817e-05 a 2.32658e-05 i 1.26576e-05
+align 27 </s> 1

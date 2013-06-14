@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 that's 0.918537 yes 0.0361166 as 0.0307075 ask 0.0140634 it's 0.000575109
+align 2 because 0.820363 good 0.165574 his 0.0140634
+align 3 iraq 1
+align 4 now 1
+align 5 has 0.976213 i 0.0234254 it 0.000361799
+align 6 *DELETE* 0.976213 has 0.0237872
+align 7 lots 0.999229 laws 0.00076844 lives 2.43353e-06
+align 8 of 1 that 4.57692e-07
+align 9 people 1
+align 10 are 0.992672 or 0.00732783
+align 11 are 0.822498 *DELETE* 0.175352 our 0.00214947
+align 12 are 1.07114 uh 0.0586964 i 0.0113005 a 0.00267365
+align 13 *DELETE* 0.999935 are 6.52852e-05
+align 14 *DELETE* 0.994391 uh 0.00278613 expect 0.00156666 are 0.00121417 a 4.23057e-05
+align 15 *DELETE* 0.999971 expect 2.76228e-05 uh 1.0847e-06
+align 16 expected 0.998384 it 0.00142473 *DELETE* 0.000162016 expect 2.17862e-05 it's 7.53719e-06
+align 17 *DELETE* 0.999978 it 2.17862e-05
+align 18 to 0.997906 *DELETE* 0.00209399
+align 19 obey 0.928139 all 0.069901 till 0.00165026 it'll 0.000162016 feel 0.000147346
+align 20 *DELETE* 0.928138 day 0.0718598 they 8.23541e-07 it 7.11795e-07 i 2.74518e-07
+align 21 </s> 1

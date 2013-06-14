@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 generator 0.99927 generator's 0.000730357
+align 4 work 0.397882 working 0.391266 works 0.123669 worked 0.0740185 *DELETE* 0.00664213 where 0.00652281
+align 5 *DELETE* 0.988882 word 0.00282202 it 0.00213578 worth 0.00210978 worry 0.00113799 uh 0.0010993 i 0.000448624 in 0.00036396 were 0.000363422 at 0.00018201 we're 9.1756e-05 worker 7.34366e-05 with 4.93898e-05 you 4.71529e-05 as 3.79242e-05 a 3.54927e-05 to 2.95248e-05 worship 2.91112e-05 work's 1.40874e-05 do 1.33792e-05 and 1.25413e-05 the 7.5587e-06 is 5.04631e-06 on 3.66913e-06 but 2.30415e-06 that 9.06154e-07 workers 5.32453e-07 like 5.14978e-07 can 2.93572e-07 so 2.67568e-07 if 1.26839e-07 of 8.88536e-27
+align 6 </s> 1

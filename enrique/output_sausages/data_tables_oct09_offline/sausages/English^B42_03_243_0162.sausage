@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 in 1
+align 2 other 1
+align 3 words 1
+align 4 if 0.999995 it 5.06193e-06
+align 5 you 0.999047 we 0.000810775 he 0.000142408
+align 6 have 1
+align 7 someone 1
+align 8 that 0.99977 to 0.000201428 they 2.84483e-05
+align 9 you 1
+align 10 can't 1
+align 11 treat 1
+align 12 yours 0.597501 ears 0.149224 hers 0.116667 your 0.043096 his 0.0269872 hiriz 0.0248368 her's 0.0191554 or 0.0176914 years 0.00259536 here's 0.0022456
+align 13 *DELETE* 0.941324 is 0.058676
+align 14 very 1
+align 15 sick 1
+align 16 where 1
+align 17 do 1
+align 18 you 1
+align 19 send 0.99942 stand 0.000579704
+align 20 them 0.986401 *DELETE* 0.0109746 him 0.00262455
+align 21 in 0.88825 and 0.0853239 an 0.00626214 haven't 0.00623035 of 0.0047673 about 0.00474429 at 0.00240145 *DELETE* 0.00202034
+align 22 how 0.999913 hell 8.73399e-05
+align 23 far 1
+align 24 away 1
+align 25 is 1
+align 26 it 0.990651 that 0.0093068 this 4.23365e-05 at 1.13601e-08
+align 27 </s> 1

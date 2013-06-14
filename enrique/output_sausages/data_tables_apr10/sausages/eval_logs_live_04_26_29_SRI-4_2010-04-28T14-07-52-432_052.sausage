@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 is 0.990792 *DELETE* 0.00920831
+align 2 it 0.91196 that 0.0775544 he's 0.00920831 the 0.000755362 a 0.000521862
+align 3 correct 0.916201 *DELETE* 0.0745911 a 0.00920831
+align 4 the 0.667422 that 0.182342 correctly 0.0786431 they 0.0415343 me 0.02322 correct 0.00515625 *DELETE* 0.00168246
+align 5 *DELETE* 0.994844 the 0.00480463 they 0.000351617
+align 6 you 1
+align 7 have 0.997384 of 0.00261647
+align 8 fifteen 1
+align 9 teachers 1
+align 10 at 1
+align 11 the 1
+align 12 school 1
+align 13 *DELETE* 1 i 2.05313e-08
+align 14 </s> 1

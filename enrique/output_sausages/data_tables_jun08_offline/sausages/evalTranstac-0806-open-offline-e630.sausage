@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 there's 0.997933 there 0.00206689
+align 2 *DELETE* 0.997933 is 0.00206689
+align 3 this 1
+align 4 one 1
+align 5 by 1
+align 6 the 1
+align 7 the 0.971546 *DELETE* 0.0209692 a 0.00569965 of 0.00161658 but 0.000129175 uh 2.68812e-05 butt 1.28497e-05
+align 8 mosque 0.996304 mosques 0.00367936 mosque's 1.70025e-05
+align 9 *DELETE* 0.999919 at 6.66331e-05 it 1.03634e-05 uh 4.13304e-06
+align 10 </s> 1

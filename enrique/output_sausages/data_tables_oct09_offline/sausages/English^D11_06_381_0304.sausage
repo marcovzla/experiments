@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 no 0.924235 now 0.0740279 know 0.0017366
+align 2 just 1
+align 3 before 1
+align 4 i 1
+align 5 leave 1
+align 6 i 0.999873 they 9.4076e-05 the 1.27171e-05 a 1.07393e-05 uh 9.5298e-06 i'd 3.17192e-08
+align 7 have 1
+align 8 one 1
+align 9 more 1
+align 10 question 1
+align 11 *DELETE* 0.999553 uh 0.000393653 i 5.36057e-05 it 3.17272e-08
+align 12 </s> 1

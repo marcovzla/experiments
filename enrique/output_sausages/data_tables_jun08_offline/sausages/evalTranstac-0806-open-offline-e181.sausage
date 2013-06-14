@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999525 i 0.00047506
+align 2 did 0.999932 could 6.79271e-05
+align 3 you 1
+align 4 inform 1
+align 5 them 0.944518 that 0.050581 the 0.0046891 *DELETE* 0.000211848 masters 4.25537e-11 matches 4.75531e-14 master's 1.13016e-14
+align 6 *DELETE* 1 first 4.26125e-11
+align 7 *DELETE* 1 that 4.26125e-11
+align 8 ask 0.492239 as 0.371697 asked 0.0604443 is 0.048536 asks 0.0240942 us 0.00215151 at 0.000463785 that's 0.000211848 *DELETE* 0.000161713
+align 9 *DELETE* 0.947798 just 0.0522016
+align 10 *DELETE* 0.95537 for 0.0446301
+align 11 his 0.785516 just 0.164355 *DELETE* 0.0325055 this 0.0176241
+align 12 *DELETE* 0.895273 for 0.104727
+align 13 current 0.781655 a 0.0854051 his 0.0356953 earn 0.0308911 turn 0.0232538 *DELETE* 0.0196981 earns 0.00976702 an 0.00789606 turns 0.00338927 turned 0.00160358 us 0.000569989 in 9.22042e-05 first 6.5119e-05 four 1.69428e-05 disperse 1.22686e-06 dispersed 7.59723e-07
+align 14 *DELETE* 0.999337 that 0.000645873 in 1.69428e-05
+align 15 status 0.999354 is 0.000645873 *DELETE* 1.32052e-12
+align 16 as 0.994642 is 0.00535757
+align 17 well 1 while 1.4885e-10
+align 18 *DELETE* 0.999999 uh 6.60441e-07 um 8.66139e-08
+align 19 </s> 1

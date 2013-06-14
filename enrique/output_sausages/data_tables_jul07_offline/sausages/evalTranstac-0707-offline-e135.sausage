@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 0.736739 well 0.115064 we'll 0.0884975 *DELETE* 0.0434983 where 0.0158953 one 0.000305172
+align 2 was 0.783856 is 0.206838 as 0.00928769 it's 1.84495e-05
+align 3 *DELETE* 0.796534 the 0.203466
+align 4 less 0.789791 last 0.210209
+align 5 time 1
+align 6 this 0.604213 the 0.372487 to 0.0232999
+align 7 city's 0.749032 cities 0.24345 city 0.00751765
+align 8 *DELETE* 0.992482 is 0.00751765
+align 9 trash 1
+align 10 truck 1
+align 11 came 0.961514 can 0.0258621 king 0.0126241
+align 12 here 0.995307 hear 0.00469262 her 2.62685e-09
+align 13 *DELETE* 0.99999 i 1.04524e-05
+align 14 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 look 0.993571 looking 0.00642882
+align 2 *DELETE* 1 at 5.59887e-08
+align 3 around 1
+align 4 *DELETE* 0.999287 to 0.000340424 uh 0.000334991 the 2.82186e-05 a 7.75633e-06 you 1.1703e-06
+align 5 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 weapons 1
+align 5 are 1
+align 6 in 0.99921 on 0.0007895
+align 7 this 0.879366 his 0.120634
+align 8 house 1
+align 9 </s> 1

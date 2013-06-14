@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 take 0.999941 sake 5.87186e-05
+align 2 the 0.999961 that 3.85184e-05
+align 3 truck 0.923383 trunk 0.0720865 *DELETE* 0.00453008
+align 4 *DELETE* 0.952332 uh 0.0336995 come 0.00488291 trial 0.00453008 in 0.0026756 and 0.000977786 car 0.000522317 i 0.000339886 now 3.86229e-05 you 7.9461e-07 um 7.23645e-07 the 5.8286e-08 trucks 2.56554e-09 to 2.1219e-10 or 1.48383e-10 it 2.94194e-15 a 8.82918e-19 trunks 2.3109e-19 drop 6.87595e-31
+align 5 *DELETE* 1 i 7.58204e-11
+align 6 </s> 1

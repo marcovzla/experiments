@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 bullets 1
+align 4 how 1
+align 5 many 1
+align 6 r._p._g.s 1
+align 7 will 0.740141 well 0.224309 what 0.016531 where 0.0105753 were 0.00445934 we'll 0.00255203 while 0.00108333 way 0.000349078 with 1.46884e-07
+align 8 you 1 u 5.35203e-08
+align 9 have 1
+align 10 *DELETE* 0.999961 a 2.07923e-05 uh 1.61824e-05 to 2.33377e-06 i 1.09794e-07
+align 11 </s> 1

@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 a 1
+align 2 mobile 0.878015 double 0.121985
+align 3 and 1
+align 4 uh 1
+align 5 additionally 0.94113 uh 0.0588702
+align 6 *DELETE* 0.94113 additionally 0.0588702
+align 7 you 0.867411 it 0.103656 if 0.0251732 *DELETE* 0.00375994
+align 8 could 1
+align 9 uh 1
+align 10 pose 1
+align 11 very 0.893411 a 0.101786 vary 0.00480317
+align 12 *DELETE* 0.898214 very 0.101786
+align 13 hazardous 1
+align 14 conditions 1
+align 15 or 1
+align 16 even 1
+align 17 death 1
+align 18 if 0.974147 *DELETE* 0.0230913 of 0.00276176
+align 19 they 1
+align 20 miss 0.983862 missed 0.016138
+align 21 handle 0.975931 and 0.0240691
+align 22 *DELETE* 0.976426 all 0.0235736
+align 23 the 0.999633 a 0.000367177
+align 24 weapons 0.811725 weapon 0.183177 weapon's 0.00466956 weapons' 0.000428584
+align 25 *DELETE* 0.999968 so 2.82245e-05 uh 2.59217e-06 is 1.01482e-06 i 3.34421e-08
+align 26 </s> 1

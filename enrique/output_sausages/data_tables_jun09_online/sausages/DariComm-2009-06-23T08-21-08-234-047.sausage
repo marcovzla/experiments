@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 also 1
+align 4 going 1
+align 5 to 1
+align 6 home 0.991208 hell 0.00879173
+align 7 and 0.989845 men 0.00545125 *DELETE* 0.00470378
+align 8 *DELETE* 0.953817 uh 0.0271758 i 0.011131 meant 0.00255746 in 0.00143599 you 0.00128954 mend 0.000770746 a 0.000567131 the 0.00038651 it 0.000182229 to 0.000161664 we 0.000145079 i'm 0.000108362 if 0.000107142 do 6.7268e-05 um 5.18679e-05 two 1.54408e-05 mint 1.22796e-05 and 9.78102e-06 that 5.23205e-06 with 1.75446e-06 they 5.21314e-07 be 2.96612e-08 let 9.81229e-10 on 6.26829e-10 an 2.80246e-14
+align 9 </s> 1

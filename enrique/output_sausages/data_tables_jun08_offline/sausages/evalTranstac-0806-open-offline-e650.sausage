@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 1
+align 3 once 1
+align 4 they 0.899391 you 0.0958783 take 0.00473024
+align 5 get 0.99527 it 0.00473024
+align 6 back 1
+align 7 to 1
+align 8 this 0.521713 the 0.478287
+align 9 station 1
+align 10 um 0.999461 *DELETE* 0.000473035 uh 6.59498e-05
+align 11 an 0.850629 and 0.121491 in 0.0278325 end 4.78176e-05
+align 12 interrogator 1
+align 13 must 1
+align 14 be 1
+align 15 there 0.893417 their 0.106583
+align 16 uh 0.600017 um 0.399983
+align 17 from 1
+align 18 your 1
+align 19 iraqi 1
+align 20 police 1
+align 21 force 0.999512 forces 0.000443319 worse 4.47793e-05 or 5.43651e-08
+align 22 *DELETE* 1 is 1.24175e-07 so 5.43651e-08
+align 23 </s> 1

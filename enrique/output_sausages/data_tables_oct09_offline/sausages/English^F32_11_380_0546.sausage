@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 are 0.999978 uh 2.21648e-05
+align 2 you 1
+align 3 *DELETE* 0.632506 going 0.367494
+align 4 gonna 0.632506 to 0.367494
+align 5 put 1
+align 6 them 0.998562 him 0.00143816
+align 7 off 0.99924 up 0.000410944 all 0.000348846
+align 8 to 1
+align 9 the 1
+align 10 side 1
+align 11 a 0.995297 *DELETE* 0.00470257
+align 12 uh 1
+align 13 away 0.919142 and 0.0770334 a 0.0038245
+align 14 *DELETE* 0.919142 away 0.0807319 way 0.000125938
+align 15 from 1
+align 16 the 1
+align 17 vehicle 1
+align 18 and 1
+align 19 you 1
+align 20 can 0.760912 in 0.172807 and 0.061508 gonna 0.00477352
+align 21 have 1
+align 22 their 0.898244 they're 0.0612203 there 0.040536
+align 23 back 1
+align 24 towards 1
+align 25 a 0.608999 the 0.38525 our 0.00407154 of 0.00135042 it 0.000156011 that 0.000134799 *DELETE* 2.57414e-05 uh 1.25132e-05
+align 26 vehicle 0.999901 vehicles 9.94901e-05
+align 27 *DELETE* 0.999678 uh 0.000253166 up 2.94531e-05 to 1.06564e-05 of 8.29641e-06 it 7.23278e-06 a 4.42117e-06 if 3.31234e-06 the 2.1807e-06 i 1.77023e-06 at 1.38774e-06 in 6.14743e-08
+align 28 </s> 1

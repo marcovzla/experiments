@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 is 0.959269 does 0.0407314
+align 3 that 0.998695 the 0.00130528
+align 4 building 0.999608 buildings 0.000391519
+align 5 </s> 1

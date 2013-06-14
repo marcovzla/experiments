@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 we're 1
+align 2 doing 1
+align 3 our 0.663287 the 0.336713
+align 4 best 1
+align 5 to 0.966317 a 0.0213473 the 0.00619181 *DELETE* 0.00604758 as 6.86155e-05 of 2.78772e-05
+align 6 stay 0.999969 say 3.11188e-05
+align 7 out 1
+align 8 of 1
+align 9 the 1
+align 10 view 1
+align 11 so 1
+align 12 your 0.982624 you're 0.0160663 you 0.00130995
+align 13 neighbors 0.985177 neighbor's 0.00855899 neighbors' 0.00626351
+align 14 don't 1
+align 15 know 0.999862 no 0.000137779
+align 16 that 0.998908 they 0.00109237
+align 17 we're 0.986623 were 0.0083916 work 0.00498558
+align 18 here 1
+align 19 *DELETE* 0.999998 uh 1.833e-06 i 1.01161e-10
+align 20 </s> 1

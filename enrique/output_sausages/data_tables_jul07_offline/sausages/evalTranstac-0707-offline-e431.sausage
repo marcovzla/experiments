@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 1
+align 3 you 1
+align 4 doing 1
+align 5 sir 1
+align 6 *DELETE* 0.802765 uh 0.197189 um 4.60748e-05 serve 1.53385e-21
+align 7 </s> 1

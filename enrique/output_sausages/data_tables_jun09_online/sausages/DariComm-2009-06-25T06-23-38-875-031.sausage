@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 there 1
+align 3 been 1
+align 4 any 1
+align 5 threats 1
+align 6 against 1
+align 7 your 1
+align 8 village 1
+align 9 or 0.986275 where 0.00749799 with 0.00402021 all 0.00220715
+align 10 the 0.982007 that 0.0167781 of 0.00109156 or 0.00012145 *DELETE* 7.39356e-08
+align 11 *DELETE* 0.998785 the 0.00121301 they 1.89891e-06 it 1.32278e-09
+align 12 school 0.997178 *DELETE* 0.00282205
+align 13 *DELETE* 0.969326 in 0.00893665 or 0.00612103 of 0.00539961 screw 0.00239753 uh 0.00179866 oh 0.0015717 up 0.00134718 um 0.00107194 at 0.000846895 on 0.000624828 schooling 0.000359691 i 0.000103528 schools 6.00065e-05 now 1.23935e-05 all 6.09023e-06 is 5.99844e-06 square 4.82875e-06 no 2.5721e-06 and 9.57672e-07 well 8.8575e-07 then 5.48474e-07 i'll 3.60031e-07 how 2.01482e-08 it 2.46372e-09 will 1.38694e-09 a 7.63875e-12 score 1.40482e-18 that 3.38563e-19
+align 14 </s> 1

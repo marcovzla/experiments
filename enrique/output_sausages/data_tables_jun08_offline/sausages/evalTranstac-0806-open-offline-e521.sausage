@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 and 0.712603 it 0.287181 it's 0.000216207
+align 2 also 0.999197 uh 0.00080265
+align 3 *DELETE* 0.999197 also 0.00080265
+align 4 to 1
+align 5 prevent 1
+align 6 anything 0.87248 any 0.12752
+align 7 *DELETE* 0.832405 think 0.078598 thing 0.0468116 any 0.0400749 pain 0.00166169 team 0.000448561
+align 8 anybody 0.959925 by 0.0400749
+align 9 can 0.69691 from 0.285391 *DELETE* 0.0176986
+align 10 go 0.709175 going 0.290825
+align 11 in 0.820199 on 0.142984 *DELETE* 0.0368171
+align 12 and 0.745992 *DELETE* 0.254008
+align 13 from 1
+align 14 the 1
+align 15 center 1
+align 16 of 1
+align 17 the 0.999815 that 0.000184938
+align 18 road 0.999959 roads 4.06053e-05 rode 5.42664e-07
+align 19 *DELETE* 0.999968 uh 3.12474e-05 now 1.11011e-06 i 6.30704e-10
+align 20 </s> 1

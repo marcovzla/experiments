@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 almost 0.993141 well 0.00380743 oh 0.00302129 *DELETE* 3.06388e-05
+align 2 *DELETE* 0.993141 most 0.00685935
+align 3 effort 0.544521 definitely 0.263365 every 0.192114
+align 4 so 0.998907 sell 0.00102946 cell 6.3211e-05 saw 5.06928e-11
+align 5 i 0.995482 *DELETE* 0.00451769
+align 6 i 0.998813 at 0.0011873
+align 7 *DELETE* 0.999735 i 0.000264913
+align 8 i 0.999576 that 0.000424264
+align 9 think 1
+align 10 we 1
+align 11 need 1
+align 12 to 1
+align 13 come 1
+align 14 up 1
+align 15 with 1
+align 16 a 0.978187 the 0.0218126
+align 17 great 1
+align 18 plan 1
+align 19 to 1 do 4.33717e-09
+align 20 *DELETE* 0.999981 you 1.89111e-05
+align 21 recruit 1
+align 22 more 1
+align 23 police 1
+align 24 officers 1
+align 25 more 0.823606 for 0.176394
+align 26 on 0.944001 *DELETE* 0.0559995
+align 27 as 0.636593 the 0.192116 this 0.0878341 honest 0.0551064 us 0.0266842 arms 0.000893104 *DELETE* 0.000754819 his 1.89713e-05 office 1.50797e-14
+align 28 police 1
+align 29 officers 0.731488 officer 0.237423 office 0.0310882 offices 3.61088e-07
+align 30 </s> 1

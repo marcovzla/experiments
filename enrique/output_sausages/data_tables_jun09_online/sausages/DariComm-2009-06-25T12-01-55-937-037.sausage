@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 information 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 for 0.998762 from 0.00123805
+align 7 me 0.999931 *DELETE* 6.88796e-05
+align 8 *DELETE* 0.999604 uh 0.000251071 you 6.88796e-05 at 3.9195e-05 to 2.50221e-05 that 1.16039e-05 sir 6.35167e-07 i 1.62594e-10 in 3.01844e-12 and 1.11602e-12 so 4.87802e-13 it 2.47831e-13
+align 9 </s> 1

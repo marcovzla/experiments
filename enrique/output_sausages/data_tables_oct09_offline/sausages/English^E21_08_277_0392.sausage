@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 yeah 0.996661 *DELETE* 0.00261413 uh 0.000724992
+align 3 and 1
+align 4 and 0.848743 then 0.135068 in 0.0159104 *DELETE* 0.000278488
+align 5 the 0.940592 uh 0.0594077
+align 6 *DELETE* 0.999722 and 0.000278488
+align 7 *DELETE* 0.999722 uh 0.000278488
+align 8 other 0.976686 uh 0.0233139
+align 9 *DELETE* 0.976686 other 0.0233139
+align 10 two 0.997296 to 0.00270384
+align 11 teams 0.998244 team's 0.00112966 team 0.000626011
+align 12 you 0.999959 you'll 2.71533e-05 do 1.4225e-05
+align 13 *DELETE* 0.999996 were 3.95742e-06
+align 14 have 1
+align 15 you 1
+align 16 have 0.999457 *DELETE* 0.00054317
+align 17 on 0.812079 in 0.18613 *DELETE* 0.00123465 haven't 0.00054317 a 7.14728e-06 and 5.65358e-06
+align 18 the 0.998758 *DELETE* 0.00123465 new 7.14728e-06 a 3.47219e-07
+align 19 ground 0.998745 underground 0.00123465 grounds 2.01305e-05
+align 20 *DELETE* 0.999826 uh 0.000173062 i 5.24011e-07
+align 21 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 the 1
+align 3 insurgents 0.9804 insurgent 0.0196002
+align 4 should 0.998704 shed 0.00129608
+align 5 try 1
+align 6 to 1
+align 7 escape 1
+align 8 uh 1
+align 9 should 1
+align 10 be 1
+align 11 have 1
+align 12 a 1
+align 13 small 1
+align 14 force 1
+align 15 out 0.998744 ask 0.00087026 at 0.000385996
+align 16 here 1
+align 17 in 1
+align 18 the 0.981386 a 0.0186141
+align 19 palms 0.946777 pumps 0.0532232
+align 20 </s> 1

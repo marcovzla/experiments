@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 has 0.782476 as 0.217524
+align 2 a 0.825603 the 0.0953999 it 0.0673431 *DELETE* 0.00750138 of 0.00415248
+align 3 village 0.921003 is 0.0440021 was 0.023341 observes 0.00750138 this 0.00215169 those 0.00200079
+align 4 done 0.971256 down 0.0282469 dan 0.00049751
+align 5 anything 1
+align 6 to 1
+align 7 protect 1
+align 8 the 0.996363 this 0.00184738 a 0.00173523 to 5.47919e-05 of 2.40701e-11
+align 9 school 1 *DELETE* 2.30738e-13
+align 10 *DELETE* 0.999556 at 0.000234682 in 8.89296e-05 oh 7.32157e-05 uh 3.17551e-05 i 1.07289e-05 is 4.17569e-06 schools 7.54957e-08 or 5.88759e-09
+align 11 </s> 1

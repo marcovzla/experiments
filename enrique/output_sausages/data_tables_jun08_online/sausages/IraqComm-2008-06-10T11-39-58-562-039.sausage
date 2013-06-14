@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 lives 1
+align 3 with 1
+align 4 your 0.998814 you 0.00118615
+align 5 father 0.999994 a 5.59798e-06
+align 6 *DELETE* 0.999224 uh 0.000770166 father 5.59798e-06
+align 7 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 we 0.903222 what 0.0867964 would 0.00993206 with 3.45682e-05 we'll 1.47315e-05
+align 3 we 1
+align 4 have 1
+align 5 that 0.744087 back 0.144205 but 0.111572 neck 8.92703e-05 it 3.73001e-05 *DELETE* 9.02132e-06
+align 6 the 0.640387 that 0.181459 a 0.0936827 uh 0.0381016 at 0.0176224 their 0.00980804 to 0.00623624 *DELETE* 0.00461554 they're 0.00218244 guy 0.00181385 i 0.00144898 they 0.000841731 have 0.000830971 there 0.00046963 now 0.000270969 up 0.000153417 are 6.58253e-05 backup 9.02132e-06 can 6.02317e-07
+align 7 *DELETE* 0.999999 can 5.03164e-07 that 3.49299e-07
+align 8 position 0.993937 positioned 0.00381939 opposition 0.00224363
+align 9 covered 0.95992 cover 0.0363487 covers 0.00373156
+align 10 *DELETE* 0.999963 it 3.7492e-05
+align 11 </s> 1

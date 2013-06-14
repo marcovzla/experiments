@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 would 1
+align 3 it 1
+align 4 be 1
+align 5 okay 1
+align 6 if 1
+align 7 we 0.994905 you 0.00496604 i 0.000128663
+align 8 come 1
+align 9 in 1
+align 10 and 1
+align 11 get 1
+align 12 off 0.914631 up 0.0427793 *DELETE* 0.0248795 out 0.0177103
+align 13 the 0.925941 *DELETE* 0.0490654 uh 0.0213975 a 0.00184847 our 0.00136207 all 0.00024106 to 0.000114439 i'll 2.83635e-05 i 2.09314e-06
+align 14 *DELETE* 0.999992 a 8.20024e-06
+align 15 streets 0.898671 street 0.101149 street's 0.000133545 straight 4.68444e-05
+align 16 </s> 1

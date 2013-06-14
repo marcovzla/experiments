@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 the 0.999514 a 0.000485521
+align 4 local 0.999987 locals 1.26647e-05
+align 5 doctor 0.995721 of 0.00395769 *DELETE* 0.000321262
+align 6 *DELETE* 0.995721 doctor 0.00395769 doctors 0.000321262 i 1.00504e-07 or 5.28718e-08 is 1.80659e-10 too 1.22721e-10 go 5.07339e-11 can 1.37505e-12 uh 4.96771e-15 it 3.78012e-19 um 3.75597e-19
+align 7 </s> 1

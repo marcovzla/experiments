@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 anything 1
+align 4 else 1
+align 5 you 0.82324 he 0.17426 i 0.00191139 we 0.000587998
+align 6 need 0.821971 needs 0.178029
+align 7 for 0.992017 to 0.00593614 you 0.00185977 *DELETE* 0.000186796
+align 8 *DELETE* 0.992017 for 0.00779565 four 0.000187054
+align 9 treatment 0.999998 *DELETE* 1.26018e-13
+align 10 *DELETE* 0.999972 and 1.66678e-05 i 9.43844e-06 treatments 2.26552e-06 uh 6.64224e-08 um 1.25013e-09 in 2.55129e-11 now 1.01597e-12 you 2.31549e-17 if 1.00798e-18 it 6.91709e-20
+align 11 </s> 1

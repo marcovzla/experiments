@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.973605 i 0.0263952
+align 3 will 1
+align 4 uh 1
+align 5 *DELETE* 0.998552 uh 0.00144794
+align 6 talk 0.99957 talked 0.000429508
+align 7 to 0.999768 *DELETE* 0.000231772
+align 8 our 0.857757 or 0.135801 are 0.00644191
+align 9 *DELETE* 0.879194 a 0.120718 of 8.74442e-05
+align 10 medical 1
+align 11 professionals 1
+align 12 and 1
+align 13 determine 0.971086 determined 0.0289141
+align 14 if 1
+align 15 we 1
+align 16 have 1
+align 17 *DELETE* 0.998017 a 0.0019828
+align 18 equipment 1
+align 19 and 1
+align 20 supplies 1
+align 21 that 1
+align 22 we 1
+align 23 can 1
+align 24 give 1
+align 25 to 0.999999 two 9.86604e-07
+align 26 you 1
+align 27 *DELETE* 0.999997 you 2.93572e-06
+align 28 </s> 1

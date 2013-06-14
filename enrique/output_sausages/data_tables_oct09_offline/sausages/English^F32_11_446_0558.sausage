@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 okay 0.999009 oh 0.000990801
+align 2 *DELETE* 0.999009 okay 0.000990801
+align 3 and 1
+align 4 then 0.810895 and 0.189105
+align 5 uh 1
+align 6 uh 0.518515 *DELETE* 0.354736 all 0.126748
+align 7 all 0.873252 *DELETE* 0.126748
+align 8 the 1
+align 9 information 1
+align 10 we 1
+align 11 get 1
+align 12 will 0.961154 we'll 0.0204047 wool 0.0184415
+align 13 end 1
+align 14 up 1
+align 15 as 0.997696 has 0.00198128 pass 0.000322566
+align 16 or 0.407041 in 0.245788 are 0.201301 it 0.14587
+align 17 *DELETE* 0.895902 it 0.104098
+align 18 from 1
+align 19 you 1
+align 20 have 1
+align 21 to 1
+align 22 say 0.998166 see 0.00183446
+align 23 irrigation 1
+align 24 *DELETE* 0.999982 i 9.02291e-06 uh 8.75866e-06 it 7.14307e-08 do 1.12516e-08
+align 25 </s> 1

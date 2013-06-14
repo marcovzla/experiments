@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 work 1
+align 5 do 0.999917 *DELETE* 5.83169e-05 are 2.50431e-05
+align 6 you 1
+align 7 do 0.999996 *DELETE* 3.52321e-06
+align 8 *DELETE* 0.998153 it 0.0012869 uh 0.00031933 that 0.000128008 i 4.85649e-05 you 3.54706e-05 to 1.58362e-05 in 8.91403e-06 a 2.34554e-06 so 2.11957e-06 if 9.77894e-09 do 2.21773e-09 with 1.18657e-12
+align 9 *DELETE* 0.999996 do 3.52321e-06
+align 10 </s> 1

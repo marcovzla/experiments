@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 kids 1
+align 4 with 0.86101 would 0.13899
+align 5 each 0.990234 the 0.00969845 teach 6.77539e-05
+align 6 *DELETE* 0.990302 each 0.00969845
+align 7 ward 0.950231 war 0.0308558 well 0.0110959 *DELETE* 0.00745219 one 0.000364899
+align 8 *DELETE* 0.98344 i 0.00418446 i've 0.00379301 is 0.00242563 wise 0.00149241 why 0.00145427 wives 0.00135232 wide 0.00118144 i'd 0.000676619
+align 9 *DELETE* 0.997036 one 0.000921194 i 0.000759894 water 0.000613597 are 0.000153341 wife 0.000148088 if 9.21254e-05 wire 8.48934e-05 wives' 6.21389e-05 wahid 3.51035e-05 uh 3.49178e-05 watch 2.22101e-05 waheed 2.03091e-05 wanted 1.62075e-05
+align 10 *DELETE* 0.999918 it 1.50059e-05 y 1.17682e-05 why's 1.066e-05 of 8.22394e-06 wires 6.78452e-06 walk 5.743e-06 i 5.44244e-06 wine 4.38397e-06 why'd 4.24049e-06 white 3.28294e-06 have 3.24998e-06 i'm 2.33787e-06 wind 8.72239e-07 wife's 1.83598e-07 i've 1.335e-07 wider 8.93939e-08 a 1.51048e-12 wants 1.05892e-15 wired 5.27433e-18 is 4.02597e-19 in 3.12389e-21 waris 8.50677e-23 and 4.71191e-23
+align 11 </s> 1

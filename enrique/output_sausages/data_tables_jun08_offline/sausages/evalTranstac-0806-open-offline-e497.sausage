@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 rounds 1
+align 4 will 0.960031 we'll 0.0322749 well 0.0073376 willy 0.000356794
+align 5 each 1
+align 6 man 0.533889 manned 0.244838 men 0.156396 *DELETE* 0.0398526 mend 0.0186007 meant 0.0064234
+align 7 be 0.954828 mandy 0.0137307 mandie 0.0137304 mandi 0.0123914 b 0.004367 *DELETE* 0.000580019 do 0.000372133
+align 8 *DELETE* 0.999048 you 0.000372133 the 0.000346619 d 0.0002334
+align 9 carrying 1
+align 10 from 1
+align 11 your 0.999869 you're 0.000130294 year 1.06522e-06
+align 12 team 0.999792 teen 0.00020782
+align 13 </s> 1

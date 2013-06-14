@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 why 0.999221 well 0.000777028 what 1.59737e-06
+align 2 *DELETE* 0.999223 i 0.000776963
+align 3 did 1
+align 4 you 1
+align 5 lie 0.971638 lied 0.0282718 like 9.04667e-05
+align 6 to 1
+align 7 me 1
+align 8 *DELETE* 0.999966 uh 3.30656e-05 i 7.09239e-07
+align 9 </s> 1

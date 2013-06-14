@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 as 1
+align 2 we 1
+align 3 going 1
+align 4 on 1
+align 5 these 1
+align 6 patrols 1
+align 7 and 0.990858 in 0.0091423
+align 8 your 0.943907 you're 0.0560927
+align 9 meeting 1
+align 10 uh 1
+align 11 the 0.995057 this 0.00284691 they 0.00205877 that 3.72185e-05
+align 12 shopkeepers 1
+align 13 and 0.834292 in 0.165708
+align 14 stop 0.88417 stopped 0.0885413 stops 0.0272887
+align 15 it's 0.973213 that's 0.0147262 this 0.0120609
+align 16 important 1
+align 17 at 0.996041 *DELETE* 0.00323534 i 0.000536446 that 0.000187031
+align 18 *DELETE* 0.999464 have 0.000536446
+align 19 a 0.996513 every 0.00323534 we 0.000187031 the 6.48084e-05
+align 20 good 1
+align 21 working 0.99283 work 0.00716965
+align 22 *DELETE* 0.99283 in 0.00716965
+align 23 relationship 1
+align 24 with 1
+align 25 them 1
+align 26 </s> 1

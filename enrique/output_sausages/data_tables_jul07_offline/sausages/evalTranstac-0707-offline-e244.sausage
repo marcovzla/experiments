@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 your 0.727999 you 0.234917 you're 0.0370843
+align 2 brother 1
+align 3 if 1
+align 4 your 0.985338 you're 0.0146622
+align 5 brother 1
+align 6 is 1
+align 7 the 0.832158 a 0.167842
+align 8 rifle 1
+align 9 owner 1
+align 10 you'll 0.961019 he 0.0278279 he'll 0.00920923 you 0.00129021 she'll 0.000496066 she 0.000157156
+align 11 *DELETE* 0.970725 will 0.0292752
+align 12 be 1
+align 13 able 1
+align 14 to 1
+align 15 recover 1
+align 16 his 1
+align 17 rifle 1
+align 18 for 0.53628 through 0.462834 four 0.00088613
+align 19 the 0.997371 this 0.00262883
+align 20 cmoc 1
+align 21 *DELETE* 0.999986 uh 1.38026e-05
+align 22 </s> 1

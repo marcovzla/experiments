@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 a 1
+align 3 great 1
+align 4 day 1
+align 5 *DELETE* 0.999979 uh 2.06007e-05 and 1.22595e-09
+align 6 </s> 1

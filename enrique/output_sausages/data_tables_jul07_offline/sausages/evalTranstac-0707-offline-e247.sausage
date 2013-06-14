@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.994698 uh 0.00530175
+align 3 that 1
+align 4 is 0.994953 if 0.00403132 it's 0.00101582
+align 5 the 0.998984 a 0.00101582
+align 6 law 1
+align 7 of 1
+align 8 your 0.990092 the 0.00666268 their 0.00254682 you're 0.000698414
+align 9 government 1
+align 10 that 0.4181 the 0.304871 they 0.277028 to 1.22873e-06
+align 11 doing 0.570374 he'll 0.194429 he 0.135634 you 0.0430225 heal 0.0331783 do 0.0115265 you'll 0.00704854 heel 0.00478819
+align 12 *DELETE* 0.945451 know 0.0462843 go 0.00813529 doing 0.000116836 kill 1.26668e-05
+align 13 *DELETE* 0.531311 it 0.333056 only 0.135634
+align 14 *DELETE* 0.648796 you 0.344322 a 0.00688231
+align 15 you're 0.655678 are 0.344322
+align 16 only 1
+align 17 allowed 1
+align 18 one 1
+align 19 weapon 1
+align 20 in 1
+align 21 your 1
+align 22 house 1
+align 23 at 0.662057 *DELETE* 0.337849 as 8.63066e-05 to 6.93578e-06
+align 24 a 0.6789 that 0.303169 of 0.0123194 or 0.00272458 the 0.00260005 are 0.000188467 it 5.81669e-05 *DELETE* 3.38718e-05 and 5.18382e-06 to 8.28242e-07 other 1.05335e-09
+align 25 time 0.999993 times 6.92101e-06
+align 26 </s> 1

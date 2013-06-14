@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 1
+align 7 *DELETE* 0.922785 the 0.0772125 a 2.3961e-06
+align 8 terrorists 0.999961 terrorists' 3.85667e-05 terrorist's 2.26195e-14
+align 9 </s> 1

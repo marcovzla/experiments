@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 *DELETE* 0.999188 uh 0.000782336 i 2.71131e-05 sir 2.79697e-06 um 3.8677e-10
+align 4 </s> 1

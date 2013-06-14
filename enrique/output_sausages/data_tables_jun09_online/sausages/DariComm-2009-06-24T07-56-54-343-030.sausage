@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 any 1
+align 4 problems 1
+align 5 with 1
+align 6 the 0.999931 a 6.88967e-05
+align 7 neighborhood 0.999998 *DELETE* 5.20422e-14
+align 8 *DELETE* 0.997767 uh 0.0021814 is 3.75288e-05 that 4.9497e-06 i 3.57331e-06 neighborhoods 2.38439e-06 you 1.54475e-06 as 1.50498e-06 um 3.06326e-07 in 9.83258e-08 but 3.74772e-08 the 1.8112e-08 neighborhood's 1.45e-08 it 2.64403e-09 would 1.61219e-09 so 2.35191e-10 do 2.20674e-10
+align 9 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 medicine 1
+align 5 *DELETE* 0.544434 did 0.335671 do 0.0640946 that 0.0545681 it 0.00123154
+align 6 to 0.547942 they 0.285772 you 0.156366 he 0.00712011 *DELETE* 0.00280007
+align 7 give 0.955807 gave 0.0232554 get 0.0209379
+align 8 him 1 them 3.35518e-08
+align 9 *DELETE* 0.959587 and 0.037864 in 0.00165564 uh 0.000464551 a 0.000250381 the 7.06045e-05 do 4.99366e-05 i 2.5956e-05 to 1.6398e-05 he 6.19867e-06 die 5.28593e-06 yeah 1.83183e-06 no 1.64129e-06 an 4.96975e-07 due 1.92604e-07 day 3.70478e-08 good 1.24688e-08 get 3.68314e-09 into 3.16835e-09
+align 10 </s> 1

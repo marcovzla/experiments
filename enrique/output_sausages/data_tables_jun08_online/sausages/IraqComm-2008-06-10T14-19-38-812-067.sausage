@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 topics 1
+align 3 do 1
+align 4 you 1
+align 5 speak 1
+align 6 about 1
+align 7 with 1
+align 8 the 0.999981 a 1.70335e-05 *DELETE* 2.59853e-12 this 1.18629e-14
+align 9 sheikh's 0.998853 sheikhs 0.000745863 shakes 0.00040065
+align 10 *DELETE* 0.999515 uh 0.000484683 a 2.51973e-07 of 2.09062e-07 i 1.12498e-07 in 7.53248e-11 is 9.14704e-12 do 5.55501e-12 and 1.63413e-12
+align 11 </s> 1

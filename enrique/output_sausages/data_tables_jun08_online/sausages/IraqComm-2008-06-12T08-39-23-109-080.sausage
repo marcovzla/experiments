@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 yeah 0.476925 that's 0.434753 oh 0.0675597 *DELETE* 0.0207621
+align 2 the 0.85846 so 0.0793752 a 0.0396908 hostile 0.0207621 *DELETE* 0.000900468 that 0.000811498
+align 3 factory 1
+align 4 located 0.999651 you 0.000347747 you're 7.55381e-07 your 1.02445e-11
+align 5 *DELETE* 0.956432 in 0.0423766 at 0.00035846 located 0.000348503 uh 0.000220284 here 0.000126078 on 0.000109501 him 2.8269e-05 and 1.07529e-07 two 4.50135e-08 too 4.49801e-08 you 4.6482e-09 it 3.19536e-18 to 1.12438e-21
+align 6 </s> 1

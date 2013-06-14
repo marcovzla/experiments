@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 0.979458 oh 0.020542
+align 2 *DELETE* 0.979458 okay 0.020542
+align 3 that's 1
+align 4 excellent 1
+align 5 information 1
+align 6 *DELETE* 0.999125 uh 0.000734546 i 0.000137951 in 2.36613e-06 and 2.64548e-08 to 9.45358e-11
+align 7 </s> 1

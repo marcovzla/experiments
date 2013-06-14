@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 they 1
+align 3 have 0.984297 had 0.015703
+align 4 determined 1
+align 5 is 1
+align 6 that 1
+align 7 when 1
+align 8 *DELETE* 0.847268 the 0.152732
+align 9 employees 0.920693 employees' 0.0431978 employee's 0.0361095
+align 10 go 0.999986 goal 1.35764e-05
+align 11 home 0.999989 all 1.07947e-05
+align 12 *DELETE* 0.999989 home 1.07947e-05 i 2.73955e-12
+align 13 </s> 1

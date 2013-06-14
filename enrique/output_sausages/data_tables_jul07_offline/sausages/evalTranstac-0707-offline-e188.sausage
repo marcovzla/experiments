@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 them 0.682048 i'm 0.271139 him 0.0345652 in 0.00901097 um 0.0014033 a 0.00105458 room 0.000779132
+align 4 here 0.998866 mere 0.000614249 mayor 0.000440336 *DELETE* 7.95323e-05
+align 5 in 0.99966 on 0.000260682 hearing 7.95323e-05 and 1.6086e-07
+align 6 the 0.999978 a 2.24226e-05
+align 7 prison 0.986326 present 0.0136075 presence 3.41516e-05 prisons 2.4843e-05 prisoner 6.24961e-06 president 1.36517e-06
+align 8 *DELETE* 0.999988 i 1.07043e-05 is 8.79126e-07
+align 9 </s> 1

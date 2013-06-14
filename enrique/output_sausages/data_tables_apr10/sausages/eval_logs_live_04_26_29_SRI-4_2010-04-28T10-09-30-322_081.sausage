@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999691 i 0.000308994
+align 2 do 0.999942 did 5.8276e-05
+align 3 they 1
+align 4 have 1
+align 5 enough 1
+align 6 weapons 1
+align 7 and 0.992235 in 0.00776525
+align 8 equipment 1
+align 9 *DELETE* 0.999998 uh 2.44757e-06
+align 10 </s> 1

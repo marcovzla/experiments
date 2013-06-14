@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 soldiers 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 to 0.999278 the 0.000722002
+align 8 handle 1
+align 9 the 0.993957 that 0.00604277
+align 10 detainees 0.999916 uh 8.37908e-05
+align 11 *DELETE* 0.999882 detainees 8.37908e-05 uh 2.62827e-05 i 6.26664e-06 if 5.8221e-07 a 4.50092e-07 in 1.523e-07 to 6.50235e-08
+align 12 </s> 1

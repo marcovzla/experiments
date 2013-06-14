@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 which 1
+align 2 building 1
+align 3 is 0.905301 as 0.0946987
+align 4 the 1
+align 5 next 1
+align 6 high 0.432615 higher 0.264729 *DELETE* 0.179994 is 0.122662
+align 7 as 0.374138 us 0.20368 heights 0.15729 *DELETE* 0.122662 it's 0.119527 ties 0.0227042
+align 8 priority 0.999496 priorities 0.000503598
+align 9 *DELETE* 1 i 5.71802e-12 to 4.28756e-14
+align 10 </s> 1

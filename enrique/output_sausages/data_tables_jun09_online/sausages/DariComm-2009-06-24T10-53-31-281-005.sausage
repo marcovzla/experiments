@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 patients 1
+align 4 do 1
+align 5 you 1
+align 6 see 1
+align 7 daily 1 day 3.61914e-09
+align 8 *DELETE* 0.999578 it 0.000231924 i 8.19947e-05 at 4.20411e-05 to 2.01889e-05 uh 1.40892e-05 in 1.27921e-05 you 6.05365e-06 and 5.684e-06 the 5.38742e-06 if 1.02442e-06 a 3.12966e-07 so 1.91929e-07 but 1.04376e-07 lee 3.61914e-09 that 6.44922e-10 do 2.06812e-11 is 1.82773e-11
+align 9 </s> 1

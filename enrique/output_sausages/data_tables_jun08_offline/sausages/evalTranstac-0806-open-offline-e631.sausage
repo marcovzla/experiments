@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 one 1
+align 3 is 0.798288 this 0.136635 it's 0.0498751 its 0.0133702 as 0.00121051 his 0.000307078 has 0.000283926 that's 3.07108e-05
+align 4 by 0.990089 buy 0.00991125
+align 5 the 1
+align 6 market 0.999256 mark 0.000669216 markets 7.52382e-05 market's 3.01011e-08
+align 7 *DELETE* 0.999241 it 0.000657106 uh 8.63969e-05 at 1.21096e-05 i 3.09557e-06
+align 8 </s> 1

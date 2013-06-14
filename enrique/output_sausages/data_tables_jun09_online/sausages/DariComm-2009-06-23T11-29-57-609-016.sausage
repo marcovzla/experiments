@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 soldiers 1
+align 4 can 1
+align 5 you 1
+align 6 help 1
+align 7 provide 1
+align 8 for 0.990712 four 0.00928774
+align 9 the 1
+align 10 rate 0.869613 ray 0.0383061 raids 0.0251292 rape 0.019816 right 0.0116391 rey 0.00913541 rain 0.00770203 raye 0.00482902 re 0.00402939 ready 0.00374945 rail 0.0030377 *DELETE* 0.00171584 rates 0.00129782
+align 11 *DELETE* 0.996859 it 0.00115873 rae 0.000301265 red 0.000278283 ridge 0.000273341 raided 0.000182989 rea 0.000160822 raped 0.000144861 raise 0.000131101 reda 0.000126537 is 0.000111053 raised 8.92708e-05 in 6.66957e-05 i 5.1421e-05 and 1.69953e-05 raiding 1.0987e-05 range 1.04349e-05 at 6.61083e-06 of 6.02995e-06 rating 5.87576e-06 that 3.00554e-06 to 1.95322e-06 uh 1.21659e-06 do 1.00364e-06 the 2.94904e-07 you 9.64766e-08 raven 6.05412e-08 rich 8.50102e-09 a 6.34065e-10 race 5.64699e-10 if 9.24046e-13 really 6.07401e-14 raybi 3.20503e-17 raheeb 2.67893e-20
+align 12 </s> 1

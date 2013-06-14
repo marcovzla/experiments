@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 call 0.515911 called 0.484089
+align 3 dehydration 1 *DELETE* 7.62965e-11
+align 4 *DELETE* 0.998822 the 0.000709079 now 0.000201067 they 0.000124969 though 0.000117034 it 1.0227e-05 me 3.46646e-06 a 2.88624e-06 to 2.81073e-06 that 1.76021e-06 in 1.28547e-06 at 1.00094e-06 neck 8.98001e-07 if 4.57124e-07 is 3.59058e-07 uh 2.3457e-07 and 1.1538e-07 this 7.13328e-08 i 2.74218e-08
+align 5 *DELETE* 1 i 2.09972e-09
+align 6 *DELETE* 1 duration 2.09972e-09
+align 7 </s> 1

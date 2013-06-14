@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 are 1
+align 3 here 1
+align 4 today 1
+align 5 to 1
+align 6 provide 1
+align 7 security 1
+align 8 and 0.999956 in 4.38032e-05
+align 9 get 1
+align 10 to 1
+align 11 know 1
+align 12 you 1
+align 13 *DELETE* 0.999998 uh 1.62456e-06 i 8.68555e-07
+align 14 </s> 1

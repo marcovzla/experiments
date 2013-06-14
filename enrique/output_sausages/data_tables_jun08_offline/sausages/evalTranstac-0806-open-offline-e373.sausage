@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 we 0.950108 we've 0.0498923
+align 2 stepped 0.957879 step 0.0413663 steps 0.000754686
+align 3 on 1 out 9.78495e-08 of 2.90241e-08
+align 4 *DELETE* 1 of 9.78495e-08
+align 5 the 1
+align 6 patrol 1
+align 7 it's 0.785511 with 0.203778 in 0.0107107
+align 8 zero 1
+align 9 six 1
+align 10 uh 0.882243 um 0.117757
+align 11 *DELETE* 0.60913 uh 0.390016 oh 0.000854533
+align 12 we 1
+align 13 need 1
+align 14 uh 1
+align 15 uh 0.72928 *DELETE* 0.27072
+align 16 movement 1
+align 17 out 1
+align 18 to 0.974879 too 0.0251208
+align 19 the 1
+align 20 first 1
+align 21 checkpoint 0.999959 check 4.13633e-05
+align 22 *DELETE* 0.99985 i 9.03868e-05 point 4.13633e-05 uh 1.72481e-05 a 1.10443e-06
+align 23 </s> 1

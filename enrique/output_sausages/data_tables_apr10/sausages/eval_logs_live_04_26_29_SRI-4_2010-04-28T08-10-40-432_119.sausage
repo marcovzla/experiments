@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 0.953573 i 0.0272143 *DELETE* 0.0164071 okay 0.00256281 i'm 0.000242861
+align 2 you 0.961804 knew 0.0272143 new 0.0109815
+align 3 how 1
+align 4 are 1
+align 5 you 1
+align 6 today 1
+align 7 *DELETE* 0.999994 uh 5.0998e-06 it 8.66718e-07 at 1.18486e-11
+align 8 </s> 1

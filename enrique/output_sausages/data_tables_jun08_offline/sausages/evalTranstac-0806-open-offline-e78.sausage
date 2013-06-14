@@ -1,0 +1,47 @@
+numaligns 45
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 understand 1
+align 3 it 0.375633 that 0.31612 i 0.308247
+align 4 but 1
+align 5 are 1
+align 6 you 1
+align 7 are 1
+align 8 you 1
+align 9 do 1
+align 10 you 1 *DELETE* 5.66343e-11
+align 11 have 1
+align 12 any 1
+align 13 concerns 1
+align 14 with 1
+align 15 those 0.998834 pills 0.00116585
+align 16 engineers 1
+align 17 of 0.970791 *DELETE* 0.0100016 or 0.00650397 are 0.0063505 with 0.00599408 all 0.000301682 will 5.70588e-05
+align 18 the 0.861478 of 0.0679973 uh 0.0514871 that 0.00760298 other 0.0057608 about 0.00424077 a 0.00127226 *DELETE* 0.000160366
+align 19 the 0.997892 uh 0.00210799
+align 20 *DELETE* 0.997892 the 0.00210799
+align 21 few 1
+align 22 people 1
+align 23 you 1
+align 24 have 1
+align 25 on 0.999577 uh 0.00040947 it 1.31487e-05
+align 26 *DELETE* 0.956207 on 0.0437926
+align 27 your 1
+align 28 staff 1
+align 29 that 0.949465 they 0.0285149 i 0.0170966 right 0.00244983 like 0.00160204 bag 0.000421713 take 0.000256983 ache 0.000114362 can 3.75549e-05 *DELETE* 3.51088e-05 back 5.3276e-06 there 2.06484e-07
+align 30 can 0.99992 it 4.23517e-05 *DELETE* 3.75549e-05
+align 31 *DELETE* 0.999958 can 4.23517e-05
+align 32 conduct 1
+align 33 uh 0.807178 *DELETE* 0.165385 the 0.0274366
+align 34 uh 0.671599 um 0.165385 *DELETE* 0.163016
+align 35 sabotage 0.754588 *DELETE* 0.239764 sabotaged 0.00564792
+align 36 in 0.670992 sabotaging 0.239764 and 0.0746872 *DELETE* 0.0145563
+align 37 *DELETE* 0.972281 the 0.0168433 any 0.00828845 you 0.00245861 it 9.56388e-05 he 3.30027e-05
+align 38 facility 1
+align 39 from 0.969461 *DELETE* 0.0305389
+align 40 the 0.96917 and 0.0305123 *DELETE* 0.000256617 to 3.44213e-05 in 2.66919e-05
+align 41 *DELETE* 0.999992 the 6.35823e-06 that 1.71443e-06
+align 42 inside 1
+align 43 *DELETE* 0.999993 uh 7.34837e-06
+align 44 </s> 1

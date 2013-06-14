@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 1
+align 2 plate 0.496108 play 0.40691 plays 0.0710362 pray 0.0188559 please 0.00533888 prey 0.00175107
+align 3 instructions 0.974773 a 0.0230105 *DELETE* 0.00221658
+align 4 *DELETE* 0.974624 instructions 0.0230105 instruction 0.00221658 i 8.56434e-05 and 2.54951e-05 in 1.95568e-05 you 7.88493e-06 to 7.30095e-06 do 3.29435e-06 uh 1.01565e-07 um 4.77314e-11 if 3.89733e-12
+align 5 </s> 1

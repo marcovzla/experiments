@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 my 1
+align 3 name 1
+align 4 is 1
+align 5 sergeant 1
+align 6 smith 1
+align 7 *DELETE* 1 uh 4.59342e-11
+align 8 </s> 1

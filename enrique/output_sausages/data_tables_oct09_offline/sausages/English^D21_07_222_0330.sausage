@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.990003 okay 0.00637507 uh 0.00362236
+align 2 and 1
+align 3 i 1
+align 4 *DELETE* 0.999766 i 0.000233681
+align 5 have 1
+align 6 uh 0.413432 of 0.406883 a 0.130025 all 0.0330254 um 0.0166339
+align 7 marines 0.92992 marine's 0.0696909 marines' 0.000389391
+align 8 going 1
+align 9 out 0.998566 up 0.00143374
+align 10 to 1
+align 11 get 1
+align 12 them 1
+align 13 right 0.999826 run 0.000138686 line 3.02808e-05 in 3.79277e-06 are 7.11754e-07 and 2.40634e-07 or 1.6497e-07 *DELETE* 4.95872e-09
+align 14 now 1 *DELETE* 4.95872e-09
+align 15 *DELETE* 0.988318 uh 0.0045621 or 0.00342071 on 0.000997774 in 0.000809323 i 0.000784682 and 0.00051397 are 0.00025386 um 0.000168041 i'm 0.000114608 it 5.34922e-05 at 1.59737e-06 out 1.377e-06 so 2.61601e-07 but 2.3282e-07 her 3.03604e-08
+align 16 *DELETE* 1 know 1.74017e-07 now 7.90686e-10
+align 17 </s> 1

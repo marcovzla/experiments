@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 anything 1
+align 4 else 1
+align 5 in 0.999366 and 0.000538912 on 9.51923e-05 then 2.50253e-07
+align 6 the 1
+align 7 bag 0.693233 back 0.306722 bags 4.54188e-05
+align 8 *DELETE* 1 now 2.04577e-10 you 5.19537e-14 in 1.16151e-16 of 1.30444e-19 uh 1.78739e-20
+align 9 </s> 1

@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 first 1
+align 3 i'll 0.950957 uh 0.048904 off 0.00012606 *DELETE* 8.55972e-06 i 3.9452e-06
+align 4 *DELETE* 0.971219 uh 0.0287814
+align 5 i'll 1
+align 6 go 1
+align 7 into 1
+align 8 the 1
+align 9 procedures 1
+align 10 uh 1
+align 11 to 1
+align 12 make 1
+align 13 sure 1
+align 14 of 0.231997 up 0.206723 our 0.193669 we're 0.152762 are 0.12563 *DELETE* 0.0377426 uh 0.0339536 it 0.015418 a 0.00190522 if 0.000200271
+align 15 or 0.800355 *DELETE* 0.152762 we're 0.0468835
+align 16 both 1
+align 17 uh 1
+align 18 uh 1
+align 19 doing 0.889966 uh 0.110034
+align 20 *DELETE* 0.889966 doing 0.110034
+align 21 the 1
+align 22 same 1
+align 23 thing 0.99955 saying 0.000450444
+align 24 while 0.99795 why 0.00169263 well 0.000357176 all 1.30245e-10
+align 25 we're 0.998368 were 0.00155345 or 7.90528e-05
+align 26 out 1
+align 27 there 0.999991 their 8.66509e-06
+align 28 *DELETE* 0.999999 are 6.93333e-07
+align 29 </s> 1

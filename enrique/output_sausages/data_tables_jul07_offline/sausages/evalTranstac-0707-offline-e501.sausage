@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 cannot 1
+align 3 release 1
+align 4 your 1
+align 5 son 1
+align 6 at 0.99398 it 0.00524902 if 0.000768785 that 2.24444e-06
+align 7 this 1
+align 8 time 1
+align 9 *DELETE* 0.999577 uh 0.000289327 i 0.000133388 if 6.76384e-07
+align 10 </s> 1

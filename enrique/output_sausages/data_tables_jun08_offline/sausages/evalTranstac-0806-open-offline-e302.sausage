@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 ensuring 0.648865 insuring 0.284173 uh 0.0640196 a 0.00242657 i 0.000515989
+align 2 *DELETE* 0.933038 ensuring 0.0613056 insuring 0.00565665
+align 3 that 1
+align 4 your 1
+align 5 soldiers 1
+align 6 um 1
+align 7 stay 1
+align 8 well 1
+align 9 all 0.584091 of 0.405151 *DELETE* 0.00786201 dispersed 0.00289597
+align 10 dispersed 0.997104 *DELETE* 0.00289597
+align 11 uh 0.806385 um 0.193615
+align 12 between 1
+align 13 each 1
+align 14 other 1
+align 15 so 0.674129 to 0.322175 too 0.00193301 two 0.00176339
+align 16 *DELETE* 0.674129 so 0.325871
+align 17 they 1
+align 18 keep 1
+align 19 a 0.994631 *DELETE* 0.00536919
+align 20 lot 0.992092 *DELETE* 0.00790827
+align 21 of 0.992092 ally 0.00536919 lie 0.00253907
+align 22 distance 1
+align 23 between 1
+align 24 uh 1
+align 25 one 1
+align 26 member 0.969837 remember 0.0301635
+align 27 of 0.931301 *DELETE* 0.0686993
+align 28 the 1
+align 29 patrol 1
+align 30 and 1
+align 31 somebody 1
+align 32 else 1
+align 33 </s> 1

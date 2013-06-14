@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 keep 1
+align 4 an 1
+align 5 eye 1
+align 6 on 0.999912 in 8.79607e-05
+align 7 your 1
+align 8 house 1
+align 9 even 0.871341 he 0.0796643 you 0.0485314 heating 0.000461519 do 1.42241e-06
+align 10 *DELETE* 0.871803 even 0.102555 then 0.0166882 going 0.00720825 don't 0.00115074 know 0.0005936 you 1.42241e-06
+align 11 *DELETE* 0.999999 know 1.42241e-06
+align 12 *DELETE* 0.999405 in 0.00059111 and 3.91225e-06
+align 13 after 1
+align 14 we 1
+align 15 leave 1
+align 16 to 1
+align 17 help 1
+align 18 with 1
+align 19 any 1
+align 20 problems 1
+align 21 that 0.569358 they 0.344737 in 0.0599363 and 0.0232575 it 0.00221789 a 0.000278875 i 0.000214711
+align 22 may 0.999964 make 3.55537e-05
+align 23 come 0.999967 him 3.29194e-05
+align 24 up 0.993973 out 0.00602735
+align 25 </s> 1

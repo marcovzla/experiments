@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 did 1
+align 3 you 1
+align 4 inherit 0.99723 hear 0.0027639 heard 3.56333e-06 hurt 2.49783e-06
+align 5 it 0.997247 that 0.00275296
+align 6 from 0.999778 for 0.000211293 *DELETE* 1.08286e-05
+align 7 *DELETE* 0.99972 uh 0.000203499 a 5.99862e-05 form 1.08286e-05 the 4.77502e-06 i 4.436e-07
+align 8 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 0.999711 *DELETE* 0.000288756
+align 3 a 0.990467 *DELETE* 0.00494534 are 0.00429876 their 0.000288756
+align 4 common 1
+align 5 area 1
+align 6 were 0.718999 we're 0.170689 over 0.110312
+align 7 villagers 0.993543 a 0.00301844 villages 0.00300318 our 0.000435182
+align 8 *DELETE* 0.996546 villagers 0.00345362
+align 9 get 1
+align 10 together 0.996208 to 0.00379177
+align 11 *DELETE* 0.996151 gather 0.00379177 uh 4.36229e-05 i 1.37815e-05 a 2.52678e-14
+align 12 </s> 1

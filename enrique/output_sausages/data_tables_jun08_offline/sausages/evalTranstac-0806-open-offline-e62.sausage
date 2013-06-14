@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 what 0.950454 well 0.0489918 when 0.0005193 one 3.513e-05
+align 2 we 1
+align 3 can 1
+align 4 do 0.982537 deal 0.0174635
+align 5 we 1
+align 6 can 0.858309 could 0.134086 can't 0.00747866 do 7.89596e-05 *DELETE* 4.75616e-05
+align 7 *DELETE* 0.999973 to 2.70225e-05
+align 8 talk 1
+align 9 to 1
+align 10 your 0.845203 you 0.154676 *DELETE* 0.000121523
+align 11 *DELETE* 0.845203 are 0.146325 your 0.00476675 you're 0.00310677 or 0.000599083
+align 12 sick 0.999969 sikna 3.03719e-05 *DELETE* 4.37641e-12
+align 13 three 0.950995 carry 0.0270179 *DELETE* 0.00395737 teri 0.00287735 terri 0.00287735 terrie 0.00287735 curry 0.00279931 turn 0.0025328 karrie 0.00217685 you 0.00188836
+align 14 *DELETE* 0.994154 carry 0.00188836 keri 0.00173759 kerri 0.000380001 kary 0.000380001 karry 0.000380001 kari 0.000380001 carie 0.000380001 carrie 0.000158506 tree 7.75426e-05 cheri 4.43329e-05 every 1.97963e-05 through 1.86587e-05 security 9.38437e-07
+align 15 security 1
+align 16 guards 1
+align 17 at 0.511062 it 0.477892 that 0.0110453
+align 18 that 0.925429 the 0.0745712
+align 19 *DELETE* 0.909891 that 0.0901092
+align 20 you 1
+align 21 have 1
+align 22 on 0.998468 more 0.00153209
+align 23 staff 1
+align 24 now 0.999425 no 0.000316366 know 0.000166942 the 5.40776e-05 and 3.72317e-05
+align 25 *DELETE* 0.998888 uh 0.000633283 i 0.000386634 now 9.13093e-05 a 6.83932e-07
+align 26 </s> 1

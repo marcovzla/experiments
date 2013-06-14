@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 good 1
+align 3 afternoon 1
+align 4 my 1
+align 5 name 1
+align 6 is 1
+align 7 first 1
+align 8 lieutenant 1
+align 9 reid 1 read 2.75047e-11
+align 10 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 kids 0.704308 it's 0.226811 its 0.0356589 kids' 0.0215693 kid's 0.0116527
+align 2 how 1
+align 3 many 1
+align 4 sons 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 *DELETE* 0.999091 uh 0.000472513 a 0.00043503 to 1.7834e-06 the 8.43166e-17
+align 9 </s> 1

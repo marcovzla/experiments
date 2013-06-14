@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 before 1
+align 3 he 1
+align 4 eats 1
+align 5 make 1
+align 6 sure 1
+align 7 you 1
+align 8 wash 0.980151 washed 0.0198489
+align 9 hands 0.983955 hans 0.016045
+align 10 but 1
+align 11 not 1
+align 12 with 1
+align 13 the 0.998504 a 0.00149555
+align 14 water 1
+align 15 that 1
+align 16 you 1
+align 17 boiled 0.993633 boil 0.00636666
+align 18 *DELETE* 0.999415 it 0.000567728 i 1.77334e-05
+align 19 </s> 1

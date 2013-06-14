@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 uh 0.999875 a 0.000124931
+align 5 sons 0.529212 son 0.189559 hussein 0.107851 uh 0.0761457 sergeant 0.0539277 sign 0.0240342 signs 0.013234 sun 0.00603651
+align 6 *DELETE* 0.91972 sons 0.0758747 to 0.00413447 sign 0.000270973
+align 7 *DELETE* 0.999395 to 0.000605069
+align 8 how's 0.590642 jails 0.21688 shells 0.192478
+align 9 and 1
+align 10 i'm 1
+align 11 going 1
+align 12 to 1
+align 13 go 1
+align 14 ahead 1
+align 15 and 1
+align 16 *DELETE* 0.999961 if 3.9313e-05
+align 17 *DELETE* 1 you 1.06857e-07
+align 18 teach 1
+align 19 you 1
+align 20 will 0.547424 a 0.352672 we'll 0.0999039
+align 21 class 1
+align 22 on 1
+align 23 uh 0.999928 our 3.90008e-05 of 3.09655e-05 i'll 1.92243e-06
+align 24 *DELETE* 0.999945 uh 5.54081e-05
+align 25 first 0.999701 *DELETE* 0.000299459
+align 26 aid 0.997184 day 0.00231121 for 0.000219917 *DELETE* 0.000205034 four 7.95414e-05
+align 27 *DELETE* 0.991158 uh 0.00833671 stay 0.000245398 aids 7.48992e-05 state 5.41232e-05 aim 5.30067e-05 eight 3.62274e-05 a 3.58951e-05 thing 3.04421e-06 a. 1.87759e-06 is 8.81447e-07 staying 2.13659e-08 they 1.30675e-11 in 2.86072e-12
+align 28 </s> 1

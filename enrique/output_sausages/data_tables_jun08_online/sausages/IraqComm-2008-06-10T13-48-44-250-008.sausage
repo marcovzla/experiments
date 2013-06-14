@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 am 1
+align 3 here 1
+align 4 to 1
+align 5 inspect 1
+align 6 this 1
+align 7 police 1
+align 8 station 1
+align 9 </s> 1

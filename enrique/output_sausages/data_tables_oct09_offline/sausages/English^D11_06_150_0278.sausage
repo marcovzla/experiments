@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 that 0.696579 i'd 0.222539 that'd 0.0737834 that'll 0.00709844
+align 2 be 0.60145 really 0.268592 do 0.129959
+align 3 *DELETE* 0.74477 the 0.25523
+align 4 easy 1
+align 5 part 0.982793 parts 0.0159275 per 0.00127911
+align 6 sir 0.986488 or 0.00610083 search 0.00401845 are 0.0033922 searched 4.50754e-07
+align 7 *DELETE* 0.999639 are 0.000360571
+align 8 </s> 1

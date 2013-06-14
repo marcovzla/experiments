@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 have 0.99711 if 0.00271817 and 0.000172233
+align 2 you 1
+align 3 any 1
+align 4 knowledge 1
+align 5 about 1
+align 6 how 1
+align 7 this 1
+align 8 looks 0.998323 let's 0.00164174 look 3.54224e-05
+align 9 on 0.999961 son 3.85311e-05
+align 10 the 1
+align 11 inside 1
+align 12 *DELETE* 0.98959 uh 0.0104001 i 1.01009e-05
+align 13 </s> 1

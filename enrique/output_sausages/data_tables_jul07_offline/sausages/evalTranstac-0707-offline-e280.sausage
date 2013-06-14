@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 at 1
+align 3 that 1
+align 4 point 1
+align 5 again 0.958534 uh 0.0414659
+align 6 *DELETE* 0.958534 again 0.0414659
+align 7 you 1
+align 8 would 1
+align 9 call 1
+align 10 it 0.866527 *DELETE* 0.124389 you 0.00846768 the 0.000615799
+align 11 you'd 0.501745 you 0.498157 ute 6.16488e-05 even 3.67961e-05
+align 12 *DELETE* 0.914439 would 0.0846954 a 0.000865233
+align 13 call 1
+align 14 for 1
+align 15 an 1
+align 16 ambulance 1
+align 17 you 0.819596 *DELETE* 0.174397 to 0.00491265 u 0.000396785 she 0.000236308 your 0.000198419 you're 0.000118915 do 7.14699e-05 who 6.24475e-05 you'd 5.58092e-06 should 2.61424e-06 or 2.26508e-06
+align 18 </s> 1

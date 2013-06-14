@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you're 0.996527 your 0.00317114 you 0.000301763
+align 2 *DELETE* 0.999698 are 0.000301763
+align 3 right 1
+align 4 it's 1
+align 5 not 1
+align 6 entirely 1
+align 7 your 0.995681 you're 0.0043164 you'd 2.13268e-06
+align 8 choice 0.99999 *DELETE* 9.60958e-06
+align 9 *DELETE* 0.999895 uh 4.83688e-05 i 4.72268e-05 choices 9.60958e-06 in 8.41164e-08 you 6.74343e-09
+align 10 </s> 1

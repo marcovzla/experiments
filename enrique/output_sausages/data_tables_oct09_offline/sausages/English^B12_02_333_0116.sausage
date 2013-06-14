@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.997571 so 0.00242913
+align 2 how 1
+align 3 many 1
+align 4 police 1
+align 5 cars 1
+align 6 do 1
+align 7 you 1
+align 8 have 1
+align 9 *DELETE* 0.999975 a 1.57443e-05 uh 9.65562e-06
+align 10 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 are 0.975921 no 0.0237548 now 0.000324165
+align 2 they 1
+align 3 *DELETE* 0.999624 offer 0.000376138
+align 4 operating 0.929053 operate 0.0705711 i 0.000376138
+align 5 in 0.911941 at 0.0344123 *DELETE* 0.0203726 and 0.0202261 it 0.0127009 mean 0.000284462 need 5.09039e-05 am 1.06176e-05 n 1.11276e-06 ended 3.69382e-08
+align 6 in 0.926952 *DELETE* 0.0725944 a 0.000453904
+align 7 *DELETE* 0.999546 in 0.000453904
+align 8 good 0.936619 and 0.0515131 *DELETE* 0.0118677
+align 9 *DELETE* 0.935923 get 0.0572847 incur 0.00382568 going 0.00135778 i 0.000695712 god 0.000505223 could 0.000339642 got 6.63493e-05 can 1.47394e-06
+align 10 operating 1
+align 11 condition 0.992314 conditions 0.0064145 conditioned 0.00126057 can 1.11777e-05 conditional 1.13754e-09
+align 12 *DELETE* 0.999975 dish 1.11777e-05 it 8.40697e-06 of 4.75894e-06 i 2.82589e-07 in 1.76736e-08 is 7.31273e-09 at 7.61273e-10 if 3.6879e-10 uh 2.76939e-10
+align 13 </s> 1

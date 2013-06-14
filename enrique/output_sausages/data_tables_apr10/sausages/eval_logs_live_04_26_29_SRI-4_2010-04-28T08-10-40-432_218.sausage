@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 medication 0.998903 medications 0.00109692
+align 6 *DELETE* 0.999797 i 9.19466e-05 to 5.78458e-05 uh 5.25269e-05 at 2.80767e-07 you 1.72837e-07 in 2.89659e-09
+align 7 </s> 1

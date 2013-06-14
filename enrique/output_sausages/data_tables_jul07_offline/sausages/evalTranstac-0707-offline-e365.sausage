@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 now 1
+align 2 at 0.999881 it 0.000118556
+align 3 this 1
+align 4 time 1
+align 5 you're 1
+align 6 wasting 1
+align 7 my 1
+align 8 time 0.999954 tall 3.73133e-05 dog 8.96046e-06
+align 9 *DELETE* 0.999839 i 0.000158339 uh 2.75558e-06 out 5.60785e-08
+align 10 </s> 1

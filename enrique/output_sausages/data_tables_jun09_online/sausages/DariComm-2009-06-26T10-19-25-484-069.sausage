@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 about 1
+align 3 a 0.897156 the 0.0994132 *DELETE* 0.00343086
+align 4 reconstruction 1
+align 5 team 0.998902 chain 0.000592214 teams 0.000297896 *DELETE* 0.000123844 teen 8.45172e-05
+align 6 *DELETE* 0.999628 uh 0.000122766 i 0.000111363 seen 7.67775e-05 scene 4.70667e-05 to 8.37598e-06 a 4.27974e-06 um 1.15994e-06 of 3.06011e-12 do 7.43539e-13 in 2.44691e-13 is 1.933e-13 you 1.53576e-13 the 3.50179e-15
+align 7 </s> 1

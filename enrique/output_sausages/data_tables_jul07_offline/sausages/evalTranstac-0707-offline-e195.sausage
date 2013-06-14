@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 at 1
+align 3 this 1
+align 4 time 1
+align 5 we 1
+align 6 cannot 0.964593 can 0.0354065
+align 7 *DELETE* 0.964593 not 0.0354065
+align 8 release 1
+align 9 your 1
+align 10 son 1
+align 11 *DELETE* 0.994762 uh 0.00523702 in 1.01798e-06 if 1.06375e-08
+align 12 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i'm 0.999874 i 0.000125873
+align 3 try 0.930761 *DELETE* 0.0691135 am 0.000125873
+align 4 uh 0.659874 out 0.262597 truck 0.0443208 top 0.0144138 up 0.00653285 cut 0.00515348 talk 0.00284039 cop 0.00251089 *DELETE* 0.00175669
+align 5 trying 1
+align 6 to 1
+align 7 visit 0.999713 this 0.000287011
+align 8 *DELETE* 0.999713 is 0.000287011
+align 9 some 1
+align 10 of 1
+align 11 the 1
+align 12 local 1 locals 7.08427e-21
+align 13 shops 1 shop's 3.00488e-10
+align 14 </s> 1

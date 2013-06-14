@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 heavy 0.991083 have 0.00891404 hadi 3.08815e-06
+align 3 *DELETE* 0.991086 the 0.00891404
+align 4 is 0.999508 as 0.000492368 *DELETE* 3.89419e-14
+align 5 your 0.996517 our 0.00219811 you're 0.00124906 are 3.32155e-05 their 2.21787e-06 there 6.94147e-11 user 3.77493e-13
+align 6 brother 1
+align 7 *DELETE* 0.999988 in 5.49958e-06 uh 3.26527e-06 at 1.26759e-06 do 1.00573e-06 i 3.24384e-07 a 3.20259e-07
+align 8 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.999985 well 1.49075e-05
+align 2 does 0.988167 is 0.0112213 did 0.000611484
+align 3 your 1
+align 4 hospital 1
+align 5 building 1
+align 6 need 0.999165 knead 0.000834681
+align 7 *DELETE* 0.999251 uh 0.000446484 a 0.000114502 it 9.58661e-05 i 3.94211e-05 to 3.69497e-05 you 1.01143e-05 um 5.19726e-06 of 6.53989e-07
+align 8 </s> 1

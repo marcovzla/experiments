@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 you 0.636718 *DELETE* 0.281768 we 0.0732953 you're 0.00821881
+align 2 ready 0.998971 very 0.00102949
+align 3 to 1
+align 4 get 1
+align 5 started 1
+align 6 *DELETE* 0.998558 uh 0.00143511 it 5.50368e-06 a 5.17163e-07 to 4.40838e-07 in 4.63008e-14 on 7.92523e-15
+align 7 </s> 1

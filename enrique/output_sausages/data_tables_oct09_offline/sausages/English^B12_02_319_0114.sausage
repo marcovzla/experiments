@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 when 0.997056 what 0.00294403
+align 2 was 1
+align 3 the 1
+align 4 last 1
+align 5 time 1
+align 6 that 1
+align 7 you 1
+align 8 personally 0.711112 partially 0.288888
+align 9 conducted 0.958672 conduct 0.0413282
+align 10 *DELETE* 0.958676 at 0.0409672 that 0.000356478
+align 11 a 0.775909 of 0.207194 *DELETE* 0.0156823 to 0.000943412 no 0.000266613 their 4.52282e-06
+align 12 weapons 0.884803 weapon's 0.115197
+align 13 inventory 1
+align 14 for 1
+align 15 your 0.999431 you 0.000569322
+align 16 for 1
+align 17 your 1
+align 18 armory 1
+align 19 *DELETE* 0.999994 i 4.12691e-06 you 9.85191e-07 a 5.73303e-07 uh 6.02357e-08 do 3.23024e-09
+align 20 </s> 1

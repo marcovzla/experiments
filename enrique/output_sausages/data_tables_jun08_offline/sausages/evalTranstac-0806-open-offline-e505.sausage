@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 we 1
+align 3 attack 1
+align 4 them 1
+align 5 *DELETE* 0.99977 and 0.000230309
+align 6 do 0.99725 *DELETE* 0.00157737 did 0.000914563 too 0.000201016 to 5.69231e-05
+align 7 they 0.998423 today 0.00157737
+align 8 have 1
+align 9 a 1
+align 10 withdrawal 1
+align 11 route 0.945043 routes 0.0549571
+align 12 or 0.991932 are 0.00605619 her 0.00124404 were 0.000387528 we're 0.000305164 for 7.47326e-05
+align 13 a 1
+align 14 possible 1
+align 15 route 0.958625 round 0.0413753
+align 16 to 0.99819 two 0.00133114 too 0.000479247
+align 17 escape 0.999247 escaped 0.000753224
+align 18 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 they 0.986356 we 0.012102 you 0.00154219
+align 3 have 1
+align 4 food 1
+align 5 for 0.999772 to 0.000228208
+align 6 the 1
+align 7 operation 0.999737 operations 0.000262756
+align 8 *DELETE* 0.999996 uh 2.76926e-06 in 8.4424e-07
+align 9 </s> 1

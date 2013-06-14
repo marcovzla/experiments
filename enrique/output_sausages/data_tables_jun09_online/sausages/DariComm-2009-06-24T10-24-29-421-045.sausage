@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 did 1
+align 3 you 1
+align 4 go 1
+align 5 to 1
+align 6 college 1
+align 7 *DELETE* 1 uh 1.61228e-11 i 2.62293e-15
+align 8 </s> 1

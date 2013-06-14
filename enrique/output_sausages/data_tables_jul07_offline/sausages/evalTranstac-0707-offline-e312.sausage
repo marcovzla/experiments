@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 1
+align 3 the 1
+align 4 two 1
+align 5 men 1
+align 6 that 1
+align 7 when 0.598838 way 0.144544 one 0.117369 went 0.11379 white 0.0248823 were 0.000577099
+align 8 undercover 0.790771 under 0.209229
+align 9 *DELETE* 0.790771 cover 0.209229 while 9.72052e-08
+align 10 will 0.462403 well 0.308139 we'll 0.226731 a 0.00148474 were 0.000665766 law 0.000430085 wow 0.00014714 i 9.72052e-08
+align 11 *DELETE* 0.998191 well 0.00148474 i 0.00032441
+align 12 also 1
+align 13 go 1
+align 14 in 0.965002 *DELETE* 0.0247297 and 0.0102679
+align 15 the 0.97527 any 0.0247297
+align 16 auto 0.71455 autoshop 0.28545
+align 17 shop 0.701256 *DELETE* 0.28545 shops 0.013294
+align 18 with 1
+align 19 my 1
+align 20 men 1
+align 21 to 0.993202 the 0.0052294 they 0.000965968 *DELETE* 0.000603126
+align 22 go 0.995417 *DELETE* 0.00458269
+align 23 in 0.462978 ahead 0.311358 and 0.214963 an 0.00380358 ghaylan 0.00317055 gallon 0.00141214 him 0.00123865 hand 0.00045798 end 0.000325042 on 0.000138059 *DELETE* 8.49874e-05 i'm 5.34412e-05 around 1.62989e-05
+align 24 *DELETE* 0.999048 and 0.000828821 uh 0.000106782 in 1.26279e-05 i 2.92434e-06 a 8.86236e-07
+align 25 </s> 1

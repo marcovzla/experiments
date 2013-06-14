@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 1 *DELETE* 9.63667e-36
+align 2 there 1 as 2.9064e-11
+align 3 a 1 their 2.9064e-11
+align 4 police 1
+align 5 station 1
+align 6 in 0.999562 and 0.000437962
+align 7 the 1 that 9.21538e-08
+align 8 village 0.999999 villages 6.74911e-07
+align 9 </s> 1

@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 0.975724 we'll 0.0242765
+align 3 be 1
+align 4 very 1
+align 5 careful 1
+align 6 to 0.993184 as 0.00681608
+align 7 *DELETE* 0.993184 to 0.00681608
+align 8 stay 1
+align 9 off 1
+align 10 the 1
+align 11 road 1
+align 12 but 0.995833 so 0.00341958 that 0.000415942 oh 0.000165132 though 8.82085e-05 what 7.86243e-05
+align 13 we 1
+align 14 will 0.998981 we'll 0.00101921
+align 15 still 1
+align 16 come 1
+align 17 from 1
+align 18 the 0.999992 that 7.77691e-06
+align 19 east 1
+align 20 *DELETE* 0.999402 and 0.000334163 the 8.86209e-05 i 4.94785e-05 to 3.81716e-05 you 2.58279e-05 yeah 1.82474e-05 them 1.37731e-05 uh 1.23585e-05 do 9.17125e-06 there 4.20939e-06 now 1.98064e-06 it 1.60687e-06 then 8.90526e-08 too 5.54946e-10 they 2.24611e-12 of 4.97968e-14 in 1.76796e-14
+align 21 </s> 1

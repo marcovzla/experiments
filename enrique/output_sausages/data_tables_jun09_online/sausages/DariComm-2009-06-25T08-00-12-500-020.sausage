@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 show 1
+align 4 me 1
+align 5 how 1
+align 6 to 0.671242 do 0.328758
+align 7 *DELETE* 0.671242 you 0.328758
+align 8 use 1
+align 9 this 1
+align 10 bandage 1
+align 11 on 1
+align 12 his 1
+align 13 left 1
+align 14 arm 0.999968 aren't 3.15417e-05
+align 15 *DELETE* 1 um 3.58562e-09 i 2.18994e-11
+align 16 </s> 1

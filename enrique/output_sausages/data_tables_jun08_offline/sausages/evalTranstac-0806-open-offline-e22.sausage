@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 and 0.999979 in 2.10664e-05
+align 2 we 0.963495 *DELETE* 0.0364828 where 2.17147e-05
+align 3 are 0.952274 we're 0.0357182 were 0.0064602 i 0.00552573 is 2.17147e-05
+align 4 still 1
+align 5 keep 0.954704 *DELETE* 0.0452964
+align 6 them 0.407576 in 0.206851 him 0.203418 *DELETE* 0.083589 keeping 0.0452964 the 0.0309875 a 0.0194489 it 0.0028326
+align 7 more 0.866935 wore 0.0647428 warm 0.037706 war 0.0306165
+align 8 iraqi 1
+align 9 military 1
+align 10 employee 0.966199 employed 0.0338013 employ 1.80541e-07 *DELETE* 1.77697e-19
+align 11 *DELETE* 1 a 1.80541e-07 employees 5.05105e-10
+align 12 as 1
+align 13 opposed 0.993246 *DELETE* 0.00675362
+align 14 to 0.988567 a 0.00675362 *DELETE* 0.00467896
+align 15 the 0.913166 *DELETE* 0.0800804 pulse 0.00675362
+align 16 iraqi 1
+align 17 police 1
+align 18 </s> 1

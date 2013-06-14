@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 recommendations 1
+align 6 for 1
+align 7 this 0.710872 the 0.28738 that 0.00174746
+align 8 solution 0.999997 solutions 3.00558e-06
+align 9 *DELETE* 1 i 9.17946e-14
+align 10 </s> 1

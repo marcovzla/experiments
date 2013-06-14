@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we're 0.999993 where 7.49185e-06 *DELETE* 5.71305e-20
+align 2 here 0.999937 going 5.55606e-05 where 7.49662e-06
+align 3 to 1
+align 4 inspect 1
+align 5 your 1
+align 6 power 1
+align 7 plant 1
+align 8 *DELETE* 1 it 4.94644e-10 uh 3.41592e-15
+align 9 </s> 1

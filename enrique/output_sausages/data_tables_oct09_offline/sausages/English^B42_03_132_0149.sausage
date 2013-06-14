@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 um 1
+align 3 my 1
+align 4 next 1
+align 5 question 1
+align 6 is 1
+align 7 about 1
+align 8 your 1
+align 9 hospital 0.993587 or 0.00583753 a 0.000575185
+align 10 *DELETE* 0.993587 hospital 0.00641272
+align 11 equipment 1
+align 12 *DELETE* 0.993501 to 0.00564016 too 0.000658452 uh 0.000147152 ten 5.20026e-05 i 1.29584e-06 tea 8.27784e-09 do 1.03237e-09 in 9.67363e-10 it 1.76434e-10
+align 13 </s> 1

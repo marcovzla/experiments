@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 uh 0.980059 um 0.0199409
+align 2 but 1
+align 3 we 1
+align 4 hope 0.999809 help 0.000191273
+align 5 to 1
+align 6 be 1
+align 7 out 0.999774 either 0.000161255 outer 6.4295e-05
+align 8 *DELETE* 0.66539 of 0.333479 a 0.00113095
+align 9 here 1
+align 10 *DELETE* 0.767515 as 0.232485
+align 11 soon 1
+align 12 as 1
+align 13 possible 1
+align 14 </s> 1

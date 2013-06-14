@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 need 1
+align 3 help 0.858519 to 0.0721801 *DELETE* 0.0588883 hope 0.0104122
+align 4 in 0.850753 open 0.127694 and 0.0181782 opened 0.00337479
+align 5 the 1
+align 6 first 1
+align 7 aid 0.999848 *DELETE* 0.000151887
+align 8 *DELETE* 0.999154 uh 0.000594882 aids 0.000132066 i 4.6562e-05 is 3.00607e-05 to 2.24805e-05 eight 1.2302e-05 day 7.51876e-06 a 4.24144e-07 in 3.25227e-10 that 1.83226e-10
+align 9 </s> 1

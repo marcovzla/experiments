@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 did 1
+align 3 you 1
+align 4 need 0.640936 eight 0.259872 ate 0.0970541 meet 0.000932551 worry 0.000725615 make 0.000253633 eat 0.000221724 *DELETE* 5.33437e-06
+align 5 to 0.98844 two 0.00648026 do 0.00336287 too 0.000838168 through 0.00039356 tour 0.00019034 tikka 0.000151747 tahir 7.30655e-05 dinner 4.45727e-05 tell 2.51445e-05 the 7.12624e-07 ten 8.07577e-09 terror 2.46693e-11 tail 5.11172e-13 till 4.90343e-16 today 2.54435e-17 until 1.17453e-19
+align 6 *DELETE* 0.997759 you 0.00224134
+align 7 act 0.54891 iraq 0.4138 rack 0.0308512 back 0.00295152 write 0.00156642 *DELETE* 0.00125204 right 0.000669176
+align 8 *DELETE* 0.995928 in 0.00263606 racked 0.000696806 active 0.000372046 rak 0.000171726 uh 0.000104007 a 7.95892e-05 backed 9.35466e-06 acting 1.96259e-06 bak 1.44689e-07 on 3.0306e-14 i 4.95032e-16 actor 1.08152e-18 baak 1.99649e-20 acted 2.24716e-21
+align 9 </s> 1

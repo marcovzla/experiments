@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 0.998748 where 0.00125172
+align 2 do 1
+align 3 you 1
+align 4 need 1
+align 5 from 0.964681 for 0.0353189
+align 6 me 1
+align 7 to 1
+align 8 help 1
+align 9 you 0.748892 me 0.236331 him 0.00983532 *DELETE* 0.00483704 them 0.000103916 your 5.20315e-09 her 1.09801e-10 here 6.78807e-33
+align 10 with 0.997296 were 0.00157514 where 0.000828397 *DELETE* 0.000300279
+align 11 *DELETE* 0.994936 it 0.00276151 uh 0.00162433 you 0.000284971 wear 0.000187758 we're 8.88898e-05 us 2.80422e-05 that 2.7031e-05 me 1.76982e-05 work 1.74518e-05 um 6.87268e-06 worth 5.34286e-06 a 4.40894e-06 them 4.31818e-06 sir 3.30056e-06 i 1.46123e-06 the 5.49744e-07 what 5.0989e-07 in 1.41328e-08 will 1.23546e-23 would 4.47897e-41
+align 12 </s> 1

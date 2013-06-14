@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 think 1
+align 3 the 0.951756 you 0.0445556 he 0.0036883
+align 4 electricity 1
+align 5 is 0.999908 as 9.23535e-05
+align 6 adequate 1
+align 7 for 1
+align 8 you 1
+align 9 to 1
+align 10 be 1
+align 11 able 1
+align 12 to 1
+align 13 do 1
+align 14 everything 1
+align 15 that 1
+align 16 you 1
+align 17 need 1
+align 18 to 1
+align 19 do 1
+align 20 *DELETE* 0.999903 you 9.64689e-05 it 5.87612e-07 i 8.58343e-10 a 4.96372e-10 uh 1.59591e-10
+align 21 </s> 1

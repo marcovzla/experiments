@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 trying 1
+align 2 to 1
+align 3 get 1
+align 4 the 1
+align 5 uh 1
+align 6 the 0.974666 uh 0.0253066 *DELETE* 2.69811e-05
+align 7 *DELETE* 0.974693 the 0.0253066
+align 8 local 1
+align 9 schools 1
+align 10 back 1
+align 11 um 0.880545 uh 0.119419 i'll 3.66739e-05
+align 12 working 0.998568 uh 0.00133694 oh 9.51405e-05
+align 13 *DELETE* 0.99847 working 0.00143208 uh 6.54867e-05 i 3.01983e-05 a 1.30234e-06 in 6.53669e-07
+align 14 </s> 1

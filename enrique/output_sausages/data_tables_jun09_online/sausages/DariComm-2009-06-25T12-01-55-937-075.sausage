@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 you 1
+align 3 will 1
+align 4 need 1
+align 5 to 0.994945 two 0.00505544
+align 6 separate 1
+align 7 the 1
+align 8 people 1
+align 9 from 1
+align 10 the 1
+align 11 vehicles 0.880731 vehicle's 0.0987274 vehicles' 0.0106794 vehicle 0.00986229
+align 12 *DELETE* 0.997499 so 0.00153236 is 0.000951031 uh 1.49515e-05 i 2.51105e-06 as 5.70413e-07 in 1.32408e-09 was 3.93318e-10 that 2.82858e-13
+align 13 </s> 1

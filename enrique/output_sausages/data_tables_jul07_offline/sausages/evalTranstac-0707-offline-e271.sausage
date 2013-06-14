@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 at 0.988209 a 0.0114998 eight 0.000291281
+align 2 times 0.999998 time 2.13948e-06
+align 3 you 0.999998 she 2.13948e-06
+align 4 will 0.997932 we'll 0.00206782
+align 5 be 1
+align 6 searching 1
+align 7 every 1
+align 8 vehicle 1
+align 9 that's 0.976472 it's 0.0235281
+align 10 coming 1
+align 11 through 1
+align 12 the 1
+align 13 checkpoint 0.999994 checkpoints 6.27313e-06
+align 14 *DELETE* 0.999998 uh 2.09544e-06
+align 15 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.43992 will 0.369489 well 0.132194 i 0.0583966
+align 2 *DELETE* 0.941603 will 0.0583966
+align 3 be 0.688318 the 0.311682
+align 4 iraqi 1
+align 5 policemen 0.685917 policeman 0.314083
+align 6 need 0.992711 *DELETE* 0.00728852
+align 7 a 0.978469 to 0.0140863 meter 0.00552841 meta 0.00176011 it 0.000156475
+align 8 transfusion 0.999508 transfusions 0.000492451
+align 9 *DELETE* 0.99992 i 5.16598e-05 a 1.44351e-05 uh 1.34052e-05 if 4.09901e-07 you 1.57255e-07
+align 10 </s> 1

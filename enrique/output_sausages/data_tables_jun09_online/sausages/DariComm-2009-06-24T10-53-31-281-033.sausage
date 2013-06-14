@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 fuel 1
+align 5 cans 0.998485 cannons 0.00151358 *DELETE* 1.52586e-12
+align 6 *DELETE* 0.999865 i 4.42803e-05 uh 3.14372e-05 it 1.93939e-05 of 1.8486e-05 in 1.47508e-05 to 2.69493e-06 you 2.3533e-06 canons 1.53603e-06 that 2.30286e-07 a 1.80873e-07 and 1.51056e-07 so 1.39122e-09 if 2.52659e-14
+align 7 </s> 1

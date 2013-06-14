@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 uh 0.682019 *DELETE* 0.317981
+align 2 uh 1.27042 oh 1.87676e-05
+align 3 *DELETE* 0.999998 uh 1.82302e-06
+align 4 what 1
+align 5 can 1
+align 6 i 1
+align 7 help 1
+align 8 you 1 me 2.34755e-09
+align 9 with 1
+align 10 today 1 the 4.87878e-11
+align 11 *DELETE* 0.999991 uh 9.25432e-06 i 1.53668e-08 day 4.87878e-11
+align 12 </s> 1

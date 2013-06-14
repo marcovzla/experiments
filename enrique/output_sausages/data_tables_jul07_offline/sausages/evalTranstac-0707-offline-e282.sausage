@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 that's 1
+align 3 a 1
+align 4 perfect 1
+align 5 way 0.543991 away 0.350132 await 0.0638043 wait 0.0303296 awake 0.00952193 weight 0.00185278 awai 0.000367892
+align 6 for 0.994064 four 0.00593586
+align 7 people 1
+align 8 to 1
+align 9 smuggle 1
+align 10 weapons 1
+align 11 *DELETE* 0.999989 i 5.55669e-06 uh 4.94719e-06 in 3.51671e-07
+align 12 </s> 1

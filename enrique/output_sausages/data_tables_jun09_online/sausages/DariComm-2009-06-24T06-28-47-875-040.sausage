@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 nurses 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 *DELETE* 0.99562 uh 0.00211766 a 0.00204829 it 0.000189211 to 1.57317e-05 the 9.03742e-06 i 3.25717e-07 that 9.81242e-08 in 6.59857e-11 on 7.19097e-27
+align 8 </s> 1

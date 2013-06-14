@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 repeat 0.999173 *DELETE* 0.000826772
+align 4 please 0.864578 it 0.135422
+align 5 *DELETE* 0.863195 please 0.135422 uh 0.000700376 sir 0.000682087
+align 6 *DELETE* 0.999915 uh 8.46374e-05 sir 1.2868e-08 if 6.3121e-11 do 1.8812e-18
+align 7 </s> 1

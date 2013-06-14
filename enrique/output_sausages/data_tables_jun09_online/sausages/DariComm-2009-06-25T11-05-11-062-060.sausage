@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 we 1
+align 3 find 1
+align 4 weapons 1
+align 5 cache 1
+align 6 *DELETE* 0.999288 they 0.000712017
+align 7 where 0.998592 a 0.00128839 well 0.000119575 *DELETE* 7.94423e-16
+align 8 *DELETE* 0.998712 where 0.00128839
+align 9 we 0.998583 *DELETE* 0.00118561 we're 0.000177674 were 5.41669e-05
+align 10 will 0.726927 were 0.208724 would 0.0621325 we're 0.00267742 we 0.000655955
+align 11 bring 0.847778 bringing 0.152222
+align 12 it 0.998791 its 0.000855803 it's 0.000352802
+align 13 to 0.90664 *DELETE* 0.0933598
+align 14 you 0.859065 sir 0.0613441 *DELETE* 0.0425333 too 0.0199243 soon 0.00676449 him 0.0049388 so 0.00384508 whom 0.00120202 two 0.000279873 us 5.72145e-05 uh 2.53232e-05 a 1.55841e-05 the 2.85067e-06 me 1.3415e-06 to 1.99289e-07 i 1.02997e-07 do 2.32825e-11 who 9.60581e-14
+align 15 *DELETE* 1 i 3.54623e-11
+align 16 </s> 1

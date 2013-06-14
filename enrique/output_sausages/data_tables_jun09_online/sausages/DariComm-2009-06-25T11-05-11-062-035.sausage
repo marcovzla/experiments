@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 broken 0.61267 broke 0.38733
+align 4 *DELETE* 0.61267 in 0.37772 and 0.00960917
+align 5 the 1
+align 6 company 1
+align 7 down 1
+align 8 into 1
+align 9 the 1
+align 10 specific 1
+align 11 teams 0.988176 teens 0.00688209 team's 0.00189693 to 0.00156976 *DELETE* 0.00147516
+align 12 *DELETE* 0.996793 teams 0.00156974 seeds 0.000789798 scenes 0.000607543 uh 0.000129229 seems 7.78225e-05 i 2.26296e-05 in 8.18637e-06 a 2.29884e-06 to 4.89031e-08 team's 1.95001e-08 the 7.35188e-14
+align 13 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 don't 1
+align 2 play 0.999978 *DELETE* 2.18214e-05
+align 3 in 0.99978 on 0.000193521 playing 2.18214e-05 *DELETE* 4.38337e-06
+align 4 the 0.999996 any 4.38337e-06 thi 1.0455e-10
+align 5 alley 0.990543 ali 0.00893573 alia 0.000452204 alleys 5.53354e-05 allie 1.08424e-05 ally 2.90848e-06
+align 6 </s> 1

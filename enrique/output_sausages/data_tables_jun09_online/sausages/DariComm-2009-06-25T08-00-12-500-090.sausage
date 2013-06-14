@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 put 0.999762 pop 0.000238316
+align 3 them 0.982467 the 0.0118145 him 0.00571832
+align 4 on 0.963868 *DELETE* 0.0141004 amount 0.0117499 all 0.0102748 uh 6.42809e-06
+align 5 *DELETE* 0.953324 it 0.0176519 on 0.0102403 out 0.00601721 off 0.00492986 a 0.00377582 in 0.00222606 are 0.00133504 uh 0.000212985 the 9.59387e-05 amounts 6.45696e-05 i'm 5.90417e-05 not 4.53722e-05 i 1.28293e-05 around 5.6945e-06 our 1.9942e-06 aunt 1.1236e-06 aren't 2.58183e-07 to 8.87076e-10 i'll 7.06198e-12
+align 6 </s> 1

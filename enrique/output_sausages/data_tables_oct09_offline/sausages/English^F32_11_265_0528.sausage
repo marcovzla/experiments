@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 so 0.610828 see 0.297613 i 0.048036 sir 0.0431709 this 0.00027872 since 7.34722e-05
+align 2 *DELETE* 0.951685 see 0.048036 is 0.00027872
+align 3 you 1
+align 4 if 0.765944 *DELETE* 0.13931 is 0.0640157 it's 0.0307309
+align 5 not 0.286918 at 0.196485 that 0.156691 i 0.142953 inside 0.13931 out 0.0496687 it 0.0267058 there 0.000563777 *DELETE* 0.000427222 i've 0.000278828
+align 6 about 0.999721 also 0.000186073 uh 9.27547e-05
+align 7 civilian 0.970355 civilians 0.0294586 doing 0.000186073
+align 8 sir 0.99908 are 0.000686525 or 0.000136157 there 6.87285e-05 here 2.49822e-05 her 3.23196e-06 in 2.39716e-10 and 5.69932e-11
+align 9 </s> 1

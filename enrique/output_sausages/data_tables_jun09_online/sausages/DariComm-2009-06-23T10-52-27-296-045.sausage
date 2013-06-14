@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999867 oh 0.000132989
+align 2 okay 1
+align 3 we 1
+align 4 will 1
+align 5 take 1
+align 6 care 1
+align 7 of 1
+align 8 your 1
+align 9 friend 0.999981 *DELETE* 1.90519e-05
+align 10 *DELETE* 0.999152 now 0.000481313 who 0.000276048 uh 5.15321e-05 friends 1.90519e-05 do 1.51878e-05 and 4.75712e-06 i 2.27243e-08 you 1.19622e-10
+align 11 </s> 1

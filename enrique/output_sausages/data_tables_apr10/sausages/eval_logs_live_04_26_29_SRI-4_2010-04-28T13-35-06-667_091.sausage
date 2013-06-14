@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 where 0.932416 *DELETE* 0.0670935 what 0.000490439
+align 2 is 0.932907 where's 0.0670935
+align 3 the 1
+align 4 location 1
+align 5 of 1
+align 6 the 1
+align 7 police 1
+align 8 station 1
+align 9 in 0.999941 and 5.87425e-05
+align 10 your 1
+align 11 village 1
+align 12 </s> 1

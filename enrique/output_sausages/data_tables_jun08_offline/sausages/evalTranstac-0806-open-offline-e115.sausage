@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999848 oh 0.000151777
+align 2 okay 1
+align 3 that 1
+align 4 works 0.999723 work 0.000276894
+align 5 great 0.87651 grape 0.0726588 grade 0.0380505 crate 0.00476161 qrayt 0.00294562 grates 0.00234164 gray 0.000888077 grave 0.000739597 crates 0.000304315 grades 0.000266795 straight 0.000215791 craig 0.00015763 create 6.93772e-05 scrape 3.39794e-05 scraped 2.77413e-05 grapes 1.92118e-05 craved 5.77012e-06 greater 2.21979e-06 greatly 1.01112e-06 graves 6.10792e-07
+align 6 *DELETE* 0.999692 uh 0.000269817 i 3.20341e-05 a 4.97314e-06 it 6.7066e-07 to 1.38522e-07
+align 7 </s> 1

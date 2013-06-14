@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what's 1
+align 2 going 1
+align 3 on 1
+align 4 with 1
+align 5 the 0.998648 two 0.00135191
+align 6 wounded 1
+align 7 his 0.919428 as 0.0631041 is 0.0166073 and 0.000316701 has 0.000288811 iz 0.000167882 this 4.42232e-05 it's 3.71152e-05 us 5.01367e-06 its 7.66971e-07
+align 8 chest 0.998192 chests 0.00180802
+align 9 *DELETE* 1 to 8.26034e-08
+align 10 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 crops 1
+align 5 do 1
+align 6 you 1
+align 7 farm 0.999723 form 0.000276805 farmed 3.16881e-10
+align 8 </s> 1

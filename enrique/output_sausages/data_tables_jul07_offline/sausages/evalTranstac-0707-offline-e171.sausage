@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 they 0.612657 the 0.349479 *DELETE* 0.031115 good 0.00627353 that 0.00047535
+align 2 do 0.571385 to 0.27215 did 0.0612418 the 0.0524984 *DELETE* 0.0223431 dig 0.00638696 can 0.00589662 been 0.00464791 dean 0.00143983 thing 0.00123542 don't 0.000425665 get 0.00034941
+align 3 *DELETE* 0.962611 in 0.0227489 the 0.0101248 you 0.00307585 it 0.00114459 they 0.000292197 he 2.10651e-06
+align 4 many 0.986759 make 0.011297 made 0.00186504 main 4.8264e-05 going 3.12145e-05
+align 5 *DELETE* 0.999969 to 3.12145e-05
+align 6 came 1
+align 7 into 1
+align 8 your 1
+align 9 house 1
+align 10 to 0.851561 *DELETE* 0.148439
+align 11 take 1
+align 12 the 1
+align 13 weapon 1
+align 14 with 1
+align 15 them 0.987816 him 0.0121836
+align 16 </s> 1

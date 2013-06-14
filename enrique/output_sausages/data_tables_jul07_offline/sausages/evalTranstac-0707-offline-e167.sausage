@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999962 i 3.82552e-05
+align 2 did 0.972535 do 0.0172494 to 0.00556124 okay 0.00444331 get 0.0002107
+align 3 the 0.997795 they 0.00220545
+align 4 translator 1
+align 5 give 0.978254 a 0.00774271 to 0.00733238 i 0.00643222 he 0.000239045
+align 6 *DELETE* 0.978254 give 0.0217464
+align 7 you 1
+align 8 his 1
+align 9 name 1
+align 10 *DELETE* 1 is 2.11996e-07
+align 11 </s> 1

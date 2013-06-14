@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i'm 0.919604 i 0.080396
+align 3 *DELETE* 0.919604 am 0.080396
+align 4 going 1
+align 5 to 1
+align 6 do 1
+align 7 um 0.87647 uh 0.12353
+align 8 *DELETE* 0.997056 uh 0.00294359
+align 9 vehicle 1
+align 10 inspection 1
+align 11 now 0.998623 though 0.00137744 *DELETE* 3.8396e-11
+align 12 *DELETE* 0.999854 uh 8.75857e-05 i 5.81563e-05 you 2.7158e-08 they'll 1.4628e-09 so 1.68986e-13 out 4.62474e-18
+align 13 </s> 1

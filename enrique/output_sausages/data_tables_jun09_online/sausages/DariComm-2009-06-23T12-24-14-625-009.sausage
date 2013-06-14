@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 understand 1
+align 4 *DELETE* 0.998765 it 0.000574455 the 0.000253705 that 0.000123012 uh 9.13001e-05 them 7.81505e-05 now 3.15554e-05 um 2.68966e-05 how 2.02428e-05 you 1.99223e-05 i 9.25347e-06 me 6.39569e-06
+align 5 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 how 0.648097 hi 0.29182 i 0.0599207 *DELETE* 0.000161836
+align 2 how 0.422942 i 0.404088 *DELETE* 0.17297
+align 3 is 0.435458 was 0.397624 how's 0.166918
+align 4 he 0.991276 the 0.00872359
+align 5 looking 1
+align 6 uh 0.911631 ilah 0.0598595 at 0.0285099
+align 7 *DELETE* 0.960532 uh 0.0394683
+align 8 how's 1
+align 9 the 1
+align 10 status 1
+align 11 right 0.997456 i 0.00152473 *DELETE* 0.000514222 are 0.000251663 write 0.000114238 on 7.37607e-05 run 6.46423e-05 and 4.7167e-07 sir 4.35476e-08
+align 12 now 0.997938 know 0.00141434 *DELETE* 0.00064794
+align 13 *DELETE* 0.996797 uh 0.00198951 or 0.0005501 renault 0.000514155 no 0.000133247 i 1.6279e-05 um 1.20865e-07 turner 6.15496e-08 earner 5.80515e-09
+align 14 </s> 1

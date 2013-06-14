@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 any 1
+align 4 tell 0.577082 taller 0.408469 *DELETE* 0.013266 tall 0.00118373
+align 5 them 0.445986 than 0.252528 been 0.185818 bin 0.0427563 ben 0.0356334 talaban 0.013266 then 0.0107938 benn 0.00538799 *DELETE* 0.00513994 about 0.00269001
+align 6 *DELETE* 0.99217 bend 0.00295768 a 0.00269001 bent 0.00218227
+align 7 presence 1
+align 8 in 0.774602 and 0.225398
+align 9 any 0.940174 they 0.0325568 we 0.0272294 a 3.69861e-05 he 2.38892e-06 in 1.79942e-08
+align 10 *DELETE* 0.739821 of 0.200233 need 0.0599462
+align 11 these 0.976965 nice 0.0185142 needs 0.00135761 he's 0.00131872 niece 0.000574438 knees 0.000486575 ease 0.000265701 use 0.000229235 *DELETE* 0.000159993 each 5.69273e-05 youth 4.91381e-05 east 2.2247e-05
+align 12 locations 1
+align 13 *DELETE* 0.993231 um 0.0067647 uh 2.65462e-06 i 1.8048e-06 in 1.922e-07
+align 14 </s> 1

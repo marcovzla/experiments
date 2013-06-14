@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 then 1
+align 2 we 1
+align 3 will 1
+align 4 have 1
+align 5 the 1
+align 6 bad 0.916511 *DELETE* 0.0834889
+align 7 the 0.916511 bada 0.0834889
+align 8 personnel 1
+align 9 um 0.884894 *DELETE* 0.0894023 uh 0.0257038
+align 10 uh 0.580031 *DELETE* 0.419969
+align 11 *DELETE* 0.999958 uh 4.14206e-05 i 4.11079e-07
+align 12 *DELETE* 0.480205 heading 0.360077 at 0.0733885 it 0.073197 hidden 0.0113718 to 0.00128392 carrying 0.000416384 okay 5.71843e-05 obtaining 2.85985e-06
+align 13 hitting 0.606567 in 0.361996 heading 0.0215654 *DELETE* 0.00987193
+align 14 *DELETE* 0.957758 in 0.0422419
+align 15 the 0.932616 *DELETE* 0.0431604 in 0.0242235
+align 16 *DELETE* 0.996118 in 0.00388152
+align 17 north 1
+align 18 south 1
+align 19 eastern 0.998871 east 0.00112898
+align 20 *DELETE* 0.998871 and 0.00112898
+align 21 was 0.998812 ones 0.00117652 once 1.12153e-05
+align 22 with 1
+align 23 my 1
+align 24 platoon 1
+align 25 members 0.999696 numbers 0.000260899 members' 2.84841e-05 member's 1.49306e-05
+align 26 </s> 1

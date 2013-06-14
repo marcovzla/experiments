@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 verify 0.992682 verified 0.00441563 very 0.00290199
+align 5 *DELETE* 0.997098 far 0.00290199
+align 6 that 1
+align 7 your 0.98697 you're 0.0130302
+align 8 passengers 0.987868 passengers' 0.00850803 passenger's 0.0036244
+align 9 are 0.995219 or 0.00439379 were 0.000297549 our 8.99927e-05
+align 10 not 1
+align 11 insurgents 0.999249 insurgence 0.000286141 insurgent 0.000268803 insurgents' 0.000195909
+align 12 *DELETE* 0.999974 uh 2.56227e-05
+align 13 </s> 1

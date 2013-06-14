@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 mayor 0.569407 *DELETE* 0.317588 maire 0.113004
+align 4 it's 0.681956 merits 0.31711 merit 0.000478512 its 0.00045597
+align 5 good 1
+align 6 to 1
+align 7 see 1
+align 8 you 1
+align 9 again 1
+align 10 *DELETE* 0.999992 uh 7.52627e-06
+align 11 </s> 1

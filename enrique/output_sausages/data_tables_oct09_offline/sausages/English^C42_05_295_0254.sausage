@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 do 0.945199 *DELETE* 0.0548013
+align 3 you 1
+align 4 have 1
+align 5 my 1
+align 6 cell 1
+align 7 phone 1
+align 8 number 0.99602 numbers 0.00398002
+align 9 it 0.418621 *DELETE* 0.326805 to 0.230968 if 0.0103676 of 0.00588994 is 0.00370256 at 0.00270356 it's 0.000463005 a 0.000313469 i 5.80625e-05 two 2.69809e-05 tie 2.2313e-05 its 2.08917e-05 uh 1.04637e-05 can 8.69239e-06 toe 7.11787e-06 thai 4.77981e-06 key 3.59213e-06 tow 2.34928e-06 and 9.41966e-07 could 7.54979e-08
+align 10 *DELETE* 0.999996 you 3.78623e-06
+align 11 </s> 1

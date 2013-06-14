@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 no 0.986891 know 0.0120779 you 0.00103153
+align 2 *DELETE* 0.998968 know 0.00103153
+align 3 we'll 0.93618 will 0.0491985 we 0.0146216
+align 4 *DELETE* 0.985378 will 0.0146216
+align 5 get 1
+align 6 our 0.99765 are 0.00225126 a 9.90922e-05
+align 7 medic 1
+align 8 to 1
+align 9 help 1
+align 10 you 1
+align 11 out 0.934612 while 0.0329011 well 0.0324683 *DELETE* 1.82683e-05
+align 12 *DELETE* 0.999362 uh 0.000612348 with 1.33662e-05 um 1.20347e-05 wa'el 1.00999e-07 wild 1.01614e-08 now 2.02928e-09 to 1.80846e-12 i 1.42397e-21
+align 13 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 we 1
+align 3 cannot 1
+align 4 release 0.972987 really 0.0270125
+align 5 him 0.795996 of 0.0829007 in 0.0508698 them 0.0355999 some 0.0346333 *DELETE* 5.20973e-15
+align 6 at 0.999887 if 0.000112596 with 3.7761e-13
+align 7 this 1
+align 8 time 1
+align 9 *DELETE* 0.999966 i 3.20339e-05 uh 2.31231e-06
+align 10 </s> 1

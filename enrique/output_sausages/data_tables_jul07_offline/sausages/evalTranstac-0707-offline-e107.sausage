@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 have 0.979734 i 0.01412 and 0.00508982 at 0.000806769 uh 0.00024932
+align 2 *DELETE* 0.985631 have 0.0143693
+align 3 any 1
+align 4 any 0.580991 other 0.222231 *DELETE* 0.196778
+align 5 other 0.777769 *DELETE* 0.222231
+align 6 kids 0.998695 kids' 0.00130498
+align 7 have 0.70874 had 0.29034 head 0.000919897
+align 8 problems 1
+align 9 being 0.992037 been 0.00796343
+align 10 sick 1
+align 11 as 1
+align 12 well 1
+align 13 </s> 1

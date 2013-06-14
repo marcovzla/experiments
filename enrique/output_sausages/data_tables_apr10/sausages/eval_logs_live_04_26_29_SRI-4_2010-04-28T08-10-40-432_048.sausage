@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 schools 1
+align 4 are 1
+align 5 in 1
+align 6 the 0.730617 this 0.267393 a 0.00199009
+align 7 city 1
+align 8 *DELETE* 0.999993 uh 4.32365e-06 i 2.95587e-06 it 6.83149e-08 and 8.57465e-10
+align 9 </s> 1

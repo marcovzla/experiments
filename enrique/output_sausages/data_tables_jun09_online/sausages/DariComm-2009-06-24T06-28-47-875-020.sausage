@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 0.999934 uh 6.55245e-05
+align 2 there 1
+align 3 any 1
+align 4 insurgents 1
+align 5 early 0.929783 currently 0.0631151 curly 0.0070662 earlier 3.54539e-05
+align 6 in 0.999765 and 0.00021488 on 2.00958e-05
+align 7 the 1
+align 8 hospital 0.999221 hospitals 0.000779242 *DELETE* 7.34711e-21
+align 9 *DELETE* 1 who 3.11585e-08 hospital's 8.0935e-12 uh 1.20613e-12 i 4.28793e-13 it 2.02738e-15
+align 10 </s> 1

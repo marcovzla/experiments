@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 in 0.821185 and 0.176603 *DELETE* 0.00221123
+align 2 the 0.962272 then 0.0330755 they 0.00243028 i'm 0.00145022 i 0.000761012 *DELETE* 1.12067e-05
+align 3 new 0.962347 the 0.0172926 *DELETE* 0.00727366 in 0.00361766 you 0.00294058 we 0.0026361 he 0.00243196 know 0.00117449 a 0.000286356
+align 4 *DELETE* 0.992516 a 0.0032542 to 0.00136955 knew 0.00125579 mended 0.000761012 who 0.000490952 do 0.00018947 he'll 8.22883e-05 no 8.10935e-05
+align 5 *DELETE* 0.999931 a 6.82591e-05 you 5.7603e-07
+align 6 commander 1
+align 7 in 0.999907 *DELETE* 9.34165e-05
+align 8 this 1 its 4.6188e-12
+align 9 area 1
+align 10 *DELETE* 1 uh 8.52982e-12
+align 11 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 yeah 1
+align 3 i'll 0.992209 i 0.00643756 uh 0.00135366
+align 4 *DELETE* 0.992209 i'll 0.00779122
+align 5 definitely 1
+align 6 be 1
+align 7 going 1
+align 8 over 1
+align 9 that 1
+align 10 *DELETE* 0.99994 uh 3.77118e-05 i 1.98674e-05 if 2.69961e-06
+align 11 </s> 1

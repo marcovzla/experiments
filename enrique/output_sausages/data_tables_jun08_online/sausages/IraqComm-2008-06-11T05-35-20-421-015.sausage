@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.99687 i 0.00312978
+align 2 i'm 1
+align 3 here 1
+align 4 to 1
+align 5 check 1
+align 6 on 1
+align 7 the 1
+align 8 iraqi 1
+align 9 policeman 0.98989 policemen 0.0101095
+align 10 that 1
+align 11 was 1
+align 12 injured 1
+align 13 </s> 1

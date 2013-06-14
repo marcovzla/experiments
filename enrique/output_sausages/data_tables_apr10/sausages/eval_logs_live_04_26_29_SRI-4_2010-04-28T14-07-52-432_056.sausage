@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 are 1
+align 4 teachers 0.977856 teachers' 0.0183325 teacher's 0.00381108
+align 5 paid 1 pay 3.96484e-08
+align 6 per 0.820072 for 0.178313 or 0.00161433 four 7.50184e-07
+align 7 *DELETE* 0.820407 a 0.179593
+align 8 month 0.999802 months 0.000198207
+align 9 </s> 1

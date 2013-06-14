@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 0.974655 was 0.017848 wear 0.00749748
+align 2 this 0.552558 does 0.206114 is 0.179988 the 0.0410681 it 0.017762 there's 0.00250699 *DELETE* 3.48689e-11
+align 3 the 0.499623 this 0.48907 they 0.0112207 *DELETE* 8.32174e-05 there 2.72537e-06
+align 4 specialties 0.725575 specialities 0.274425 specialty 2.38348e-09
+align 5 *DELETE* 0.999998 uh 2.30824e-06
+align 6 </s> 1

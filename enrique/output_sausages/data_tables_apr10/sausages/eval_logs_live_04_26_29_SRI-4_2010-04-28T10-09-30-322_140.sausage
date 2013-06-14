@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 color 1
+align 3 of 0.962374 *DELETE* 0.037626
+align 4 uniforms 1
+align 5 were 0.893961 we're 0.100699 for 0.0052639 where 7.58324e-05
+align 6 the 1
+align 7 americans 1
+align 8 that 1
+align 9 took 1
+align 10 your 1
+align 11 brother 1
+align 12 wearing 1
+align 13 *DELETE* 0.999084 it 0.000425204 a 0.000202652 uh 0.000175804 i 0.000112388 the 2.44723e-07 if 4.32591e-08
+align 14 </s> 1

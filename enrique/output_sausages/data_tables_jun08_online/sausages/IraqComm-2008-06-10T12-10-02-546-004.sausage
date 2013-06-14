@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 my 1
+align 3 name 1
+align 4 is 1
+align 5 sergeant 1
+align 6 inman 0.913706 in 0.0706996 and 0.0155949 *DELETE* 1.40196e-16
+align 7 *DELETE* 0.913706 men 0.0406789 them 0.0250815 then 0.00872022 in 0.00297107 and 0.00290769 man 0.00247047 mint 0.001452 min 0.00101137 an 0.000411187 many 0.000176668 mend 0.000166557 than 5.25617e-05 ming 4.86643e-05 none 3.99028e-05 meant 3.41781e-05 on 3.20443e-05 end 2.18535e-05 one 1.71866e-05 the 3.80864e-07
+align 8 *DELETE* 0.999999 knee 3.79804e-07 i 1.52452e-07 i'm 8.16481e-08 standing 1.91675e-08 uh 7.78047e-09 um 7.19351e-09 new 1.06078e-09 going 6.4313e-10 manned 1.97694e-10 non 2.51422e-14 the 1.0156e-14 him 8.65883e-15 mina 3.11716e-16 there 1.54527e-16 that 1.3569e-16 ma'an 3.77656e-17 earn 3.26032e-17 minute 1.07171e-17 now 7.35266e-18 no 1.87332e-18
+align 9 </s> 1

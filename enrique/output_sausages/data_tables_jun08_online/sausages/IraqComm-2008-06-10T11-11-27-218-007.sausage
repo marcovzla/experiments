@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computers 0.801098 computer 0.198902
+align 2 say 0.994387 a 0.00516482 saying 0.00027022 to 0.000112319 *DELETE* 5.04225e-05 they 1.56906e-05
+align 3 again 0.999292 in 0.00027022 can 0.000268541 i 0.000114475 *DELETE* 4.36402e-05 take 1.07829e-05 a 7.95756e-10 it 7.23577e-13 sake 2.12734e-18
+align 4 *DELETE* 0.999743 can 0.000114475 i 6.33597e-05 taken 3.96396e-05 uh 2.51751e-05 him 1.07829e-05 game 3.44727e-06 gang 5.53321e-07 in 7.23577e-13 can't 6.99139e-15 taking 2.09532e-15 aching 1.8195e-15 ken 4.95979e-16 going 1.12393e-16 and 2.12734e-18
+align 5 *DELETE* 1 in 3.12411e-20
+align 6 </s> 1

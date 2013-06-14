@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.981988 i 0.0180119
+align 2 can 0.997893 and 0.00210652
+align 3 the 1
+align 4 local 1
+align 5 leadership 1
+align 6 help 1
+align 7 you 0.992757 year 0.00713447 *DELETE* 0.000108687
+align 8 *DELETE* 0.999375 you 0.000259216 uh 0.000251113 your 6.73161e-05 here 4.07776e-05 i 6.1807e-06 u 5.92886e-07 are 1.11333e-07 or 7.69566e-12 even 4.60518e-15 in 1.79621e-17
+align 9 </s> 1

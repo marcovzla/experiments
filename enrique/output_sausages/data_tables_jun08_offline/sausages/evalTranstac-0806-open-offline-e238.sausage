@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 it's 1
+align 3 uh 1
+align 4 it's 1
+align 5 very 1
+align 6 important 1
+align 7 to 1
+align 8 show 1
+align 9 that 1
+align 10 uh 0.83673 to 0.16327
+align 11 as 1
+align 12 a 1
+align 13 professional 1
+align 14 military 1
+align 15 force 1
+align 16 you 1
+align 17 know 1
+align 18 how 0.99999 *DELETE* 9.91979e-06 had 4.49751e-08
+align 19 to 0.99999 at 9.91979e-06
+align 20 use 0.99999 ease 9.91979e-06
+align 21 the 0.903032 a 0.0965366 of 0.000431809
+align 22 pistol 1
+align 23 properly 1
+align 24 </s> 1

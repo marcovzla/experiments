@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 we 0.926464 *DELETE* 0.0733089 i 0.000226902
+align 2 will 0.943575 we'll 0.0564251
+align 3 have 1
+align 4 these 1
+align 5 three 1
+align 6 here 0.981267 hear 0.0187328
+align 7 here 0.990872 hear 0.00912475 *DELETE* 3.50079e-06
+align 8 in 0.962624 and 0.0343584 any 0.00297036 an 4.39397e-05 hearing 3.50079e-06 it 1.92156e-07
+align 9 here 0.999778 hear 0.000191263 you 3.02642e-05
+align 10 *DELETE* 0.999874 uh 7.41635e-05 here 3.02367e-05 i 2.1313e-05 hear 2.74373e-08
+align 11 </s> 1

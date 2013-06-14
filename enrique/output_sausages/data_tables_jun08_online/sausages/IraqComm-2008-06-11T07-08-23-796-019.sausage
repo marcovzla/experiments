@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 town 1
+align 3 are 1
+align 4 you 1
+align 5 from 1
+align 6 *DELETE* 0.99998 it 2.03552e-05 uh 8.09777e-08 sir 1.55222e-13
+align 7 </s> 1

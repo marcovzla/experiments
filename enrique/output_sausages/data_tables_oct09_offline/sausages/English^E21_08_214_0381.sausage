@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 well 0.99922 oh 0.000779888
+align 2 that's 1
+align 3 what 1
+align 4 i'm 1
+align 5 here 1
+align 6 for 0.999999 four 8.52509e-07
+align 7 *DELETE* 1 a 1.59604e-07 uh 1.08031e-07
+align 8 </s> 1

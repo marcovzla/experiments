@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 your 0.955985 you're 0.0430069 here 0.0010078
+align 3 correct 1
+align 4 colonel 1
+align 5 that 1
+align 6 uh 1
+align 7 is 0.793054 it's 0.191323 *DELETE* 0.00857169 something 0.00705071
+align 8 something 0.992949 *DELETE* 0.00705071
+align 9 that 1
+align 10 needs 0.999918 need 8.19924e-05
+align 11 to 1
+align 12 be 1
+align 13 corrected 1
+align 14 *DELETE* 0.998875 it 0.000830413 to 0.000242187 the 5.20451e-05 them 1.01907e-07 do 1.82857e-08 did 1.28919e-10 they 3.81596e-11 at 3.31859e-11 that 2.46531e-12 then 3.63795e-15
+align 15 </s> 1

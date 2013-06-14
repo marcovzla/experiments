@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.999622 where 0.000362741 we're 1.49765e-05
+align 2 workers 0.999531 workers' 0.000328789 worker's 0.000140037
+align 3 have 0.917716 *DELETE* 0.0822842
+align 4 enjoying 0.683207 enjoyed 0.183993 haven't 0.0822842 enjoy 0.0500989 been 0.000417276
+align 5 *DELETE* 0.669441 an 0.166161 joined 0.0740972 and 0.0330501 in 0.0324478 the 0.0159759 join 0.0052721 jordan 0.00284306 joint 0.000489071 new 0.00018442 me 3.87169e-05
+align 6 insurgents 0.786746 insurgence 0.208109 insurgents' 0.00351937 the 0.00152013 *DELETE* 0.000105318
+align 7 *DELETE* 0.997815 insurgents 0.00114768 uh 0.000522911 insurgence 0.000372449 insurgency 0.000105318 i 3.62219e-05 in 1.36589e-07 a 8.33633e-08 and 1.14108e-11
+align 8 </s> 1

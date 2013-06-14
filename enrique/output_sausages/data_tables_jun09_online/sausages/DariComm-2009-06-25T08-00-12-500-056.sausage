@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 use 1
+align 3 this 1
+align 4 car 1
+align 5 to 1
+align 6 tighten 1
+align 7 the 1
+align 8 tourniquet 1
+align 9 down 0.994377 that 0.00428952 *DELETE* 0.00133367
+align 10 *DELETE* 0.989431 out 0.00428952 uh 0.00269722 doubt 0.00133365 to 0.00122806 i 0.000283902 in 0.000260028 and 0.000123258 a 7.86274e-05 the 7.18168e-05 it 5.61732e-05 you 3.89988e-05 do 3.74498e-05 um 2.34296e-05 too 2.27195e-05 if 9.73832e-06 there 9.30399e-06 at 3.13693e-06 is 1.4302e-06 that 6.8135e-07 i'm 3.21616e-07 dawr 1.98962e-08 two 4.49268e-09 this 1.28534e-11 they 4.65231e-12 can 3.74731e-12 an 4.42177e-13 from 1.02967e-13 because 9.62636e-14
+align 11 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 medication 1
+align 3 is 1
+align 4 most 1
+align 5 needed 0.985846 need 0.0137388 *DELETE* 0.000415625
+align 6 *DELETE* 0.985289 it 0.0132269 needy 0.000415625 in 0.000275159 uh 0.000261381 to 0.000231687 a 0.00018384 i 0.000103043 you 5.9203e-06 them 2.91827e-06 at 1.90703e-06 an 1.71777e-06 the 1.17451e-06
+align 7 </s> 1

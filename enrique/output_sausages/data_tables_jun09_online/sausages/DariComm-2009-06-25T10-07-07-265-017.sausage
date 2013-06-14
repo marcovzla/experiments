@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.991059 well 0.0079942 with 0.000946783
+align 2 village 1
+align 3 do 0.816294 *DELETE* 0.130408 you 0.0532983
+align 4 you 0.946701 *DELETE* 0.0532983 t 2.65763e-07
+align 5 live 1 *DELETE* 2.25675e-17
+align 6 in 0.999884 *DELETE* 0.00011569
+align 7 *DELETE* 0.998627 it 0.000449281 now 0.000395897 uh 0.000333613 there 8.74441e-05 her 5.31325e-05 a 2.13896e-05 and 1.67845e-05 at 1.14616e-05 or 4.2246e-06 the 2.36381e-08 eleven 9.33394e-11 living 1.22047e-17
+align 8 </s> 1

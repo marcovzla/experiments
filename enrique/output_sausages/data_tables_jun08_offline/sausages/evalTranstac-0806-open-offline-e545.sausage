@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.997924 i 0.00207558
+align 3 understand 1
+align 4 about 1
+align 5 are 1
+align 6 there 1
+align 7 any 1
+align 8 palm 1
+align 9 groves 0.433687 girls 0.282637 grows 0.254369 girl's 0.0293068
+align 10 a 0.341529 *DELETE* 0.33268 uh 0.325791
+align 11 or 0.97944 are 0.0205602
+align 12 *DELETE* 0.97944 all 0.0205602
+align 13 palm 1
+align 14 trees 1
+align 15 in 1
+align 16 the 0.992975 *DELETE* 0.00702467
+align 17 neighborhood 1
+align 18 that 1
+align 19 may 0.944018 my 0.0536144 might 0.00236754
+align 20 provide 1
+align 21 cover 0.999963 covered 3.65482e-05
+align 22 </s> 1

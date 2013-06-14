@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 others 0.660383 to 0.256437 i 0.0304887 oh 0.0223675 *DELETE* 0.017605 uh 0.00609606 tell 0.00361287 others' 0.00271099 are 0.000299484
+align 2 *DELETE* 0.663094 others 0.301623 other 0.0271316 there's 0.00728466 others' 0.000543955 there 0.00032287
+align 3 just 0.617781 you 0.16269 as 0.087047 are 0.0614296 is 0.0316292 should 0.0233827 to 0.00801555 this 0.00427042 she 0.00374892 a 6.03152e-06
+align 4 some 1
+align 5 things 1
+align 6 i 0.998349 that 0.00165071
+align 7 would 1
+align 8 like 1
+align 9 to 1
+align 10 go 1
+align 11 over 1
+align 12 uh 1
+align 13 uh 1
+align 14 some 0.998691 uh 0.00130852
+align 15 *DELETE* 0.998691 some 0.00130852
+align 16 procedures 1
+align 17 and 1
+align 18 some 1
+align 19 equipment 1
+align 20 uh 0.999831 um 0.000169289
+align 21 that 0.999895 then 0.000104634 there 4.16949e-09
+align 22 i 1
+align 23 wanna 0.999894 want 0.000106181
+align 24 *DELETE* 0.999894 to 0.000106181
+align 25 make 1
+align 26 sure 1
+align 27 that 1
+align 28 you 1
+align 29 uh 0.692699 have 0.307301
+align 30 *DELETE* 0.692699 uh 0.307301
+align 31 that 0.988517 are 0.0114834 but 7.99154e-10
+align 32 you 1
+align 33 have 0.999976 had 2.40325e-05
+align 34 </s> 1

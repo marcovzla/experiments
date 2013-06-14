@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 0.998363 *DELETE* 0.00163741
+align 2 you 1
+align 3 understand 1
+align 4 the 0.918146 they 0.0814617 that 0.000391942
+align 5 need 1
+align 6 to 1
+align 7 make 1
+align 8 a 1
+align 9 serpentine 1
+align 10 road 0.958795 rode 0.0400297 roads 0.00117566
+align 11 before 1
+align 12 the 1 that 1.46591e-11
+align 13 checkpoint 0.999985 checkpoints 1.52262e-05
+align 14 *DELETE* 1 is 6.42593e-17 uh 2.78996e-18
+align 15 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 would 1
+align 2 it 1
+align 3 be 1
+align 4 helpful 1
+align 5 if 0.993255 it 0.00530757 of 0.000924535 up 0.000489028 at 1.90016e-05 and 5.34408e-06
+align 6 there 0.832329 *DELETE* 0.167602 they're 6.95435e-05
+align 7 is 0.831565 there's 0.167602 was 0.000827005 as 6.47967e-06
+align 8 a 1
+align 9 police 1
+align 10 at 1
+align 11 the 0.881125 this 0.118875
+align 12 school 1
+align 13 all 1
+align 14 day 1
+align 15 *DELETE* 0.999971 uh 2.56335e-05 i 3.44521e-06
+align 16 </s> 1

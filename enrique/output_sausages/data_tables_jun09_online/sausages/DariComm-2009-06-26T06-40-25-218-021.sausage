@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 *DELETE* 0.711161 how 0.252621 well 0.0360249 old 0.000193656 uh 1.06839e-07
+align 3 are 1
+align 4 the 1
+align 5 animals 1
+align 6 in 1
+align 7 the 1
+align 8 area 1
+align 9 *DELETE* 0.999895 uh 0.000105493
+align 10 </s> 1

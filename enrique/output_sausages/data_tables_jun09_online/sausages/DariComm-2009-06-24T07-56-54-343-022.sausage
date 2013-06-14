@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 *DELETE* 0.999997 a 3.23542e-06
+align 6 problem 1
+align 7 with 1
+align 8 the 1 that 4.13168e-07 a 1.51068e-13
+align 9 trash 1
+align 10 *DELETE* 0.999917 in 4.858e-05 uh 3.40747e-05 i 1.54905e-10 it 5.25015e-13 to 1.49076e-15
+align 11 </s> 1

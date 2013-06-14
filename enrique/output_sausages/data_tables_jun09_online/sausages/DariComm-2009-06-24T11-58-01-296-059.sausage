@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 my 0.999865 a 0.00010176 uh 3.29254e-05
+align 2 family 0.970538 *DELETE* 0.0294623
+align 3 is 0.970538 family's 0.0294623
+align 4 good 1
+align 5 thank 1
+align 6 you 1
+align 7 *DELETE* 0.999362 uh 0.000622447 um 1.53595e-05
+align 8 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 explain 0.99948 explained 0.00051967
+align 3 the 1
+align 4 photos 1
+align 5 on 1
+align 6 the 0.999987 to 1.3253e-05
+align 7 cover 0.941642 color 0.0583583
+align 8 of 0.999816 *DELETE* 0.000184231
+align 9 the 0.999939 *DELETE* 6.05878e-05
+align 10 d._v._d. 0.714335 deed 0.274079 deep 0.00802732 *DELETE* 0.00355907
+align 11 *DELETE* 0.714335 eating 0.140272 beating 0.116311 heating 0.0133048 meeting 0.0122291 needing 0.00354918
+align 12 </s> 1

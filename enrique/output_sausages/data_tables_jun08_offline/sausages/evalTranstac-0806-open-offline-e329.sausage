@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 next 1
+align 3 we'll 1
+align 4 check 1
+align 5 on 1
+align 6 the 0.985392 them 0.00921432 him 0.00291025 a 0.00181575 that 0.000434254 then 0.000233145
+align 7 breathing 0.998231 breeding 0.00176935 briefing 5.51522e-09
+align 8 *DELETE* 0.999999 i 8.2951e-07 uh 3.50909e-07 it 1.11746e-07
+align 9 </s> 1

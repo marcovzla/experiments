@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 0.998022 its 0.00197825
+align 4 size 1
+align 5 of 1
+align 6 the 1
+align 7 house 1 houses 5.28025e-11 *DELETE* 3.66519e-15
+align 8 *DELETE* 1 houses 3.92242e-11 is 2.49786e-11
+align 9 </s> 1

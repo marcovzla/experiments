@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 was 1
+align 3 wondering 1
+align 4 if 1
+align 5 i 1
+align 6 if 1
+align 7 you 1
+align 8 could 1
+align 9 spare 1
+align 10 a 1
+align 11 few 1
+align 12 minutes 1
+align 13 *DELETE* 0.988766 uh 0.0110506 i 0.000175649 a 3.34505e-06 at 2.68046e-06 of 9.10082e-07 it 3.98962e-07 if 3.59916e-07 as 2.82143e-07
+align 14 </s> 1

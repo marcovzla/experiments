@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 good 0.786709 *DELETE* 0.196306 and 0.012723 i'm 0.00421455 i 2.47057e-05 we 2.34355e-05 when 4.78567e-09 in 6.68864e-25
+align 2 morning 0.982265 worry 0.00498835 more 0.00383391 we're 0.00350002 worried 0.0025428 were 0.00240968 we 0.000271141 *DELETE* 0.000188872
+align 3 *DELETE* 0.998069 uh 0.0010084 were 0.000271141 warning 0.000177971 in 0.000150869 going 0.000149249 i 8.45398e-05 sir 4.02315e-05 you 3.58252e-05 mourning 9.44952e-06 mortar 1.45178e-06 a 1.3051e-06 um 1.38185e-07 i'm 9.54161e-08
+align 4 </s> 1

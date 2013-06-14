@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 *DELETE* 0.948423 the 0.0515768
+align 4 in 0.663315 done 0.281623 man 0.0497096 *DELETE* 0.00349611 men 0.0018563 don't 7.98912e-14
+align 5 at 0.860214 and 0.0812958 of 0.0353049 *DELETE* 0.0231851
+align 6 a 0.96106 the 0.023016 *DELETE* 0.0157741 uh 6.19784e-05 out 3.98779e-05 i 3.68234e-05 mental 1.09213e-05 on 2.163e-07 enter 7.98912e-14
+align 7 *DELETE* 0.996515 nana 0.00348519
+align 8 house 1
+align 9 *DELETE* 0.999936 uh 3.56461e-05 i 2.78668e-05 sir 1.3484e-07 is 3.93631e-08 in 3.33603e-08 are 5.90659e-09 of 2.62869e-09
+align 10 </s> 1

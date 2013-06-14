@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1 where 1.17484e-12
+align 2 other 0.969804 are 0.0297143 uh 0.000481532
+align 3 *DELETE* 0.969804 the 0.0297143 other 0.000481532
+align 4 things 0.999801 *DELETE* 0.000199455
+align 5 *DELETE* 0.999137 uh 0.000334083 do 0.000222414 thing's 0.000199455 i 9.29924e-05 you 1.40409e-05 in 1.05112e-07 to 3.51402e-11 it 1.14523e-11 that 1.76378e-12
+align 6 </s> 1

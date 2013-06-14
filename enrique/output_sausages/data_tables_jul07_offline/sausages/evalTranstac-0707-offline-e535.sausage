@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 surely 0.993998 should 0.00600178
+align 3 *DELETE* 0.993998 leave 0.00600178
+align 4 need 0.990426 it 0.00367443 me 0.00343837 be 0.00187285 you 0.000586691 the 1.57741e-06
+align 5 to 0.924383 two 0.0605135 too 0.0149555 *DELETE* 0.00014781
+align 6 our 0.932968 are 0.0661007 or 0.000783128 tore 0.00014781
+align 7 leaders 0.997983 leaders' 0.00201652
+align 8 to 1
+align 9 arrange 1
+align 10 for 1
+align 11 that 1
+align 12 and 1
+align 13 i 1
+align 14 hope 1
+align 15 we 1
+align 16 have 1
+align 17 a 1
+align 18 successful 1
+align 19 mission 1
+align 20 </s> 1

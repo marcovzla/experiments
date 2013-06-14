@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 sir 0.978095 there 0.0219054
+align 3 we're 0.971221 were 0.0281201 we'll 0.000658404
+align 4 just 1
+align 5 a 0.999697 as 0.000182831 to 3.48755e-05 uh 3.21046e-05 of 1.9691e-05 *DELETE* 1.93979e-05 the 1.4436e-05 this 2.27114e-15
+align 6 security 1
+align 7 patrol 1 patrols 5.69387e-11
+align 8 </s> 1

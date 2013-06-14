@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 in 0.988032 and 0.0119683
+align 7 the 0.999993 that 6.89139e-06
+align 8 village 1
+align 9 *DELETE* 0.999828 uh 0.000133949 i 2.64054e-05 it 9.07895e-06 that 2.11069e-06 and 3.91423e-07 in 4.7034e-10 but 1.17631e-10 to 1.06391e-10 the 7.36085e-11 do 4.69071e-11 if 5.38104e-12 is 8.19706e-15
+align 10 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 told 0.999824 toward 0.000110824 taught 6.47824e-05
+align 4 the 1
+align 5 police 1
+align 6 *DELETE* 0.997698 uh 0.00214772 i 0.000152844 a 9.21984e-07 do 1.71875e-07 it 7.0987e-08 to 7.37175e-12 the 3.69569e-12 in 3.69568e-12 that 1.10088e-14
+align 7 </s> 1

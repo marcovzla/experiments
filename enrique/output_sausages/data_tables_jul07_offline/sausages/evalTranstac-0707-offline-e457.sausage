@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 since 0.995253 so 0.00474508 says 1.4802e-06
+align 2 *DELETE* 0.995255 as 0.00473844 it's 5.1768e-06 if 1.42345e-06 that 3.02923e-08 is 6.7575e-09
+align 3 you 0.999994 we 5.69182e-06
+align 4 do 1
+align 5 have 0.994114 of 0.00588613
+align 6 a 1
+align 7 large 1
+align 8 family 1
+align 9 maybe 0.98345 may 0.0165503
+align 10 *DELETE* 0.98345 be 0.0165503
+align 11 they 1
+align 12 can 0.919127 could 0.0808734
+align 13 stay 1
+align 14 at 0.999499 in 0.000500515
+align 15 a 0.999583 our 0.000416787
+align 16 friend's 1
+align 17 house 1
+align 18 or 0.969915 were 0.0288034 we're 0.00128194
+align 19 family 0.729442 a 0.270558
+align 20 *DELETE* 0.729442 family 0.270558
+align 21 member's 0.828261 members 0.17053 members' 0.00120893
+align 22 house 1
+align 23 *DELETE* 0.999424 i 0.000405506 uh 0.000148286 if 1.91292e-05 in 2.97355e-06 do 1.37244e-07 it 7.23789e-09 a 1.20038e-09
+align 24 </s> 1

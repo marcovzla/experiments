@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computer 0.703455 i'm 0.294908 *DELETE* 0.00163723
+align 2 *DELETE* 0.703455 peter 0.296545
+align 3 play 1
+align 4 instructions 0.999124 a 0.000876362
+align 5 *DELETE* 0.999124 instructions 0.000876362 i 7.55221e-16 to 5.33137e-16
+align 6 </s> 1

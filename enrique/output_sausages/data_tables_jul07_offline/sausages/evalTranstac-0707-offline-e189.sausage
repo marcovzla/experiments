@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 according 1
+align 3 to 1
+align 4 our 1
+align 5 records 0.949149 record 0.0508512
+align 6 sir 1
+align 7 uh 1
+align 8 and 0.937681 is 0.0492318 uh 0.0130133 *DELETE* 5.48334e-05 i 1.94216e-05
+align 9 *DELETE* 0.950132 it 0.0492318 they 0.000636705
+align 10 do 0.939578 did 0.050236 that 0.00501153 if 0.00467871 *DELETE* 0.000444475 and 4.58778e-05 with 4.97058e-06
+align 11 you 0.857803 do 0.128428 he 0.0137699
+align 12 *DELETE* 0.999945 did 5.48334e-05
+align 13 *DELETE* 0.999945 he 5.48334e-05
+align 14 *DELETE* 0.844324 you 0.128428 is 0.0138048 a 0.0134237 has 1.99063e-05
+align 15 suspected 0.761393 suspect 0.238607
+align 16 *DELETE* 0.620774 it 0.250893 to 0.121641 of 0.00354763 that 0.00292542 did 0.000218377
+align 17 and 0.999569 in 0.00043126
+align 18 they 0.992485 i 0.00751464
+align 19 have 1
+align 20 good 1
+align 21 reason 1
+align 22 to 1
+align 23 believe 1
+align 24 he's 0.980868 he 0.013472 *DELETE* 0.0056604
+align 25 *DELETE* 0.980868 is 0.013472 use 0.0056604
+align 26 involved 1
+align 27 in 1
+align 28 insurgent 1
+align 29 activity 0.999974 activities 2.58494e-05
+align 30 </s> 1

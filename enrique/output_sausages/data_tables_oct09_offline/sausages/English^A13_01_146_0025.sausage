@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 open 1
+align 4 up 1
+align 5 the 1
+align 6 back 1
+align 7 door 1
+align 8 on 1
+align 9 the 1
+align 10 driver's 0.999724 *DELETE* 0.000276338
+align 11 a 0.801721 of 0.103306 *DELETE* 0.0946968 drivers 0.000276338
+align 12 please 0.895196 ablution 0.0912821 place 0.00414164 pleas 0.00222152 opposed 0.0015985 push 0.00150107 ablutions 0.00120733 police 0.00115415 pleased 0.000812775 oppose 0.000441708 applies 0.00031115 supplies 0.000132442
+align 13 </s> 1

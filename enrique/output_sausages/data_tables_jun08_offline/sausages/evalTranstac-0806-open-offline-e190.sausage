@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.994479 i 0.00409953 uh 0.0014211
+align 3 i'll 1
+align 4 do 1
+align 5 that 1
+align 6 uh 1
+align 7 about 0.739862 uh 0.253034 i 0.00710449
+align 8 *DELETE* 0.739862 about 0.260138
+align 9 my 1
+align 10 friend 1
+align 11 know 0.647053 no 0.25751 though 0.086363 oh 0.00788528 now 0.00118874
+align 12 his 0.999035 is 0.000965215
+align 13 leg 1
+align 14 wounds 0.999995 was 5.36971e-06
+align 15 will 1
+align 16 he 0.999604 be 0.000396218
+align 17 be 1
+align 18 able 1
+align 19 to 1
+align 20 uh 0.987352 um 0.0126477
+align 21 i 0.957905 *DELETE* 0.0420952
+align 22 have 1
+align 23 uh 1
+align 24 uh 0.521263 i 0.261253 *DELETE* 0.153751 a 0.0623103 oh 0.00142251
+align 25 mobility 1
+align 26 in 0.661164 of 0.284614 it 0.0288381 *DELETE* 0.0253038 and 8.0652e-05
+align 27 his 0.976127 is 0.0238732
+align 28 leg 0.779489 legs 0.220511
+align 29 soon 0.814809 sir 0.056222 saying 0.0439691 and 0.0317561 certain 0.0210788 in 0.00791505 so 0.0061345 sand 0.00366505 send 0.00294967 sale 0.00253078 sitting 0.00139067 same 0.00119381 stand 0.00103239 san 0.000740024 say 0.000612006 a._m. 0.000507471 too 0.000469004 syrian 0.000453737 sent 0.000381627 said 0.0002648 surgeon 0.000257596 are 0.000236218 surround 0.000166704 an 0.00014854 sunni 0.000128886 sing 0.000109194 cell 0.000107947 end 8.87072e-05 salem 7.87298e-05 sailing 7.68142e-05 syria 7.45335e-05 around 6.05039e-05 sooner 4.51309e-05 m 4.51273e-05 scent 4.41997e-05 singer 3.49772e-05 certainly 3.16107e-05 stream 2.9926e-05 sell 2.29943e-05 see 2.26964e-05 *DELETE* 2.00936e-05 still 1.83388e-05 serve 1.62302e-05 zoom 1.53261e-05 sayah 1.42611e-05 do 1.40795e-05 saving 6.61726e-06 to 2.63892e-06 says 1.9595e-06 save 1.49373e-06 oh 1.02856e-06 seem 8.20076e-07 aimed 4.64129e-07 uh 4.27844e-07 seven 6.08348e-08 a 5.01557e-08 since 2.27618e-09
+align 30 *DELETE* 0.972377 them 0.00516669 you 0.00512564 him 0.0044269 i'm 0.00291472 then 0.00280811 and 0.0026853 in 0.00214268 um 0.00180727 uh 0.000329958 yeah 0.00013467 oh 2.83191e-05 i 2.67052e-05 your 1.40298e-05 there 1.07979e-05 you're 8.40519e-07 are 2.16337e-07 an 2.77474e-08
+align 31 *DELETE* 1 and 2.23551e-10
+align 32 </s> 1

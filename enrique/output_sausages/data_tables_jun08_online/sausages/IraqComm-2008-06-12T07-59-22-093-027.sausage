@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 0.89724 *DELETE* 0.0473955 what 0.0285981 there 0.0151301 well 0.00978197 now 0.00181792 no 3.65359e-05
+align 2 *DELETE* 0.998882 i 0.00111808
+align 3 was 0.759465 is 0.162743 where's 0.0432228 has 0.0275291 as 0.00266827 there's 0.0021409 whereas 0.00199407 it's 0.000233733 this 2.34033e-06 knows 1.11984e-06
+align 4 this 0.87799 the 0.0701169 his 0.0518509 they 3.82824e-05 a 3.99692e-06
+align 5 truck 0.913396 struck 0.0730613 trucks 0.0116655 truck's 0.00187674
+align 6 stolen 0.999994 stole 6.18241e-06 *DELETE* 1.14916e-17
+align 7 *DELETE* 0.999794 uh 0.000189135 i 1.07394e-05 and 6.18241e-06 stalling 2.97868e-12 um 3.99052e-18 in 1.74079e-19 it 9.10262e-20 one 5.75129e-26
+align 8 </s> 1

@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 third 1
+align 3 rule 1
+align 4 is 1
+align 5 to 1
+align 6 keep 1
+align 7 your 1
+align 8 finger 1
+align 9 straight 0.999734 *DELETE* 0.000265777
+align 10 and 0.999734 straightened 0.000265777
+align 11 off 1
+align 12 the 1
+align 13 trigger 1
+align 14 until 1
+align 15 you're 1
+align 16 ready 1
+align 17 to 1
+align 18 fire 1
+align 19 </s> 1

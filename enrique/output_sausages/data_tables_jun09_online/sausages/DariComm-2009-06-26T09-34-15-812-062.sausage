@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 an 0.960941 in 0.0232912 and 0.0093734 any 0.00639423
+align 5 animal 1
+align 6 hospital 1 *DELETE* 1.89618e-17
+align 7 *DELETE* 0.999796 i 9.36518e-05 uh 5.61306e-05 to 2.3098e-05 do 1.17028e-05 it 9.20502e-06 is 7.5204e-06 a 1.98347e-06 and 4.52983e-07 hospitals 2.50846e-07 you 9.89696e-09 in 2.1871e-10 the 3.26885e-16
+align 8 </s> 1

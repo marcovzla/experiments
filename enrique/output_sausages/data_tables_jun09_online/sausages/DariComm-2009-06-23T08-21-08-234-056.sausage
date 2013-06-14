@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 0.958811 and 0.0280644 well 0.0105988 okay 0.00199586 you 0.000529535
+align 2 *DELETE* 0.957366 where 0.0426342
+align 3 do 1
+align 4 you 1
+align 5 sell 1
+align 6 cars 0.999669 *DELETE* 0.000331193
+align 7 *DELETE* 0.993765 you 0.00429515 uh 0.00135547 carson 0.000172969 car's 0.000158223 do 5.37488e-05 we 4.97649e-05 okay 4.52485e-05 good 3.79085e-05 that 2.98429e-05 to 1.55449e-05 going 9.34149e-06 get 4.48814e-06 like 3.75213e-06 a 3.40755e-06 they 1.5477e-08 at 1.07773e-08 would 1.87423e-09 the 7.57524e-10
+align 8 *DELETE* 0.992754 in 0.00394321 i 0.00109993 and 0.00105165 can 0.000695515 could 0.000454457 you 8.93683e-07
+align 9 *DELETE* 0.999999 you 6.53721e-07
+align 10 </s> 1

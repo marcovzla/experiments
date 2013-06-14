@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 do 0.969874 did 0.0286639 can 0.00128988 okay 0.000172318
+align 2 they 0.696146 you 0.27476 he 0.027804 we 0.00128988
+align 3 have 1
+align 4 any 1
+align 5 explosives 1
+align 6 </s> 1

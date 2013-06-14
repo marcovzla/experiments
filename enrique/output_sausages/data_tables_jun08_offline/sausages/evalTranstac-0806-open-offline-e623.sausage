@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 think 1
+align 4 there 1
+align 5 would 1
+align 6 be 1
+align 7 the 1
+align 8 most 1
+align 9 uh 0.985141 of 0.0148592
+align 10 pro 1
+align 11 active 1
+align 12 method 1
+align 13 that 0.994461 to 0.00257368 of 0.00172841 at 0.00120231 but 3.32084e-05 the 1.52566e-06
+align 14 *DELETE* 0.978293 that 0.0217066
+align 15 you 1
+align 16 could 0.999522 can 0.000478289
+align 17 do 0.667551 *DELETE* 0.332449
+align 18 you 0.547862 *DELETE* 0.330498 use 0.108154 to 0.0134851
+align 19 use 0.891818 *DELETE* 0.108182
+align 20 *DELETE* 0.999397 it 0.000552723 used 2.7059e-05 uh 1.19474e-05 a 1.11359e-05 you's 1.67932e-08 this 7.99926e-09
+align 21 </s> 1

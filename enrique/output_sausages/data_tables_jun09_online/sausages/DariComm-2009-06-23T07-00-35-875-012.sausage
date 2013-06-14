@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 copy 0.90211 *DELETE* 0.0951594 i'm 0.00251314 compete 0.000125524 repeat 9.22144e-05
+align 2 to 0.90211 competed 0.0668585 computer 0.0282509 peter 0.00251314 in 0.000125524 it 9.22144e-05 competing 3.75567e-05 completed 1.25147e-05
+align 3 play 0.957342 class 0.0244486 *DELETE* 0.0102742 plaster 0.00793557
+align 4 instructions 0.966352 directions 0.0213069 actions 0.00793557 corrections 0.00306685 as 0.000964932 *DELETE* 0.000373049 a 3.86867e-07 aspect 9.80415e-34
+align 5 *DELETE* 0.998385 corrections 0.000935069 instruction 0.000298235 i 0.000253552 cautions 9.8633e-05 in 9.04677e-06 nauseous 6.0443e-06 and 4.82715e-06 on 4.15831e-06 to 3.4978e-06 uh 1.84512e-06 specialist 3.86867e-07 you 7.20276e-08 if 4.42738e-08 are 2.91535e-08 of 2.68215e-08 since 9.80415e-34
+align 6 </s> 1

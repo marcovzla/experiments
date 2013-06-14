@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 will 1
+align 3 give 1
+align 4 you 1
+align 5 my 0.999992 may 8.00314e-06
+align 6 name 1
+align 7 *DELETE* 0.999939 i 4.40247e-05 is 1.62051e-05 a 3.56587e-07
+align 8 </s> 1

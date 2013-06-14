@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 an 1
+align 4 excellent 1
+align 5 idea 1
+align 6 *DELETE* 0.999698 uh 0.000192721 i 5.17494e-05 yeah 3.49241e-05 you 7.33877e-06 if 4.23482e-06 in 4.17008e-06 a 3.22945e-06 though 1.88422e-06 it 1.40194e-06 sir 6.09084e-07 and 5.69749e-08
+align 7 </s> 1

@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 but 0.985273 that 0.00996975 they 0.00475742
+align 2 tell 1
+align 3 me 1
+align 4 new 0.914955 need 0.0407091 your 0.0301427 near 0.0109934 do 0.0032
+align 5 training 1
+align 6 where 0.995298 *DELETE* 0.00366152 way 0.00104029
+align 7 did 0.99257 waited 0.00358445 do 0.00259059 to 0.00117825 waiting 7.70719e-05
+align 8 we 0.998493 be 0.00150653
+align 9 ever 1
+align 10 showed 0.804756 show 0.195244 chau 1.14223e-07
+align 11 *DELETE* 0.805009 it 0.19207 that 0.00146908 a 0.00145276
+align 12 tell 1
+align 13 you 1
+align 14 *DELETE* 0.968545 do 0.0314547
+align 15 to 0.883614 didn't 0.0923559 a 0.0166705 did 0.00736007
+align 16 *DELETE* 0.999507 a 0.000492759
+align 17 point 0.999627 put 0.000373455
+align 18 your 1
+align 19 weapon 1
+align 20 at 1
+align 21 civilians 0.948958 the 0.0510419
+align 22 *DELETE* 0.948958 civilians 0.0510419
+align 23 </s> 1

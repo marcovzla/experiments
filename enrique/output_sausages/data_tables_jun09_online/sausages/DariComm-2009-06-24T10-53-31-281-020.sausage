@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 would 1
+align 2 you 1
+align 3 like 1
+align 4 us 1
+align 5 to 1
+align 6 come 1
+align 7 in 0.566573 and 0.433427
+align 8 *DELETE* 0.989251 and 0.0107491
+align 9 and 1
+align 10 teach 0.769104 teacher 0.230896
+align 11 your 0.769104 *DELETE* 0.230896
+align 12 nurses 0.913066 nurse 0.0406303 nurses' 0.023152 nurse's 0.023152
+align 13 *DELETE* 0.929007 is 0.0406303 and 0.0303629
+align 14 more 0.777922 in 0.222078
+align 15 *DELETE* 0.777922 more 0.222078
+align 16 about 1
+align 17 medical 1
+align 18 *DELETE* 0.998759 uh 0.00114302 it 3.37514e-05 i 3.35401e-05 to 1.32012e-05 um 1.12386e-05 do 2.03973e-06 in 1.87881e-06 and 1.65155e-06 at 3.05774e-07 you 8.29233e-08 that 4.34193e-10 is 4.36295e-11 the 8.96678e-13
+align 19 </s> 1

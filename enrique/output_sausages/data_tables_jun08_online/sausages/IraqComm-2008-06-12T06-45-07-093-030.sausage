@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 where 0.989068 *DELETE* 0.00567797 when 0.00524537 way 9.15892e-06
+align 2 is 0.994322 where's 0.0055406 wears 0.000137366
+align 3 the 0.994615 a 0.00426892 this 0.00111608
+align 4 school 1
+align 5 located 0.999952 locate 4.8291e-05
+align 6 *DELETE* 0.999191 it 0.000797898 at 1.089e-05
+align 7 on 0.999999 in 1.2726e-06
+align 8 a 0.65742 the 0.34258
+align 9 map 1
+align 10 *DELETE* 0.999698 uh 0.000302095 i 8.57195e-08 of 1.22858e-20
+align 11 </s> 1

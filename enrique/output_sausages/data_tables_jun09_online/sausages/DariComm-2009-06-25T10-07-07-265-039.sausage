@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 medical 1
+align 3 supplies 1
+align 4 the 0.999899 seized 0.00010102
+align 5 is 0.986315 it's 0.0115174 *DELETE* 0.00216764
+align 6 *DELETE* 0.989803 uh 0.00541334 a 0.00275286 it 0.00171781 the 0.000128379 in 0.00010937 no 2.91841e-05 that 2.86544e-05 to 1.05601e-05 is 5.30384e-06 do 1.06296e-06 you 4.69098e-07 an 3.19863e-08 sir 1.1893e-15
+align 7 *DELETE* 0.998977 so 0.000656225 i 0.000366295 sir 2.61065e-13
+align 8 </s> 1

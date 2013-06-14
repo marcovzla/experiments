@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 i 4.04961e-20
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 anything 1
+align 6 besides 1
+align 7 trailer 1
+align 8 in 0.677801 and 0.314951 an 0.00690909 on 0.000338786
+align 9 truck 0.922264 trucks 0.0777045 *DELETE* 3.19124e-05
+align 10 *DELETE* 0.999616 uh 0.00035048 trucked 2.77573e-05 truck's 4.15506e-06 i 1.1731e-06 in 6.82685e-07 a 1.30557e-12 try 1.54228e-18
+align 11 </s> 1

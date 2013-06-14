@@ -1,0 +1,45 @@
+numaligns 43
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 i 1
+align 3 i 1
+align 4 i 0.659386 *DELETE* 0.340614
+align 5 *DELETE* 0.999999 i 8.78859e-07
+align 6 think 1
+align 7 for 0.965569 i 0.0319012 four 0.00252964 that 1.87951e-11
+align 8 *DELETE* 0.968051 for 0.0319012 a 4.74319e-05
+align 9 right 1
+align 10 now 1
+align 11 we 0.559594 what 0.440209 we'll 0.000197359
+align 12 *DELETE* 0.559594 we 0.440406
+align 13 can 1
+align 14 do 1
+align 15 we 1
+align 16 can't 0.699417 can 0.300583
+align 17 work 1
+align 18 directly 1
+align 19 with 1
+align 20 the 0.824671 *DELETE* 0.175288 with 4.07159e-05
+align 21 iraqi 1
+align 22 military 1
+align 23 knee 0.401404 me 0.232201 need 0.226814 any 0.13958
+align 24 american 1
+align 25 forces 1
+align 26 to 1
+align 27 uh 1
+align 28 secure 1
+align 29 your 1
+align 30 facility 1
+align 31 uh 0.71823 a 0.246618 i 0.0249031 are 0.00413027 or 0.00226489 at 0.000763107 in 0.000746434 that 0.000693863 to 0.000685804 *DELETE* 0.000681896 and 0.000161448 of 8.82277e-05 is 3.26382e-05
+align 32 little 1
+align 33 bit 1
+align 34 better 1
+align 35 *DELETE* 0.568267 and 0.40038 in 0.0313527
+align 36 provide 1
+align 37 more 1
+align 38 power 1
+align 39 to 1
+align 40 the 1 *DELETE* 5.10835e-12
+align 41 people 1
+align 42 </s> 1

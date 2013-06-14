@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 your 1
+align 3 cousin 1
+align 4 married 0.999876 *DELETE* 0.000123784
+align 5 *DELETE* 0.998355 a 0.000959012 i 0.000345168 to 0.000117563 mary 0.00010773 uh 9.95367e-05 marry 1.60541e-05 in 4.85511e-10 um 1.18328e-13 do 3.66758e-14 you 6.56908e-15 and 5.86662e-15 it 2.00587e-16
+align 6 </s> 1

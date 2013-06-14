@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 yes 0.999988 yeah 1.2256e-05
+align 2 sir 0.999879 *DELETE* 0.000120633
+align 3 *DELETE* 0.998929 uh 0.000899556 there 0.000120633 um 2.58925e-05 i 2.53863e-05
+align 4 </s> 1

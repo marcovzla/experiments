@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 most 0.998185 mostly 0.00181487
+align 2 of 0.993391 if 0.00660859
+align 3 your 1
+align 4 officers 1
+align 5 should 1
+align 6 be 1
+align 7 a 0.947084 *DELETE* 0.0529162
+align 8 very 1
+align 9 familiar 1
+align 10 with 1
+align 11 the 0.8199 a 0.1801
+align 12 pistol 1
+align 13 and 1
+align 14 then 1
+align 15 you 1
+align 16 can 1
+align 17 impart 0.97783 in 0.0221703
+align 18 *DELETE* 0.97783 part 0.0221703
+align 19 that 0.594837 their 0.405163
+align 20 training 1
+align 21 um 0.791076 uh 0.208924
+align 22 down 1
+align 23 to 1
+align 24 your 1
+align 25 your 0.964278 you're 0.0357217
+align 26 or 0.968134 *DELETE* 0.0236891 younger 0.00659782 uh 0.00139934 a 0.000128938 your 5.05281e-05
+align 27 younger 0.787045 a 0.12227 the 0.0696765 uh 0.0117458 *DELETE* 0.00659782 they 0.00266468
+align 28 *DELETE* 0.793643 younger 0.204874 young 0.00148382
+align 29 *DELETE* 0.998516 or 0.00148382 of 2.86352e-07
+align 30 soldiers 0.998593 soldier's 0.000969588 soldiers' 0.000437638
+align 31 *DELETE* 1 i 1.0218e-07
+align 32 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 how 1
+align 3 many 1
+align 4 passengers 1
+align 5 *DELETE* 0.859796 on 0.0723591 are 0.0650202 or 0.00240274 our 0.000421678
+align 6 and 0.671443 are 0.167735 armed 0.0656432 the 0.0590939 *DELETE* 0.0247306 earned 0.00915609 in 0.00193086 an 0.00019041 under 7.71617e-05
+align 7 *DELETE* 0.8208 new 0.1792
+align 8 vehicle 0.993472 vehicles 0.00652837
+align 9 </s> 1

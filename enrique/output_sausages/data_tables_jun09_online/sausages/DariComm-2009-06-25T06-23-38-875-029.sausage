@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 0.984308 i 0.0156921
+align 2 did 0.980639 do 0.0193615
+align 3 the 0.936316 this 0.0636835
+align 4 school 0.9998 schooled 0.000105039 smoke 7.65536e-05 *DELETE* 1.86618e-05 schools 9.39748e-10
+align 5 get 0.992194 *DELETE* 0.00424972 be 0.00293077 or 0.000581181 of 4.41426e-05
+align 6 *DELETE* 0.995865 it 0.00117104 gate 0.00071464 they 0.00062584 get 0.000581181 bit 0.000531217 that 0.000328753 but 6.80413e-05 the 6.32832e-05 did 2.99357e-05 schoolmate 1.86605e-05 good 1.98121e-06
+align 7 *DELETE* 0.999998 it 1.20886e-06 good 8.01762e-07 to 2.12256e-08 day 1.07257e-08 squad 1.28293e-09 do 2.22566e-12
+align 8 damaged 0.999905 *DELETE* 9.47375e-05
+align 9 *DELETE* 0.99952 it 0.000277885 damage 9.47375e-05 i 7.17192e-05 uh 2.37432e-05 in 1.07548e-05 the 6.41211e-07 you 1.59123e-07 at 2.68873e-09 due 9.52641e-11 a 1.03886e-12 do 1.4735e-14
+align 10 </s> 1

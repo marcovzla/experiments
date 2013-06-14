@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 who's 0.943761 who 0.0562388
+align 2 *DELETE* 0.943761 is 0.0550784 who's 0.00100529 who 0.000155123
+align 3 *DELETE* 0.999845 is 0.000155123
+align 4 the 1
+align 5 head 1
+align 6 of 1
+align 7 this 1
+align 8 household 1
+align 9 </s> 1

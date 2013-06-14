@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 having 1
+align 2 roadside 0.999939 *DELETE* 6.14597e-05
+align 3 it's 0.780421 its 0.21379 is 0.00338513 as 0.00234204 besides 6.14597e-05
+align 4 at 0.797149 uh 0.141803 *DELETE* 0.0318794 a 0.0289812 and 0.000187365
+align 5 your 0.968121 later 0.0318794
+align 6 checkpoints 1 checkpoint 7.65565e-24
+align 7 are 0.981211 *DELETE* 0.0100811 or 0.00739041 will 0.000988579 we'll 0.000328914 you 7.65565e-24
+align 8 also 0.999887 russel 4.57357e-05 russell 3.87663e-05 rasoul 1.61531e-05 well 1.19143e-05
+align 9 *DELETE* 0.999988 so 1.19143e-05
+align 10 very 0.999874 bury 0.000126499
+align 11 important 1
+align 12 *DELETE* 0.999979 uh 2.1461e-05 i 1.60069e-13
+align 13 </s> 1

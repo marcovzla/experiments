@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 patients 1
+align 4 can 1
+align 5 you 1
+align 6 hospital 1
+align 7 hole 0.658261 whole 0.192568 hold 0.0676121 will 0.0489988 holes 0.0190405 *DELETE* 0.012106 who 0.00141414
+align 8 *DELETE* 0.999642 holt 0.000200197 it 0.000157867
+align 9 at 0.979821 it 0.0168001 that 0.00337921 uh 1.05595e-10
+align 10 once 0.786422 wants 0.206691 want 0.00688702
+align 11 *DELETE* 0.999997 to 2.46303e-06 i 6.24162e-07 it 5.12557e-08 a 5.73235e-09 uh 8.57872e-11 the 8.94003e-13 you 1.85156e-13 and 9.30658e-14
+align 12 </s> 1

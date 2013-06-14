@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.732211 where 0.256015 well 0.0114928 why 0.000281745
+align 2 is 1
+align 3 the 1
+align 4 location 1
+align 5 of 1
+align 6 the 0.999878 *DELETE* 0.000122224 that 4.20219e-08
+align 7 guards 0.994566 guard's 0.00394308 guards' 0.00127745 guard 0.000213678
+align 8 *DELETE* 1 it 7.12798e-12 uh 1.53413e-13
+align 9 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 hello 1 oh 4.18802e-08
+align 2 *DELETE* 1 oh 4.18802e-08
+align 3 how 1
+align 4 are 1
+align 5 you 1
+align 6 *DELETE* 0.999957 now 3.63649e-05 all 6.41765e-06 know 2.75621e-08 i 1.15116e-09
+align 7 </s> 1

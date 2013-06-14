@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 uh 0.657964 oh 0.214569 how 0.0630691 well 0.0517794 now 0.00429679 i'll 0.00321848 all 0.00269729 um 0.00203408 and 0.000372564
+align 2 *DELETE* 0.986472 oh 0.0135281
+align 3 what 1
+align 4 do 1
+align 5 you 1
+align 6 mean 1
+align 7 by 1
+align 8 security 1
+align 9 *DELETE* 0.999487 uh 0.000194007 i 0.00015089 a 9.21559e-05 you 3.78871e-05 oh 1.24844e-05 if 6.10723e-06 or 5.7299e-06 it 4.79003e-06 i. 2.73717e-06 in 2.07302e-06 at 1.36106e-06 eye 1.31391e-06 is 7.12402e-07 to 3.90067e-07 you're 3.22709e-08 your 2.14256e-08
+align 10 </s> 1

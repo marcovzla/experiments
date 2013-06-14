@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 a 1
+align 4 certain 0.99988 surgeon 0.000119764
+align 5 uh 1
+align 6 time 1
+align 7 of 1
+align 8 day 1
+align 9 or 0.992757 are 0.00724337
+align 10 night 1
+align 11 one 0.696741 when 0.303259
+align 12 uh 0.52935 um 0.47065
+align 13 *DELETE* 0.907365 uh 0.092635
+align 14 when 0.981447 one 0.0152825 with 0.00327051
+align 15 the 1
+align 16 electricity 1
+align 17 fails 0.981146 sales 0.0188538
+align 18 on 0.999753 *DELETE* 0.000246276 line 5.24459e-07 and 3.5481e-07
+align 19 you 0.999152 him 0.00047952 onion 0.00023104 it 0.000117754 anya 1.52365e-05 u 2.63279e-06 yeah 1.41243e-06
+align 20 *DELETE* 0.999984 uh 1.57572e-05
+align 21 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 noticed 0.985809 notice 0.0141905
+align 3 that 1
+align 4 the 1
+align 5 neighborhood 0.962117 *DELETE* 0.0378827
+align 6 we 0.58521 we're 0.374636 neighbor 0.0378827 *DELETE* 0.00227114
+align 7 were 0.586694 *DELETE* 0.374636 or 0.0378867 where 0.000783626
+align 8 patrolling 1
+align 9 and 0.979679 in 0.0203214
+align 10 did 1
+align 11 not 1
+align 12 have 1
+align 13 electricity 1
+align 14 </s> 1

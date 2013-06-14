@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 please 1
+align 4 repeat 1
+align 5 what 1
+align 6 you 1
+align 7 just 1
+align 8 said 1 *DELETE* 2.99546e-09
+align 9 *DELETE* 0.999979 it 2.04187e-05 set 3.15223e-07 uh 1.4393e-08 i 1.40652e-10 you 3.80555e-13
+align 10 </s> 1

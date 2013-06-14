@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.467059 we 0.269295 i 0.263646
+align 2 will 0.576821 we'll 0.419476 well 0.00370311
+align 3 inform 0.997122 form 0.00287848
+align 4 *DELETE* 0.95081 my 0.0491903
+align 5 our 0.942583 command 0.0383446 *DELETE* 0.0108457 are 0.00803129 my 0.000195631
+align 6 *DELETE* 0.859797 command 0.140203
+align 7 commander 0.821384 of 0.111074 *DELETE* 0.0667734 at 0.000700195 commanded 6.86334e-05
+align 8 this 0.999859 his 0.000141306 is 8.98658e-11
+align 9 information 0.99982 informations 0.000180251
+align 10 *DELETE* 0.999999 uh 6.11071e-07
+align 11 </s> 1

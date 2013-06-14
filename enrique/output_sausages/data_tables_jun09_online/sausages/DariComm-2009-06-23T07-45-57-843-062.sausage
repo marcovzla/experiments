@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 repeat 1
+align 4 your 1
+align 5 answer 1 *DELETE* 3.12885e-17
+align 6 again 0.887076 *DELETE* 0.069444 it 0.0429562 him 0.000385273 and 6.53296e-05 you 2.92707e-05 i 2.32201e-05 either 2.07182e-05 ass 2.25649e-14 hands 1.43434e-22
+align 7 *DELETE* 0.999991 um 8.76291e-06 them 7.1864e-07 uh 6.51397e-09 in 1.61814e-10 i 5.41305e-12 me 2.68414e-12 if 2.29588e-12 i'm 1.03557e-13 you 5.2755e-14 rude 2.22608e-14 a 2.11404e-15 rick 3.04122e-16 and 9.90591e-22 at 6.3147e-22 to 2.95578e-23 route 9.71876e-25 rate 3.71847e-26
+align 8 </s> 1

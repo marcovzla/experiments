@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you 0.902827 we 0.081175 he 0.0156381 do 0.000360116
+align 2 *DELETE* 0.99964 you 0.000360116
+align 3 must 1
+align 4 search 1
+align 5 all 1
+align 6 vehicles 1
+align 7 like 1 liked 2.40963e-07
+align 8 this 0.999889 *DELETE* 0.00011099
+align 9 *DELETE* 0.999132 i 0.000322364 uh 0.000317311 theirs 5.80781e-05 there's 5.2912e-05 in 4.80719e-05 now 3.56611e-05 and 1.52822e-05 it 9.75117e-06 to 4.60786e-06 do 1.82932e-06 you 1.35358e-06 so 6.08518e-07 yeah 2.44023e-07 this 1.54499e-07 that 7.84112e-09 but 1.61441e-10 if 5.86029e-11 we 1.82343e-11 is 9.81998e-14 with 2.27231e-14
+align 10 </s> 1

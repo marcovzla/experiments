@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 date 0.531617 to 0.282253 the 0.172415 a 0.0132175 that 0.000496977
+align 2 *DELETE* 0.531617 date 0.468383
+align 3 palms 1
+align 4 are 0.932509 or 0.0640443 our 0.00330667 r 0.000139611
+align 5 here 0.994592 hear 0.00540759
+align 6 *DELETE* 0.999363 uh 0.000477946 i 0.000152448 in 4.47577e-06 sir 1.87552e-06 it 1.89953e-07
+align 7 </s> 1

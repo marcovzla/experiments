@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 give 1
+align 4 me 1
+align 5 a 0.996581 *DELETE* 0.00341946
+align 6 example 1
+align 7 of 1
+align 8 a 0.999213 the 0.000786819
+align 9 well 1
+align 10 in 1
+align 11 this 1
+align 12 area 1
+align 13 *DELETE* 0.99941 uh 0.000589832 at 1.06022e-10
+align 14 </s> 1

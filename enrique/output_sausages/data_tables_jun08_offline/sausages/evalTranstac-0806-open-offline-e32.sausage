@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 don't 0.72702 *DELETE* 0.27298
+align 3 know 0.439816 think 0.287204 get 0.193002 *DELETE* 0.0799784
+align 4 i 0.451454 it's 0.256002 those 0.170396 definitely 0.0799784 *DELETE* 0.0421696
+align 5 spent 0.523543 that 0.426398 *DELETE* 0.0326603 stand 0.0173987
+align 6 the 0.850207 a 0.122339 *DELETE* 0.0154662 to 0.0119874
+align 7 *DELETE* 0.977395 i 0.0226055
+align 8 *DELETE* 0.96734 stand 0.0326603
+align 9 *DELETE* 0.961928 to 0.0380716
+align 10 the 1
+align 11 money 0.99844 *DELETE* 0.00155993
+align 12 *DELETE* 0.586825 situation 0.411615 month 0.00155993
+align 13 situations 0.548371 is 0.411615 situation's 0.0400135
+align 14 very 1
+align 15 important 1
+align 16 but 0.974325 *DELETE* 0.00869069 to 0.00811407 that 0.00664594 uh 0.00192962 i 0.000294233
+align 17 also 0.999845 all 0.000155113
+align 18 *DELETE* 0.998066 uh 0.000821798 i 0.00038634 in 0.000332791 a 0.000164647 so 0.000155113 you 5.11129e-05 um 1.83339e-05 i'm 4.0395e-06 the 2.24452e-08 to 2.20077e-08 an 3.63898e-10
+align 19 </s> 1

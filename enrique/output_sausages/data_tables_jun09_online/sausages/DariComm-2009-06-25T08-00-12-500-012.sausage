@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 check 1
+align 5 the 0.999791 their 0.000208726
+align 6 breathing 0.998341 bleeding 0.00120952 breeding 0.000380434 *DELETE* 6.86674e-05 breed 8.10535e-07
+align 7 *DELETE* 0.998589 uh 0.000618481 i 0.000253332 it 0.000172662 in 0.000127645 briefing 6.86674e-05 and 6.69562e-05 you 6.17307e-05 now 2.46639e-05 okay 1.3177e-05 do 2.06223e-06 thing 8.10535e-07 too 1.89441e-07 at 1.11771e-07 on 7.51054e-08 when 7.06329e-09 well 2.04379e-09 them 3.68034e-10 that 2.43833e-10 is 9.94747e-13 to 1.91098e-17
+align 8 </s> 1

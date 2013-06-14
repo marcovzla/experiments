@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 absolutely 0.998515 i 0.00148457
+align 2 *DELETE* 0.998515 absolutely 0.00148457
+align 3 we're 0.999153 were 0.000847355 *DELETE* 2.19795e-14
+align 4 ready 0.999983 already 1.16091e-05 *DELETE* 5.51065e-06
+align 5 *DELETE* 0.999981 if 9.37672e-06 reading 5.51065e-06 to 3.70543e-06 uh 9.47104e-12 i 1.9186e-12
+align 6 </s> 1

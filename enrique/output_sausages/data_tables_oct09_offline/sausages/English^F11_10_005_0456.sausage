@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 uh 1
+align 5 sergeant 0.971405 son 0.0231921 sun 0.00540337
+align 6 jobless 0.999977 jobs 2.27377e-05
+align 7 and 1 in 6.0357e-08
+align 8 uh 1
+align 9 *DELETE* 0.999966 uh 3.37716e-05
+align 10 we'll 0.994939 um 0.00307859 i'm 0.00173591 and 0.000246138
+align 11 *DELETE* 0.99827 going 0.00172422 i'm 5.97052e-06
+align 12 *DELETE* 0.999883 to 0.000116548
+align 13 go 1
+align 14 ahead 1
+align 15 and 1
+align 16 uh 1
+align 17 be 0.899006 he 0.0587409 the 0.0288387 if 0.00680859 *DELETE* 0.00228545 pee 0.00171283 they 0.00140435 p 0.00114484 do 5.85288e-05
+align 18 *DELETE* 0.990847 you 0.00859937 he 0.0005532
+align 19 working 1
+align 20 with 1
+align 21 you 1
+align 22 and 1
+align 23 uh 1
+align 24 little 0.985922 they'll 0.00590071 so 0.00434147 we'll 0.00235596 low 0.0014799
+align 25 *DELETE* 0.995659 they'll 0.00434147
+align 26 bit 0.984035 be 0.0132846 but 0.00268011
+align 27 on 1
+align 28 our 0.746997 a 0.230149 are 0.0131518 uh 0.0035665 on 0.00206918 or 0.00180815 of 0.00128928 out 0.000969565
+align 29 v._c._p.s 0.997266 v._c._p. 0.00249256 uh 0.00024104
+align 30 *DELETE* 0.997266 is 0.00247598 v._c._p.s 0.00024104 east 1.65776e-05
+align 31 today 0.999688 to 0.000311567
+align 32 *DELETE* 0.999348 uh 0.000340822 day 0.000311567 i 1.10979e-09
+align 33 </s> 1

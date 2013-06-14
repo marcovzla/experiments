@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 1 *DELETE* 3.17292e-11
+align 2 are 1 however 1.12887e-07 hello 4.47075e-08 do 3.01112e-15
+align 3 you 1
+align 4 *DELETE* 1 i 2.86538e-09 in 9.13585e-14
+align 5 </s> 1

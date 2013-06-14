@@ -1,0 +1,46 @@
+numaligns 44
+posterior 1
+align 0 <s> 1
+align 1 first 1
+align 2 thing 1
+align 3 we're 1
+align 4 going 0.671846 *DELETE* 0.328154
+align 5 to 0.671846 gonna 0.328154
+align 6 do 1
+align 7 need 0.556317 you 0.443354 we 0.000329763
+align 8 to 0.554679 need 0.443683 *DELETE* 0.00163717
+align 9 *DELETE* 0.999073 to 0.000927116
+align 10 do 1
+align 11 is 1
+align 12 uh 0.863939 a 0.136061
+align 13 *DELETE* 0.999724 uh 0.000276327
+align 14 clear 1
+align 15 out 1
+align 16 these 1
+align 17 two 0.890832 to 0.0708745 too 0.0382936
+align 18 mountains 0.796673 moments 0.197841 mounds 0.00548518
+align 19 here 1
+align 20 and 1
+align 21 uh 0.99675 up 0.00278374 *DELETE* 0.000466725
+align 22 pull 0.959704 pole 0.0327822 pose 0.00426335 all 0.00133812 oh 0.00122347 outpost 0.000466725 i'll 0.000222152
+align 23 security 1
+align 24 up 0.968739 of 0.0312613
+align 25 top 1
+align 26 so 1
+align 27 they 1
+align 28 will 0.632122 won't 0.366461 would 0.00141649
+align 29 be 1
+align 30 able 1
+align 31 to 1
+align 32 use 1
+align 33 that 1
+align 34 uh 1
+align 35 uh 0.870017 *DELETE* 0.0813782 that 0.0486048
+align 36 that 0.978909 *DELETE* 0.0210912
+align 37 *DELETE* 0.982396 that 0.0146166 banned 0.00298695
+align 38 bands 0.48798 bags 0.199792 bad 0.124684 is 0.0648426 that 0.0642786 bandage 0.0531544 band 0.0276446 bag 0.0118857 badges 0.00513892
+align 39 *DELETE* 0.911109 this 0.0489324 is 0.0399586
+align 40 point 0.899799 sport 0.0999799 spoil 0.000220725
+align 41 against 1
+align 42 us 1 those 8.04329e-12
+align 43 </s> 1

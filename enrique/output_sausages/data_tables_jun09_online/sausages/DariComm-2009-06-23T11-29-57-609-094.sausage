@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 any 1
+align 3 of 1
+align 4 your 1
+align 5 trucks 0.996979 truck's 0.00302139
+align 6 become 0.984752 becomes 0.0138199 be 0.00142777
+align 7 *DELETE* 0.998572 come 0.00142777
+align 8 damaged 0.994852 damage 0.00514833
+align 9 in 1
+align 10 this 1
+align 11 rate 0.792141 raids 0.207859
+align 12 i 1
+align 13 will 1
+align 14 try 1
+align 15 to 1
+align 16 get 1
+align 17 them 1
+align 18 fixed 1
+align 19 as 1
+align 20 soon 1
+align 21 as 1
+align 22 possible 1
+align 23 *DELETE* 0.999528 uh 0.000387596 okay 6.90479e-05 i 1.18284e-05 to 2.17046e-06 you 7.36718e-07 and 2.40689e-07 then 1.63603e-07 so 4.19034e-08 too 1.83514e-09 um 3.79984e-10
+align 24 </s> 1

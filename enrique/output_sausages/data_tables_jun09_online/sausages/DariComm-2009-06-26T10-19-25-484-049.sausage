@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 far 1
+align 3 is 1
+align 4 the 1
+align 5 nearest 1
+align 6 teaching 0.996948 teach 0.00305168
+align 7 *DELETE* 0.995642 in 0.00305168 a 0.00130669
+align 8 hospital 0.999742 hospitals 0.000257844
+align 9 *DELETE* 0.999814 i 0.000136132 uh 3.6967e-05 a 9.63225e-06 in 2.24288e-06 do 5.88453e-07 it 1.94702e-07 to 7.10791e-08 you 6.25394e-08
+align 10 </s> 1

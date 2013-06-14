@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i 1
+align 3 i 0.999944 i've 5.64362e-05
+align 4 *DELETE* 0.78825 i 0.21175
+align 5 got 1
+align 6 that 0.998927 dead 0.000636138 there 0.000320019 the 7.44329e-05 dad 4.27216e-05 *DELETE* 6.56515e-11
+align 7 *DELETE* 0.99999 uh 6.31569e-06 i 3.72731e-06 day 5.27511e-08 debt 2.28532e-09 to 7.03767e-16 at 8.69389e-19
+align 8 </s> 1

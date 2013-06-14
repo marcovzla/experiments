@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 it's 1
+align 2 also 1
+align 3 important 1
+align 4 that 1
+align 5 your 0.999915 you're 8.53911e-05
+align 6 men 1
+align 7 are 0.984659 or 0.015341
+align 8 *DELETE* 0.99046 are 0.00953996
+align 9 taking 1
+align 10 the 0.575386 he 0.401752 me 0.0228621
+align 11 a._k.s 0.991057 a 0.00659398 ate 0.00229497 eight 5.3969e-05
+align 12 *DELETE* 0.991057 case 0.00894292
+align 13 from 1
+align 14 the 1
+align 15 houses 0.998557 house's 0.00140728 house 3.24268e-05 houses' 2.89828e-06
+align 16 *DELETE* 0.999968 is 3.24268e-05
+align 17 </s> 1

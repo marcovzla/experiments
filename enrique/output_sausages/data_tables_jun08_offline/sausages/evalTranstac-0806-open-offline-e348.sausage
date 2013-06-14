@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i'll 1
+align 3 have 0.988054 help 0.011946
+align 4 place 0.824615 placed 0.111076 please 0.064005 plays 0.000303863
+align 5 my 0.977521 *DELETE* 0.0224786
+align 6 hands 0.912194 *DELETE* 0.0653277 may 0.016482 why 0.00394719 by 0.00204937
+align 7 on 0.485314 in 0.425742 hanson 0.0550634 hansen 0.0304924 handsome 0.00225051 and 0.000623905 an 0.000513777
+align 8 each 1
+align 9 side 1
+align 10 of 1
+align 11 his 0.998125 its 0.000912764 this 0.000864741 is 9.79509e-05
+align 12 head 0.999607 had 0.000393124
+align 13 </s> 1

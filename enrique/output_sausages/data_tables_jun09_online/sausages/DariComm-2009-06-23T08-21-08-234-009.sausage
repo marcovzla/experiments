@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 turn 1
+align 3 the 1
+align 4 car 1
+align 5 off 0.999175 all 0.000824923
+align 6 *DELETE* 0.999893 uh 9.22277e-05 and 9.07961e-06 it 5.39695e-06 you 1.06929e-07 i 1.42883e-09 a 9.43888e-12 of 6.75295e-14 to 1.63822e-16
+align 7 </s> 1

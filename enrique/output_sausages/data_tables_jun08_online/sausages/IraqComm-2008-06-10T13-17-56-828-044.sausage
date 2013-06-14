@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 color 1
+align 3 of 1
+align 4 the 1
+align 5 dot 0.991261 doc 0.00873874
+align 6 tells 1
+align 7 you 1
+align 8 what 1
+align 9 mode 0.854287 mold 0.102472 *DELETE* 0.0265287 load 0.0162243 moeed 0.000488511
+align 10 the 0.999945 to 5.48233e-05
+align 11 *DELETE* 0.973471 mode 0.0265287
+align 12 *DELETE* 0.973471 the 0.0265287
+align 13 weapon 1
+align 14 is 0.998787 *DELETE* 0.00104225 as 0.000170725 his 1.11877e-13
+align 15 in 0.995266 an 0.00307503 isn't 0.00104225 and 0.000497436 *DELETE* 0.000119682
+align 16 *DELETE* 0.997902 a 0.00131478 the 0.000664024 then 0.000119682
+align 17 </s> 1

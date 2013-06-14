@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you 0.999255 he 0.000745367
+align 2 said 1
+align 3 you 1
+align 4 need 1
+align 5 bandages 1
+align 6 and 0.99393 in 0.00606952
+align 7 what 1 one 5.61143e-12
+align 8 else 0.961165 helps 0.0388348
+align 9 *DELETE* 0.999381 uh 0.000422093 do 0.000189555 did 2.84211e-06 i 1.92283e-06 is 1.54958e-06 you 1.35685e-06 does 4.32824e-09 in 1.97404e-11 it 3.0345e-13
+align 10 </s> 1

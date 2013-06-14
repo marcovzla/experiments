@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 together 0.957434 to 0.042566
+align 2 *DELETE* 0.957434 gather 0.042566
+align 3 the 0.94724 *DELETE* 0.0527604
+align 4 *DELETE* 0.878108 that 0.0527604 an 0.0445665 and 0.0245655
+align 5 anything 0.878105 a 0.118777 they 0.00311784
+align 6 *DELETE* 0.947237 name 0.052763
+align 7 and 0.990822 an 0.00466957 in 0.00254331 a 0.00178843 end 0.000156117 *DELETE* 1.34452e-05 i 3.74775e-06 am 3.24154e-06
+align 8 marines 0.99998 am 1.02937e-05 i'm 4.82013e-06 m 2.07913e-06 leans 1.14759e-06 *DELETE* 3.79934e-11
+align 9 *DELETE* 0.999981 leans 1.9286e-05 lanes 9.02665e-10
+align 10 need 1
+align 11 to 1
+align 12 be 1
+align 13 briefed 0.701719 brief 0.298281
+align 14 the 0.861401 that 0.118238 to 0.020358 *DELETE* 3.05003e-06
+align 15 escalation 1
+align 16 of 1
+align 17 force 1
+align 18 and 0.930905 in 0.0690954
+align 19 the 0.999772 a 0.000228024
+align 20 rules 1 roles 1.04282e-17
+align 21 of 1
+align 22 engagement 1
+align 23 </s> 1

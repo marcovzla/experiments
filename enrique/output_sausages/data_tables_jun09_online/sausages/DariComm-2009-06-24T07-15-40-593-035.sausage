@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 time 1
+align 3 are 1
+align 4 you 1
+align 5 supposed 0.961628 suppose 0.0383725
+align 6 to 1
+align 7 meet 0.994234 me 0.00576612 *DELETE* 2.33988e-19
+align 8 the 0.988528 your 0.00640393 a 0.00356691 *DELETE* 0.000580364 to 0.000449357 that 0.000341105 pick 8.81319e-05 they 3.20179e-05 them 9.97235e-06 meat 2.69189e-16
+align 9 commander 1
+align 10 *DELETE* 0.999654 i 0.000133887 uh 8.81284e-05 is 7.21393e-05 to 2.40021e-05 in 2.17703e-05 it 4.65104e-06 a 1.07649e-06 if 1.38838e-09 the 9.84566e-11 you 4.63239e-12
+align 11 </s> 1

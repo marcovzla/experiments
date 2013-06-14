@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 have 0.997602 haven't 0.00239757
+align 2 we 0.750244 any 0.247509 they 0.00224733 a 7.26981e-14
+align 3 issue 0.837953 issued 0.162047
+align 4 in 0.994133 *DELETE* 0.00586744
+align 5 *DELETE* 0.960237 in 0.0397634
+align 6 the 0.991467 any 0.00730629 you 0.000733785 new 0.000492937
+align 7 nation 0.964703 mission 0.0352969
+align 8 to 0.996269 so 0.00373087
+align 9 the 0.999938 this 6.19142e-05 *DELETE* 4.17766e-14
+align 10 soldiers 0.997213 soldier's 0.00153746 soldiers' 0.00124997
+align 11 *DELETE* 0.999886 uh 0.000112859 i 1.03062e-06 do 1.72396e-08
+align 12 </s> 1

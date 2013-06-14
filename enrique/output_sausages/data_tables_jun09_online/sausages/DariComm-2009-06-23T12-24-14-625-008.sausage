@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 understand 1
+align 4 *DELETE* 0.930894 the 0.0691058
+align 5 instructions 1 this 7.41687e-21
+align 6 *DELETE* 0.999925 to 4.77918e-05 you 2.26987e-05 and 1.64261e-06 in 1.46703e-06 now 1.09935e-06 we 1.90187e-07 on 4.26464e-08 are 3.48613e-08 i 1.20274e-09 that 7.31419e-11 do 5.30208e-11 them 7.64966e-12 it 4.70992e-13 uh 1.04618e-13 um 5.92077e-14 then 3.88652e-14 russians 7.41687e-21
+align 7 </s> 1

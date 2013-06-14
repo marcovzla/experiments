@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 0.951093 or 0.0351254 by 0.00875186 uh 0.00287455 our 0.00126468 oh 0.000534299 i 0.000230673 why 9.57773e-05 is 3.01552e-05
+align 2 the 1
+align 3 local 1
+align 4 police 1
+align 5 keeping 1
+align 6 get 0.847525 good 0.0768335 gets 0.0563412 did 0.00659677 its 0.00490642 it 0.00228525 gate 0.00152721 that 0.00141453 it's 0.000854008 gates 0.00070922 date 0.000302394 dates 0.000282945 this 0.000222247 the 0.000157749 *DELETE* 4.12494e-05
+align 7 *DELETE* 0.999801 it's 0.000141327 dude 4.06342e-05 it 1.64214e-05 they 6.15193e-07
+align 8 security 1
+align 9 *DELETE* 0.999704 uh 0.000157658 i 8.2096e-05 to 3.12368e-05 is 1.5128e-05 it 7.05272e-06 if 1.03993e-06 in 1.00607e-06 a 5.99524e-07 too 8.13531e-12 and 2.55882e-13 the 2.897e-14
+align 10 </s> 1

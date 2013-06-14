@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 which 1
+align 2 one 1
+align 3 is 1
+align 4 the 1
+align 5 most 1
+align 6 important 1
+align 7 *DELETE* 0.997912 uh 0.00195989 i 9.92738e-05 in 1.62378e-05 you 8.60929e-06 to 3.67677e-06 it 2.89135e-11 and 3.59731e-16 is 8.34968e-17 are 3.54415e-17 if 4.53204e-19 we 8.56229e-21 a 3.50834e-23
+align 8 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 experience 1
+align 6 in 0.897426 and 0.0473326 or 0.0211447 uh 0.0190406 *DELETE* 0.0134675 we 0.00158828
+align 7 repair 0.999997 repairer 2.50981e-06
+align 8 work 0.999933 or 6.72561e-05
+align 9 *DELETE* 0.998327 uh 0.00133528 i 0.000133711 work 6.72561e-05 as 4.14077e-05 in 4.03024e-05 it 1.48036e-05 at 1.35551e-05 do 5.51336e-06 a 5.50303e-06 um 4.91248e-06 to 4.56982e-06 you 3.40147e-06 is 2.15764e-06 i'm 6.8333e-07 if 9.28247e-08 and 5.19183e-10 the 5.10548e-10 so 5.50409e-12
+align 10 </s> 1

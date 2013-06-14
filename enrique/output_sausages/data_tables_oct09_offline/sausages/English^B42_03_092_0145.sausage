@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 0.77504 it 0.224897 *DELETE* 6.35976e-05
+align 5 *DELETE* 0.775103 of 0.224897
+align 6 electricity 1
+align 7 and 1
+align 8 is 0.958561 use 0.0414395
+align 9 it 0.991966 *DELETE* 0.00803351
+align 10 in 1
+align 11 good 1
+align 12 repair 1
+align 13 *DELETE* 0.999631 or 0.00036253 it 6.65434e-06 are 6.23418e-10
+align 14 </s> 1

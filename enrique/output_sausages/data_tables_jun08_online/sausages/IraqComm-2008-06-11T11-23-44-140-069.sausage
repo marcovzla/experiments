@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 are 0.99781 oh 0.00218971
+align 2 your 0.927653 you 0.0721149 you're 0.000232494
+align 3 children 1
+align 4 allergic 1
+align 5 to 1
+align 6 penicillin 1
+align 7 </s> 1

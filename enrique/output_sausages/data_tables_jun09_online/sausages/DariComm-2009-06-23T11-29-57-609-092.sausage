@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 two 0.999991 to 8.90755e-06
+align 3 trucks 1
+align 4 you're 0.995654 your 0.00433358 you 1.21403e-05
+align 5 *DELETE* 0.999999 are 1.41584e-06
+align 6 gonna 0.989838 going 0.0101622
+align 7 *DELETE* 0.989838 to 0.0101622
+align 8 bring 1
+align 9 tomorrow 1
+align 10 do 1
+align 11 they 1
+align 12 run 1
+align 13 well 1
+align 14 *DELETE* 0.999968 uh 1.42571e-05 and 7.88132e-06 do 5.53972e-06 it 3.40036e-06 i 1.10042e-06 too 2.09326e-11 you 4.80549e-12 it's 1.73309e-12
+align 15 </s> 1

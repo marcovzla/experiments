@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 know 0.998879 *DELETE* 0.00112116
+align 3 this 0.988228 it's 0.00648391 *DELETE* 0.0031397 us 0.00102678 notice 0.000831585 noticed 0.000289571
+align 4 is 0.988901 as 0.00740101 isas 0.0031397 has 0.000558145
+align 5 a 0.972616 *DELETE* 0.0273841
+align 6 lot 1
+align 7 of 1
+align 8 trash 1
+align 9 uh 1
+align 10 uh 0.567512 oh 0.239226 of 0.157957 *DELETE* 0.0353044
+align 11 *DELETE* 0.80535 a 0.193262 oh 0.00138865
+align 12 pile 0.573148 piled 0.426852
+align 13 up 0.942579 of 0.0574206
+align 14 outside 1
+align 15 uh 0.656674 the 0.33095 um 0.0117474 to 0.00046465 they 0.000153473 their 1.06017e-05
+align 16 *DELETE* 0.644688 uh 0.352762 i 0.00178559 oh 0.000279648 eye 0.000171106 out 0.000105747 um 8.36529e-05 a 6.322e-05 i'm 2.75443e-05 of 1.24338e-05 up 1.15085e-05 us 9.18169e-06 at 7.46768e-07 are 2.48958e-07 or 1.2454e-07 our 3.95766e-08
+align 17 *DELETE* 0.99755 uh 0.00244974
+align 18 </s> 1

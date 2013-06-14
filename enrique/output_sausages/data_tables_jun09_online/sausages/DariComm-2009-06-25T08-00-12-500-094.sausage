@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 tourniquet 1
+align 3 is 1
+align 4 used 0.995068 use 0.00275663 you 0.00217532
+align 5 *DELETE* 0.997825 use 0.00217532
+align 6 to 0.996849 the 0.00315144
+align 7 stop 1
+align 8 bleeding 1
+align 9 *DELETE* 0.999992 and 7.89415e-06 i 4.37817e-07 if 2.03775e-11 uh 1.0992e-12 it 4.09754e-14 is 2.03533e-14
+align 10 </s> 1

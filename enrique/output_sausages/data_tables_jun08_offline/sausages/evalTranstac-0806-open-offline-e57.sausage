@@ -1,0 +1,46 @@
+numaligns 44
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 think 1
+align 3 for 0.629833 the 0.346258 we're 0.011203 four 0.00910989 a 0.00298494 per 0.000611303
+align 4 right 1
+align 5 now 1
+align 6 what 0.920582 *DELETE* 0.0781863 we 0.00123167
+align 7 we 1
+align 8 can 1
+align 9 do 1
+align 10 *DELETE* 0.999541 you 0.000458844
+align 11 we 1
+align 12 can 0.986695 could 0.0133053
+align 13 send 1
+align 14 some 1
+align 15 of 1
+align 16 our 1
+align 17 engineers 1
+align 18 out 0.944331 uh 0.0470639 *DELETE* 0.00860518
+align 19 *DELETE* 0.924086 out 0.0470639 at 0.0189079 i'll 0.00860518 uh 0.00133675
+align 20 two 0.788785 to 0.208094 too 0.00312116
+align 21 men 0.83877 mend 0.0955397 man 0.0519594 *DELETE* 0.0136639 meant 6.65937e-05
+align 22 the 0.939253 that 0.0279637 *DELETE* 0.0187965 manda 0.0098118 main 0.00385215 to 0.000295491 a 2.75957e-05
+align 23 names 0.393675 thing 0.323735 things 0.167411 fence 0.0610007 fans 0.0220805 defense 0.021777 pants 0.00564726 pay 0.00369972 the 0.000829668 faints 7.23179e-05 depends 4.20009e-05 fayez 2.53205e-05 stands 4.25145e-06
+align 24 *DELETE* 0.99917 thing 0.000829668
+align 25 *DELETE* 0.695608 is 0.297804 it's 0.00658825
+align 26 and 0.813089 in 0.0537061 *DELETE* 0.0524249 it 0.0454785 isn't 0.0238726 an 0.0103419 that 0.00108676
+align 27 also 0.99776 all 0.00223999
+align 28 *DELETE* 0.99776 so 0.00223999
+align 29 to 0.957407 the 0.0246425 two 0.0167505 too 0.00101951 *DELETE* 0.000180278
+align 30 possibly 1
+align 31 look 1
+align 32 at 0.834412 it 0.165471 get 0.000117307
+align 33 getting 0.845151 can 0.0818038 give 0.0391607 gave 0.0196344 do 0.0105524 get 0.00198098 didn't 0.00150736 gives 0.000209784
+align 34 you 0.955546 me 0.0443924 new 6.11678e-05
+align 35 some 1
+align 36 uh 1
+align 37 some 1
+align 38 security 1
+align 39 barriers 0.986531 buries 0.0134687
+align 40 be 0.891247 b 0.0988068 *DELETE* 0.00715994 we 0.00220794 me 0.000576702 the 1.11578e-06 you 1.9372e-09 beat 1.4531e-09 bee 3.85066e-10 before 1.38475e-10
+align 41 facility 0.980852 so 0.00819616 leaves 0.00425533 facilities 0.00131269 sir 0.00106501 because 0.00103768 b._c. 0.000980443 thieves 0.000485807 is 0.000325817 *DELETE* 0.000284522 soon 0.000249342 as 0.000232287 silly 0.000221183 reverse 0.000126228 bees 0.000102447 fevers 8.45904e-05 us 4.85544e-05 saw 4.80276e-05 beans 2.8576e-05 beads 2.04264e-05 fees 1.80466e-05 sold 1.55521e-05 steel 3.46604e-06 these 2.68143e-06 this 9.63744e-07 yes 9.32676e-07 fetus 7.8902e-07 weakness 1.35578e-07 steal 1.88364e-08 slow 1.10467e-08 his 1.0844e-08 suit 1.03179e-08 sick 7.66123e-09 pizza 5.57204e-09 does 4.22644e-09 stealing 2.02313e-09 see 6.17531e-10 the 4.62514e-10 beats 1.65588e-10 just 8.77709e-11 some 7.86572e-11 peoples 5.54966e-13
+align 42 *DELETE* 0.999978 i 1.17417e-05 uh 9.92291e-06 you 1.90443e-09 so 4.62514e-10
+align 43 </s> 1

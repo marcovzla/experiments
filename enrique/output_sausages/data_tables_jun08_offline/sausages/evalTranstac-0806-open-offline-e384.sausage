@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 uh 0.988171 um 0.0117535 *DELETE* 7.55966e-05
+align 2 as 1
+align 3 we 0.994294 *DELETE* 0.00570599
+align 4 were 0.91892 are 0.0753738 we're 0.00570599
+align 5 patrolling 1
+align 6 now 0.478668 and 0.422992 *DELETE* 0.0506687 then 0.0301694 how 0.0112823 yeah 0.00621948
+align 7 we 1
+align 8 hit 0.758352 had 0.173586 hear 0.0510988 hid 0.0132779 here 0.00368545 have 3.82696e-07
+align 9 checkpoint 1
+align 10 to 0.733077 *DELETE* 0.266923
+align 11 you 0.52049 *DELETE* 0.308356 too 0.123335 two 0.0478191
+align 12 from 0.969885 form 0.0123334 fund 0.0110369 phone 0.00646427 inform 0.00016011 fun 7.0927e-05 formed 2.08568e-05 phoned 1.48359e-05 find 1.4008e-05
+align 13 checkpoint 0.999889 *DELETE* 0.00011126
+align 14 when 0.814577 one 0.126209 *DELETE* 0.0592089 went 5.43264e-06
+align 15 a 0.697128 to 0.151726 the 0.0919376 wonder 0.0558872 *DELETE* 0.00321043 checkpoints 0.00011126
+align 16 checkpoint 1
+align 17 to 0.55659 you 0.44341
+align 18 *DELETE* 0.976605 you 0.0233951
+align 19 uh 1
+align 20 your 0.74661 you 0.147143 you're 0.0626039 uh 0.0436433
+align 21 *DELETE* 0.956357 your 0.0363883 you 0.00498176 you're 0.00227325
+align 22 radio 1
+align 23 operator 1
+align 24 didn't 0.832429 did 0.167501 due 7.01e-05
+align 25 *DELETE* 0.842112 you 0.152109 he 0.00266203 to 0.00223037 we 0.000650484 did 0.000236164
+align 26 call 0.938811 *DELETE* 0.0611886
+align 27 in 0.93595 calling 0.0611179 an 0.00292928 and 2.65211e-06
+align 28 a 0.932202 up 0.0667733 *DELETE* 0.00095433 calling 7.06637e-05
+align 29 *DELETE* 0.999929 up 7.06637e-05
+align 30 poles 0.599457 paulos 0.332745 all's 0.0386032 all 0.0179115 alls 0.00884699 *DELETE* 0.00148224 apology 0.00095433
+align 31 *DELETE* 0.982171 is 0.012141 as 0.00568763
+align 32 right 0.909268 red 0.0279638 are 0.0124162 write 0.0106724 rip 0.00867182 rent 0.00826619 rhett 0.00623363 ripped 0.00346004 read 0.00324318 route 0.00232236 rat 0.00193583 al-ziraa 0.00146964 wrap 0.00117413 rap 0.0010622 i 0.000418373 were 0.000402894 or 0.000354928 rare 0.000194696 drip 0.000105802 *DELETE* 9.50366e-05 that 8.81292e-05 rua 6.59958e-05 ride 4.94818e-05 ray 2.06585e-05 al-zirai 1.25528e-05 road 8.17519e-06 wrote 5.97106e-06 rack 5.32309e-06 rate 5.00411e-06 rib 3.86458e-06 row 1.90228e-06 rope 6.53005e-07 wreck 4.94031e-07 wrapped 3.04389e-07 ru'a 2.28039e-07 raad 1.9387e-07 al-zurou 4.92029e-08 ready 5.70778e-09 apologize 2.12839e-16
+align 33 *DELETE* 0.987351 at 0.00885598 up 0.00370779 out 7.13162e-05 a 5.76364e-06 i 4.00121e-06 that 2.02405e-06 it 1.86803e-06 uh 6.88178e-07
+align 34 </s> 1

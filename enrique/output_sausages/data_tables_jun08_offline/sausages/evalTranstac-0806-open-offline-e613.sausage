@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that's 1
+align 3 a 1
+align 4 very 1
+align 5 wise 0.999942 well 4.52485e-05 why's 1.29624e-05
+align 6 *DELETE* 0.999955 is 4.52485e-05
+align 7 move 0.999941 moved 5.86498e-05
+align 8 *DELETE* 0.999647 i 0.000114075 uh 7.1971e-05 a 6.58616e-05 in 5.60358e-05 it 4.06354e-05 to 2.91032e-06 you 9.27235e-07 the 1.39772e-07
+align 9 </s> 1

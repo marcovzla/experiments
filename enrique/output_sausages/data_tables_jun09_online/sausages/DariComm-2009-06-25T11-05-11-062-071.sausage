@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 if 0.991849 at 0.00369724 it's 0.00248703 it 0.0019667
+align 2 the 0.984244 they 0.00696633 it 0.00380029 a 0.00304302 that 0.00176416 they're 0.000182408
+align 3 talaban 1
+align 4 start 0.999874 star 0.000126267
+align 5 fighting 0.999979 fight 2.09803e-05
+align 6 *DELETE* 0.992477 and 0.00737687 in 0.00014637
+align 7 do 1
+align 8 you 1
+align 9 *DELETE* 1 you 2.29373e-07
+align 10 want 0.629243 wanna 0.370757
+align 11 *DELETE* 0.842854 to 0.157146
+align 12 take 1
+align 13 detainees 1
+align 14 or 1
+align 15 eliminate 1
+align 16 the 0.999344 to 0.000499745 a 9.60184e-05 their 5.98797e-05 there 2.95846e-07
+align 17 target 0.999917 toward 5.15201e-05 *DELETE* 3.14321e-05
+align 18 *DELETE* 0.999635 uh 0.000244019 it 5.15202e-05 i 3.7381e-05 targets 3.14321e-05 a 2.97156e-07 them 1.48643e-07 the 1.33854e-07 and 4.25284e-08 is 3.19348e-09 you 1.10623e-10
+align 19 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 now 0.971183 *DELETE* 0.0288174
+align 2 uh 0.970417 no 0.0288174 *DELETE* 0.000765421
+align 3 do 1
+align 4 you 1
+align 5 always 0.99922 do 0.000780119
+align 6 *DELETE* 0.99922 always 0.000780119
+align 7 deliver 0.674427 it 0.268605 they 0.0305543 in 0.0105849 that 0.00797166 do 0.00504031 eat 0.00281699
+align 8 *DELETE* 0.999263 you 0.000737386
+align 9 *DELETE* 0.674427 ever 0.290716 never 0.0348572
+align 10 these 1
+align 11 every 0.990096 *DELETE* 0.00990416
+align 12 day 0.990048 everyday 0.009543 *DELETE* 0.000409296
+align 13 *DELETE* 0.998188 in 0.000744259 and 0.000581468 everything 0.000361161 dane 4.81353e-05 i 4.08955e-05 uh 1.96955e-05 you 1.5948e-05
+align 14 </s> 1

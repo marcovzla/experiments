@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 can 1
+align 4 i 1
+align 5 can 1
+align 6 see 1
+align 7 that's 0.997636 that 0.00236449
+align 8 the 0.87905 uh 0.12095
+align 9 uh 0.496266 are 0.488257 or 0.0102924 our 0.00393771 *DELETE* 0.0011625 the 8.44755e-05
+align 10 great 1
+align 11 concern 0.973955 concerned 0.0260448
+align 12 and 1
+align 13 it 0.999823 that 0.00017703
+align 14 should 1
+align 15 be 1
+align 16 a 1
+align 17 great 0.99981 gray 0.000190095
+align 18 concern 0.996795 concerned 0.00320485
+align 19 for 0.999973 four 2.73927e-05
+align 20 everyone 0.99957 a 0.00042064 every 6.01809e-06 abi 3.01262e-06 of 5.95228e-10
+align 21 *DELETE* 0.999579 be 0.000340065 b 4.23488e-05 bee 3.82271e-05
+align 22 *DELETE* 0.99957 one 0.000396676 warm 3.29956e-05
+align 23 </s> 1

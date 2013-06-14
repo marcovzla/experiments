@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 is 0.905547 does 0.0942121 it 0.000240613
+align 2 *DELETE* 0.999759 is 0.000240613
+align 3 your 1
+align 4 family 1
+align 5 okay 1
+align 6 do 0.999995 did 4.8922e-06
+align 7 they 1
+align 8 have 1
+align 9 enough 1
+align 10 food 1
+align 11 *DELETE* 0.999051 uh 0.000849996 i 7.78912e-05 to 1.40155e-05 do 5.53911e-06 and 1.53916e-06 you 3.99111e-12 is 2.80641e-13 in 1.88023e-13
+align 12 </s> 1

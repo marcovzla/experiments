@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 mister 1
+align 5 david 1
+align 6 u._s. 0.989111 you 0.010719 *DELETE* 0.000170394
+align 7 *DELETE* 0.989111 us 0.01003 his 0.000317264 is 0.000297436 use 0.000170394 as 6.57043e-05 was 7.26489e-06 it's 1.38506e-06
+align 8 forces 0.998881 forces' 0.00111929
+align 9 *DELETE* 0.999986 uh 1.1592e-05 i 1.99753e-06 a 1.66503e-07 to 3.74416e-08
+align 10 </s> 1

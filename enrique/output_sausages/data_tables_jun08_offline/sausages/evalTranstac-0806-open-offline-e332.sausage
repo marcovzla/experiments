@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 once 1
+align 3 uh 1
+align 4 here's 0.819998 uh 0.180002
+align 5 *DELETE* 0.819919 here's 0.180002 some 7.94376e-05
+align 6 *DELETE* 0.99999 some 9.85161e-06
+align 7 something 0.999911 thing 8.92892e-05
+align 8 that 1
+align 9 will 1
+align 10 happen 1
+align 11 once 0.510336 at 0.317571 that 0.172093
+align 12 *DELETE* 0.510336 once 0.489664
+align 13 you 1
+align 14 determine 1
+align 15 either 0.761722 you 0.238278
+align 16 *DELETE* 0.761722 there 0.166085 their 0.0434249 they're 0.0287682
+align 17 he's 0.999388 his 0.000485331 he 0.000126229
+align 18 *DELETE* 0.999874 is 0.000126229
+align 19 breathing 1
+align 20 or 1
+align 21 not 1
+align 22 that's 1
+align 23 when 0.996336 *DELETE* 0.00366389
+align 24 we 0.990615 *DELETE* 0.00572141 one 0.00366389
+align 25 will 0.994854 we'll 0.00503605 we 0.000110357
+align 26 *DELETE* 0.99989 will 0.000110357
+align 27 take 1
+align 28 action 0.999937 actions 6.33242e-05
+align 29 *DELETE* 1 i 1.29764e-07
+align 30 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 i'd 0.998455 i 0.00121093 i've 0.000334001
+align 3 be 0.999627 been 0.000373363
+align 4 more 1
+align 5 than 1
+align 6 happy 1
+align 7 to 1
+align 8 uh 0.696756 *DELETE* 0.303244
+align 9 compensate 1
+align 10 for 0.998478 to 0.00152194
+align 11 the 0.64722 their 0.276215 they 0.0520557 there 0.0139983 they're 0.0074908 that 0.00201873 them 0.000668428 then 0.00033283
+align 12 move 0.985822 moved 0.00852488 mood 0.00291847 moves 0.00176533 moon 0.000889891 you 6.88114e-05 new 8.87293e-06 movie 1.50755e-06 do 2.25122e-07
+align 13 </s> 1

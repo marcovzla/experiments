@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 gave 1
+align 3 you 1
+align 4 this 1
+align 5 land 0.998169 letter 0.00141953 way 0.000323657 *DELETE* 8.33042e-05 lay 4.53244e-06 lawyer 7.34517e-14
+align 6 *DELETE* 0.998148 and 0.00174772 learned 4.68068e-05 lend 3.64974e-05 uh 1.1223e-05 i 9.30614e-06 it 4.82014e-07 in 2.73033e-07 on 3.49242e-10 is 1.03975e-10 lawyer 1.93204e-13 a 8.75551e-23
+align 7 </s> 1

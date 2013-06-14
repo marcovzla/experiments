@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 0.998971 *DELETE* 0.000820797 did 0.000204334 but 4.17507e-06
+align 2 you 1
+align 3 need 1
+align 4 anything 1
+align 5 for 1
+align 6 the 1
+align 7 rate 0.987097 ready 0.00555976 reda 0.00386278 raids 0.00333953 *DELETE* 0.00014125 re 9.90846e-16 ray 1.50052e-21
+align 8 *DELETE* 0.997117 in 0.00120373 is 0.000741639 at 0.000203103 it 0.000141626 rates 0.00014125 and 0.000132921 if 0.000118273 of 8.61856e-05 i 4.36419e-05 uh 3.63079e-05 a 1.60961e-05 high 6.66516e-06 him 5.22917e-06 on 5.14785e-06 you 1.47103e-06 as 2.42976e-08 to 2.31982e-08 who 2.7134e-12 can 1.97237e-15 do 9.90848e-16 range 1.21736e-26 the 9.21593e-27 that 3.98368e-28
+align 9 </s> 1

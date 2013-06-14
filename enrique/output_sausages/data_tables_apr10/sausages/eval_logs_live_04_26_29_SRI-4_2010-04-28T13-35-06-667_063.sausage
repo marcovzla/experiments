@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999994 does 6.04959e-06
+align 3 the 1
+align 4 highest 1
+align 5 level 1
+align 6 of 1
+align 7 education 1
+align 8 you've 0.999539 you 0.000461247
+align 9 received 0.999927 receive 7.26511e-05
+align 10 *DELETE* 0.999454 uh 0.000437274 a 9.13362e-05 i 1.22899e-05 it 5.1104e-06 in 1.03107e-07 an 4.545e-08 if 4.40719e-08
+align 11 </s> 1

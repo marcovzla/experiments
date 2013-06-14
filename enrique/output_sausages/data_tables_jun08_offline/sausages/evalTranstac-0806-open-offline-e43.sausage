@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 did 0.999269 good 0.000445171 could 0.00028589
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 conduct 1
+align 6 the 0.982676 a 0.0173241
+align 7 back 0.973812 background 0.0261879
+align 8 on 0.683963 run 0.268904 *DELETE* 0.0245337 under 0.0209449 of 0.00165424
+align 9 *DELETE* 0.977401 this 0.0225991
+align 10 *DELETE* 0.79835 investigation 0.179051 case 0.0225991
+align 11 investigations 0.79835 is 0.125374 with 0.0430105 *DELETE* 0.0332657
+align 12 the 0.966734 see 0.0332657
+align 13 local 1
+align 14 police 1
+align 15 force 0.996285 forces 0.00371461
+align 16 *DELETE* 0.999958 uh 2.42803e-05 is 1.72294e-05 i 6.64468e-07
+align 17 </s> 1

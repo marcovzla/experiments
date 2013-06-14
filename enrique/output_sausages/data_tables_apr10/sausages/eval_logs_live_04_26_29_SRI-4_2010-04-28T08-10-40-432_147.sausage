@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 require 1
+align 4 anti 1
+align 5 malaria 1
+align 6 prophylaxis 1
+align 7 *DELETE* 0.99999 uh 6.55263e-06 i 3.71967e-06
+align 8 </s> 1

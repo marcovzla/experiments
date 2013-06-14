@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 was 1
+align 3 the 1
+align 4 last 1
+align 5 time 1
+align 6 you 1
+align 7 saw 1
+align 8 your 1 you're 8.70579e-19
+align 9 father 1
+align 10 *DELETE* 0.999951 do 2.52135e-05 uh 2.12515e-05 i 2.48716e-06 a 2.96054e-07
+align 11 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 valuable 1
+align 3 as 0.526559 is 0.429715 does 0.0437258
+align 4 your 0.970363 you 0.0199863 you're 0.00965097
+align 5 *DELETE* 0.995428 were 0.00457239
+align 6 information 1
+align 7 *DELETE* 0.999326 uh 0.000671896 i 1.96084e-06 and 3.52058e-16 in 6.09273e-24
+align 8 </s> 1

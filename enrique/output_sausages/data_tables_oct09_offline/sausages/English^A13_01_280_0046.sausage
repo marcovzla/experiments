@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 it 0.55723 *DELETE* 0.44277
+align 2 looks 0.834439 is 0.140555 let's 0.0130879 *DELETE* 0.0119179
+align 3 like 0.9566 sick 0.0183947 take 0.0130879 electrical 0.0119179
+align 4 open 0.959574 opened 0.0153244 okay 0.0129929 p._m. 0.00643367 can 0.00223204 pin 0.0014873 pia 0.0008113 pay 0.000503786 opening 0.000180721 pure 0.000176909 p 7.9561e-05 *DELETE* 7.79239e-05 pimp 6.98406e-05 peel 3.88702e-05 pee 6.73899e-06 we'll 4.89187e-06 opens 4.59723e-06 okra 4.10927e-07 o._p. 5.15403e-08 opener 1.17805e-08
+align 5 *DELETE* 0.999772 it 0.000192507 in 1.90991e-05 up 1.06021e-05 pay 4.89187e-06 on 4.54835e-07 and 3.07183e-07 to 2.35557e-07 uh 1.36096e-08
+align 6 </s> 1

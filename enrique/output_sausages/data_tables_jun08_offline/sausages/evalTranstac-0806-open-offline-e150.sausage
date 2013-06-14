@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 if 0.87842 *DELETE* 0.0619144 you 0.0482701 it 0.0100814 a 0.000794349 at 0.000519896
+align 6 uh 0.967075 um 0.032925
+align 7 some 1
+align 8 of 1
+align 9 the 1
+align 10 most 1
+align 11 critical 1
+align 12 issues 1
+align 13 that 1
+align 14 you're 1
+align 15 facing 1
+align 16 *DELETE* 0.999826 in 0.000174324
+align 17 since 0.997274 *DELETE* 0.00272558
+align 18 our 0.959773 are 0.0212829 or 0.0156465 sensor 0.00272558 her 0.000572289
+align 19 last 1
+align 20 visit 0.9991 is 0.000802389 does 7.26251e-05 visits 1.18486e-05 visited 1.14359e-05 business 1.45001e-06 as 8.68191e-08
+align 21 *DELETE* 0.998896 it 0.00109634 uh 7.01857e-06 i 7.19185e-07
+align 22 </s> 1

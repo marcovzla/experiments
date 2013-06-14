@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 say 0.99686 sir 0.00236946 so 0.000770053
+align 2 again 1
+align 3 please 1
+align 4 *DELETE* 1 uh 9.02074e-11 do 1.177e-12
+align 5 </s> 1

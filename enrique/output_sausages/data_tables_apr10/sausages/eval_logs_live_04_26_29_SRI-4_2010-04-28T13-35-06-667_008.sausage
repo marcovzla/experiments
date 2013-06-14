@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 a 0.58339 today 0.290401 i 0.126209
+align 2 today 0.709599 i 0.152416 *DELETE* 0.137985
+align 3 i'm 0.516631 i 0.287547 *DELETE* 0.148193 am 0.0476281
+align 4 *DELETE* 0.56426 am 0.433294 i'm 0.00195303 on 0.000493569
+align 5 conducting 1
+align 6 a 1
+align 7 census 1
+align 8 *DELETE* 0.999282 so 0.000661482 i 3.8266e-05 uh 1.45201e-05 to 3.5094e-06 a 5.8449e-07 as 5.95561e-08
+align 9 </s> 1

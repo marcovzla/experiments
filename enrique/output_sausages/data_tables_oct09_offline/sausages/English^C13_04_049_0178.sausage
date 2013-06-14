@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 0.726902 uh 0.246124 oh 0.0269747
+align 2 *DELETE* 0.726902 okay 0.273098
+align 3 sir 1
+align 4 how 1
+align 5 many 1
+align 6 of 1
+align 7 them 1
+align 8 were 0.999842 where 0.000155892 wear 2.45981e-06 wore 1.73863e-11
+align 9 there 0.999869 their 0.000126968 they're 4.08841e-06 they 1.78732e-12
+align 10 *DELETE* 1 are 1.78732e-12
+align 11 </s> 1

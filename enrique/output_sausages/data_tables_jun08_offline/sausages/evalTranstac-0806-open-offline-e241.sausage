@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 absolutely 1
+align 2 uh 0.616242 *DELETE* 0.383758
+align 3 uh 0.934077 *DELETE* 0.0659235
+align 4 to 1
+align 5 lead 0.898705 leave 0.101295
+align 6 by 1
+align 7 example 1
+align 8 *DELETE* 0.999999 i 7.93954e-07
+align 9 </s> 1

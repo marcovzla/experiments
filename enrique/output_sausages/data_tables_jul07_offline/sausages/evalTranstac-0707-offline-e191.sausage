@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 well 0.999998 *DELETE* 1.44763e-08
+align 2 i 0.980528 uh 0.0194708 hi 1.11523e-06 why 4.5617e-07
+align 3 i 0.850029 *DELETE* 0.149971
+align 4 *DELETE* 0.982087 i 0.0179132
+align 5 i'm 0.836128 i 0.163872
+align 6 *DELETE* 0.967248 i 0.0327521
+align 7 *DELETE* 0.836128 i'm 0.163872
+align 8 very 1
+align 9 sorry 1
+align 10 to 1
+align 11 hear 1
+align 12 that 1
+align 13 sir 0.999657 serve 0.000235449 served 0.000107886
+align 14 *DELETE* 0.999998 or 2.28909e-06
+align 15 </s> 1

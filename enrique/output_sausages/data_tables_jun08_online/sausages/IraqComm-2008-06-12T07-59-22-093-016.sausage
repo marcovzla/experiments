@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 my 1
+align 3 name 1
+align 4 is 1
+align 5 captain 1
+align 6 white 0.845502 like 0.0737066 light 0.0349228 why 0.0284969 right 0.00832402 one 0.00279403 liked 0.00257767 war 0.00159893 want 0.000778202 dwight 0.000495313 might 0.000482612 y 0.000113022 waheed 0.000111294 wide 7.85847e-05 *DELETE* 1.79071e-05
+align 7 *DELETE* 0.999911 to 3.9237e-05 uh 3.16885e-05 wiped 1.79071e-05 wai 5.99269e-11 i 1.34347e-13 wife 1.00411e-15 a 7.75592e-19
+align 8 </s> 1

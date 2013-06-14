@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 member 1
+align 4 *DELETE* 0.999485 or 0.000432826 of 8.25174e-05
+align 5 from 1
+align 6 our 0.896164 are 0.0746532 war 0.0140654 art 0.0138777 my 0.00123943
+align 7 class 0.977289 classes 0.0227115
+align 8 before 1
+align 9 how 1
+align 10 to 1
+align 11 use 1
+align 12 the 0.999771 that 0.000229224
+align 13 tourniquet 1
+align 14 *DELETE* 0.999939 i 5.3162e-05 you 4.35303e-06 is 3.06203e-06 uh 4.95034e-08 a 3.26149e-15 to 3.33081e-16
+align 15 </s> 1

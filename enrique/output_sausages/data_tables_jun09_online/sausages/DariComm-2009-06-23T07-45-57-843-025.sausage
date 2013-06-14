@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 1
+align 3 you 1
+align 4 living 1
+align 5 quarters 0.990768 orders 0.00891729 workers 0.000315062
+align 6 *DELETE* 0.999968 in 2.96638e-05 is 2.35983e-06 uh 2.94336e-08 i 1.70609e-08 do 1.52985e-08 the 1.62391e-10 and 2.89223e-11 to 1.95446e-11 um 1.00996e-12 if 6.03733e-14
+align 7 </s> 1

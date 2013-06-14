@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 your 1
+align 4 friends 1
+align 5 do 0.999865 *DELETE* 0.000134856
+align 6 you 0.952774 *DELETE* 0.0472257
+align 7 *DELETE* 0.992276 uh 0.00440864 do 0.00281633 know 0.000326346 view 0.000109069 i 3.00323e-05 due 2.1098e-05 it 1.2506e-05 a 1.33108e-07 the 2.96927e-08 to 6.29749e-13 you 3.97319e-15 bu 2.99781e-18
+align 8 </s> 1

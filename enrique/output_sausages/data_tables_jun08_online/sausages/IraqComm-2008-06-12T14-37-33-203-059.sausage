@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 0.79886 *DELETE* 0.20114
+align 2 is 0.795229 where's 0.20114 was 0.00205904 does 0.00157145
+align 3 the 1
+align 4 factory 1
+align 5 located 1
+align 6 *DELETE* 1 in 7.01326e-16 at 1.30142e-23
+align 7 </s> 1

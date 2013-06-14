@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 you 1
+align 4 going 1
+align 5 to 1
+align 6 baghdad 1
+align 7 for 0.963538 four 0.0362941 fore 9.03819e-05 fourth 7.59294e-05 forth 1.59679e-06
+align 8 *DELETE* 0.997794 uh 0.00133665 a 0.00033516 you 0.000227279 it 0.000197595 i 8.41063e-05 us 1.90533e-05 the 2.32118e-06 an 1.69257e-06 in 1.52784e-06 if 5.03206e-07 to 1.05311e-07 as 1.00099e-07
+align 9 </s> 1

@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 i 0.845902 would 0.092557 who 0.0493473 uh 0.00604994 will 0.00531782 are 0.000696899 *DELETE* 0.000129316
+align 3 have 1
+align 4 to 1
+align 5 be 1
+align 6 somebody 1
+align 7 who 0.600727 who's 0.396376 whose 0.00289737
+align 8 is 0.600727 *DELETE* 0.399273
+align 9 very 1
+align 10 very 1
+align 11 trusted 1
+align 12 um 1
+align 13 that 1
+align 14 can 1
+align 15 go 1
+align 16 when 0.588102 in 0.411898
+align 17 there 0.625196 they're 0.216545 their 0.155736 they 0.00252376
+align 18 *DELETE* 0.997476 are 0.00252376
+align 19 tomorrow 1
+align 20 to 1
+align 21 see 1
+align 22 the 1
+align 23 insides 0.999921 in 7.92233e-05
+align 24 *DELETE* 0.999921 sides 7.92233e-05
+align 25 </s> 1

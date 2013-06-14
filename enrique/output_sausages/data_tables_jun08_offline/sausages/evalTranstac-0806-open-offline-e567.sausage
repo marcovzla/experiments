@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 actually 0.990933 absolute 0.00906674
+align 2 i 1
+align 3 can 1 can't 1.21167e-07
+align 4 get 0.99914 teach 0.000860112
+align 5 you 1
+align 6 all 0.706731 uh 0.283254 *DELETE* 0.0067108 off 0.00326496 a 3.95397e-05
+align 7 *DELETE* 0.999989 a 1.10805e-05
+align 8 all 0.994183 uh 0.00416014 *DELETE* 0.00165716
+align 9 *DELETE* 0.99584 all 0.00416014
+align 10 of 0.999895 *DELETE* 0.000104981
+align 11 that 1
+align 12 um 1
+align 13 uh 0.816047 all 0.14809 um 0.0358636
+align 14 *DELETE* 0.898078 uh 0.065328 a 0.0365939
+align 15 right 1
+align 16 after 1
+align 17 this 1
+align 18 uh 1
+align 19 meeting 1
+align 20 i'll 1
+align 21 go 1
+align 22 get 1
+align 23 the 0.974548 this 0.01277 that's 0.00995994 that 0.00213932 us 0.000414799 at 0.000167656
+align 24 stuff 0.988259 tough 0.008966 up 0.00277547
+align 25 and 1
+align 26 bring 1 *DELETE* 3.09579e-14
+align 27 it 0.988697 a 0.00729604 *DELETE* 0.00380232 them 0.000106445 him 6.39828e-05 in 3.19451e-05 the 2.19185e-06 to 3.69718e-12 burning 9.13324e-13
+align 28 back 0.996489 about 0.00348618 bad 2.46587e-05
+align 29 *DELETE* 0.999991 it 7.00384e-06 uh 1.7527e-06
+align 30 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 morning 1
+align 3 and 1
+align 4 i 1
+align 5 welcome 0.64071 will 0.35929
+align 6 up 0.592854 call 0.35929 *DELETE* 0.0478566
+align 7 and 0.719694 *DELETE* 0.253006 in 0.0272998
+align 8 *DELETE* 0.824618 there 0.175382
+align 9 there's 0.571612 enters 0.253006 is 0.175382
+align 10 a 1
+align 11 pole 0.595966 pull 0.216946 pool 0.179454 *DELETE* 0.00763392
+align 12 are 0.992366 puller 0.00763392 our 3.87418e-35
+align 13 very 1
+align 14 my 0.982184 may 0.0149709 *DELETE* 0.00284523
+align 15 room 0.985746 rooms 0.0113255 myron 0.00171558 myra 0.00106932 rumor 8.32491e-05 *DELETE* 6.0337e-05
+align 16 *DELETE* 0.999682 is 0.000229463 myriam 6.0337e-05 i 2.32985e-05 uh 3.23257e-06 a 1.93182e-06 in 3.1098e-08 and 4.70674e-17 now 8.11695e-25 room's 1.50502e-26 so 3.24127e-27 you 3.05853e-28
+align 17 </s> 1

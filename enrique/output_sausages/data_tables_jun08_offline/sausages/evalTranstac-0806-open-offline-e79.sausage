@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 can 0.945955 could 0.0539411 can't 0.000104121
+align 3 talk 1
+align 4 to 1
+align 5 your 1
+align 6 entering 0.863851 interior 0.12373 intern 0.0118203 into 0.000598929 entire 1.00651e-07
+align 7 *DELETE* 1 you 1.00651e-07
+align 8 engineers 1
+align 9 in 0.642065 she 0.115985 he 0.0977205 you 0.0874653 say 0.0443957 we 0.012343 soon 1.7907e-05 see 6.88966e-06 a 4.18997e-07 *DELETE* 2.10569e-16
+align 10 internal 0.9865 in 0.0135004
+align 11 *DELETE* 0.9865 internal 0.0135004
+align 12 employees 1
+align 13 to 1
+align 14 ensure 1
+align 15 that 1
+align 16 they 1
+align 17 understand 1
+align 18 the 0.466827 *DELETE* 0.407958 that 0.113599 them 0.0103602 a 0.00125576
+align 19 the 0.999844 *DELETE* 0.000156314
+align 20 uh 0.616818 *DELETE* 0.383182
+align 21 ramifications 1
+align 22 of 0.989816 *DELETE* 0.0101844
+align 23 of 0.643386 *DELETE* 0.356614
+align 24 uh 1
+align 25 *DELETE* 0.643386 of 0.356614
+align 26 *DELETE* 0.643386 uh 0.356614
+align 27 not 0.845938 now 0.154062
+align 28 working 1
+align 29 on 1
+align 30 this 1
+align 31 facility 1
+align 32 properly 1
+align 33 *DELETE* 0.999998 i 1.51526e-06
+align 34 </s> 1

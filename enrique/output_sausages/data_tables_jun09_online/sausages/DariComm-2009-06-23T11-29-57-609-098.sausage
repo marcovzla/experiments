@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 try 1
+align 4 how 0.993593 to 0.00640688
+align 5 *DELETE* 0.993593 how 0.00640688
+align 6 many 1
+align 7 r._p._g.s 1
+align 8 *DELETE* 1 there 1.8923e-11
+align 9 are 1
+align 10 you 0.999729 you're 0.000270853
+align 11 bringing 0.998581 bring 0.00141901
+align 12 tomorrow 0.999354 *DELETE* 0.000358161 two 0.000250702 to 3.67942e-05 too 1.29509e-21
+align 13 *DELETE* 0.998755 more 0.000645657 i 0.000346323 to 8.12699e-05 the 4.92111e-05 you 3.90217e-05 and 2.43107e-05 so 1.90636e-05 is 1.65073e-05 if 9.98207e-06 do 7.66791e-06 it 3.12212e-06 uh 1.71641e-06 a 8.41389e-07 with 4.05794e-07 at 2.32703e-08 then 1.3309e-10 i'm 8.91718e-11 in 1.0085e-11 that 8.1483e-12 or 3.53001e-14
+align 14 </s> 1

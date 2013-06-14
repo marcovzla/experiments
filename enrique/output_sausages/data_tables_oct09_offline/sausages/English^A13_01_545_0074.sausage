@@ -1,0 +1,43 @@
+numaligns 41
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 sir 0.860861 *DELETE* 0.139139
+align 3 i 1
+align 4 do 0.546571 did 0.453429
+align 5 searcher 0.975957 a 0.0240433
+align 6 *DELETE* 0.975957 searcher 0.0240433
+align 7 and 0.999995 an 5.05892e-06
+align 8 i'm 1
+align 9 gonna 0.58056 going 0.41944
+align 10 *DELETE* 0.562963 to 0.41944 sentence 0.0173935 standards 0.000136187 stance 6.66253e-05
+align 11 *DELETE* 0.641595 send 0.352664 sentence 0.005741
+align 12 status 0.569253 us 0.334337 stand 0.0539524 *DELETE* 0.0424574
+align 13 again 0.902888 a 0.0557309 us 0.0254095 it's 0.00771096 *DELETE* 0.00416831 and 0.00129669 it 0.00128534 standard 0.000793649 its 0.000267879 is 0.000226527 as 0.000170298 of 4.79546e-05 at 4.19451e-06
+align 14 *DELETE* 0.999474 a 0.000525622
+align 15 *DELETE* 0.945661 again 0.0287574 good 0.0241192 a 0.000811827 going 0.000650235
+align 16 *DELETE* 0.999188 good 0.000811827
+align 17 trickle 0.74072 to 0.199997 signature 0.0406603 through 0.0186225
+align 18 *DELETE* 0.999184 get 0.000816498
+align 19 *DELETE* 0.999184 to 0.000816498
+align 20 *DELETE* 0.820599 call 0.179401
+align 21 true 0.920121 culture 0.0798789
+align 22 but 1
+align 23 we 1
+align 24 not 0.665564 *DELETE* 0.334436
+align 25 uh 0.423186 know 0.334241 *DELETE* 0.242573
+align 26 *DELETE* 0.948969 it 0.0474223 a 0.00287172 i 0.00054134 knock 0.000195321
+align 27 you 1
+align 28 need 1
+align 29 to 1
+align 30 understand 1
+align 31 and 0.962863 uh 0.0342442 *DELETE* 0.00289253
+align 32 *DELETE* 0.962863 and 0.0341043 in 0.00303241
+align 33 mail 0.614526 male 0.3659 maile 0.0195734
+align 34 did 0.570168 then 0.12501 do 0.103291 the 0.0765017 been 0.0629771 *DELETE* 0.0193604 dim 0.0146243 de 0.0111822 din 0.010887 but 0.0031375 them 0.00184523 dear 0.000949724 dig 3.76095e-05 they 2.19586e-05 that 4.46984e-06 bin 1.74152e-06
+align 35 not 0.80331 i'll 0.149583 uh 0.0219502 danelle 0.0095306 bin 0.00636634 bina 0.00346342 now 0.00191546 knot 0.00143368 *DELETE* 0.00115182 out 0.0010481 knife 0.000247064
+align 36 search 0.954792 *DELETE* 0.0376896 not 0.00347969 nasser 0.00274851 uh 0.00128997
+align 37 *DELETE* 0.99547 search 0.00452996
+align 38 in 0.89137 and 0.0590373 searching 0.0373428 it 0.00392795 chin 0.00274851 an 0.0024829 on 0.000939314 him 0.000900452 surgeon 0.000586431 inn 0.000443755 them 0.000153509 then 2.66489e-05 i'm 2.15022e-05 earn 9.70936e-06 end 6.73508e-06 n 2.34927e-06 at 2.80343e-07 under 7.02465e-08
+align 39 *DELETE* 0.99573 uh 0.00426536 a 1.76843e-06 i 1.30325e-06 the 1.14596e-06
+align 40 </s> 1

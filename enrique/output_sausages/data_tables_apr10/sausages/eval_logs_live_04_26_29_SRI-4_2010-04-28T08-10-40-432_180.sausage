@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 it's 1
+align 2 a 1
+align 3 pleasure 1
+align 4 to 1
+align 5 meet 1
+align 6 you 1
+align 7 are 1
+align 8 you 1
+align 9 in 1
+align 10 charge 1
+align 11 of 1
+align 12 the 1
+align 13 medical 1
+align 14 facility 0.999798 facilities 0.000201505
+align 15 *DELETE* 0.999963 uh 3.61677e-05 i 7.67885e-07 is 1.12655e-07
+align 16 </s> 1

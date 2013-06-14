@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 policemen 0.756191 policeman 0.243809
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 for 0.999627 *DELETE* 0.000373308
+align 8 the 0.999983 further 1.72041e-05
+align 9 rate 0.996547 rain 0.00112299 raids 0.0007363 rates 0.000596433 ray 0.000585173 range 0.000245736 rey 0.000127024 re 3.96023e-05 raye 5.87676e-08 race 5.37664e-08 *DELETE* 1.92137e-10
+align 10 *DELETE* 1 of 2.58049e-08 raye 1.47556e-08 race 7.67213e-09 reda 3.05284e-16 i 2.93734e-20 rae 6.83648e-26
+align 11 </s> 1

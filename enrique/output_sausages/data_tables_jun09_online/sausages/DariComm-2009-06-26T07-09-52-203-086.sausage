@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 on 1
+align 2 *DELETE* 0.553199 the 0.446801
+align 3 our 0.997798 are 0.00220203
+align 4 next 1
+align 5 meeting 1
+align 6 which 1
+align 7 will 1
+align 8 be 1
+align 9 tomorrow 1
+align 10 *DELETE* 0.998531 i 0.00129471 in 6.7884e-05 and 4.2854e-05 uh 1.99087e-05 to 1.25168e-05 you 9.6714e-06 at 8.36881e-06 it 7.43592e-06 if 2.9586e-06 i'm 1.58177e-06 the 1.41801e-06 so 8.04754e-09 but 9.20653e-10 with 7.24955e-10 on 4.45431e-10 all 1.74312e-10 is 7.44648e-11 that 1.29873e-11 would 1.09692e-11 a 5.83703e-13
+align 11 </s> 1

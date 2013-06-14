@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 sewage 0.797374 sewerage 0.202562 search 6.41605e-05
+align 5 problems 1
+align 6 do 1
+align 7 you 1
+align 8 have 1
+align 9 *DELETE* 0.999086 uh 0.000504277 a 0.000409754
+align 10 </s> 1

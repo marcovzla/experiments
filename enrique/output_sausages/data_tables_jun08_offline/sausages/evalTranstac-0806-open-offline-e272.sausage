@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 0.982939 *DELETE* 0.0170607
+align 2 am 0.979005 i'm 0.0209945
+align 3 here 1
+align 4 to 0.999891 too 0.000108679
+align 5 uh 0.998517 i 0.00129017 where 0.000193055
+align 6 *DELETE* 0.999407 uh 0.000399869 i 0.000193055
+align 7 teach 1
+align 8 you 1
+align 9 about 1
+align 10 the 0.992914 *DELETE* 0.00708575
+align 11 uh 1
+align 12 patrolling 0.989992 uh 0.00743562 patrol 0.00257225
+align 13 *DELETE* 0.98995 patrolling 0.00743562 in 0.00166052 and 0.000911733 i 2.84912e-05 uh 1.34088e-05 a 4.84577e-07 the 1.9464e-09
+align 14 </s> 1

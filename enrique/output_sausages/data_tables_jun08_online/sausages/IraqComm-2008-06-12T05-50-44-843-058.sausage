@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 were 1
+align 3 on 1
+align 4 patrol 1
+align 5 and 1
+align 6 we 1 *DELETE* 6.46475e-11
+align 7 just 1 leaders 8.7367e-08
+align 8 randomly 1
+align 9 chose 0.972339 *DELETE* 0.0276608
+align 10 your 0.972339 children 0.0276608
+align 11 house 1
+align 12 *DELETE* 0.993018 uh 0.00697336 i 8.60436e-06 is 2.54894e-16 in 1.95481e-16
+align 13 </s> 1

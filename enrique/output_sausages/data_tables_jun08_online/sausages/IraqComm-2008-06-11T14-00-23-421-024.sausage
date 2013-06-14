@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 sir 0.973176 so 0.0268245
+align 2 you 1
+align 3 know 1
+align 4 that 0.735484 the 0.264516
+align 5 the 0.99986 that 0.000139945
+align 6 houses 0.906098 house 0.093751 *DELETE* 0.000150887
+align 7 are 0.791651 or 0.11198 is 0.093751 there 0.00185847 *DELETE* 0.000486044 house's 0.000150887 they 0.00012023 were 2.13799e-06
+align 8 *DELETE* 0.899503 our 0.0931269 searching 0.00610902 their 0.0012093 there 3.97603e-05 are 1.2034e-05
+align 9 search 0.524277 searched 0.469605 *DELETE* 0.00580382 for 0.000305196 searching 9.33949e-06
+align 10 *DELETE* 0.985266 for 0.0147339
+align 11 the 0.943723 and 0.0551883 *DELETE* 0.00108827
+align 12 security 1
+align 13 of 0.999981 *DELETE* 1.9258e-05
+align 14 your 0.999981 every 1.77337e-05 for 1.52431e-06
+align 15 neighborhood 1
+align 16 *DELETE* 0.978855 uh 0.0117916 to 0.00621267 in 0.00119835 it 0.000839784 a 0.0003296 of 0.000202179 um 0.000198592 or 8.68439e-05 too 6.18896e-05 up 6.07904e-05 if 4.33136e-05 at 2.94236e-05 an 2.68537e-05 and 2.37748e-05 do 1.68111e-05 is 1.13788e-05 her 1.03655e-05 have 4.7324e-07 here 2.23036e-07 you 1.8171e-08 them 1.78714e-08 i'm 2.24077e-09 who 5.47571e-11 i 2.55735e-11 that 1.86173e-13 now 1.80101e-13 there 9.59529e-14 him 3.15824e-14 on 1.18268e-14 are 9.50377e-15 i'd 9.52692e-16
+align 17 </s> 1

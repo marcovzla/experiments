@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 uh 0.701609 um 0.298391
+align 2 about 1
+align 3 one 1
+align 4 o'clock 1
+align 5 and 1
+align 6 ask 1
+align 7 for 0.985435 the 0.0145652
+align 8 sergeant 1
+align 9 writers 0.50988 rogers 0.49012
+align 10 in 1
+align 11 the 1
+align 12 uh 1
+align 13 claims 1
+align 14 are 0.318116 uh 0.190329 *DELETE* 0.19032 that 0.16874 of 0.132495
+align 15 *DELETE* 0.81121 up 0.0736138 our 0.0572075 a 0.0266287 i 0.0159481 or 0.0107925 it 0.00196068 around 0.00137352 about 0.00126479 i'm 4.63112e-07
+align 16 are 0.825398 and 0.126008 iron 0.0269756 *DELETE* 0.0209089 don't 0.000709428
+align 17 in 0.801995 *DELETE* 0.156784 and 0.0412214
+align 18 they 0.826278 a 0.173722
+align 19 are 0.809614 a 0.138437 uh 0.0299305 i 0.013167 yeah 0.0088509
+align 20 compensation 1
+align 21 apartment 0.983281 department 0.010659 apartments 0.00605927 departments 6.02171e-07
+align 22 *DELETE* 0.999957 uh 4.28548e-05 i 1.73196e-07
+align 23 </s> 1

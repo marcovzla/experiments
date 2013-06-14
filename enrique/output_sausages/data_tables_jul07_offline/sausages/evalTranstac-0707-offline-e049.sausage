@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 sir 1
+align 3 you 1
+align 4 uh 1
+align 5 *DELETE* 0.999969 uh 3.12531e-05
+align 6 familiar 1
+align 7 with 1
+align 8 the 1
+align 9 uh 1
+align 10 current 0.999966 currant 3.4104e-05
+align 11 weapons 0.999194 weapon's 0.00080577
+align 12 policy 1
+align 13 that 0.99967 *DELETE* 0.000330475
+align 14 infect 0.952045 *DELETE* 0.02672 infects 0.0199399 infected 0.000867237 that's 0.000311693 to 4.07494e-05 the 2.72609e-05 it 1.87818e-05 you 1.51507e-05 infection 1.43005e-05
+align 15 this 0.951282 infectious 0.0271336 its 0.0132255 the 0.00434818 it's 0.00269164 face 0.00122306 *DELETE* 3.27579e-05 if 2.871e-05 his 2.83632e-05 it 6.03694e-06
+align 16 *DELETE* 0.995704 this 0.00429639
+align 17 area 0.999867 sir 7.15204e-05 era 3.8397e-05 assyria 9.28263e-06 assyrian 9.06004e-06 syria 4.1774e-06 air 4.71272e-07 syrian 2.28296e-07
+align 18 *DELETE* 0.999996 uh 2.95142e-06 i 8.24392e-07
+align 19 </s> 1

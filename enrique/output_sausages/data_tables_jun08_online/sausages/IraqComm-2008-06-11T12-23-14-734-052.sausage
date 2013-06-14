@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.993024 when 0.00562726 where 0.00116575 *DELETE* 0.000183232
+align 2 is 0.999123 was 0.000616463 where's 0.000159112 does 7.69697e-05 when's 2.41209e-05
+align 3 the 1
+align 4 status 1
+align 5 of 1
+align 6 these 0.978993 his 0.0164725 the 0.00297104 your 0.00118004 its 0.000319628 this 6.36488e-05 each 1.04687e-07 is 6.28237e-14
+align 7 problems 1 *DELETE* 5.72455e-24
+align 8 *DELETE* 0.999973 uh 2.69872e-05 problem's 1.04937e-16 so 2.32038e-18
+align 9 </s> 1

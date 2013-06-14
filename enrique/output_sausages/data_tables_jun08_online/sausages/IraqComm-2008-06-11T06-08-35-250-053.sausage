@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what's 0.817816 what 0.182184
+align 2 *DELETE* 0.817816 is 0.182184
+align 3 the 1
+align 4 distance 1
+align 5 to 0.955269 do 0.0447313
+align 6 your 1
+align 7 father's 0.999737 fathers 0.000262634
+align 8 house 1
+align 9 *DELETE* 0.994499 is 0.00536479 uh 0.000105672 in 3.02767e-05 um 1.61452e-14
+align 10 </s> 1

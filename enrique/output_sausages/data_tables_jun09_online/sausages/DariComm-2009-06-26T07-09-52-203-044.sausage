@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 is 0.999926 has 7.37437e-05
+align 2 there 1
+align 3 a 1
+align 4 school 1
+align 5 *DELETE* 0.999237 a 0.00076253
+align 6 around 1
+align 7 the 1
+align 8 area 1
+align 9 that 0.998774 that's 0.00122627
+align 10 your 0.901133 you're 0.0988665
+align 11 children 1
+align 12 could 0.825447 can 0.170709 get 0.00342309 and 0.000344149 to 6.44138e-05 *DELETE* 1.21051e-05
+align 13 attend 0.999058 a 0.000680879 the 0.000123111 to 9.22508e-05 *DELETE* 4.07656e-05 do 4.5191e-06 they 1.41381e-11
+align 14 *DELETE* 0.996883 a 0.000936574 tent 0.000762655 it 0.000575295 i 0.0004146 uh 0.000176136 tenth 4.67628e-05 tanned 3.93549e-05 detained 3.91498e-05 tend 3.32043e-05 in 2.25232e-05 if 2.10288e-05 ten 2.03986e-05 to 1.5535e-05 the 6.95547e-06 high 2.69292e-06 and 2.13705e-06 them 1.62424e-06 do 2.10955e-07 an 1.55755e-08 i'm 8.8351e-14 all 1.62851e-15 attends 2.72775e-26 intend 9.60803e-27
+align 15 </s> 1

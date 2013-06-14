@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 that 0.39122 it's 0.27194 *DELETE* 0.210243 it 0.126597
+align 2 *DELETE* 0.667204 is 0.121598 at 0.0822258 but 0.0506846 uh 0.0347546 yeah 0.0196736 let 0.0188916 yep 0.00223932 if 0.0017736 i 0.000954652
+align 3 *DELETE* 0.999978 it 2.19826e-05
+align 4 my 0.998459 may 0.00154066
+align 5 pleasure 1
+align 6 *DELETE* 1 it 2.01664e-09
+align 7 </s> 1

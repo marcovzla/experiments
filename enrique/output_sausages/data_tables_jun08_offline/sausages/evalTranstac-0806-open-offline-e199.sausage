@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 yes 0.999119 guess 0.000881343
+align 2 i 1
+align 3 hope 1
+align 4 so 1
+align 5 as 0.999615 is 0.000384742
+align 6 well 1
+align 7 </s> 1

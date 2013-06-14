@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 well 0.892536 what 0.107464
+align 2 once 1
+align 3 i 1
+align 4 set 0.999799 sit 0.000152169 said 4.87361e-05
+align 5 up 1
+align 6 my 1
+align 7 platoon 1
+align 8 on 0.998193 *DELETE* 0.00180721
+align 9 the 0.967413 uh 0.0238503 *DELETE* 0.00756873 one 0.00116188 won 5.87771e-06
+align 10 outside 1
+align 11 of 1
+align 12 the 1
+align 13 of 1
+align 14 the 0.999909 this 9.06889e-05
+align 15 city 1
+align 16 all 0.964404 old 0.0318283 or 0.00376814
+align 17 growth 0.900589 roles 0.0630762 rules 0.0215662 rolls 0.0061212 of 0.00431513 girls 0.0031833 gross 0.000860355 grows 0.000210549 roads 7.83354e-05
+align 18 *DELETE* 0.995685 rules 0.00431513
+align 19 will 0.953616 we'll 0.0451615 would 0.00122276
+align 20 be 1
+align 21 closed 0.999948 close 5.16226e-05
+align 22 *DELETE* 0.999918 to 5.31794e-05 it 2.10446e-05 i 7.91461e-06
+align 23 </s> 1

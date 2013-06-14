@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1 does 3.3103e-07
+align 3 the 1
+align 4 total 1
+align 5 number 1
+align 6 of 1
+align 7 policemen 0.951573 policeman 0.0482942 police 0.000132391
+align 8 *DELETE* 0.99978 men 0.000112659 uh 8.22738e-05 man 1.97316e-05 a 2.78915e-06 i 2.16414e-06 in 1.19286e-22 and 7.32469e-24
+align 9 </s> 1

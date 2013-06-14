@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 workers 1
+align 4 have 1
+align 5 recently 1
+align 6 left 0.475946 last 0.474083 laughed 0.0381238 lasts 0.00714199 lafta 0.00308951 a 0.00107352 i 0.000467744 *DELETE* 7.39035e-05
+align 7 *DELETE* 0.998296 left 0.00120005 last 0.000288436 lest 7.39035e-05 uh 7.25628e-05 laughed 5.27705e-05 i 7.77715e-06 a 5.44634e-06 it 2.27394e-06 in 9.42837e-07 the 6.56206e-09
+align 8 </s> 1

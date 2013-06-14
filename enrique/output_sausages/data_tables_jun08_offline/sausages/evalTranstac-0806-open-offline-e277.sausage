@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 0.447581 yeah 0.32404 are 0.227195 i 0.00118467
+align 3 the 1
+align 4 first 1
+align 5 thing 1
+align 6 rent 0.743655 right 0.256345
+align 7 taq 0.974 lock 0.0260003
+align 8 about 1
+align 9 is 0.986409 as 0.0135912 it 7.68562e-16
+align 10 *DELETE* 1 is 7.68562e-16
+align 11 a 1
+align 12 patrol 1
+align 13 leader 1
+align 14 if 1
+align 15 you're 0.997027 your 0.00297322
+align 16 gonna 0.84749 going 0.15251
+align 17 leave 0.784022 we 0.158857 to 0.0470649 *DELETE* 0.0100557
+align 18 *DELETE* 0.965154 leave 0.0348463
+align 19 a 0.538011 *DELETE* 0.389353 the 0.0414678 do 0.0195607 leave 0.00983969 lead 0.00176748
+align 20 *DELETE* 0.982622 leader 0.00714631 you 0.00329758 we'd 0.0029094 if 0.000907796 it 0.000869308 to 0.000727186 the 0.000637843 lead 0.000611465 who 0.000271518
+align 21 patrol 1
+align 22 is 0.935265 it's 0.0647346
+align 23 giving 1
+align 24 them 0.997947 then 0.00205261
+align 25 members 1
+align 26 of 1
+align 27 your 1
+align 28 patrol 1
+align 29 your 0.960121 you're 0.0398786
+align 30 *DELETE* 0.961865 a 0.0381354
+align 31 commander's 0.990632 commanders 0.00936823
+align 32 intent 1
+align 33 what 0.998907 would 0.00109256
+align 34 you 1
+align 35 want 1
+align 36 them 1
+align 37 to 1
+align 38 do 1
+align 39 the 0.997527 it 0.00229772 with 0.000174847
+align 40 *DELETE* 0.997422 the 0.00247257 uh 0.000105794
+align 41 overall 1
+align 42 commander's 0.981829 commanders 0.0181709
+align 43 intent 1 and 2.2589e-09
+align 44 *DELETE* 1 ten 2.2589e-09
+align 45 </s> 1

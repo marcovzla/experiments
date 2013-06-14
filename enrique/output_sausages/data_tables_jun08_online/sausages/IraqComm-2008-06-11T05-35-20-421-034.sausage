@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what's 0.964219 was 0.035758 i 2.30188e-05
+align 2 *DELETE* 0.999977 was 2.30188e-05
+align 3 the 0.999396 *DELETE* 0.000604352
+align 4 operation 0.975428 operations 0.0184089 operation's 0.00615738 uh 5.55678e-06
+align 5 *DELETE* 0.999994 operation 5.55678e-06
+align 6 successful 0.99985 success 0.000150054
+align 7 *DELETE* 0.999277 uh 0.000568037 full 0.000116221 for 3.38322e-05 i 4.5316e-06 a 1.73581e-07 in 1.64516e-13
+align 8 </s> 1

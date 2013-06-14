@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 we 0.997046 when 0.0020774 *DELETE* 0.000823821 well 5.22751e-05 what 7.12086e-07
+align 2 need 0.997021 did 0.0021552 would 0.000823821
+align 3 you 1
+align 4 to 0.999676 *DELETE* 0.000323996
+align 5 put 1
+align 6 your 1
+align 7 keys 1
+align 8 on 1
+align 9 the 1
+align 10 dashboard 0.993761 dash 0.00623892
+align 11 *DELETE* 0.993761 board 0.00623892
+align 12 </s> 1

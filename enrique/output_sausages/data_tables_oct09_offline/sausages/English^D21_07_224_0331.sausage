@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 and 0.910642 *DELETE* 0.0893307 in 2.74701e-05
+align 2 *DELETE* 0.999973 and 2.74701e-05
+align 3 they 0.993298 and 0.00590042 that 0.000363147 in 0.000177253 then 0.000166022 uh 9.5582e-05
+align 4 *DELETE* 0.993298 they 0.00670242
+align 5 should 1
+align 6 be 1
+align 7 in 0.966642 an 0.0290645 *DELETE* 0.00429312
+align 8 here 1
+align 9 within 1
+align 10 a 1
+align 11 few 1
+align 12 minutes 1
+align 13 *DELETE* 0.955733 uh 0.0315573 so 0.0120029 sir 0.000572044 i 0.000102537 oh 2.16164e-05 a 1.03345e-05 of 2.81561e-07
+align 14 *DELETE* 0.999995 i 5.45874e-06
+align 15 </s> 1

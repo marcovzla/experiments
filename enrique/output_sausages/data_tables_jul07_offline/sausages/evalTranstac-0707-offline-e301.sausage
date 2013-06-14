@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 one 1
+align 2 time 0.503596 ten 0.272937 tenth 0.192345 tent 0.0294302 can 0.00169256
+align 3 *DELETE* 0.999749 i 0.000250946
+align 4 of 1
+align 5 one 0.999999 won 4.96145e-07 one's 2.21046e-07 ones 2.21046e-07
+align 6 second 0.997966 section 0.00140265 sector 0.000631478
+align 7 *DELETE* 0.999982 i 1.7162e-05 um 9.84013e-07
+align 8 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 are 0.986967 i 0.0130329
+align 2 there 0.986967 don't 0.0130097 did 2.24673e-05 i 7.98444e-07
+align 3 *DELETE* 0.999999 did 7.98444e-07
+align 4 more 0.986967 know 0.0130097 my 2.32657e-05
+align 5 all 0.996675 or 0.00279658 old 0.000528704 off 8.51346e-08
+align 6 people 1
+align 7 *DELETE* 0.995605 who 0.00439488
+align 8 are 0.947717 were 0.0197218 or 0.0185926 all 0.0139628 our 5.85527e-06
+align 9 young 1
+align 10 people 1
+align 11 in 1
+align 12 your 1
+align 13 town 1
+align 14 *DELETE* 0.999977 uh 2.30924e-05
+align 15 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 in 0.527052 and 0.472948
+align 2 the 0.999691 that 0.00012728 they 9.17689e-05 we 8.99644e-05
+align 3 canal 0.999778 can 0.000221734
+align 4 is 0.996362 was 0.00206496 as 0.00110784 iz 0.000183638 alyce 0.000115932 alice 0.000105802 it's 6.00763e-05
+align 5 here 0.999231 hear 0.000769196
+align 6 *DELETE* 0.999986 i 1.39485e-05
+align 7 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 suspicion 1
+align 2 of 1
+align 3 what 0.997881 war 0.00137264 work 0.000565228 water 0.000131716 why 2.41926e-05 one 1.50133e-05 want 3.87764e-06 was 2.94106e-06 wire 1.49578e-06 what's 1.04056e-06 watch 9.31054e-07
+align 4 *DELETE* 0.999477 i 0.000404007 uh 9.56336e-05 a 1.45385e-05 you 7.73364e-06 the 5.93202e-07 i'm 1.86106e-07 if 5.76998e-08
+align 5 </s> 1

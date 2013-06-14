@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 who 0.92371 what 0.0440995 *DELETE* 0.0317361 room 0.000238892 which 0.000215694
+align 2 is 1
+align 3 the 0.999991 this 8.80596e-06
+align 4 security 1
+align 5 team 0.999155 seen 0.000564031 scene 0.000235012 seem 4.34647e-05 seemed 2.48326e-06
+align 6 leader 0.99961 liter 0.000389704
+align 7 *DELETE* 0.999895 i 5.74002e-05 uh 3.23639e-05 is 1.45652e-05 a 8.87623e-07 to 2.86192e-08 in 6.75419e-10 you 7.10325e-12 it 3.80213e-13
+align 8 </s> 1

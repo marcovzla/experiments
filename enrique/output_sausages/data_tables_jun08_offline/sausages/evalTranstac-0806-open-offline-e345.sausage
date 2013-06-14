@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 other 1
+align 3 uh 1
+align 4 technique 1
+align 5 is 0.935921 it's 0.0557894 its 0.00446163 as 0.0038276
+align 6 called 1
+align 7 the 1
+align 8 uh 1
+align 9 head 1
+align 10 tilt 1
+align 11 and 0.99646 in 0.0035397
+align 12 we 1
+align 13 use 1
+align 14 that 1
+align 15 if 1
+align 16 we 1
+align 17 think 1
+align 18 that 1
+align 19 there 0.999985 they're 1.54383e-05
+align 20 may 1
+align 21 be 1
+align 22 a 0.986767 *DELETE* 0.0132327
+align 23 uh 1
+align 24 a 1
+align 25 *DELETE* 0.986756 uh 0.0132439
+align 26 *DELETE* 0.986756 a 0.013244
+align 27 spinal 1
+align 28 or 1
+align 29 a 0.999064 *DELETE* 0.000935796
+align 30 neck 1
+align 31 injury 1
+align 32 on 1
+align 33 the 1
+align 34 and 0.639084 end 0.356955 in 0.00396119
+align 35 individual 0.999728 individuals 0.00027212
+align 36 *DELETE* 1 i 6.63276e-08
+align 37 </s> 1

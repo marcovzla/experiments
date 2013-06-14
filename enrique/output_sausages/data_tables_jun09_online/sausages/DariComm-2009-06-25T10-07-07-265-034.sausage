@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 been 1
+align 6 a 0.99998 to 1.98579e-05 the 8.15353e-29
+align 7 doctor 1
+align 8 *DELETE* 0.999987 i 7.67201e-06 at 5.43027e-06 to 3.77589e-08 is 2.68835e-10 uh 1.88108e-12 do 7.8395e-14 in 3.53796e-14
+align 9 </s> 1

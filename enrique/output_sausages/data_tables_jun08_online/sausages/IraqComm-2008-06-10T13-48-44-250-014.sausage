@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 status 1
+align 5 of 1
+align 6 your 1
+align 7 station 0.999993 stations 7.48724e-06 stationed 4.37531e-19
+align 8 </s> 1

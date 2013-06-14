@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 i 1
+align 3 *DELETE* 0.775368 i 0.224632
+align 4 look 1
+align 5 forward 1
+align 6 to 1
+align 7 working 1
+align 8 together 1
+align 9 *DELETE* 0.998484 to 0.00147259 it 2.47606e-05 i 1.66975e-05 do 2.32751e-06
+align 10 </s> 1

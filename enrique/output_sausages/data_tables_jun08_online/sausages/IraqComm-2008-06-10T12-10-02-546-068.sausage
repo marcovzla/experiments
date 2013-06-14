@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.728823 you 0.271129 a 4.78494e-05
+align 2 yes 0.387275 see 0.271129 use 0.162126 he's 0.0759855 east 0.0614281 ease 0.03343 he 0.00537347 *DELETE* 0.00325325
+align 3 *DELETE* 0.991373 is 0.00862672
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 trouble 1
+align 8 with 0.995352 in 0.0025808 of 0.00182588 *DELETE* 9.0401e-05 an 8.7149e-05 and 3.27345e-05 it 2.55813e-05 if 5.88022e-06 would 4.32396e-27
+align 9 insurgents 0.99841 the 0.00140832 *DELETE* 0.000181393 an 8.15904e-08 a 2.35611e-10 and 2.32311e-18 in 9.8907e-23
+align 10 *DELETE* 0.99841 insurgents 0.00140829 insurgence 0.000176725 insurgents' 4.69806e-06 surgeons 8.15904e-08 in 2.68618e-14 uh 3.31087e-16
+align 11 </s> 1

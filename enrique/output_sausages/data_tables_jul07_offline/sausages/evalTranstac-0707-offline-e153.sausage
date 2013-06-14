@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 and 0.629428 in 0.370572
+align 3 you 1
+align 4 claim 0.994617 claimed 0.00476621 can 0.000616816
+align 5 that 0.987983 to 0.00536243 it 0.00476621 they 0.00127166 get 0.000616816
+align 6 these 1
+align 7 people 1
+align 8 were 0.976985 or 0.017967 are 0.00504825
+align 9 american 1
+align 10 soldiers 0.989384 soldier 0.0104694 soldier's 7.33303e-05 soldiers' 7.33303e-05
+align 11 *DELETE* 1 uh 3.67692e-08
+align 12 </s> 1

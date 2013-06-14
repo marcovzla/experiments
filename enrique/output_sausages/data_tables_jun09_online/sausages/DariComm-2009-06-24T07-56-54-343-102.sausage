@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 0.930015 at 0.0541505 as 0.0158344
+align 2 the 1
+align 3 talaban 1
+align 4 have 0.924857 *DELETE* 0.0751432 how 5.35982e-08
+align 5 a 0.91987 help 0.0415465 hell 0.0295825 *DELETE* 0.00498654 hella 0.0040142 will 5.35982e-08 helped 2.79188e-08
+align 6 part 0.995013 apart 0.00498654
+align 7 of 1
+align 8 the 1
+align 9 government 1 *DELETE* 1.68629e-20
+align 10 *DELETE* 0.999806 do 8.9771e-05 uh 4.83551e-05 to 2.79092e-05 that 1.87551e-05 it 5.01216e-06 does 2.29849e-06 is 1.6011e-06 too 3.11889e-07 i 1.58743e-09 of 6.77692e-12 you 9.7475e-13 and 6.45341e-13 government's 4.20158e-13
+align 11 </s> 1

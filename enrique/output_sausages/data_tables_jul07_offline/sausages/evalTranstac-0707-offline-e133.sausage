@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 where 0.955556 we're 0.0395709 wear 0.00487292
+align 2 at 0.983441 i 0.00978764 agha 0.00422598 add 0.00224029 *DELETE* 0.00030541
+align 3 *DELETE* 0.887445 a 0.0756548 it 0.0182103 the 0.0125781 at 0.00611178
+align 4 coming 0.602472 in 0.397528
+align 5 *DELETE* 0.602472 coming 0.397528
+align 6 out 1
+align 7 into 1
+align 8 the 1
+align 9 different 1
+align 10 neighborhoods 1
+align 11 to 1
+align 12 uh 1
+align 13 see 1
+align 14 how 1
+align 15 would 1
+align 16 i 1
+align 17 the 0.987342 be 0.00694461 they 0.00571315
+align 18 conditions 0.999696 *DELETE* 0.000303748
+align 19 are 0.998915 *DELETE* 0.000535972 condition 0.000303748 our 0.000244822
+align 20 *DELETE* 0.99424 are 0.00576009
+align 21 in 0.987709 an 0.00441493 and 0.0029274 inn 0.00238893 *DELETE* 0.000836287 aren't 0.000535972 zahra 0.000303748 a 0.000264261 n 0.000258976 at 0.000230207 it 5.06346e-05 end 4.42198e-05 any 3.44126e-05 i 8.21239e-07
+align 22 *DELETE* 0.999949 uh 5.0745e-05
+align 23 </s> 1

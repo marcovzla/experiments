@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 know 1
+align 5 your 1 you're 8.66411e-15
+align 6 brother 1
+align 7 was 1
+align 8 taken 1
+align 9 by 1
+align 10 americans 0.994617 the 0.00526525 americans' 8.45607e-05 a 2.40425e-05 american's 9.27572e-06
+align 11 *DELETE* 0.994711 americans 0.0052893
+align 12 </s> 1

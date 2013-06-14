@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 require 1
+align 4 generators 0.999656 a 0.000344337
+align 5 *DELETE* 0.998761 uh 0.000744586 generators 0.000344337 i 0.000120312 to 2.38388e-05 do 5.18674e-06 a 5.19271e-07 if 3.72309e-07 in 7.70744e-08 it 3.14423e-14 and 2.95648e-19 as 2.042e-19
+align 6 </s> 1

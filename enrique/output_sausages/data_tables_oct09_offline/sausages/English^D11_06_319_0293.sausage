@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 then 0.986617 and 0.0133833
+align 3 uh 1
+align 4 we 0.977615 uh 0.0223849
+align 5 *DELETE* 0.977615 we 0.0223849
+align 6 got 1
+align 7 *DELETE* 0.700868 to 0.299132
+align 8 two 0.659237 the 0.252128 *DELETE* 0.060471 through 0.0222831 should 0.00378421 shoot 0.000845214 too 0.000597189 suit 0.000582228 trooper 5.14207e-05 super 1.96474e-05 used 7.17821e-07
+align 9 person 0.956088 toothbrush 0.0116786 pressure 0.00726142 first 0.00632511 russia 0.00577379 russian 0.0043007 rush 0.00277438 push 0.00223752 troopers 0.00178495 purchase 0.000698255 brush 0.000582135 persian 0.000318945 she 7.04522e-05 pursue 4.85673e-05 impression 4.7828e-05 toothbrushes 4.13587e-06 persons 3.84658e-06 should 6.1585e-07 precious 4.05169e-07
+align 10 *DELETE* 0.999997 in 3.12941e-06
+align 11 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 did 0.666842 is 0.315281 does 0.0178773
+align 3 you 1
+align 4 have 1
+align 5 for 0.999319 four 0.00057651 her 7.93552e-05 a 1.72081e-05 heard 8.26689e-06
+align 6 dinner 1 *DELETE* 2.8313e-15
+align 7 *DELETE* 1 i 1.86227e-07 uh 4.5231e-09 now 1.57523e-11 enter 5.1078e-13 you 5.96466e-14 in 3.20163e-15
+align 8 </s> 1

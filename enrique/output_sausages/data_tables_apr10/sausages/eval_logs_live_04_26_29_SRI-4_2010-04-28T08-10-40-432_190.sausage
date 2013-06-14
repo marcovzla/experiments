@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 0.998214 well 0.00127468 we'll 0.000511112
+align 2 parts 1
+align 3 of 1
+align 4 the 1
+align 5 hospital 1
+align 6 are 0.660028 or 0.338061 for 0.00149633 our 0.000414856
+align 7 no 1
+align 8 longer 1
+align 9 and 0.539596 in 0.302399 an 0.158005
+align 10 operation 0.994746 uh 0.00433413 operations 0.000359077 i 0.000329313 a 0.000173373 the 5.84105e-05
+align 11 *DELETE* 0.995089 operation 0.00489523 uh 1.34415e-05 i 2.12692e-06
+align 12 </s> 1

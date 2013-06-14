@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 they 0.998787 *DELETE* 0.000698733 you 0.000505337 it 9.3093e-06
+align 2 had 0.966979 have 0.0322406 yeah 0.000698733 *DELETE* 8.12611e-05
+align 3 you 0.24598 to 0.243384 *DELETE* 0.215727 good 0.187486 two 0.0529889 dude 0.0261415 do 0.0173796 you'd 0.00636908 a 0.00357443 of 0.000688001 i 0.000281348
+align 4 *DELETE* 0.988757 have 0.010962 do 0.000281348
+align 5 been 0.998232 bin 0.00176847
+align 6 put 1
+align 7 together 1
+align 8 a 0.946119 in 0.0210243 is 0.0176315 as 0.0124362 are 0.0017622 i 0.00102693
+align 9 *DELETE* 0.9599 a 0.0401003
+align 10 shot 0.830621 shop 0.163644 shat 0.00554325 shah 0.000191969
+align 11 much 0.999964 of 3.6458e-05
+align 12 *DELETE* 0.999964 much 3.6458e-05
+align 13 like 1
+align 14 this 1
+align 15 and 0.993178 in 0.00682223
+align 16 you're 0.992243 your 0.00691545 you 0.000830687 here 1.11395e-05
+align 17 the 1
+align 18 only 1
+align 19 one 1
+align 20 in 0.999606 of 0.000315348 on 7.65329e-05 and 1.75985e-06
+align 21 the 1
+align 22 area 1
+align 23 *DELETE* 0.999998 uh 2.37797e-06 i 1.45669e-14
+align 24 </s> 1

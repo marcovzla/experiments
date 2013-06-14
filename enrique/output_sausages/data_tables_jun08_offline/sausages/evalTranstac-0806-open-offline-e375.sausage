@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 i 1 how 1.59999e-07
+align 2 *DELETE* 0.996492 i 0.00350754
+align 3 would 0.99928 will 0.000719721
+align 4 like 1
+align 5 to 1
+align 6 see 0.709303 *DELETE* 0.270208 seen 0.0204884
+align 7 your 0.603205 senior 0.270208 in 0.126586
+align 8 *DELETE* 0.873414 your 0.126586
+align 9 men 0.741424 man 0.258576
+align 10 turn 1
+align 11 around 1
+align 12 little 1
+align 13 bit 1
+align 14 more 1
+align 15 every 1
+align 16 uh 1
+align 17 *DELETE* 0.990993 uh 0.00900721
+align 18 ten 1
+align 19 to 1
+align 20 fifteen 1
+align 21 steps 0.865324 cents 0.0953047 stance 0.0313604 sets 0.00801073
+align 22 *DELETE* 0.963017 a 0.0326855 to 0.00319925 in 0.00109798
+align 23 need 1
+align 24 to 0.995747 *DELETE* 0.00425338
+align 25 be 1
+align 26 turning 1
+align 27 around 1
+align 28 to 0.88329 a 0.11239 *DELETE* 0.00368681 the 0.000292547 it 0.00018168 and 7.95369e-05 of 7.74369e-05 in 1.908e-06
+align 29 make 1
+align 30 sure 1
+align 31 that 1
+align 32 guy 0.840924 guy's 0.15826 guys 0.000815391
+align 33 still 0.706501 i 0.291881 is 0.00158653 stole 3.14649e-05
+align 34 *DELETE* 0.70653 still 0.293468 bomb 2.29635e-06 a 2.03894e-08 stole 1.65261e-08
+align 35 behind 0.999996 i 2.29635e-06 bind 1.06674e-06 *DELETE* 5.44116e-11
+align 36 them 0.781633 him 0.133157 it 0.0773859 a 0.00226254 on 0.00177855 *DELETE* 0.00121245 of 0.000944122 in 0.000910702 uh 0.000214119 um 0.000206927 i'm 0.000111605 up 8.33673e-05 and 5.36464e-05 the 3.80283e-05 or 3.79516e-06 know 2.29635e-06 us 1.50621e-06 an 6.11465e-07 binder 3.04442e-07 abundant 6.99071e-08
+align 37 </s> 1

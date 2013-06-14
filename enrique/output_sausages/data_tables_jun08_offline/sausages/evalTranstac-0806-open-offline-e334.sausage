@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 here 0.997513 hear 0.00153451 uh 0.00095206
+align 3 *DELETE* 0.999048 here 0.00095206
+align 4 is 1
+align 5 where 0.962301 were 0.0196207 wear 0.00932066 we're 0.00875735
+align 6 if 1
+align 7 if 1
+align 8 the 1
+align 9 person 1
+align 10 is 1
+align 11 not 1
+align 12 breathing 1
+align 13 we'll 0.715189 will 0.284811
+align 14 need 1
+align 15 to 1
+align 16 immediately 1
+align 17 get 1
+align 18 air 1 error 1.85389e-08
+align 19 *DELETE* 1 in 1.85389e-08
+align 20 into 0.998741 in 0.00125916 two 1.85389e-08
+align 21 *DELETE* 0.998718 two 0.000797116 too 0.000362887 to 9.91553e-05 a 2.27148e-05
+align 22 his 0.703676 is 0.238657 as 0.0343971 its 0.0166582 it's 0.00365332 has 0.00278241 iz 0.000176302
+align 23 lungs 0.595914 long 0.309724 longs 0.0616223 long's 0.0327398
+align 24 by 0.642017 spy 0.309724 buy 0.0401892 bye 0.00807017
+align 25 breathing 0.911318 breeding 0.0886816
+align 26 air 0.997218 her 0.00278221
+align 27 into 1
+align 28 his 0.610704 is 0.357842 as 0.0260388 this 0.00433881 has 0.000562038 a 0.000356394 those 0.000157661
+align 29 *DELETE* 0.999644 is 0.000356394
+align 30 long 0.619067 lung 0.287646 lungs 0.0932314 lunch 4.86653e-05 longs 4.02783e-06 long's 3.28195e-06
+align 31 </s> 1

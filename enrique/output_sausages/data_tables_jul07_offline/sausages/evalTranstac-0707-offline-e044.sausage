@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 0.952263 *DELETE* 0.0258567 oh 0.0156049 okay 0.00179146 are 0.00177258 our 0.00138235 i 0.00132912
+align 2 yes 0.999978 guess 2.24601e-05
+align 3 sir 1
+align 4 uh 1
+align 5 we're 1
+align 6 just 1
+align 7 uh 0.999675 to 0.000292105 a 3.31646e-05
+align 8 *DELETE* 0.581255 uh 0.418745
+align 9 uh 1.24869 a 0.000980552
+align 10 *DELETE* 0.986945 a 0.00888753 uh 0.00416718
+align 11 security 1
+align 12 patrol 1
+align 13 </s> 1

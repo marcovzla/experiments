@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 it's 0.930535 is 0.0487205 it 0.0186962 as 0.00204852
+align 2 *DELETE* 0.981304 is 0.0186962
+align 3 a 1
+align 4 pleasure 1
+align 5 to 1
+align 6 meet 1
+align 7 you 1
+align 8 how 1
+align 9 are 1
+align 10 you 1
+align 11 and 0.991226 in 0.00843954 when 0.000334595
+align 12 your 1
+align 13 family 1
+align 14 *DELETE* 0.997153 uh 0.00251069 to 0.000333173 um 2.78352e-06
+align 15 </s> 1

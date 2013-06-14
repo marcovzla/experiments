@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 by 0.599061 my 0.293409 may 0.0441524 *DELETE* 0.0278081 bye 0.0248307 buy 0.00958805 i 0.00101298 now 0.000138426
+align 2 *DELETE* 0.998987 buy 0.00101298
+align 3 young 0.896675 i 0.042113 *DELETE* 0.0334044 bayan 0.0278081
+align 4 *DELETE* 0.924483 young 0.042113 yelling 0.0171948 yung 0.014213 yun 0.00183808 younis 0.000158415
+align 5 citizens 0.959233 citizens' 0.0251579 citizen's 0.015609
+align 6 i 1
+align 7 mean 1
+align 8 the 0.507661 a 0.133108 *DELETE* 0.132409 it 0.0654403 military 0.0593076 in 0.0566087 your 0.0159461 they 0.0149136 that 0.0130188 are 0.00158735
+align 9 military 0.940692 *DELETE* 0.0593076
+align 10 age 0.910796 aged 0.0891731 *DELETE* 3.12308e-05
+align 11 *DELETE* 0.999479 to 0.000404612 you 3.13796e-05 agent 3.12308e-05 i 2.82237e-05 so 1.15713e-05 do 9.03961e-06 uh 5.29022e-06 can 2.4463e-10 it 7.53299e-14 of 3.51811e-15 is 7.64814e-16 did 1.99797e-16
+align 12 </s> 1

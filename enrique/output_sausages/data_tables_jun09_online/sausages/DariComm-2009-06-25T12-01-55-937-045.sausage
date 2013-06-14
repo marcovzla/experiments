@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 how 1
+align 3 many 1
+align 4 vehicles 1
+align 5 *DELETE* 0.99979 uh 9.49343e-05 do 8.66025e-05 in 1.42828e-05 you 1.069e-05 i 2.88559e-06 does 1.43724e-07 and 1.31061e-07 to 4.37551e-10 are 1.09122e-12 that 1.64074e-14
+align 6 </s> 1

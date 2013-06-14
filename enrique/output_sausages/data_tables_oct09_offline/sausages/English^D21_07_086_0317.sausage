@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 you 0.600648 *DELETE* 0.399352
+align 5 need 0.600648 any 0.376595 in 0.0227578
+align 6 here 1
+align 7 at 1
+align 8 the 0.999989 a 1.08392e-05
+align 9 hospital 1
+align 10 </s> 1

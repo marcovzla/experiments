@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 any 0.992769 to 0.00618238 a 0.00104886
+align 5 *DELETE* 0.992769 any 0.00723124
+align 6 doctors 0.991747 doctor's 0.00724254 doctors' 0.00101085
+align 7 *DELETE* 0.999635 in 8.64314e-05 uh 8.26353e-05 i 8.25443e-05 to 6.41229e-05 do 4.68656e-05 and 2.49039e-06 it 7.00392e-08 that 6.95803e-09 who 1.93038e-09 is 2.76606e-14
+align 8 </s> 1

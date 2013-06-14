@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 uh 0.879384 i 0.115047 *DELETE* 0.00556966
+align 2 *DELETE* 0.787256 i 0.212744
+align 3 yes 0.787256 guess 0.212744
+align 4 what 0.999783 we'll 0.000216557
+align 5 what 1
+align 6 that'll 1
+align 7 do 1
+align 8 is 1
+align 9 uh 1
+align 10 *DELETE* 0.990421 uh 0.00957881
+align 11 so 1
+align 12 the 1
+align 13 enemy 1
+align 14 won't 1
+align 15 be 1
+align 16 able 1
+align 17 to 1
+align 18 freely 1
+align 19 move 0.998757 moved 0.00124321
+align 20 through 1
+align 21 the 1
+align 22 area 1
+align 23 *DELETE* 0.997337 uh 0.00260998 i 5.24748e-05 a 4.05147e-07
+align 24 </s> 1

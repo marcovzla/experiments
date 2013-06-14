@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 okay 0.999496 oh 0.00050435
+align 2 *DELETE* 0.99937 okay 0.00050435 a 0.000125975
+align 3 great 0.99884 *DELETE* 0.00115972
+align 4 *DELETE* 0.99498 uh 0.00377806 grates 0.000688172 grades 0.000471547 i 5.30138e-05 um 2.96113e-05
+align 5 </s> 1

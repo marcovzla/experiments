@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 doctor 1
+align 2 units 0.463977 eunice 0.275209 younis 0.237303 unit's 0.0235119
+align 3 uh 0.979117 i 0.0133988 *DELETE* 0.0074842
+align 4 *DELETE* 0.915682 uh 0.0822005 i 0.00211722
+align 5 i've 0.999805 i 0.00019494 uh 2.04645e-08
+align 6 *DELETE* 1 i 2.04645e-08
+align 7 *DELETE* 0.999805 i've 0.000194961
+align 8 heard 1
+align 9 rumors 1
+align 10 that 1
+align 11 uh 1
+align 12 the 1
+align 13 talaban 1
+align 14 has 0.995166 as 0.00483383
+align 15 um 0.964275 uh 0.0357249
+align 16 and 0.514873 been 0.196947 the 0.099541 then 0.0699338 went 0.0423843 when 0.027277 in 0.017227 *DELETE* 0.0162682 than 0.0149066 meant 0.000402312 bin 0.000239423
+align 17 targeting 1
+align 18 your 0.999994 you're 6.41205e-06
+align 19 hospital 1
+align 20 that 0.923423 and 0.0579508 in 0.00722798 at 0.00630689 it 0.00507667 it's 1.44773e-05
+align 21 some 1
+align 22 of 1
+align 23 your 1
+align 24 stay 0.635951 staff 0.364049
+align 25 out 0.632679 *DELETE* 0.364048 uh 0.00327235 is 1.03723e-06
+align 26 </s> 1

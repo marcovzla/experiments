@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999121 oh 0.000878885
+align 2 okay 1
+align 3 but 1
+align 4 what 1
+align 5 i 0.999486 i'm 0.000513708
+align 6 meant 1
+align 7 was 1
+align 8 as 0.98891 is 0.0110899
+align 9 your 0.718219 you're 0.281781
+align 10 patrolling 1
+align 11 through 1
+align 12 through 0.990196 to 0.00564647 *DELETE* 0.00415779
+align 13 the 1
+align 14 tap 0.964885 taps 0.0192722 town 0.0158426
+align 15 own 0.934123 owned 0.0498268 on 0.00969939 *DELETE* 0.00635073
+align 16 and 1
+align 17 uh 1
+align 18 civilian 1
+align 19 vehicles 1
+align 20 approaching 1
+align 21 your 1
+align 22 put 0.956529 per 0.0297414 part 0.00954027 picked 0.00418903
+align 23 your 1
+align 24 patrol 1
+align 25 what 1
+align 26 what 0.988746 were 0.00532536 we're 0.00304551 would 0.00288321
+align 27 procedures 1
+align 28 do 1
+align 29 you 1
+align 30 take 1
+align 31 to 0.815148 two 0.184852
+align 32 uh 1
+align 33 eliminate 0.99989 the 0.000109693
+align 34 *DELETE* 0.999889 minute 0.000109693 the 8.14154e-07
+align 35 that 0.980146 at 0.0190247 got 0.000630651 bad 0.000193888 *DELETE* 4.96547e-06
+align 36 there 0.279756 that 0.247625 right 0.217301 they're 0.0599056 uh 0.0497192 their 0.0329177 threat 0.0301126 or 0.0198245 the 0.0140856 are 0.00941621 i 0.00818754 *DELETE* 0.00719989 it 0.00707461 red 0.0045389 great 0.00223559 okay 0.00219624 rhett 0.00174115 what 0.000973205 they 0.000948598 to 0.000777464 of 0.000747433 write 0.000667168 a 0.000635073 door 0.000462987 our 0.000366579 rare 0.000361165 where 5.31566e-05 rip 4.75831e-05 ripped 4.37255e-05 there're 2.3267e-05 drip 2.09255e-05 did 1.69117e-05 array 8.9941e-06 after 4.96547e-06 but 1.22997e-06 were 7.29829e-07 got 7.11456e-07 i. 1.69406e-07 have 8.24009e-08 your 6.99803e-09
+align 37 *DELETE* 0.976476 it 0.00900037 uh 0.00543495 at 0.00537747 right 0.00282899 i 0.000300452 red 0.000215127 that 0.000160052 rhett 7.0208e-05 in 6.3554e-05 rate 2.1258e-05 a 1.92621e-05 or 1.65079e-05 write 1.30262e-05 is 1.30382e-06 they 7.77298e-07 the 5.88662e-07 if 1.20034e-07 are 8.16193e-08 you 8.04902e-08
+align 38 *DELETE* 1 i 8.02148e-08
+align 39 </s> 1

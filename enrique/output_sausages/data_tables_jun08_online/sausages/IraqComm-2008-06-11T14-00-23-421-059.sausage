@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 any 1
+align 3 of 1
+align 4 your 1
+align 5 neighbors 0.987596 neighbor's 0.0112555 neighbors' 0.00114869
+align 6 *DELETE* 0.693499 house 0.157313 how 0.146914 how's 0.00227424
+align 7 *DELETE* 0.888822 i 0.111178
+align 8 *DELETE* 0.853086 was 0.113987 is 0.0329264
+align 9 housed 0.693499 to 0.303031 the 0.0034704
+align 10 any 0.997216 to 0.00278425
+align 11 *DELETE* 0.997216 any 0.00278425
+align 12 strange 1
+align 13 men 1
+align 14 lately 1 *DELETE* 3.331e-18
+align 15 *DELETE* 0.999997 i 3.46531e-06 lightly 6.14826e-14
+align 16 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 rephrase 0.999104 re 0.000805091 *DELETE* 9.12328e-05
+align 3 *DELETE* 0.999127 phrase 0.000703423 refer 9.12328e-05 for 7.83788e-05
+align 4 *DELETE* 0.999807 is 9.12328e-05 his 7.83788e-05 prays 1.16443e-05 praise 1.16443e-05
+align 5 please 0.999963 *DELETE* 3.74272e-05
+align 6 *DELETE* 0.997449 uh 0.00215995 i 0.000330101 pleas 3.74272e-05 do 1.30883e-05 if 6.99684e-06 us 1.65385e-06 a 1.2273e-06 of 3.04807e-07 um 1.32059e-07 you 2.03444e-08 i'm 7.1363e-09
+align 7 </s> 1

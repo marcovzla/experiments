@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 they 0.99995 the 5.0399e-05
+align 4 farm 1
+align 5 *DELETE* 0.99998 i 1.85353e-05 a 1.51662e-06
+align 6 </s> 1

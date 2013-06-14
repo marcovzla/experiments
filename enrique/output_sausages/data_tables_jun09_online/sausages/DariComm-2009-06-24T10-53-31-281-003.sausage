@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 more 1
+align 4 beds 1
+align 5 would 0.857143 it 0.142857
+align 6 *DELETE* 0.857143 would 0.142857
+align 7 you 1
+align 8 like 1
+align 9 or 1
+align 10 how 1
+align 11 many 1
+align 12 more 1
+align 13 beds 0.996453 bids 0.00354671
+align 14 can 1
+align 15 you 1
+align 16 fit 1
+align 17 in 1
+align 18 your 1
+align 19 hospital 0.999955 hospitals 4.53201e-05
+align 20 *DELETE* 0.999999 i 5.13657e-07 to 7.06077e-08 is 1.0742e-08 who 4.64628e-09 with 1.67411e-09 do 2.51353e-12
+align 21 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 i'm 1
+align 4 lieutenant 1
+align 5 colonel 1
+align 6 loman 0.999984 omen 1.10601e-05 well 5.33137e-06
+align 7 *DELETE* 0.999995 man 5.33137e-06
+align 8 </s> 1

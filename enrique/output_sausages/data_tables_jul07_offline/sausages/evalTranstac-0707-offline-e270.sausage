@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 you 0.968488 do 0.0188381 you're 0.00671331 your 0.00340189 you'll 0.00255907
+align 2 *DELETE* 0.981162 you 0.0188381
+align 3 look 1
+align 4 for 1
+align 5 anything 1
+align 6 suspicious 1
+align 7 before 1
+align 8 letting 1
+align 9 it 1
+align 10 into 0.971309 in 0.0286741 and 1.7329e-05
+align 11 the 0.998915 *DELETE* 0.000594581 to 0.000490564
+align 12 *DELETE* 0.998907 a 0.000594581 the 0.000498602
+align 13 checkpoint 0.999842 checkpoints 0.00015821
+align 14 </s> 1

@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.994827 i 0.00517322
+align 3 understand 1
+align 4 but 0.999783 what 0.000217216
+align 5 what 1
+align 6 we 1
+align 7 can 1
+align 8 do 1
+align 9 to 0.876144 is 0.123856
+align 10 assist 1
+align 11 you 1
+align 12 and 0.836194 in 0.163806
+align 13 sign 0.917229 signed 0.0796198 sayah 0.00162212 sight 0.000520032 a 0.00034376 side 0.000304077 size 0.000231459 uh 0.000129832
+align 14 *DELETE* 0.999526 sign 0.000473592
+align 15 it 0.994863 in 0.0046218 *DELETE* 0.000396046 if 0.000118969
+align 16 and 0.977718 in 0.020642 *DELETE* 0.00152109 a 0.000118969
+align 17 *DELETE* 0.999604 in 0.000289781 an 0.000106264
+align 18 feel 0.713982 fill 0.27162 phil 0.0128772 until 0.00152109
+align 19 not 1
+align 20 the 0.996943 a 0.00239886 to 0.000610228 *DELETE* 4.77978e-05
+align 21 requisite 1
+align 22 *DELETE* 0.810407 some 0.173626 should 0.012775 soon 0.00319169
+align 23 forms 0.99683 informs 0.00317008
+align 24 to 0.995643 two 0.00228442 too 0.00207216
+align 25 the 1
+align 26 ministry 1
+align 27 of 1
+align 28 interior 1
+align 29 to 1
+align 30 procure 0.826655 put 0.173345
+align 31 *DELETE* 0.826655 your 0.173345
+align 32 those 1
+align 33 cameras 1
+align 34 for 0.996425 *DELETE* 0.00351438 four 6.02674e-05
+align 35 you 0.982985 *DELETE* 0.0111255 forty 0.00330038 it 0.00199363 four 0.000183891 eight 0.000147176 yeah 0.000102133 him 5.72202e-05 the 4.12182e-05 force 3.01084e-05 a 2.30768e-05 that 5.7451e-06 your 2.47596e-06 use 1.34091e-06 each 9.85816e-07 them 1.35937e-07 e 1.26504e-07 he 8.52798e-08 eat 6.36039e-10 we 5.54599e-10 u 1.69333e-10 ford 1.41987e-10 too 1.89813e-11 do 4.16415e-12
+align 36 *DELETE* 0.999698 uh 0.000220488 you 4.99734e-05 i 2.85845e-05 at 1.93695e-06 now 1.22879e-06 in 2.48872e-10
+align 37 </s> 1

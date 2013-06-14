@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 medication 1
+align 6 to 1
+align 7 treat 1
+align 8 the 1
+align 9 patients 1
+align 10 that 0.993439 there 0.00656141
+align 11 are 0.933685 i'm 0.0389714 i 0.0262741 out 0.00104554 i've 2.41874e-05
+align 12 *DELETE* 0.988546 am 0.01104 know 0.000397654 in 1.60214e-05 going 3.5788e-07
+align 13 here 0.98944 good 0.00718331 hear 0.0018869 have 0.000851549 are 0.000399701 heard 0.00021753 there 1.60577e-05 know 4.74696e-06 knew 1.74081e-06 to 3.5788e-07 their 8.24925e-12
+align 14 now 0.996802 are 0.00297311 or 0.000177441 of 4.7233e-05 and 1.26125e-10
+align 15 *DELETE* 0.995656 now 0.00319779 uh 0.000747214 i 0.000357203 you 4.14698e-05 in 1.6437e-08 do 1.46918e-08 and 1.33767e-08 it 4.4609e-09 like 2.49113e-13
+align 16 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 can 0.999734 i 0.000265863
+align 4 *DELETE* 0.999734 can 0.000265863
+align 5 bring 1
+align 6 you 1
+align 7 bottles 0.945358 a 0.0546422 *DELETE* 6.61869e-14
+align 8 *DELETE* 0.945358 bottle 0.0360107 bottles 0.0186315
+align 9 of 1
+align 10 water 1
+align 11 for 1
+align 12 tomorrow 1
+align 13 *DELETE* 0.999231 i 0.000372482 if 0.000337211 to 2.15008e-05 you 2.11495e-05 do 7.05938e-06 i'm 3.79824e-06 we 2.02602e-06 uh 1.84888e-06 in 1.00292e-06 too 5.20721e-07 with 5.07204e-07 the 1.89353e-07 them 5.57514e-08 and 4.1354e-08 of 2.73258e-08 um 1.1176e-09 but 4.9143e-10
+align 14 </s> 1

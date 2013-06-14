@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999927 i 7.31687e-05
+align 3 will 1
+align 4 be 1
+align 5 quick 1
+align 6 *DELETE* 0.998783 i 0.00109603 you 9.35331e-05 to 2.59852e-05 uh 1.0603e-06 and 6.73371e-08 the 1.11026e-08 get 1.99447e-10
+align 7 </s> 1

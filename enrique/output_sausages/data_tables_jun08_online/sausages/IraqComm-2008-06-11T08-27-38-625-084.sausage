@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 we're 0.999986 were 1.40896e-05
+align 2 going 1
+align 3 to 1
+align 4 talk 1
+align 5 about 1
+align 6 what 1
+align 7 to 1
+align 8 do 1
+align 9 one 0.604636 when 0.372862 want 0.0152105 you 0.00513214 won 0.00150986 on 0.000485042 in 0.000131578 and 3.32859e-05
+align 10 *DELETE* 0.99472 want 0.00513214 a 0.000147695
+align 11 attacked 0.830443 attack 0.16847 intact 0.000603245 *DELETE* 0.000483889
+align 12 *DELETE* 0.998998 to 0.000469832 attacks 0.000345404 tax 7.82443e-05 tactic 3.47545e-05 attached 2.54864e-05 a 2.05955e-05 it 1.53985e-05 on 5.96286e-06 i 3.50057e-06 you 1.27585e-06 us 9.81046e-07 uh 8.83306e-07 in 4.65179e-08 tack 1.49938e-10
+align 13 </s> 1

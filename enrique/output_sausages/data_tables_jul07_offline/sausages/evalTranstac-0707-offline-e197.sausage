@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 0.998312 like 0.00168799
+align 2 *DELETE* 0.999094 i 0.000905854
+align 3 cannot 1
+align 4 release 1
+align 5 your 1
+align 6 son 1
+align 7 at 0.999956 if 4.28967e-05 that 7.79234e-07
+align 8 this 1
+align 9 time 1
+align 10 *DELETE* 0.999991 i 8.15281e-06 uh 4.14486e-07
+align 11 </s> 1

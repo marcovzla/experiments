@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 today 1
+align 4 we 1
+align 5 will 1
+align 6 train 0.997312 trained 0.00268776
+align 7 in 0.57351 on 0.425523 our 0.000953525 i 1.32946e-05
+align 8 *DELETE* 0.999887 the 9.92535e-05 would 1.32946e-05
+align 9 first 1
+align 10 aid 0.999995 *DELETE* 4.85247e-06
+align 11 *DELETE* 0.999977 uh 1.63888e-05 eight 4.85247e-06 is 1.66346e-06 to 1.8482e-09 and 2.93667e-10
+align 12 </s> 1

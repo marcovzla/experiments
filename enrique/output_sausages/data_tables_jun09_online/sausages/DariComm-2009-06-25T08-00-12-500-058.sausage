@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 did 1
+align 3 not 1
+align 4 understand 1
+align 5 your 1
+align 6 question 1
+align 7 *DELETE* 0.999899 uh 8.96159e-05 i 1.06531e-05 um 5.32655e-07 you 2.04255e-07 is 3.59782e-10
+align 8 </s> 1

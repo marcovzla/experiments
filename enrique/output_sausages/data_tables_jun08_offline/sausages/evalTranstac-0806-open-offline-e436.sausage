@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.968905 will 0.0310947 i 1.98656e-07
+align 2 *DELETE* 1 will 1.98656e-07
+align 3 start 1
+align 4 at 1
+align 5 our 1
+align 6 base 1
+align 7 here 0.99981 hear 0.000189692 he 2.96538e-07
+align 8 *DELETE* 0.99959 are 0.000195573 uh 0.000111426 or 7.66356e-05 i 2.65245e-05 here 2.96538e-07
+align 9 </s> 1

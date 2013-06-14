@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 to 1
+align 6 perform 1
+align 7 basic 1
+align 8 first 1
+align 9 aid 1
+align 10 *DELETE* 0.976831 uh 0.0229809 and 9.912e-05 in 4.82782e-05 i 4.06198e-05 is 1.69129e-07 it 4.12085e-08 you 1.3491e-08 at 1.0613e-09 um 1.27501e-11 as 9.18121e-14 to 4.36002e-14 if 1.3513e-19
+align 11 </s> 1

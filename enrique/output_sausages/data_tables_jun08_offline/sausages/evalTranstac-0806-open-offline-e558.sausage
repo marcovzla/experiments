@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.99867 uh 0.00114079 i 0.000163191 oh 1.56392e-05 um 1.02253e-05
+align 2 *DELETE* 0.99868 i'm 0.00115643 am 0.000163191
+align 3 here 1
+align 4 to 1
+align 5 help 1
+align 6 you 1
+align 7 with 1
+align 8 your 1
+align 9 upcoming 0.948038 up 0.0271535 uh 0.0191826 are 0.00287226 of 0.00275338
+align 10 *DELETE* 0.948038 coming 0.0519617 i 2.68768e-08
+align 11 uh 1
+align 12 mounted 1
+align 13 patrol 1
+align 14 that 0.999251 but 0.000736299 let 1.23745e-05
+align 15 you 1
+align 16 have 0.999961 had 3.86359e-05
+align 17 scheduled 0.906152 schedule 0.0934367 schedules 0.000411485 special 1.93709e-11
+align 18 *DELETE* 0.999954 to 2.94884e-05 i 1.33457e-05 a 3.20191e-06
+align 19 </s> 1

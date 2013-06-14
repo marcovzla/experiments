@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 will 1
+align 3 need 1
+align 4 a 0.752656 uh 0.247344
+align 5 crane 1
+align 6 a 1
+align 7 bulldozer 1
+align 8 and 0.999997 an 2.89953e-06
+align 9 what 0.999066 will 0.000552429 we'll 0.000373405 well 7.78313e-06
+align 10 we 1
+align 11 call 1
+align 12 a 0.973326 *DELETE* 0.0266742
+align 13 back 0.924932 *DELETE* 0.0750677
+align 14 no 0.460181 uh 0.198206 to 0.182022 backhoe 0.0747405 *DELETE* 0.0242996 so 0.0242989 now 0.0100918 how 0.00740997 home 0.00738186 hello 0.00727989 well 0.00176708 i'll 0.000531778 um 0.000448344 backbone 0.000327224 a 0.000314359 about 0.000274096 abu 0.000255124 up 8.28765e-05 al 8.2791e-05 the 4.46276e-06 at 2.44438e-08
+align 15 *DELETE* 0.629031 help 0.193813 oh 0.142928 uh 0.028765 hell 0.00288478 how 0.00224954 i 0.00032649 a 1.76927e-06 it 3.49028e-07 in 8.01237e-08 you 5.61807e-08 the 2.44438e-08
+align 16 *DELETE* 0.999981 i 1.93198e-05
+align 17 </s> 1

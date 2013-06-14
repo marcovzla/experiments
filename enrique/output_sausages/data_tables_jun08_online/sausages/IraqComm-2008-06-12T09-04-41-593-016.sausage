@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 0.981831 why 0.00965201 what 0.00419067 when 0.00308651 well 0.00123938
+align 2 did 1
+align 3 you 1
+align 4 receive 1
+align 5 this 1
+align 6 information 1
+align 7 *DELETE* 0.99999 uh 1.008e-05
+align 8 </s> 1

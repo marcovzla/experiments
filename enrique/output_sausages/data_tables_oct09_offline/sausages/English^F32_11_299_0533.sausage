@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 they 0.88793 the 0.0588114 *DELETE* 0.0252092 it 0.0165376 that 0.010654 there 0.000857746
+align 2 will 0.846177 we'll 0.128614 they'll 0.0252092
+align 3 be 1
+align 4 stopping 0.999092 stop 0.000740056 stopped 0.000168161
+align 5 *DELETE* 0.999092 in 0.000908217
+align 6 the 1
+align 7 vehicle 1
+align 8 as 1
+align 9 it 1
+align 10 approaches 1
+align 11 </s> 1

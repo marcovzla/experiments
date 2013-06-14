@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 any 0.999608 in 0.000392022
+align 2 *DELETE* 0.999608 the 0.000392022
+align 3 reason 1
+align 4 to 1
+align 5 suspect 1
+align 6 that 0.966016 at 0.0339842
+align 7 the 1
+align 8 worker 1
+align 9 was 0.999744 *DELETE* 0.000255949
+align 10 an 0.99115 in 0.00859399 wasn't 0.000255949
+align 11 insurgent 1
+align 12 money 0.743811 many 0.119021 when 0.0450697 leonie 0.0262663 lennie 0.0262663 lenny 0.0262663 honey 0.0126591 one 0.000616714 winnie 2.41518e-05
+align 13 *DELETE* 0.954314 you 0.0395822 he 0.00610416
+align 14 work 0.990918 worked 0.00870997 works 0.000372222
+align 15 for 1 four 1.68061e-12
+align 16 you 0.999567 him 0.000432965
+align 17 *DELETE* 1 um 4.15526e-15 uh 3.9817e-15
+align 18 </s> 1

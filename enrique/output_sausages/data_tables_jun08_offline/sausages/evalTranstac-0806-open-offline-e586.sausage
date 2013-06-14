@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 uh 1
+align 3 when 1
+align 4 when 1
+align 5 uh 1
+align 6 how 0.922186 house 0.0778143
+align 7 soon 1
+align 8 as 0.730395 is 0.255764 it's 0.0138405
+align 9 to 0.80504 the 0.167274 sir 0.0268222 a 0.000864355
+align 10 recruiting 1
+align 11 drive 1
+align 12 happening 0.984553 happened 0.00905671 happen 0.00620199 happily 0.000141615 happenings 4.631e-05
+align 13 *DELETE* 0.999957 in 4.31195e-05
+align 14 </s> 1

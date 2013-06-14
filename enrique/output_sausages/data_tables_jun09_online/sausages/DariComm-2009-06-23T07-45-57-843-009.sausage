@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 is 1
+align 3 the 1
+align 4 morale 1
+align 5 of 1
+align 6 your 1
+align 7 men 1
+align 8 doing 1 do 6.58805e-27
+align 9 *DELETE* 1 and 6.58805e-27
+align 10 today 1
+align 11 *DELETE* 0.997016 uh 0.00296101 i 1.77505e-05 is 2.86424e-06 to 1.95297e-06 and 1.6382e-07 it 2.46674e-12 um 6.55399e-14 at 1.34976e-22
+align 12 </s> 1

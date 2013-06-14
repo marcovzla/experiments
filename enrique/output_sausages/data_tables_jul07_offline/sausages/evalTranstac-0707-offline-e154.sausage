@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 they 0.900776 date 0.0992237
+align 2 proves 1
+align 3 um 1
+align 4 that 0.825439 they 0.174561
+align 5 you 0.999491 *DELETE* 0.000508521
+align 6 actually 1
+align 7 own 0.91322 on 0.08607 owned 0.000709592
+align 8 the 0.842299 they 0.120624 a 0.0209677 that 0.0118119 their 0.00327979 than 0.000382864 there 0.000253833 they're 0.000203459 then 8.46713e-05 they've 7.93063e-05 they'd 1.35877e-05
+align 9 jewelry 1
+align 10 *DELETE* 0.999983 i 1.65307e-05
+align 11 </s> 1

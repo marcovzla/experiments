@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 uh 0.999833 a 7.1847e-05 um 6.59749e-05 *DELETE* 2.92684e-05
+align 2 for 0.999923 uh 7.68669e-05
+align 3 *DELETE* 0.999923 for 7.68669e-05
+align 4 example 1
+align 5 saturday 1
+align 6 we 1
+align 7 may 1
+align 8 go 1
+align 9 out 1
+align 10 just 1
+align 11 for 0.655107 four 0.344893
+align 12 four 0.781109 for 0.218891
+align 13 five 1
+align 14 hours 0.998456 *DELETE* 0.00154379
+align 15 *DELETE* 0.99555 uh 0.00243197 ours 0.00154379 i 0.000460624 off 4.79158e-06 in 4.00622e-06 a 1.69269e-06 on 1.36861e-06 who 1.18873e-06 if 2.57824e-07 you 1.32938e-07 of 1.07446e-08 um 6.65654e-09 i'm 6.44711e-09
+align 16 </s> 1

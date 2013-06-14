@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 we're 0.999769 uh 0.000230784
+align 2 *DELETE* 0.999769 we're 0.000230784
+align 3 just 1
+align 4 uh 1
+align 5 *DELETE* 0.999991 uh 9.45909e-06
+align 6 talking 1
+align 7 about 1
+align 8 *DELETE* 0.973475 uh 0.0239657 i 0.00166027 a 0.000733007 it 0.000166256
+align 9 if 1
+align 10 there 1
+align 11 was 1
+align 12 an 0.997845 in 0.00215454
+align 13 annex 0.970298 an 0.0297023 *DELETE* 9.55085e-15
+align 14 *DELETE* 0.970416 exit 0.0154975 act 0.00710918 axe 0.00387187 x 0.00310564
+align 15 someone 0.458015 and 0.15311 it 0.14286 them 0.0687257 of 0.0528892 in 0.0505781 him 0.0241939 some 0.0170634 a 0.0123351 *DELETE* 0.0105315 wound 0.00496597 i'm 0.00383762 on 0.000775804 extra 0.0001181
+align 16 *DELETE* 0.463811 will 0.190167 we'll 0.172292 one 0.172094 wound 0.00163629
+align 17 now 0.986622 know 0.0087406 *DELETE* 0.00381402 worn 0.000805947 wound 1.70947e-05
+align 18 *DELETE* 0.995335 not 0.00145958 no 0.00102583 out 0.000850343 there 0.000673804 uh 0.000540617 or 6.25261e-05 i 2.74305e-05 um 1.58363e-05 owner 6.27958e-06 our 2.22734e-06 are 3.29371e-07 hour 1.00925e-08 knock 8.11685e-10 oh 3.0837e-11 a 6.97058e-13 warner 5.50359e-13
+align 19 </s> 1

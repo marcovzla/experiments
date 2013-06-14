@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 these 0.951829 yeah 0.0275795 okay 0.0205915
+align 2 *DELETE* 0.951829 these 0.0481709
+align 3 are 1
+align 4 all 1
+align 5 things 1
+align 6 that 1
+align 7 i'm 1
+align 8 *DELETE* 0.639659 going 0.360341
+align 9 gonna 0.639659 to 0.360341
+align 10 bring 1
+align 11 up 1
+align 12 with 1
+align 13 yes 0.502328 the 0.497672
+align 14 still 0.371886 s 0.32547 as 0.151411 *DELETE* 0.0772323 do 0.0739994
+align 15 *DELETE* 0.445886 still 0.322932 two 0.127652 too 0.0536219 to 0.0291181 esther 0.0103951 ester 0.0103951
+align 16 *DELETE* 0.97921 you 0.0207903
+align 17 but 0.998615 what 0.00138515
+align 18 as 1
+align 19 far 1
+align 20 as 1
+align 21 intelligence 0.999616 intelligent 0.000384394
+align 22 goes 0.989934 girls 0.00966682 skills 0.000384394 girls' 1.44769e-05 kills 5.2817e-07 girl's 5.98027e-08
+align 23 *DELETE* 0.999997 i 3.3321e-06
+align 24 </s> 1

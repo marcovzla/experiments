@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 1
+align 3 are 1
+align 4 your 0.580374 you 0.419626
+align 5 children 1
+align 6 </s> 1

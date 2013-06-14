@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 damage 1
+align 3 has 0.99693 does 0.00306959
+align 4 the 1
+align 5 hospital 1
+align 6 received 1
+align 7 *DELETE* 0.999412 uh 0.000261369 a 0.000214373 if 6.21068e-05 i 2.94748e-05 it 1.97639e-05 in 5.07884e-07 at 9.46342e-08 an 8.62567e-08 the 6.63955e-08
+align 8 </s> 1

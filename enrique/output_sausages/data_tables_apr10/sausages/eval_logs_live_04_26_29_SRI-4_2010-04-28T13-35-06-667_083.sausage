@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999826 how 0.000173534
+align 2 about 1
+align 3 how 1
+align 4 many 1
+align 5 people 1
+align 6 live 1
+align 7 in 1
+align 8 the 0.995812 a 0.00418838
+align 9 village 1
+align 10 </s> 1

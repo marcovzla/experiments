@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 uh 0.62969 a 0.188746 *DELETE* 0.101227 in 0.0783172 and 0.00201972
+align 3 in 0.692265 and 0.225816 *DELETE* 0.0803369 uh 0.00158172
+align 4 *DELETE* 0.998418 in 0.00158172
+align 5 we 1
+align 6 dispose 1
+align 7 of 0.996641 *DELETE* 0.00335938
+align 8 the 1
+align 9 filter 1
+align 10 with 1
+align 11 the 1
+align 12 oil 1
+align 13 </s> 1

@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 what 0.987447 *DELETE* 0.00647481 where 0.00533566 well 0.000742683
+align 2 is 0.99284 *DELETE* 0.00715967
+align 3 a 0.553157 *DELETE* 0.277062 number 0.162621 was 0.00647481 does 0.000684852
+align 4 number 0.837379 *DELETE* 0.162621
+align 5 of 0.991643 *DELETE* 0.00835747
+align 6 old 0.940141 or 0.0598589
+align 7 citizens 0.872193 citizens' 0.0745047 citizen's 0.0533024
+align 8 versus 0.995812 forces 0.00210547 verses 0.00208233
+align 9 young 0.998417 the 0.00151238 yung 7.05814e-05
+align 10 *DELETE* 0.998488 young 0.00151238
+align 11 citizens 0.757538 status 0.21929 citizens' 0.0138442 citizen's 0.00918592 citizen 0.000141646
+align 12 *DELETE* 0.780568 is 0.219409 as 2.33163e-05
+align 13 that 0.99985 it 0.000150271
+align 14 you 1
+align 15 have 1
+align 16 here 1 *DELETE* 1.84659e-14
+align 17 *DELETE* 0.999999 i 6.39308e-07 hear 2.80851e-11
+align 18 </s> 1

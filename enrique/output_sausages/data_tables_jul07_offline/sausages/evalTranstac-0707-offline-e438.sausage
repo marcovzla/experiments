@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 0.9904 *DELETE* 0.00959997
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 weapons 0.998226 weapon 0.00177376
+align 6 that 0.993273 so 0.00445245 or 0.00126252 at 0.00101236
+align 7 you 1
+align 8 need 1
+align 9 to 1
+align 10 declare 1
+align 11 *DELETE* 0.998477 it 0.00150322 a 1.81924e-05 are 1.50515e-06 her 9.09196e-08
+align 12 </s> 1

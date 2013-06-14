@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 have 0.879149 i 0.120851
+align 2 uh 0.722666 a 0.156482 have 0.120851
+align 3 *DELETE* 0.879149 a 0.06395 uh 0.0569014
+align 4 have 1
+align 5 a 1
+align 6 nice 1
+align 7 day 1
+align 8 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 are 0.951632 were 0.047116 *DELETE* 0.00125211
+align 3 the 1
+align 4 town 0.983783 time 0.0141177 towel 0.00131131 tower 0.000592876 tile 0.000194707
+align 5 *DELETE* 0.99953 on 0.000470478
+align 6 leaders 0.961644 liters 0.0328909 leader's 0.00278911 meters 0.00156858 leaders' 0.00109144 *DELETE* 1.62109e-05
+align 7 *DELETE* 0.999971 waiters 1.62109e-05 should 1.27885e-05 uh 9.90691e-09 i 2.7982e-11 to 1.2985e-11 in 1.08584e-11 you 2.3734e-13 of 2.09914e-14 who 1.19241e-14
+align 8 </s> 1

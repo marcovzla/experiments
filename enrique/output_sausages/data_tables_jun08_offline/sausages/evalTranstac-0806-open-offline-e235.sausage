@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 can 1
+align 4 see 1
+align 5 that's 0.997799 that 0.00220054
+align 6 a 0.997799 city 0.00150109 say 0.000451068 see 0.000248383
+align 7 very 0.553236 a 0.446764
+align 8 *DELETE* 0.553236 very 0.446764
+align 9 serious 1
+align 10 problem 1
+align 11 colonel 1 *DELETE* 2.00849e-15
+align 12 *DELETE* 0.998861 i 0.000804633 uh 0.000273071 sir 2.70562e-05 of 1.22931e-05 a 8.62125e-06 you 6.90673e-06 or 5.91514e-06 in 3.05957e-07 we 1.98078e-07 and 1.46283e-07 i'm 7.49813e-08 how 2.54607e-08 colonels 1.06248e-08 do 3.90107e-09
+align 13 </s> 1

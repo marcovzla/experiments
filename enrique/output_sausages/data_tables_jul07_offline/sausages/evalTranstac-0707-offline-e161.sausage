@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 these 1
+align 3 personnel 1
+align 4 um 0.793551 uh 0.206449
+align 5 a 0.431423 *DELETE* 0.412219 and 0.146235 the 0.00682891 uh 0.00329457
+align 6 knock 0.998894 not 0.00107163 knocked 3.475e-05
+align 7 *DELETE* 0.999997 to 3.28648e-06
+align 8 your 0.999439 cure 0.00044673 you're 0.000113796
+align 9 door 1
+align 10 down 1
+align 11 or 0.998361 where 0.00163871
+align 12 did 1
+align 13 you 1
+align 14 let 1
+align 15 them 0.999877 the 0.00012297
+align 16 in 0.998056 and 0.00162131 then 0.000186149 men 0.000126099 *DELETE* 1.03383e-05
+align 17 *DELETE* 0.999952 in 3.56348e-05 man 4.34088e-06 inn 4.02178e-06 an 1.97603e-06 a 1.53789e-06
+align 18 </s> 1

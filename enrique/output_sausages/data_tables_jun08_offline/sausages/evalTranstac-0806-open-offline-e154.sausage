@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 excellent 1
+align 4 and 0.99877 can 0.000735429 in 0.000296415 tend 0.00017976 ten 1.82739e-05
+align 5 thank 1
+align 6 you 1
+align 7 for 1
+align 8 volunteer 0.900934 a 0.0914577 phone 0.00616051 phoned 0.0014383 fond 9.5029e-06 fun 1.19612e-07
+align 9 *DELETE* 0.908539 volunteer 0.0914577 here 3.16784e-06
+align 10 in 0.992395 carrying 0.00616063 hearing 0.00144464
+align 11 that 1
+align 12 *DELETE* 0.884746 and 0.115254
+align 13 uh 0.963428 *DELETE* 0.0364636 i 0.000102292 um 3.68509e-06 high 2.36739e-06
+align 14 i 0.559403 *DELETE* 0.397999 uh 0.0425977
+align 15 *DELETE* 0.751677 i 0.248323
+align 16 *DELETE* 0.999828 i 0.000172266
+align 17 as 0.904576 is 0.0716592 has 0.0172777 there's 0.00648708
+align 18 *DELETE* 0.934669 a 0.0639104 oh 0.00139732 away 2.37475e-05
+align 19 always 0.934669 ways 0.059673 weighs 0.00539846 way 0.0002363 is 2.37475e-05
+align 20 *DELETE* 0.999764 is 0.0002363
+align 21 will 0.681103 we'll 0.318884 wool 1.34233e-05
+align 22 work 1
+align 23 as 1
+align 24 a 1
+align 25 team 1
+align 26 uh 0.97147 um 0.0285299
+align 27 *DELETE* 0.994947 uh 0.00505251
+align 28 to 0.997884 two 0.00158444 could 0.000272751 too 0.000257115 *DELETE* 1.6906e-11
+align 29 create 1
+align 30 the 1
+align 31 best 1
+align 32 solution 0.999995 pollution 5.1966e-06
+align 33 </s> 1

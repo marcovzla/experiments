@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 do 1
+align 5 you 1
+align 6 use 0.990083 *DELETE* 0.00991653
+align 7 you 0.988777 usually 0.00991653 he 0.00130603
+align 8 take 1
+align 9 on 1
+align 10 patrol 1
+align 11 with 1
+align 12 you 1
+align 13 *DELETE* 0.998114 uh 0.00162763 i 0.000159072 and 6.15247e-05 you 2.46766e-05 in 7.60575e-06 the 2.27371e-06 to 1.83663e-06 know 1.24279e-06 sir 1.97309e-07 is 8.10946e-08 at 5.59766e-08 that 3.94115e-09 so 8.04933e-10 like 1.69716e-12
+align 14 </s> 1

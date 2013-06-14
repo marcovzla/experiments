@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 do 0.971497 did 0.0285031
+align 3 the 0.998445 he 0.00155492
+align 4 other 0.999994 of 5.51233e-06
+align 5 *DELETE* 0.999994 the 5.51233e-06
+align 6 workers 1
+align 7 come 1
+align 8 from 1
+align 9 </s> 1

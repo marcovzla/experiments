@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 0.786034 who 0.100762 well 0.100695 how 0.0105126 i 0.00154915 *DELETE* 0.000447195
+align 2 was 0.95743 is 0.0425667 who's 3.40005e-06
+align 3 your 1
+align 4 brother 0.99995 bother 4.82042e-05 by 2.21679e-06
+align 5 *DELETE* 0.999594 in 0.000126671 uh 0.000124402 i 7.08387e-05 is 4.36834e-05 do 3.41356e-05 if 4.12025e-06 other 2.21679e-06 it 2.63318e-07 to 7.20775e-08 a 6.00719e-08
+align 6 </s> 1

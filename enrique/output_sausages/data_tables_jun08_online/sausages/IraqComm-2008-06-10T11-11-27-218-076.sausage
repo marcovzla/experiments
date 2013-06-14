@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 does 0.999672 is 0.00027776 *DELETE* 4.99335e-05
+align 3 it 0.93894 a 0.0454574 the 0.0118339 that 0.00140334 this 0.00132703 of 0.00103851 and 1.32827e-15
+align 4 *DELETE* 0.99995 is 4.99335e-05
+align 5 *DELETE* 0.99995 a 4.99335e-05
+align 6 flood 0.983868 flooded 0.0129416 floods 0.00241629 flow 0.000773869
+align 7 *DELETE* 0.998675 uh 0.000983733 in 0.000226186 it 4.52867e-05 and 4.37937e-05 i 2.58022e-05 a 4.69059e-07 um 5.64821e-12 did 1.9853e-13 me 1.19283e-14 you 2.01359e-18 do 7.60823e-20 an 5.36838e-23 the 4.09913e-23 of 1.63847e-24
+align 8 </s> 1

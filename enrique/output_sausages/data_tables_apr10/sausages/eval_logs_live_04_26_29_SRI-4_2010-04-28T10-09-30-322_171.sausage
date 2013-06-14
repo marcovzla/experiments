@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 has 1 is 8.37565e-10
+align 4 your 1
+align 5 brother 1
+align 6 been 1
+align 7 gone 0.99227 don 0.00528565 done 0.00192929 gun 0.000193344 dawn 0.000182563 going 8.4532e-05 donn 5.42208e-05
+align 8 *DELETE* 0.999916 i 8.00751e-05 uh 1.91485e-06 a 1.5156e-06 to 6.07502e-07 in 1.66677e-07
+align 9 </s> 1

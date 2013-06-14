@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 do 1
+align 5 your 1
+align 6 men 1
+align 7 know 1
+align 8 the 1
+align 9 detention 1
+align 10 procedures 1
+align 11 for 0.999662 four 0.000338429
+align 12 when 1
+align 13 they 1
+align 14 find 1
+align 15 the 1
+align 16 high 1
+align 17 value 1
+align 18 target 1
+align 19 on 0.998877 one 0.00112252
+align 20 how 1
+align 21 the 0.99715 they 0.00214355 that 0.000706295
+align 22 detain 0.961769 detained 0.0382311
+align 23 him 0.999999 them 1.05896e-06
+align 24 </s> 1

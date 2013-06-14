@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 your 1
+align 3 wives 1
+align 4 and 1
+align 5 children 1
+align 6 stay 0.992433 staying 0.00698017 stayed 0.000483998 state 8.69344e-05 stand 9.87235e-06 stage 6.18186e-06
+align 7 here 0.984996 there 0.0115613 in 0.00323188 near 0.000115442 *DELETE* 9.50045e-05
+align 8 *DELETE* 0.996768 here 0.00255654 there 0.00067534
+align 9 with 1
+align 10 you 1
+align 11 *DELETE* 0.998979 uh 0.00101889 i 2.10401e-06
+align 12 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 people 1
+align 5 would 0.511182 with 0.456093 it 0.0294526 at 0.00327243
+align 6 *DELETE* 0.921325 to 0.0786755
+align 7 that 0.52297 their 0.347602 our 0.0786755 the 0.0507522
+align 8 experience 0.427867 are 0.423917 our 0.148216
+align 9 *DELETE* 0.724852 experience 0.275148
+align 10 of 0.641666 experiencing 0.296984 with 0.0294151 and 0.0222752 or 0.00965911
+align 11 the 0.899525 *DELETE* 0.0758569 a 0.0246184
+align 12 irrigation 1
+align 13 systems 1 system 9.79979e-11
+align 14 *DELETE* 0.999999 i 1.38787e-06 is 9.79979e-11
+align 15 </s> 1

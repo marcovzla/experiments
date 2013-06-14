@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 you're 0.993143 you 0.00583505 *DELETE* 0.00102214
+align 2 *DELETE* 0.993143 are 0.00583505 your 0.00102214
+align 3 welcome 1
+align 4 that's 1
+align 5 our 1
+align 6 job 1 *DELETE* 7.6944e-16
+align 7 *DELETE* 0.999997 is 2.48392e-06 in 2.50154e-07 uh 6.63391e-09 you 2.97086e-09 jobs 7.8325e-11 i 7.22614e-12 to 3.80001e-13
+align 8 </s> 1

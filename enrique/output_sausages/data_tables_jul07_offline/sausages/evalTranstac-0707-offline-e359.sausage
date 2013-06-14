@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 you 1
+align 3 can 1
+align 4 either 1
+align 5 direct 1
+align 6 them 1
+align 7 *DELETE* 0.995736 uh 0.00266253 up 0.000586831 to 0.000582095 i 0.000322493 a 4.99613e-05 oh 4.411e-05 all 8.64076e-06 go 6.87153e-06
+align 8 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 one 1
+align 2 very 1
+align 3 uh 0.578688 act 0.404576 i 0.0167359
+align 4 critically 1
+align 5 important 1
+align 6 piece 0.952067 peace 0.0283174 peas 0.0138691 please 0.0057468
+align 7 areas 0.810835 *DELETE* 0.104045 it 0.0656141 is 0.0195058
+align 8 *DELETE* 0.830341 is 0.169329 iz 0.000330111
+align 9 dispersion 1
+align 10 on 1
+align 11 patrol 1
+align 12 *DELETE* 0.999999 i 5.00125e-07 uh 9.60363e-08
+align 13 </s> 1

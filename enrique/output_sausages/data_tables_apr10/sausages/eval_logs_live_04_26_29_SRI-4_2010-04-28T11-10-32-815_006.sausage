@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 sergeant 1
+align 7 smith 1
+align 8 *DELETE* 0.999968 uh 2.25646e-05 i 9.69456e-06
+align 9 </s> 1

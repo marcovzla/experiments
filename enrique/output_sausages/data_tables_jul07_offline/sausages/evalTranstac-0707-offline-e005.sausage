@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where's 0.992918 where 0.00706588 what 1.05641e-05 was 5.2307e-06
+align 2 *DELETE* 0.992924 is 0.00707644
+align 3 your 1
+align 4 brother 1
+align 5 *DELETE* 0.994445 at 0.0055405 now 6.7057e-06 uh 3.50641e-06 it 2.49759e-06 in 2.20854e-06
+align 6 </s> 1

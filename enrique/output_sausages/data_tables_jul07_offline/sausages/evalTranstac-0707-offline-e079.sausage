@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 that 0.994537 but 0.0054626
+align 2 is 0.994497 as 0.00550257
+align 3 up 1
+align 4 to 1
+align 5 my 1
+align 6 commanders 0.999075 commander's 0.000831327 commander 9.33139e-05
+align 7 *DELETE* 0.999907 is 5.55179e-05 so 3.77959e-05 in 1.34376e-08
+align 8 </s> 1

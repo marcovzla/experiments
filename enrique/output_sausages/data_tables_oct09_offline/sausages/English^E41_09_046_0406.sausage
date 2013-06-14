@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 i 0.810182 and 0.189818
+align 2 know 0.809507 are 0.108757 uh 0.0804928 no 0.00124285
+align 3 they 0.993332 i 0.00666784
+align 4 *DELETE* 0.993332 they 0.00666784
+align 5 got 1
+align 6 ambushed 0.797331 ambush 0.20243 *DELETE* 0.000239723
+align 7 and 0.864013 in 0.0917346 an 0.0251321 *DELETE* 0.0126945 soon 0.00618655 ambushing 0.000239723
+align 8 uh 0.987306 another 0.0126945
+align 9 three 0.994501 uh 0.00549852
+align 10 *DELETE* 0.994501 three 0.00549852
+align 11 of 1
+align 12 them 1
+align 13 are 0.646382 of 0.15073 or 0.128715 it 0.0469406 were 0.0200137 live 0.0030612 a 0.000996766 would 0.000777712 have 0.000704505 look 0.000559233 at 0.00033757 and 0.00032637 will 0.000244894 we're 6.82541e-05 uh 5.06103e-05 they're 4.83963e-05 work 2.02616e-05 there 1.34767e-05 in 8.92292e-06
+align 14 down 1
+align 15 *DELETE* 0.999964 uh 2.91291e-05 i 5.47184e-06 a 1.21797e-06
+align 16 </s> 1

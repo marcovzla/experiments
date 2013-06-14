@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 have 0.976 if 0.0239996
+align 3 you 1
+align 4 had 1
+align 5 any 1
+align 6 interaction 1
+align 7 with 1
+align 8 the 1
+align 9 you're 0.665583 *DELETE* 0.26185 year 0.0725665
+align 10 a 0.659099 your 0.26185 our 0.0309067 are 0.016573 of 0.0165198 or 0.0100577 uh 0.0049939
+align 11 local 0.819376 a 0.172986 are 0.00672874 our 0.000909326
+align 12 *DELETE* 0.819376 local 0.180624
+align 13 uh 1
+align 14 town 1
+align 15 government 0.999919 and 4.14919e-05 in 3.9878e-05
+align 16 *DELETE* 0.999919 government 8.13699e-05
+align 17 uh 0.596536 um 0.402246 of 0.00121736
+align 18 like 0.614259 uh 0.253063 i 0.132678
+align 19 *DELETE* 0.614259 like 0.385741
+align 20 the 1
+align 21 mayor 1
+align 22 or 1
+align 23 uh 1
+align 24 councilman 0.911602 councilmen 0.0757184 council 0.011624 counsel 0.00105542 if 7.17029e-09
+align 25 *DELETE* 0.982852 men 0.00627044 month 0.00349815 man 0.00275147 now 0.00232822 uh 0.00078667 you 0.000530245 i 0.000522432 meant 0.000159309 a 9.55324e-05 in 5.21157e-05 if 5.07616e-05 it 3.24504e-05 up 2.0878e-05 of 1.60917e-05 are 1.20992e-05 i'm 1.1692e-05 to 3.82296e-06 the 3.05196e-06 and 2.02806e-06 for 9.39981e-07 councilman 6.99925e-09 councilmen 1.71036e-10
+align 26 </s> 1

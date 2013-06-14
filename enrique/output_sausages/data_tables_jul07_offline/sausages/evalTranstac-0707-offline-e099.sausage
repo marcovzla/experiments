@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 0.710573 uh 0.289427
+align 2 *DELETE* 0.710016 i 0.289984
+align 3 can 0.998109 *DELETE* 0.00182881 did 6.24018e-05
+align 4 i 1
+align 5 get 0.883956 give 0.116044
+align 6 talking 0.747867 chop 0.161041 talk 0.0619646 taught 0.0272275 *DELETE* 0.000990307 chopper 0.000906579 chopped 2.63198e-06
+align 7 *DELETE* 0.911481 it 0.0885188
+align 8 to 0.818076 that 0.161139 *DELETE* 0.0206293 it 0.000155357
+align 9 your 0.972673 *DELETE* 0.0130655 two 0.010005 you 0.00116984 can 0.00102187 talkative 0.000990307 atiyah 0.000275357 too 0.000249551 is 0.000178439 you're 0.000135821 the 8.71823e-05 in 7.26911e-05 to 5.96039e-05 june 1.6097e-05
+align 10 *DELETE* 0.999913 june 4.92055e-05 team 2.05888e-05 tin 1.08366e-05 tea 6.55144e-06
+align 11 *DELETE* 0.999993 is 6.55144e-06
+align 12 children 0.992251 shoulder 0.00774917 children's 4.71273e-08 shorter 8.76419e-12
+align 13 *DELETE* 0.999956 do 3.11587e-05 are 9.07717e-06 uh 4.13439e-06 i 4.72139e-08 if 1.05654e-08
+align 14 </s> 1

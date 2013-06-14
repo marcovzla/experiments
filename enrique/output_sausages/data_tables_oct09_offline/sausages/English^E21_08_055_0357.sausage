@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 0.763122 *DELETE* 0.167353 i 0.0695246
+align 3 i 1.00711
+align 4 *DELETE* 0.998744 i 0.00125582
+align 5 will 1
+align 6 be 1
+align 7 critique 1
+align 8 in 0.703618 king 0.244463 keen 0.0328694 qeen 0.00915987 can 0.00627473 teen 0.00129863 ian 0.00114173 clean 0.00107438 you 9.97308e-05
+align 9 *DELETE* 0.9999 in 9.97308e-05
+align 10 and 0.531621 an 0.385812 a 0.082192 in 0.000374665
+align 11 correcting 0.570565 correct 0.427822 *DELETE* 0.00161341
+align 12 *DELETE* 0.938539 in 0.0373685 and 0.0240923
+align 13 you 0.632026 me 0.363166 new 0.00319456 correctly 0.00161341
+align 14 *DELETE* 0.999844 you 0.000156245
+align 15 guys 0.9895 guy's 0.00615444 guys' 0.00434591
+align 16 as 0.998784 is 0.00121635
+align 17 we 0.999831 would 0.000166198 well 2.87719e-06
+align 18 go 0.999168 do 0.000832081 don't 5.00946e-08
+align 19 *DELETE* 0.999685 to 0.000146398 in 9.91034e-05 i 5.91172e-05 up 6.09777e-06 a 4.63975e-06 oh 9.59125e-08
+align 20 </s> 1

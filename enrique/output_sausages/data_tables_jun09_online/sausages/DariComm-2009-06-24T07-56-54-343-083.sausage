@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 for 1
+align 4 telling 1
+align 5 me 1
+align 6 this 1
+align 7 *DELETE* 0.99838 uh 0.00159258 i 2.52349e-05 is 1.6432e-06 too 6.54542e-07 um 1.54025e-08 you 9.78554e-13 and 3.8814e-13 do 1.93035e-13
+align 8 </s> 1

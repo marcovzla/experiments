@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 having 1
+align 4 problems 1
+align 5 with 0.999999 was 7.57156e-07
+align 6 security 1
+align 7 in 0.932152 *DELETE* 0.0674034 and 0.000444653
+align 8 the 0.93257 any 0.0674034 he 2.64941e-05
+align 9 area 1
+align 10 *DELETE* 0.999677 uh 0.000272801 i 3.98352e-05 you 5.36081e-06 in 3.43879e-06 he 8.6866e-07 and 5.83411e-07 um 2.38474e-07 it 7.45543e-08 that 3.03545e-11 is 1.21413e-22
+align 11 </s> 1

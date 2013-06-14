@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 0.999598 one 0.000401986
+align 2 repairs 0.999529 repair 0.000289232 repairers 0.000181593
+align 3 *DELETE* 0.999711 is 0.000289232
+align 4 are 0.998067 or 0.00166913 our 0.000169155 they're 7.64307e-05 there 1.42476e-05 their 3.99811e-06
+align 5 needed 0.978963 need 0.0210192 new 1.81532e-05
+align 6 *DELETE* 0.978549 to 0.0123356 it 0.00911563
+align 7 at 0.984908 get 0.0122489 in 0.00242879 *DELETE* 0.000413878
+align 8 the 0.999828 to 0.000167891 a 3.9302e-06
+align 9 hospital 1
+align 10 *DELETE* 1 now 3.3565e-14
+align 11 </s> 1

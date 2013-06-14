@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 you've 0.707434 you 0.269742 he 0.0142369 we've 0.00427693 we 0.00307374 the 0.00120318 do 3.40734e-05
+align 2 *DELETE* 0.999966 you 3.40734e-05
+align 3 been 1
+align 4 through 0.887519 to 0.112481
+align 5 this 1
+align 6 checkpoint 1
+align 7 before 1
+align 8 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 mean 0.974192 *DELETE* 0.0258084
+align 4 it's 0.527543 is 0.380453 as 0.0661952 miss 0.0258084
+align 5 being 0.999959 bean 4.10448e-05
+align 6 home 0.971471 old 0.0230494 hole 0.00250849 hold 0.00197572 homes 0.000850697 *DELETE* 0.00014512
+align 7 *DELETE* 0.998263 uh 0.00119828 i 0.000315285 whole 0.000112365 now 3.63639e-05 owned 3.23272e-05 a 1.79667e-05 to 6.85936e-06 on 5.50636e-06 it 2.64617e-06 in 2.63089e-06 is 1.9954e-06 at 1.16505e-06 and 1.0393e-06 do 1.00579e-06 if 4.25564e-07 own 3.52865e-07 i'm 3.44839e-07 pole 7.49288e-08 you 5.8605e-08 of 2.96406e-09 so 1.8623e-11 homer 6.2535e-20 home's 8.42033e-26
+align 8 </s> 1

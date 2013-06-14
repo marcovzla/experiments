@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 say 0.817988 so 0.180325 *DELETE* 0.00168766 sir 5.57884e-16
+align 2 again 0.817988 you 0.180006 setting 0.00168766 *DELETE* 0.000180034 you're 0.000138611
+align 3 *DELETE* 0.881405 and 0.118595
+align 4 *DELETE* 0.863338 i 0.0732404 hand 0.0247346 have 0.0166121 in 0.0093692 then 0.00327171 had 0.00324461 an 0.00259049 them 0.00159519 didn't 0.00133396 end 0.000361349 yeah 0.000154261 han 0.00010849 u._n. 2.57726e-05 hands 1.57969e-05 uh 4.42973e-06 him 2.73023e-09 here 7.89246e-20 hamid 2.15634e-20
+align 5 </s> 1

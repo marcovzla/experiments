@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 0.989761 *DELETE* 0.010239
+align 2 is 0.989223 where's 0.010239 was 0.000538492
+align 3 your 1
+align 4 police 1
+align 5 station 1
+align 6 on 1
+align 7 the 1
+align 8 map 1
+align 9 *DELETE* 0.999795 uh 0.000104049 i 7.74896e-05 at 1.04132e-05 it 6.84121e-06 is 5.85055e-06 of 1.27867e-07 you 2.8932e-11 and 2.11869e-11 that 2.66011e-13 in 1.70842e-13
+align 10 </s> 1

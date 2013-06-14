@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 electrical 0.999964 a 2.81558e-05 uh 7.44312e-06
+align 5 *DELETE* 0.999964 electrical 3.55989e-05
+align 6 problems 0.999999 *DELETE* 8.48449e-17
+align 7 *DELETE* 0.999367 uh 0.000553221 i 4.59933e-05 it 1.05902e-05 do 8.95405e-06 in 7.99613e-06 you 2.50349e-06 too 1.82721e-06 problem's 1.08017e-06 a 2.91751e-07 and 2.4734e-07 to 1.21562e-09
+align 8 </s> 1

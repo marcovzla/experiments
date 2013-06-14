@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 0.985084 *DELETE* 0.0149159
+align 4 who 0.985084 never 0.0149159 *DELETE* 5.77531e-13
+align 5 came 1
+align 6 from 1
+align 7 his 0.795566 is 0.103454 this 0.057461 us 0.0212299 as 0.0198555 it's 0.00170108 its 0.000732526
+align 8 family 1 families 3.13943e-08
+align 9 *DELETE* 0.999945 uh 3.65873e-05 i 1.81958e-05 and 1.56873e-07 in 1.08864e-07
+align 10 </s> 1

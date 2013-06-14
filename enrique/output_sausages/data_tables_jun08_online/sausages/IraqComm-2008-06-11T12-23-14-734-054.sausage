@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 a 0.893066 *DELETE* 0.104737 an 0.00219653
+align 4 location 1
+align 5 where 1
+align 6 your 0.613136 you 0.364017 you're 0.0215849 you'd 0.00126188
+align 7 people 1
+align 8 can 1
+align 9 get 1
+align 10 treatment 1
+align 11 *DELETE* 0.999971 uh 2.84731e-05 that 2.01922e-08 at 1.38975e-08 i 1.07611e-11 of 1.54272e-13 but 1.47496e-13 and 7.25332e-19 you 5.10997e-19
+align 12 </s> 1

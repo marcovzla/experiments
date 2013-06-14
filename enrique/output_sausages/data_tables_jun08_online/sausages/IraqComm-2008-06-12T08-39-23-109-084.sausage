@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 0.999231 does 0.000769411
+align 2 this 1
+align 3 all 0.87059 *DELETE* 0.129405 i 4.44606e-06
+align 4 of 0.859741 *DELETE* 0.140259
+align 5 the 0.984701 *DELETE* 0.00951565 i 0.00468372 day 0.000934809 them 0.000108809 my 5.64295e-05 about 1.51042e-08
+align 6 *DELETE* 0.999999 don't 1.00553e-06
+align 7 entrance 0.628618 address 0.250513 exists 0.0595731 addresses 0.0245311 *DELETE* 0.0119984 dangerous 0.0110996 interests 0.00747925 entrances 0.00361705 don't 0.00136433 their 0.00117092 that 1.85554e-05 buy 1.56769e-05 door 1.03036e-06 die 4.54678e-08
+align 8 *DELETE* 0.962905 so 0.00990919 is 0.00955162 sir 0.00268903 agents 0.00260673 accounts 0.00237027 expenses 0.00201043 expense 0.00133837 dress 0.00123169 exists 0.00096892 drugs 0.000805033 germs 0.000579155 diagnosis 0.000510208 edges 0.00046749 advance 0.000300974 you 0.000288005 address 0.000279136 juice 0.000234455 jews 0.000231863 dresses 0.000102201 ages 8.52987e-05 jobs 8.26727e-05 uh 7.77912e-05 diagnose 7.44325e-05 actress 4.8238e-05 droves 4.66105e-05 drives 3.9637e-05 drips 3.0092e-05 exams 2.67392e-05 drains 2.31819e-05 interns 2.31171e-05 has 1.85554e-05 exits 1.63887e-05 intense 1.0876e-05 i 8.44219e-06 injuries 4.23697e-06 in 1.58427e-06 eggs 6.05381e-07 drafts 5.72622e-07 excess 4.26197e-07 dreams 3.45361e-07 now 8.67328e-08 drills 2.16018e-09 troops 1.30126e-09 attempts 4.91085e-10 drums 1.18317e-10 addresses 8.64002e-11 trash 5.49765e-11 and 4.51713e-11 trust 3.78403e-13 because 3.40895e-16 it 7.9105e-18 on 5.66074e-18 intern's 1.02932e-18 us 6.74182e-19 of 1.26649e-19 addressed 5.25499e-20 to 7.66831e-22 comes 1.61333e-25 drifts 3.43285e-27 those 1.97323e-27
+align 9 </s> 1

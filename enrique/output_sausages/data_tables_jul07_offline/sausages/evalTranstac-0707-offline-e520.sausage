@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.592557 that 0.346912 there 0.0605312
+align 2 there's 0.591499 is 0.406539 that's 0.00105818 it's 0.000904081
+align 3 going 1
+align 4 to 1
+align 5 be 1
+align 6 very 1
+align 7 helpful 1
+align 8 to 0.991164 too 0.00883576
+align 9 our 0.939965 are 0.0600349
+align 10 continued 0.628096 continue 0.368181 continuing 0.00372332
+align 11 planning 0.630257 planting 0.368405 to 0.00132582 *DELETE* 1.16528e-05 plan 3.24292e-07
+align 12 *DELETE* 0.998605 planning 0.00121128 planting 0.00011454 a 4.82422e-05 plenty 1.16528e-05 i 6.49715e-06 to 1.06704e-06 it 1.06644e-06 and 3.24291e-07 is 2.42608e-10 in 6.35757e-13 plantings 7.82381e-14
+align 13 </s> 1

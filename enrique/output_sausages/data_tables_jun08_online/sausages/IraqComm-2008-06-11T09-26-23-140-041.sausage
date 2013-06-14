@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 engineers 0.999824 engineer's 9.23909e-05 engineers' 8.33988e-05 a 7.67269e-11
+align 5 *DELETE* 0.999833 uh 0.000127417 i 3.94479e-05 engineers 7.67269e-11 in 9.85019e-13 you 1.66833e-15 do 2.75657e-16
+align 6 </s> 1

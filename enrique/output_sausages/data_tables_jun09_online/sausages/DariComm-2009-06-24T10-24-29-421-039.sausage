@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 can 0.687029 did 0.31168 came 0.00129089
+align 3 this 0.997984 the 0.00197962 they 3.61993e-05
+align 4 soldier 1
+align 5 go 0.991262 going 0.0082573 goes 0.000480893 goal 7.81267e-12
+align 6 home 0.999214 or 0.000786174 oh 4.18903e-08
+align 7 *DELETE* 0.998163 home 0.000786216 i 0.000442387 now 0.000287886 uh 0.00025765 to 2.39375e-05 too 2.35573e-05 at 7.66279e-06 it 5.58457e-06 a 1.70547e-06 in 6.62792e-07 the 3.82443e-08 you 3.06573e-09 and 5.40654e-10 is 3.69407e-10 do 2.98255e-11 if 1.22019e-12 so 2.6022e-13 i'm 1.03454e-13 we 6.78077e-14
+align 8 </s> 1

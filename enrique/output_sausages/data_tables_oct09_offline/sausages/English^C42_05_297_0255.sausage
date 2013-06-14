@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 you 0.996624 do 0.0022508 if 0.000932874 he 0.000192673
+align 2 *DELETE* 0.996816 you 0.00318368
+align 3 could 1
+align 4 call 1
+align 5 me 1
+align 6 uh 1
+align 7 perhaps 1
+align 8 we 1
+align 9 can 1
+align 10 meet 0.942705 *DELETE* 0.0572948
+align 11 in 0.938104 meeting 0.0570176 and 0.00460073 medium 0.000277192
+align 12 three 1
+align 13 days 1
+align 14 to 1
+align 15 uh 0.999998 *DELETE* 1.46785e-13
+align 16 discuss 0.993642 discussed 0.00635789
+align 17 pricing 0.998965 price 0.000678308 person 0.000266418 parsley 6.73911e-05 a 2.29786e-05
+align 18 *DELETE* 0.999468 and 0.000200428 in 0.00011334 you 0.000103107 uh 4.54852e-05 thing 4.23314e-05 pricing 2.29786e-05 think 4.44284e-06 ink 1.28921e-08 can 7.30348e-12
+align 19 </s> 1

@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 show 1
+align 4 me 1
+align 5 on 1
+align 6 the 1
+align 7 map 1
+align 8 where 0.94215 uh 0.0527677 of 0.00508265
+align 9 *DELETE* 0.94215 where 0.0578503
+align 10 we 1
+align 11 will 0.993315 we'll 0.00668481
+align 12 place 1
+align 13 the 1
+align 14 detainee 1
+align 15 building 0.637871 holding 0.297091 and 0.0484571 killed 0.0063137 *DELETE* 0.00563655 old 0.00261999 all 0.00167537 so 0.000214059 girl 0.000116409 hole 4.64959e-06
+align 16 *DELETE* 0.934962 then 0.0545122 in 0.00504303 children 0.0025743 been 0.00127109 men 0.000842292 open 0.000794932
+align 17 area 1
+align 18 *DELETE* 0.999926 uh 6.24858e-05 i 1.0475e-05 and 6.76955e-07 a 2.71489e-07 in 2.04345e-07 um 6.06971e-08 it 2.39102e-10 is 1.99495e-11 to 3.35488e-13
+align 19 </s> 1

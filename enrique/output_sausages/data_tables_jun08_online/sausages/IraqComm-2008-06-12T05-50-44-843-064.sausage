@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 no 1
+align 2 *DELETE* 1 no 4.09598e-09
+align 3 i'm 1
+align 4 sorry 1
+align 5 you 1
+align 6 do 1
+align 7 not 1
+align 8 believe 1
+align 9 believe 0.999371 beliefs 0.000316769 belief 0.000312039
+align 10 they 0.492357 these 0.248912 we 0.119596 thieves 0.0974519 you 0.0349641 fees 0.0065167 please 0.000202115
+align 11 use 0.646917 *DELETE* 0.353083
+align 12 are 0.998671 or 0.000971435 our 0.000223094 uh 0.000134323
+align 13 hiding 1
+align 14 weapons 1
+align 15 on 1
+align 16 your 1
+align 17 land 1 *DELETE* 2.9174e-16
+align 18 *DELETE* 1 lands 7.91451e-12 now 5.10514e-12
+align 19 </s> 1

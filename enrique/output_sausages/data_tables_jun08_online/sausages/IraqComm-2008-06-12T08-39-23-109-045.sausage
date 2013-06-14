@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 can 0.919938 could 0.080062
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 how 0.964126 have 0.0358739
+align 6 the 0.967378 a 0.0326225
+align 7 hospital 1
+align 8 was 0.998329 is 0.00106215 it's 0.000609124
+align 9 damaged 0.99994 *DELETE* 5.99695e-05
+align 10 *DELETE* 0.999621 it 0.000265356 damage 5.99695e-05 a 2.43985e-05 in 1.78884e-05 and 8.70165e-06 i 2.26876e-06 uh 1.69139e-11
+align 11 </s> 1

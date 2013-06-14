@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 we're 0.999791 were 0.000208721
+align 2 gonna 0.906183 going 0.0938173
+align 3 *DELETE* 0.906183 to 0.0938173
+align 4 come 1
+align 5 pick 1
+align 6 them 0.985291 him 0.0147094
+align 7 up 1
+align 8 with 1
+align 9 *DELETE* 0.994716 the 0.00428908 a 0.000685803 vehicle 0.00030908
+align 10 vehicles 0.999675 as 0.00030908 vehicle 1.42011e-05 vehicle's 1.52745e-06
+align 11 *DELETE* 0.999986 as 1.42011e-05
+align 12 and 1
+align 13 take 1
+align 14 them 0.992051 him 0.00794946
+align 15 back 1
+align 16 to 1
+align 17 our 1
+align 18 uh 1
+align 19 *DELETE* 0.904019 uh 0.0495882 a 0.0236491 fob 0.0120567 fall 0.0106866
+align 20 off 0.425629 father 0.28593 fault 0.22673 follow 0.0335023 to 0.0121343 *DELETE* 0.00795635 father's 0.00286462 but 0.0016165 fob 0.00123776 fall 0.000885733 bit 0.000503425 fathers 0.000476947 blue 0.000201846 this 0.000177776 it 9.83863e-05 a 4.90844e-05 his 5.58304e-06
+align 21 *DELETE* 0.574371 all 0.425629
+align 22 *DELETE* 0.335932 was 0.203767 the 0.175399 been 0.161866 bad 0.0447493 but 0.03329 that 0.023382 is 0.0121287 blue 0.00567178 it 0.00252528 to 0.00123741 bit 4.85539e-05 this 2.67478e-06 his 3.54138e-07
+align 23 so 0.946315 this 0.0275549 sew 0.0137083 *DELETE* 0.0113554 soul 0.000930033 sold 0.000133544 with 2.54267e-06
+align 24 *DELETE* 0.961087 soap 0.032733 so 0.00617984
+align 25 for 0.989417 or 0.0104286 four 0.00015328 pour 1.39821e-06
+align 26 questioning 1
+align 27 </s> 1

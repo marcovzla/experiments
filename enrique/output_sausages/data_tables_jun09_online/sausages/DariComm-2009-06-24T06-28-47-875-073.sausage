@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 has 1
+align 2 there 1
+align 3 been 1
+align 4 an 1
+align 5 increase 1
+align 6 and 0.708628 in 0.291372
+align 7 patients 0.956043 patient's 0.0376398 patients' 0.00549933 patience 0.000818322
+align 8 in 1
+align 9 the 1
+align 10 past 1
+align 11 twelve 0.998042 two 0.0019576 to 1.70091e-12
+align 12 *DELETE* 0.998042 of 0.0019576
+align 13 years 0.999942 use 5.78966e-05 *DELETE* 2.94422e-15
+align 14 *DELETE* 0.999962 i 2.79869e-05 uh 1.03925e-05 you 1.94072e-09 yours 6.51964e-12 now 1.98869e-12
+align 15 </s> 1

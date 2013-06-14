@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 need 1
+align 3 you 1
+align 4 to 1
+align 5 get 1
+align 6 out 1
+align 7 of 1
+align 8 the 1
+align 9 vehicle 1
+align 10 or 1
+align 11 be 0.999193 b 0.000807323
+align 12 taken 0.999997 taking 2.60047e-06
+align 13 out 1
+align 14 *DELETE* 0.999964 uh 3.46421e-05 of 1.82508e-06
+align 15 </s> 1

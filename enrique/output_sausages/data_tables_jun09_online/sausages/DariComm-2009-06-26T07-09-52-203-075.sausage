@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 i 1.15143e-15
+align 2 do 1
+align 3 we 1
+align 4 have 1
+align 5 to 1
+align 6 talk 1
+align 7 to 1
+align 8 you 0.363755 anybody 0.273778 *DELETE* 0.219484 any 0.142983
+align 9 any 0.583239 *DELETE* 0.416761
+align 10 body 0.726222 *DELETE* 0.273778
+align 11 important 1
+align 12 in 1
+align 13 order 1
+align 14 to 1
+align 15 get 1
+align 16 this 1
+align 17 done 1
+align 18 *DELETE* 0.999942 it 3.37385e-05 uh 1.76772e-05 i 4.82464e-06 that 1.38929e-06 and 2.60558e-07 to 3.28432e-12
+align 19 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 do 0.999944 then 5.61775e-05
+align 2 we 1
+align 3 know 1
+align 4 if 1
+align 5 he's 0.992118 these 0.00557711 peace 0.00230532
+align 6 towards 0.972868 toward 0.0255309 twas 0.0016006
+align 7 the 1
+align 8 end 1
+align 9 of 1
+align 10 the 1
+align 11 street 1
+align 12 or 1
+align 13 towards 0.85691 twas 0.14309
+align 14 the 1
+align 15 middle 1
+align 16 of 1
+align 17 the 1
+align 18 street 0.999972 streets 2.77594e-05
+align 19 *DELETE* 0.999994 uh 5.9286e-06
+align 20 </s> 1

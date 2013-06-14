@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 think 1
+align 4 you'll 0.833593 you 0.164757 he'll 0.00165
+align 5 make 1
+align 6 a 1
+align 7 full 1
+align 8 recovery 1
+align 9 *DELETE* 0.92965 you 0.0701572 if 0.000120993 it 6.45455e-05 uh 6.75031e-06
+align 10 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999246 if 0.000754196
+align 2 so 1
+align 3 i 0.986296 uh 0.0124927 *DELETE* 0.0012115
+align 4 *DELETE* 0.982867 i 0.0171326
+align 5 will 0.998788 i'll 0.0012115
+align 6 see 1
+align 7 you 1
+align 8 uh 0.953681 well 0.0463192
+align 9 once 0.917662 want 0.0763525 uh 0.00598556
+align 10 *DELETE* 0.994014 once 0.00598556
+align 11 you 0.965204 to 0.0347956
+align 12 go 1
+align 13 ahead 1
+align 14 and 1
+align 15 go 1
+align 16 with 0.943897 we 0.0349684 at 0.0185278 which 0.00134737 over 0.000968592 it 0.000225818 each 2.79651e-05 it's 2.71895e-05 in 9.59979e-06 wheat 1.54864e-09 *DELETE* 5.4134e-10
+align 17 your 0.943947 two 0.0375225 him 0.00684391 you 0.00530326 *DELETE* 0.00221232 to 0.00161306 turn 0.000847264 are 0.000743647 of 0.000420845 too 0.000304392 term 8.34139e-05 were 7.63474e-05 or 4.19603e-05 i'm 2.54313e-05 you're 1.48778e-05 tomb 3.71558e-09 chew 6.67601e-10 return 3.59398e-11 into 7.75251e-16
+align 18 men 0.985793 in 0.00699544 man 0.00306625 german 0.00193771 mean 0.000810728 and 0.000789014 turning 0.000162065 main 0.000149388 me 0.000122924 remain 6.71013e-05 many 5.57492e-05 human 4.52202e-05 then 4.78929e-06 mayor 4.33121e-07 returning 2.22688e-07 it 4.34218e-08 terminal 5.62898e-11 remained 2.94711e-11 amir 7.84306e-14
+align 19 *DELETE* 0.999998 uh 1.67077e-06
+align 20 </s> 1

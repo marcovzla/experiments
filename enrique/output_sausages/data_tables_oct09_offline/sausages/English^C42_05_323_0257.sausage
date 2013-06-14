@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 excellent 1
+align 2 uh 0.565627 um 0.434373
+align 3 i 0.575937 hider 0.424063
+align 4 dear 0.495326 *DELETE* 0.424063 dare 0.0806115
+align 5 it's 1
+align 6 a 1
+align 7 pleasure 1
+align 8 to 1
+align 9 meet 1
+align 10 you 1
+align 11 *DELETE* 0.997356 uh 0.002637 i 7.47566e-06
+align 12 </s> 1

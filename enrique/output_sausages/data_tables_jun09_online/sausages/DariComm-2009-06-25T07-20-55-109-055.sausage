@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we're 0.992708 we 0.0044557 were 0.00283609
+align 2 *DELETE* 0.995544 are 0.0044557
+align 3 trying 1
+align 4 to 1
+align 5 take 1
+align 6 care 1
+align 7 of 0.999999 *DELETE* 9.52056e-10
+align 8 it 0.994039 that 0.00593414 *DELETE* 2.6671e-05
+align 9 *DELETE* 0.999497 uh 0.000473644 the 2.42946e-05 i 5.18458e-06 all 6.50732e-08
+align 10 </s> 1

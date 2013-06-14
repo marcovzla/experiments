@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 advise 1
+align 4 you 1
+align 5 when 0.956569 went 0.0225411 one 0.02089
+align 6 our 0.941701 armed 0.0394695 are 0.0188291
+align 7 men 1
+align 8 are 1
+align 9 in 0.999757 and 0.000188009 *DELETE* 5.52918e-05
+align 10 and 1.00004
+align 11 *DELETE* 0.999985 then 1.4776e-05
+align 12 out 1
+align 13 of 1
+align 14 the 0.997008 that 0.00299189
+align 15 village 1
+align 16 *DELETE* 0.999968 uh 3.17966e-05 i 5.93648e-08 do 6.2509e-09 in 1.7913e-10 you 7.52166e-13
+align 17 </s> 1

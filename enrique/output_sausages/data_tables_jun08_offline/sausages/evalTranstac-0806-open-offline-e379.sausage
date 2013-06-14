@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 why 1
+align 3 we 1
+align 4 take 0.794928 catch 0.166381 chose 0.0245978 took 0.00925576 can't 0.00258952 touch 0.00133815 *DELETE* 0.000883084 try 2.71576e-05
+align 5 you 0.998867 continue 0.000883084 he 0.000222653 to 2.71576e-05
+align 6 to 0.999995 do 4.37087e-06 they 4.3891e-07
+align 7 go 1
+align 8 on 0.965155 in 0.0348445
+align 9 these 0.964124 this 0.0358759
+align 10 patrols 0.964124 patrol 0.0358759
+align 11 so 0.999976 or 2.38637e-05
+align 12 we 1
+align 13 can 1
+align 14 make 1
+align 15 sure 1
+align 16 that 1
+align 17 we 1
+align 18 have 1
+align 19 up-to-date 0.984697 up 0.0116565 *DELETE* 0.0035522 all 9.46549e-05
+align 20 *DELETE* 0.986179 the 0.0117078 a 0.00206967 to 4.32942e-05
+align 21 *DELETE* 0.984725 date 0.0117225 up-to-date 0.00202834 update 0.00148253 up 4.13262e-05
+align 22 *DELETE* 0.999959 the 4.13262e-05
+align 23 *DELETE* 0.99993 date 4.13262e-05 data 2.85902e-05
+align 24 information 0.999995 informations 4.93269e-06
+align 25 *DELETE* 1 i 8.66389e-08
+align 26 </s> 1

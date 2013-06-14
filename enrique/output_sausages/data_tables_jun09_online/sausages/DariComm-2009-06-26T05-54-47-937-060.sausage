@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 you 1
+align 3 *DELETE* 0.997889 you 0.00211129
+align 4 treat 1
+align 5 the 1
+align 6 animals 1
+align 7 *DELETE* 0.999928 uh 4.90017e-05 i 1.85441e-05 and 4.31642e-06 to 7.72839e-08 do 2.49595e-09 in 1.29664e-09 it 1.59231e-12 are 3.20507e-13 okay 1.27569e-30
+align 8 </s> 1

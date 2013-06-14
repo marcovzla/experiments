@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 where 1 what 3.16075e-08
+align 2 do 0.999664 *DELETE* 0.00033566
+align 3 you 1
+align 4 work 1
+align 5 </s> 1

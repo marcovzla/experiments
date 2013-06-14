@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 one 1
+align 3 of 1
+align 4 the 1
+align 5 most 1
+align 6 important 1
+align 7 uh 0.896437 no 0.0878923 know 0.0132843 notes 0.00238667
+align 8 *DELETE* 0.840414 uh 0.0858444 it's 0.0730675 at 0.000550424 a 9.86759e-05 i 2.50984e-05
+align 9 things 0.572904 thing 0.357734 it's 0.0664887 *DELETE* 0.00279843 thanks 7.51387e-05
+align 10 *DELETE* 0.930359 things 0.0692871 we 0.000354267
+align 11 swim 0.346653 went 0.319341 when 0.299453 win 0.0202852 swing 0.00715144 *DELETE* 0.00392874 where 0.00105004 wind 0.000961728 way 0.00082093 have 0.000354267
+align 12 *DELETE* 0.955244 it 0.024509 i'm 0.0201275 i 0.000119453
+align 13 when 0.955881 one 0.0335371 went 0.00536542 swindling 0.00392874 win 0.00128726
+align 14 doing 1
+align 15 a 0.98315 uh 0.0160866 *DELETE* 0.000763097
+align 16 v._c._p. 0.957757 *DELETE* 0.0253933 uh 0.0168497
+align 17 is 0.957757 v._c._p.s 0.042243
+align 18 that 1
+align 19 three 1
+align 20 hundred 1
+align 21 and 1
+align 22 sixty 1
+align 23 degrees 0.999872 degree 7.80954e-05 duties 5.03595e-05
+align 24 *DELETE* 0.999922 is 7.80954e-05
+align 25 to 0.999378 the 0.00062159
+align 26 sick 0.695298 *DELETE* 0.287027 seek 0.017224 stay 0.00028677 see 0.000164609
+align 27 uh 0.360234 stick 0.209444 *DELETE* 0.193053 of 0.0927732 secure 0.0474591 a 0.0316265 as 0.0281468 sig 0.0132923 six 0.0127726 is 0.00760731 say 0.00359039
+align 28 *DELETE* 0.981595 i 0.00668098 can 0.00404177 you 0.00235248 in 0.00214502 us 0.00119846 it 0.000791102 at 0.000599182 second 0.000458083 and 6.47519e-05 if 6.34555e-05 sickest 9.78912e-06
+align 29 security 0.993633 securities 0.00626276 security's 7.44525e-05 insecurity 3.02746e-05
+align 30 *DELETE* 0.999966 uh 2.25568e-05 you 3.58361e-06 thing 3.46515e-06 i 2.18612e-06 he 2.02658e-06 to 3.08471e-07 in 1.95608e-07 him 8.89596e-08 can 5.86287e-08 who 3.40819e-09 is 2.08367e-09 and 1.00107e-11 so 4.81177e-12
+align 31 </s> 1

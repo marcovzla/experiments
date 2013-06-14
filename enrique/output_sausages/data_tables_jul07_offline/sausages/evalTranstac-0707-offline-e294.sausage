@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 you 0.999984 you'd 1.63797e-05
+align 2 need 1
+align 3 to 1
+align 4 continue 1
+align 5 looking 1
+align 6 that 1
+align 7 way 1
+align 8 and 1
+align 9 that 1
+align 10 way 1
+align 11 only 0.99238 i 0.00755765 uh 6.22534e-05
+align 12 *DELETE* 0.992318 only 0.0076199 i 4.64303e-05 uh 1.31405e-05 a 2.1384e-06 at 4.2249e-10
+align 13 </s> 1

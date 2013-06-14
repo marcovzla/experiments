@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 explain 1
+align 3 how 1
+align 4 to 0.894466 can 0.0883087 could 0.0172249
+align 5 put 1
+align 6 this 0.824804 his 0.175196
+align 7 bandage 1
+align 8 on 1
+align 9 his 1
+align 10 arm 0.825242 own 0.174648 *DELETE* 0.000110092 is 4.50613e-16
+align 11 *DELETE* 0.825781 arm 0.158166 armed 0.010001 army 0.00583035 are 0.000110134 all 9.0724e-05 on 1.93676e-05 arms 8.90381e-07 i 4.6118e-08 at 1.42846e-08 and 7.86772e-11 aren't 5.09042e-11 it 9.55545e-12 uh 6.58565e-15
+align 12 </s> 1

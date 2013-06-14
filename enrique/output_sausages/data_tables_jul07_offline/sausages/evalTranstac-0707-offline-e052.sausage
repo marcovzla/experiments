@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 we'll 1
+align 3 give 1
+align 4 you 1
+align 5 a 1
+align 6 receipt 1
+align 7 uh 1
+align 8 *DELETE* 0.892351 uh 0.107134 i 0.000476375 a 2.04022e-05 oh 1.80376e-05 do 2.97535e-14 to 4.31196e-15
+align 9 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 do 0.98684 and 0.0131602
+align 2 *DELETE* 0.991368 do 0.00863198
+align 3 you 1
+align 4 have 1
+align 5 many 1
+align 6 uh 1
+align 7 sick 1
+align 8 people 1
+align 9 here 0.99989 hear 0.00011043
+align 10 in 0.999972 and 2.78928e-05
+align 11 the 1
+align 12 local 1
+align 13 area 1
+align 14 or 0.997145 are 0.00285459
+align 15 people 1
+align 16 that 1
+align 17 need 0.999628 *DELETE* 0.000372064
+align 18 attention 0.999144 to 0.000386229 needed 0.000372064 a 9.37557e-05 it 3.46493e-06
+align 19 *DELETE* 0.999144 tension 0.000840542 attention 1.49719e-05 i 4.69856e-08
+align 20 </s> 1

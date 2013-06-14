@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 0.966953 *DELETE* 0.0330472
+align 2 there 0.949 has 0.0330472 *DELETE* 0.0179529
+align 3 any 1
+align 4 other 1
+align 5 problems 1
+align 6 besides 1 beside 3.11737e-07
+align 7 that 0.994396 the 0.00417471 *DELETE* 0.00142916
+align 8 *DELETE* 0.988012 uh 0.00678659 i 0.0023272 at 0.00118127 back 0.000612509 there 0.000440852 but 0.000218654 bat 0.000157145 you 0.000101633 the 4.65636e-05 if 4.49462e-05 sir 3.87016e-05 a 2.02725e-05 we 3.66095e-06 um 3.61669e-06 in 1.61771e-06 it 9.02637e-07 i'm 7.85268e-07 that 4.33236e-07 is 1.80484e-07 so 8.97524e-08 to 3.88596e-08 do 3.59122e-08 would 9.12517e-10 are 1.0393e-17
+align 9 </s> 1

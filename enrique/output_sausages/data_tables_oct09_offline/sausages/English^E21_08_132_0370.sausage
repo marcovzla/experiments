@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 now 0.989026 no 0.0109739
+align 2 to 0.958091 the 0.0300868 uh 0.0101417 they 0.00168007
+align 3 bring 0.987755 *DELETE* 0.0122451
+align 4 in 0.986124 bringing 0.0122451 *DELETE* 0.00163109
+align 5 uh 0.924368 that 0.0623055 as 0.0108678 it 0.00142978 the 0.000810704 and 0.000201305 *DELETE* 1.72391e-05
+align 6 *DELETE* 0.992171 is 0.00671097 as 0.00088465 uh 0.000232928
+align 7 civilians 0.926767 uh 0.0551501 as 0.018083
+align 8 *DELETE* 0.926767 civilians 0.0732331
+align 9 of 0.895131 up 0.104869
+align 10 vehicles 0.601733 a 0.394505 an 0.00226598 in 0.00116023 and 0.000336031
+align 11 *DELETE* 0.601733 vehicles 0.398232 vehicle's 3.55303e-05
+align 12 what 1
+align 13 kind 1
+align 14 of 1
+align 15 uh 1
+align 16 uh 0.709381 *DELETE* 0.290619
+align 17 escalation 1
+align 18 of 1
+align 19 force 0.999272 *DELETE* 0.000727955
+align 20 if 0.957171 did 0.0152396 of 0.0104545 is 0.00965307 with 0.00447023 that 0.0021171 forces 0.000727955 as 0.000127104 should 2.03263e-05 it 1.86707e-05
+align 21 *DELETE* 0.999311 do 0.000688924
+align 22 you 1
+align 23 guys 1
+align 24 have 1
+align 25 towards 1
+align 26 uh 1
+align 27 approaching 0.733179 approach 0.265043 *DELETE* 0.00113328 the 0.000639178 uh 6.06817e-06
+align 28 *DELETE* 0.999994 approach 6.06817e-06
+align 29 *DELETE* 0.741729 in 0.203375 of 0.0303572 and 0.0194281 an 0.00196097 approached 0.00113328 you 0.000986191 approaching 0.000620497 your 0.000352014 him 1.95386e-05 approach 1.86806e-05 them 1.79059e-05 vehicle 1.14597e-06
+align 30 *DELETE* 0.999981 and 1.86806e-05
+align 31 vehicles 0.998151 vehicle's 0.00129482 vehicles' 0.00055303 so 1.14597e-06
+align 32 *DELETE* 1 i 3.92784e-07
+align 33 </s> 1

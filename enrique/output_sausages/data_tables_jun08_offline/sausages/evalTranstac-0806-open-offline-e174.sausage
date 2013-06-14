@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 0.973174 *DELETE* 0.0268265
+align 3 is 0.973174 name's 0.0268265
+align 4 sergeant 1
+align 5 freed 0.782653 fried 0.217347
+align 6 been 0.455019 men 0.387144 bin 0.0851632 ben 0.0586112 *DELETE* 0.0140627
+align 7 i 0.797881 *DELETE* 0.109662 uh 0.0783942 then 0.00646883 man 0.0057455 benn 0.00184836
+align 8 am 0.754452 i'm 0.245548
+align 9 asking 1
+align 10 about 1
+align 11 the 1
+align 12 iraqi 1
+align 13 officer 1
+align 14 that 1
+align 15 we 1
+align 16 brought 1
+align 17 in 1 him 3.14832e-08
+align 18 yesterday 1
+align 19 *DELETE* 0.999957 i 4.24623e-05 you 5.11117e-07
+align 20 </s> 1

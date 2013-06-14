@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 about 1
+align 5 the 0.649324 this 0.350676
+align 6 safety 1
+align 7 selector 0.999054 select 0.000805208 *DELETE* 0.000140863
+align 8 *DELETE* 0.998913 or 0.000754152 selecting 0.000140863 i 8.12665e-05 a 5.85592e-05 their 5.10565e-05 uh 1.24498e-06 there 1.57573e-20 are 1.48851e-20 in 4.6943e-21
+align 9 </s> 1

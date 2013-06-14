@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 far 1
+align 3 away 0.997706 way 0.0022936
+align 4 is 1
+align 5 their 0.942448 there 0.0436197 they're 0.0127317 our 0.000835291 there's 0.000274593 theirs 9.07832e-05
+align 6 school 0.999869 schools 0.000130628
+align 7 </s> 1

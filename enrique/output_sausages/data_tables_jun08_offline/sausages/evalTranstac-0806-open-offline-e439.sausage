@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 here 0.997887 hear 0.00206529 year 4.80306e-05
+align 3 if 1
+align 4 you 1
+align 5 look 1
+align 6 on 1
+align 7 a 0.704235 the 0.295765
+align 8 map 1
+align 9 once 0.99536 *DELETE* 0.00464025 wants 8.22326e-09
+align 10 we 0.99536 what's 0.00464025
+align 11 come 0.99536 become 0.00460205 we 3.81959e-05
+align 12 *DELETE* 0.999962 come 3.81959e-05
+align 13 towards 1
+align 14 the 1
+align 15 objective 1
+align 16 area 1
+align 17 we 0.863645 we'll 0.0741187 *DELETE* 0.0622363
+align 18 will 0.925881 *DELETE* 0.0741187
+align 19 stop 1
+align 20 established 0.715511 establish 0.284425 i 6.40051e-05
+align 21 *DELETE* 0.999936 established 6.40051e-05
+align 22 blocking 1
+align 23 positions 1
+align 24 here 0.995765 hear 0.00423457
+align 25 here 1
+align 26 in 0.521446 and 0.478554
+align 27 here 0.999677 hear 0.000323181
+align 28 on 1
+align 29 the 1
+align 30 map 1 mat 2.27356e-10
+align 31 *DELETE* 0.999994 uh 3.9172e-06 i 1.64016e-06 it 1.97567e-08
+align 32 </s> 1

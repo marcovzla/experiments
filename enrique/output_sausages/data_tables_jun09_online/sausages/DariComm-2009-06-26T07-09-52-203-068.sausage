@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 does 1
+align 3 the 1
+align 4 village 1
+align 5 and 0.879273 *DELETE* 0.120727
+align 6 get 1
+align 7 their 0.999998 there 1.93725e-06
+align 8 water 1
+align 9 from 1
+align 10 *DELETE* 0.999878 it 0.000109728 you 1.25459e-05 the 4.3191e-12
+align 11 </s> 1

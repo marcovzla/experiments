@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 i 0.999917 don't 8.32849e-05
+align 2 *DELETE* 0.999996 don't 3.58771e-06
+align 3 want 1
+align 4 you 1
+align 5 to 1
+align 6 search 1
+align 7 a 1
+align 8 given 1
+align 9 um 0.976128 uh 0.023872
+align 10 area 0.994613 i'm 0.00538677
+align 11 *DELETE* 0.994613 area 0.00538677
+align 12 you 1
+align 13 must 1
+align 14 ensure 1
+align 15 the 0.811847 to 0.150173 this 0.0201862 it 0.0147742 *DELETE* 0.00155246 they 0.0014676
+align 16 *DELETE* 0.983673 is 0.00879409 a 0.00753259
+align 17 *DELETE* 0.998448 to 0.00155246
+align 18 search 1
+align 19 everyone 1
+align 20 regardless 1
+align 21 of 1
+align 22 the 0.999973 their 2.69189e-05
+align 23 profile 0.999827 pole 0.000167757 pro 5.34278e-06
+align 24 *DELETE* 0.999822 file 0.0001731 of 4.44872e-06
+align 25 </s> 1

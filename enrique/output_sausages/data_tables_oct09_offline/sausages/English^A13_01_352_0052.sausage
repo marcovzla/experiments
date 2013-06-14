@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 do 1
+align 3 you 1
+align 4 know 1
+align 5 if 0.674581 that 0.178013 what 0.138168 at 0.00923841 it 2.0298e-10
+align 6 this 0.980639 they 0.0193607
+align 7 uh 0.933807 up 0.0461484 sell 0.0193607 upper 0.000683416
+align 8 persons 0.855483 person's 0.114531 person 0.029302 since 0.000388714 says 0.000263633 sends 3.10687e-05
+align 9 *DELETE* 0.970698 is 0.0292395 as 6.25108e-05
+align 10 involved 0.999209 involve 0.000790683
+align 11 in 1
+align 12 any 1
+align 13 insurgent 1
+align 14 activity 0.999768 activities 0.000232019
+align 15 </s> 1

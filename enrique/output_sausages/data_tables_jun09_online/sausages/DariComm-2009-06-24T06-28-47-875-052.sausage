@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 you 0.997021 do 0.00297875
+align 2 *DELETE* 0.997021 you 0.00297875
+align 3 have 1
+align 4 four 0.993523 for 0.00647729
+align 5 nurses 1
+align 6 well 0.552115 or 0.187214 and 0.114492 will 0.0854358 were 0.0333092 we'll 0.0203665 while 0.00512214 *DELETE* 0.0011299 we're 0.000815391
+align 7 *DELETE* 0.866622 a 0.10813 of 0.0127526 the 0.0113253 or 0.000891477 in 0.00020391 have 7.39427e-05
+align 8 five 1
+align 9 nurses 0.999946 nurse 5.09508e-05 *DELETE* 3.31932e-06
+align 10 *DELETE* 0.999798 is 0.000167639 do 1.62306e-05 uh 7.11128e-06 and 6.63717e-06 nurses' 1.81141e-06 nurse's 1.50791e-06 i 5.76111e-07 to 3.95886e-07 a 5.66472e-08 in 8.33309e-09 so 1.18763e-09 the 7.99544e-12 you 2.54864e-12 that 2.07919e-14
+align 11 </s> 1

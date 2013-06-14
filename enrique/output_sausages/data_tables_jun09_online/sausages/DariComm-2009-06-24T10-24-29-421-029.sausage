@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 other 1
+align 3 equipment 1
+align 4 do 1
+align 5 you 1
+align 6 need 1
+align 7 for 1
+align 8 your 1
+align 9 hospital 1
+align 10 *DELETE* 1 i 3.27024e-21
+align 11 </s> 1

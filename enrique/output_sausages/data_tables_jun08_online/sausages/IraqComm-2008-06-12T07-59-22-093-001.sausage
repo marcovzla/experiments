@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 captain 1
+align 7 white 0.989581 want 0.00925668 waheed 0.00114371 wide 1.84115e-05 *DELETE* 1.90334e-22
+align 8 *DELETE* 1 i 4.10295e-09 uh 2.91323e-17 wiped 2.37237e-19
+align 9 </s> 1

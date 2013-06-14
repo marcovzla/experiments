@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 work 0.996041 were 0.00221825 look 0.00146763 worked 0.000273347
+align 5 for 1 four 6.84222e-21
+align 6 you 1
+align 7 *DELETE* 0.996659 you 0.00251349 uh 0.000563836 um 0.000259665 i 3.06964e-06 at 7.48066e-07 to 4.70595e-08 and 3.16609e-10 in 1.64302e-11 on 3.41969e-28
+align 8 </s> 1

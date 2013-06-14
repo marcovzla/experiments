@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 are 0.761519 well 0.157276 but 0.0285737 oh 0.0174093 uh 0.0126092 now 0.0109209 all 0.00800461 or 0.00142388 how 0.00116042 why 0.000404205 by 0.000237457 i 0.000208674 our 0.000147198 okay 3.27788e-05 huh 3.08143e-05 what 2.35591e-05 were 1.68309e-05 may 1.73068e-06 hi 1.89543e-07
+align 2 you 1
+align 3 must 1
+align 4 be 1
+align 5 prepared 1
+align 6 to 1
+align 7 search 0.986768 do 0.0132318
+align 8 *DELETE* 0.986768 search 0.0132318
+align 9 them 1
+align 10 thoroughly 1 curly 3.02759e-15
+align 11 </s> 1

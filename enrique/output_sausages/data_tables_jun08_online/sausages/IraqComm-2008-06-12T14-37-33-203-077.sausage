@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 do 1
+align 3 these 1
+align 4 insurgents 1
+align 5 attack 0.97848 uh 0.0146219 *DELETE* 0.006898
+align 6 *DELETE* 0.97848 attack 0.0146219 attacked 0.006898 a 3.28392e-09 i 3.10231e-14 tack 5.50691e-25
+align 7 </s> 1

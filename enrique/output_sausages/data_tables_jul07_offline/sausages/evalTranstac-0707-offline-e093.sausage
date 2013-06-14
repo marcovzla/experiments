@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 uh 0.717572 i 0.158162 and 0.0606412 *DELETE* 0.0410188 um 0.0226064
+align 2 i 0.979681 uh 0.0163004 *DELETE* 0.00401864
+align 3 *DELETE* 0.653848 i 0.346152
+align 4 *DELETE* 0.984721 i 0.0152794
+align 5 i 1.01097
+align 6 *DELETE* 0.993249 i 0.00675096
+align 7 know 0.999995 *DELETE* 4.96903e-06
+align 8 it 0.927226 *DELETE* 0.0727575 a 1.02583e-05 no 4.96903e-06 what 8.55176e-07
+align 9 takes 1
+align 10 a 1
+align 11 long 1
+align 12 time 1
+align 13 *DELETE* 0.999995 uh 3.77439e-06 i 1.33622e-06
+align 14 </s> 1

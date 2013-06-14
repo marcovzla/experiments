@@ -1,0 +1,45 @@
+numaligns 43
+posterior 1
+align 0 <s> 1
+align 1 all 0.86531 *DELETE* 0.10383 oh 0.0118245 we're 0.00985495 a 0.0091803
+align 2 right 0.900251 alright 0.0951494 *DELETE* 0.00250564 i 0.00209375
+align 3 get 0.47135 did 0.412315 *DELETE* 0.0719008 it 0.0444344
+align 4 to 0.693524 uh 0.235008 the 0.0580685 *DELETE* 0.00880074 correct 0.00250564 write 0.00209375
+align 5 *DELETE* 0.638931 it 0.361069
+align 6 *DELETE* 0.566626 do 0.305401 uh 0.0715729 did 0.0557476 to 0.000652256
+align 7 it 1.53164 didn't 0.0252963 good 0.00256542 a 0.000786583 day 7.8325e-05 at 1.68659e-05
+align 8 *DELETE* 0.763282 do 0.102799 did 0.0801713 good 0.0418923 didn't 0.0107735 to 0.00103031 day 5.10166e-05
+align 9 what 0.999393 when 0.000606573
+align 10 i 1
+align 11 said 1
+align 12 before 1
+align 13 it 1
+align 14 develops 1
+align 15 good 0.975139 could 0.0248608
+align 16 *DELETE* 0.976738 have 0.0232622
+align 17 habits 0.976738 its 0.0152848 it's 0.00797738
+align 18 whether 0.986757 weather 0.0132428
+align 19 it's 0.997803 its 0.00219721
+align 20 on 1
+align 21 loaded 0.996834 looted 0.00316618
+align 22 or 0.55338 it 0.445209 of 0.00130944 in 7.02783e-05 to 3.16464e-05
+align 23 *DELETE* 0.55338 or 0.444571 were 0.00204911
+align 24 loaded 0.894512 load 0.105488
+align 25 it 0.466309 *DELETE* 0.386904 that 0.13742 in 0.00936723
+align 26 that 0.86258 *DELETE* 0.13742
+align 27 way 0.998458 we 0.00154202
+align 28 you 1
+align 29 never 1
+align 30 take 1
+align 31 any 1
+align 32 chances 0.993211 chance 0.0067887
+align 33 *DELETE* 0.993211 is 0.0067887
+align 34 and 0.758767 in 0.239486 on 0.00170485 spend 3.15481e-05 an 1.1147e-05
+align 35 that 1
+align 36 way 1
+align 37 *DELETE* 0.77056 there 0.22944
+align 38 there's 0.77056 is 0.22944
+align 39 no 1 nama 1.37979e-14
+align 40 mistakes 1 miss 5.04238e-13 stakes 1.37979e-14
+align 41 *DELETE* 1 takes 5.04238e-13
+align 42 </s> 1

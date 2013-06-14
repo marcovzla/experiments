@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.587683 well 0.41009 will 0.0022272
+align 2 uh 1
+align 3 we'll 0.989328 will 0.0106722
+align 4 work 1
+align 5 on 1
+align 6 that 1
+align 7 *DELETE* 0.999985 uh 1.48782e-05
+align 8 </s> 1

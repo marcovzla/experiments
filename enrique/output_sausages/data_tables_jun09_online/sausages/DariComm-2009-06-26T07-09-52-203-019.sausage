@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.996814 where 0.00287955 well 0.000215265 why 5.04739e-05 would 4.06959e-05 when 2.1395e-11
+align 2 do 1
+align 3 you 1
+align 4 do 1
+align 5 for 1
+align 6 a 1
+align 7 living 1
+align 8 *DELETE* 0.999995 in 5.32228e-06 sir 4.62198e-09
+align 9 </s> 1

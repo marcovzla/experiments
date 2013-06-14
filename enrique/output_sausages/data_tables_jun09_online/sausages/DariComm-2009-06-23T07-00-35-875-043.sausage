@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 say 1
+align 4 again 0.999986 *DELETE* 1.41268e-05
+align 5 *DELETE* 0.999553 uh 0.0002589 i 0.000118083 in 7.03925e-05 if 3.88483e-16 it 1.4885e-26
+align 6 *DELETE* 0.999986 can 1.41268e-05 can't 3.32707e-11
+align 7 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 people 1
+align 3 were 0.710882 or 0.289118
+align 4 around 1
+align 5 the 1
+align 6 area 1
+align 7 you're 1
+align 8 supposed 0.999795 *DELETE* 0.000205
+align 9 to 0.999795 suppose 0.000205
+align 10 be 1
+align 11 protecting 0.999556 *DELETE* 0.000443715
+align 12 *DELETE* 0.993512 you 0.00562524 protected 0.000443715 them 0.000163616 it 0.000115885 us 5.88695e-05 uh 4.13564e-05 the 2.24381e-05 i 1.46507e-05 him 2.17561e-06 in 1.85295e-15 and 8.55321e-19
+align 13 </s> 1

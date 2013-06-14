@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.909624 uh 0.0903764
+align 2 um 0.914521 and 0.0756138 i'm 0.00922534 in 0.00043654 *DELETE* 0.000156839 do 4.60257e-05
+align 3 he 0.944922 you 0.051268 and 0.00338834 do 0.000421771
+align 4 *DELETE* 0.99619 he 0.00338834 you 0.000421771
+align 5 should 0.711006 sure 0.288994
+align 6 they 0.61602 i 0.35995 a 0.0194537 it 0.00238642 *DELETE* 0.00152362 the 0.000496374 have 0.000169532
+align 7 had 0.998476 ahead 0.00152362
+align 8 some 1
+align 9 sort 1
+align 10 of 1
+align 11 uh 1
+align 12 um 1
+align 13 either 0.630557 be 0.313936 you 0.0261647 neither 0.0156582 me 0.00546344 uh 0.00500685 b 0.000836003 a 0.000792582 i 0.000522533 the 0.000405156 any 0.000281679 we 0.000243039 he 9.82019e-05 if 3.47677e-05
+align 14 *DELETE* 0.646215 there 0.332236 their 0.0101356 either 0.00776928 they're 0.00364401
+align 15 by 0.903858 buy 0.0961418
+align 16 it 0.692245 *DELETE* 0.210342 eight 0.0793366 are 0.0180766
+align 17 are 0.806616 eaters 0.137602 air 0.0287718 *DELETE* 0.0180766 our 0.00893368
+align 18 staying 1
+align 19 um 1
+align 20 some 1
+align 21 *DELETE* 0.654781 of 0.345219
+align 22 other 0.654781 the 0.345219
+align 23 marines 0.999139 marine's 0.000860808
+align 24 brought 1
+align 25 him 1
+align 26 in 0.998471 and 0.00087277 man 0.000526712 men 8.55311e-05 then 2.47113e-05 n 1.88037e-05 end 5.57425e-11 *DELETE* 1.81824e-21
+align 27 *DELETE* 1 a 1.66328e-15 an 1.16447e-18 any 2.60214e-20
+align 28 </s> 1

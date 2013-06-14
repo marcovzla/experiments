@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 the 1
+align 3 first 1
+align 4 thing 1
+align 5 i'll 0.998609 all 0.00139099
+align 6 go 1
+align 7 over 0.856964 or 0.139744 our 0.00254694 hour 0.000509515 lower 0.000235128
+align 8 is 0.997586 as 0.00241385
+align 9 what 0.993112 so 0.00343919 it 0.00260875 when 0.000840381
+align 10 we 1
+align 11 call 1
+align 12 it 0.787482 the 0.118282 that 0.0735606 a 0.0205957 *DELETE* 8.00408e-05
+align 13 a._b._c.s 0.708715 a 0.283508 a._b. 0.00383527 he 0.00357522 abi 0.000366096
+align 14 *DELETE* 0.776616 b 0.118886 be 0.104497
+align 15 *DELETE* 0.843649 c 0.10608 bee 0.0490004 bea 0.00127073
+align 16 *DELETE* 0.708715 ease 0.101914 sees 0.0946369 seize 0.069506 a._b._c.s 0.0134285 seeds 0.00695571 is 0.00210012 use 0.00151862 seized 0.000677437 he's 0.000547361
+align 17 </s> 1

@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 well 0.831263 we'll 0.145883 will 0.0201652 what 0.00268873
+align 2 we'll 0.919903 would 0.0317373 what 0.0263037 will 0.0220561
+align 3 do 1
+align 4 is 0.949172 it's 0.0431511 its 0.00606695 this 0.00161036
+align 5 uh 1
+align 6 we'll 0.994854 uh 0.00499112 well 8.36296e-05 what 7.12974e-05
+align 7 *DELETE* 0.995009 we'll 0.00489028 what 9.96568e-05 well 1.17866e-06
+align 8 we'll 1
+align 9 take 1
+align 10 a 1
+align 11 break 1
+align 12 and 1
+align 13 uh 1
+align 14 uh 0.98094 um 0.0190596
+align 15 chiefs 0.472456 chief 0.439818 chief's 0.0758949 a 0.00640987 to 0.00363289 achieve 0.00141262 uh 0.000376408
+align 16 *DELETE* 1 to 3.15552e-07
+align 17 *DELETE* 0.989581 chief 0.0102155 chiefs 0.000182575 chief's 2.1143e-05
+align 18 smith 1
+align 19 he's 0.972136 it's 0.0129661 is 0.0103542 has 0.0045437
+align 20 got 1
+align 21 the 1 a 1.40957e-19
+align 22 next 1
+align 23 period 1 purity 3.95377e-09
+align 24 of 0.999523 *DELETE* 0.000476853
+align 25 instruction 1
+align 26 </s> 1

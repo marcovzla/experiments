@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 0.996997 *DELETE* 0.0030029
+align 2 *DELETE* 0.997481 i 0.00251902
+align 3 have 0.996997 i've 0.0030029
+align 4 been 1
+align 5 assigned 1
+align 6 to 1
+align 7 help 1
+align 8 with 1 *DELETE* 2.01031e-20
+align 9 *DELETE* 0.684123 the 0.294253 three 0.0216247 would 2.66915e-16
+align 10 reconstruction 0.978375 construction 0.0216247
+align 11 *DELETE* 0.999999 of 4.87059e-07 and 1.9139e-07 in 1.37819e-09 i 2.56138e-11 a 5.30648e-14
+align 12 </s> 1

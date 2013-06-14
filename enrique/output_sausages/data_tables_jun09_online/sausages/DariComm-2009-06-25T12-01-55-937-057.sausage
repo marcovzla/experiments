@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 direction 1
+align 3 has 1
+align 4 the 1
+align 5 happiest 0.982479 heavy 0.017521
+align 6 *DELETE* 0.982479 just 0.017521
+align 7 traffic 1
+align 8 coming 1
+align 9 over 1
+align 10 the 1
+align 11 bridge 1
+align 12 *DELETE* 0.999525 uh 0.000449872 is 2.21204e-05 i 3.43471e-06 it 5.49632e-12
+align 13 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 peter 1
+align 2 play 0.925284 plea 0.0733415 way 0.00137468
+align 3 instructions 1
+align 4 *DELETE* 0.99987 i 0.000106368 to 2.03772e-05 and 3.7046e-06 uh 3.79385e-08 in 1.12507e-09 you 3.65228e-10 it 1.41556e-11
+align 5 </s> 1

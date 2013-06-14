@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 0.986406 were 0.0135506 we 4.37744e-05
+align 2 *DELETE* 0.95248 are 0.04752
+align 3 you 1
+align 4 coming 1
+align 5 from 1
+align 6 *DELETE* 1 uh 6.41757e-13
+align 7 </s> 1

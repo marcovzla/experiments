@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 this 0.997178 *DELETE* 0.00282172
+align 2 is 0.997178 missus 0.00282172
+align 3 uh 0.927462 a 0.0725381
+align 4 what 0.447502 one 0.367651 *DELETE* 0.184847
+align 5 do 0.446236 of 0.342369 when 0.184847 *DELETE* 0.0251364 are 0.0013582 he 3.92333e-05 the 1.41315e-05
+align 6 you 0.977882 your 0.013912 he 0.00808382 the 0.000161559
+align 7 *DELETE* 0.999467 you 0.000533286
+align 8 lack 0.679314 like 0.0862095 lie 0.0712987 land 0.0622193 lived 0.058866 live 0.027067 line 0.0121998 latin 0.00236446 lined 0.000449286 lives 1.22843e-05
+align 9 last 0.988257 glass 0.0112303 and 0.000512465
+align 10 *DELETE* 0.999488 last 0.000512465
+align 11 ways 1
+align 12 to 1
+align 13 stop 1
+align 14 the 1
+align 15 bleeding 1
+align 16 in 0.527933 inside 0.307975 and 0.141355 it's 0.0179472 it 0.00271951 any 0.00207017
+align 17 some 0.633531 *DELETE* 0.289079 of 0.0521028 so 0.0219259 inside 0.00229302 out 0.00106857
+align 18 pretty 0.983672 supreme 0.0163278
+align 19 much 0.983672 us 0.0163278
+align 20 that 0.992659 tap 0.00734078
+align 21 patients 0.92953 patient's 0.0594051 patients' 0.00772357 patience 0.00334098
+align 22 well 0.866796 what 0.0966086 while 0.0289564 when 0.00633508 or 0.00130357 will 6.54085e-10
+align 23 one 0.797412 when 0.135292 won 0.0589887 what 0.00432943 *DELETE* 0.00397754
+align 24 the 0.973251 of 0.0128043 uh 0.00693098 that 0.00277608 whether 0.00180209 weather 0.00176753 wonder 0.000407919 to 0.00025971
+align 25 last 0.998619 less 0.000903889 *DELETE* 0.000477235
+align 26 hopes 0.422586 *DELETE* 0.421411 hope 0.121205 health 0.0252805 holds 0.00412619 helps 0.00249485 host 0.00202526 less 0.000477235 holes 0.000392218 house 1.41671e-06
+align 27 *DELETE* 0.999826 hopes 0.000174485
+align 28 holster 0.415559 to 0.221578 that 0.201813 so 0.146485 of 0.00583022 hosted 0.00441836 holsters 0.00168679 does 0.000978912 the 0.000850388 *DELETE* 0.000447673 at 0.000249529 a 5.26595e-05 also 4.93691e-05
+align 29 that 0.999948 they 5.20355e-05
+align 30 you 1
+align 31 can 1
+align 32 do 1
+align 33 to 1
+align 34 stop 1
+align 35 that 0.999987 *DELETE* 9.78027e-06 the 3.58212e-06
+align 36 *DELETE* 0.999996 uh 3.58212e-06
+align 37 bleeding 1
+align 38 *DELETE* 1 i 3.25125e-08
+align 39 </s> 1

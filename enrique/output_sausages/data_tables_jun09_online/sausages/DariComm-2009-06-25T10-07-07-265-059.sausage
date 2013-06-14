@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999975 i 2.4873e-05
+align 2 say 1
+align 3 again 1
+align 4 *DELETE* 0.999993 i 5.4419e-06 uh 1.32945e-06
+align 5 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 0.91409 we'll 0.0613633 will 0.0224135 well 0.00121001 oh 0.000923123
+align 2 could 0.810942 good 0.186726 did 0.00124354 would 0.00108855
+align 3 the 0.6098 uh 0.331659 *DELETE* 0.0585401
+align 4 *DELETE* 0.624516 i'm 0.316943 um 0.0585401
+align 5 weapons 0.403231 weapon's 0.348801 weapon 0.247968
+align 6 safety 1
+align 7 starts 1
+align 8 at 0.999628 that 0.000372464
+align 9 the 0.999676 that 0.000324478
+align 10 command 0.999905 commands 9.49065e-05
+align 11 level 0.998472 to 0.00152754
+align 12 *DELETE* 0.998298 level 0.00152754 i 0.000159822 uh 7.44287e-06 it 5.46372e-06 of 1.87503e-06 a 1.63025e-09 is 5.95845e-10
+align 13 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 describe 0.997018 described 0.00298175
+align 3 the 0.999646 to 0.000318461 *DELETE* 3.59128e-05
+align 4 *DELETE* 0.999646 the 0.000318461 their 3.58687e-05 that 4.41126e-08
+align 5 background 1
+align 6 screening 1
+align 7 process 1
+align 8 *DELETE* 1 it 7.24211e-08 i 2.68305e-13 uh 1.13456e-14
+align 9 </s> 1

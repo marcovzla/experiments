@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 no 0.999254 know 0.000746099
+align 2 *DELETE* 0.998675 i 0.0011994 uh 8.77389e-05 it 3.28455e-05 no 3.93735e-06 a 1.18824e-06
+align 3 </s> 1

@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999988 if 1.19391e-05
+align 2 one 1
+align 3 thing 1
+align 4 that 0.964183 now 0.0294068 their 0.0034393 they're 0.00297109
+align 5 works 0.987282 worse 0.0127177
+align 6 good 1
+align 7 if 0.864158 a 0.0955032 it 0.0403393
+align 8 low 0.599987 floy 0.304201 for 0.0659188 uh 0.0298927
+align 9 you 1
+align 10 had 1
+align 11 of 1
+align 12 intel 1
+align 13 on 1
+align 14 aware 0.984571 uh 0.0122121 now 0.00301219 i'll 0.000174658 a 3.01496e-05
+align 15 *DELETE* 0.999659 uh 0.000340701
+align 16 *DELETE* 0.984571 where 0.0152121 wear 0.000215225 way 1.77348e-06
+align 17 that 1
+align 18 talaban 0.884498 tell 0.115502
+align 19 *DELETE* 0.983119 band 0.0168519 barren 2.94264e-05
+align 20 is 0.901379 by 0.0939503 bani 0.00467026
+align 21 *DELETE* 0.901379 needs 0.0939503 as 0.00467026
+align 22 are 0.339487 all 0.308881 uh 0.280887 by 0.020833 well 0.0205249 how 0.0131395 i 0.00837543 or 0.0034206 my 0.00290868 a 0.00154275
+align 23 you 1
+align 24 can 0.946535 could 0.0534646
+align 25 do 1
+align 26 something 1
+align 27 called 1
+align 28 a 1
+align 29 snap 1
+align 30 v._c._p. 1
+align 31 </s> 1

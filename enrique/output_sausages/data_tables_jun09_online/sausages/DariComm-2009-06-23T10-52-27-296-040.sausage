@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 we 0.99624 *DELETE* 0.00375975
+align 2 will 0.863127 have 0.123294 the 0.00551629 we've 0.00375975 go 0.00271882 *DELETE* 0.00135396 know 0.000230331
+align 3 *DELETE* 0.889719 a 0.110281
+align 4 *DELETE* 0.864395 old 0.13257 to 0.00149013 all 0.00135396 who 0.00019046
+align 5 take 1
+align 6 care 1
+align 7 of 1
+align 8 your 0.708367 you 0.291631 you're 2.12335e-06
+align 9 willing 0.614299 will 0.187034 wound 0.169517 we'll 0.0276801 *DELETE* 0.00146966
+align 10 *DELETE* 0.990009 and 0.00502939 wounds 0.00146957 uh 0.00114881 i 0.000786627 know 0.000449614 only 0.000390538 to 0.000267702 do 0.000263955 be 6.41489e-05 you 6.30118e-05 if 4.00588e-05 it 9.32759e-06 see 5.68945e-06 have 1.89145e-06 i'm 3.28119e-07 go 1.66789e-07 willingly 9.45388e-08 a 6.47686e-08 as 4.45152e-09 we 3.15747e-10 in 2.10103e-10 the 1.39352e-11 on 6.07079e-12 let 4.32043e-12
+align 11 </s> 1

@@ -1,0 +1,54 @@
+numaligns 52
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 first 1
+align 3 i'll 1
+align 4 talk 1
+align 5 about 1
+align 6 the 1
+align 7 uh 1
+align 8 the 0.892833 uh 0.107167
+align 9 *DELETE* 0.892833 the 0.107167
+align 10 equipment 1
+align 11 that 1
+align 12 we're 0.999778 were 0.000221769
+align 13 going 0.947028 *DELETE* 0.0529717
+align 14 to 0.947028 gonna 0.0529717
+align 15 need 1
+align 16 for 1
+align 17 both 0.996708 boast 0.00329243
+align 18 uh 1
+align 19 for 0.98989 four 0.0101103
+align 20 both 1
+align 21 the 1
+align 22 uh 1
+align 23 the 1
+align 24 v._c._p. 1
+align 25 that 0.740483 they 0.222074 there 0.0374427
+align 26 we're 0.591552 were 0.408369 we 7.96712e-05
+align 27 *DELETE* 0.99992 are 7.96712e-05
+align 28 doing 1
+align 29 at 0.914442 *DELETE* 0.083213 out 0.00234543
+align 30 the 0.862949 after 0.083213 a 0.0365925 their 0.0172457
+align 31 recruiting 1
+align 32 center 1
+align 33 and 0.664284 in 0.335716
+align 34 then 0.664284 in 0.335716
+align 35 the 1
+align 36 same 1
+align 37 type 1
+align 38 equipment 1
+align 39 will 0.851914 we'll 0.148076 would 1.0366e-05
+align 40 need 0.994637 be 0.00536323
+align 41 for 1
+align 42 this 1
+align 43 uh 1
+align 44 *DELETE* 0.997232 uh 0.00276822
+align 45 patrol 1
+align 46 we're 0.985464 *DELETE* 0.0138673 were 0.000668319
+align 47 *DELETE* 0.878476 going 0.121524
+align 48 gonna 0.864609 to 0.116206 organ 0.0137708 *DELETE* 0.00541406
+align 49 do 0.816783 be 0.120961 *DELETE* 0.0257413 die 0.0118215 it 0.010597 and 0.00578862 take 0.0026544 in 0.00249329 day 0.000762141 uh 0.000587197 get 0.000481253 did 0.000253972 dig 0.000227503 go 0.000213767 at 0.000173168 due 0.000165208 ordinance 9.65295e-05 into 4.00166e-05 good 3.61463e-05 eat 3.23557e-05 you 2.7627e-05 a 1.89471e-05 guy 1.2144e-05 does 8.11434e-06 pay 5.56183e-06 to 3.43348e-06 they 3.17332e-06 me 2.69292e-06 see 2.4692e-06 give 1.64875e-06 dirt 1.5218e-06 guys 1.08355e-06 the 5.28176e-07 i 4.60108e-07 them 2.38421e-07 have 1.51377e-07 this 5.51032e-08 until 3.99023e-08 um 3.82163e-08 that 3.29768e-08 hit 2.63797e-08 on 2.3293e-08 turn 5.22714e-09 is 3.98354e-09
+align 50 *DELETE* 0.999911 uh 4.7482e-05 you 1.82739e-05 i 1.74762e-05 a 6.06858e-06 it 1.12597e-07 he 3.84358e-08
+align 51 </s> 1

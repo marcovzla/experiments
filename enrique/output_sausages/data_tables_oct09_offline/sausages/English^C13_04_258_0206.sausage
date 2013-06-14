@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 you 0.969528 you're 0.0172594 your 0.0130726 here 0.00014
+align 2 have 0.93843 are 0.031098 a 0.0169554 if 0.0135166
+align 3 to 0.986483 you 0.0135166
+align 4 come 1
+align 5 back 1
+align 6 tomorrow 1
+align 7 or 1
+align 8 you 1
+align 9 can 0.9822 *DELETE* 0.0177995
+align 10 come 0.972521 go 0.0274788
+align 11 back 1
+align 12 next 1
+align 13 week 1
+align 14 </s> 1

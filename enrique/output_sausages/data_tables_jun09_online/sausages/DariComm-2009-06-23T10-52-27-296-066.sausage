@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 you 0.89729 *DELETE* 0.0740945 do 0.0243308 oh 0.00255036 and 0.00104629 if 0.0006885
+align 2 *DELETE* 0.971384 you 0.0286159
+align 3 are 0.890473 you're 0.0740945 you 0.0354325
+align 4 *DELETE* 0.964568 are 0.0354325
+align 5 very 1
+align 6 welcome 1
+align 7 *DELETE* 0.998368 uh 0.00127329 to 0.00024315 in 4.34152e-05 you 3.94099e-05 i 2.8053e-05 and 3.9255e-06 them 5.77341e-07 it 2.62934e-07 sir 1.76342e-09
+align 8 </s> 1

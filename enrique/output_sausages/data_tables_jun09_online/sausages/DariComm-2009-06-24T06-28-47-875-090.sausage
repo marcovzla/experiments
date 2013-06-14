@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 a 0.9926 is 0.00739974
+align 4 shortage 1
+align 5 of 1
+align 6 pain 0.999858 paying 0.000141536
+align 7 medication 1
+align 8 *DELETE* 0.999884 uh 6.5174e-05 i 2.70618e-05 to 2.21457e-05 that 7.51576e-07 it 4.12554e-07 is 4.59816e-08 do 3.05998e-08 at 1.48778e-08 and 2.32172e-10
+align 9 </s> 1

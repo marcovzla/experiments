@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 arrange 1
+align 4 a 1
+align 5 meeting 1
+align 6 with 1
+align 7 him 1
+align 8 *DELETE* 0.999764 uh 0.000145883 i 8.95243e-05 to 1.08822e-07 but 2.74636e-08 up 4.37747e-10 a 8.46628e-12 in 5.18593e-14
+align 9 </s> 1

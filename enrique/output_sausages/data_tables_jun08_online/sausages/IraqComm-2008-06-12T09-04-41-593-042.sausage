@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 the 0.689795 no 0.310184 that 2.1271e-05
+align 2 problem 0.99968 the 0.000319632
+align 3 *DELETE* 0.998842 i'll 0.000545911 problem 0.000319632 how 0.000292209
+align 4 or 0.953218 of 0.0219873 are 0.0120212 i 0.0093691 how 0.00154804 our 0.000823188 i'd 0.000459984 *DELETE* 0.000359464 do 0.000186446 uh 2.68397e-05
+align 5 *DELETE* 0.989083 would 0.00626107 did 0.00386065 had 0.000646341 have 9.18052e-05 do 5.72646e-05
+align 6 any 1
+align 7 school 1
+align 8 employees 0.967875 employees' 0.0190526 employee's 0.0126314 in 0.000440829
+align 9 *DELETE* 0.999559 police 0.000440829
+align 10 involved 0.98453 involves 0.0104728 involve 0.0049974
+align 11 *DELETE* 0.999918 in 5.39832e-05 i 2.58018e-05 a 1.5166e-06 uh 9.12549e-07 at 8.43791e-12 it 1.02815e-20
+align 12 </s> 1

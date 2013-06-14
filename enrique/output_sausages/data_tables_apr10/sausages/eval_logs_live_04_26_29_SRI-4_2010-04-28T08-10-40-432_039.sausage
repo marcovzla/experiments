@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 did 1
+align 3 you 1
+align 4 start 1
+align 5 at 0.999904 of 7.68064e-05 up 1.94197e-05 it 3.32194e-18
+align 6 the 0.998064 a 0.00160145 that 0.00033424
+align 7 hospital 0.999985 hospitals 1.54454e-05
+align 8 </s> 1

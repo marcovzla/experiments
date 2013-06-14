@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 appreciate 1
+align 3 your 1
+align 4 cooperation 1
+align 5 on 0.999877 of 0.00012298
+align 6 this 1
+align 7 matter 0.999559 manner 0.000441251
+align 8 *DELETE* 0.999994 i 5.84815e-06 a 2.66592e-07
+align 9 </s> 1

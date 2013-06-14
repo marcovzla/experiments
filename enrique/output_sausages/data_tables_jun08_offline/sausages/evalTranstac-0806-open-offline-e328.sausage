@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 correct 1
+align 4 so 0.999936 to 6.43725e-05
+align 5 we 1
+align 6 want 1
+align 7 to 0.997484 all 0.00132343 i'll 0.000867106 uh 0.000325721
+align 8 avoid 1
+align 9 if 1
+align 10 there 0.950073 *DELETE* 0.0499272
+align 11 is 0.950073 there's 0.0499272
+align 12 an 0.999988 in 1.22759e-05
+align 13 instruction 0.861672 obstruction 0.138328
+align 14 pushing 1
+align 15 that 1
+align 16 object 1
+align 17 further 1
+align 18 down 1
+align 19 into 1
+align 20 the 1 *DELETE* 3.31444e-12
+align 21 throat 0.991299 threat 0.00738625 throw 0.00118551 through 0.000129414
+align 22 </s> 1

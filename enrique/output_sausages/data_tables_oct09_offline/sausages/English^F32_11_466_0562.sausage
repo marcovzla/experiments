@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 any 0.999339 many 0.000660991
+align 2 questions 1
+align 3 *DELETE* 0.999671 sir 0.000328155 i 1.09255e-06
+align 4 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 job 1
+align 4 pay 0.999844 paid 5.97706e-05 pray 5.67005e-05 pei 3.99126e-05 a 9.45364e-17 i 9.49795e-18
+align 5 well 0.995425 you 0.00326451 it 0.000993314 a 0.000317361
+align 6 *DELETE* 0.995425 well 0.00457518 i 2.12697e-14
+align 7 </s> 1

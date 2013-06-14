@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 for 1
+align 3 the 1
+align 4 vehicle 0.959447 uh 0.0383522 of 0.00220058
+align 5 *DELETE* 0.959447 vehicle 0.0405528
+align 6 control 1
+align 7 point 1
+align 8 and 1
+align 9 also 1
+align 10 an 0.999387 in 0.000612981
+align 11 uh 1
+align 12 and 1
+align 13 uh 0.582496 *DELETE* 0.417504
+align 14 uh 0.968683 *DELETE* 0.0313169
+align 15 pedestrian 1
+align 16 entry 1
+align 17 control 1
+align 18 point 0.999857 points 0.000143107
+align 19 </s> 1

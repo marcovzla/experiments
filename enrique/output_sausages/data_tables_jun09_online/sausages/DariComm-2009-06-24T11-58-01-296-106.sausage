@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 with 1
+align 2 my 0.994312 mom 0.00313506 mob 0.00255294
+align 3 bosses 0.977077 most 0.0157704 now 0.005688 boss 0.000964278 *DELETE* 0.000497249 abbas 2.98713e-06
+align 4 *DELETE* 0.977044 is 0.0161213 says 0.00525761 as 0.000616375 since 0.00043039 boss's 0.000298644 losses 0.000198605 to 3.26253e-05
+align 5 *DELETE* 0.999998 it 1.04428e-06 and 9.29537e-07 i 3.31455e-08 his 7.76118e-09 the 6.67378e-13
+align 6 </s> 1

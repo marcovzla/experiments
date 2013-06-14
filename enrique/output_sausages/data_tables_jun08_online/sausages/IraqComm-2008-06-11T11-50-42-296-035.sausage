@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.999878 with 0.000122226
+align 2 types 1
+align 3 of 1
+align 4 goods 0.999977 good 2.30158e-05
+align 5 are 0.999977 so 2.30158e-05
+align 6 you 0.999983 you're 1.71637e-05 your 3.69236e-09
+align 7 transporting 1
+align 8 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 types 0.986366 type 0.0136343
+align 3 of 1
+align 4 equipment 1
+align 5 do 0.975355 in 0.0246453
+align 6 your 0.751513 you 0.246948 you're 0.00141502 you'd 0.000124461
+align 7 personnel 0.98734 personal 0.0126601
+align 8 have 1
+align 9 at 0.995911 it 0.00408927 that 3.36558e-08
+align 10 this 1
+align 11 time 1
+align 12 *DELETE* 0.99999 i 9.70196e-06 uh 7.47817e-07
+align 13 </s> 1

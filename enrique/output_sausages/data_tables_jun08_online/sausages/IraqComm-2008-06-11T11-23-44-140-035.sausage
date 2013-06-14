@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 has 0.963581 as 0.0364188
+align 2 the 0.999724 a 0.000276013
+align 3 condition 1
+align 4 of 1
+align 5 your 1
+align 6 children 1
+align 7 gotten 0.98513 got 0.014636 god 0.000203599 done 3.06611e-05
+align 8 *DELETE* 0.98516 and 0.00775948 in 0.00638663 an 0.000693516
+align 9 any 1
+align 10 worse 0.999234 worst 0.000765812
+align 11 </s> 1

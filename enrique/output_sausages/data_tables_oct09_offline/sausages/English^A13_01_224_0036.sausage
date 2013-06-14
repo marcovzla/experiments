@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 0.912358 so 0.0876418
+align 3 no 0.548704 now 0.450489 know 0.000407086 not 0.000382245 i 1.7772e-05 and 1.65992e-10
+align 4 *DELETE* 0.999982 know 1.7772e-05 i 1.65992e-10
+align 5 one 0.99816 when 0.00184022 want 1.65992e-10
+align 6 more 0.990712 we're 0.00711594 were 0.00141458 word 0.000505625 one 0.000249724 *DELETE* 6.35671e-11
+align 7 thing 0.990971 paying 0.00886456 pain 0.000161732 working 2.59711e-06
+align 8 *DELETE* 0.997969 uh 0.00187683 i 0.000149322 to 4.43465e-06 the 6.83103e-07
+align 9 </s> 1

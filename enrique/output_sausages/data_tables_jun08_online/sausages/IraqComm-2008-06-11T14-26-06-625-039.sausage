@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 any 1
+align 4 major 1
+align 5 diseases 0.994663 disease 0.00533707
+align 6 *DELETE* 0.994663 is 0.00533707
+align 7 affecting 0.928696 effecting 0.0713045 *DELETE* 2.09084e-18
+align 8 this 0.999439 us 0.000290668 his 0.000169643 that's 0.000100177 miss 2.25962e-07 effectiveness 8.87398e-10 thus 5.02946e-10 as 2.51963e-10
+align 9 town 1
+align 10 *DELETE* 0.999905 uh 9.42028e-05 i 1.23786e-06
+align 11 </s> 1

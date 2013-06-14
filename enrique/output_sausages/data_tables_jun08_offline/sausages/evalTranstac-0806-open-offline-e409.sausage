@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 is 1
+align 3 important 1
+align 4 that 1
+align 5 we 1
+align 6 have 1
+align 7 security 1
+align 8 going 0.98795 growing 0.00719107 go 0.00485893
+align 9 *DELETE* 0.995141 in 0.00165837 it 0.00158128 and 0.00135685 ahead 0.000262435
+align 10 all 1
+align 11 around 1
+align 12 our 0.991468 are 0.00853226
+align 13 patrol 1
+align 14 at 1 out 3.31335e-10
+align 15 all 1
+align 16 times 1
+align 17 </s> 1

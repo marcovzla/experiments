@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 0.997106 they 0.00288155 it 1.28356e-05
+align 2 did 0.635633 do 0.364367
+align 3 not 1
+align 4 understand 1
+align 5 can 1
+align 6 you 1
+align 7 repeat 1
+align 8 that 1
+align 9 *DELETE* 0.999972 i 2.64763e-05 uh 1.67255e-06 is 2.26797e-07 it 6.6484e-11
+align 10 </s> 1

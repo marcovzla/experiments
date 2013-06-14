@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 to 1
+align 2 be 1
+align 3 uh 1
+align 4 to 0.90261 two 0.0946852 too 0.00270525
+align 5 uh 1
+align 6 watch 0.997336 uh 0.00266377
+align 7 *DELETE* 0.997336 watch 0.00266377
+align 8 over 1
+align 9 you 1
+align 10 guys 1
+align 11 and 1
+align 12 to 0.703871 two 0.247782 took 0.0483472
+align 13 uh 0.951653 us 0.0483472
+align 14 soon 0.708351 some 0.206656 to 0.0483472 so 0.0366462
+align 15 uh 1
+align 16 critique 1
+align 17 in 0.80005 and 0.152704 an 0.0174683 you 0.0125755 end 0.00845682 n 0.00486702 can 0.00282226 inn 0.000693953 ian 0.000184524 a 0.000133152 he 3.24108e-05 e 1.1209e-05 your 7.42737e-07 u 2.71322e-13
+align 18 and 0.961655 i'm 0.0128434 name 0.00914018 an 0.00619388 in 0.00275075 named 0.00237257 am 0.00216217 now 0.000724469 uh 0.000697038 i 0.000658749 know 0.000515815 a 0.000285757
+align 19 *DELETE* 0.997118 and 0.00121957 in 0.00100351 am 0.000658749
+align 20 making 1
+align 21 sure 1
+align 22 you 1
+align 23 guys 1
+align 24 are 0.724122 uh 0.275878
+align 25 running 0.598546 run 0.401454 going 1.69347e-13
+align 26 *DELETE* 0.598546 into 0.401453 in 7.38803e-07
+align 27 the 1
+align 28 sickness 0.986344 *DELETE* 0.0120357 v._c._p. 0.00162034
+align 29 *DELETE* 0.997856 us 0.00214432
+align 30 i 0.988488 *DELETE* 0.0115118
+align 31 v._c._p. 1.00052
+align 32 *DELETE* 0.988488 yes 0.00540291 s 0.00401995 as 0.00130173 is 0.000787168
+align 33 *DELETE* 0.988488 i 0.0107246 that 0.000787168
+align 34 *DELETE* 0.988488 v._c._p. 0.0115118
+align 35 correct 0.636368 correctly 0.357615 corrected 0.00336314 correcting 0.00126668 great 0.000681788 curry 0.000660875 greatly 2.68175e-05 currently 1.17033e-05 career 6.53645e-06 crate 7.70551e-09
+align 36 *DELETE* 0.993418 uh 0.00280919 you 0.00182721 it 0.00146504 me 0.000170752 in 9.71718e-05 them 4.56877e-05 if 4.22058e-05 or 3.13095e-05 i 2.64386e-05 way 2.2757e-05 him 1.29667e-05 we 9.27145e-06 there 7.48817e-06 the 5.19307e-06 now 3.12985e-06 too 2.55538e-06 and 2.30529e-06 here 5.6295e-07 of 3.0765e-07 that 2.82247e-07 they 9.08023e-08 a 7.44299e-08 are 1.02706e-08 what 2.48096e-09 like 1.24344e-09 at 6.63275e-10
+align 37 </s> 1

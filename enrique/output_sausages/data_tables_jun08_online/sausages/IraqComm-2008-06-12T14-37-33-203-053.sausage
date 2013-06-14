@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 generators 1
+align 4 *DELETE* 0.999868 do 6.7128e-05 i 5.23177e-05 uh 1.26697e-05
+align 5 </s> 1

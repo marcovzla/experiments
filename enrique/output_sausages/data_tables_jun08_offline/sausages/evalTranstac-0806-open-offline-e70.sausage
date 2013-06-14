@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 approximate 0.984401 approximately 0.015599
+align 2 how 1
+align 3 many 1
+align 4 guards 1
+align 5 are 0.990901 or 0.00896599 *DELETE* 8.73171e-05 our 4.61876e-05
+align 6 armed 0.996061 arm 0.00345789 arms 0.000412371 on 6.6886e-05 aren't 2.11099e-06
+align 7 </s> 1

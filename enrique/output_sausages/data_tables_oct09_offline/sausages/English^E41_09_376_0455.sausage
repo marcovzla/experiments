@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 go 1
+align 2 ahead 1
+align 3 enjoy 0.872169 and 0.0723697 in 0.0506265 an 0.00483433
+align 4 *DELETE* 0.872169 enjoy 0.127831
+align 5 your 0.979641 you 0.0198893 a 0.000469831 you're 1.13407e-11 you'd 8.42613e-13
+align 6 day 1
+align 7 and 0.54436 in 0.45564
+align 8 um 0.924523 uh 0.0754765
+align 9 can 0.874091 i 0.113175 can't 0.00498748 tell 0.00459498 kill 0.00252209 come 0.000629613
+align 10 *DELETE* 0.886825 can 0.113175
+align 11 wait 0.959313 what 0.015663 with 0.0102178 would 0.00799584 wood 0.00508833 wave 0.00106298 weight 0.000658953
+align 12 to 1
+align 13 see 1
+align 14 you 1
+align 15 again 1
+align 16 and 0.917227 in 0.0662206 *DELETE* 0.016552
+align 17 go 1
+align 18 ahead 1
+align 19 no 0.95577 and 0.0411711 know 0.00305932
+align 20 it 0.298608 uh 0.270188 a 0.197651 i 0.119853 *DELETE* 0.068345 teach 0.0453541
+align 21 teach 0.954631 *DELETE* 0.0453687
+align 22 you 0.999985 teachers 1.4622e-05
+align 23 some 0.997484 *DELETE* 0.0025158 so 2.22454e-11
+align 24 more 0.991795 someone 0.00245589 work 0.00136174 off 0.000757512 mall 0.00050171 were 0.000440479 all 0.000431541 or 0.000415289 well 0.000309913 water 0.000252372 oh 0.000238783 uh 0.000224067 one 0.00018742 why 0.000133152 oil 0.000111827 are 7.10067e-05 somewhere 5.93151e-05 law 5.0699e-05 on 4.15589e-05 while 3.99087e-05 wall 3.32675e-05 walk 3.19555e-05 will 2.00827e-05 war 1.48819e-05 mark 9.83785e-06 what 2.54741e-06 wa 2.28062e-06 won't 2.01209e-06 want 1.69232e-06 o 1.16577e-06 somewhat 5.94447e-07 of 1.77882e-07 when 1.34452e-08 we're 2.29539e-10
+align 25 *DELETE* 0.99994 uh 5.98151e-05
+align 26 </s> 1

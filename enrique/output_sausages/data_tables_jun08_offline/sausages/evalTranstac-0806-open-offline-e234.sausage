@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 uh 1
+align 3 what 1
+align 4 sorts 1
+align 5 of 1
+align 6 the 1
+align 7 problems 1
+align 8 are 0.914959 or 0.0367807 they're 0.0227639 there 0.0151244 our 0.0103588 here 1.34086e-05
+align 9 issues 0.995873 issue's 0.00412673
+align 10 have 1
+align 11 you 0.993416 you've 0.00658362
+align 12 been 1
+align 13 seen 0.637644 seeing 0.343833 scene 0.0185226
+align 14 with 1
+align 15 your 0.999633 her 0.000363418 you 3.49706e-06
+align 16 troops 1
+align 17 *DELETE* 0.999884 uh 0.000106976 i 8.52045e-06 to 1.28878e-07
+align 18 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 plan 1
+align 6 for 1
+align 7 recruiting 0.998107 uprooting 0.00189252 agreeing 4.10012e-11
+align 8 doctors 0.971201 doctors' 0.0131342 doctor's 0.0118532 doctor 0.00381114
+align 9 *DELETE* 0.999376 i 0.000264656 uh 0.000241192 you 4.09702e-05 do 3.07533e-05 so 1.78409e-05 to 1.63722e-05 are 9.25011e-06 in 2.40024e-06 now 6.67318e-08 um 1.13864e-08 a 1.85479e-12 on 6.28124e-13 were 2.38726e-13 it 9.63757e-14 and 7.83762e-14 or 4.78406e-14 who 1.84402e-14
+align 10 </s> 1

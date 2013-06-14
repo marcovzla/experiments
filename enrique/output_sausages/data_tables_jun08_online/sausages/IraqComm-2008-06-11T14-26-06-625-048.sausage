@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 it's 0.79118 is 0.154277 if 0.0545427
+align 2 a 0.851042 the 0.139828 that 0.00913077
+align 3 clinic 1
+align 4 able 1
+align 5 to 1
+align 6 handle 1
+align 7 every 0.999954 everything 4.60959e-05
+align 8 everybody 0.999981 every 1.93977e-05
+align 9 *DELETE* 0.999889 i 4.76461e-05 uh 4.40747e-05 body 1.93977e-05 in 9.23636e-12
+align 10 </s> 1

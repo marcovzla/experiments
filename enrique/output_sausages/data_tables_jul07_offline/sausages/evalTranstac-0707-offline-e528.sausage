@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 soldiers 1
+align 4 do 1
+align 5 you 1
+align 6 think 1
+align 7 it 0.758376 you 0.241624
+align 8 would 0.999738 will 0.000262033
+align 9 take 1
+align 10 to 0.820509 the 0.178937 a 0.000553156
+align 11 capture 1
+align 12 them 1
+align 13 and 1
+align 14 try 0.999996 tried 3.66575e-06
+align 15 to 1
+align 16 make 1
+align 17 sure 1
+align 18 they 1
+align 19 don't 0.993475 know 0.00652458
+align 20 want 0.988303 *DELETE* 0.0116973
+align 21 a 0.922331 to 0.0653206 wanna 0.0102953 wander 0.00133332 the 0.000481979 *DELETE* 0.000134733 wonda 3.51203e-05 of 3.4452e-05 wanda 3.36196e-05
+align 22 fight 0.745486 fine 0.114781 front 0.0453782 find 0.0388728 friend 0.0380566 flight 0.00689908 fights 0.00498119 fined 0.0031551 finds 0.00109564 five 0.00102282 *DELETE* 9.97673e-05 effect 9.45221e-05 foot 7.70776e-05
+align 23 *DELETE* 0.999676 it 9.73703e-05 i 6.66823e-05 a 6.02228e-05 fake 5.60767e-05 defined 2.46695e-05 different 1.34122e-05 fund 3.45375e-06 affect 2.12958e-06 uh 3.23972e-07 faked 2.54747e-08 affects 1.2832e-11
+align 24 </s> 1

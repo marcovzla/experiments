@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 we 1
+align 4 will 1
+align 5 be 1
+align 6 able 1
+align 7 to 1
+align 8 provide 1
+align 9 you 1
+align 10 with 1
+align 11 any 0.998827 the 0.00117292
+align 12 *DELETE* 0.998827 any 0.00117292
+align 13 additional 1
+align 14 intelligence 1
+align 15 information 1
+align 16 that 1
+align 17 you're 0.993341 you 0.00436936 *DELETE* 0.00228985
+align 18 *DELETE* 0.993341 are 0.00436936 your 0.00228985
+align 19 requesting 1
+align 20 </s> 1

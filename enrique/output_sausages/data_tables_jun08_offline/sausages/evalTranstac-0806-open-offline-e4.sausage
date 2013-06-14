@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 and 0.817844 in 0.182156
+align 2 *DELETE* 0.533475 this 0.466525
+align 3 is 1
+align 4 this 0.533475 *DELETE* 0.466525
+align 5 the 1
+align 6 is 1
+align 7 this 1
+align 8 the 1
+align 9 first 1
+align 10 time 1
+align 11 you 0.996779 you're 0.00322065
+align 12 telling 0.842759 tell 0.137485 told 0.0197561
+align 13 *DELETE* 0.974161 him 0.0154823 them 0.010357
+align 14 *DELETE* 0.746172 me 0.12814 and 0.106898 that 0.00743483 in 0.00445738 to 0.00368871 do 0.00303665 on 0.000172961
+align 15 you 1
+align 16 informing 0.976881 to 0.0231193
+align 17 *DELETE* 0.976881 informing 0.0231193
+align 18 us 0.994412 uh 0.00558797
+align 19 that 0.997217 but 0.00241415 at 0.000369008
+align 20 these 1
+align 21 weapons 1
+align 22 are 0.999767 of 0.000207826 a 2.52154e-05 in 1.15026e-08
+align 23 missing 1
+align 24 </s> 1

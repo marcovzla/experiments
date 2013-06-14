@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 how 0.984537 i'm 0.0117456 i 0.00371748
+align 3 many 0.984537 in 0.0117456 mean 0.00234474 am 0.00137274
+align 4 *DELETE* 0.998627 in 0.00137274
+align 5 *DELETE* 0.984537 the 0.015463
+align 6 doctors 1
+align 7 do 1
+align 8 you 1
+align 9 have 0.999822 *DELETE* 0.000178407
+align 10 *DELETE* 0.996354 uh 0.00154816 a 0.00144476 it 0.000385971 um 0.000130131 to 6.17018e-05 out 3.90032e-05 the 1.2304e-05 how 9.27291e-06 do 8.4648e-06 that 6.442e-06 in 1.55484e-11 i 1.33185e-11 you 3.10789e-12 owe 2.396e-29
+align 11 </s> 1

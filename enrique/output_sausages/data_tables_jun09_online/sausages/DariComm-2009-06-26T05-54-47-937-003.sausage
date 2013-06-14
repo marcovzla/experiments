@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 morning 0.674177 *DELETE* 0.129316 german 0.10154 are 0.0433632 or 0.0205099 lord 0.00967326 working 0.00839588 mourning 0.00731686 work 0.00409587 our 0.00099012 we're 0.000296378 you 0.00016403 mortar 0.000110719 but 5.0221e-05
+align 2 *DELETE* 0.999417 going 0.000296378 do 0.000286916
+align 3 german 0.763127 rahman 0.133158 *DELETE* 0.102301 to 0.0014138 germ 4.03598e-09
+align 4 *DELETE* 0.997527 german 0.00141379 raman 0.000758646 uh 0.000213408 i 8.49771e-05 loman 1.59219e-06 germans 3.94483e-07 a 3.55358e-07 it 3.43011e-08 learn 5.48479e-09 in 4.03596e-09 and 1.93735e-14 do 7.43642e-16 to 1.85186e-18
+align 5 </s> 1

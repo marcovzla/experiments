@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 please 0.99942 okay 0.000580448
+align 2 *DELETE* 0.99942 is 0.000580387 here's 6.09289e-08 as 5.52737e-13 ways 1.15694e-25
+align 3 repeat 1
+align 4 *DELETE* 0.991826 it 0.00678689 that 0.0011401 i 0.000243457 them 2.17007e-06 uh 1.05943e-06 this 7.20729e-09 the 1.84503e-10
+align 5 </s> 1

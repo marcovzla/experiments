@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 where 1 work 2.4618e-10 i 3.50959e-11
+align 2 can 1 in 2.4618e-10 work 3.50959e-11
+align 3 *DELETE* 1 in 3.50959e-11
+align 4 these 1
+align 5 items 1
+align 6 be 1
+align 7 purchased 0.997243 purchase 0.00275724
+align 8 *DELETE* 0.999529 uh 0.00032588 a 7.14184e-05 it 6.67446e-05 i 5.38304e-06 to 1.46683e-06 if 3.2675e-07 at 7.55938e-08
+align 9 </s> 1

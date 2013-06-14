@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 time 1
+align 3 are 1
+align 4 you 1
+align 5 supposed 1
+align 6 to 1
+align 7 meet 0.994179 me 0.00582108
+align 8 the 0.974726 a 0.0165213 your 0.00724852 you 0.000542628 their 0.000404148 to 0.000267209 that 0.000249989 *DELETE* 2.15951e-05 they 1.28141e-05 our 5.53468e-06
+align 9 commander 1
+align 10 *DELETE* 0.998777 is 0.000670022 uh 0.000233332 i 0.000146111 in 4.4585e-05 um 3.76577e-05 to 3.71063e-05 you 1.91594e-05 do 1.02554e-05 the 8.4763e-06 it 8.34494e-06 so 3.11555e-06 of 1.74748e-06 that 1.26613e-06 a 5.95479e-07 sir 4.45253e-07 if 3.97886e-07 with 9.47276e-08 and 1.01918e-08 but 6.52015e-09 would 3.54798e-09 i'm 3.56591e-10 or 1.15533e-12 who 1.04166e-12 this 4.71303e-13
+align 11 </s> 1

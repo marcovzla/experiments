@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 did 0.622656 do 0.377344
+align 2 they 1
+align 3 take 1
+align 4 anything 1
+align 5 else 1
+align 6 from 1
+align 7 your 0.999672 you're 0.000328023
+align 8 home 0.723979 *DELETE* 0.276021
+align 9 besides 0.452716 home's 0.199964 to 0.156138 the 0.0811321 homes 0.0760568 *DELETE* 0.0278513 decides 0.0059069 side's 0.000235438
+align 10 *DELETE* 0.458858 sides 0.440799 side 0.095027 side's 0.0053163
+align 11 *DELETE* 0.904973 is 0.095027
+align 12 the 1
+align 13 money 0.999967 money's 3.31264e-05
+align 14 *DELETE* 1 i 3.21182e-07 to 1.23578e-07
+align 15 </s> 1

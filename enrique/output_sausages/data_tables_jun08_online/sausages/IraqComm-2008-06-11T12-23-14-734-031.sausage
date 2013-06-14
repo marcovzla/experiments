@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 are 0.938037 uh 0.0410207 i 0.015731 oh 0.0052116
+align 2 the 0.706968 there 0.289103 don't 0.00382482 did 0.000103824
+align 3 more 0.996071 know 0.00382482 my 0.000103824
+align 4 all 0.981084 or 0.0179378 old 0.00097783
+align 5 people 1
+align 6 are 0.832444 or 0.165212 of 0.00137439 all 0.000969154
+align 7 young 1
+align 8 people 1
+align 9 in 0.999872 and 0.000128227
+align 10 your 0.999942 a 5.83793e-05
+align 11 town 1
+align 12 *DELETE* 0.999996 uh 3.55981e-06
+align 13 </s> 1

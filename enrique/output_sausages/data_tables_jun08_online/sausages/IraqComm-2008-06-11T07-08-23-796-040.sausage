@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 told 1
+align 3 you 1
+align 4 about 1
+align 5 the 0.618127 *DELETE* 0.381873
+align 6 contracting 0.999997 contract 2.55805e-06
+align 7 *DELETE* 0.999997 and 2.55805e-06
+align 8 job 0.999815 jobs 0.000185052
+align 9 *DELETE* 1 uh 2.61676e-07 i 1.82356e-19
+align 10 </s> 1

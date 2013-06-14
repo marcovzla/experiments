@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.994956 well 0.00485005 why 0.000193957
+align 2 did 0.639972 do 0.360028 if 9.86804e-12
+align 3 they 0.930126 he 0.0605542 i 0.00931993
+align 4 do 1
+align 5 to 0.999225 so 0.000775405
+align 6 the 0.99999 *DELETE* 9.58579e-06
+align 7 family 0.999936 families 6.44076e-05
+align 8 </s> 1

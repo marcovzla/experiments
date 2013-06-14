@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 0.905862 where 0.080692 well 0.0131152 when 0.000225917 why 0.000104877
+align 2 *DELETE* 0.998171 it 0.00182886
+align 3 is 0.901734 does 0.0982665
+align 4 your 1
+align 5 title 1
+align 6 here 1
+align 7 in 1 and 3.27248e-08
+align 8 the 0.919705 this 0.0792743 a 0.00102103
+align 9 city 1
+align 10 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 now 0.990975 not 0.00902497
+align 3 but 0.890487 out 0.0992426 it 0.00738969 to 0.00288021
+align 4 *DELETE* 0.890487 but 0.106632 the 0.00288021
+align 5 the 1
+align 6 three 1
+align 7 soldiers 1
+align 8 are 0.995158 i 0.00484153
+align 9 gonna 1
+align 10 be 1
+align 11 behind 1
+align 12 the 0.771458 *DELETE* 0.17015 us 0.0554888 it 0.00290241
+align 13 permits 0.999942 burn 5.77243e-05
+align 14 *DELETE* 0.999942 it's 5.77243e-05
+align 15 key 1
+align 16 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 it's 0.769785 its 0.20222 if 0.0279578 it 3.69976e-05
+align 4 *DELETE* 0.999963 so 3.69976e-05
+align 5 you 0.654357 your 0.21766 you're 0.125478 sir 0.00140692 u 0.00085324 you've 0.000200937 here 4.40039e-05
+align 6 *DELETE* 0.998593 you 0.00128449 you're 0.00010762 your 1.48028e-05
+align 7 coming 1
+align 8 up 1
+align 9 to 1
+align 10 someone 1
+align 11 that 1
+align 12 is 0.999515 that 0.000485046
+align 13 *DELETE* 0.999515 is 0.000485046
+align 14 safe 0.946653 saint 0.0407697 save 0.0125769
+align 15 laying 1
+align 16 on 1
+align 17 the 1
+align 18 ground 1
+align 19 *DELETE* 0.999379 uh 0.000599264 i 2.15895e-05
+align 20 </s> 1

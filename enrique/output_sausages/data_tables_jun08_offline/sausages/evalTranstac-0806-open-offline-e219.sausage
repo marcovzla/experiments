@@ -1,0 +1,45 @@
+numaligns 43
+posterior 1
+align 0 <s> 1
+align 1 i 0.946122 uh 0.0538777
+align 2 *DELETE* 0.925434 i 0.0745656
+align 3 will 1
+align 4 uh 0.994902 um 0.00318915 i'll 0.00190907
+align 5 work 0.947384 uh 0.0526164
+align 6 *DELETE* 0.947384 work 0.0526164
+align 7 to 1
+align 8 find 0.991402 you 0.00859801
+align 9 *DELETE* 0.991402 find 0.00859801
+align 10 out 1
+align 11 *DELETE* 0.988215 uh 0.00613544 a 0.00564981
+align 12 what 1
+align 13 kind 1
+align 14 of 1
+align 15 uh 0.994603 us 0.00539702
+align 16 *DELETE* 0.997829 uh 0.00217139
+align 17 support 1
+align 18 we 1
+align 19 can 1
+align 20 provide 1
+align 21 to 1
+align 22 you 1
+align 23 uh 0.827523 now 0.154951 um 0.0175265
+align 24 *DELETE* 0.965307 uh 0.0346934
+align 25 whether 1
+align 26 that 1
+align 27 be 1
+align 28 um 0.967661 uh 0.032339
+align 29 fuel 1
+align 30 for 1
+align 31 the 1
+align 32 generator 1
+align 33 or 1
+align 34 spare 1
+align 35 parts 1
+align 36 but 1
+align 37 i 1
+align 38 will 1
+align 39 find 1
+align 40 out 1
+align 41 *DELETE* 0.999812 uh 0.000172978 i 1.43327e-05 if 1.1121e-06
+align 42 </s> 1

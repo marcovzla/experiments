@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 uh 0.698099 *DELETE* 0.301901
+align 2 okay 1
+align 3 uh 0.95327 *DELETE* 0.0463951 well 0.000335261
+align 4 *DELETE* 0.999769 uh 0.000230537
+align 5 oh 0.82613 *DELETE* 0.0867594 well 0.0323834 how 0.0247666 uh 0.0193658 we'll 0.00928027 i 0.00131434
+align 6 *DELETE* 0.999997 uh 3.34407e-06
+align 7 did 0.936117 do 0.053843 i 0.00507034 get 0.00496963
+align 8 *DELETE* 0.99493 did 0.00507034
+align 9 their 1
+align 10 uniforms 1
+align 11 look 1
+align 12 like 1
+align 13 the 0.941246 to 0.0452572 *DELETE* 0.010772 tea 0.00271217 can 1.31102e-05
+align 14 uniform 1
+align 15 i 1
+align 16 have 0.998166 i 0.00183383
+align 17 *DELETE* 0.99797 have 0.00183383 a 0.000114112 uh 8.16124e-05
+align 18 on 0.892304 one 0.0679871 won 0.0173525 all 0.0158083 want 0.0021842 lawn 0.00202662 aunt 0.0012112 awn 0.000660232 lot 0.000321658 off 7.20473e-05 uh 3.71389e-05 ought 2.53818e-05 water 9.49485e-06 ot 6.59964e-08
+align 19 *DELETE* 0.996344 on 0.00303667 that 0.000618109 uh 7.51236e-07 in 3.29622e-08
+align 20 </s> 1

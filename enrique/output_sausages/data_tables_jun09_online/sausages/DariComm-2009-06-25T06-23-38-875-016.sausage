@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 school 1
+align 4 have 1
+align 5 a 0.953958 it 0.0460422
+align 6 bathroom 1
+align 7 or 1
+align 8 lights 0.676536 a 0.302076 uh 0.011649 of 0.00574864 are 0.00139178 *DELETE* 0.000830806 our 0.000776764 it 0.000739971 ally 0.000161539 i 8.88963e-05
+align 9 *DELETE* 0.676479 lights 0.321598 light's 0.000848488 likes 0.000845645 it's 0.000145755 i 2.45829e-05 its 1.57841e-05 do 1.23142e-05 lives 9.69452e-06 uh 8.81391e-06 to 7.20745e-06 and 4.27491e-06 in 4.96078e-07 the 1.01288e-09 lie 6.54332e-18
+align 10 *DELETE* 1 i 1.38323e-15 it's 6.54332e-18
+align 11 </s> 1

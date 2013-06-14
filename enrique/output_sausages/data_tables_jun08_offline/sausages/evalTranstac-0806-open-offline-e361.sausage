@@ -1,0 +1,47 @@
+numaligns 45
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 once 1
+align 4 we 1
+align 5 check 0.997105 checked 0.00289507
+align 6 for 1
+align 7 his 1
+align 8 uh 0.710196 so 0.289804
+align 9 *DELETE* 0.710196 uh 0.289804
+align 10 circulation 1
+align 11 or 0.910223 *DELETE* 0.0797137 are 0.0100636
+align 12 so 0.76037 ours 0.0655257 *DELETE* 0.0591581 is 0.0401416 as 0.0228936 saw 0.0216128 some 0.0110009 ares 0.00639203 hers 0.00619989 sir 0.00510896 ur's 0.00159609
+align 13 his 0.981683 and 0.00984359 i 0.00475462 *DELETE* 0.0029233 such 0.000775301 high 1.94331e-05 of 2.83654e-07
+align 14 *DELETE* 0.981683 his 0.0149692 as 0.00334737
+align 15 heartbeat 0.955249 heart 0.0447511
+align 16 *DELETE* 0.955249 be 0.0447511
+align 17 if 1
+align 18 he's 1
+align 19 not 1
+align 20 does 0.803442 he 0.195494 in 0.000980187 you 8.3942e-05
+align 21 *DELETE* 0.803442 does 0.196558
+align 22 not 1
+align 23 have 1
+align 24 a 1
+align 25 pulse 1
+align 26 then 1
+align 27 we'll 0.87553 we 0.0960622 *DELETE* 0.0284079
+align 28 *DELETE* 0.882716 will 0.117284
+align 29 *DELETE* 0.981645 we 0.0183546
+align 30 need 0.902437 we 0.0975625
+align 31 *DELETE* 0.902437 need 0.0975625
+align 32 to 1
+align 33 go 1
+align 34 into 1
+align 35 c._p._r. 1
+align 36 and 0.993224 in 0.00677551
+align 37 *DELETE* 0.947694 i 0.0523058
+align 38 i'll 0.941343 will 0.0523058 all 0.00586064 oh 0.000490843
+align 39 go 0.978163 going 0.020938 call 0.000898966
+align 40 into 0.899818 onto 0.0792441 to 0.020938
+align 41 that 0.999995 the 4.68849e-06
+align 42 now 0.999412 no 0.000581952 know 6.36988e-06
+align 43 *DELETE* 1 i 4.77921e-07
+align 44 </s> 1

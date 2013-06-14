@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 0.99997 and 2.99264e-05
+align 2 did 0.972798 do 0.0272024
+align 3 not 1
+align 4 understand 0.977261 i 0.0227386
+align 5 *DELETE* 0.977261 understand 0.0227386
+align 6 do 1
+align 7 you 1
+align 8 need 1
+align 9 a 0.995718 to 0.00428179
+align 10 *DELETE* 0.952732 a 0.0472683
+align 11 school 1
+align 12 built 0.897346 build 0.102654
+align 13 here 0.998614 hear 0.00138579
+align 14 *DELETE* 0.99279 uh 0.00585752 i 0.000956795 um 6.30149e-05 in 5.85513e-05 is 5.65218e-05 you 5.51254e-05 and 5.33505e-05 if 3.75257e-05 to 2.01402e-05 so 1.97566e-05 it 9.25858e-06 yeah 9.24516e-06 i'm 6.30979e-06 it's 2.77006e-06 a 2.71002e-06 but 1.05743e-06 that 4.34282e-07 do 4.23233e-08 at 8.73171e-09 or 3.37866e-09 oh 2.70652e-09 the 3.21108e-10 as 1.55752e-10
+align 15 </s> 1

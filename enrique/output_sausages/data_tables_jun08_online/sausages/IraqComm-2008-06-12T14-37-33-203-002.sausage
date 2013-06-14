@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 0.856037 uh 0.121886 and 0.0220767
+align 2 *DELETE* 0.856037 what 0.143963
+align 3 is 1 does 2.34135e-18
+align 4 your 1
+align 5 name 1
+align 6 *DELETE* 1 uh 1.7645e-21
+align 7 </s> 1

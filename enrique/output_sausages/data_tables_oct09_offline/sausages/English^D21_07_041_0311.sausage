@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 uh 0.567989 oh 0.383737 well 0.0482748
+align 2 what 0.987439 we'll 0.0124144 oh 0.000146564
+align 3 *DELETE* 0.999853 we'll 0.000146564
+align 4 kind 1
+align 5 of 1
+align 6 true 0.644844 *DELETE* 0.336588 trip 0.0183008 to 0.000268138
+align 7 we're 0.47977 truman 0.120658 there 0.0958106 shamir 0.0777247 truly 0.0573811 we'll 0.0548108 engineer 0.0468531 will 0.0287233 tu'ma 0.0220318 trimmer 0.00705913 trigger 0.00390223 *DELETE* 0.00340512 we 0.00055405 tumor 0.000445518 me 0.00033902 trailer 0.000335464 treatment 9.50245e-05 training 5.91383e-05 turn 4.25228e-05
+align 8 we 0.996604 muawiya 0.00190736 mawiya 0.00148879
+align 9 able 1
+align 10 to 1
+align 11 do 1
+align 12 *DELETE* 0.790764 for 0.209236
+align 13 form 0.790764 more 0.166606 him 0.0405345 *DELETE* 0.00172585 mar 0.000353441 maher 1.66816e-05 four 4.62492e-08 a 3.08989e-13
+align 14 already 0.831298 ready 0.155685 eighty 0.00400358 reading 0.0026258 eddie 0.00255263 maradi 0.00170086 writing 0.000895057 rating 0.00033811 raiding 0.000274124 riding 0.000231162 adding 8.20296e-05 eddy 6.10937e-05 ettie 6.10937e-05 edie 6.10937e-05 i._d. 5.39933e-05 aiding 3.45457e-05 marid 2.50425e-05 any 1.69151e-05 *DELETE* 2.84125e-11 or 1.23722e-14
+align 15 *DELETE* 0.999964 uh 2.16039e-05 i 1.40946e-05 a 7.76998e-07 hitting 8.60225e-09 he 3.71696e-11 any 1.23722e-14
+align 16 </s> 1

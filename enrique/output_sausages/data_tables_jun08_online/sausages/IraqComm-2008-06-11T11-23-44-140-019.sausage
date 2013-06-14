@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 other 1
+align 6 children 0.999997 children's 3.26882e-06
+align 7 *DELETE* 1 i 1.17119e-11
+align 8 </s> 1

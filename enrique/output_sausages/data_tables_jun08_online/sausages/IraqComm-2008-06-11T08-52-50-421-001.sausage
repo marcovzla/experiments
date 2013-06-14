@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what's 1
+align 2 up 1
+align 3 how's 0.961387 how 0.0386031 i 1.03483e-05
+align 4 *DELETE* 0.961392 is 0.0386031 was 4.44573e-06
+align 5 it 0.999994 wasn't 5.90254e-06 a 3.40816e-12
+align 6 going 0.999994 on 5.90241e-06 don't 1.80491e-15
+align 7 </s> 1

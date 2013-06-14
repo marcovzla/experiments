@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 are 1
+align 3 you 1
+align 4 familiar 1
+align 5 with 1
+align 6 the 0.999473 a 0.000527082
+align 7 current 1
+align 8 weapons 0.999516 weapon's 0.000483609
+align 9 policy 1
+align 10 that 0.999762 this 0.000125513 there 0.000112902
+align 11 is 0.982115 as 0.0124419 has 0.00405994 his 0.000925348 *DELETE* 0.000457665
+align 12 in 0.959974 an 0.039568 isn't 0.000323983 doesn't 0.000133682
+align 13 effect 0.994984 affect 0.00486899 the 0.00011126 fact 3.56962e-05
+align 14 *DELETE* 0.999889 fact 0.00011126
+align 15 for 1
+align 16 this 1
+align 17 area 1
+align 18 *DELETE* 0.999996 uh 4.05722e-06
+align 19 </s> 1

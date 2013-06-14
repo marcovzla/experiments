@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 can 0.993086 *DELETE* 0.00691396
+align 2 *DELETE* 0.936426 can 0.0635736
+align 3 you 0.977367 *DELETE* 0.015597 okay 0.00659974 computer 0.000314219 can 0.000107184 we 1.23676e-05 be 2.57182e-06
+align 4 repeat 0.984533 *DELETE* 0.0154674 if 8.35801e-12
+align 5 *DELETE* 0.808975 it 0.167879 purity 0.0154517 that 0.00640789 i 0.000968723 uh 0.000203768 the 5.70552e-05 this 2.03174e-05 to 1.13092e-05 p 6.61762e-06 pee 6.09287e-06 is 3.7108e-06 a 3.57542e-06 purify 2.29283e-06 in 1.91273e-06 what 7.20903e-07 pay 6.00576e-07 they 1.22898e-07 i'm 3.39093e-08 you 8.59216e-11 by 1.06522e-12 and 4.58158e-14
+align 6 </s> 1

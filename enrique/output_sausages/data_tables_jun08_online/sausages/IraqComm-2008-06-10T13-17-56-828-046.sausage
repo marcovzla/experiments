@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 emergency 1
+align 5 are 0.98535 or 0.0146503
+align 6 you 1
+align 7 concerned 1
+align 8 about 1
+align 9 *DELETE* 0.996517 it 0.00197007 uh 0.00138672 the 8.08668e-05 you 2.8738e-05 them 1.21296e-05 now 2.19324e-06 her 1.12045e-06 a 5.8812e-07 um 5.85777e-07 in 1.37411e-07 to 4.42771e-18
+align 10 </s> 1

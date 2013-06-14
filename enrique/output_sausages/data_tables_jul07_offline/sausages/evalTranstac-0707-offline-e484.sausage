@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 appreciate 0.999796 *DELETE* 0.000203799
+align 3 it 0.999796 appreciated 0.000203799
+align 4 </s> 1

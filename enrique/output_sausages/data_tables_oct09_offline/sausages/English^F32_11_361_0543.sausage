@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 if 0.827766 at 0.125968 it 0.0462656
+align 2 the 1
+align 3 vehicle 1
+align 4 decides 0.930361 *DELETE* 0.0696391
+align 5 to 0.930361 decisive 0.0696391
+align 6 turn 1
+align 7 around 1
+align 8 you're 0.999999 your 7.29528e-07
+align 9 going 1
+align 10 to 1
+align 11 have 1
+align 12 that 0.815791 it 0.133318 *DELETE* 0.0205932 put 0.0162698 but 0.0134188 to 0.000609912
+align 13 *DELETE* 0.801173 at 0.0758434 that 0.0720257 it 0.0362938 uh 0.0100484 back 0.00461598
+align 14 *DELETE* 0.979407 that 0.0157746 at 0.00316167 it 0.0016569
+align 15 team 1
+align 16 set 0.954166 *DELETE* 0.0429583 sent 0.00287618
+align 17 off 0.929262 settle 0.0429583 all 0.0277523 *DELETE* 2.70842e-05
+align 18 or 0.720781 for 0.143249 of 0.0904366 uh 0.0342619 but 0.00524978 on 0.0048349 what 0.0011536 offered 2.70842e-05 i 6.81252e-06 out 9.48306e-08
+align 19 the 0.958482 to 0.0313498 at 0.00636577 did 0.0019423 *DELETE* 0.0018102 that 4.7784e-05 do 1.98067e-06
+align 20 *DELETE* 0.991576 this 0.00842367
+align 21 distance 0.991576 tents 0.00459141 dents 0.00358412 tins 0.000216231 stands 2.6203e-05 turns 5.57798e-06 dense 1.28296e-07
+align 22 </s> 1

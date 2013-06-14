@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 safe 0.999818 save 7.70221e-05 tayf 5.67297e-05 shave 4.86693e-05
+align 5 from 1
+align 6 the 1
+align 7 civil 0.999686 simple 0.000314066
+align 8 pharaohs 0.9944 firas 0.00288335 fair 0.00268714 fare 1.86511e-05 for 1.03799e-05
+align 9 *DELETE* 0.997284 as 0.00154286 is 0.00111293 i 5.0003e-05 us 1.03799e-05
+align 10 *DELETE* 0.99995 was 5.0003e-05
+align 11 all 0.664543 office 0.320272 *DELETE* 0.0149562 oh 0.000229125
+align 12 fists 0.472342 *DELETE* 0.319786 face 0.123568 france 0.0282441 orphans 0.0149562 thieves 0.0109227 fits 0.0100046 since 0.0085301 fruits 0.00488948 phase 0.0034642 things 0.00197116 uh 0.0004134 figs 0.000363298 fees 0.000208525 fix 0.000137153 foods 0.000113345 i 8.63424e-05 a 1.27123e-07 is 2.9149e-08 and 1.91917e-08 you 3.77512e-09 that 1.51533e-13 but 1.13253e-13
+align 13 *DELETE* 0.999878 it 3.75242e-05 to 2.22392e-05 in 2.14898e-05 uh 1.59637e-05 fades 1.41379e-05 the 1.07509e-05 i 1.76466e-08 a 1.13943e-08 that 1.08897e-10
+align 14 </s> 1

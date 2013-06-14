@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 why 1
+align 4 we've 0.945467 would 0.0291257 we 0.0250442 ali 0.000362958
+align 5 been 1
+align 6 talking 1
+align 7 here 1
+align 8 my 0.999778 may 0.000222036
+align 9 soul 0.622855 soldiers 0.321601 sole 0.0469116 cell 0.00360487 so 0.00258771 sold 0.00243953
+align 10 is 0.663497 *DELETE* 0.326066 he's 0.00761741 was 0.00282016
+align 11 just 0.993364 *DELETE* 0.00594338 use 0.000692952
+align 12 pulled 0.577724 pull 0.422276
+align 13 out 0.790149 up 0.20658 off 0.0032707
+align 14 five 1
+align 15 crates 1
+align 16 of 1
+align 17 a._k. 1
+align 18 forty 1
+align 19 seven 1
+align 20 ammunition 0.999972 ammunitions 2.75081e-05
+align 21 </s> 1

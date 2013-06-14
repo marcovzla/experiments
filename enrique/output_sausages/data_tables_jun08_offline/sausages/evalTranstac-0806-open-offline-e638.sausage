@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 well 0.99615 what 0.00385008
+align 2 we 1
+align 3 would 0.999609 will 0.000390541
+align 4 take 0.782214 do 0.175192 be 0.0415104 they 0.0010836
+align 5 as 1
+align 6 we've 0.83095 so 0.16905
+align 7 *DELETE* 0.83095 we've 0.16905
+align 8 seen 1
+align 9 in 0.744387 an 0.136318 and 0.119295
+align 10 uh 1
+align 11 previous 0.998817 uh 0.00118331
+align 12 *DELETE* 0.998817 previous 0.00118331
+align 13 operations 1
+align 14 will 0.85702 we'll 0.124962 we 0.0180187
+align 15 *DELETE* 0.981981 will 0.0180187
+align 16 conduct 1
+align 17 the 0.954388 to 0.0384874 a 0.00712416
+align 18 the 1
+align 19 planning 1
+align 20 jointly 1
+align 21 *DELETE* 0.99997 i 2.79438e-05 uh 1.95583e-06
+align 22 </s> 1

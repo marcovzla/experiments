@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 you 0.984732 she 0.0130397 he 0.00222823
+align 3 can 1
+align 4 go 1
+align 5 after 0.981906 *DELETE* 0.0180938
+align 6 we're 0.815703 were 0.166204 afterward 0.0180938
+align 7 finished 0.896198 frontage 0.0975291 furnished 0.00536715 finish 0.000895005 *DELETE* 1.04064e-05 friend 2.12077e-22
+align 8 *DELETE* 0.999159 uh 0.000423089 i 0.000211861 it 9.74744e-05 a 8.64844e-05 managed 1.04064e-05 to 9.00707e-06 in 3.08392e-06 you 6.19687e-12 up 1.52669e-12 the 7.28304e-14 all 7.96274e-15 of 7.34795e-17 do 3.55478e-18 manage 3.4741e-18 and 2.8977e-18 financed 2.73937e-21 urged 2.12077e-22
+align 9 </s> 1

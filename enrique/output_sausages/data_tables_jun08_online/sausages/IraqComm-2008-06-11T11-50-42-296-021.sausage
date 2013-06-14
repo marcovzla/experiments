@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 your 0.625417 you 0.344966 you're 0.0296168
+align 2 rank 0.63611 *DELETE* 0.344966 right 0.0189242
+align 3 you 0.571475 iraqi 0.344966 he 0.0604426 the 0.0207149 e 0.0024013
+align 4 i._d. 1
+align 5 card 1
+align 6 is 0.94567 as 0.0543297
+align 7 *DELETE* 0.999999 a 1.04303e-06 uh 1.97003e-16
+align 8 okay 1 ok 7.7387e-16
+align 9 </s> 1

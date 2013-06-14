@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 one 0.984668 i 0.0153324
+align 2 is 0.984668 wanna 0.0153324
+align 3 see 0.604474 the 0.306259 he 0.0882611 a 0.00100686
+align 4 it's 0.861836 its 0.138164
+align 5 called 1
+align 6 the 1
+align 7 uh 1
+align 8 head 1
+align 9 tilt 1
+align 10 chin 1
+align 11 lift 1
+align 12 *DELETE* 1 it 3.34559e-07
+align 13 </s> 1

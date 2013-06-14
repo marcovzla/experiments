@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.986408 where 0.0131964 would 0.000233943 well 0.000161355
+align 2 do 1
+align 3 you 1
+align 4 do 1
+align 5 for 0.999773 it 0.000225313 full 1.70119e-06
+align 6 *DELETE* 0.999775 for 0.000225313
+align 7 work 0.998321 war 0.00167851
+align 8 </s> 1

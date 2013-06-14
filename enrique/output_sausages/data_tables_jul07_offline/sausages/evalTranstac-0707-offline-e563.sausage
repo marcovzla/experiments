@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 a 0.573472 it 0.333749 they 0.0442888 right 0.0204067 he 0.0105999 eight 0.00680198 yeah 0.00382665 and 0.00331202 okay 0.00202007 i 0.00078083 we 0.00074234
+align 2 with 1
+align 3 us 0.986592 ice 0.0134085
+align 4 or 1
+align 5 we'll 0.545318 will 0.454682
+align 6 go 1
+align 7 ahead 1
+align 8 and 1
+align 9 take 1
+align 10 you 1
+align 11 all 1
+align 12 the 0.338372 into 0.221716 of 0.139595 it 0.13528 with 0.0453539 a 0.0386364 at 0.0287921 that 0.0205154 up 0.0150388 in 0.0143141 it's 0.00181628 its 0.000420433 and 0.000148967 attack 2.15129e-09
+align 13 to 0.631285 *DELETE* 0.223733 the 0.142471 a 0.00203146 two 0.000303184 take 0.000136493 too 3.94707e-05 they 8.97957e-18
+align 14 custody 1
+align 15 *DELETE* 0.999998 i 1.41883e-06 uh 6.68389e-07 of 3.50859e-17
+align 16 </s> 1

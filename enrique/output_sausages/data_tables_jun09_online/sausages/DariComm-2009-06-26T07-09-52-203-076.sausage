@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 we 1
+align 3 have 1
+align 4 to 1
+align 5 talk 1
+align 6 to 1
+align 7 the 0.518071 this 0.481929
+align 8 souq 0.616998 souk 0.383002
+align 9 in 0.999873 an 0.000126729
+align 10 order 1
+align 11 to 1
+align 12 get 1
+align 13 the 1
+align 14 well 0.985393 welding 0.0146072
+align 15 build 0.580102 we 0.11184 and 0.100004 to 0.0865304 you 0.0546199 um 0.0258687 i 0.0107698 *DELETE* 0.00997074 i'm 0.0090134 uh 0.0061749 in 0.00510552
+align 16 *DELETE* 0.590073 build 0.409927
+align 17 *DELETE* 0.975261 it 0.00444162 them 0.00437865 bill 0.00363249 built 0.00321506 builds 0.00312319 uh 0.00231294 a 0.00193929 up 0.000437961 i 0.000315977 the 0.000257954 you 0.000188843 that 0.000177684 in 0.000118185 um 4.18825e-05 an 3.11952e-05 to 2.89838e-05 if 2.87768e-05 do 1.8231e-05 on 1.30141e-05 two 8.30621e-06 and 7.63022e-06 with 5.91835e-06 i'm 4.59601e-06 would 3.38839e-06 or 2.47305e-06 is 2.43404e-06 we 1.70177e-06 this 2.58661e-07 they 1.48331e-07 of 4.09021e-08 but 1.27745e-08 were 2.47608e-09 what 7.72157e-10 their 6.17243e-10 at 4.02124e-10 all 2.1216e-12
+align 18 *DELETE* 0.999969 to 2.9945e-05 them 8.20545e-07 i 5.10489e-09 in 1.8013e-09 a 1.70693e-09
+align 19 </s> 1

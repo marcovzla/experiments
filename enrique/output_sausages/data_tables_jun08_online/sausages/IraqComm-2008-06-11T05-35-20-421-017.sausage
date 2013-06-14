@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 i 3.23456e-10
+align 2 can 1
+align 3 you 1
+align 4 tell 1
+align 5 me 1
+align 6 the 1
+align 7 status 1
+align 8 of 1
+align 9 the 0.936051 *DELETE* 0.0639489
+align 10 injured 1
+align 11 iraqi 1
+align 12 policeman 0.552512 policemen 0.446724 police 0.000764208 *DELETE* 4.02019e-18
+align 13 *DELETE* 0.999289 man 0.000703015 i 7.10665e-06 a 3.97619e-07 policeman's 1.60544e-10 men 9.13027e-11 ma'am 6.14458e-11 uh 4.01214e-14
+align 14 </s> 1

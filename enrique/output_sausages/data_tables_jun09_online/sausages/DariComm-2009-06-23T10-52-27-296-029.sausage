@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.999999 well 1.1995e-06
+align 2 *DELETE* 0.999999 it 1.1995e-06
+align 3 seems 1
+align 4 to 1
+align 5 be 1
+align 6 the 1
+align 7 problem 1
+align 8 *DELETE* 0.998263 i 0.000950507 uh 0.000785696 is 1.20788e-06
+align 9 </s> 1

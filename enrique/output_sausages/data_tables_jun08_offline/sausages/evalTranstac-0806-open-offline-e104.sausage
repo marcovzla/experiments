@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i'd 0.620914 i 0.379081 well 4.74389e-06
+align 2 like 1
+align 3 to 1
+align 4 compliment 0.719819 complement 0.280181
+align 5 and 0.999307 *DELETE* 0.000692952
+align 6 your 0.99788 you're 0.00170468 any 0.000413704 endure 1.16798e-06
+align 7 house 1
+align 8 </s> 1

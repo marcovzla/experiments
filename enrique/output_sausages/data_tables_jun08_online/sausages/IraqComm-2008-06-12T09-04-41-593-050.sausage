@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 when 0.916949 what 0.0343084 where 0.0337436 well 0.0123225 why 0.00267649
+align 2 do 1
+align 3 you 1
+align 4 want 1
+align 5 to 1
+align 6 do 1
+align 7 this 1
+align 8 mission 0.999937 missions 6.2954e-05
+align 9 *DELETE* 1 uh 1.76118e-11 and 1.51141e-13
+align 10 </s> 1

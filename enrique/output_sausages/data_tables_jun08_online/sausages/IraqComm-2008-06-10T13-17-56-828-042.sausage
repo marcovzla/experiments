@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 i 2.86306e-08
+align 2 when 1
+align 3 you 1
+align 4 see 1
+align 5 a 1
+align 6 red 1
+align 7 dot 1
+align 8 the 0.972859 this 0.0158944 is 0.00891251 to 0.00152105 has 0.000463399 *DELETE* 0.000247262 his 9.16952e-05 does 1.02605e-05
+align 9 safety 1
+align 10 is 0.992458 as 0.00754198
+align 11 all 0.52529 on 0.374772 *DELETE* 0.0681912 off 0.0317471
+align 12 *DELETE* 0.619589 off 0.37948 of 0.000931197
+align 13 when 1
+align 14 you 1
+align 15 see 1
+align 16 a 1
+align 17 white 1
+align 18 dot 1
+align 19 the 0.99928 this 0.000469725 it 0.000247106 that 3.39544e-06
+align 20 *DELETE* 0.999753 the 0.000247106
+align 21 safety 1
+align 22 is 1
+align 23 on 1
+align 24 *DELETE* 0.999999 it 4.97709e-07 a 7.64659e-08 her 1.16166e-16
+align 25 </s> 1

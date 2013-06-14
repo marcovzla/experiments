@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 how 1
+align 4 are 1
+align 5 you 1
+align 6 my 1
+align 7 friend 1 *DELETE* 1.57065e-12
+align 8 *DELETE* 0.999996 uh 3.66898e-06 front 4.35452e-08 friends 1.65172e-12
+align 9 </s> 1

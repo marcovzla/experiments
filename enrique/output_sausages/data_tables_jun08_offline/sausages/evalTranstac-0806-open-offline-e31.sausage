@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 and 0.99219 in 0.00780669 *DELETE* 3.76171e-06
+align 2 therefore 1
+align 3 you'll 0.77041 you 0.22959
+align 4 always 1
+align 5 maintain 0.984109 maintained 0.0158911
+align 6 the 0.843074 a 0.111407 uh 0.0455191
+align 7 up 0.896681 uh 0.103319
+align 8 are 0.540398 our 0.339615 uh 0.0627896 i 0.0571977
+align 9 *DELETE* 0.999949 i 5.12221e-05
+align 10 big 0.996871 paid 0.00234687 pay 0.000426805 *DELETE* 0.000340957 a 1.44766e-05
+align 11 *DELETE* 0.99937 a 0.000398978 be 0.000180917 think 5.03879e-05 beg 4.56671e-09
+align 12 presence 0.988659 presents 0.011341
+align 13 on 0.629496 when 0.324065 one 0.0377882 with 0.00842045 we 0.000154365 and 3.93872e-05 went 2.3678e-05 want 1.30287e-05
+align 14 the 0.517161 you 0.279952 your 0.166786 you're 0.0191327 he 0.00872701 you've 0.00310575 *DELETE* 0.00274549 his 0.00119399 do 0.000705989 he's 0.000226521 need 0.000154365 these 4.97815e-05 year 3.12459e-05 we 2.81965e-05
+align 15 street 0.992214 straight 0.00529094 history 0.00249547
+align 16 </s> 1

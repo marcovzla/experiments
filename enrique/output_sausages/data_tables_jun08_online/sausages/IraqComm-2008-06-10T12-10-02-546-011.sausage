@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 i'm 1
+align 3 lieutenant 1
+align 4 inman 0.999912 in 6.54375e-05 and 2.24328e-05
+align 5 *DELETE* 0.999911 man 4.16534e-05 men 2.37842e-05 then 2.24327e-05 uh 5.24068e-07 i 4.08014e-07 a 9.07778e-08 how 1.2517e-14
+align 6 </s> 1

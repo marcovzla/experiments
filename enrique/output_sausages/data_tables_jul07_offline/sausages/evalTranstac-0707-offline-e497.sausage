@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 according 1
+align 2 to 1
+align 3 our 1
+align 4 records 0.985568 record's 0.0076579 workers 0.00663138 record 0.00013533 wreckers 7.06692e-06
+align 5 he's 0.986261 he 0.0123592 she's 0.00131572 sees 4.78913e-05 seize 1.62813e-05
+align 6 *DELETE* 0.987641 is 0.0123592
+align 7 being 1
+align 8 held 1
+align 9 indefinitely 0.9999 in 9.96362e-05
+align 10 *DELETE* 0.9999 definitely 9.96362e-05
+align 11 pending 1
+align 12 the 1
+align 13 outcome 1
+align 14 of 1
+align 15 an 0.999051 the 0.000680024 in 0.000230894 than 2.11287e-05 *DELETE* 1.2459e-05 been 4.47864e-06 and 2.3809e-11 then 2.0139e-12 bin 4.56634e-17
+align 16 investigation 1
+align 17 </s> 1

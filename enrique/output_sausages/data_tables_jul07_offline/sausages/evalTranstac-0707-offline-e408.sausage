@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 yeah 0.846288 *DELETE* 0.140721 a 0.00872757 the 0.0042632
+align 3 the 0.990592 *DELETE* 0.00500393 uh 0.0028739 they 0.00101807 it 0.000373445 that 0.000138522
+align 4 local 1
+align 5 police 1
+align 6 tell 0.999829 telling 0.000171482
+align 7 me 1
+align 8 there's 0.817694 there 0.182306
+align 9 *DELETE* 0.817694 is 0.182306
+align 10 a 0.606551 uh 0.393449
+align 11 there's 0.994534 this 0.0054656
+align 12 problems 1
+align 13 in 0.999408 and 0.000591774
+align 14 the 0.99799 this 0.0020101
+align 15 school 0.999952 schools 4.81177e-05
+align 16 we 0.970952 with 0.0164531 *DELETE* 0.00784524 would 0.00240003 will 0.00104228 we'll 0.000443406 in 0.000392511 which 0.000216001 what 0.000195469 wee 4.87104e-05 you 1.14707e-05
+align 17 </s> 1

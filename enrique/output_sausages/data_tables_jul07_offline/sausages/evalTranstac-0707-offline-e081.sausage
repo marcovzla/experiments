@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 uh 0.999662 i 0.000337757
+align 2 *DELETE* 0.594725 uh 0.370814 i 0.0188308 it 0.0142516 i'd 0.00137878
+align 3 *DELETE* 0.998066 i 0.00193375
+align 4 we're 1
+align 5 doing 1
+align 6 our 1
+align 7 best 1
+align 8 to 0.983599 a 0.0164011
+align 9 stay 1
+align 10 out 1
+align 11 of 1
+align 12 your 1
+align 13 way 1
+align 14 in 1
+align 15 your 1
+align 16 house 1
+align 17 um 0.999944 uh 5.57037e-05
+align 18 *DELETE* 0.999979 uh 2.06694e-05 um 1.52191e-07 i 1.10733e-07
+align 19 </s> 1

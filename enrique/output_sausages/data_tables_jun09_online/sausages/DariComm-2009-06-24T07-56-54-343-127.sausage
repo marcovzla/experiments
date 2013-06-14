@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 0.999083 problem 0.000916936
+align 6 at 0.999049 that 0.000951216
+align 7 all 1
+align 8 with 0.999654 what 0.000346023
+align 9 the 0.999988 this 1.20369e-05 a 1.18343e-16
+align 10 security 1
+align 11 *DELETE* 0.996217 uh 0.0032231 in 0.000225262 um 0.000142206 now 0.000134107 of 2.9089e-05 i 2.87158e-05 but 2.72774e-07 and 8.0537e-08 as 6.13797e-14 it 2.2385e-14 or 9.82725e-16 you 7.61946e-17 on 1.54633e-18 how 1.7328e-21
+align 12 </s> 1

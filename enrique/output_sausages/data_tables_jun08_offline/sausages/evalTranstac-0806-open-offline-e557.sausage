@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 uh 1
+align 4 my 1
+align 5 name 1
+align 6 is 1
+align 7 lieutenant 1
+align 8 lee 0.999191 leave 0.00063897 li 0.000169968
+align 9 *DELETE* 1 he 3.57069e-07
+align 10 </s> 1

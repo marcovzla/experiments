@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 i'd 1
+align 3 like 1
+align 4 to 1
+align 5 know 1
+align 6 more 1
+align 7 about 1
+align 8 the 1
+align 9 uh 1
+align 10 the 1
+align 11 people 1
+align 12 uh 1
+align 13 *DELETE* 0.913745 uh 0.0862551
+align 14 with 0.782339 within 0.217661
+align 15 *DELETE* 0.520582 the 0.181772 then 0.163552 in 0.0664167 you 0.0407253 thing 0.014732 and 0.00518744 thin 0.00514518 him 0.00177048 an 0.000104192 me 1.32767e-05
+align 16 *DELETE* 0.86692 new 0.0766109 knee 0.0554816 in 0.000856259 and 0.000131181
+align 17 *DELETE* 0.869508 your 0.0954097 you're 0.0350824
+align 18 you 1.02705 they 0.0350357 we 0.000178474
+align 19 *DELETE* 0.42434 need 0.411276 you're 0.0820591 or 0.0407546 are 0.034714 and 0.00649104 in 0.000352193 your 1.29401e-05
+align 20 *DELETE* 0.893714 your 0.0994398 you 0.00684577
+align 21 *DELETE* 0.990628 or 0.00927178 you're 5.33777e-05 your 4.63051e-05 you 9.46209e-08
+align 22 *DELETE* 0.999581 or 0.000418791
+align 23 you 0.850346 your 0.0980641 *DELETE* 0.0515903
+align 24 *DELETE* 0.516729 are 0.437143 or 0.046128
+align 25 *DELETE* 0.581396 you 0.36791 need 0.0464438 we 0.0037724 the 0.000477242 knee 7.04456e-08
+align 26 within 0.79405 with 0.20595
+align 27 *DELETE* 0.79405 in 0.20595
+align 28 the 1
+align 29 town 1 *DELETE* 3.36918e-16
+align 30 *DELETE* 0.999999 uh 5.21812e-07 down 5.01615e-15
+align 31 </s> 1

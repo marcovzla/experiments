@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 german 0.521044 gentleman 0.390364 till 0.0441424 to 0.0190363 gentlemen 0.0170231 til 0.00615875 terminal 0.0016894 jordan 0.000417077 jewelry 5.84884e-05 germany 3.3439e-05 tell 1.23958e-05 germans 1.09713e-05 tiling 9.48353e-06
+align 4 *DELETE* 0.930643 then 0.0330166 omen 0.0190045 now 0.00597764 in 0.00416664 and 0.00266257 man 0.00165888 men 0.00143254 the 0.000384119 it 0.000361151 them 0.000332684 middle 8.96258e-05 an 8.02699e-05 him 6.85681e-05 when 6.19959e-05 amend 3.09847e-05 me 1.23958e-05 who 7.20661e-06 uh 6.00533e-06 than 9.09441e-07 olin 8.16408e-07 going 7.36165e-07 to 1.06942e-07 low 2.45884e-08 little 9.81054e-09 only 8.69476e-09
+align 5 </s> 1

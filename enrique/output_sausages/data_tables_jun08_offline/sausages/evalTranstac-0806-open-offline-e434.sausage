@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 uh 1
+align 4 what 0.999943 *DELETE* 5.68113e-05
+align 5 i'll 0.999943 we'll 5.68113e-05
+align 6 do 1
+align 7 now 1
+align 8 is 1
+align 9 a 0.662119 the 0.126194 to 0.0989728 it 0.0727606 uh 0.0386627 *DELETE* 0.000673318 of 0.000292628 that 0.000176742 i 0.000147648
+align 10 go 0.999327 ago 0.000673318
+align 11 over 1
+align 12 the 1
+align 13 uh 1
+align 14 uh 0.808392 *DELETE* 0.112311 basic 0.0792977
+align 15 a 0.717252 *DELETE* 0.222801 uh 0.0599473
+align 16 basic 0.920702 *DELETE* 0.0792977
+align 17 plan 1
+align 18 of 1
+align 19 uh 1
+align 20 how 1
+align 21 we 1
+align 22 can 1
+align 23 get 1
+align 24 to 1
+align 25 the 1
+align 26 objective 1
+align 27 area 1
+align 28 </s> 1

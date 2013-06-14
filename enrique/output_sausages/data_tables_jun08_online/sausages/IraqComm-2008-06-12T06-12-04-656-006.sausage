@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 did 1
+align 3 you 1
+align 4 guys 1
+align 5 go 0.999894 going 0.000106365
+align 6 to 1
+align 7 sleep 1
+align 8 so 1
+align 9 early 0.691447 really 0.256441 i 0.0506351 only 0.0014725 it 4.68614e-06
+align 10 *DELETE* 0.949365 really 0.0506351
+align 11 last 1
+align 12 night 0.999882 *DELETE* 0.000117641
+align 13 *DELETE* 0.998269 uh 0.00157039 right 0.000117641 i 3.43883e-05 now 8.26342e-06 a 5.89896e-07 in 1.38655e-07 it 3.57676e-11 on 2.25478e-12 and 1.16501e-14 like 1.38045e-20
+align 14 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 0.873081 *DELETE* 0.126919
+align 3 do 1
+align 4 you 1
+align 5 identify 1
+align 6 a 1
+align 7 gunshot 1
+align 8 wound 0.996284 will 0.00292124 we'll 0.000456988 wounds 0.000228189 won't 0.000109865
+align 9 *DELETE* 0.999912 in 5.40551e-05 to 2.34116e-05 i 6.7311e-06 uh 3.1389e-06 is 4.77814e-07 like 1.21451e-07 up 9.3364e-10 it 4.13281e-14 and 1.28188e-14
+align 10 </s> 1

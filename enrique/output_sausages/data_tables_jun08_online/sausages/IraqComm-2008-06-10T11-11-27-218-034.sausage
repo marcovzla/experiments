@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 what's 1
+align 2 your 1
+align 3 occupation 1
+align 4 </s> 1

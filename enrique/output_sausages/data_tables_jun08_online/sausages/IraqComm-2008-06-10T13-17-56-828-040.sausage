@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 the 0.689627 this 0.308329 they 0.00200261 a 4.0998e-05
+align 3 safety 1
+align 4 is 1
+align 5 all 0.999558 *DELETE* 0.000442352
+align 6 *DELETE* 0.998063 of 0.00149493 also 0.000442352
+align 7 you 1
+align 8 will 1
+align 9 see 1
+align 10 a 1 *DELETE* 9.00169e-13
+align 11 red 1
+align 12 dot 0.999773 *DELETE* 0.000227232
+align 13 *DELETE* 0.998813 it 0.000933321 dots 0.000227232 to 2.65522e-05 at 3.35067e-14 uh 2.83385e-19
+align 14 </s> 1

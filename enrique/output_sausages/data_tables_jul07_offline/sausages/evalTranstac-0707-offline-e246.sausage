@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 why 0.97001 white 0.0299895
+align 3 i 0.502681 don't 0.211805 did 0.130301 *DELETE* 0.0971928 it's 0.0299895 does 0.0279994 is 3.13436e-05
+align 4 have 0.502681 you 0.148377 *DELETE* 0.14717 didn't 0.0971928 he 0.0765792 it 0.0279994
+align 5 to 0.550188 take 0.419823 a 0.0299895
+align 6 give 0.580177 it 0.419823
+align 7 *DELETE* 0.82371 all 0.123016 with 0.0532745
+align 8 us 0.49484 was 0.366548 this 0.123016 others 0.0155958
+align 9 weapon 0.805051 weapons 0.191713 nothing 0.00238648 a 0.000396647 up 0.000169803 weapon's 0.00015291 about 5.5458e-05 weapons' 3.94111e-05 happened 2.5411e-05 what 9.46616e-06 not 5.15151e-07 but 4.20089e-09
+align 10 *DELETE* 0.999603 lot 0.000396647
+align 11 *DELETE* 0.999142 and 0.000465163 uh 0.000218239 in 9.12095e-05 that 5.22178e-05 of 1.78831e-05 i 7.13709e-06 the 3.75527e-06 then 1.63729e-06 a 3.54853e-07
+align 12 *DELETE* 1 i 2.62381e-08
+align 13 </s> 1

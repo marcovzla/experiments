@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 0.998879 you 0.00107843 we 3.53645e-05 he 7.3824e-06 yeah 8.89576e-08
+align 2 the 1
+align 3 police 1
+align 4 need 1
+align 5 more 1
+align 6 training 1
+align 7 *DELETE* 0.999982 i 1.13755e-05 uh 6.71606e-06 to 4.02942e-08
+align 8 </s> 1

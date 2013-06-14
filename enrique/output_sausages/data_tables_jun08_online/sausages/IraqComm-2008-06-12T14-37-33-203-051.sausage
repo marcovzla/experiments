@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 secondary 1
+align 6 power 0.999848 our 0.000140821 tower 1.11356e-05 powers 9.25776e-11
+align 7 source 0.998955 sources 0.00104503
+align 8 *DELETE* 1 i 4.06917e-12
+align 9 </s> 1

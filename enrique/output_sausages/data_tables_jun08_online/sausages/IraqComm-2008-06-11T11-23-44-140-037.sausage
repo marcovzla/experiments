@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 i 3.64148e-15
+align 2 have 1
+align 3 you 1
+align 4 taken 0.996526 taking 0.00347396
+align 5 them 1
+align 6 to 1
+align 7 the 1
+align 8 doctor 1
+align 9 *DELETE* 1 i 2.63493e-11
+align 10 </s> 1

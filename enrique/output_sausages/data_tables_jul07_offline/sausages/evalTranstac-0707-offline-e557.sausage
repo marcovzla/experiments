@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 go 1
+align 2 ahead 1
+align 3 and 1
+align 4 tell 1
+align 5 your 0.999511 you're 0.000489023
+align 6 employees 0.871897 employs 0.126901 employee's 0.00120165
+align 7 a 0.348545 to 0.2429 is 0.122815 uh 0.101877 the 0.091125 *DELETE* 0.0562733 as 0.0364635
+align 8 set 0.828544 said 0.0891992 aside 0.0479266 sit 0.0318793 saeed 0.000897759 assad 0.000610929 side 0.000501475 asad 0.000350409 uh 9.04229e-05
+align 9 down 1
+align 10 their 0.715484 there 0.261326 they're 0.0231901
+align 11 tools 1
+align 12 *DELETE* 0.999891 i 7.99784e-05 uh 2.89796e-05 in 1.00874e-07
+align 13 </s> 1

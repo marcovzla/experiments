@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 any 1
+align 4 other 1
+align 5 locations 0.967782 location 0.0322182
+align 6 *DELETE* 0.999998 is 2.01144e-06
+align 7 on 1
+align 8 these 1
+align 9 maps 1
+align 10 of 0.564413 are 0.170515 uh 0.12499 or 0.0944262 a 0.0431583 i 0.00249778 and 5.19379e-15
+align 11 require 0.999604 required 0.000395964
+align 12 repair 0.965738 repairer 0.0281296 a 0.00607488 *DELETE* 5.72671e-05
+align 13 *DELETE* 0.993489 repair 0.00243129 pair 0.00238087 repairer 0.00109617 it 0.000308534 pear 0.000161182 appear 5.72671e-05 i 2.68727e-05 a 9.59297e-06 or 6.75009e-06 do 6.61859e-06 is 6.34803e-06 power 5.37019e-06 uh 5.13373e-06 the 3.48752e-06 if 3.2028e-06 um 1.92983e-06 in 9.51542e-08 and 1.01581e-08 are 8.71279e-10 our 3.38998e-28
+align 14 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 well 0.667977 where 0.277851 *DELETE* 0.0239745 what 0.0135032 now 0.0088953 the 0.00494169 uh 0.00125558 oh 0.000929471 there 0.000656377 no 1.5998e-05
+align 2 is 0.986037 was 0.0135032 as 0.00027728 i 0.000182273 there's 1.09521e-09 has 5.79925e-12
+align 3 *DELETE* 0.999818 was 0.000182273
+align 4 the 1
+align 5 hospital 1
+align 6 located 1
+align 7 *DELETE* 0.518992 in 0.480253 at 0.000333381 here 0.000190698 uh 0.000151243 and 6.19578e-05 on 1.71487e-05 him 5.24222e-08 there 1.09604e-09 can 2.82837e-14 to 1.1746e-15 two 4.24836e-17
+align 8 *DELETE* 0.999966 a 2.26076e-05 it 1.15771e-05 the 1.64965e-09 uh 3.90114e-11
+align 9 </s> 1

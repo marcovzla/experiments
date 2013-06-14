@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 training 0.999989 a 1.13568e-05
+align 6 *DELETE* 0.999989 training 1.13568e-05
+align 7 program 1
+align 8 for 1
+align 9 your 1
+align 10 workers 0.999749 workers' 0.00015449 worker's 9.6721e-05
+align 11 </s> 1

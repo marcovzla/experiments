@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999993 does 6.83794e-06
+align 3 your 1
+align 4 job 0.999961 jobs 3.89711e-05
+align 5 *DELETE* 0.999977 is 1.66358e-05 to 3.54745e-06 uh 2.19584e-06 in 5.55534e-07 i 3.17596e-07 now 1.75786e-08 you 1.0026e-11
+align 6 </s> 1

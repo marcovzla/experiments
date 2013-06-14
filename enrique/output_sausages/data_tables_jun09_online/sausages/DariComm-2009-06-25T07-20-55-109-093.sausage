@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 you 0.764158 do 0.23583 use 1.17233e-05
+align 2 *DELETE* 0.744567 you 0.255433
+align 3 saying 0.937016 send 0.0624036 stand 0.000311369 say 0.000257553 and 1.17233e-05
+align 4 you 0.996761 you're 0.00193181 your 0.000842957 the 0.000252488 he 0.000125414 and 8.62596e-05
+align 5 *DELETE* 0.999839 you 8.62596e-05 required 7.5023e-05
+align 6 require 0.999925 of 7.5023e-05
+align 7 water 0.990952 of 0.0084292 the 0.000555657 waddah 6.28526e-05
+align 8 *DELETE* 0.991015 water 0.00898485
+align 9 machines 1 *DELETE* 6.95364e-14
+align 10 *DELETE* 0.999818 i 0.000151056 uh 3.00426e-05 missions 3.78599e-07 to 2.08784e-07 do 1.07652e-07 and 1.88122e-08 that 1.14114e-13 it 4.25905e-15
+align 11 </s> 1

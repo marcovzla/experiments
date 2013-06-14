@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 i 0.955341 uh 0.0446588
+align 2 *DELETE* 0.949343 i 0.0506565
+align 3 i'm 0.659624 i 0.443356
+align 4 *DELETE* 0.999942 i 5.81821e-05
+align 5 *DELETE* 0.659624 am 0.340376
+align 6 saying 1
+align 7 that 1
+align 8 when 1
+align 9 you 1
+align 10 go 1
+align 11 on 1
+align 12 patrol 1
+align 13 individually 1
+align 14 um 1
+align 15 you 0.998297 he 0.00170329
+align 16 may 0.651815 made 0.348185
+align 17 do 0.651815 you 0.179314 *DELETE* 0.168871
+align 18 *DELETE* 0.524012 you 0.475988
+align 19 things 0.96124 thanks 0.0241996 thing's 0.01456
+align 20 a 0.99347 the 0.00280842 to 0.00252294 *DELETE* 0.00063608 this 0.000329222 uh 0.000113316 as 7.50159e-05 at 2.00534e-05 sir 1.81002e-05 in 5.66996e-06 of 1.06553e-06 that 4.61676e-07
+align 21 certain 0.99995 surgeon 2.19706e-05 and 1.81002e-05 sir 9.73846e-06 certainly 1.71331e-07
+align 22 *DELETE* 0.99999 and 9.73846e-06
+align 23 way 0.999391 weigh 0.000359647 away 0.00024887
+align 24 *DELETE* 0.999837 uh 0.000136873 i 2.59625e-05 if 3.24617e-07 of 1.37715e-08
+align 25 </s> 1

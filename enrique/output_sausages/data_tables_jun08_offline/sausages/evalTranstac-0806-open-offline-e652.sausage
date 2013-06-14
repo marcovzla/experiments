@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 to 0.999773 does 0.000227293
+align 2 see 0.999773 he 0.000227232
+align 3 if 1
+align 4 he's 0.973007 he 0.0217714 you 0.00522135
+align 5 *DELETE* 0.978229 is 0.0217714
+align 6 a 0.994779 see 0.00522135
+align 7 most 1
+align 8 wanted 1
+align 9 to 0.894491 *DELETE* 0.105509
+align 10 uh 0.628142 an 0.262535 the 0.0436856 *DELETE* 0.0292546 insurgent 0.0183871 a 0.0163676 in 0.000839787 dead 0.000493616 insurgents 0.000285454 insurgence 8.6885e-06 insurgents' 9.25059e-08
+align 11 insurgent 0.981008 *DELETE* 0.0186813 insurgents 0.000299287 insurgence 1.13183e-05
+align 12 </s> 1

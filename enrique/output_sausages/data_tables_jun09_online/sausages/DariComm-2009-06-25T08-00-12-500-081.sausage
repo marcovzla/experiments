@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 to 1
+align 6 use 1
+align 7 latex 1
+align 8 gloves 1
+align 9 *DELETE* 0.999933 i 3.39366e-05 uh 2.65107e-05 you 5.512e-06 on 9.43657e-07 are 6.57425e-08 to 9.29919e-09 do 8.02788e-10 in 5.19583e-10
+align 10 </s> 1

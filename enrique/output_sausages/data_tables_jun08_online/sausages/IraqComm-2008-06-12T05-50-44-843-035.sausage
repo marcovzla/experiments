@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 happy 1
+align 3 are 1
+align 4 the 1
+align 5 workers 1
+align 6 in 0.711436 on 0.285477 and 0.00290679 i'm 0.000180193
+align 7 your 0.998649 the 0.00135128
+align 8 farm 0.999998 *DELETE* 3.77755e-10
+align 9 *DELETE* 0.999997 far 2.45833e-06 now 6.13962e-07 for 5.09423e-12 farms 5.93897e-13 form 1.63212e-21 four 1.52732e-23
+align 10 </s> 1

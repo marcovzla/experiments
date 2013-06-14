@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 well 0.89892 we'll 0.0882487 will 0.00556595 full 0.00536035 wool 0.000913381 low 0.000660137 i 0.000331233
+align 2 *DELETE* 0.999669 will 0.000331233
+align 3 anything 1
+align 4 at 0.622138 *DELETE* 0.28744 it 0.0786116 in 0.0118111
+align 5 all 0.90497 i'll 0.0950299
+align 6 be 1
+align 7 found 1
+align 8 in 0.981526 on 0.0184099 then 6.4208e-05
+align 9 the 0.991612 a 0.00838183 that 6.24388e-06
+align 10 truck 0.973783 trunk 0.0261686 *DELETE* 4.88472e-05
+align 11 *DELETE* 0.998601 uh 0.00134973 trucks 4.88472e-05 i 2.54519e-12
+align 12 </s> 1

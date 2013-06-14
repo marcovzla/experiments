@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 and 0.912708 *DELETE* 0.0872919
+align 3 uh 0.912708 now 0.0872919
+align 4 do 1
+align 5 uh 0.999999 i 6.523e-07
+align 6 *DELETE* 0.943285 uh 0.0567143 i 1.63017e-07
+align 7 do 1
+align 8 you 1
+align 9 have 0.999737 had 0.000263481
+align 10 the 0.948172 a 0.0518276
+align 11 personnel 0.999679 person 0.000321107
+align 12 so 0.999679 also 0.000321107
+align 13 we 1
+align 14 could 1
+align 15 uh 0.99991 the 9.01892e-05
+align 16 physically 1
+align 17 due 0.875059 do 0.118763 dude 0.00617807
+align 18 to 1
+align 19 be 1
+align 20 cheap 0.425589 sheep 0.268704 she 0.233523 see 0.0634019 c._p. 0.00587234 c 0.00160037 sea 0.000766937 sick 0.000541975
+align 21 ease 0.472112 peas 0.259922 use 0.120467 he's 0.078082 peace 0.0237084 piece 0.0156215 used 0.00881922 his 0.00645629 each 0.00452777 *DELETE* 0.00293198 is 0.00284366 east 0.00195147 yes 0.00106396 as 0.000541975 eased 0.000407771 eats 0.000230085 you 9.91571e-05 so 9.66939e-05 you's 7.69759e-05 peach 4.06781e-05 using 2.1188e-07
+align 22 *DELETE* 0.999944 so 4.51518e-05 a 8.64474e-06 i 1.85112e-06 uh 2.72959e-07
+align 23 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 well 0.999989 while 1.09642e-05
+align 2 i 1
+align 3 *DELETE* 0.999366 i 0.000633593
+align 4 will 1
+align 5 give 1
+align 6 you 1
+align 7 my 0.999978 may 2.17825e-05
+align 8 name 1
+align 9 *DELETE* 0.968855 uh 0.0303432 is 0.00035754 i 0.000182144 a 0.000156758 of 5.16727e-05 it 3.73549e-05 in 1.13422e-05 at 1.90086e-06 or 1.74698e-06 to 1.04864e-06 as 3.7981e-07
+align 10 </s> 1

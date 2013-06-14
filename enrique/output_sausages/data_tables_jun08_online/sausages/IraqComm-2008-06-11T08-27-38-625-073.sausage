@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 your 0.829549 the 0.104541 a 0.0315833 you're 0.0228615 their 0.00601315 or 0.00503137 *DELETE* 0.000281583 they're 0.00013835
+align 2 patrol 1
+align 3 practicing 0.944814 practice 0.0546699 a 0.000479895 i 2.14708e-05 practiced 1.44603e-05 pack 4.81652e-11 packed 3.17252e-11
+align 4 *DELETE* 1 this 7.98905e-11 practice 1.22862e-13
+align 5 *DELETE* 0.944725 in 0.0327051 and 0.02149 practicing 0.000487772 on 0.000296592 an 0.000186511 uh 9.37541e-05 practice 1.35944e-05 i'm 2.0978e-06 him 1.92921e-08 oh 3.09811e-09 end 1.47574e-10 thing 6.67395e-13 them 2.13004e-15
+align 6 *DELETE* 0.99998 in 1.35799e-05 i 5.9596e-06 and 1.45288e-08 uh 6.88738e-13
+align 7 </s> 1

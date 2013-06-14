@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 well 0.891792 oh 0.107501 uh 0.000706307
+align 2 *DELETE* 0.999291 uh 0.000706307 oh 2.51059e-06
+align 3 i 1
+align 4 i 0.99996 *DELETE* 4.03809e-05
+align 5 i 1
+align 6 *DELETE* 0.999256 i 0.000743935
+align 7 *DELETE* 0.926824 i 0.0731762
+align 8 can 0.853868 could 0.144653 couldn't 0.00147929
+align 9 check 0.999904 you 6.41809e-05 *DELETE* 3.16814e-05
+align 10 *DELETE* 0.999936 i 6.41809e-05
+align 11 and 0.999904 can 6.41809e-05 *DELETE* 3.16814e-05
+align 12 see 0.99972 *DELETE* 0.000280446
+align 13 if 0.99972 *DELETE* 0.000248765 checking 3.16814e-05
+align 14 he's 0.952482 you 0.0472374 c._v.s 0.000280446
+align 15 *DELETE* 0.952763 see 0.0472374
+align 16 here 1
+align 17 *DELETE* 0.670276 we 0.282416 were 0.0286418 we're 0.0153413 will 0.00294171 one 0.000229881 well 0.000138951 we'll 1.40133e-05
+align 18 </s> 1

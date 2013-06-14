@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 hello 0.994537 *DELETE* 0.00546257
+align 2 how 0.92425 *DELETE* 0.0757498 oh 2.38391e-10
+align 3 *DELETE* 0.994538 long 0.00546189
+align 4 are 0.99959 uh 0.000225579 i 0.00018361 low 6.77046e-07
+align 5 *DELETE* 0.999999 i 6.90624e-07
+align 6 you 0.999913 i 8.69908e-05 *DELETE* 8.2193e-11
+align 7 *DELETE* 0.999636 uh 0.000156717 in 0.000100118 you 8.69908e-05 the 1.82184e-05 do 1.78476e-06 i 2.25412e-07 u 1.7333e-07 a 2.88998e-08
+align 8 </s> 1

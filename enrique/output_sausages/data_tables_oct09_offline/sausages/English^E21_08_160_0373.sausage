@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 procedures 1
+align 3 do 1
+align 4 you 1
+align 5 guys 1
+align 6 have 1
+align 7 for 0.990423 to 0.00855626 four 0.00102012 *DELETE* 2.07207e-10
+align 8 that 1
+align 9 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.998215 where 0.000886056 when 0.000773944 one 9.02878e-05 well 3.47584e-05
+align 2 is 1
+align 3 your 1
+align 4 plan 1
+align 5 for 1
+align 6 improving 1
+align 7 the 0.999248 that 0.000745494 their 6.03371e-06
+align 8 clinic 1
+align 9 </s> 1

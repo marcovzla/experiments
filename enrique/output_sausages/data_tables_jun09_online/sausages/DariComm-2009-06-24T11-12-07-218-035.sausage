@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 ran 0.860507 run 0.139443 rain 4.74116e-05 rent 3.38284e-06 read 5.61422e-16
+align 4 *DELETE* 0.999949 and 5.14596e-05
+align 5 into 0.999949 to 5.14596e-05
+align 6 any 1
+align 7 talaban 1
+align 8 while 0.904711 well 0.0949043 *DELETE* 0.000384365
+align 9 out 0.999485 balat 0.000335435 i 0.000114807 about 4.85077e-05 *DELETE* 1.60268e-05
+align 10 on 0.999865 don't 0.000114807 i'm 1.94476e-05 bottom 4.21825e-07 um 2.4749e-27
+align 11 patrol 1
+align 12 *DELETE* 0.999774 i 0.000221646 to 2.44343e-06 uh 1.94842e-06 in 3.96565e-07 it 5.44842e-10 and 1.95807e-10 you 2.8659e-12 with 4.0099e-13
+align 13 </s> 1

@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 that's 0.999903 it's 9.71677e-05
+align 3 a 0.576049 the 0.422804 that 0.00114703
+align 4 kid 0.993897 kit 0.00610319
+align 5 uh 0.545808 i 0.454192
+align 6 at 0.545808 i 0.231029 *DELETE* 0.223163
+align 7 that 0.545808 i'd 0.194519 tie 0.176806 *DELETE* 0.0473986 i've 0.0291999 thought 0.00626814
+align 8 was 0.728883 just 0.16795 goes 0.052806 doves 0.0349045 dose 0.0117714 as 0.00368537
+align 9 talking 1
+align 10 about 1
+align 11 now 0.997833 uh 0.00215551 the 1.17044e-05
+align 12 *DELETE* 0.999853 uh 0.000147096
+align 13 where 0.999931 *DELETE* 6.91091e-05
+align 14 is 0.999931 where's 6.91091e-05
+align 15 the 1 that 1.62602e-08
+align 16 child 0.999955 *DELETE* 4.53371e-05
+align 17 *DELETE* 0.999579 uh 0.000243505 in 0.000130844 job 4.15379e-05 trial 3.79897e-06 i 9.9416e-07 and 1.2197e-08 who 6.7532e-09 tribe 2.20556e-10
+align 18 </s> 1

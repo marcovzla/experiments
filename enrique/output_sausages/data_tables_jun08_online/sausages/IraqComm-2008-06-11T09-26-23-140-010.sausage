@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 0.999974 well 2.60948e-05
+align 2 can 1
+align 3 i 1
+align 4 do 1
+align 5 for 1
+align 6 you 1
+align 7 </s> 1

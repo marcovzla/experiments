@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 computer 0.9428 a 0.0474661 the 0.00973332 oh 1.02602e-06
+align 2 *DELETE* 0.9428 computer 0.0572005
+align 3 plans 0.966951 plants 0.0219474 planes 0.00860816 plane 0.00174864 plan 0.000744417 *DELETE* 1.43561e-20
+align 4 directions 0.986385 to 0.0111007 struck 0.00243058 *DELETE* 6.24754e-05 direction 2.15048e-05 trucks 8.74338e-14 planned 5.63022e-16
+align 5 *DELETE* 0.986168 actions 0.0111007 turns 0.00243058 and 0.00013858 structures 6.24754e-05 in 5.91872e-05 so 2.17243e-05 i 1.058e-05 uh 7.85448e-06 on 8.65863e-10 some 4.26755e-14 of 2.93519e-14 to 9.86063e-18 is 5.9725e-20 trans 6.26675e-21
+align 6 *DELETE* 1 some 8.74338e-14 in 4.60416e-15
+align 7 </s> 1

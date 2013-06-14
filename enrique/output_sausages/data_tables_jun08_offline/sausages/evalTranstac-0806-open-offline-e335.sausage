@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 most 1
+align 2 likely 1
+align 3 if 1
+align 4 he's 0.962534 he 0.0374658
+align 5 *DELETE* 0.962534 is 0.0374658
+align 6 not 1
+align 7 breathing 1
+align 8 he'll 0.997153 you'll 0.00284661
+align 9 be 1
+align 10 unconscious 0.904791 on 0.0909615 um 0.00178621 i'm 0.00169615 and 0.000524204 owned 0.000171116 in 6.97177e-05
+align 11 *DELETE* 0.90479 conscious 0.0942269 conscience 0.000981967 i 1.4132e-06
+align 12 </s> 1

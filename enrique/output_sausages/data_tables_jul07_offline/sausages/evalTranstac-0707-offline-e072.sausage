@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 so 0.950159 some 0.0316455 still 0.0181661 silly 2.98563e-05
+align 2 mistake 0.643499 they 0.24888 this 0.0888864 mistaken 0.010537 mister 0.00581218 lease 0.00235518 stated 2.98563e-05
+align 3 *DELETE* 0.300111 i 0.272639 stay 0.24888 take 0.0910995 it 0.081955 of 0.00512719 taken 0.000142135 and 4.61338e-05
+align 4 *DELETE* 0.612692 could 0.147557 a 0.107199 good 0.0719634 can 0.0351724 it 0.0254162
+align 5 do 0.686803 idea 0.174773 again 0.0674433 due 0.0575328 did 0.0134481
+align 6 *DELETE* 0.998618 it 0.00138158
+align 7 for 1 *DELETE* 1.22162e-09
+align 8 a 0.999821 *DELETE* 0.000179008 four 4.32063e-07
+align 9 lot 0.996037 line 0.00366664 lock 0.000116579 alive 0.000105107 allowing 7.43331e-05
+align 10 *DELETE* 0.999918 of 8.21011e-05
+align 11 for 1
+align 12 your 1
+align 13 hospitality 1
+align 14 *DELETE* 1 and 3.71073e-07
+align 15 letting 1
+align 16 us 1
+align 17 stay 1
+align 18 at 1
+align 19 your 1
+align 20 place 1
+align 21 </s> 1

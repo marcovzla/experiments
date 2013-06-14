@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 he 0.996367 she 0.00363271
+align 3 need 1
+align 4 any 1
+align 5 items 1
+align 6 while 0.993706 well 0.00606635 wa'el 0.000210584 swell 1.69566e-05
+align 7 he's 0.999147 his 0.000703991 is 0.000111808 ease 2.46871e-05 these 1.27547e-05
+align 8 resting 0.999961 rest 3.85028e-05
+align 9 *DELETE* 0.999256 uh 0.000693825 thing 3.85028e-05 i 7.88846e-06 in 2.88115e-06 a 1.26681e-06 on 1.34665e-11
+align 10 </s> 1

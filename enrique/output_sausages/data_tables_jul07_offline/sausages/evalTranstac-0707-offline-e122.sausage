@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 she 0.979086 sure 0.0132899 should 0.00752879 shirt 9.50377e-05
+align 2 should 0.999429 sure 0.000570658
+align 3 be 1
+align 4 no 0.997685 know 0.00231549
+align 5 side 1
+align 6 effects 0.974251 effect 0.0257495
+align 7 it 0.59109 *DELETE* 0.244479 it's 0.0731931 its 0.0623395 and 0.0159379 that 0.0129602
+align 8 it's 0.771516 *DELETE* 0.135533 is 0.0927948 its 0.000157049
+align 9 going 0.999475 *DELETE* 0.000525056
+align 10 to 0.999475 kind 0.000525056
+align 11 *DELETE* 0.992149 be 0.00732622 of 0.000525056
+align 12 it's 1
+align 13 going 0.912325 *DELETE* 0.0876754
+align 14 to 0.912325 gonna 0.0876754
+align 15 coat 0.426051 cope 0.40092 come 0.167906 coke 0.00512262
+align 16 his 1
+align 17 stomach 1
+align 18 uh 0.922066 to 0.0779341
+align 19 make 1
+align 20 him 0.960282 them 0.0397181
+align 21 feel 1
+align 22 better 1
+align 23 and 0.562146 in 0.437854
+align 24 uh 1
+align 25 a 0.991764 uh 0.00822114 *DELETE* 1.52191e-05
+align 26 and 0.958523 in 0.0308353 an 0.00919839 a 0.000553454 uh 0.000469079 *DELETE* 0.00040538 aim 1.51817e-05 ain't 3.73459e-08
+align 27 *DELETE* 0.998977 in 0.00102253
+align 28 get 1
+align 29 rid 1
+align 30 of 1
+align 31 the 0.980674 *DELETE* 0.013816 a 0.00551047 it 2.52905e-09
+align 32 diarrhea 1
+align 33 *DELETE* 1 i 1.32998e-07 a 1.83936e-10 uh 1.10389e-10 it 4.1906e-12
+align 34 </s> 1

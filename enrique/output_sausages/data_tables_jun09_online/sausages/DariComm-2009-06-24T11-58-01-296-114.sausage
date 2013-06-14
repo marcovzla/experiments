@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 other 1
+align 6 members 1
+align 7 *DELETE* 0.63787 of 0.36213
+align 8 the 0.871656 they 0.0863493 that 0.0276925 there 0.014302
+align 9 live 0.999931 *DELETE* 6.87705e-05
+align 10 here 0.997562 there 0.0023696 liver 6.87705e-05
+align 11 with 1
+align 12 you 1
+align 13 *DELETE* 0.99617 uh 0.00382957 i 3.45679e-09
+align 14 </s> 1

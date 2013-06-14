@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 any 1
+align 4 other 1
+align 5 government 1
+align 6 buildings 1
+align 7 in 0.999988 and 1.1631e-05
+align 8 the 0.999978 that 2.15618e-05
+align 9 village 1
+align 10 </s> 1

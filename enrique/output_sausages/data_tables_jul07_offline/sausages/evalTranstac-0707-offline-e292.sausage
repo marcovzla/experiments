@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 listen 1
+align 2 we 1
+align 3 need 1
+align 4 to 1
+align 5 you 0.747611 uh 0.252389
+align 6 uh 0.992115 *DELETE* 0.00788493
+align 7 i 1
+align 8 need 1
+align 9 to 1
+align 10 teach 1
+align 11 you 1
+align 12 about 1
+align 13 sectors 1
+align 14 of 1
+align 15 fire 0.999997 five 2.92306e-06
+align 16 *DELETE* 0.999996 uh 1.72874e-06 it 1.08838e-06 is 4.88335e-07 a 3.17888e-07 are 4.97651e-08 to 1.21339e-08
+align 17 </s> 1

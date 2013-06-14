@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 and 0.975743 then 0.024257
+align 3 this 1
+align 4 one 1
+align 5 is 1
+align 6 by 0.993191 buy 0.00680942
+align 7 the 0.999448 that 0.000536713 they 1.53988e-05
+align 8 canal 0.986978 canals 0.00956291 command 0.00179821 can 0.000756874 canoe 0.000405832 knaw 0.000391319 connect 6.23458e-05 commander 2.18542e-05 content 1.4722e-05 cannot 5.63486e-06 contents 1.7076e-06 container 9.57017e-07 canned 5.39673e-09
+align 9 *DELETE* 0.999313 have 0.000283627 now 0.000170061 i 9.14306e-05 at 7.82336e-05 and 3.55435e-05 that 1.18932e-05 there 8.59484e-06 uh 6.98562e-06 add 1.01979e-06 to 4.1531e-08 ask 1.07693e-09
+align 10 </s> 1

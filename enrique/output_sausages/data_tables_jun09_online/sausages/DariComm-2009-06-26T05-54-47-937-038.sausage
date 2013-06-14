@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 mean 0.999948 *DELETE* 5.19685e-05
+align 4 it's 0.548552 is 0.451396 this 5.19685e-05
+align 5 being 0.978286 mean 0.0216791 clean 3.23077e-05 be 2.91998e-06
+align 6 a 0.813841 *DELETE* 0.163317 in 0.0228412
+align 7 in 0.977159 *DELETE* 0.0228412
+align 8 uh 0.682501 *DELETE* 0.317499
+align 9 in 0.682501 a 0.174308 at 0.143191
+align 10 this 0.682501 dentist 0.14845 dentists 0.103309 dennis 0.0654753 denis 0.000264819 can 4.41493e-07 its 4.40163e-22
+align 11 *DELETE* 1 this 4.41493e-07 is 1.37333e-32
+align 12 uh 0.862193 and 0.135923 *DELETE* 0.00188468
+align 13 *DELETE* 0.970713 uh 0.0252401 in 0.00142045 i 0.000922558 oh 0.000612718 an 0.000554017 the 0.000324391 a 0.000187659 it 1.92686e-05 um 2.69883e-06 to 2.50018e-06 if 1.01763e-06 you 7.53867e-08 and 6.35709e-09 i'm 2.404e-09 do 1.23642e-15 on 5.75828e-16 is 3.63202e-19
+align 14 </s> 1

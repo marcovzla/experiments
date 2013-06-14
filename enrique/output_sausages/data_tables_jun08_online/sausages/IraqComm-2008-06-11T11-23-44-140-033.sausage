@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 as 0.511804 how 0.253852 has 0.225773 *DELETE* 0.00857083
+align 2 *DELETE* 0.737577 is 0.262423
+align 3 their 0.917277 a 0.0825392 the 0.000135762 they're 3.66426e-05 there 1.15626e-05
+align 4 condition 1
+align 5 gotten 0.989163 got 0.0108373 *DELETE* 1.40351e-11
+align 6 *DELETE* 0.994802 in 0.00497342 and 0.000224764 a 4.99889e-18
+align 7 worse 0.991152 an 0.00455771 *DELETE* 0.00428992 god 3.05325e-09
+align 8 *DELETE* 0.991137 worst 0.00748947 worse 0.00135775 i 1.44032e-05 or 9.93739e-07 where's 4.08818e-07 wears 1.95247e-09 uh 3.40672e-12
+align 9 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 what 1
+align 3 is 1
+align 4 your 1
+align 5 title 0.999616 tile 0.000381866 time 2.07026e-06 *DELETE* 1.67246e-15
+align 6 *DELETE* 0.999998 i'll 2.07026e-06 titled 1.08787e-09
+align 7 </s> 1

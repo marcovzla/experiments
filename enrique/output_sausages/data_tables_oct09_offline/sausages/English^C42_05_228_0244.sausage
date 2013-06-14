@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 about 1
+align 3 the 1
+align 4 wells 1
+align 5 and 0.987748 in 0.0122516
+align 6 the 1
+align 7 irrigation 1
+align 8 system 0.999001 systems 0.000999107
+align 9 *DELETE* 0.999997 i 2.07083e-06 too 5.1496e-07 to 2.86875e-08
+align 10 </s> 1

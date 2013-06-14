@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 animals 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 *DELETE* 0.996577 uh 0.00242954 a 0.000706532 it 0.000266192 to 1.95346e-05 i 1.01863e-06 the 5.78019e-09
+align 9 </s> 1

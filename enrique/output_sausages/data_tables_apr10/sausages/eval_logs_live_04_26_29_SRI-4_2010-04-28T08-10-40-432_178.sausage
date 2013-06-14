@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 captain 1
+align 7 smith 1
+align 8 *DELETE* 0.999829 i 0.000165478 i'm 4.51573e-06 uh 4.55638e-07 is 4.33315e-07 and 2.41104e-07 was 1.33728e-07 that 1.17677e-08 there 9.21461e-09 oh 7.75333e-09 with 2.67188e-09 of 9.36918e-10 it 1.75466e-10 as 7.8022e-11
+align 9 </s> 1

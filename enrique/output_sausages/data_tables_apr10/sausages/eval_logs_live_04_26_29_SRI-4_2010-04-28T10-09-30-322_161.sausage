@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 0.999998 where 1.79291e-06
+align 2 is 0.999292 does 0.000707695
+align 3 your 1
+align 4 brother's 0.992595 brothers 0.00728287 brothers' 0.000122193
+align 5 *DELETE* 0.999864 a 0.000136261
+align 6 age 0.999995 aged 5.23608e-06 engage 5.38862e-08
+align 7 </s> 1

@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.999994 um 5.76203e-06
+align 2 in 1
+align 3 charge 1
+align 4 </s> 1

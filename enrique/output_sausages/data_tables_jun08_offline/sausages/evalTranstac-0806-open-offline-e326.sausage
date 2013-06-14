@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 a 0.959806 and 0.0303829 in 0.00981126
+align 2 nice 0.959806 he's 0.0299087 these 0.0102854
+align 3 looking 1
+align 4 motion 1
+align 5 so 1
+align 6 you 1
+align 7 don't 1
+align 8 actually 1
+align 9 push 1
+align 10 uh 1
+align 11 the 0.998547 be 0.00145259
+align 12 obstruction 0.998089 instruction 0.00191109
+align 13 down 1
+align 14 to 0.999555 too 0.000445305
+align 15 the 0.999932 *DELETE* 6.75099e-05
+align 16 throat 0.998979 throughout 0.000466066 throw 0.000249985 thrown 0.000228265 throats 7.65245e-05
+align 17 *DELETE* 0.999744 i 0.000133529 a 7.04398e-05 uh 4.78044e-05 it 2.67767e-06 of 1.34748e-06 in 3.9997e-07 is 1.26412e-08
+align 18 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 how 1
+align 4 are 1
+align 5 you 1
+align 6 today 1
+align 7 *DELETE* 0.999852 uh 0.000140465 i'm 6.70482e-06 i 5.40909e-07 or 1.23696e-08
+align 8 </s> 1

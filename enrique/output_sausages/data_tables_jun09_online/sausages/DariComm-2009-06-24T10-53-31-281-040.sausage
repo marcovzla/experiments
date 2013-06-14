@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 name 1
+align 4 of 0.98488 off 0.0146685 a 0.000451112
+align 5 few 0.883605 you 0.0916576 the 0.023436 fee 0.00130179
+align 6 medicines 0.572857 medicine 0.427143
+align 7 medicines 1
+align 8 that 1
+align 9 you 1
+align 10 need 1 *DELETE* 3.78825e-16
+align 11 *DELETE* 0.998682 uh 0.00067305 to 0.000337368 it 0.0002467 a 5.71896e-05 that 3.00076e-06 and 1.69879e-07 in 1.32417e-07 as 1.02198e-07 us 8.96454e-08 you 1.77166e-10 i 3.09949e-12 knead 1.01564e-12 is 6.93189e-13
+align 12 </s> 1

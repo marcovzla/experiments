@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 there 1
+align 2 is 0.99132 isn't 0.00867963
+align 3 many 0.99132 any 0.00867963
+align 4 um 0.966164 uh 0.0338363
+align 5 children 0.917875 uh 0.0797648 i 0.00235984
+align 6 *DELETE* 0.917875 children 0.0821246
+align 7 in 0.796235 and 0.198605 an 0.00424219 on 0.00091814
+align 8 local 1
+align 9 citizens 1
+align 10 injured 1
+align 11 due 0.97244 do 0.0266444 *DELETE* 0.000915253
+align 12 to 0.999085 duty 0.000915253
+align 13 celebrate 1
+align 14 torie 0.49973 tori 0.49973 or 0.000540115
+align 15 *DELETE* 0.99946 a 0.000540115
+align 16 fire 1
+align 17 and 0.982272 in 0.0177278
+align 18 it 1
+align 19 also 1
+align 20 wastes 0.99896 ways 0.00103966
+align 21 ammunition 1
+align 22 *DELETE* 0.999992 i 4.90598e-06 uh 3.25857e-06
+align 23 </s> 1

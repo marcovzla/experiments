@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 well 0.921644 what 0.0783557
+align 2 we 1
+align 3 can 1
+align 4 do 1
+align 5 we 0.999997 he 2.85936e-06
+align 6 can 1
+align 7 uh 0.805769 *DELETE* 0.194231
+align 8 we 1
+align 9 can 1
+align 10 *DELETE* 0.999995 you 4.55563e-06
+align 11 use 1
+align 12 our 0.794159 all 0.176577 *DELETE* 0.0292642
+align 13 *DELETE* 0.798633 our 0.172102 are 0.0292642
+align 14 military 1
+align 15 policeman 0.855553 policemen 0.141931 police 0.00251601
+align 16 *DELETE* 0.997484 man 0.00210776 men 0.000408242
+align 17 to 1
+align 18 assist 1
+align 19 in 1
+align 20 the 0.983812 that 0.0161882
+align 21 *DELETE* 0.66012 inch 0.330856 end 0.00618065 and 0.00284316
+align 22 interim 0.6601 from 0.339146 front 0.000733962 entrance 2.07566e-05
+align 23 training 0.999973 *DELETE* 2.68499e-05
+align 24 *DELETE* 0.999132 uh 0.000814046 train 2.63555e-05 i 2.51105e-05 in 1.07968e-06 a 9.3422e-07 trained 3.77983e-07 trainings 1.01113e-07 terrain 1.52882e-08 trying 2.57001e-11
+align 25 </s> 1

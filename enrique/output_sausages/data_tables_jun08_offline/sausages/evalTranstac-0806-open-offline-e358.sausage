@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 correct 1
+align 4 *DELETE* 0.997742 sir 0.00145088 so 0.000807415
+align 5 </s> 1

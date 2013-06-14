@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 is 0.999932 it's 6.77874e-05
+align 2 the 0.999986 a 1.38041e-05
+align 3 pleasure 1
+align 4 *DELETE* 0.999986 it 1.38041e-05
+align 5 is 0.888668 it 0.111332
+align 6 a 0.777654 is 0.111332 *DELETE* 0.111014
+align 7 pleasure 1
+align 8 to 1
+align 9 meet 1
+align 10 you 0.949257 your 0.0507431
+align 11 how 0.999699 *DELETE* 0.000301443
+align 12 is 0.999699 how's 0.000301443
+align 13 your 1
+align 14 family 1
+align 15 *DELETE* 0.999853 uh 0.000135615 i 7.89183e-06 now 2.25862e-06 to 1.0236e-06
+align 16 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 material 0.997875 materials 0.00212524
+align 5 *DELETE* 0.996508 in 0.00335584 and 0.000135864
+align 6 do 1
+align 7 you 1
+align 8 recommend 1
+align 9 for 1
+align 10 this 1
+align 11 type 1
+align 12 of 1
+align 13 bridge 1
+align 14 *DELETE* 0.999983 i 1.56092e-05 uh 1.33763e-06 it 5.45703e-08
+align 15 </s> 1

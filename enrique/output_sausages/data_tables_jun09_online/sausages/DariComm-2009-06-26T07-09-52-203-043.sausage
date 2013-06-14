@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 sorry 1
+align 3 to 1
+align 4 hear 0.999999 here 6.37501e-07
+align 5 that 1 of 2.17515e-07
+align 6 *DELETE* 0.994526 uh 0.00543564 i 3.81779e-05 that 2.17515e-07 um 1.93211e-07 you 2.60782e-14
+align 7 </s> 1

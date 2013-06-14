@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 has 1
+align 2 anyone 1
+align 3 gotten 1
+align 4 sick 1
+align 5 *DELETE* 0.999642 i 0.000188947 uh 0.000166373 of 2.32855e-06 i'm 4.27569e-07 a 4.16823e-07 if 4.01923e-14 to 5.13439e-15 you 4.01812e-15
+align 6 </s> 1

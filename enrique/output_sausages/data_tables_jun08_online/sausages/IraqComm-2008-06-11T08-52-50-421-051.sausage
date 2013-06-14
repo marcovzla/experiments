@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 have 0.544962 i 0.455038
+align 2 *DELETE* 0.544962 have 0.455038
+align 3 workers 0.999298 workers' 0.000442742 worker's 0.000259345
+align 4 joined 0.88931 join 0.10583 joins 0.0038143 joint 0.00104564
+align 5 the 0.999636 *DELETE* 0.000363597
+align 6 insurgency 1 insurgents 2.18238e-07
+align 7 *DELETE* 0.999735 uh 0.000264674 see 2.18238e-07
+align 8 </s> 1

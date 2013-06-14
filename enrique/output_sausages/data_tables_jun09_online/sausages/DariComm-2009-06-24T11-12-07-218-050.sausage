@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 0.998532 hi 0.00146831
+align 2 do 1
+align 3 you 1
+align 4 want 1
+align 5 me 1
+align 6 to 1
+align 7 help 1
+align 8 you 1
+align 9 *DELETE* 0.99717 uh 0.00275257 with 3.42747e-05 do 2.71089e-05 i 9.29817e-06 to 4.23776e-06 um 1.95548e-06 know 9.51656e-07 in 2.21617e-08 and 4.29382e-10 so 1.76719e-10
+align 10 </s> 1

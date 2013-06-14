@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 uh 0.962759 all 0.0355705 alright 0.00167062
+align 2 *DELETE* 0.964429 right 0.0355705
+align 3 good 1
+align 4 afternoon 1
+align 5 sir 1
+align 6 *DELETE* 0.701697 uh 0.294325 i 0.00389667 a 5.0428e-05 eye 1.3574e-05 i'm 1.02486e-05 are 5.62295e-06 i'll 1.40124e-06 up 3.02305e-07
+align 7 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 why 0.79818 well 0.106057 what 0.0228933 i 0.0200811 now 0.0195726 but 0.00792877 oh 0.00705879 that 0.00611712 when 0.00460674 *DELETE* 0.0032783 no 0.00322142 hi 0.000836423 uh 0.000168537
+align 2 *DELETE* 0.816836 i 0.161435 how 0.0217282
+align 3 *DELETE* 0.99184 i 0.00816014
+align 4 do 1
+align 5 you 0.93792 *DELETE* 0.0620804
+align 6 need 1
+align 7 electricity 0.999716 to 0.000231359 a 5.22922e-05
+align 8 *DELETE* 0.99928 uh 0.000430728 electricity 0.000283651 here 5.68856e-06 in 4.39545e-21 he 7.23124e-24
+align 9 </s> 1

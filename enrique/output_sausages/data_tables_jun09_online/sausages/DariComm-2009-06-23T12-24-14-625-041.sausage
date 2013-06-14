@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.998537 do 0.00146269
+align 2 you 1
+align 3 would 0.936084 will 0.0639157
+align 4 have 1
+align 5 to 0.993776 two 0.00622386
+align 6 *DELETE* 0.999848 to 0.000152204
+align 7 people 0.999999 do 1.10356e-06
+align 8 well 0.499112 all 0.249448 will 0.11344 or 0.104799 what 0.0268866 we'll 0.00326861 but 0.00193802 ought 0.000656714 in 0.000436902 *DELETE* 1.39533e-05
+align 9 *DELETE* 0.999563 all 0.000436902
+align 10 one 0.708233 want 0.259057 what 0.030775 won 0.00193523
+align 11 personnel 0.998416 person 0.00158382
+align 12 *DELETE* 0.998606 at 0.000582641 to 0.00045761 now 0.000354106
+align 13 *DELETE* 0.998764 oh 0.000436431 all 0.000384463 uh 0.000160373 hell 8.34513e-05 i 5.17529e-05 l 3.87688e-05 al 3.16769e-05 el 1.93709e-05 health 1.43222e-05 help 1.11929e-05 in 2.1951e-06 it 1.41352e-06 have 5.44046e-08 i'll 5.29435e-08 um 1.13067e-08 do 9.07046e-10 if 1.04691e-12 ell 3.86447e-13 that 3.6759e-13 helped 1.78528e-16
+align 14 </s> 1

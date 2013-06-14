@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 who 0.999553 *DELETE* 0.000447491
+align 2 is 0.999541 who's 0.000438378 was 2.05834e-05
+align 3 the 1
+align 4 headmaster 0.982664 head 0.0173356
+align 5 *DELETE* 0.982664 master 0.0173356
+align 6 at 0.997152 of 0.00224457 *DELETE* 0.000446699 it 0.000109845 if 4.1699e-05 that 4.94569e-06
+align 7 the 0.993848 *DELETE* 0.00439541 this 0.000855866 a 0.000844726 to 5.56691e-05
+align 8 *DELETE* 1 to 5.72983e-13
+align 9 school 1
+align 10 *DELETE* 0.999995 i 3.0389e-06 uh 1.87405e-06 at 2.30574e-07 in 8.44966e-08
+align 11 </s> 1

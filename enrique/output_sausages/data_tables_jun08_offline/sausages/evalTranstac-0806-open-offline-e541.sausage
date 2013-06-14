@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 and 0.955569 in 0.0444309
+align 2 this 0.945036 its 0.0283272 it's 0.0266371
+align 3 air 1
+align 4 support 1
+align 5 only 1
+align 6 going 0.960397 *DELETE* 0.0396029
+align 7 to 0.960397 gonna 0.0396029
+align 8 be 1
+align 9 to 0.992659 two 0.00389569 too 0.00229589 take 0.00114969
+align 10 cover 1
+align 11 for 1
+align 12 any 1
+align 13 vehicles 1
+align 14 coming 1
+align 15 in 1
+align 16 or 1
+align 17 out 1
+align 18 of 1
+align 19 the 1
+align 20 zone 1
+align 21 that 0.787652 they 0.102995 the 0.0736346 it 0.0165586 there 0.00643692 of 0.00361887 then 0.0029274 i 0.00250142 them 0.00223148 and 0.0014438
+align 22 might 0.572191 may 0.427376 my 0.000433316
+align 23 be 1
+align 24 potentially 1
+align 25 dangerous 0.999268 dangers 0.00073226
+align 26 *DELETE* 0.999999 i 5.62562e-07
+align 27 </s> 1

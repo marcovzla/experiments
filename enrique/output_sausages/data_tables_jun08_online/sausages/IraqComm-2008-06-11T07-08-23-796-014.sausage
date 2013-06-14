@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 was 1
+align 2 it 0.974287 that 0.0257127
+align 3 good 0.9989 get 0.000814512 a 0.000281545 give 1.00876e-06 *DELETE* 1.37636e-10
+align 4 *DELETE* 0.9989 it 0.000815521 good 0.000281545 goods 2.90999e-06 uh 1.22685e-07 gay 4.94068e-16
+align 5 </s> 1

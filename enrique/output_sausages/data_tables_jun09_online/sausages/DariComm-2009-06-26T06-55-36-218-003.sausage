@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 about 1
+align 3 the 1
+align 4 food 1
+align 5 here 0.976611 *DELETE* 0.0218599 you 0.00152888
+align 6 in 1 and 3.37343e-07
+align 7 your 1
+align 8 village 1
+align 9 </s> 1

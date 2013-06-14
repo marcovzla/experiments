@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 training 1
+align 3 have 0.958978 had 0.0392734 head 0.00174852
+align 4 engineers 0.980316 engineer's 0.00995694 engineers' 0.00816736 you 0.000789901 your 0.000770214
+align 5 *DELETE* 0.99844 engineers 0.00151992 engineers' 4.01973e-05
+align 6 received 0.999617 receive 0.000382956
+align 7 *DELETE* 0.999668 a 0.00017157 uh 0.000154656 i 5.40417e-06
+align 8 </s> 1

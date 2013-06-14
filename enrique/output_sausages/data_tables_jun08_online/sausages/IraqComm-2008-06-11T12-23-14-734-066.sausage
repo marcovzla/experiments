@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 types 1
+align 3 especially 1
+align 4 us 0.503575 *DELETE* 0.336848 so 0.159578
+align 5 so 0.837053 *DELETE* 0.159845 as 0.00306737 soon 3.40151e-05 it's 1.84986e-07
+align 6 we 0.998566 soon 0.00143439
+align 7 *DELETE* 0.995892 can 0.00267358 we 0.00143439
+align 8 had 0.995535 add 0.00446533
+align 9 to 1 *DELETE* 1.08099e-13
+align 10 your 0.998797 a 0.000584982 *DELETE* 0.000343775 you're 0.000273846 two 2.84613e-11
+align 11 clinic 1 *DELETE* 1.57994e-17
+align 12 *DELETE* 0.999632 i 0.000363475 uh 3.70315e-06 a 3.47398e-07 in 3.65617e-11 is 3.23448e-12 and 9.85153e-13 clinics 6.1257e-13
+align 13 </s> 1

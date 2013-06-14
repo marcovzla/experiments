@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 him 0.42184 in 0.245371 them 0.186426 it 0.0891184 been 0.0556053 *DELETE* 0.00106772 a 0.000571003
+align 4 *DELETE* 0.999424 in 0.000576398
+align 5 here 1
+align 6 in 0.959401 are 0.0311048 on 0.00631553 of 0.0031606 and 1.81541e-05
+align 7 the 0.990548 a 0.00945241
+align 8 prison 0.998262 present 0.00172357 *DELETE* 1.39479e-05
+align 9 *DELETE* 0.999969 i 1.74026e-05 president 7.73445e-06 prisons 3.78521e-06 prisoner 2.4282e-06 is 4.52803e-11
+align 10 </s> 1

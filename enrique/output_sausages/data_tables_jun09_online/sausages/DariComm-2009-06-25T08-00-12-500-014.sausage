@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 check 1
+align 5 for 1
+align 6 *DELETE* 0.839889 a 0.160111
+align 7 breathing 0.965576 breeding 0.0337269 reading 0.000696777
+align 8 *DELETE* 0.999229 uh 0.000485086 i 0.00024277 in 1.50715e-05 and 1.15766e-05 you 1.04893e-05 it 3.79202e-06 if 9.48981e-07 the 6.13797e-07 a 4.46168e-07 is 1.2208e-09 to 1.94736e-11 as 1.38404e-11
+align 9 </s> 1

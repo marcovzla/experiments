@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.84473 do 0.15527
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 doctors 0.987873 doctor's 0.0121269
+align 6 for 0.992975 four 0.00702459
+align 7 your 0.999326 you're 0.000642884 year 3.06716e-05
+align 8 animals 0.999933 animals' 6.6725e-05 *DELETE* 8.05328e-09
+align 9 *DELETE* 0.999782 i 8.25995e-05 uh 4.55952e-05 to 3.79124e-05 in 2.70138e-05 you 1.52643e-05 do 5.56896e-06 it 3.23794e-06 a 4.40637e-07 and 2.25292e-08 did 1.0164e-15
+align 10 *DELETE* 1 animals 1.93077e-07
+align 11 </s> 1

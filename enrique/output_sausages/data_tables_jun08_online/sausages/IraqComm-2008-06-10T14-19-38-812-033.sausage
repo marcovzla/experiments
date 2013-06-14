@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 were 0.813134 where 0.177915 we're 0.00890026 wear 2.91783e-05 or 2.21282e-05
+align 2 these 1
+align 3 actions 0.996758 action 0.00324178
+align 4 successful 1
+align 5 *DELETE* 0.999833 uh 0.00014156 i 2.5277e-05 in 1.05291e-08 it 2.87997e-09 um 9.83393e-13 a 1.06088e-13
+align 6 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 don't 0.999078 didn't 0.000921553
+align 3 understand 1
+align 4 what 1
+align 5 is 0.999923 does 7.66125e-05
+align 6 your 1
+align 7 name 1
+align 8 </s> 1

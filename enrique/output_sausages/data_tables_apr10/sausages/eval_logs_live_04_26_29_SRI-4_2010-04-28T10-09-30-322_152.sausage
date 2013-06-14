@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 did 0.999316 that 0.000679364 the 4.26326e-06
+align 2 the 1
+align 3 americans 1
+align 4 give 1
+align 5 a 1
+align 6 reason 1
+align 7 for 1
+align 8 taking 1
+align 9 your 0.999999 a 1.21457e-06 you're 7.63182e-12
+align 10 brother 1
+align 11 *DELETE* 0.99998 uh 1.98388e-05 at 1.73785e-10
+align 12 </s> 1

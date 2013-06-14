@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 do 1
+align 5 here 0.997936 you 0.00148296 in 0.000542302 the 3.87357e-05 to 1.08531e-10 *DELETE* 2.38968e-21 they 5.53778e-24
+align 6 *DELETE* 0.997935 here 0.00112337 hear 0.000940628 uh 1.11045e-06 dear 5.35426e-18
+align 7 </s> 1

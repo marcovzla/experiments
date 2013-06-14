@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 am 0.858914 mean 0.141086
+align 3 you 0.91018 new 0.0898203
+align 4 new 0.562533 knew 0.437467
+align 5 company 1
+align 6 mansour 0.95008 man's 0.0262232 mans 0.015889 meant 0.00741098 man 0.000394463 manned 2.64424e-06 men's 1.21358e-15
+align 7 *DELETE* 0.949907 for 0.0223473 war 0.015461 work 0.00645177 four 0.00331913 wore 0.00153173 were 0.000302916 tore 0.000269706 word 0.000188711 i 0.000131108 is 2.19442e-05 swore 1.70434e-05 uh 1.64955e-05 we're 1.60135e-05 tour 1.48984e-05 a 1.71821e-06 it 1.01842e-06 who 1.09127e-10 you 4.83778e-11 worked 2.1976e-16
+align 8 *DELETE* 1 are 1.09127e-10
+align 9 </s> 1

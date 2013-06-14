@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 0.952583 any 0.0474169
+align 5 *DELETE* 0.968756 uh 0.0239368 a 0.0065336 i 0.000773152 high 4.31995e-07 of 2.96568e-11
+align 6 </s> 1

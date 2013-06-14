@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.942486 but 0.0522112 and 0.00528674 can 1.44705e-05 that 1.2238e-06
+align 2 i 0.750176 uh 0.193664 *DELETE* 0.0557196 what 0.000440291
+align 3 i 1.00011
+align 4 *DELETE* 0.988603 i 0.0113971
+align 5 think 1
+align 6 we 1
+align 7 need 1
+align 8 to 1
+align 9 send 1
+align 10 a 0.749188 the 0.250812
+align 11 message 0.999118 mess 0.000881804
+align 12 *DELETE* 0.999118 it 0.000881804
+align 13 i'll 1
+align 14 so 1
+align 15 people 1
+align 16 can 1
+align 17 understand 1
+align 18 *DELETE* 0.82879 do 0.117293 if 0.0328755 it 0.00872264 that 0.00770785 uh 0.00218461 a 0.00129143 and 0.000551449 in 0.000549193 the 1.80848e-05 of 1.63253e-05
+align 19 you 0.998618 do 0.00138245
+align 20 *DELETE* 0.998618 you 0.00138245
+align 21 are 1
+align 22 hiring 1
+align 23 at 0.973027 that 0.0131485 them 0.00677961 it 0.00598056 *DELETE* 0.00106388
+align 24 this 1
+align 25 time 1
+align 26 for 0.727112 we're 0.183024 or 0.0832251 were 0.00661911 we 1.98915e-05
+align 27 *DELETE* 0.99998 were 1.98915e-05
+align 28 the 0.903099 these 0.0969007
+align 29 sir 0.733283 certain 0.256038 turn 0.00962097 surgeon 0.000557226 surf 0.000501358
+align 30 positions 0.958123 and 0.0283924 position 0.00784168 in 0.00473683 position's 0.000580799 possessions 0.000182108 positioned 0.000143331
+align 31 *DELETE* 0.966871 positions 0.0323365 position 0.000778321 position's 1.3852e-05 possessions 5.56491e-07
+align 32 </s> 1

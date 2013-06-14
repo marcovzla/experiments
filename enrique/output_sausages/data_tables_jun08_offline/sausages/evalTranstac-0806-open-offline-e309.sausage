@@ -1,0 +1,44 @@
+numaligns 42
+posterior 1
+align 0 <s> 1
+align 1 yeah 0.932724 *DELETE* 0.0599948 uh 0.0072814
+align 2 it's 0.475964 as 0.474175 yes 0.0498604
+align 3 uh 1
+align 4 *DELETE* 0.988673 as 0.00781435 uh 0.00351221
+align 5 some 0.868248 somebody 0.115956 something 0.012513 somebody's 0.00310474 sum 0.000178105
+align 6 in 0.872921 uh 0.127075 and 3.63563e-06
+align 7 *DELETE* 0.872925 in 0.127075
+align 8 the 0.999998 a 2.12679e-06
+align 9 mail 0.557308 mill 0.298379 male 0.144313 middle 4.38042e-07
+align 10 in 0.987262 and 0.0127379
+align 11 the 1
+align 12 army 1
+align 13 uh 0.687678 um 0.312322
+align 14 uh 0.491125 do 0.430385 *DELETE* 0.0389359 you 0.0228793 i 0.0166749
+align 15 *DELETE* 0.983325 do 0.0166749
+align 16 you 0.679474 do 0.297647 *DELETE* 0.0228793
+align 17 *DELETE* 0.702353 you 0.297647
+align 18 have 1
+align 19 uh 1
+align 20 *DELETE* 0.996814 uh 0.00318577
+align 21 you 1
+align 22 don't 1
+align 23 have 1
+align 24 the 1
+align 25 luxury 1
+align 26 of 1
+align 27 of 0.996437 uh 0.00356273
+align 28 *DELETE* 0.996437 of 0.00356273
+align 29 bias 0.524538 by 0.475462
+align 30 *DELETE* 0.524538 its 0.22629 us 0.118928 it's 0.0981418 this 0.0321025
+align 31 or 1
+align 32 the 0.997024 at 0.00227483 of 0.000700687
+align 33 *DELETE* 0.997024 the 0.00297551
+align 34 luxury 1
+align 35 of 1
+align 36 um 1
+align 37 excluding 1
+align 38 people 1
+align 39 you 0.724378 we 0.262724 eat 0.00400653 he 0.00291836 in 0.00172918 yeah 0.00118164 u 0.000742358 yee 0.000568013 yi 0.000568013 each 0.000343715 are 0.000307123 will 0.000140487 ye 9.95168e-05 hugh 9.11865e-05 yu 8.23116e-05 you're 3.7166e-05 your 3.7166e-05 you've 1.25389e-05 or 1.16557e-05 use 1.13185e-05 would 5.35155e-06 you'd 4.56672e-06
+align 40 *DELETE* 0.999988 you 1.16557e-05
+align 41 </s> 1

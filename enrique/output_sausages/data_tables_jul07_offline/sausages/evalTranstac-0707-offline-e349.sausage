@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 no 0.72923 now 0.27077
+align 2 i 1
+align 3 *DELETE* 0.970815 i 0.029185
+align 4 understand 1
+align 5 your 0.718675 you're 0.280401 her 0.000792392 they're 4.97377e-05 here 4.71762e-05 you 1.79491e-05 or 1.17753e-05 their 4.71432e-06 ear 4.29012e-07
+align 6 *DELETE* 0.999982 are 1.63771e-05 were 1.5477e-06
+align 7 busy 1
+align 8 *DELETE* 0.99964 it 0.000338744 uh 2.03981e-05 if 4.68408e-07 you 4.44459e-07 i 2.24836e-07
+align 9 </s> 1

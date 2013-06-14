@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 uh 1
+align 3 *DELETE* 0.998186 uh 0.00181431
+align 4 why 1
+align 5 doing 1
+align 6 that 1
+align 7 you're 0.99991 your 9.02251e-05
+align 8 *DELETE* 0.755044 going 0.244956
+align 9 gonna 0.755044 to 0.244956
+align 10 want 0.651829 *DELETE* 0.348171
+align 11 to 0.651829 wanna 0.348171
+align 12 take 1
+align 13 someone 1
+align 14 else 1
+align 15 or 1
+align 16 yourself 0.990355 you 0.0096446
+align 17 *DELETE* 0.990355 self 0.0096446
+align 18 in 0.776752 and 0.220935 an 0.00226401 end 4.93943e-05
+align 19 uh 0.999223 now 0.000777364
+align 20 *DELETE* 0.999223 uh 0.000777364
+align 21 always 0.933145 uh 0.0668552
+align 22 and 0.880529 always 0.0668552 *DELETE* 0.0447936 we 0.00782256
+align 23 *DELETE* 0.936482 and 0.0635179
+align 24 we 0.713932 *DELETE* 0.2787 in 0.00736709
+align 25 *DELETE* 0.997044 the 0.00136472 an 0.00135797 you 0.000233696
+align 26 keep 0.999913 key 8.68179e-05
+align 27 pressure 1
+align 28 on 1
+align 29 that 1
+align 30 exit 0.979033 *DELETE* 0.0209673
+align 31 wound 0.824567 well 0.0839581 will 0.0705075 excellent 0.0209673
+align 32 and 1
+align 33 uh 0.847807 i'll 0.136322 i 0.0149292 i'd 0.000779048 out 0.000162812
+align 34 *DELETE* 0.997459 uh 0.00254053
+align 35 try 1
+align 36 to 1
+align 37 stop 1
+align 38 the 0.779026 that 0.220974
+align 39 *DELETE* 0.99986 uh 0.000133256 up 3.93394e-06 a 2.61694e-06
+align 40 blood 1
+align 41 from 1
+align 42 coming 1
+align 43 out 1
+align 44 *DELETE* 0.999998 of 1.4387e-06 i 1.73759e-07
+align 45 </s> 1

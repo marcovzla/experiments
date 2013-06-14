@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 0.484898 and 0.307474 uh 0.183488 in 0.0181772 a 0.00596302
+align 2 know 0.687617 no 0.312383
+align 3 the 1
+align 4 target 0.977692 the 0.0223076
+align 5 *DELETE* 0.977692 target 0.0223076
+align 6 that 1
+align 7 we 0.967912 *DELETE* 0.0320884
+align 8 are 0.96789 we're 0.0320884 were 2.11194e-05 where 2.73762e-20
+align 9 looking 1
+align 10 for 1 four 1.11884e-08
+align 11 *DELETE* 0.999956 uh 4.07632e-05 a 3.01102e-06
+align 12 </s> 1

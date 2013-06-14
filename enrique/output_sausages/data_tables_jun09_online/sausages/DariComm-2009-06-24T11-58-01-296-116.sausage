@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 married 0.984435 marry 0.00820132 madam 0.00721681 *DELETE* 0.000147157
+align 4 *DELETE* 0.999694 to 0.000154699 man 0.000130604 matter 1.65539e-05 sir 2.80224e-06 do 1.38785e-06
+align 5 </s> 1

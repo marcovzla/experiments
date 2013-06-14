@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 just 0.832693 i 0.167307
+align 3 *DELETE* 0.832693 just 0.167307
+align 4 uh 1
+align 5 this 0.822539 *DELETE* 0.177461
+align 6 will 0.822468 this'll 0.177461 we'll 7.09706e-05
+align 7 be 1
+align 8 all 1
+align 9 be 1
+align 10 done 1
+align 11 uh 1
+align 12 simultaneously 1
+align 13 so 1
+align 14 you'll 0.90542 you 0.0945801
+align 15 enter 0.99249 entered 0.00751024
+align 16 that 0.996713 the 0.00316758 of 0.000119777
+align 17 *DELETE* 0.99988 that 0.000119777
+align 18 building 1
+align 19 occupy 0.992752 uh 0.00519831 *DELETE* 0.00200457 occupier 4.5057e-05
+align 20 *DELETE* 0.992666 occupy 0.00519831 a 0.00213583
+align 21 it 0.897079 at 0.0927092 a 0.00783313 occupier 0.00199972 i 0.00016987 its 4.67531e-05 *DELETE* 4.28961e-05 hat 3.85626e-05 uh 3.40431e-05 in 1.18744e-05 an 1.07024e-05 it's 9.1152e-06 eye 6.56006e-06 occupying 4.85585e-06 and 3.71308e-06 add 2.1568e-07
+align 22 *DELETE* 0.999577 it 0.000317925 at 9.15002e-05 a 7.56607e-06 uh 3.01448e-06 i 2.81302e-06 is 3.33395e-08 in 2.59771e-08 if 3.8387e-09 to 2.55454e-09
+align 23 </s> 1

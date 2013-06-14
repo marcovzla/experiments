@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 say 1
+align 4 you 1
+align 5 wanted 0.918545 want 0.0814547
+align 6 to 0.995869 it 0.00413111
+align 7 *DELETE* 0.941343 to 0.0586572
+align 8 eat 1
+align 9 now 0.999995 a 5.46883e-06
+align 10 *DELETE* 0.998429 uh 0.00129228 i 0.000268684 now 5.46926e-06 you 4.44019e-06 a 6.11042e-07 it 1.10132e-09 and 1.91466e-11 to 1.2214e-13 on 6.89758e-14
+align 11 </s> 1

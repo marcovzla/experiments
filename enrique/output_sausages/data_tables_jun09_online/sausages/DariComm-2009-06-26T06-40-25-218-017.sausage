@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 *DELETE* 0.999812 a 0.000187781
+align 6 lot 1
+align 7 of 1
+align 8 farmland 1
+align 9 and 0.536313 in 0.463687
+align 10 that 0.998194 i 0.00126256 that's 0.000543185
+align 11 province 1
+align 12 *DELETE* 0.999778 do 8.01798e-05 i 6.70974e-05 to 5.28463e-05 it 1.51242e-05 uh 4.66898e-06 in 1.30136e-06 you 3.98183e-07 and 4.54289e-12 so 2.24353e-12
+align 13 </s> 1

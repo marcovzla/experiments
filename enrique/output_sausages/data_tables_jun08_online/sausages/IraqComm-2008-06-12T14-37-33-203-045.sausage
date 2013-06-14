@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1 does 2.51108e-08
+align 3 your 1
+align 4 plan 1
+align 5 to 1
+align 6 repair 1
+align 7 the 0.999964 are 2.25043e-05 *DELETE* 1.32914e-05
+align 8 *DELETE* 0.999964 the 2.25043e-05 they 1.32914e-05
+align 9 electricity 1
+align 10 *DELETE* 0.999594 uh 0.000403409 i 2.80934e-06
+align 11 </s> 1

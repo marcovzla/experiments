@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 okay 0.997489 oh 0.00251099
+align 2 *DELETE* 0.997141 okay 0.00251099 uh 0.000347906
+align 3 that's 1 that 4.28376e-07
+align 4 it 0.99996 that 3.58825e-05 a 1.39267e-06 if 1.25524e-06 it's 5.88309e-07 said 4.28376e-07
+align 5 </s> 1

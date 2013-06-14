@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 think 0.373639 see 0.307082 feel 0.211643 feed 0.107636
+align 4 your 0.754753 you 0.183937 you're 0.0404591 you'll 0.0110329 of 0.00981748 *DELETE* 2.85449e-12
+align 5 *DELETE* 0.822101 a 0.174002 have 0.00372672 go 0.000103102 are 6.77059e-05
+align 6 family 1
+align 7 with 1
+align 8 the 1
+align 9 fruits 0.784674 from 0.109843 front 0.0779875 *DELETE* 0.0274954
+align 10 *DELETE* 0.784429 us 0.111134 because 0.0363148 this 0.0285161 fronts 0.0274954 it's 0.00483146 is 0.00373455 does 0.00139351 its 0.00120705 as 0.000350696 just 0.00022511 i 0.000170185 uh 0.000137439 it 2.88675e-05 was 1.16407e-05 of 9.48255e-06 in 5.56356e-06 and 3.87315e-06 a 7.6052e-07 on 4.18447e-08 the 3.43998e-08 you 2.9505e-08 that 1.75955e-08 to 3.84874e-09 like 6.56845e-12 are 9.36956e-19
+align 11 *DELETE* 0.999996 i 3.75502e-06
+align 12 </s> 1

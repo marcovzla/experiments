@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.998379 i 0.00162115
+align 2 take 1
+align 3 as 1
+align 4 long 1
+align 5 as 1
+align 6 you 1 he 7.86593e-12
+align 7 need 1
+align 8 *DELETE* 0.9998 to 0.000187082 uh 1.26021e-05 a 7.54918e-07
+align 9 </s> 1

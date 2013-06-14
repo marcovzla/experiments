@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 is 1
+align 3 he 0.979491 it 0.01362 in 0.00241876 you 0.00211593 the 0.00199227 ill 0.000257242 they 7.95017e-05 a 1.20096e-05 e 1.00076e-05 ink 3.27557e-06 each 2.70506e-09
+align 4 *DELETE* 0.999971 in 2.88912e-05 uh 1.76517e-07
+align 5 </s> 1

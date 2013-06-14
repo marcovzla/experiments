@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 i 7.94458e-08
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 a 1
+align 6 weapon 1
+align 7 in 1
+align 8 this 1
+align 9 house 1
+align 10 *DELETE* 0.999987 uh 6.61359e-06 i 5.38846e-06 in 1.1671e-06
+align 11 </s> 1

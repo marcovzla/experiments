@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 a 1
+align 5 lot 1
+align 6 of 1
+align 7 medicine 0.999917 medicines 6.23672e-05 uh 2.0735e-05
+align 8 *DELETE* 0.999979 medicine 2.0735e-05 uh 2.82208e-18 to 6.57866e-26 and 5.73091e-26
+align 9 </s> 1

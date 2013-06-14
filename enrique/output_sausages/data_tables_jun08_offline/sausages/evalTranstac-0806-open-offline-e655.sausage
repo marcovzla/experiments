@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 um 0.951887 uh 0.048113
+align 2 *DELETE* 0.989717 uh 0.0102825
+align 3 we 1
+align 4 will 0.999069 would 0.000931226
+align 5 be 1
+align 6 prepared 1
+align 7 for 1
+align 8 that 1
+align 9 uh 1
+align 10 with 0.976353 uh 0.0221304 we 0.00151701
+align 11 *DELETE* 0.97787 with 0.0221304
+align 12 our 0.958252 are 0.0237753 a 0.00612274 uh 0.00584522 their 0.00347926 thar 0.00151701 the 0.00100821
+align 13 reaction 1
+align 14 force 0.999549 fours 0.000258998 for 0.000191525
+align 15 *DELETE* 0.999805 us 0.000191525 i 1.76006e-06 uh 1.6848e-06 a 2.21261e-07
+align 16 </s> 1

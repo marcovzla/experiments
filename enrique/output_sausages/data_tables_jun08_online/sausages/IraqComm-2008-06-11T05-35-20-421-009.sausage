@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.712576 the 0.283646 a 0.00254348 *DELETE* 0.00123549
+align 2 type 1
+align 3 of 1
+align 4 car 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 *DELETE* 0.994984 a 0.00269095 uh 0.00221289 it 0.000109586 i 1.47413e-06 to 1.04081e-06
+align 9 </s> 1

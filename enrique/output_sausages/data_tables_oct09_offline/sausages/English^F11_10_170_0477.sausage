@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 definitely 1
+align 2 we'll 0.834874 will 0.165126 we 2.6374e-07
+align 3 *DELETE* 1 will 2.6374e-07
+align 4 go 1
+align 5 ahead 1
+align 6 and 0.955382 no 0.044618
+align 7 i 0.612597 uh 0.387403
+align 8 have 0.743047 i 0.256953
+align 9 *DELETE* 0.743047 have 0.256953
+align 10 your 0.745263 you 0.254737
+align 11 uh 1
+align 12 *DELETE* 0.999952 uh 4.80764e-05
+align 13 your 0.999996 you're 3.91318e-06
+align 14 men 1
+align 15 come 1
+align 16 along 1
+align 17 with 1
+align 18 us 0.999768 those 0.000231517
+align 19 for 0.999661 to 0.000339133
+align 20 the 1
+align 21 next 1
+align 22 couple 1
+align 23 weeks 1
+align 24 and 0.937819 in 0.0543903 so 0.00511936 of 0.00122011 i 0.000920502 then 0.000373705 an 0.000157255
+align 25 we'll 0.887349 will 0.112651
+align 26 work 1
+align 27 side 1
+align 28 by 1
+align 29 side 1
+align 30 with 1
+align 31 each 1
+align 32 other 1
+align 33 *DELETE* 1 uh 5.40369e-08
+align 34 </s> 1

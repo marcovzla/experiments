@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 0.999807 they 0.000193379
+align 3 any 1
+align 4 insurgents 1 insurgence 3.98176e-13
+align 5 in 1
+align 6 this 1
+align 7 area 1
+align 8 *DELETE* 0.999974 uh 1.95677e-05 now 6.68546e-06
+align 9 </s> 1

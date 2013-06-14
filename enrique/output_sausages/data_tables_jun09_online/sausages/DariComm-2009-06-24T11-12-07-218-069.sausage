@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 gear 1
+align 5 do 1
+align 6 you 0.962928 *DELETE* 0.0370722
+align 7 *DELETE* 0.694843 use 0.305157
+align 8 should 0.648424 you 0.305157 usually 0.0442305 *DELETE* 0.00218852
+align 9 take 1
+align 10 with 1
+align 11 you 1
+align 12 *DELETE* 0.999874 uh 0.000121786 all 4.03804e-06 i 3.51749e-07 to 1.5977e-08 in 3.91455e-10
+align 13 </s> 1

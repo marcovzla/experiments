@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 like 0.999854 *DELETE* 0.000146085
+align 3 i 0.98056 uh 0.0159216 us 0.00287759 i'll 0.000539483 all 9.21863e-05 of 9.11793e-06
+align 4 *DELETE* 0.999854 gonna 6.51538e-05 gotta 5.56409e-05 got 2.52906e-05
+align 5 *DELETE* 0.99999 a 8.78459e-06 to 8.17698e-07
+align 6 was 0.979363 say 0.0168346 *DELETE* 0.00377687 a 1.60774e-05 same 9.97987e-06
+align 7 saying 0.983011 *DELETE* 0.0168606 say 0.000128169
+align 8 with 0.53497 what 0.458485 *DELETE* 0.00650542 like 3.95017e-05
+align 9 that 0.993495 without 0.00650542
+align 10 uh 0.999662 i 0.00033754
+align 11 *DELETE* 0.999509 uh 0.00049051
+align 12 last 1
+align 13 situation 1
+align 14 you 0.937079 *DELETE* 0.0579858 it 0.0049352
+align 15 know 0.899273 no 0.0333877 you're 0.0153939 here 0.0132698 your 0.0115629 in 0.0102182 *DELETE* 0.00978847 are 0.00439739 year 0.00268451 either 2.4171e-05
+align 16 *DELETE* 0.998484 in 0.00151639
+align 17 one 0.972131 on 0.0136376 everyone 0.00972565 won 0.00450596
+align 18 apply 0.999132 applied 0.000867819
+align 19 that 1
+align 20 tourniquet 1
+align 21 below 1
+align 22 is 1
+align 23 uh 1
+align 24 knee 0.981754 ne 0.0130482 me 0.00373825 need 0.00141708 mean 4.202e-05
+align 25 </s> 1

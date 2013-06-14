@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 they 0.999941 the 5.93475e-05
+align 2 searched 0.993782 search 0.00621781
+align 3 a 0.98534 the 0.00796981 uh 0.00669037
+align 4 lot 1
+align 5 of 1
+align 6 these 1
+align 7 trucks 1 truck's 2.48916e-07
+align 8 </s> 1

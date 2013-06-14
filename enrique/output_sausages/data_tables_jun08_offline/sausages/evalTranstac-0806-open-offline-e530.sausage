@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.585052 will 0.315493 well 0.0994551
+align 2 my 0.987117 may 0.00490539 might 0.00390568 mike 0.00264622 not 0.00142577
+align 3 my 1
+align 4 marines 1
+align 5 will 0.976762 we'll 0.0232383
+align 6 carry 1
+align 7 all 1
+align 8 types 1
+align 9 of 1
+align 10 ordinance 0.51995 or 0.471979 *DELETE* 0.00807013
+align 11 *DELETE* 0.51995 dents 0.323096 dense 0.148883 organs 0.00807013
+align 12 while 0.999921 well 7.28986e-05 what 6.19109e-06
+align 13 we're 0.999882 were 0.000118302
+align 14 out 1
+align 15 there 0.99999 their 9.72781e-06
+align 16 *DELETE* 0.999747 uh 0.000252363 so 4.78475e-07
+align 17 </s> 1

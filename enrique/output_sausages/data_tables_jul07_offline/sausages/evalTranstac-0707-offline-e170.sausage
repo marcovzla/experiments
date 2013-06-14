@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 weapon 1
+align 6 that 0.998737 at 0.00126256
+align 7 you 1
+align 8 keep 0.998417 *DELETE* 0.001583
+align 9 in 0.998417 keeping 0.001583
+align 10 your 1
+align 11 house 1
+align 12 to 1
+align 13 protect 1
+align 14 anyone 1
+align 15 from 1
+align 16 coming 1
+align 17 to 1
+align 18 steal 1
+align 19 that 1
+align 20 money 1
+align 21 *DELETE* 0.999987 i 1.26017e-05 uh 1.59531e-07 to 1.15023e-07
+align 22 </s> 1

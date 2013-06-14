@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we're 0.963149 we 0.0368507
+align 2 *DELETE* 0.963149 are 0.0368507
+align 3 going 1
+align 4 to 1
+align 5 search 1
+align 6 your 1
+align 7 vehicle 1
+align 8 *DELETE* 0.999998 now 2.1734e-06
+align 9 </s> 1

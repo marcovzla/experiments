@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 well 0.858887 uh 0.116983 oh 0.0241292
+align 2 *DELETE* 0.996297 oh 0.00370259
+align 3 how 1
+align 4 many 1
+align 5 hours 1
+align 6 a 0.987112 of 0.0128883
+align 7 day 1
+align 8 do 1
+align 9 you 1
+align 10 have 1
+align 11 electricity 1
+align 12 uh 1
+align 13 or 0.640492 *DELETE* 0.240153 uh 0.119343 a 1.21733e-05
+align 14 from 1
+align 15 the 0.999325 this 0.000673671 a 8.57841e-07
+align 16 city 0.999966 cities 3.34469e-05 siti 2.85104e-07
+align 17 </s> 1

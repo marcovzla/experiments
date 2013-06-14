@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.998948 and 0.000603552 um 0.000448443
+align 3 so 1
+align 4 in 1
+align 5 your 0.958791 year 0.0370379 here 0.0041714
+align 6 understanding 1
+align 7 it 0.883054 that 0.109381 hit 0.00255358 if 0.00135811 at 0.00134674 and 0.00133613 but 0.000493635 hid 0.000237214 *DELETE* 0.000182724 had 5.70181e-05
+align 8 if 1
+align 9 we 1
+align 10 open 0.989378 *DELETE* 0.00982425 opened 0.000797935
+align 11 a 0.712069 eating 0.117006 the 0.0909326 any 0.025135 aim 0.0110316 name 0.0107987 opening 0.0097927 ayn 0.00818842 ain 0.00410841 ain't 0.00261874 me 0.00261601 needing 0.00244867 named 0.00103883 aimed 0.000810081 e 0.000694804 and 0.000616726 need 4.24484e-05 openly 3.15511e-05 knee 2.05942e-05
+align 12 larger 0.718612 a 0.232141 in 0.04013 new 0.00896269 large 0.000153988
+align 13 *DELETE* 0.718243 larger 0.28121 a 0.000369676 your 0.000153988 large 2.39241e-05
+align 14 *DELETE* 0.999915 a 6.06335e-05 your 2.39241e-05
+align 15 clinic 1
+align 16 or 0.952529 are 0.047053 our 0.000417943
+align 17 larger 0.974565 a 0.0132665 large 0.0121686
+align 18 *DELETE* 0.974565 larger 0.0132665 or 0.00759578 our 0.00457287
+align 19 medical 1
+align 20 facility 1
+align 21 more 1
+align 22 medical 1
+align 23 personnel 1
+align 24 would 1
+align 25 like 1
+align 26 to 1
+align 27 uh 0.857673 um 0.142327
+align 28 work 0.957078 worked 0.0385818 uh 0.00434061
+align 29 *DELETE* 0.995659 work 0.00434061
+align 30 there 0.994881 they're 0.00316409 their 0.00195135 they 3.31788e-06
+align 31 *DELETE* 0.999952 are 4.78085e-05
+align 32 </s> 1

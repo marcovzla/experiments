@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 anything 1
+align 3 out 1
+align 4 of 1
+align 5 the 1
+align 6 ordinary 1
+align 7 needs 1
+align 8 to 1
+align 9 be 1
+align 10 nice 0.686946 needs 0.312656 *DELETE* 0.000283569 new 7.56684e-05 knees 3.82169e-05
+align 11 to 0.510953 he 0.227867 we 0.187577 *DELETE* 0.0706848 of 0.00129503 it 0.000894725 see 0.000728136
+align 12 you 0.437423 *DELETE* 0.422947 be 0.13963
+align 13 *DELETE* 0.999716 see 0.000283569
+align 14 looked 0.684688 look 0.315238 locked 7.4611e-05
+align 15 out 0.365761 that 0.317414 at 0.169782 up 0.147043
+align 16 more 1
+align 17 closely 1
+align 18 *DELETE* 1 i 5.21845e-10
+align 19 </s> 1

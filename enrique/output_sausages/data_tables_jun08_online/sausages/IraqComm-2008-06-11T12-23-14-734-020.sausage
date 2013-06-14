@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 need 1
+align 3 to 1
+align 4 ask 1
+align 5 you 1
+align 6 questions 1
+align 7 today 1
+align 8 about 1
+align 9 your 1
+align 10 citizens 0.998106 citizens' 0.00114362 citizen's 0.000750368 so 1.84722e-13
+align 11 *DELETE* 0.999995 you 2.62003e-06 i 2.03966e-06 in 2.669e-10 uh 2.23383e-10 to 3.26185e-11 a 7.96266e-13 distance 1.84722e-13 and 3.46206e-14
+align 12 </s> 1

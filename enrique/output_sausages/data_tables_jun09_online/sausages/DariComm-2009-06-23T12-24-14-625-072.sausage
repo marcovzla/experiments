@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 did 0.980937 do 0.019063
+align 3 not 1
+align 4 understand 1
+align 5 say 0.998867 *DELETE* 0.00113299
+align 6 again 0.998516 stadium 0.000888747 *DELETE* 0.000594611 save 3.70052e-07
+align 7 *DELETE* 0.998085 i 0.000772314 uh 0.000423704 sayediyah 0.000218407 here 0.000217525 yeah 0.000105236 um 8.3003e-05 now 2.80153e-05 staging 2.43171e-05 jan 1.73521e-05 you 1.61074e-05 yan 2.91821e-06 it 1.29734e-06 sayed 1.14968e-06 a 1.02732e-06 to 9.76422e-07 getting 6.88255e-07 yes 3.73743e-07 and 2.24853e-07 gain 8.34561e-08 game 5.14953e-08 i'm 1.82515e-08 we 1.54893e-11 if 2.76324e-12 the 2.23856e-12 saydiya 1.09953e-19 guess 5.96406e-23 can 8.99566e-26 him 5.33241e-26
+align 8 *DELETE* 1 i 3.67489e-10
+align 9 </s> 1

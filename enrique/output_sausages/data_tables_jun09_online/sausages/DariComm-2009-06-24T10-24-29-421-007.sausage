@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 uh 0.944312 i'll 0.0368668 i'm 0.0131662 i 0.00505307 oh 0.000601727
+align 2 my 0.778388 i'm 0.104858 uh 0.0559196 buy 0.0324283 *DELETE* 0.0227136 a 0.00569227
+align 3 *DELETE* 0.816508 a 0.112332 my 0.0559196 by 0.00630943 may 0.00503249 but 0.00389774
+align 4 purpose 1
+align 5 of 1
+align 6 my 1
+align 7 visit 1
+align 8 today 1
+align 9 is 1
+align 10 to 1
+align 11 *DELETE* 0.999994 to 5.87662e-06
+align 12 assess 1
+align 13 in 0.977398 and 0.0226019
+align 14 a 1
+align 15 in 1
+align 16 a 1
+align 17 uh 0.495944 us 0.441363 house 0.0619956 is 0.000285016 ice 0.000158716 our 0.000125114 a 0.000107003 aws 1.53556e-05 i'll 3.11207e-06 i've 1.40164e-06 i 1.05874e-06 i'd 5.65539e-07 are 1.37208e-12 of 3.46087e-14 eyes 2.05414e-17 boss 1.38059e-25 off 5.20109e-26
+align 18 soldier 0.793477 a 0.17657 uh 0.0297977 *DELETE* 0.000155287 us 2.86705e-24
+align 19 *DELETE* 0.793101 soldier 0.206368 uh 0.000345967 soldiers 0.000155287 i 3.02921e-05 is 2.19131e-08 it 3.06662e-14 to 2.09281e-14 in 1.01893e-14
+align 20 *DELETE* 0.99999 you 1.01889e-05 uh 1.31142e-07 i 2.65074e-14
+align 21 </s> 1

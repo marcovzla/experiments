@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 done 0.98761 don't 0.0122935 down 9.61248e-05
+align 6 construction 0.999588 constructions 0.000411754
+align 7 *DELETE* 0.99982 uh 0.000175791 i 3.90256e-06
+align 8 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 0.997797 do 0.00137429 oh 0.000829197
+align 2 you 1
+align 3 able 1
+align 4 to 1
+align 5 provide 1
+align 6 them 1
+align 7 with 0.999953 if 4.74904e-05
+align 8 uniforms 0.99997 the 2.9511e-05
+align 9 *DELETE* 0.99997 uniforms 2.9511e-05 i 9.57671e-07
+align 10 </s> 1

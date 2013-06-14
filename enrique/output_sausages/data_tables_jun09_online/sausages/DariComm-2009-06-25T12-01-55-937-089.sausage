@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 need 1
+align 3 to 1
+align 4 set 1
+align 5 up 1
+align 6 a 1
+align 7 checkpoint 1
+align 8 on 1
+align 9 each 1
+align 10 side 1
+align 11 of 1
+align 12 the 1
+align 13 bridge 1
+align 14 *DELETE* 0.999958 is 2.91176e-05 uh 1.31263e-05 it 5.7069e-13
+align 15 </s> 1

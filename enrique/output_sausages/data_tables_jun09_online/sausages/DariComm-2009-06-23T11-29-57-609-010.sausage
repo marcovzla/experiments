@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.971222 i 0.0287778
+align 3 understand 1
+align 4 that 1
+align 5 you 1
+align 6 want 1
+align 7 to 1 a 6.63683e-14
+align 8 plan 0.869526 plant 0.130474 *DELETE* 6.84003e-18
+align 9 of 0.956964 a 0.0289093 i 0.012895 to 0.000824675 *DELETE* 0.000362593 uh 4.4283e-05 planned 8.83896e-13
+align 10 grade 0.93544 raids 0.0354002 rate 0.015228 readied 0.00360792 raided 0.00320602 great 0.00210751 reda 0.00190662 grades 0.000982946 made 0.00085793 rain 0.000460061 *DELETE* 0.000295657 braid 0.000292509 grave 0.000214107 over 5.20336e-07 gray 1.04657e-10
+align 11 *DELETE* 0.999066 in 0.00028387 raiding 0.000141982 i 0.00010707 to 8.62512e-05 and 8.44018e-05 rape 6.88535e-05 raven 6.1114e-05 you 3.20682e-05 brave 2.37069e-05 do 1.62587e-05 uh 1.31351e-05 it 8.45155e-06 is 5.61425e-06 a 1.00192e-06 if 2.17407e-08 like 1.53375e-08 two 9.75826e-09 the 9.57091e-10 so 4.75642e-10 bridge 5.51963e-11 ridge 5.48213e-11
+align 12 </s> 1

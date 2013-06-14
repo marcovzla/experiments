@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 0.788539 *DELETE* 0.211461
+align 2 take 0.859789 want 0.137761 ache 0.00216148 eight 0.000151736 a 0.000136999
+align 3 one 0.841978 to 0.137761 once 0.0202608
+align 4 *DELETE* 0.888547 of 0.0973328 and 0.0134011 on 0.000718797
+align 5 show 1
+align 6 me 1
+align 7 this 0.999681 his 0.000318847
+align 8 vehicle 1
+align 9 over 1
+align 10 here 1
+align 11 *DELETE* 1 or 4.03617e-08
+align 12 </s> 1

@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 oh 0.815329 well 0.10787 uh 0.0424539 i 0.0197005 *DELETE* 0.0146464
+align 2 i 1
+align 3 *DELETE* 0.999492 i 0.000507634
+align 4 understand 1
+align 5 that 1
+align 6 um 1
+align 7 but 0.970132 uh 0.029868
+align 8 *DELETE* 0.96889 but 0.029868 if 0.00100362 uh 0.000237915
+align 9 he 0.999907 she 9.31675e-05
+align 10 knew 0.942869 new 0.0571314
+align 11 the 0.817429 *DELETE* 0.182571
+align 12 *DELETE* 0.61999 law 0.361615 la 0.0127535 large 0.00453782 lodge 0.00110454
+align 13 largest 0.61999 just 0.38001
+align 14 like 1
+align 15 you 1
+align 16 knew 0.968831 new 0.0311694
+align 17 the 1
+align 18 law 1
+align 19 and 1
+align 20 i'm 0.922331 i 0.0776694
+align 21 *DELETE* 0.922331 i'm 0.0737043 am 0.00396508
+align 22 just 1
+align 23 in 1
+align 24 charge 1
+align 25 of 1
+align 26 the 0.989622 this 0.0103779
+align 27 squad 0.991568 squat 0.00545776 water 0.00297463
+align 28 *DELETE* 0.973713 i 0.00895527 uh 0.00748798 i. 0.00274294 a 0.00229736 eye 0.00154478 are 0.000888717 in 0.000528346 is 0.000315993 up 0.000279491 out 0.000238138 off 0.000191531 at 0.000141532 of 0.000137561 i'm 7.17939e-05 s 7.13923e-05 f 6.02333e-05 on 5.74987e-05 it 4.73649e-05 oh 4.47372e-05 our 4.1709e-05 as 3.48819e-05 us 2.91844e-05 i've 2.85343e-05 to 2.04689e-05 i'll 9.9337e-06 or 7.44134e-06 eyes 4.82448e-06 op 2.60152e-06 r 1.29425e-06 all 1.03109e-06 um 6.19005e-07 odd 4.93878e-07 am 4.37741e-07 air 3.9602e-07 an 1.26047e-07 that 4.93649e-09
+align 29 *DELETE* 0.999996 i 3.83809e-06
+align 30 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 also 1
+align 2 i 1
+align 3 ask 0.984532 ass 0.0154679
+align 4 some 1
+align 5 of 1
+align 6 your 1
+align 7 soldiers 1
+align 8 some 1
+align 9 questions 1
+align 10 about 1
+align 11 the 1
+align 12 patrol 0.999796 patrols 0.000203884
+align 13 </s> 1

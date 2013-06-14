@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 it 0.975865 that 0.0241122 at 2.27634e-05
+align 2 looks 1
+align 3 like 1
+align 4 it's 1
+align 5 pretty 1
+align 6 old 1 all 2.37108e-13
+align 7 *DELETE* 0.999975 i 2.51748e-05
+align 8 </s> 1

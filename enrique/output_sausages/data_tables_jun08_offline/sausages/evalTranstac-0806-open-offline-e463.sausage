@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 can 1
+align 3 you 1
+align 4 point 1
+align 5 *DELETE* 0.999222 out 0.000778087
+align 6 on 1
+align 7 the 1
+align 8 map 1
+align 9 were 0.412334 we're 0.318541 or 0.269124
+align 10 uh 0.730876 are 0.269124
+align 11 we 1
+align 12 believe 1
+align 13 these 1
+align 14 um 0.86096 uh 0.13904
+align 15 these 1
+align 16 doors 0.994676 stores 0.00532379
+align 17 or 0.873862 are 0.125691 our 0.000443565 were 3.59524e-06
+align 18 exits 0.946079 axis 0.046039 excess 0.00743949 access 0.000439375 axes 3.30784e-06
+align 19 are 0.977123 or 0.0222982 our 0.000572761 r 6.02299e-06 on 5.95172e-10
+align 20 located 0.999908 locate 8.69008e-05 a 5.34937e-06
+align 21 *DELETE* 0.999358 at 0.000545616 it 9.11877e-05 located 5.34937e-06 in 4.5352e-08
+align 22 </s> 1

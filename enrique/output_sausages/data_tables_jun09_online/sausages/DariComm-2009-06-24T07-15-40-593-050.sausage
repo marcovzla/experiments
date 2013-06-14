@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 repeat 0.999344 i 0.000656426 we 7.76199e-13
+align 2 *DELETE* 0.994078 it 0.00297441 that 0.00185988 repeat 0.000656426 i 0.000391976 uh 3.2024e-05 the 2.73628e-06 you 2.59507e-06 this 1.46235e-06 to 1.11216e-09 and 7.88011e-12 in 1.99744e-12
+align 3 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 diesel 0.95225 do 0.0477498
+align 4 *DELETE* 0.963098 use 0.0369022
+align 5 *DELETE* 0.95225 old 0.0369022 usually 0.0108476
+align 6 do 1
+align 7 you 1
+align 8 get 1
+align 9 for 0.935534 four 0.0644658
+align 10 three 1
+align 11 hundred 1
+align 12 afghani 1
+align 13 so 0.838819 *DELETE* 0.158804 stay 0.00237693
+align 14 *DELETE* 0.996469 i 0.00157718 uh 0.00115193 stuff 0.000383573 six 0.000173852 stew 0.000128855 stop 4.34352e-05 it 2.34194e-05 still 2.12035e-05 if 1.27304e-05 stood 4.28562e-06 a 3.87884e-06 we 3.39441e-06 the 2.41794e-06 do 7.7404e-07 you 2.88491e-09 to 4.16435e-11
+align 15 </s> 1

@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 1
+align 3 um 0.993719 uh 0.00628104
+align 4 uh 0.986543 *DELETE* 0.00638151 i 0.00483601 um 0.00217148 that 6.77908e-05
+align 5 is 1
+align 6 there 1
+align 7 any 1
+align 8 farms 0.999916 farm's 8.43516e-05
+align 9 in 1 and 8.49127e-08
+align 10 the 1
+align 11 city 0.989978 facility 0.0100224
+align 12 of 1
+align 13 your 1
+align 14 farm 1
+align 15 that 0.999994 bag 5.98255e-06
+align 16 you 1
+align 17 know 1
+align 18 that 1
+align 19 they 0.811191 the 0.188809
+align 20 actually 0.555185 action 0.444815
+align 21 make 1
+align 22 profits 0.987721 prophets 0.00690627 prophet's 0.0029183 profit 0.00245446
+align 23 off 1
+align 24 of 1
+align 25 uh 1
+align 26 *DELETE* 0.97183 uh 0.0281703
+align 27 insurgents 0.993494 insurgence 0.00506473 insurgent 0.00116819 insurgents' 0.000271891 insurgency 8.28655e-07
+align 28 *DELETE* 1 i 3.53915e-07 uh 3.26531e-08
+align 29 </s> 1

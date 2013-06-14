@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 these 1
+align 3 patients 0.981021 patients' 0.0189788
+align 4 from 1
+align 5 this 1
+align 6 village 1
+align 7 *DELETE* 0.999992 and 7.89153e-06 i 3.84538e-08 uh 3.71924e-08 you 3.42015e-09 in 1.70856e-09 to 1.60265e-11
+align 8 </s> 1

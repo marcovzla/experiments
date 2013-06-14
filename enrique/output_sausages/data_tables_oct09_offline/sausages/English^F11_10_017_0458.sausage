@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 uh 0.972855 *DELETE* 0.0271446
+align 2 i 0.83045 as 0.151279 *DELETE* 0.0100306 uh 0.00801758 oh 0.000223104
+align 3 *DELETE* 0.991648 as 0.00824069 us 0.000111456
+align 4 *DELETE* 0.999989 us 1.10274e-05
+align 5 was 0.83045 a 0.159519 is 0.00715286 *DELETE* 0.0028777
+align 6 just 0.833234 saw 0.114855 so 0.0445424 this 0.00724709 *DELETE* 0.000122483
+align 7 uh 0.992433 a 0.0074442 *DELETE* 0.000122483
+align 8 wondering 0.832231 wandering 0.165089 one 0.00268048
+align 9 *DELETE* 0.99732 ring 0.00188963 during 0.000790846
+align 10 uh 0.644572 the 0.355428
+align 11 how 1
+align 12 you 1
+align 13 guys 0.999696 guys' 0.000304472
+align 14 have 0.794263 of 0.170419 are 0.0248242 uh 0.00694984 it 0.00183305 and 0.000494686 the 0.000319194 had 0.000285187 at 0.000268759 if 0.000195065 that 0.000147812
+align 15 done 1
+align 16 it 0.929938 in 0.0445232 and 0.0181943 *DELETE* 0.00646735 eight 0.000877328
+align 17 in 1
+align 18 the 1
+align 19 past 1
+align 20 and 0.999206 in 0.00079351
+align 21 uh 1
+align 22 we'll 0.477025 what 0.254356 well 0.151679 will 0.0452812 uh 0.0384114 while 0.0332473
+align 23 *DELETE* 0.961589 well 0.0259721 while 0.0067616 we'll 0.00436846 will 0.00130922
+align 24 problems 1
+align 25 have 1
+align 26 you 1
+align 27 had 0.998493 *DELETE* 0.00150708
+align 28 *DELETE* 0.990437 it 0.00551571 uh 0.00174346 have 0.00150708 a 0.000655701 to 5.24862e-05 in 2.74376e-05 i 2.22616e-05 the 1.7676e-05 an 1.11352e-05 do 1.02992e-05 no 1.56423e-07 high 1.85195e-08 you 1.00023e-09 and 1.10663e-15
+align 29 </s> 1

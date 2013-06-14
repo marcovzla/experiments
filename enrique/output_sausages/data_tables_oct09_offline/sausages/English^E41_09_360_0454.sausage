@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 that's 0.997341 yes 0.00260753 it's 5.17381e-05
+align 2 one 1
+align 3 the 0.904666 a 0.0713606 of 0.0239731
+align 4 most 1
+align 5 important 1
+align 6 things 0.998539 thing 0.00146131
+align 7 is 0.728641 the 0.179226 to 0.0847658 a 0.00719188 this 0.000173766 that 1.61125e-06
+align 8 *DELETE* 0.998539 a 0.000820765 the 0.000640544
+align 9 *DELETE* 0.857259 stop 0.142727 stopped 1.11236e-05 top 3.28588e-06
+align 10 stopping 0.857259 in 0.136718 and 0.00602288
+align 11 the 1
+align 12 bleeding 1
+align 13 and 0.545343 on 0.454657
+align 14 uh 0.994718 a 0.00513335 i'd 0.000148901
+align 15 *DELETE* 0.722847 uh 0.277153
+align 16 those 1
+align 17 individuals 0.999957 uh 2.60902e-05 *DELETE* 1.70748e-05
+align 18 *DELETE* 0.99983 uh 0.000125411 individuals 2.60902e-05 individual's 1.70748e-05 i 1.17416e-06 in 5.23982e-08
+align 19 </s> 1

@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 are 1
+align 4 they 1
+align 5 able 1
+align 6 to 0.895093 they 0.0996487 the 0.00525804
+align 7 are 0.988469 the 0.0109082 eat 0.000622771
+align 8 *DELETE* 0.988469 are 0.0109082 or 0.000622771
+align 9 you 1
+align 10 able 1
+align 11 to 1
+align 12 pay 1
+align 13 your 1
+align 14 officers 1
+align 15 every 1
+align 16 month 0.999433 man 0.000566461 *DELETE* 5.32581e-09
+align 17 *DELETE* 0.999385 i 0.000271721 uh 0.000197734 now 5.8781e-05 yeah 3.98482e-05 it 2.70158e-05 and 1.48366e-05 they 4.05837e-06 months 6.69968e-07 my 2.82595e-07 in 2.59948e-07 or 2.32984e-07 of 4.59759e-09 we 4.43651e-09 a 2.32472e-09 do 1.75401e-09 there 1.5646e-09 the 1.39501e-09 but 1.11237e-09 you 6.41557e-10 so 3.88097e-10 mother 3.4652e-10 ma 1.079e-10 to 9.94718e-11 then 7.5355e-11 two 2.22573e-11 may 6.14255e-12 mop 1.6526e-12 mile 7.76997e-14
+align 18 </s> 1

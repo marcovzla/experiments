@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 lives 1
+align 3 in 1
+align 4 helmet 0.567485 how 0.431831 hell 0.000684192
+align 5 *DELETE* 0.559269 many 0.320982 meant 0.111533 and 0.00821637
+align 6 *DELETE* 0.997551 to 0.000673794 uh 0.000630346 i 0.000507871 do 0.000385867 a 0.000128264 in 7.75503e-05 you 2.08821e-05 um 1.15305e-05 if 3.04167e-06 it 2.40865e-06 and 1.70464e-06 all 1.37614e-06 the 1.23668e-06 i'm 1.20534e-06 now 6.71872e-07 so 3.03556e-07 we 1.47616e-07 how 1.11756e-07 two 9.68016e-08 they 5.90475e-08 then 5.34504e-08 he 4.17966e-08 at 1.08397e-08 who 9.97948e-09 is 9.20897e-09 no 5.56045e-09 an 1.95009e-09 i'd 7.13745e-10 that 1.93966e-10 let 2.82868e-11
+align 7 </s> 1

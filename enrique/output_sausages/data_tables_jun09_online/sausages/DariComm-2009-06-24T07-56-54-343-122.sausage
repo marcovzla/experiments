@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 is 0.922496 does 0.0685525 as 0.00517793 has 0.00323979 his 0.000323231 it's 0.000210253
+align 2 your 0.999901 you're 9.85587e-05
+align 3 generator 0.999683 generator's 0.000316762
+align 4 working 1 we 2.04344e-15
+align 5 *DELETE* 0.998582 uh 0.000739414 i 0.000342973 in 0.00019913 it 7.22032e-05 a 2.54521e-05 to 1.74034e-05 on 8.89715e-06 at 5.06373e-06 so 2.60298e-06 you 2.21503e-06 with 1.77082e-06 as 7.09542e-07 like 2.08106e-08 the 9.2095e-09 and 1.20428e-09 do 1.14748e-11 that 2.06529e-14 i'm 3.71675e-15 working 2.04344e-15 is 1.21248e-15
+align 6 </s> 1

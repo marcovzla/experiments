@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 with 0.997772 *DELETE* 0.00222754
+align 2 an 0.90834 the 0.0894324 within 0.00222754
+align 3 interpreter 1
+align 4 to 0.999973 two 2.73207e-05
+align 5 *DELETE* 0.981064 you 0.0189357
+align 6 go 1
+align 7 into 1
+align 8 the 1
+align 9 warehouse 1
+align 10 with 1
+align 11 your 1
+align 12 second 1
+align 13 platoon 1
+align 14 when 1
+align 15 they 0.999913 we 8.6671e-05
+align 16 conduct 1
+align 17 our 0.715556 their 0.284404 there 2.95011e-05 they're 7.42803e-06 are 2.87937e-06 or 4.27398e-09
+align 18 search 1
+align 19 </s> 1

@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 absolutely 0.99812 uh 0.0013003 i 0.000577679 a 1.85461e-06 it's 1.0708e-12
+align 2 *DELETE* 0.998012 absolutely 0.00187983 uh 9.01323e-05 i 1.83174e-05
+align 3 </s> 1

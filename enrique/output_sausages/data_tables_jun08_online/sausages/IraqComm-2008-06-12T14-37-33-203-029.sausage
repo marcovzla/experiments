@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 is 1
+align 3 it 0.904091 that 0.0959092 *DELETE* 1.34837e-23
+align 4 *DELETE* 0.99844 at 0.00111308 in 0.000374217 it 7.15251e-05 uh 1.00709e-06 now 6.35682e-09 to 6.51812e-13
+align 5 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.999979 i 2.09988e-05 *DELETE* 9.7613e-25
+align 2 are 0.860607 did 0.138236 would 0.00115596 good 1.49571e-07
+align 3 these 1
+align 4 men 1
+align 5 doing 0.822384 do 0.121319 *DELETE* 0.0562968 joining 1.85873e-08 join 1.02521e-11 didn't 1.60024e-13 to 3.235e-16 joined 1.5953e-19 doings 8.53725e-22
+align 6 *DELETE* 0.805276 things 0.0520204 thing 0.0383057 think 0.029827 during 0.0262874 dealing 0.0255995 uh 0.0115726 now 0.00731473 dealings 0.00379696
+align 7 *DELETE* 0.991079 in 0.00171149 them 0.00128302 and 0.00116593 uh 0.000960468 that 0.000947424 it 0.000859903 the 0.000709917 touring 0.000612952 a 0.000469235 i 0.000185626 these 1.23949e-05 me 2.41475e-06 they 2.28913e-07 you 5.0715e-09 this 5.02278e-11 we 3.88979e-12 um 4.03863e-13 is 2.47512e-14 now 8.187e-15 then 7.08584e-15 so 6.88908e-17 all 2.05325e-18 an 8.2674e-19 new 2.5625e-20 of 1.95284e-21 thing's 1.22517e-22 if 9.24383e-23 i'm 3.60112e-23 to 6.69252e-26
+align 8 </s> 1

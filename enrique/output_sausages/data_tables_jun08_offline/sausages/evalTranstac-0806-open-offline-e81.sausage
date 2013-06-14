@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 well 0.99994 we'll 5.76738e-05 will 1.85106e-06
+align 2 of 1
+align 3 course 1
+align 4 i'm 0.522213 i 0.477787
+align 5 you 0.522213 mean 0.477787
+align 6 know 0.522213 it 0.163918 i 0.151918 *DELETE* 0.121734 that 0.03834 at 0.000930954 a 0.000438578 the 0.000228338 to 0.000142466 they 0.00012547 that's 7.10497e-06 there 2.59744e-06
+align 7 like 1
+align 8 i 1
+align 9 told 1
+align 10 *DELETE* 0.999951 you 4.88636e-05
+align 11 before 1
+align 12 our 0.999816 are 0.000183715
+align 13 main 1
+align 14 concern 1
+align 15 is 1
+align 16 the 0.991944 *DELETE* 0.00805586
+align 17 security 1
+align 18 of 1
+align 19 the 1
+align 20 of 0.973222 uh 0.0109095 all 0.010844 well 0.00267616 *DELETE* 0.00210869 old 0.00012665 or 0.000103037 i'll 9.14896e-06 pulled 5.27473e-07
+align 21 the 0.997871 other 0.00210869 to 1.99233e-05
+align 22 plant 0.990355 planned 0.00654961 plan 0.00297961 plants 9.81063e-05 plans 1.81433e-05
+align 23 </s> 1

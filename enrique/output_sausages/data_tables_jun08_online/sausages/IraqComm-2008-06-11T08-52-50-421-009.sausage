@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 sorry 1
+align 2 can 1
+align 3 you 1
+align 4 please 1
+align 5 repeat 0.98186 repair 0.0181389 *DELETE* 5.33775e-10
+align 6 yourself 0.972528 shop 0.0181389 ourself 0.00764664 your 0.00142528 *DELETE* 0.00025945 appear 1.45005e-06
+align 7 *DELETE* 0.998295 shop 0.00115088 yourselves 0.00025945 shelf 0.000131289 cell 0.000123349 self 2.12088e-05 i 1.62537e-05 a 1.86491e-06 uh 6.04716e-07 so 2.82332e-10 show 2.75519e-10
+align 8 </s> 1

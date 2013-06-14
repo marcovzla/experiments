@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999914 i 8.56504e-05
+align 2 today 1
+align 3 we 1
+align 4 are 1
+align 5 conducting 1
+align 6 an 1
+align 7 inspection 1
+align 8 of 1
+align 9 this 1
+align 10 facility 1
+align 11 *DELETE* 0.999927 uh 7.22653e-05 you 9.82524e-07
+align 12 </s> 1

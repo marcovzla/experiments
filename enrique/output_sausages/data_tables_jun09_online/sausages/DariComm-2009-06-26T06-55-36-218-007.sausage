@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 0.957281 it 0.0260371 it's 0.012684 yes 0.00399768
+align 2 *DELETE* 0.973963 is 0.0260371
+align 3 the 1
+align 4 food 1
+align 5 situation 1
+align 6 in 1
+align 7 your 1
+align 8 village 1
+align 9 good 0.979587 today 0.00983857 dude 0.00697642 g'oud 0.00290304 *DELETE* 0.000403086 do 0.000292258 can 7.36677e-19
+align 10 *DELETE* 0.991312 uh 0.00593238 her 0.000583183 how 0.000436241 high 0.000403253 could 0.000403086 i 0.000298876 at 0.000281032 would 0.000259984 to 3.25676e-05 they 3.07083e-05 it 1.47624e-05 a 1.16281e-05 road 5.56974e-07 do 5.82409e-10 in 7.63192e-14 if 7.32208e-14
+align 11 </s> 1

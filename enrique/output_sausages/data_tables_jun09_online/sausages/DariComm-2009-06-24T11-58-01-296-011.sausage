@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.692682 uh 0.279863 i 0.0168926 um 0.0105627
+align 2 *DELETE* 0.692682 i'm 0.307318
+align 3 good 1
+align 4 thank 1
+align 5 you 1
+align 6 *DELETE* 0.999751 uh 0.000236381 um 1.26334e-05 know 1.58697e-07 yeah 3.576e-10 and 1.62825e-10 you 6.37745e-11
+align 7 </s> 1

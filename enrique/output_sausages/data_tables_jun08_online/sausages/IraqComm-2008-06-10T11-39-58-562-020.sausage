@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.992304 i 0.00769586
+align 2 *DELETE* 0.992304 am 0.00769586
+align 3 sorry 1
+align 4 we're 0.975977 were 0.0240227
+align 5 checking 1
+align 6 all 0.997757 off 0.00169697 on 0.000545865
+align 7 vehicles 1
+align 8 today 1
+align 9 what's 0.999993 *DELETE* 7.053e-06
+align 10 your 0.997669 her 0.00232399 what 7.053e-06 *DELETE* 1.00704e-20 was 4.01114e-29
+align 11 name 0.999993 surname 7.053e-06 sir 1.47804e-16
+align 12 *DELETE* 1 name 1.47804e-16
+align 13 </s> 1

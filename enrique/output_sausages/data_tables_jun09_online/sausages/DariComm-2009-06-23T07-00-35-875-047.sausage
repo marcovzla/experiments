@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 0.990324 well 0.00967641
+align 2 what 1
+align 3 are 1
+align 4 your 1
+align 5 problems 1
+align 6 in 0.99872 and 0.00128048
+align 7 the 0.997871 that 0.0014721 a 0.000657128
+align 8 village 1
+align 9 *DELETE* 0.996023 uh 0.00293387 in 0.00034201 now 0.000189863 and 0.000169533 um 0.000138891 of 6.51408e-05 okay 5.99957e-05 yeah 3.59397e-05 up 1.76211e-05 i 1.54416e-05 the 3.4458e-06 who 1.63634e-06 or 1.55422e-06 him 8.71436e-07 if 6.84738e-07 there 5.13827e-07 to 1.80704e-09 are 1.59068e-09 you 1.35953e-09 do 6.59266e-12 i'm 1.4744e-12 here 1.11605e-12 will 7.57917e-14 that 9.51137e-15 a 1.49912e-15 with 3.51803e-16 off 1.91041e-16 on 1.15966e-16 it 8.25038e-19 we 5.01211e-21 is 7.0753e-22 were 3.79856e-23
+align 10 </s> 1

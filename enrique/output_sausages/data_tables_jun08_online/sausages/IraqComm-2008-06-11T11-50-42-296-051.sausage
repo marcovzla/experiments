@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 know 1
+align 5 these 0.997642 of 0.00235841
+align 6 *DELETE* 0.997642 these 0.00235841
+align 7 people 1
+align 8 are 0.999802 or 0.000197556
+align 9 not 1
+align 10 insurgents 0.998854 insurgence 0.000959593 insurgents' 0.000186683 *DELETE* 3.06762e-14
+align 11 *DELETE* 0.99997 uh 2.96691e-05 insurgent 9.04369e-08
+align 12 </s> 1

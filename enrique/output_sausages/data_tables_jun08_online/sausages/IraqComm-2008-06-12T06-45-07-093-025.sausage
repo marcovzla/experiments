@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 did 0.891535 do 0.108465
+align 5 *DELETE* 0.999881 do 0.000119476
+align 6 they 0.999536 *DELETE* 0.00046448
+align 7 see 0.999532 daisey 0.00046448 seek 3.74233e-06
+align 8 you 0.97937 *DELETE* 0.0206299
+align 9 go 0.978617 *DELETE* 0.0213543 you'll 2.9186e-05 your 1.35742e-09 all 1.04064e-29
+align 10 in 0.894639 ahead 0.0447356 and 0.026208 going 0.0212711 then 0.0111235 i'm 0.000786373 end 0.000400363 n 0.000331716 on 0.000209585 an 0.000172155 killing 7.62947e-05 into 4.02762e-05 *DELETE* 6.22359e-06 i 1.93865e-27
+align 11 *DELETE* 0.999967 uh 2.54893e-05 doing 3.43045e-06 inn 2.79313e-06 a 1.1971e-06 away 2.01478e-12 aim 1.49364e-14 i'll 5.98585e-23 en 3.3424e-24 any 3.77339e-26 in 1.93865e-27 it 1.93852e-28
+align 12 </s> 1

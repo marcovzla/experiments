@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 is 1
+align 3 used 1
+align 4 to 1
+align 5 stop 1
+align 6 the 1
+align 7 bleeding 1
+align 8 *DELETE* 0.999904 i 6.22484e-05 in 2.31552e-05 and 7.70852e-06 it 2.40197e-06 uh 2.31052e-13 that 3.49513e-14
+align 9 </s> 1

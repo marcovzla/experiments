@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 any 1
+align 4 complaints 1
+align 5 on 1
+align 6 your 1
+align 7 behalf 1
+align 8 that 0.986656 of 0.0133438
+align 9 *DELETE* 0.986656 that 0.0133438
+align 10 you 1
+align 11 want 1
+align 12 to 1
+align 13 address 0.959952 trust 0.0383991 addressed 0.000903224 dress 0.000745804
+align 14 to 0.999801 too 0.000181686 two 1.71039e-05
+align 15 us 1
+align 16 *DELETE* 0.999748 uh 0.000182722 i 5.48422e-05 you 5.26782e-06 to 4.34424e-06 the 2.15151e-06 so 1.82572e-06 a 4.32342e-07 in 1.18504e-07 um 9.88634e-09 who 3.42761e-12
+align 17 </s> 1

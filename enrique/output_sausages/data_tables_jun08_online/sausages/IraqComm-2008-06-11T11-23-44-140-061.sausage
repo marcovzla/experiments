@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 tell 1
+align 2 your 1
+align 3 son 1
+align 4 not 1
+align 5 to 1
+align 6 be 1
+align 7 scared 1
+align 8 but 0.996213 that 0.00248798 when 0.00129923
+align 9 it 0.947689 *DELETE* 0.0523108
+align 10 is 0.929862 it's 0.0701378
+align 11 good 1
+align 12 to 0.585729 that 0.21644 if 0.178719 *DELETE* 0.0185285 do 0.000574738 but 8.34502e-06 the 1.42561e-09 they 7.90387e-10
+align 13 be 0.585729 you 0.392071 he 0.0221998
+align 14 like 0.965142 likes 0.0348584
+align 15 the 0.999687 to 0.000313203 tea 2.25239e-15
+align 16 americans 0.999204 americans' 0.000772493 american's 2.36602e-05
+align 17 </s> 1

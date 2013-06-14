@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 uh 1
+align 4 wired 0.998366 uh 0.001634
+align 5 *DELETE* 0.998366 wired 0.001634
+align 6 into 0.973983 in 0.0259762 and 4.09391e-05
+align 7 *DELETE* 0.973983 to 0.0173483 did 0.00798808 do 0.000680689
+align 8 the 1
+align 9 city 1
+align 10 power 0.999944 prior 5.64721e-05
+align 11 grid 0.748613 great 0.245606 grade 0.00512327 or 0.000657449
+align 12 *DELETE* 0.999343 great 0.000657449
+align 13 or 1
+align 14 do 1
+align 15 you 1
+align 16 operate 1
+align 17 on 1
+align 18 a 0.999955 me 4.54905e-05
+align 19 backup 0.996129 a 0.00387021 back 1.26902e-06
+align 20 *DELETE* 0.996129 backup 0.00387021 of 1.26902e-06 up 8.44771e-13
+align 21 generator 0.999989 generators 1.05477e-05
+align 22 </s> 1

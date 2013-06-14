@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 you 0.829945 we 0.156277 he 0.0113186 they 0.0013878 i 0.00100458 the 6.68533e-05
+align 2 don't 1
+align 3 need 0.960869 me 0.0372554 may 0.0018753
+align 4 bridge 1
+align 5 and 0.957974 in 0.0420263
+align 6 work 0.810767 worked 0.189233
+align 7 before 0.99978 for 0.00022003 the 2.4566e-10
+align 8 *DELETE* 0.999996 i 3.56783e-06 uh 3.08995e-08 for 2.16995e-10 four 2.8665e-11
+align 9 </s> 1

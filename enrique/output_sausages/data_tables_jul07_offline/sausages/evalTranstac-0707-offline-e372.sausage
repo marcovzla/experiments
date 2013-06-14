@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 i 0.94209 *DELETE* 0.0452186 all 0.00677923 oh 0.00454024 alright 0.00127766 and 9.39913e-05
+align 2 *DELETE* 0.989822 right 0.00677923 i 0.00339753 thought 1.06501e-06
+align 3 don't 0.825264 i 0.128121 alright 0.0452186 *DELETE* 0.00139666
+align 4 *DELETE* 0.999992 i 8.20696e-06
+align 5 tell 0.96647 thought 0.0145769 i 0.00732625 *DELETE* 0.00678029 know 0.00429556 uh 0.000550635
+align 6 *DELETE* 0.99459 thought 0.0054105
+align 7 you 0.991292 *DELETE* 0.00869506 i 1.27608e-05
+align 8 do 1
+align 9 is 1
+align 10 the 1
+align 11 right 1
+align 12 thing 1
+align 13 to 0.999801 you 0.00019913
+align 14 do 1
+align 15 *DELETE* 0.948418 it 0.0515123 and 6.79714e-05 to 1.27583e-06 you 8.49614e-08 is 2.89171e-08
+align 16 </s> 1

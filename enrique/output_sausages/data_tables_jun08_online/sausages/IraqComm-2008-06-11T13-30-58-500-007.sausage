@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i 0.997554 *DELETE* 0.00244586
+align 2 am 0.997554 i'm 0.00244586
+align 3 very 1
+align 4 tired 1
+align 5 today 0.995477 to 0.002195 *DELETE* 0.00150119 and 0.000826379 of 4.60703e-07 too 3.94538e-13
+align 6 *DELETE* 0.994257 uh 0.00223947 that 0.00193812 i 0.000901453 um 0.000539779 the 0.000124661 i'm 1.25206e-12 a 8.29176e-16 at 3.82643e-16
+align 7 </s> 1

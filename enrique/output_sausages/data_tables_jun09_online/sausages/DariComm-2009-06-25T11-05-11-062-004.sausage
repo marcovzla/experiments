@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 is 1
+align 3 the 1
+align 4 commanding 0.999988 commander 1.23081e-05
+align 5 officer 1
+align 6 *DELETE* 0.99926 is 0.000570566 i 7.84119e-05 of 6.32709e-05 uh 2.80368e-05
+align 7 </s> 1

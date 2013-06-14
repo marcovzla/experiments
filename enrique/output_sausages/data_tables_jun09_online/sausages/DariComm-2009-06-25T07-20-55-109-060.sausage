@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 your 1
+align 3 men 1
+align 4 require 1
+align 5 protection 1
+align 6 do 0.798527 to 0.201473 *DELETE* 5.82444e-44
+align 7 *DELETE* 0.798527 do 0.201473
+align 8 their 0.967173 our 0.0295656 that 0.00240336 the 0.000664376 there 0.000151747 or 3.54391e-05 they're 5.21112e-06 uh 8.15701e-07 other 4.25994e-07 are 2.24237e-10 dealer 6.47246e-38
+align 9 work 0.999969 own 3.13835e-05
+align 10 *DELETE* 0.999935 work 3.13835e-05 is 1.28476e-05 in 1.07168e-05 uh 1.01684e-05 at 6.37053e-13
+align 11 </s> 1

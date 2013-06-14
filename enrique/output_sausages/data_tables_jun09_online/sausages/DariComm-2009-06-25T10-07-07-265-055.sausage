@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 say 0.997951 so 0.00117226 sir 0.000876744
+align 2 *DELETE* 0.997951 i 0.002049
+align 3 again 1
+align 4 *DELETE* 0.99996 i 3.67336e-05 uh 3.28293e-06 um 1.57374e-08 you 2.33544e-11
+align 5 </s> 1

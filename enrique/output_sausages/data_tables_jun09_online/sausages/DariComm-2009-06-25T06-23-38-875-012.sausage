@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 anything 1
+align 2 else 0.999685 us 0.000315413
+align 3 for 0.998904 or 0.000429835 with 0.000287936 four 0.00026871 but 9.33836e-05 that 7.72106e-06 sir 5.00511e-06 from 3.66409e-06
+align 4 the 0.99907 this 0.000929982 a 3.41185e-09 that 1.19661e-09
+align 5 facility 0.998126 facilities 0.00187415
+align 6 *DELETE* 0.999526 uh 0.0004392 now 3.33023e-05 is 1.43673e-06 i 1.14803e-08 or 1.08361e-11
+align 7 </s> 1

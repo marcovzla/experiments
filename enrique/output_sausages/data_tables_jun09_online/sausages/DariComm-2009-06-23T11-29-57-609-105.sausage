@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 bring 1
+align 2 two 0.999801 to 0.000199015
+align 3 machine 1
+align 4 guns 1
+align 5 *DELETE* 0.999937 i 4.11383e-05 do 8.10734e-06 and 8.03617e-06 you 5.35215e-06 uh 2.01423e-07 in 9.75048e-10
+align 6 </s> 1

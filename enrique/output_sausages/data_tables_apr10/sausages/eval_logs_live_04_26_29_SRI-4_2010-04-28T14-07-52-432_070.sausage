@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.994569 i 0.00543102
+align 2 do 1
+align 3 the 1
+align 4 police 1
+align 5 patrol 1
+align 6 around 1
+align 7 the 0.999509 a 0.000271467 this 0.000219744
+align 8 school 1
+align 9 *DELETE* 0.999995 in 3.08105e-06 uh 1.78533e-06 to 3.62966e-08 is 1.01719e-18
+align 10 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 0.991938 your 0.00806202
+align 3 require 1
+align 4 a 1
+align 5 deposit 1
+align 6 upfront 0.99574 up 0.00202575 out 0.00198274 i'll 0.000151587 all 6.60101e-05 of 3.07694e-05 op 3.42065e-06 *DELETE* 7.07341e-16 off 1.28436e-19
+align 7 *DELETE* 0.995395 front 0.0042338 i 0.00015967 uh 0.000148167 the 2.65346e-05 to 2.46394e-05 it 9.36978e-06 a 2.62739e-06 in 5.85296e-08
+align 8 *DELETE* 0.999973 front 2.65346e-05
+align 9 </s> 1

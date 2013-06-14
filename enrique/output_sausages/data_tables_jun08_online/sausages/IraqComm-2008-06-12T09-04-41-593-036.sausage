@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 look 0.558244 *DELETE* 0.441756
+align 4 at 0.558244 locate 0.30509 okay 0.136666 *DELETE* 4.90465e-16
+align 5 the 0.794173 this 0.205826 that 7.7703e-07 to 9.68258e-08 a 2.83666e-15 *DELETE* 4.68118e-16
+align 6 school 1
+align 7 on 0.999514 in 0.0004075 and 7.84244e-05
+align 8 the 0.999986 a 1.40501e-05
+align 9 map 1
+align 10 *DELETE* 0.996247 uh 0.00219964 in 0.000915364 and 0.000383319 of 0.000112264 i 9.89598e-05 now 4.2804e-05 um 1.01754e-06 on 6.58753e-08 here 2.65002e-13 it 3.57229e-23
+align 11 </s> 1

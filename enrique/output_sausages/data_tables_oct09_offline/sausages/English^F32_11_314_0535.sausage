@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 and 0.999991 in 8.69473e-06
+align 2 uh 1
+align 3 *DELETE* 0.590693 as 0.409266 uh 4.04144e-05
+align 4 some 0.58918 soon 0.41082
+align 5 of 0.58918 as 0.41082
+align 6 the 1
+align 7 vehicle 0.999544 vehicles 0.000456057
+align 8 stops 1
+align 9 then 0.996449 them 0.00355109
+align 10 they're 1
+align 11 going 1
+align 12 to 1
+align 13 pinch 1
+align 14 out 1
+align 15 come 1
+align 16 on 0.503238 onto 0.496762
+align 17 to 0.502375 *DELETE* 0.496762 two 0.000477489 too 0.000385999
+align 18 the 1
+align 19 road 0.999955 *DELETE* 4.46427e-05
+align 20 to 0.437435 and 0.386786 on 0.0570369 i'm 0.0370409 of 0.0287123 up 0.0272342 in 0.00739373 a 0.00705976 m 0.00269495 i 0.00188692 uh 0.00180326 am 0.00133212 um 0.00117445 it 0.00117139 him 0.000437059 them 0.000396417 or 0.000335104 rhoda 4.46427e-05 an 2.26386e-05 then 2.77703e-06
+align 21 provide 0.999992 provides 7.57186e-06
+align 22 security 1
+align 23 </s> 1

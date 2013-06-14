@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 are 1
+align 4 you 1
+align 5 willing 1
+align 6 to 1
+align 7 look 0.947584 work 0.0524161 walk 3.88951e-15
+align 8 for 0.999753 *DELETE* 0.000246671
+align 9 *DELETE* 0.990582 uh 0.00393926 it 0.0025169 a 0.00139118 you 0.00126994 four 0.000184995 more 6.16757e-05 the 5.20748e-05 us 1.86001e-06 um 1.8708e-07 is 1.50658e-10 to 1.10173e-11
+align 10 </s> 1

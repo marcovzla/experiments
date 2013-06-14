@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 sorry 0.522686 so 0.475517 sir 0.0017971
+align 2 i 1
+align 3 *DELETE* 0.522686 i 0.477235 uh 7.9447e-05
+align 4 *DELETE* 0.814532 i 0.185468
+align 5 *DELETE* 0.978566 i 0.0214341
+align 6 don't 1
+align 7 understand 1
+align 8 the 1
+align 9 question 1
+align 10 *DELETE* 0.999939 uh 5.09413e-05 i 9.05169e-06 you 8.5845e-07 is 1.06312e-09 them 5.94261e-10 if 1.36157e-13
+align 11 </s> 1

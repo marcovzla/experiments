@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 he's 1
+align 3 being 1
+align 4 well 1
+align 5 taken 1
+align 6 care 1
+align 7 of 1
+align 8 *DELETE* 0.999459 uh 0.000511159 it 2.79229e-05 in 2.04426e-06
+align 9 </s> 1

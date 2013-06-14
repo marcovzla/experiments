@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.904968 thank 0.0950325
+align 2 they 0.904968 *DELETE* 0.068218 you 0.0268144
+align 3 three 0.958495 i 0.023374 were 0.0093196 bring 0.00537066 *DELETE* 0.00322356 and 0.000216918
+align 4 much 0.641334 must 0.358666
+align 5 *DELETE* 0.999917 i 8.26468e-05
+align 6 have 1
+align 7 a 1
+align 8 great 1
+align 9 day 0.998301 thing 0.00169839 *DELETE* 1.88856e-11
+align 10 *DELETE* 0.997938 uh 0.00187263 i 0.00013128 off 3.81439e-05 now 1.79712e-05 at 1.15552e-06 of 4.89539e-07 it 2.97765e-07 there 3.02482e-08 that 6.20978e-10 is 6.05284e-10
+align 11 </s> 1

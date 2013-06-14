@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 it's 0.993718 its 0.00628238
+align 2 a 0.959157 they 0.0408426
+align 3 uh 1
+align 4 bottles 0.51565 blow 0.249094 blows 0.235255 bulls 3.39928e-07 both 1.89262e-08 below 1.33786e-09
+align 5 small 1
+align 6 boy 1
+align 7 i 0.982478 am 0.0130195 *DELETE* 0.00395218 i'm 0.000550544
+align 8 met 0.980188 at 0.0129238 aman 0.00395218 meant 0.00151743 men 0.000772508 mad 0.000476338 man 0.000169927
+align 9 on 1
+align 10 the 1
+align 11 street 1
+align 12 uh 0.553283 there 0.351195 the 0.0856037 dead 0.0087086 that 0.00120981
+align 13 *DELETE* 0.907962 uh 0.0920377
+align 14 the 1
+align 15 other 1
+align 16 day 1
+align 17 a 0.540296 *DELETE* 0.333331 um 0.126373
+align 18 um 0.873627 *DELETE* 0.126373
+align 19 we 1 we've 2.11805e-07
+align 20 brought 1
+align 21 a 0.93085 in 0.0297716 him 0.0262676 them 0.00511572 an 0.00368289 *DELETE* 0.00303308 it 0.000986681 to 0.000233397 i 4.11022e-05 the 1.84369e-05
+align 22 man 0.953622 and 0.0133956 in 0.0110124 manned 0.00950219 men 0.00712643 amend 0.00303308 ma'am 0.00103535 mann 0.00075723 ma'an 0.000515979
+align 23 there 1
+align 24 was 0.990037 is 0.00996333
+align 25 something 1
+align 26 wrong 1
+align 27 with 1
+align 28 him 0.9924 them 0.00759979 am 3.10233e-08
+align 29 </s> 1

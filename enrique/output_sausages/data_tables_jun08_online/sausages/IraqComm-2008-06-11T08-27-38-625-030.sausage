@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.999168 *DELETE* 0.000832317
+align 2 other 0.978065 are 0.0211032 *DELETE* 0.000832317
+align 3 *DELETE* 0.978065 their 0.0159035 the 0.00519971 whatever 0.000832317
+align 4 vehicles 1
+align 5 do 1
+align 6 you 1 *DELETE* 2.66637e-11
+align 7 have 1
+align 8 *DELETE* 0.999307 uh 0.000395867 a 0.000297007 to 9.67252e-15
+align 9 </s> 1

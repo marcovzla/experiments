@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 your 1
+align 2 brother 1
+align 3 will 0.828011 we'll 0.167208 why 0.00478099
+align 4 have 1
+align 5 to 1
+align 6 come 0.986875 *DELETE* 0.0131253
+align 7 and 0.979544 coming 0.0131253 to 0.00446162 in 0.00286931
+align 8 get 0.996294 at 0.00370504 it 5.35677e-07
+align 9 it 0.999943 out 3.10762e-05 at 2.6175e-05 its 4.09511e-09
+align 10 *DELETE* 0.999824 uh 0.00011893 i 2.96439e-05 in 2.49842e-05 to 2.73474e-06
+align 11 </s> 1

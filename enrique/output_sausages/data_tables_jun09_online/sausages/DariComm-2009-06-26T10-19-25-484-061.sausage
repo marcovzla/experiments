@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 far 1
+align 3 *DELETE* 0.999927 uh 7.34885e-05
+align 4 is 1
+align 5 the 0.999928 that 7.2006e-05
+align 6 well 0.993917 world 0.00355294 while 0.00216092 wow 0.000208234 low 8.22278e-05 *DELETE* 5.09334e-05 one 2.8011e-05 way 9.46201e-20
+align 7 *DELETE* 0.999645 i 0.000174826 wall 4.65669e-05 it 4.03519e-05 uh 3.96539e-05 oh 2.8011e-05 is 1.40317e-05 if 5.14579e-06 wa'el 4.25388e-06 a 9.6061e-07 do 4.52573e-07 to 1.83664e-07 we'll 8.55214e-08 the 3.46741e-08 will 2.71556e-08 in 3.60324e-10 did 1.34298e-11 all 2.40608e-15 i'll 9.46201e-20
+align 8 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 we 0.963657 *DELETE* 0.0363429
+align 2 will 0.965363 we'll 0.0346373
+align 3 provide 1
+align 4 for 0.889141 four 0.110859
+align 5 gun 1
+align 6 trucks 1
+align 7 with 0.641561 what 0.28303 which 0.0754085
+align 8 twenty 1
+align 9 five 1
+align 10 marines 0.998158 mornings 0.0018418
+align 11 *DELETE* 0.999233 uh 0.000620887 i 0.000132695 in 7.02939e-06 a 4.69458e-06 do 1.91574e-06 to 1.35532e-07 if 2.02009e-12 and 6.63832e-13 the 1.85211e-13 it 1.03598e-13
+align 12 </s> 1

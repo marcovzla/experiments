@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.895191 i 0.0909837 oh 0.0132465 and 0.000578383
+align 2 thank 1
+align 3 you 1
+align 4 very 1
+align 5 much 1
+align 6 *DELETE* 0.999821 uh 0.000178594
+align 7 </s> 1

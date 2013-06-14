@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 buildings 1
+align 5 are 0.999911 *DELETE* 8.93022e-05
+align 6 in 0.999844 on 0.000156378
+align 7 the 0.952132 this 0.0448797 a 0.00298842
+align 8 city 1 sitting 4.96521e-14
+align 9 </s> 1

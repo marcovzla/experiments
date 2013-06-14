@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 if 1
+align 3 you 0.999933 he 6.69284e-05
+align 4 could 1
+align 5 *DELETE* 0.999646 do 0.000350136 to 3.80507e-06
+align 6 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 oh 0.604657 *DELETE* 0.369954 uh 0.013151 oil 0.00991004 well 0.00128045 all 0.000533804 i'll 0.000453347 go 6.10111e-05
+align 2 what 1
+align 3 is 1
+align 4 the 1
+align 5 purpose 1
+align 6 of 1
+align 7 sights 0.70582 sites 0.255783 sight 0.0210433 site 0.0101343 cites 0.00585953 site's 0.0013598
+align 8 on 0.99593 *DELETE* 0.00328573 in 0.000784557
+align 9 a 0.994075 only 0.00328573 the 0.00178122 it 0.000812087 i 4.50057e-05 they 6.30724e-07 he 5.26738e-10
+align 10 weapon 0.999875 weapons 0.000125443
+align 11 *DELETE* 0.999995 in 4.90184e-06 i 5.70912e-07 a 3.65912e-17
+align 12 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 your 1
+align 3 children 1
+align 4 go 1
+align 5 to 1
+align 6 school 1
+align 7 as 1
+align 8 well 1
+align 9 sir 1
+align 10 *DELETE* 0.999954 uh 4.56515e-05 i 1.42675e-12
+align 11 </s> 1

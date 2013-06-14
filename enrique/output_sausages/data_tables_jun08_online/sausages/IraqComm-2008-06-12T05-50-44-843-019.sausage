@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 lived 1
+align 6 in 0.82065 on 0.17935
+align 7 this 1
+align 8 land 0.999953 lane 4.6785e-05
+align 9 </s> 1

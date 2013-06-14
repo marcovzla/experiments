@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 and 0.996394 in 0.00360622
+align 2 uh 1
+align 3 *DELETE* 0.996858 uh 0.0031425
+align 4 that's 0.863026 that 0.136974
+align 5 what 0.974449 uh 0.0255513
+align 6 *DELETE* 0.974449 what 0.0255513
+align 7 time 0.986679 i'm 0.0133205
+align 8 people 1
+align 9 as 0.582929 that's 0.357357 us 0.0597138
+align 10 far 0.450524 why 0.395623 for 0.129537 what 0.0214477 four 0.00286774
+align 11 we're 0.96125 were 0.0387419 we 8.09225e-06
+align 12 *DELETE* 0.999992 were 8.09225e-06
+align 13 going 0.99883 *DELETE* 0.00116964
+align 14 into 0.690904 in 0.272964 *DELETE* 0.0357173 and 0.000414421
+align 15 *DELETE* 0.690904 the 0.167121 to 0.140805 gonna 0.00116964
+align 16 *DELETE* 0.991888 do 0.00438841 conduct 0.00336525 a 0.000358761
+align 17 conducting 0.996635 in 0.00195994 and 0.00087614 an 0.000515606 can 1.35611e-05
+align 18 *DELETE* 0.999907 a 9.02009e-05 uh 1.43694e-06 to 8.29632e-07 i 7.12863e-07 the 3.02424e-09
+align 19 </s> 1

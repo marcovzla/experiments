@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 time 1
+align 3 of 1
+align 4 day 1
+align 5 did 0.998094 do 0.00190614
+align 6 the 1
+align 7 army 0.983284 are 0.0137881 our 0.00267536 art 0.000252557
+align 8 *DELETE* 0.983284 me 0.00895561 be 0.00776042
+align 9 come 1
+align 10 to 1
+align 11 your 1
+align 12 house 1
+align 13 </s> 1

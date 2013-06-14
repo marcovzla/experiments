@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 i 1
+align 3 i 1
+align 4 *DELETE* 0.991289 i 0.00871072
+align 5 need 1
+align 6 you 1
+align 7 to 1
+align 8 get 1
+align 9 uh 0.823279 a 0.176721
+align 10 *DELETE* 0.553149 in 0.357751 a 0.0582183 uh 0.0198447 an 0.011037
+align 11 new 0.935476 news 0.0385069 knew 0.0129009 *DELETE* 0.0112624 nurse 0.00185402
+align 12 so 0.988738 national 0.0112624
+align 13 quote 1
+align 14 for 0.958922 with 0.0226743 were 0.0132437 or 0.0047641 four 0.000395409
+align 15 those 1
+align 16 *DELETE* 0.999992 uh 8.4297e-06
+align 17 </s> 1

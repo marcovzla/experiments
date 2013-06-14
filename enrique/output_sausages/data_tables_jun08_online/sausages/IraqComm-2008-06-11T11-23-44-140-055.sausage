@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 needle 1
+align 3 will 0.525623 we'll 0.474377
+align 4 provide 1
+align 5 i._v. 1
+align 6 fluids 1
+align 7 because 1
+align 8 she 0.703128 she's 0.29669 he 0.000181831
+align 9 is 0.695718 *DELETE* 0.29669 has 0.00753863 used 5.31374e-05
+align 10 dehydrated 1
+align 11 *DELETE* 1 i 1.17233e-08 it 2.04199e-14
+align 12 </s> 1

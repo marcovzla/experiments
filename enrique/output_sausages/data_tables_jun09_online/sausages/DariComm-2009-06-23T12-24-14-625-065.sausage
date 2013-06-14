@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 next 0.553776 makes 0.446216 in 7.72162e-06
+align 3 *DELETE* 0.999992 makes 7.72162e-06
+align 4 check 0.719663 to 0.171831 *DELETE* 0.0639692 checked 0.0259781 sick 0.0141109 i 0.00173327 stick 0.00120428 sect 0.000835762 it 0.00043141 sec 0.00012815 czech 0.000102304 set 1.02766e-05 sake 2.40827e-06 sit 8.97182e-17 sic 5.55795e-19
+align 5 *DELETE* 0.776328 take 0.217076 check 0.00659683
+align 6 the 1
+align 7 trunk 0.776107 truck 0.223572 *DELETE* 0.000320625
+align 8 *DELETE* 0.997452 uh 0.00158199 i 0.000484271 trial 0.000128819 of 0.000120641 drunk 8.14427e-05 trucks 6.89073e-05 drug 3.34037e-05 it 2.68534e-05 drop 7.03817e-06 and 4.94082e-06 is 4.3209e-06 now 4.17894e-06 trunks 7.7937e-07 top 1.57299e-07 talk 7.73939e-08 you 5.87033e-09 in 3.12969e-10 the 2.40319e-11 try 3.00317e-12 or 5.91218e-15 on 6.49375e-18 do 2.08029e-19
+align 9 </s> 1

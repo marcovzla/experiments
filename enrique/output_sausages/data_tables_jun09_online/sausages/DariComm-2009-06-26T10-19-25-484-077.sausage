@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 that 0.911004 the 0.0869667 *DELETE* 0.00202912
+align 3 *DELETE* 0.911004 uh 0.0889958
+align 4 local 1
+align 5 construction 1
+align 6 company 1
+align 7 here 0.998723 hear 0.001277 *DELETE* 7.43757e-10
+align 8 *DELETE* 0.999598 uh 0.000278752 i 0.000122328 a 3.95049e-07 or 2.99699e-07 near 8.53041e-08 in 1.46268e-09 to 1.28343e-09 and 3.21714e-10 is 3.13678e-10 it 5.87941e-11 you 1.14456e-13 where 3.42399e-17
+align 9 </s> 1

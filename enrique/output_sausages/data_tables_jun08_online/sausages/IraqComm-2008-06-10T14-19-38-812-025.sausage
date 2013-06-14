@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 is 1
+align 3 causing 1
+align 4 problems 0.99954 the 0.00046035
+align 5 *DELETE* 0.99953 problems 0.00046035 uh 6.71059e-06 i 2.77253e-06
+align 6 </s> 1

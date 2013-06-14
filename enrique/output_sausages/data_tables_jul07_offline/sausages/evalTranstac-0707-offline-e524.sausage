@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 and 0.98736 in 0.0126399
+align 2 our 0.994762 uh 0.00273751 are 0.0023624 i 0.000137765
+align 3 *DELETE* 0.997125 our 0.00273751 are 0.000137765
+align 4 mission 1
+align 5 is 0.990922 as 0.0090783
+align 6 two 0.496478 to 0.279712 *DELETE* 0.223811
+align 7 nights 0.655436 tonight 0.223811 night 0.114307 *DELETE* 0.00644659
+align 8 or 0.569165 sir 0.237572 you 0.186817 nicer 0.00644395 natural 2.64302e-06
+align 9 not 1
+align 10 to 1
+align 11 go 1
+align 12 in 0.952034 *DELETE* 0.0479085 and 5.78201e-05
+align 13 and 0.978383 an 0.0112471 in 0.00993866 *DELETE* 0.000430705
+align 14 capture 1
+align 15 those 1
+align 16 insurgents 0.999946 insurgence 4.76153e-05 a 6.38499e-06 *DELETE* 1.79117e-18
+align 17 *DELETE* 0.999895 uh 9.77576e-05 surgeons 6.38499e-06 i 8.53083e-07 insurgents' 6.15267e-09
+align 18 </s> 1

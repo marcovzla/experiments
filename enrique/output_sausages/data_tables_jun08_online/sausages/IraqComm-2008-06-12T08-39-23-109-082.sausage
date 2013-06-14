@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 well 0.80898 no 0.190953 we're 6.73649e-05 good 3.38713e-07
+align 2 in 0.850228 *DELETE* 0.131339 on 0.0184275 as 5.80339e-06
+align 3 the 0.718519 this 0.183607 i 0.0978741
+align 4 *DELETE* 0.902132 don't 0.0978682
+align 5 *DELETE* 0.902132 the 0.0502291 know 0.0476392
+align 6 *DELETE* 0.993517 the 0.00647729 do 5.80339e-06
+align 7 city 0.999994 you 5.80339e-06
+align 8 is 0.792266 you 0.206265 it 0.00146823
+align 9 *DELETE* 0.792266 is 0.207734
+align 10 the 0.990931 a 0.0090687
+align 11 factory 1
+align 12 located 0.999985 a 1.54159e-05
+align 13 *DELETE* 0.909063 in 0.0892023 at 0.000855455 and 0.000381738 too 0.000141018 here 0.000117867 two 8.95862e-05 uh 5.41144e-05 him 5.09762e-05 to 2.74386e-05 located 1.54159e-05 on 1.38169e-06 ten 4.23536e-15 can 2.36409e-20
+align 14 </s> 1

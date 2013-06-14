@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 two 0.489251 to 0.171755 okay 0.119357 too 0.110612 do 0.0770438 thick 0.026164 *DELETE* 0.00581729
+align 2 *DELETE* 0.922956 you 0.0770438
+align 3 can 0.968019 and 0.026164 taken 0.00581729
+align 4 ensure 0.993826 you 0.00617353
+align 5 *DELETE* 0.993826 ensure 0.00617353
+align 6 teamwork 0.684362 team 0.315638
+align 7 *DELETE* 0.684362 work 0.315638
+align 8 and 1
+align 9 make 1
+align 10 sure 1
+align 11 that 1
+align 12 uh 0.881232 that 0.118768
+align 13 were 0.745798 we're 0.244118 *DELETE* 0.00732536 we 0.00275813
+align 14 *DELETE* 0.989847 are 0.00275813 for 0.00222279 worse 0.00201126 where 0.00151679 or 0.00112424 wear 0.000299664 work 0.000150612 success 6.94668e-05
+align 15 successful 0.999931 will 4.66252e-05 hole 1.81242e-05 we'll 4.71747e-06 success 3.18182e-10
+align 16 *DELETE* 0.999997 uh 2.27363e-06 i 4.19118e-07 will 3.18182e-10
+align 17 </s> 1

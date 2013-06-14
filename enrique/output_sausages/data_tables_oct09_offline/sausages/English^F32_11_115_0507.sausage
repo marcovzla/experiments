@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999873 oh 0.000127154
+align 2 okay 1
+align 3 but 0.96482 both 0.0340085 bye 0.000622937 by 0.000548588 buy 2.99656e-07
+align 4 look 0.588671 with 0.220813 what 0.156508 uh 0.0294747 *DELETE* 0.00453386
+align 5 at 0.585908 *DELETE* 0.331005 that 0.0814916 uh 0.00159479
+align 6 the 1
+align 7 *DELETE* 0.877912 uh 0.122088
+align 8 *DELETE* 0.698469 the 0.301531
+align 9 amount 0.90228 ahmed 0.0679223 *DELETE* 0.0297973
+align 10 of 0.364474 a 0.318302 *DELETE* 0.310493 i 0.00523235 to 0.00149829
+align 11 *DELETE* 0.970203 model 0.0297973
+align 12 personnel 0.976891 personal 0.0231091
+align 13 be 0.994012 we 0.00598755 b 1.32407e-07
+align 14 guy 0.782134 *DELETE* 0.217866
+align 15 i'm 0.777374 got 0.217866 *DELETE* 0.00475932
+align 16 going 0.777374 more 0.217866 or 0.00475932
+align 17 to 0.777225 you'd 0.221599 you 0.00102624 and 0.0001495
+align 18 be 1
+align 19 able 1
+align 20 to 1
+align 21 cover 1
+align 22 one 0.95645 won 0.0154441 ones 0.0144539 when 0.00701012 one's 0.0066417
+align 23 sides 0.968552 side 0.0166001 side's 0.00568937 size 0.00431988 signs 0.00262987 science 0.00110756 sized 0.00110164
+align 24 *DELETE* 1 so 9.28753e-08
+align 25 </s> 1

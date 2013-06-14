@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 can 0.999046 i 0.000584536 they 0.000272595 and 8.43326e-05 any 1.28056e-05
+align 2 *DELETE* 0.999983 here 1.68117e-05
+align 3 you 0.999107 need 0.000857131 here 7.50283e-05 if 2.04912e-09
+align 4 hear 0.999036 to 0.000841714 have 7.15007e-05 i 2.27685e-05 you 1.54168e-05 *DELETE* 1.28056e-05
+align 5 *DELETE* 0.999962 have 3.81853e-05 i 4.37059e-08
+align 6 *DELETE* 1 have 4.37059e-08
+align 7 me 0.997989 her 0.00133006 have 0.000345835 be 0.000322186 how 1.28056e-05
+align 8 *DELETE* 0.99794 me 0.00166306 you 0.00037091 many 2.56461e-05
+align 9 speaking 0.999984 seeking 1.60458e-05
+align 10 to 0.488596 through 0.481361 for 0.0300436
+align 11 the 0.999984 them 1.59664e-05
+align 12 microphone 1
+align 13 </s> 1

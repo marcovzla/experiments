@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 even 1
+align 2 if 1
+align 3 its 0.525578 it's 0.474422
+align 4 not 1
+align 5 loaded 1
+align 6 it 1
+align 7 uh 1
+align 8 presents 1
+align 9 good 0.999696 could 0.000303611
+align 10 habits 0.998459 have 0.00154091
+align 11 *DELETE* 0.998459 its 0.00101038 it's 0.000530521
+align 12 and 0.996169 in 0.00210238 an 0.00172883
+align 13 displays 0.988771 this 0.0082086 displaced 0.00301992
+align 14 *DELETE* 0.991791 place 0.00513175 please 0.00251277 plays 0.000564077
+align 15 could 0.775034 good 0.200782 get 0.0116387 cook 0.0113169 cooked 0.00119041 g'oud 3.79575e-05
+align 16 professionalism 0.997164 *DELETE* 0.00142133 profession 0.00141477
+align 17 *DELETE* 0.998468 was 0.000979709 professional 0.000552292
+align 18 *DELETE* 0.998039 in 0.00103912 professionals 0.000869037 as 2.70241e-05 is 2.41721e-05 us 1.94282e-06 was 1.13867e-07 it's 1.05212e-11 on 5.33204e-13
+align 19 *DELETE* 0.997998 and 0.000516218 in 0.000456756 wasn't 0.000435065 isn't 0.000278855 some 0.000205746 an 0.000109759
+align 20 *DELETE* 0.999985 some 1.44353e-05 them 3.29541e-07
+align 21 </s> 1

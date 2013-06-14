@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 is 0.995759 does 0.00424072
+align 3 your 1
+align 4 medical 1
+align 5 facility 1
+align 6 uh 1
+align 7 powered 0.567693 power 0.431849 *DELETE* 0.000457522
+align 8 *DELETE* 0.99322 to 0.00593584 powers 0.000454196 too 0.000113121 saw 6.21853e-05 do 4.37276e-05 uh 4.34799e-05 i 4.1742e-05 it 3.59404e-05 thing 3.53254e-05 so 1.40349e-05 in 3.2416e-08 can 9.66377e-09 towers 4.63196e-11 from 2.28748e-20
+align 9 *DELETE* 0.999977 you 6.41203e-06 do 3.78286e-06 power's 3.32636e-06 uh 3.14692e-06 a 2.82773e-06 and 1.33581e-06 chai 1.30193e-06 two 8.5151e-07 the 1.4399e-09
+align 10 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 take 1
+align 4 me 1
+align 5 to 0.857396 *DELETE* 0.142604
+align 6 your 0.998761 you're 0.00123852
+align 7 son 1
+align 8 *DELETE* 0.999803 uh 0.000197174
+align 9 </s> 1

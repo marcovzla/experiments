@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 your 1
+align 3 son 1
+align 4 feel 1
+align 5 better 1
+align 6 for 1
+align 7 a 0.996984 *DELETE* 0.00301601
+align 8 short 1
+align 9 time 1
+align 10 after 1
+align 11 you 0.91035 he 0.0895501 they 9.9534e-05
+align 12 take 0.910313 took 0.0896866
+align 13 the 0.99948 them 0.000519691
+align 14 *DELETE* 1 and 2.30146e-08 honest 5.13208e-10 in 6.38639e-11
+align 15 *DELETE* 1 a 5.64792e-11
+align 16 medicine 0.99948 honestly 0.000485081 and 2.33447e-05 on 1.12411e-05 us 1.51935e-08 some 7.82855e-09 medicines 7.66029e-09 them 5.13208e-10 sum 5.64792e-11
+align 17 *DELETE* 0.999988 us 1.24412e-05
+align 18 *DELETE* 0.999965 some 2.21445e-05 in 1.21475e-05 and 3.08947e-07
+align 19 </s> 1

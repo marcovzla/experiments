@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 sounds 1
+align 3 good 1
+align 4 we'll 0.997538 *DELETE* 0.00239069 we 7.08544e-05
+align 5 *DELETE* 0.997538 will 0.00246154
+align 6 coordinate 1
+align 7 with 1
+align 8 the 1
+align 9 coalition 1
+align 10 forces 1
+align 11 and 1
+align 12 then 1
+align 13 you 1
+align 14 can 1
+align 15 coordinate 1
+align 16 with 1
+align 17 the 1
+align 18 iraqi 1
+align 19 security 1
+align 20 forces 1
+align 21 and 1
+align 22 we 1
+align 23 can 1
+align 24 go 1
+align 25 together 1
+align 26 </s> 1

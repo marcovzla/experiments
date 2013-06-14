@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 what 1
+align 5 is 0.816171 it 0.159394 his 0.0244346
+align 6 *DELETE* 0.840606 is 0.159394
+align 7 used 0.992543 use 0.00745523 you's 1.88287e-06
+align 8 for 0.997998 *DELETE* 0.00200225 to 1.94068e-17
+align 9 *DELETE* 0.918078 work 0.0591476 or 0.0171184 four 0.00200225 uh 0.00136907 our 0.000744325 it 0.000521314 you 0.000465289 a 0.000382189 the 0.000104217 them 5.56941e-05 i 1.16228e-05 um 1.53579e-08 for 1.94068e-17
+align 10 </s> 1

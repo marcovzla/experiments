@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 big 1
+align 6 your 0.655106 their 0.157382 or 0.101576 there 0.0473993 they're 0.0273504 a 0.00389369 are 0.00269312 it 0.00232055 her 0.00123979 either 0.000738716 *DELETE* 0.00025934 you 3.11135e-05 is 5.56198e-06 of 3.62359e-06
+align 7 *DELETE* 0.993486 their 0.00262689 there 0.00148548 our 0.00111989 are 0.00075056 or 0.000528814 they're 2.23359e-06
+align 8 force 0.515096 forces 0.372705 first 0.112073 forced 0.000126278
+align 9 will 0.917595 we'll 0.0824052
+align 10 be 1 *DELETE* 2.8737e-17
+align 11 *DELETE* 0.994629 uh 0.00371447 in 0.000531138 do 0.000297682 a 0.000295145 it 0.00013204 to 9.89027e-05 at 9.43258e-05 i 8.84932e-05 the 3.48585e-05 there 3.03294e-05 you 2.51489e-05 so 2.05205e-05 like 4.96676e-06 that 2.61387e-06 an 1.54707e-07 good 3.79203e-08 if 3.44006e-08 and 1.66293e-08 with 1.64577e-08 i'm 1.3096e-08 is 2.77163e-09 did 1.56932e-09 as 4.40935e-10 due 4.28163e-10 be 1.02823e-10 of 1.65757e-13 let 1.07712e-13 b 8.87917e-15
+align 12 </s> 1

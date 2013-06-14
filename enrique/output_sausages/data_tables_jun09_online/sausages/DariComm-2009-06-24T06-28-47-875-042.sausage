@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999939 i 6.10723e-05
+align 2 do 1
+align 3 they 1
+align 4 all 1
+align 5 work 1
+align 6 at 1
+align 7 the 1
+align 8 same 1
+align 9 time 1
+align 10 *DELETE* 0.999158 uh 0.000428251 i 0.00029195 do 6.0493e-05 you 5.30529e-05 to 7.29669e-06 it 8.22349e-07 in 2.65181e-07 like 5.72987e-08 the 4.40932e-15
+align 11 </s> 1

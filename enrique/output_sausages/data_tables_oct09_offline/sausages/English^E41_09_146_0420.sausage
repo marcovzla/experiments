@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999968 i 3.22251e-05
+align 3 have 1
+align 4 that 0.425591 uh 0.39015 a 0.183858 it 0.000398696 the 1.54978e-06
+align 5 i 0.999094 uh 0.000906046
+align 6 *DELETE* 0.999094 i 0.000906046
+align 7 have 0.996628 i 0.00337206
+align 8 *DELETE* 0.494415 a 0.481798 extra 0.0204154 have 0.00337206
+align 9 *DELETE* 0.99775 a 0.00217953 extra 7.08114e-05
+align 10 extras 0.97507 *DELETE* 0.0141696 is 0.00601028 extra 0.00444349 as 0.000306297
+align 11 that 1 at 4.69251e-08 out 9.69856e-09
+align 12 i 1
+align 13 can 0.99894 could 0.0010601
+align 14 uh 0.979758 i 0.0202421
+align 15 *DELETE* 0.999878 i 0.000122062
+align 16 give 0.946655 i 0.0524812 uh 0.000863392
+align 17 *DELETE* 0.946655 give 0.0533446
+align 18 to 0.999577 two 0.000390241 too 3.12324e-05 tea 1.35325e-06
+align 19 you 1
+align 20 *DELETE* 0.999864 uh 0.00012622 i 9.66364e-06
+align 21 </s> 1

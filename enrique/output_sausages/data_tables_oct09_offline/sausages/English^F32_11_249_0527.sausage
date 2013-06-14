@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 as 0.999526 *DELETE* 0.00047421
+align 3 well 0.9961 *DELETE* 0.00342556 is 0.00047421
+align 4 they 0.984238 day 0.010401 welding 0.00389977 date 0.00146151
+align 5 gotta 0.914666 got 0.0596666 that'd 0.0245737 that'll 0.000907535 that 0.000150061 out 3.65224e-05
+align 6 *DELETE* 0.940147 to 0.0517175 it 0.00534029 a 0.0027954
+align 7 be 0.99972 bee 0.000279645
+align 8 in 0.993953 an 0.00577516 and 0.000271829
+align 9 a 1
+align 10 spot 1
+align 11 where 0.713534 *DELETE* 0.286466
+align 12 they 0.309405 with 0.281557 he 0.208396 *DELETE* 0.200642
+align 13 could 0.473106 a 0.277922 the 0.199367 can 0.0446958 wake 0.00490975
+align 14 vision 0.507836 condition 0.466699 *DELETE* 0.0107016 could 0.0102273 visit 0.00395229 car 0.000362759 busy 0.000220787
+align 15 *DELETE* 0.989783 vision 0.00985427 did 0.000362759
+align 16 you 0.478892 he 0.287082 is 0.163634 *DELETE* 0.0463663 he's 0.0128763 visions 0.0107016 vision 0.000373079 the 7.44015e-05
+align 17 still 1
+align 18 see 0.998677 c 0.000833323 sea 0.000441847 she 4.77524e-05
+align 19 the 0.999827 that 0.000137609 they 2.54199e-05 *DELETE* 1.0127e-05 to 2.29887e-08
+align 20 road 0.998241 rope 0.00060675 wrote 0.000418748 roads 0.000358941 rode 0.00030064 robe 7.34633e-05 road's 1.41371e-09
+align 21 *DELETE* 0.999995 uh 4.94224e-06 i 1.22142e-08
+align 22 </s> 1

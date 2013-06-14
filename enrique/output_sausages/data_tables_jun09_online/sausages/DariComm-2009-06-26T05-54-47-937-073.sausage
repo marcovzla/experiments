@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 require 1
+align 4 generators 0.953523 a 0.0464767
+align 5 *DELETE* 0.949229 generators 0.0464767 uh 0.00377788 i 0.000423531 and 2.84308e-05 do 2.49635e-05 to 2.43748e-05 you 1.11053e-05 in 3.57037e-06 a 4.88215e-07 if 1.5829e-07 or 8.91265e-09 um 1.12632e-10 now 8.6156e-12 well 1.64318e-16 are 4.95492e-17 at 3.95332e-17 it 9.62845e-18 that 3.07589e-19 we 2.67851e-19 on 2.41126e-20 with 5.48424e-21 were 1.23432e-21 the 2.38741e-24 of 2.26232e-29
+align 6 </s> 1

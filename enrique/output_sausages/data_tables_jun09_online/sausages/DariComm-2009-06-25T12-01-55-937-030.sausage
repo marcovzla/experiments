@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 have 0.999941 how 5.85845e-05
+align 2 *DELETE* 0.999941 do 5.85845e-05
+align 3 you 1
+align 4 set 1
+align 5 up 1
+align 6 any 1
+align 7 vehicle 1 vehicles 1.07143e-07
+align 8 checkpoints 1
+align 9 *DELETE* 0.999963 i 1.99796e-05 uh 1.70046e-05
+align 10 </s> 1

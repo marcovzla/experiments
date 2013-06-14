@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 any 0.968473 and 0.0218752 i 0.00965222
+align 3 *DELETE* 0.968473 a 0.0218752 need 0.00965222
+align 4 talaban 1
+align 5 that 1
+align 6 we 1
+align 7 arrest 1
+align 8 we 0.860357 *DELETE* 0.139643
+align 9 will 0.657997 we'll 0.176243 would 0.160157 won't 0.0056026
+align 10 bring 1
+align 11 back 1
+align 12 to 1
+align 13 our 1
+align 14 base 1
+align 15 and 1
+align 16 detain 0.99986 detained 0.000140405
+align 17 them 1
+align 18 *DELETE* 1 if 8.1188e-10 uh 1.63955e-11 to 3.55476e-18
+align 19 </s> 1

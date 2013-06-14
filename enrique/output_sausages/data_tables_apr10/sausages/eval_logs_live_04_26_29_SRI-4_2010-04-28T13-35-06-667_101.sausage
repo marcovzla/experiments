@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 0.996916 where 0.00308385
+align 2 do 0.838577 are 0.161423
+align 3 the 1
+align 4 villagers 1
+align 5 congregate 1
+align 6 for 1
+align 7 social 1
+align 8 events 0.999649 of 0.000269487 *DELETE* 8.17875e-05
+align 9 *DELETE* 0.999627 lands 0.000268538 advance 4.94887e-05 ovens 3.22988e-05 i 2.10454e-05 lines 6.99092e-07 uh 6.63146e-07 vans 2.48921e-07 in 2.00684e-07 ants 8.69084e-10
+align 10 </s> 1

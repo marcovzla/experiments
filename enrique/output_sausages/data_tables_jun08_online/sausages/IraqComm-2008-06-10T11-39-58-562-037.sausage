@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what's 0.98265 what 0.0173496
+align 2 *DELETE* 0.98265 is 0.0173496
+align 3 wrong 1
+align 4 with 1
+align 5 your 1
+align 6 father 1
+align 7 *DELETE* 0.998318 uh 0.00164899 do 3.30047e-05
+align 8 </s> 1

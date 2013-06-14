@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 0.999753 oh 0.00024708 i 1.02162e-07
+align 2 is 1 was 1.02162e-07
+align 3 business 1
+align 4 right 1
+align 5 now 1
+align 6 *DELETE* 0.999839 uh 0.000143726 i 1.71855e-05
+align 7 </s> 1

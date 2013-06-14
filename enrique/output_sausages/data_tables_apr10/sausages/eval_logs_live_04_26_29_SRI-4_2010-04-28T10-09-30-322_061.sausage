@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 trash 1
+align 6 services 0.917272 service 0.0727223 of 0.0100057
+align 7 *DELETE* 0.917272 is 0.0727223 services 0.0100057
+align 8 in 1
+align 9 the 0.999978 that 2.2308e-05
+align 10 village 1
+align 11 *DELETE* 0.999994 uh 4.61789e-06 i 1.69596e-06
+align 12 </s> 1

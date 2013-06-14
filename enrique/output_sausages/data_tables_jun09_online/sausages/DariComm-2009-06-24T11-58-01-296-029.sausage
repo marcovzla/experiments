@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 work 0.985173 water 0.0148272
+align 5 do 1
+align 6 you 1
+align 7 do 1
+align 8 *DELETE* 0.996444 it 0.00281324 uh 0.000536508 i 9.48065e-05 that 8.92353e-05 you 1.58264e-05 a 2.58327e-06 this 2.12074e-06 in 1.19792e-06 the 4.65349e-07 to 6.475e-08 with 2.27916e-12 if 1.5698e-13
+align 9 </s> 1

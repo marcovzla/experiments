@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.616052 one 0.383948
+align 2 well 0.616052 of 0.383948
+align 3 the 1
+align 4 responsibilities 1
+align 5 of 1
+align 6 the 1
+align 7 coalition 1
+align 8 forces 1
+align 9 is 0.930501 as 0.0607855 has 0.00871332
+align 10 to 1
+align 11 assess 0.986494 assist 0.0135056
+align 12 the 1
+align 13 local 1
+align 14 population 1
+align 15 and 0.980777 in 0.0192231
+align 16 determine 0.999782 determined 0.000218309
+align 17 how 1
+align 18 the 0.999996 *DELETE* 3.58341e-06
+align 19 quality 0.999996 equality 3.58341e-06
+align 20 *DELETE* 0.574363 of 0.425637
+align 21 life 0.463047 like 0.234574 live 0.181102 land 0.0588297 line 0.0401245 alive 0.0120973 lived 0.0102248
+align 22 can 0.969438 and 0.0227587 *DELETE* 0.00780375
+align 23 be 1
+align 24 improved 0.797612 improve 0.202388
+align 25 for 1
+align 26 iraqi 1
+align 27 citizens 1
+align 28 </s> 1

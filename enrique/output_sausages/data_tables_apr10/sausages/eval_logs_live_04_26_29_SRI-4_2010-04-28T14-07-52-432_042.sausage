@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 get 1
+align 4 electricity 1
+align 5 to 0.99863 too 0.00110949 two 0.00025204 each 8.23804e-06
+align 6 *DELETE* 0.999992 of 8.23804e-06
+align 7 the 0.988194 this 0.0118063
+align 8 school 0.998444 schools 0.00155589 *DELETE* 2.32513e-12
+align 9 *DELETE* 0.999999 in 4.6172e-07 school's 4.44305e-07 of 2.69622e-15
+align 10 </s> 1

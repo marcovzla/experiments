@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 rephrase 0.999974 the 1.60108e-05 we 8.35678e-06 they 1.33309e-06
+align 2 *DELETE* 0.999974 face 2.38276e-05 phase 1.87316e-06 raise 2.74541e-12
+align 3 please 1
+align 4 </s> 1

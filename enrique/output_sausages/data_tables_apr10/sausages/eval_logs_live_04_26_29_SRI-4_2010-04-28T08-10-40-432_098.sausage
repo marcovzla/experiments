@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 do 1
+align 4 you 1
+align 5 go 1
+align 6 to 1
+align 7 pakistan 0.999994 pakistani 6.39379e-06
+align 8 *DELETE* 0.999992 and 7.29798e-06 i 5.19002e-07 in 8.31118e-08
+align 9 </s> 1

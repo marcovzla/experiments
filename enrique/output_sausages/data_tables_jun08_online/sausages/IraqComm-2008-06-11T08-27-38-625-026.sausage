@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 vehicles 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 available 1
+align 7 for 0.995191 four 0.00480944
+align 8 patrol 0.998623 patrols 0.00137743 *DELETE* 9.45079e-16
+align 9 *DELETE* 1 i 2.65343e-10 patrolling 1.17261e-10
+align 10 </s> 1

@@ -1,0 +1,68 @@
+numaligns 66
+posterior 1
+align 0 <s> 1
+align 1 in 1
+align 2 that 1
+align 3 case 1
+align 4 you're 0.764296 you 0.233543 your 0.00216126
+align 5 going 1
+align 6 to 1
+align 7 have 1
+align 8 them 1
+align 9 turn 1
+align 10 the 1
+align 11 vehicle 1
+align 12 off 1
+align 13 uh 0.492085 um 0.492034 of 0.0158812
+align 14 regardless 1
+align 15 *DELETE* 0.997732 of 0.00226838
+align 16 and 1
+align 17 if 1
+align 18 it 0.995669 if 0.00433093
+align 19 if 1
+align 20 it 1
+align 21 doesn't 1
+align 22 start 1
+align 23 again 1
+align 24 then 1
+align 25 you'll 0.903966 you 0.0960234 it 9.0602e-06 that 1.23509e-06
+align 26 *DELETE* 0.907178 will 0.0928119 you'll 6.01204e-06 you 4.28325e-06
+align 27 use 0.726947 you 0.273053
+align 28 seated 0.540951 see 0.459049
+align 29 *DELETE* 0.540951 the 0.389125 that 0.0699245
+align 30 *DELETE* 0.998453 the 0.0015467
+align 31 bill 0.441307 in 0.21253 at 0.12005 of 0.0554691 though 0.0520796 the 0.0371565 that 0.0322964 you'll 0.0166624 fill 0.0132788 who 0.0124998 *DELETE* 0.00331764 give 0.00194163 you're 0.000983693 you've 0.000427603
+align 32 that 0.703722 the 0.243479 they 0.0494882 ballou 0.00289253 bullet 0.000417417
+align 33 use 0.998414 used 0.00158604
+align 34 the 1
+align 35 police 1
+align 36 vehicle 1
+align 37 a 0.987057 of 0.0103502 or 0.00144903 the 0.00114385
+align 38 push 0.98566 pushed 0.0101563 puts 0.00401483 *DELETE* 0.000101156 poor 6.74459e-05
+align 39 it 0.97352 *DELETE* 0.00997602 that 0.00658182 set 0.00572199 at 0.00246028 sit 0.00140822 should 0.00023024 pushes 0.000101156
+align 40 out 0.990024 about 0.00996856 without 7.45625e-06
+align 41 the 1
+align 42 other 1
+align 43 side 1
+align 44 but 1
+align 45 *DELETE* 0.999705 if 0.000295121
+align 46 they 1
+align 47 have 1
+align 48 to 1
+align 49 stop 1
+align 50 the 1
+align 51 vehicle 1
+align 52 for 1
+align 53 the 1
+align 54 safety 1
+align 55 of 0.999821 if 0.000178645
+align 56 you 1
+align 57 and 1
+align 58 all 1
+align 59 the 1
+align 60 other 1
+align 61 personnel 1
+align 62 in 0.999521 and 0.000479061
+align 63 the 1
+align 64 checkpoint 0.999969 checkpoints 3.07613e-05
+align 65 </s> 1

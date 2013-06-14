@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 uh 0.999837 are 0.000162027 i'd 8.40293e-07 i 3.67118e-08
+align 3 *DELETE* 0.99812 uh 0.00187997 would 3.67118e-08
+align 4 like 1
+align 5 i 1
+align 6 said 1
+align 7 uh 0.999778 a 0.000222386
+align 8 key 1
+align 9 key 0.72762 to 0.261541 keep 0.0108394
+align 10 *DELETE* 0.738459 you 0.261541
+align 11 things 1
+align 12 that 1
+align 13 you're 1
+align 14 going 1
+align 15 to 1
+align 16 walk 0.955831 want 0.0441688
+align 17 on 0.557298 uh 0.263006 *DELETE* 0.122932 of 0.0526454 um 0.00411922
+align 18 it 0.576378 out 0.122932 in 0.115573 uh 0.0788701 *DELETE* 0.0661793 the 0.0203481 at 0.0197184
+align 19 in 0.973656 and 0.0263376 aim 7.70444e-06
+align 20 your 0.998643 you're 0.00129612 you 6.08925e-05
+align 21 v._c._p. 0.999976 view 2.35705e-05 *DELETE* 1.36734e-18
+align 22 *DELETE* 0.999084 you 0.000892338 c._p. 2.35705e-05 i 1.5355e-10 v._c._p.s 7.77555e-12
+align 23 </s> 1

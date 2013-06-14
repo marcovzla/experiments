@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 do 0.932941 did 0.061868 get 0.00519072
+align 3 the 1
+align 4 best 1
+align 5 we 1
+align 6 can 0.592817 tried 0.210733 could 0.185342 covered 0.0111074
+align 7 but 0.592817 *DELETE* 0.407183
+align 8 with 1
+align 9 the 1
+align 10 information 1
+align 11 we 1
+align 12 have 0.600488 had 0.399484 add 2.76746e-05
+align 13 *DELETE* 0.999961 a 1.59195e-05 uh 1.39743e-05 i 9.13738e-06
+align 14 </s> 1

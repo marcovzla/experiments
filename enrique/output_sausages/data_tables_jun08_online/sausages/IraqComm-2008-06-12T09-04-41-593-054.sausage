@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 americans 1
+align 2 will 0.981455 we'll 0.0112071 would 0.00733788
+align 3 provide 1
+align 4 close 1
+align 5 air 1
+align 6 support 1
+align 7 *DELETE* 0.999994 uh 4.43446e-06 i 9.937e-07 you 8.81172e-08
+align 8 </s> 1

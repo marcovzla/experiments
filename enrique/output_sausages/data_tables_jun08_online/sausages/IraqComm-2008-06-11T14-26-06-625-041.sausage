@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 said 1
+align 3 one 0.828225 when 0.139312 what 0.0321476 went 0.000315262
+align 4 diseases 0.992501 disease 0.00749945
+align 5 *DELETE* 0.992501 is 0.00710612 as 0.000393326
+align 6 cholera 0.991522 call 0.00847775
+align 7 *DELETE* 0.990609 or 0.0093914
+align 8 *DELETE* 0.991522 a 0.00847775
+align 9 what 0.99918 will 0.000819995
+align 10 was 1
+align 11 the 1
+align 12 other 1
+align 13 disease 0.999657 diseases 0.000343145
+align 14 </s> 1

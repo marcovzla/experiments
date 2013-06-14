@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 now 0.632617 and 0.367383
+align 3 *DELETE* 0.624259 i 0.367383 v._c._p. 0.00835807
+align 4 v._c._p.s 0.987862 is 0.00835807 v._c._p. 0.0037801
+align 5 *DELETE* 0.99622 is 0.0037801
+align 6 are 0.975495 art 0.0244501 our 5.47551e-05
+align 7 kind 0.928595 a 0.0714051
+align 8 *DELETE* 0.928595 kind 0.0714051
+align 9 of 1
+align 10 uh 0.996057 *DELETE* 0.00394307
+align 11 a 0.345517 uh 0.342594 the 0.112422 as 0.0495198 oh 0.0418379 of 0.0375651 *DELETE* 0.0358447 it's 0.0125186 at 0.00727004 it 0.00669821 is 0.00557939 other 0.00263219
+align 12 *DELETE* 0.995404 as 0.00165698 the 0.00122838 its 0.000945346 it's 0.000602691 or 0.000141497 uh 2.11854e-05
+align 13 surprise 1
+align 14 surprise 1
+align 15 uh 1
+align 16 uh 1
+align 17 vehicle 1
+align 18 checkpoints 0.999899 checkpoint 0.000101327
+align 19 </s> 1

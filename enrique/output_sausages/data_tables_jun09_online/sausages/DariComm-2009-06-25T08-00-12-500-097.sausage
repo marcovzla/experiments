@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 tourniquet 1
+align 3 is 1
+align 4 easier 1
+align 5 to 1
+align 6 use 1
+align 7 then 0.642234 and 0.151491 them 0.0985306 the 0.0571983 *DELETE* 0.0505465
+align 8 *DELETE* 0.892255 and 0.0571983 than 0.0497419 an 0.000804606
+align 9 this 0.999965 yes 3.50374e-05
+align 10 tourniquet 1
+align 11 *DELETE* 0.995061 you 0.00352192 i 0.000414269 uh 0.000359618 them 0.000283775 it 7.06827e-05 now 6.12628e-05 were 5.82148e-05 so 3.29733e-05 yeah 3.29175e-05 if 2.12193e-05 we 1.74374e-05 out 1.30225e-05 two 1.07433e-05 in 9.86648e-06 do 8.31729e-06 is 8.14125e-06 or 3.88256e-06 well 3.42125e-06 the 2.26851e-06 to 2.08881e-06 up 1.43443e-06 and 5.96823e-07 we're 5.6606e-07 a 1.58822e-07 will 1.05077e-07 how 3.36957e-08 for 5.11792e-09 all 2.26157e-09 what 2.07562e-09 go 2.02608e-09
+align 12 </s> 1

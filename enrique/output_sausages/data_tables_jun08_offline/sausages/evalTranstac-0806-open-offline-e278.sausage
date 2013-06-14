@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 your 0.877915 you're 0.1201 do 0.00183576 you 0.00014906
+align 2 *DELETE* 0.999851 were 0.00014906
+align 3 *DELETE* 0.89981 in 0.0983545 your 0.00183576
+align 4 intent 0.837187 ten 0.0960593 intend 0.0644589 tend 0.00229516
+align 5 *DELETE* 0.646105 to 0.353895
+align 6 your 0.940647 you're 0.0592148 *DELETE* 0.00013811
+align 7 *DELETE* 1 or 1.95082e-07
+align 8 overall 1
+align 9 intent 0.988478 and 0.00544625 in 0.00400072 *DELETE* 0.00207523
+align 10 *DELETE* 0.988478 ten 0.00944697 intend 0.00207523
+align 11 well 0.998356 while 0.00147177 will 0.000172728
+align 12 out 0.551601 i'll 0.344035 are 0.0777054 i 0.0141805 our 0.0061779 al 0.00345563 uh 0.00273666 hour 0.000108152
+align 13 *DELETE* 0.999976 i 2.43688e-05
+align 14 your 0.988899 you're 0.011101
+align 15 soldiers 0.992827 soldiers' 0.00666904 soldier's 0.000504384
+align 16 on 1
+align 17 the 1
+align 18 patrol 1
+align 19 to 1
+align 20 make 1
+align 21 individual 1
+align 22 decisions 0.994133 decision's 0.00586687
+align 23 *DELETE* 1 i 4.28028e-09
+align 24 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 an 0.999091 *DELETE* 0.000909494
+align 5 engineer 0.999091 engineers 0.000909494
+align 6 equipment 1
+align 7 available 0.999873 uh 0.000116579 i 1.08703e-05
+align 8 *DELETE* 0.999871 available 0.000127449 i 1.75914e-06
+align 9 </s> 1

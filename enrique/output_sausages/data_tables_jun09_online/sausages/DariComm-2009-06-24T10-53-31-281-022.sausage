@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 we 1
+align 3 can 1
+align 4 arrange 1
+align 5 a 0.998832 the 0.00116791
+align 6 time 1
+align 7 to 1
+align 8 do 1
+align 9 this 1
+align 10 *DELETE* 0.99798 uh 0.00196637 i 5.14634e-05 in 7.78953e-07 is 4.95888e-07 to 3.99581e-07 it 2.816e-10
+align 11 </s> 1

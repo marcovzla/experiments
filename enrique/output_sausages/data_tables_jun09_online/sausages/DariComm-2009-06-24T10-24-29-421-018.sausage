@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 he 0.999811 he'll 0.000188896
+align 3 was 0.999811 be 0.000188896
+align 4 shot 1
+align 5 in 1
+align 6 his 1
+align 7 left 1
+align 8 leg 1
+align 9 *DELETE* 1 uh 2.95701e-08
+align 10 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 do 1
+align 3 you 1
+align 4 want 1
+align 5 to 1
+align 6 try 0.697052 *DELETE* 0.302948
+align 7 and 0.697016 train 0.302948 *DELETE* 3.55288e-05
+align 8 on 0.775168 in 0.105399 then 0.0989208 and 0.0158905 *DELETE* 0.00212182 um 0.00173866 than 0.000476048 them 0.000275385 i'm 9.45855e-06
+align 9 *DELETE* 0.999964 and 3.55288e-05
+align 10 the 1
+align 11 american 1
+align 12 base 1
+align 13 *DELETE* 0.998279 uh 0.00172081
+align 14 </s> 1

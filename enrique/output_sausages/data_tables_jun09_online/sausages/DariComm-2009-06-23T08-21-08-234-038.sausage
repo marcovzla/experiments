@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 you 0.954901 he 0.045099
+align 2 said 1
+align 3 you 0.999861 you'd 0.00013892
+align 4 do 1
+align 5 not 1
+align 6 work 1
+align 7 how 1
+align 8 do 1
+align 9 you 1
+align 10 make 1
+align 11 money 1
+align 12 *DELETE* 0.999988 uh 1.24206e-05 and 3.88833e-08 i 2.96977e-08 to 4.40325e-09
+align 13 </s> 1

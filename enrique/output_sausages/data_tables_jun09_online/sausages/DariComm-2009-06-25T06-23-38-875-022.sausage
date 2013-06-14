@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 students 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 *DELETE* 0.987159 a 0.00591439 uh 0.00423648 it 0.0017136 now 0.000452581 in 0.000156613 to 0.000121752 the 0.00011918 them 6.7826e-05 an 1.65262e-05 that 1.33327e-05 i 1.05513e-05 you 8.38577e-06 do 5.7225e-06 at 2.24257e-06 on 2.0092e-06 um 1.29575e-07 no 6.57763e-12 haven't 1.7859e-16
+align 8 </s> 1

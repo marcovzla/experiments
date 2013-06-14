@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 a 1
+align 4 shortage 1
+align 5 of 1
+align 6 medication 0.998782 medications 0.00121823
+align 7 in 0.999811 you 0.0001194 and 6.95173e-05
+align 8 the 0.999518 a 0.000257763 know 0.0001194 *DELETE* 9.52197e-05 your 9.82201e-06
+align 9 hospital 1
+align 10 *DELETE* 1 uh 2.8202e-07 i 2.92773e-09
+align 11 </s> 1

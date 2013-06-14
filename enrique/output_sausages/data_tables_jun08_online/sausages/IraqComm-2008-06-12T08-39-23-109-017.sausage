@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 three 0.969689 any 0.0256505 a 0.00235891 to 0.00198603 *DELETE* 0.000245616 for 7.01881e-05
+align 5 *DELETE* 0.995978 be 0.00198603 three 0.00172058 the 0.00031572 they 8.45343e-08 many 2.19314e-10
+align 6 brothers 0.999859 brother's 0.000110825 brothers' 3.04523e-05
+align 7 *DELETE* 0.999973 uh 1.8184e-05 and 8.63564e-06 do 1.57428e-10 in 2.23784e-15 you 2.1292e-15 i 6.20445e-17
+align 8 </s> 1

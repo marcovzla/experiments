@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 done 0.999331 down 0.000668781
+align 6 this 1
+align 7 work 1
+align 8 *DELETE* 1 uh 3.07049e-10 in 2.36038e-11 i 3.34966e-15
+align 9 </s> 1

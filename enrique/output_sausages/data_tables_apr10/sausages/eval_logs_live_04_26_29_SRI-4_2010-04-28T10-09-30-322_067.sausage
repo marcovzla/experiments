@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 is 1
+align 3 the 1
+align 4 leader 1
+align 5 of 1
+align 6 the 1
+align 7 village 1
+align 8 *DELETE* 0.999997 uh 2.39985e-06 i 4.26614e-07
+align 9 </s> 1

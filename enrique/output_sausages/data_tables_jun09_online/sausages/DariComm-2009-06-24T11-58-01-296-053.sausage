@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 sir 1
+align 4 and 1
+align 5 *DELETE* 0.999758 i 0.000242134
+align 6 have 1
+align 7 a 1
+align 8 good 1
+align 9 day 1
+align 10 *DELETE* 0.999991 uh 5.45923e-06 too 3.10757e-06 and 8.57589e-11 i 1.55872e-13
+align 11 </s> 1

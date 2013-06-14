@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999111 i 0.000889136
+align 2 as 0.86942 it's 0.0672083 is 0.0631871 *DELETE* 0.000180109 that's 4.37842e-06
+align 3 a 0.937012 it 0.0517295 the 0.00941555 *DELETE* 0.00166265 azza 0.000180109
+align 4 cracked 0.299588 crack 0.289191 court 0.183403 car 0.10975 correct 0.0788633 cart 0.0196081 cry 0.00892898 qrayt 0.00400041 crime 0.0017925 quick 0.00170972 occur 0.00166265 crutch 0.00150251
+align 5 there's 0.993546 there 0.00586387 theirs 0.000590407
+align 6 *DELETE* 0.994136 is 0.00586387
+align 7 only 1
+align 8 six 0.990282 sick 0.00971788
+align 9 students 0.996701 student 0.00241347 students' 0.000514567 student's 0.000370495
+align 10 at 0.936902 of 0.0630909 are 7.02645e-06
+align 11 the 0.968623 this 0.0313674 *DELETE* 9.39383e-06
+align 12 school 1
+align 13 *DELETE* 1 uh 2.8056e-07
+align 14 </s> 1

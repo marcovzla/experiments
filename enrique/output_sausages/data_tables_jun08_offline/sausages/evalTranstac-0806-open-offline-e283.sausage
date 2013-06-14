@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 if 1
+align 3 they 1
+align 4 know 1
+align 5 the 1
+align 6 mission 1
+align 7 and 0.999243 in 0.000756895
+align 8 they 1
+align 9 know 1
+align 10 what 1
+align 11 they're 1
+align 12 supposed 1
+align 13 to 1
+align 14 be 1
+align 15 doing 1
+align 16 uh 1
+align 17 *DELETE* 0.999994 uh 5.83615e-06
+align 18 they're 0.795405 there 0.11814 their 0.0859265 very 0.000529002
+align 19 they're 0.814373 there 0.0985024 their 0.0806903 uh 0.0042212 if 0.0013205 either 0.000892576
+align 20 *DELETE* 0.994458 they're 0.0055417
+align 21 better 1
+align 22 able 1
+align 23 to 1
+align 24 execute 1
+align 25 that 0.81407 their 0.0726457 there 0.0390883 the 0.0267939 this 0.0162747 it 0.0142192 at 0.00469951 dead 0.00432497 then 0.00175119 them 0.00165272 dad 0.00154843 debt 0.0010222 they're 0.000874611 day 0.000772608 they 0.000176008 *DELETE* 4.76188e-05 add 3.46394e-05 an 3.34536e-06 and 5.01834e-08 that's 4.07499e-08
+align 26 *DELETE* 0.991585 it 0.00364251 uh 0.00293883 at 0.00115275 i 0.000611193 a 6.88625e-05 in 3.94659e-07 if 1.0373e-07 you 7.88508e-08 out 5.1643e-08
+align 27 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 0.414341 which 0.295859 *DELETE* 0.272169 western 0.0131741 wished 0.00445659
+align 2 wish 0.68651 judge 0.152403 george 0.108358 *DELETE* 0.0432945 direction 0.00753029 choice 0.00190393
+align 3 *DELETE* 0.99247 were 0.00753029
+align 4 to 0.712174 she 0.229584 you 0.053265 you're 0.00418442 *DELETE* 0.000520747 your 0.000272172 joshua 3.71257e-19
+align 5 actually 0.716989 would 0.264746 will 0.0103277 *DELETE* 0.00753029 wouldn't 0.00039473 assure 1.26108e-05 were 1.9372e-08
+align 6 *DELETE* 0.999987 me 1.26108e-05 need 7.58135e-07 you 1.9372e-08
+align 7 be 0.999657 would 0.000220666 you 0.000111212 *DELETE* 1.14107e-05 were 6.81526e-21
+align 8 *DELETE* 0.999665 be 0.000334893
+align 9 coming 0.999998 becoming 1.74818e-06
+align 10 from 1
+align 11 </s> 1

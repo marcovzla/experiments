@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 the 0.99995 a 4.9743e-05
+align 2 date 1
+align 3 palms 0.98583 palm 0.0141699
+align 4 are 0.929174 or 0.0468603 sir 0.0143396 her 0.00579865 our 0.00327265 r 0.000223765 you're 0.000172365 there 0.000101135 your 5.39943e-05 their 1.332e-06 hurry 2.17775e-08 *DELETE* 2.86758e-09
+align 5 here 0.995602 hear 0.0043923 a 5.82302e-06
+align 6 *DELETE* 0.999752 uh 0.000153475 i 8.63061e-05 here 8.35639e-06
+align 7 </s> 1

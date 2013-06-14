@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 do 1
+align 3 you 1
+align 4 *DELETE* 0.999812 you 0.000188425
+align 5 have 1
+align 6 an 1
+align 7 idea 1
+align 8 of 1
+align 9 who 1
+align 10 you 1
+align 11 blank 0.980795 black 0.0192048
+align 12 to 0.995868 too 0.00413206
+align 13 be 1
+align 14 the 1
+align 15 main 1
+align 16 effort 1
+align 17 *DELETE* 0.465744 all 0.299077 owned 0.234094 i 0.00108418
+align 18 *DELETE* 0.378289 own 0.239577 and 0.236665 uh 0.137889 or 0.00758089
+align 19 *DELETE* 0.715045 on 0.263947 in 0.0196166 aunt 0.000713018 owner 0.000677149 uh 9.42347e-07
+align 20 actions 0.999733 uh 0.000267151
+align 21 *DELETE* 0.999733 actions 0.000267151
+align 22 on 1
+align 23 the 1
+align 24 objective 1
+align 25 </s> 1

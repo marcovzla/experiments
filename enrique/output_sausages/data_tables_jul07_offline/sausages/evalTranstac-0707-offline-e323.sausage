@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 we'll 0.988952 will 0.0108244 well 0.000223164
+align 3 *DELETE* 0.999998 i 1.94335e-06
+align 4 have 1
+align 5 a 0.712236 them 0.271737 we'll 0.016027
+align 6 maintain 0.996932 maintained 0.00306828
+align 7 uh 1
+align 8 i 0.470861 i'll 0.248112 a 0.228046 uh 0.0498227 eye 0.00315794
+align 9 *DELETE* 0.995855 i 0.00241873 i'll 0.00172655
+align 10 did 0.46877 good 0.307287 get 0.21849 i 0.00545361
+align 11 *DELETE* 0.994546 did 0.00545361
+align 12 elevations 1
+align 13 so 1
+align 14 as 1
+align 15 not 1
+align 16 to 1
+align 17 draw 1
+align 18 attention 1
+align 19 to 0.999638 of 0.000350613 do 1.11755e-05
+align 20 the 0.999953 *DELETE* 4.71866e-05
+align 21 target 0.999994 targets 6.44063e-06
+align 22 </s> 1

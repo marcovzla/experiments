@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 0.999718 at 0.000282042
+align 7 the 1
+align 8 electricity 1
+align 9 *DELETE* 0.999776 uh 0.00016918 it 3.82929e-05 is 1.61986e-05 i 3.74024e-07 and 4.76088e-10 to 1.14211e-11
+align 10 </s> 1

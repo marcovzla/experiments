@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 get 1
+align 4 clean 1
+align 5 water 1
+align 6 for 1
+align 7 the 1
+align 8 hospital 0.999993 hospitals 7.29706e-06
+align 9 *DELETE* 1 i 3.89538e-07
+align 10 </s> 1

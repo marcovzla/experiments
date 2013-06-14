@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 uh 0.961643 um 0.0383571
+align 3 from 0.935043 for 0.0616148 uh 0.00273784 four 0.000470317 put 0.000133687
+align 4 *DELETE* 0.997262 for 0.00273784
+align 5 what 0.999583 when 0.000368712 one 4.79168e-05
+align 6 i 1
+align 7 can 1
+align 8 tell 1
+align 9 you 1
+align 10 are 0.960131 were 0.0382473 we're 0.00162158
+align 11 *DELETE* 0.643451 a 0.356549
+align 12 very 1
+align 13 wise 1
+align 14 and 1
+align 15 very 1
+align 16 uh 1
+align 17 uh 0.958624 a 0.0395754 *DELETE* 0.00180101
+align 18 very 1
+align 19 good 0.999512 get 0.000487877
+align 20 leader 0.946242 liter 0.0537583
+align 21 *DELETE* 0.999962 i 3.60086e-05 a 1.70721e-06 is 1.15533e-07 in 9.53509e-08 to 6.49476e-08
+align 22 </s> 1

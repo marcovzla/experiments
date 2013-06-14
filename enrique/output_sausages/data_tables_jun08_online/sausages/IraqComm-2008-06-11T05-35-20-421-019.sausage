@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.998784 i 0.00121595
+align 2 can 1
+align 3 he 1
+align 4 breathe 0.984165 breed 0.0142102 breathes 0.00162458
+align 5 on 1
+align 6 his 1
+align 7 own 0.996693 arm 0.00295149 um 0.000237005 on 0.000118234 *DELETE* 1.86317e-11
+align 8 *DELETE* 1 it 2.49704e-07 out 3.32215e-09 i'm 4.79193e-12 awn 1.45071e-21 around 3.20395e-28
+align 9 </s> 1

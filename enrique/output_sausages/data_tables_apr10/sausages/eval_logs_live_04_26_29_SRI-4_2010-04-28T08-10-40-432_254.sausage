@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 thank 0.884571 i 0.115429
+align 2 *DELETE* 0.884571 thank 0.115429
+align 3 you 1
+align 4 for 1
+align 5 your 1
+align 6 time 1
+align 7 i'll 0.969634 *DELETE* 0.0303659
+align 8 see 0.969634 also 0.017302 us 0.0130639
+align 9 you 0.634128 *DELETE* 0.365872
+align 10 tomorrow 0.994628 them 0.00537245
+align 11 *DELETE* 0.994628 all 0.00537245
+align 12 </s> 1

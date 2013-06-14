@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 how 1
+align 3 are 1
+align 4 you 1
+align 5 today 1
+align 6 *DELETE* 1 uh 1.91207e-12
+align 7 </s> 1

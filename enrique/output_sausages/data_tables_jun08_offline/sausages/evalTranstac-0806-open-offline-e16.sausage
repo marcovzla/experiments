@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 believe 0.999895 do 0.000105432
+align 5 is 0.953463 as 0.0284565 his 0.0111059 he's 0.0035218 does 0.00238704 it's 0.000396776 this 0.000339164 has 0.000224569 leave 0.000105432
+align 6 *DELETE* 0.999895 his 0.000105432
+align 7 their 0.746785 there 0.189249 they're 0.0639661
+align 8 motivation 1
+align 9 for 1
+align 10 not 0.996257 now 0.00311577 no 0.000627353
+align 11 for 1
+align 12 were 0.803624 *DELETE* 0.196376
+align 13 taking 1
+align 14 these 1
+align 15 these 1 the 1.99168e-07
+align 16 jobs 0.991066 shops 0.00893299 job's 1.24694e-06
+align 17 *DELETE* 0.999984 i 1.37459e-05 uh 2.6345e-06
+align 18 </s> 1

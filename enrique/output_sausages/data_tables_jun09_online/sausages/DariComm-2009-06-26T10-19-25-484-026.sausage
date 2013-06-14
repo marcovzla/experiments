@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 do 1
+align 4 you 1
+align 5 need 1
+align 6 for 0.998976 from 0.000579951 four 0.000444105
+align 7 medicine 0.999651 medicines 0.000349113
+align 8 *DELETE* 0.999685 uh 0.000178291 i 0.000135627 it 7.85422e-07 to 3.10979e-08 and 6.42354e-12 in 1.94035e-12 is 2.67179e-13 do 7.85143e-14
+align 9 </s> 1

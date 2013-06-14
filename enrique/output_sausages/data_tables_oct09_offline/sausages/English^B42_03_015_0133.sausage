@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i'd 0.961427 i 0.0210697 uh 0.0175034
+align 2 *DELETE* 0.961427 i'd 0.0385732
+align 3 like 1
+align 4 to 1
+align 5 talk 1
+align 6 to 1
+align 7 you 1
+align 8 a 1
+align 9 little 1
+align 10 bit 1
+align 11 about 1
+align 12 your 1
+align 13 facility 1
+align 14 </s> 1

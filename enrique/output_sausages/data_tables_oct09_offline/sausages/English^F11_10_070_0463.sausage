@@ -1,0 +1,50 @@
+numaligns 48
+posterior 1
+align 0 <s> 1
+align 1 and 0.994112 in 0.00588807
+align 2 that's 0.998064 not 0.00108836 that 0.000847503
+align 3 something 1
+align 4 that 1
+align 5 uh 0.799314 i 0.200686
+align 6 you 1
+align 7 set 0.993894 said 0.00562632 sit 0.000331923 send 0.000147717
+align 8 up 0.995594 out 0.00440592
+align 9 very 1 vary 1.43325e-15
+align 10 fast 1
+align 11 and 0.999963 in 3.70772e-05
+align 12 uh 1
+align 13 you're 0.959968 you 0.040032
+align 14 not 0.959968 know 0.040032
+align 15 occupying 0.775375 all 0.108103 occupied 0.0762183 uh 0.040032 occupy 0.000174617 high 9.66115e-05
+align 16 *DELETE* 0.921157 i 0.078843
+align 17 *DELETE* 0.998214 i 0.00178626
+align 18 *DELETE* 0.92067 can 0.0771397 keep 0.00170327 uh 0.000282772 occupy 0.000204594
+align 19 *DELETE* 0.851593 occupying 0.0672359 find 0.0470509 fine 0.0244169 time 0.00645679 occupied 0.00156909 buying 0.000918392 confine 0.000379384 and 0.000379211
+align 20 for 0.999529 from 0.000471024
+align 21 long 1
+align 22 periods 1
+align 23 of 1
+align 24 time 1
+align 25 so 1
+align 26 uh 0.966759 i 0.0311226 are 0.00211841
+align 27 *DELETE* 0.999045 uh 0.000955336
+align 28 the 0.946387 that 0.0224742 uh 0.0147361 i 0.00883213 they 0.00757045
+align 29 *DELETE* 0.976432 the 0.0235683
+align 30 talaban 1
+align 31 we'll 0.659539 will 0.32333 won't 0.0171305
+align 32 be 1
+align 33 able 1 *DELETE* 3.21023e-11
+align 34 to 1 oda 1.15408e-07
+align 35 set 0.878885 sell 0.0664173 say 0.0540914 save 0.000606809
+align 36 your 0.995078 you're 0.004922
+align 37 position 1
+align 38 and 1
+align 39 uh 1
+align 40 *DELETE* 0.753014 uh 0.246986
+align 41 where 1
+align 42 exactly 1
+align 43 you 0.995327 *DELETE* 0.0046735
+align 44 are 0.47674 where 0.213247 or 0.186752 were 0.0817801 we're 0.0208867 wear 0.017819 you're 0.00215277 your 0.000277054 *DELETE* 0.000231834 our 0.00011341
+align 45 at 0.977078 us 0.00715504 out 0.00684462 uh 0.00300491 a 0.00178284 i 0.0016855 *DELETE* 0.0010378 in 0.000926143 are 0.000298212 it 0.00014003 up 2.87325e-05 weren't 1.74063e-05 add 2.92435e-07 i'm 4.9698e-08 our 6.32958e-09 an 5.55734e-09
+align 46 *DELETE* 0.999947 at 5.24066e-05 a 3.20889e-07
+align 47 </s> 1

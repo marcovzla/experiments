@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 money 1
+align 4 do 1
+align 5 you 1
+align 6 need 1
+align 7 to 0.999177 *DELETE* 0.000823248
+align 8 rebuild 0.556909 be 0.313615 *DELETE* 0.0692098 build 0.0594439 we 0.000823248
+align 9 *DELETE* 0.616352 build 0.378191 built 0.00545615
+align 10 the 0.987057 this 0.0119542 that 0.000989177
+align 11 school 0.999717 *DELETE* 0.00028297
+align 12 *DELETE* 0.998757 at 0.000305836 uh 0.000295297 schools 0.00028297 in 0.000240811 or 0.000101718 out 1.33072e-05 i 2.36906e-06 is 2.09898e-07 of 4.23232e-08 oh 3.43086e-08 you 2.01667e-12 and 1.7017e-24
+align 13 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 does 1
+align 4 the 1
+align 5 hospital 1
+align 6 get 1
+align 7 electricity 1
+align 8 *DELETE* 0.999228 uh 0.000676564 i 4.48474e-05 in 1.62616e-05 a 1.01342e-05 you 7.80139e-06 how 6.16298e-06 or 5.16784e-06 it 4.47652e-06 up 8.23101e-07 are 1.35965e-07 no 1.65925e-08 were 1.31345e-08 and 9.85248e-09
+align 9 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 must 1
+align 3 have 1
+align 4 a 1
+align 5 a 0.880897 *DELETE* 0.0602125 i 0.0353309 uh 0.0235592
+align 6 *DELETE* 0.969517 a 0.0304834
+align 7 clear 1
+align 8 on 0.972788 and 0.0149051 *DELETE* 0.00752922 or 0.004127 i'm 0.00065036
+align 9 *DELETE* 0.995873 on 0.004127
+align 10 by 0.569202 *DELETE* 0.411151 buy 0.0159339 bye 0.00371285
+align 11 bias 0.403622 us 0.287627 it's 0.204134 as 0.0313368 its 0.0239564 s 0.0196899 is 0.0111639 his 0.0082368 unbiased 0.00752922 ice 0.00168971 ass 0.000894527 this 0.000120423 buys 3.91609e-09
+align 12 mind 0.522195 mine 0.409913 mined 0.0678916
+align 13 why 0.85397 while 0.145305 y 0.000317716 uh 0.000232604 i 0.000174951 who 4.90878e-07
+align 14 *DELETE* 0.999592 why 0.000408046
+align 15 you're 0.980291 your 0.0193698 you 0.000339111
+align 16 *DELETE* 0.999661 are 0.000339111
+align 17 conducting 1
+align 18 *DELETE* 1 a 3.19444e-08
+align 19 operations 1 operation's 2.11066e-08
+align 20 </s> 1

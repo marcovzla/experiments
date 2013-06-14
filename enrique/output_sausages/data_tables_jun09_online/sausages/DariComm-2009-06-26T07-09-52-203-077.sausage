@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 we 1
+align 3 have 1
+align 4 to 1
+align 5 talk 1
+align 6 to 1
+align 7 the 1
+align 8 village 1
+align 9 elder 0.981233 elders 0.0187672
+align 10 to 1
+align 11 build 0.999981 bill 1.91816e-05
+align 12 the 1
+align 13 well 1
+align 14 *DELETE* 0.999739 i 0.000190563 uh 5.8653e-05 it 5.73297e-06 in 4.52658e-06 to 8.74469e-07 is 5.83077e-07 you 1.35161e-08 that 1.18603e-09 a 9.45679e-10 and 4.65594e-10 the 2.67851e-12
+align 15 </s> 1

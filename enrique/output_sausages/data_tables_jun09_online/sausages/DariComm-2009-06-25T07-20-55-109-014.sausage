@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 been 1
+align 6 a 1 to 5.82639e-08
+align 7 contractor 0.999389 contract 0.000611189
+align 8 </s> 1

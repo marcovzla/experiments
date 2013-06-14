@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.995797 come 0.00420256
+align 2 unable 0.999907 in 5.53019e-05 and 3.78105e-05
+align 3 *DELETE* 0.999907 able 9.31124e-05
+align 4 to 1
+align 5 uh 0.511014 *DELETE* 0.329825 i 0.156012 like 0.00314915
+align 6 give 0.594846 *DELETE* 0.375366 can 0.0198949 get 0.00925546 do 0.000638346
+align 7 you 0.669262 argue 0.329825 need 0.000638346 you'd 0.00027476
+align 8 *DELETE* 0.987629 know 0.00590202 do 0.00400132 you 0.0014464 be 0.000651556 need 0.000317169 could 5.28404e-05
+align 9 weapon 0.989123 a 0.0108771 weapons 7.67474e-09
+align 10 *DELETE* 0.989123 weapon 0.0108771
+align 11 here 0.999424 hear 0.000576009
+align 12 *DELETE* 0.999893 uh 5.43656e-05 i 5.28624e-05
+align 13 </s> 1

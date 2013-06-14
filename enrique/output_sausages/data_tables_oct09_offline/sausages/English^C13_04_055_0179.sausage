@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 they 1
+align 3 tell 1
+align 4 you 1
+align 5 why 1
+align 6 they 1
+align 7 had 0.989942 it 0.00726529 *DELETE* 0.00239202 they 0.00040074 add 5.62478e-10
+align 8 *DELETE* 1 they 5.62478e-10
+align 9 taken 0.995975 they 0.00323273 can 0.000400631 taking 0.000391678 could 1.10407e-07 keep 1.8967e-14
+align 10 *DELETE* 0.996767 can 0.00323273
+align 11 your 0.999935 you're 6.45592e-05
+align 12 brother 1
+align 13 *DELETE* 1 uh 3.07407e-10
+align 14 </s> 1

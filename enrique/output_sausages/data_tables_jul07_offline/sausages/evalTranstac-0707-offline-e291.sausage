@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 it 0.990939 it's 0.00906146
+align 2 only 1
+align 3 works 1
+align 4 if 0.985315 is 0.014685
+align 5 everybody 1
+align 6 does 1
+align 7 it 1
+align 8 all 1 old 1.00689e-08
+align 9 the 1
+align 10 time 1
+align 11 *DELETE* 0.999999 i 1.27743e-06
+align 12 </s> 1

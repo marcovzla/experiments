@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999484 oh 0.000516048
+align 2 okay 1
+align 3 so 0.885204 sir 0.114796
+align 4 if 1
+align 5 we 0.507872 another 0.299571 my 0.124887 mullah 0.0269187 no 0.0231365 in 0.0171253 not 0.000489593
+align 6 *DELETE* 0.982875 the 0.0171253
+align 7 look 0.507872 *DELETE* 0.32649 looks 0.163658 most 0.00198015
+align 8 so 0.803061 over 0.116662 *DELETE* 0.0298463 of 0.0191305 sever 0.0181927 sir 0.013108
+align 9 your 0.923866 earlier 0.0298463 you're 0.0294901 you 0.0155779 year 0.000861612 a 0.000290038 of 6.7672e-05
+align 10 *DELETE* 0.999642 year 0.000290038 your 6.7672e-05
+align 11 and 0.999502 an 0.000497805
+align 12 your 1
+align 13 son 1 center 1.75514e-08
+align 14 *DELETE* 0.99999 are 1.01449e-05
+align 15 on 1
+align 16 the 1
+align 17 way 1
+align 18 back 1
+align 19 no 0.967358 know 0.0174222 now 0.0138485 and 0.00137079
+align 20 *DELETE* 0.984781 uh 0.0152193
+align 21 i'm 0.881875 uh 0.117731 um 0.000388281 *DELETE* 5.54029e-06
+align 22 *DELETE* 0.882269 i'm 0.117731
+align 23 preacher 0.932142 picture 0.0678529 appreciate 5.54029e-06
+align 24 you 1
+align 25 fill 0.929793 throw 0.0673507 so 0.00250899 full 0.000256941 feel 5.36551e-05 fo 3.71687e-05
+align 26 *DELETE* 0.938279 hole 0.0462171 whole 0.0155041
+align 27 a 0.989535 whole 0.00811637 *DELETE* 0.00169998 out 0.000332239 of 0.000256941 up 5.92267e-05
+align 28 lot 0.936601 *DELETE* 0.0633993
+align 29 better 1
+align 30 not 1
+align 31 no 0.454952 knowing 0.311144 *DELETE* 0.227609 known 0.00565469 in 0.000640346
+align 32 *DELETE* 0.99936 the 0.000640346
+align 33 way 0.382367 know 0.227609 *DELETE* 0.176494 at 0.116352 it 0.0533695 we 0.0268916 up 0.0149563 one 0.00196
+align 34 at 0.574038 *DELETE* 0.200605 that 0.178161 out 0.0346325 way 0.00659937 we 0.00268498 it 0.00195378 if 0.00132573
+align 35 *DELETE* 0.990489 at 0.00951125
+align 36 their 0.883969 they're 0.0514551 there 0.046197 after 0.0158006 or 0.00240582 actor 0.00012434 *DELETE* 4.48732e-05 have 1.82658e-06 our 1.03786e-06
+align 37 *DELETE* 0.999998 to 1.82658e-06
+align 38 back 0.912738 bat 0.0631766 but 0.0230541 bet 0.000865496 bak 4.64267e-05 bath 4.6133e-05 about 4.48733e-05 backs 2.06034e-05 battah 3.0881e-06 baak 2.24573e-06 bata 1.45542e-06 pat 7.05341e-07
+align 39 </s> 1

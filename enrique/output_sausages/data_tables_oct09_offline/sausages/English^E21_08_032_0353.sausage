@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 tomorrow 1
+align 2 i'll 1
+align 3 be 1
+align 4 teaching 1
+align 5 you 1
+align 6 mounted 1
+align 7 patrols 0.997119 patrol 0.00288057
+align 8 *DELETE* 0.999937 i 5.96444e-05 to 2.09567e-06 do 5.07564e-07 in 2.52141e-07 it 1.14155e-07
+align 9 </s> 1

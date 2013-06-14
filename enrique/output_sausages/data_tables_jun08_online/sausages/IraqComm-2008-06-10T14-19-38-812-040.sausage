@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 describe 1
+align 3 these 1
+align 4 checks 0.999724 check's 0.000275773
+align 5 *DELETE* 0.99956 it 0.000434012 i 5.63613e-06 and 3.80166e-10
+align 6 </s> 1

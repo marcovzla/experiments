@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 0.999982 we'll 1.82449e-05
+align 3 be 1
+align 4 able 1
+align 5 to 1
+align 6 provide 1
+align 7 security 1
+align 8 with 1
+align 9 no 0.959264 you 0.0213538 *DELETE* 0.019382
+align 10 *DELETE* 0.959264 know 0.0407358
+align 11 helicopter 0.991993 helicopters 0.00769891 helicopter's 0.000307717
+align 12 *DELETE* 0.999259 uh 0.000544324 i 0.00014234 it 2.37373e-05 you 1.42727e-05 to 7.87256e-06 if 5.68527e-06 in 2.87532e-06 is 3.39309e-07 a 1.4992e-09 and 6.99694e-14 as 1.41994e-14
+align 13 </s> 1

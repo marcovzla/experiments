@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 was 1
+align 2 anybody 1
+align 3 hurt 1
+align 4 or 0.90138 our 0.0536567 are 0.0437574 were 0.00120587
+align 5 physically 0.975989 a 0.024011
+align 6 *DELETE* 0.975989 physically 0.024011
+align 7 injured 1
+align 8 *DELETE* 1 uh 1.90543e-12 in 3.62445e-14 at 4.11701e-15
+align 9 </s> 1

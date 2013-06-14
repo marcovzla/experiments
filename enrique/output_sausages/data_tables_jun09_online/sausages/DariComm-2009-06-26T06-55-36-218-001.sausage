@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 other 1
+align 3 types 1
+align 4 of 1
+align 5 problems 1
+align 6 do 1
+align 7 you 1
+align 8 have 1
+align 9 with 1
+align 10 your 0.998806 you 0.00112927 *DELETE* 6.51843e-05
+align 11 *DELETE* 0.998806 or 0.00112927 you're 6.51843e-05
+align 12 animals 0.999917 *DELETE* 8.31162e-05
+align 13 *DELETE* 0.998147 to 0.000665181 i 0.000290388 and 0.000223027 do 0.000206076 you 0.000123362 in 0.000109895 animals' 8.31162e-05 uh 7.36563e-05 it 3.98288e-05 so 2.26046e-05 are 6.79698e-06 that 5.98996e-06 did 2.89318e-06 if 6.07332e-08 them 2.82405e-11
+align 14 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.998556 how 0.00131903 who 0.000124746
+align 2 are 0.998708 or 0.00129192
+align 3 your 1
+align 4 children 1
+align 5 old 0.992606 all 0.00739428
+align 6 enough 1
+align 7 to 1
+align 8 go 1
+align 9 to 1
+align 10 school 0.999969 *DELETE* 3.05434e-05
+align 11 *DELETE* 0.998468 uh 0.00138128 i 6.24784e-05 now 3.19822e-05 schools 3.05434e-05 and 1.10388e-05 in 9.87802e-06 at 4.69846e-06 it 2.74207e-11 to 1.53212e-12
+align 12 </s> 1

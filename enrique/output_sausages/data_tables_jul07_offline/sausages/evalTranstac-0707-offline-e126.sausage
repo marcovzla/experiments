@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 0.824152 i 0.16907 who 0.00677775
+align 2 was 1
+align 3 miss 0.508697 *DELETE* 0.199651 busy 0.178467 going 0.0666299 mister 0.0449765 missing 0.00157809
+align 4 it 0.355069 message 0.17811 if 0.151459 to 0.147819 *DELETE* 0.117428 you 0.0501158
+align 5 any 0.587717 very 0.269501 do 0.0666299 got 0.0427946 mitzi 0.0166239 guided 0.0067667 *DELETE* 0.00424371 misery 0.00258029 messy 0.0019652 day 0.0005089 missy 0.000371481 denny 0.000297218
+align 6 *DELETE* 0.912747 that 0.087253
+align 7 *DELETE* 0.864791 a 0.0665732 he 0.0634744 very 0.00478347 guided 0.00037801
+align 8 trash 0.999833 *DELETE* 0.000167087
+align 9 pickup 0.990792 pick 0.00831186 *DELETE* 0.00072749 tractor 0.000167087 for 1.42562e-06 the 2.52544e-09 could 2.37958e-10 but 2.42931e-12
+align 10 *DELETE* 0.990792 up 0.00814306 forget 0.000387516 out 0.000168808 together 0.000141056 forgot 0.000127388 got 8.7414e-05 get 7.55892e-05 bigger 6.67643e-05 figure 4.76622e-06 guys 3.09592e-06 god 1.43222e-06 guy 9.79379e-07 going 4.1701e-09 a 1.70541e-09 go 6.95522e-12
+align 11 </s> 1

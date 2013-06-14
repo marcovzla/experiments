@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 take 1
+align 3 your 1
+align 4 trucks 1
+align 5 to 1
+align 6 the 1
+align 7 front 1
+align 8 gate 1
+align 9 *DELETE* 0.999926 is 3.7307e-05 uh 3.60088e-05 i 7.57114e-07 it 3.17147e-12 and 2.86346e-14
+align 10 </s> 1

@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 absolutely 1
+align 2 reid 0.57768 read 0.411364 reed 0.0109556
+align 3 uh 1
+align 4 we 1
+align 5 need 0.590589 *DELETE* 0.32112 more 0.0882912
+align 6 more 0.911709 *DELETE* 0.0882912
+align 7 than 1
+align 8 willing 1
+align 9 to 1
+align 10 uh 1
+align 11 *DELETE* 0.986964 uh 0.0130358
+align 12 doing 1
+align 13 any 0.75419 a 0.226691 the 0.0122981 need 0.00682016
+align 14 blood 1
+align 15 and 0.839564 in 0.160436
+align 16 *DELETE* 0.929107 the 0.0708928
+align 17 anything 1
+align 18 else 1
+align 19 that 1
+align 20 he 0.693227 you 0.306773
+align 21 will 0.995501 we'll 0.00262162 would 0.00187758 *DELETE* 7.09805e-11
+align 22 need 0.983261 mean 0.0164225 me 0.000173538 knee 0.000142902 knead 3.99811e-07 only 2.31852e-08
+align 23 *DELETE* 0.999974 and 1.26156e-05 a 7.76498e-06 in 3.80778e-06 to 1.67804e-06 an 1.87573e-07 i 1.22943e-07
+align 24 </s> 1

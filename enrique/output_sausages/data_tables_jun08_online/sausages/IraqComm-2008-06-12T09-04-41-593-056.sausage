@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 0.964351 i'm 0.0356488
+align 2 am 0.632177 *DELETE* 0.342363 have 0.0162934 i 0.0086546 i'm 0.000512752
+align 3 a 0.504945 was 0.19453 the 0.144062 will 0.120838 of 0.0320147 in 0.00360902
+align 4 stage 0.955723 stay 0.037618 *DELETE* 0.00665892
+align 5 *DELETE* 0.955723 age 0.037618 staged 0.00665892
+align 6 three 1
+align 7 helicopters 0.993923 helicopter's 0.00607698
+align 8 *DELETE* 0.9998 uh 0.00019972 i 1.23693e-12 in 1.65814e-15 you 6.92291e-20 on 4.71183e-22
+align 9 </s> 1

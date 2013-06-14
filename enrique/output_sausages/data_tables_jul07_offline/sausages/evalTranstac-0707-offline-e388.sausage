@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 yes 0.610077 yeah 0.267216 you 0.106913 the 0.0114293 okay 0.0021985 and 0.00115552 do 0.000634317 can 0.000375639
+align 2 *DELETE* 0.998469 do 0.00105178 you 0.000479383
+align 3 *DELETE* 0.611919 as 0.275247 ask 0.109677 ass 0.00284259 uh 0.000285241 so 2.93164e-05
+align 4 *DELETE* 0.971192 i 0.0261115 uh 0.00228381 a 0.000412643
+align 5 </s> 1

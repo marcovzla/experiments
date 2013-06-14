@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 0.921251 have 0.0494372 *DELETE* 0.0264332 of 0.00287877
+align 4 the 0.791986 *DELETE* 0.101715 of 0.0495511 that 0.0303144 only 0.013318 other 0.0131152
+align 5 *DELETE* 0.895547 we 0.0549022 the 0.0495511
+align 6 people 1
+align 7 suffer 1
+align 8 from 1
+align 9 any 1
+align 10 specific 1
+align 11 health 1
+align 12 problems 1
+align 13 *DELETE* 0.999993 uh 6.64669e-06 so 3.18639e-13 i 6.28257e-14
+align 14 </s> 1

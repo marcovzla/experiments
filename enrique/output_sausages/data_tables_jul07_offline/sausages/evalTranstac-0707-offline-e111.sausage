@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999684 i 0.000315606
+align 3 can't 0.924648 can 0.075352
+align 4 take 1
+align 5 him 0.999579 them 0.000421124
+align 6 to 1
+align 7 the 1
+align 8 hospital 1
+align 9 but 0.998011 that 0.00198891
+align 10 you 1
+align 11 can 1
+align 12 take 1
+align 13 him 1
+align 14 to 1
+align 15 your 0.999811 the 0.000189114
+align 16 *DELETE* 0.999811 your 0.000189114 our 6.96208e-11 are 2.07346e-11
+align 17 local 1
+align 18 hospital 1
+align 19 *DELETE* 1 if 3.64587e-07
+align 20 </s> 1

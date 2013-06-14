@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 has 1
+align 2 there 1
+align 3 been 1
+align 4 a 1
+align 5 lot 1
+align 6 of 0.999806 a 0.000194313
+align 7 problems 0.714156 problem 0.285844
+align 8 since 1
+align 9 you've 1
+align 10 been 1
+align 11 chief 0.999716 chiefs 0.000165202 *DELETE* 0.000118482
+align 12 *DELETE* 0.999453 i 0.000313926 she's 8.99365e-05 uh 5.27625e-05 it 3.31828e-05 chief's 2.85458e-05 in 9.15787e-06 is 8.94742e-06 you 5.97847e-06 of 2.2512e-06 a 1.40058e-06 the 8.63847e-07 to 2.91962e-07 do 3.36785e-08 and 2.43189e-08 at 1.35032e-08 if 2.12161e-09 that 1.26619e-09
+align 13 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 in 0.810928 and 0.189072
+align 2 *DELETE* 1 their 3.01908e-07
+align 3 our 1
+align 4 next 1
+align 5 meeting 1
+align 6 we 1
+align 7 will 0.998347 we'll 0.0016529
+align 8 bring 1
+align 9 a 0.456785 the 0.217326 *DELETE* 0.189143 at 0.0448336 uh 0.0431037 it 0.0382615 in 0.00799585 our 0.00255202
+align 10 school 0.981105 a 0.0146044 the 0.00427931 schools 1.08856e-05
+align 11 *DELETE* 0.976248 school 0.0188837 uh 0.00240841 a 0.00141481 up 0.000797509 is 0.000162909 or 3.50318e-05 oh 3.22912e-05 it 1.62985e-05 in 8.88664e-07
+align 12 *DELETE* 0.999891 uh 5.43621e-05 a 4.00019e-05 up 1.24459e-05 is 1.28555e-06 or 3.01266e-07 it 2.33414e-07
+align 13 supplies 0.619668 of 0.380332 *DELETE* 1.25654e-11
+align 14 *DELETE* 0.619668 supplies 0.379978 soap 0.000353709
+align 15 *DELETE* 0.999033 uh 0.00036024 lies 0.000353709 it 0.000213927 i 1.99517e-05 do 1.50215e-05 to 2.06072e-06 in 1.65759e-06 at 5.16044e-07 of 1.95045e-07 and 7.49371e-08 you 5.71492e-09 the 8.68392e-10
+align 16 </s> 1

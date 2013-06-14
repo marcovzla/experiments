@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 indeed 0.460754 new 0.261734 in 0.186166 knew 0.0806648 *DELETE* 0.0106816
+align 4 *DELETE* 0.803153 the 0.196847
+align 5 *DELETE* 0.990567 new 0.00943258
+align 6 very 1
+align 7 helpful 1
+align 8 uh 0.992271 um 0.00772857
+align 9 to 1
+align 10 our 0.877268 are 0.122732
+align 11 continued 0.829154 continue 0.170831 continues 1.52689e-05
+align 12 planning 0.767309 planting 0.23266 to 3.15695e-05
+align 13 *DELETE* 0.999958 planning 3.12956e-05 a 8.60138e-06 i 1.49789e-06 planting 2.73979e-07
+align 14 </s> 1

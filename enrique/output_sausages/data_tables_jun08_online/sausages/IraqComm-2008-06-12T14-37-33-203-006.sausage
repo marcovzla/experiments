@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 are 0.99663 *DELETE* 0.00337047
+align 3 you 1
+align 4 from 1
+align 5 </s> 1

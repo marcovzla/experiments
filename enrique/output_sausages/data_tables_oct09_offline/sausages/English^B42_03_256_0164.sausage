@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 that 1
+align 3 true 1
+align 4 </s> 1

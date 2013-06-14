@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 has 0.999876 as 0.000124063
+align 2 there 1
+align 3 been 1
+align 4 a 1
+align 5 lot 1
+align 6 of 1
+align 7 problems 1
+align 8 since 1
+align 9 you've 0.97971 he's 0.0202896
+align 10 been 1
+align 11 chief 1
+align 12 *DELETE* 0.999563 i 0.000261696 it 7.8903e-05 uh 4.04117e-05 you 2.68356e-05 in 8.68635e-06 to 5.07154e-06 the 4.11208e-06 of 3.93217e-06 if 3.56454e-06 a 2.3007e-06 is 1.77916e-06 do 7.05009e-10 did 1.2106e-10 and 1.66018e-13 at 1.84358e-14
+align 13 </s> 1

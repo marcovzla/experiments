@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 you 0.951103 do 0.0455889 if 0.00329157 *DELETE* 1.68358e-05
+align 2 *DELETE* 0.95112 you 0.0488805
+align 3 know 0.569084 out 0.226823 don't 0.0790381 got 0.0416376 hurt 0.0263237 how 0.0250661 are 0.0153532 hit 0.0077298 *DELETE* 0.00577385 it 0.00203577 have 0.000929706 hurry 0.000137957 let 5.10395e-05 you're 1.68358e-05
+align 4 you 0.994458 it 0.00549234 a 4.96501e-05
+align 5 *DELETE* 0.994458 you 0.00554199
+align 6 want 0.997852 *DELETE* 0.00214847
+align 7 to 0.997852 wanna 0.00214847
+align 8 see 1
+align 9 who 0.986983 *DELETE* 0.0130171
+align 10 is 0.986983 who's 0.0118483 whose 0.00116881
+align 11 hurt 0.986505 heard 0.0124148 herd 0.00108039
+align 12 the 1
+align 13 worst 0.987606 wars 0.0103682 worse 0.0018728 war's 0.000152997
+align 14 first 1
+align 15 *DELETE* 0.999995 i 4.10271e-06 uh 8.66886e-07
+align 16 </s> 1

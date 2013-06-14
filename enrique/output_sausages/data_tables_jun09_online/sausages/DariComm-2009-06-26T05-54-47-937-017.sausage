@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 0.950864 he 0.0308525 uh 0.014133 i 0.00165833 king 0.00158887 keen 0.000666112 key 0.00023703
+align 2 *DELETE* 0.984209 can 0.0157913
+align 3 you 0.96891 needs 0.0226667 knew 0.00612998 need 0.00129641 nice 0.000996403
+align 4 say 0.847577 see 0.152423
+align 5 again 0.99997 a 2.98437e-05
+align 6 *DELETE* 0.998906 in 0.000835363 i 0.000128851 uh 7.8545e-05 again 2.98437e-05 and 2.0907e-05
+align 7 </s> 1

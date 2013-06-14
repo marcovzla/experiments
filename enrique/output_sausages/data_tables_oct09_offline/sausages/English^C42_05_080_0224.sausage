@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 have 1
+align 3 you 1
+align 4 built 1
+align 5 any 1
+align 6 uh 1
+align 7 *DELETE* 0.614445 uh 0.385555
+align 8 school 1
+align 9 buildings 0.998186 building 0.00181409
+align 10 school 1
+align 11 tight 0.913144 type 0.0829633 tied 0.00389251
+align 12 buildings 0.999995 building 5.11195e-06
+align 13 in 0.994503 of 0.00402807 *DELETE* 0.00146012 so 5.11195e-06 on 1.85571e-06 and 1.48415e-06
+align 14 the 1
+align 15 past 0.999825 passed 0.000175029
+align 16 </s> 1

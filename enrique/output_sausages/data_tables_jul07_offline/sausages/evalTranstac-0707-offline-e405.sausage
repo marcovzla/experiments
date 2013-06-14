@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 all 0.64167 alright 0.358292 um 3.68791e-05 uh 5.59467e-07 i 1.24897e-07 *DELETE* 1.58256e-10
+align 2 right 0.641707 *DELETE* 0.358265 uh 2.68031e-05 i 1.66797e-06 oh 3.98823e-08 it 3.73432e-09
+align 3 *DELETE* 0.999971 uh 2.2472e-05 i 6.10347e-06
+align 4 </s> 1

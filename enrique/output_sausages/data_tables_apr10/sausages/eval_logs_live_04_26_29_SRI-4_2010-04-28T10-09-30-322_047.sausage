@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 water 1
+align 6 *DELETE* 0.999985 to 6.59388e-06 uh 6.55898e-06 in 1.65181e-06
+align 7 </s> 1

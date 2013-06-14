@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 0.997333 well 0.00231599 why 0.000243419 we 5.66471e-05 what 5.06324e-05
+align 2 are 1
+align 3 you 1
+align 4 travelling 1
+align 5 to 0.995685 *DELETE* 0.00431508
+align 6 *DELETE* 0.963757 you 0.0319049 too 0.00421862 two 9.64612e-05 uh 1.86046e-05 do 2.5617e-06 a 2.32361e-06 it 1.64933e-08 the 5.9209e-13
+align 7 </s> 1

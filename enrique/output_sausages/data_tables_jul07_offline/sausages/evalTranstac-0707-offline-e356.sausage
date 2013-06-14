@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 and 0.753329 then 0.207014 thin 0.0350795 than 0.00168846 tell 0.00148299 can 0.000660095 to 0.000596346 the 0.000150368
+align 2 he 0.99777 me 0.00218234 many 4.73617e-05
+align 3 would 0.998496 what 0.00150449
+align 4 run 0.99979 *DELETE* 0.000174411 ran 3.52499e-05 route 2.88546e-08
+align 5 away 0.999716 runaway 0.000174411 a 0.000109942
+align 6 *DELETE* 0.999844 way 0.000109942 i 4.35799e-05 in 1.15431e-06 uh 1.02639e-06 a 6.96321e-07
+align 7 </s> 1

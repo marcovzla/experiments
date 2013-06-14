@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 great 1
+align 3 thanks 0.597285 banks 0.391961 thinks 0.00339806 bank's 0.00312225 banks' 0.0016738 ranks 0.00108335 things 0.000985037 flanks 0.000383988 *DELETE* 0.000107919
+align 4 *DELETE* 0.998511 uh 0.00124467 tanks 6.18795e-05 i 6.02178e-05 a 4.39519e-05 bags 3.84014e-05 too 1.70066e-05 you 8.08763e-06 blanks 7.63782e-06 to 3.47592e-06 in 2.95889e-06 um 4.01729e-07 and 2.45355e-11 it 6.16258e-12 of 2.77525e-21
+align 5 </s> 1

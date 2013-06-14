@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 men 1
+align 3 will 1
+align 4 help 0.999945 have 5.38745e-05 honk 8.36429e-07 hope 4.04751e-08
+align 5 you 0.999917 given 5.38745e-05 even 2.90576e-05
+align 6 *DELETE* 0.999917 for 8.29321e-05 and 4.58457e-10
+align 7 *DELETE* 1 for 4.58457e-10
+align 8 *DELETE* 0.999916 me 8.29325e-05 informing 8.76904e-07
+align 9 in 0.996938 *DELETE* 0.00306157
+align 10 forming 0.996123 inform 0.00258138 for 0.00073572 *DELETE* 0.000560116
+align 11 a 0.995906 him 0.00258138 me 0.00073572 informing 0.000476306 *DELETE* 0.000300297
+align 12 *DELETE* 0.998568 in 0.00101717 it 0.000216487 them 0.000155624 and 4.3119e-05
+align 13 perimeter 1
+align 14 around 1
+align 15 the 1
+align 16 gas 1
+align 17 station 1
+align 18 </s> 1

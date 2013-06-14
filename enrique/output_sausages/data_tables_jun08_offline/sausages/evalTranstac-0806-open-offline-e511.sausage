@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 no 0.98924 now 0.0107596
+align 2 i 1
+align 3 do 0.78922 i 0.21078
+align 4 *DELETE* 0.78922 do 0.21078
+align 5 understand 1
+align 6 that 0.807266 it 0.171021 if 0.0149121 it's 0.00268422 its 0.00268422 at 0.00143219
+align 7 you 1
+align 8 have 1
+align 9 some 1
+align 10 information 1
+align 11 to 0.999134 of 0.000865608
+align 12 pass 1
+align 13 on 0.966783 all 0.0326662 out 0.00055076
+align 14 before 1
+align 15 we 1
+align 16 go 1
+align 17 on 0.983135 in 0.0168581 into 7.02456e-06
+align 18 this 1
+align 19 on 1
+align 20 this 0.94503 the 0.0542616 his 0.000708148
+align 21 *DELETE* 0.759787 color 0.07119 school 0.0543657 go 0.0438544 corner 0.0178465 will 0.0150648 poor 0.013666 oil 0.0055283 quarter 0.00467765 court 0.00362452 call 0.00325198 world 0.00271641 clear 0.00241628 we'll 0.00143838 pool 0.000306531 cold 0.000185912 core 5.76752e-05 quota 2.19165e-05
+align 22 *DELETE* 0.995713 or 0.00428664
+align 23 cordon 0.681235 and 0.204377 wouldn't 0.0489645 in 0.0330218 wooden 0.0159083 willing 0.00813069 clearance 0.00426847 run 0.00118078 on 0.000959559 couldn't 0.000377064 clearing 0.000209551 earn 0.000199784 cordoned 0.000189938 an 0.000187958 earned 0.000179387 going 0.000147494 one 0.000106848 clothing 9.9781e-05 current 8.78623e-05 colon 6.34613e-05 pulling 4.8961e-05 calling 3.91739e-05 coloring 1.36962e-05 wound 2.59884e-06 colored 5.93216e-07
+align 24 *DELETE* 0.99914 to 0.000826153 the 3.40839e-05
+align 25 search 1
+align 26 </s> 1

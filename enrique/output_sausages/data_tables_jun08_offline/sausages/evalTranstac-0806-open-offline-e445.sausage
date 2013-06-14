@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.568551 that 0.431449
+align 2 that'll 0.568551 a 0.43058 will 0.000869116
+align 3 lot 0.43058 are 0.278661 all 0.193892 out 0.0459425 uh 0.0275309 i'll 0.0226626 abu 0.000370692 i 0.000291802 *DELETE* 6.80883e-05
+align 4 *DELETE* 0.966365 of 0.0335557 do 7.90677e-05
+align 5 you 0.999932 ali 6.80883e-05
+align 6 to 0.997978 two 0.00118834 too 0.000833761
+align 7 focus 1
+align 8 on 1
+align 9 the 1
+align 10 the 1
+align 11 warehouse 1
+align 12 </s> 1

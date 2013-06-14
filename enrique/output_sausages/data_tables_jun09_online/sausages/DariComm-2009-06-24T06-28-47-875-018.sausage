@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 0.990335 they 0.00966511
+align 3 any 1
+align 4 talaban 1
+align 5 fighters 1
+align 6 here 0.994931 fear 0.00200384 you 0.00095296 year 0.000806833 hear 0.000394321 in 0.000275919 you're 0.000252109 do 0.000188953 it 0.000100026 *DELETE* 4.08237e-05 your 2.70174e-05 there 1.23847e-05 too 8.80551e-06 few 3.4007e-06 to 7.72612e-07 ear 4.54534e-07
+align 7 *DELETE* 0.999926 you 7.3903e-05
+align 8 in 0.999972 hearing 2.7512e-05 and 3.11231e-08 shooting 3.20566e-12 seeing 1.67831e-31
+align 9 this 1
+align 10 hospital 1
+align 11 *DELETE* 1 i 3.13882e-08 do 4.50978e-09 is 9.45093e-10 in 2.51288e-10 it 2.12761e-14
+align 12 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 when 0.987612 one 0.0123876
+align 2 was 1
+align 3 your 1
+align 4 brother 1
+align 5 taken 0.827391 taking 0.102068 take 0.0705406
+align 6 *DELETE* 0.929444 in 0.0294893 him 0.018603 them 0.00927531 an 0.00864813 it 0.00212104 and 0.00168136 n 0.000397019 on 0.000120416 inn 5.92447e-05 then 5.85563e-05 can 5.5678e-05 any 1.35852e-05 ten 9.7212e-06 i'm 9.20319e-06 uh 8.70722e-06 to 3.32079e-06 m 2.82436e-06
+align 7 *DELETE* 0.999996 in 3.61403e-06
+align 8 </s> 1

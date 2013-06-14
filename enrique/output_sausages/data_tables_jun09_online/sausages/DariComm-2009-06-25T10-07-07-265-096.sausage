@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 say 0.996772 so 0.00322849 *DELETE* 3.36407e-25
+align 2 *DELETE* 0.996772 i 0.00322849
+align 3 again 1
+align 4 *DELETE* 0.999976 i 2.4073e-05 uh 1.28588e-11 um 5.20963e-14 it 5.35087e-15 saydan 4.19727e-22 can 1.73418e-26
+align 5 </s> 1

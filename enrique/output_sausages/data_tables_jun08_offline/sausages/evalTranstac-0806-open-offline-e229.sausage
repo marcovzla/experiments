@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 feel 1
+align 4 like 1
+align 5 you 1
+align 6 can 1
+align 7 trust 1
+align 8 the 1
+align 9 police 1
+align 10 uh 0.999394 so 0.000605545
+align 11 *DELETE* 0.99863 i 0.00136955
+align 12 do 0.980102 uh 0.0159464 duty 0.00394037 due 1.15153e-05
+align 13 *DELETE* 0.998508 the 0.00133339 to 0.000158334
+align 14 you 0.684376 do 0.27606 the 0.0391641 *DELETE* 0.000233713 they 0.000165722
+align 15 *DELETE* 0.984177 do 0.0138033 the 0.00201936
+align 16 *DELETE* 0.687054 you 0.312822 the 0.000120612 they 3.15798e-06
+align 17 feel 1
+align 18 that 1
+align 19 they 1
+align 20 are 1
+align 21 uh 0.984904 *DELETE* 0.0150958
+align 22 in 0.677711 *DELETE* 0.240975 and 0.060406 i 0.0150958 an 0.00581226
+align 23 legitimate 1
+align 24 and 1
+align 25 uh 0.719807 the 0.264753 a 0.0113278 to 0.00411215
+align 26 honest 0.971664 uh 0.0270323 artist 0.00126283 on 2.79687e-05 honesty 1.24205e-05 honestly 3.94965e-07
+align 27 *DELETE* 0.972883 honest 0.0270323 i 2.94543e-05 iced 2.79687e-05 uh 2.62029e-05 to 1.61875e-06
+align 28 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 no 0.99897 know 0.00103024
+align 2 we 1
+align 3 will 0.959488 we 0.0255749 we'll 0.0149367
+align 4 *DELETE* 0.974425 will 0.0251183 we'll 0.000456647
+align 5 keep 1
+align 6 the 0.942618 that 0.0573824
+align 7 helicopters 0.997945 helicopter's 0.00205541
+align 8 in 0.999759 and 0.000130981 *DELETE* 0.000110195
+align 9 the 0.999284 *DELETE* 0.000526835 any 9.76354e-05 a 7.85537e-05 an 1.256e-05 they 2.15394e-07
+align 10 air 0.999938 there 4.19236e-05 err 1.3974e-05 error 6.0125e-06 their 6.16584e-09 heir 1.01338e-09
+align 11 *DELETE* 0.999996 i 3.68545e-06
+align 12 </s> 1

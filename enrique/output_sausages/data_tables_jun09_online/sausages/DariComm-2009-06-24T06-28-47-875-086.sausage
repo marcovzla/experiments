@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 treat 1
+align 5 times 0.355792 germs 0.256267 drums 0.134793 the 0.0667905 dry 0.0633967 this 0.056521 draw 0.025971 *DELETE* 0.0196701 and 0.00615086 you 0.00556572 time 0.00516885 them 0.00257261 me 0.00134017 jawn 1.96657e-19 drawer 2.21917e-21
+align 6 *DELETE* 0.752118 arms 0.144523 times 0.0805018 terms 0.0120408 germans 0.00456514 is 0.00374901 arm 0.00136589 time 0.00113669
+align 7 *DELETE* 0.991452 is 0.00250258 comes 0.00145049 so 0.00142033 time's 0.00126388 jobs 0.000981758 uh 0.000419551 i 0.000312638 determines 8.38074e-05 drives 6.56231e-05 it 1.82215e-05 you 1.18056e-05 in 4.60156e-06 a 4.43429e-06 and 3.79917e-06 to 2.46711e-06 do 2.07961e-06 are 6.94196e-08 of 4.03119e-08 the 8.85871e-09 that 3.24998e-16 as 1.42333e-19
+align 8 </s> 1

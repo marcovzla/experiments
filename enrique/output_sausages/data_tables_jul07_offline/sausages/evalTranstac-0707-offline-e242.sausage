@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 in 0.949501 and 0.0444183 an 0.00608111
+align 2 anything 1
+align 3 extra 0.99752 after 0.00247996
+align 4 *DELETE* 0.99773 a 0.0022703
+align 5 must 1
+align 6 be 1
+align 7 taken 0.971338 taking 0.0286345 take 2.70747e-05
+align 8 *DELETE* 0.999949 it 2.70647e-05 to 1.55789e-05 a 6.22647e-06 i 2.36597e-06 uh 1.65557e-07 in 9.98394e-09
+align 9 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 he 1
+align 2 he 1
+align 3 swims 0.999874 swings 0.000126229
+align 4 in 1
+align 5 the 0.606794 that 0.393206
+align 6 *DELETE* 0.999901 uh 9.94072e-05
+align 7 river 1
+align 8 right 0.999989 write 1.08265e-05 *DELETE* 4.74106e-13
+align 9 there 0.99991 they're 8.96439e-05 their 1.17738e-07 writer 2.99929e-09
+align 10 </s> 1

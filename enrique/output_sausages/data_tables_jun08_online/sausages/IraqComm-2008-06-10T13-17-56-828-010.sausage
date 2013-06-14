@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 why 0.977853 so 0.0221468
+align 2 *DELETE* 0.977853 why 0.0221468
+align 3 do 1
+align 4 you 1
+align 5 need 1
+align 6 this 1
+align 7 training 1
+align 8 on 1 of 2.57011e-10
+align 9 weapons 1
+align 10 *DELETE* 1 uh 3.56307e-12 in 1.82514e-14
+align 11 </s> 1

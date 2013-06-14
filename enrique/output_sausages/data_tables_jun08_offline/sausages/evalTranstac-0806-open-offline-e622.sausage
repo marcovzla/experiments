@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 and 0.977244 in 0.0227558
+align 2 additionally 1
+align 3 uh 0.83076 how 0.0994478 um 0.0426114 i'll 0.0108941 i 0.00839522 are 0.00458897 out 0.00274447 oh 0.000558553
+align 4 *DELETE* 0.996635 uh 0.00332252 oh 4.26757e-05
+align 5 we 1
+align 6 will 1 we'll 1.21561e-08
+align 7 have 1
+align 8 aircraft 0.876105 aircrafts 0.0998481 to 0.0190034 a 0.00270288 air 0.00234081
+align 9 *DELETE* 0.976416 aircraft 0.0167823 aircrafts 0.00341428 craft 0.0013586 are 0.00108274 crafts 0.000518988 or 0.000426896
+align 10 *DELETE* 0.998027 crafts 0.00154629 craft 0.000426576
+align 11 searching 1
+align 12 for 1
+align 13 that 1
+align 14 vehicle 1
+align 15 *DELETE* 0.999997 i 3.37545e-06 uh 5.17623e-09
+align 16 </s> 1

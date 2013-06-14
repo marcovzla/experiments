@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 just 1
+align 3 found 0.98077 *DELETE* 0.0192302
+align 4 a 0.571142 it 0.221268 that 0.104148 in 0.0384639 at 0.0371429 founded 0.0192302 of 0.00794399 the 0.000405546 i 0.000254971
+align 5 large 1
+align 6 bag 1
+align 7 of 0.998366 or 0.0015847 and 4.92372e-05
+align 8 fertilizer 1
+align 9 </s> 1

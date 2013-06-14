@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 is 1
+align 3 your 1
+align 4 meeting 1
+align 5 place 1
+align 6 with 0.999135 but 0.000865057
+align 7 the 0.998509 *DELETE* 0.00115231 your 0.00024522 a 4.80869e-05 to 4.4905e-05
+align 8 commander 0.999924 commanders 7.63185e-05
+align 9 *DELETE* 0.99992 is 5.12228e-05 uh 1.23492e-05 to 9.05183e-06 in 3.14702e-06 and 2.42179e-06 i 2.00955e-06 um 2.90918e-10 it 1.36775e-11 of 6.6242e-14
+align 10 </s> 1

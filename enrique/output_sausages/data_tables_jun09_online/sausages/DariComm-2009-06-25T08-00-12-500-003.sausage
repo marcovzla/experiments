@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999989 does 1.08799e-05
+align 3 your 0.997916 the 0.00208378
+align 4 name 1 *DELETE* 6.85118e-14
+align 5 *DELETE* 0.999948 sir 4.01597e-05 is 1.23182e-05 names 3.75549e-10 to 2.61826e-14
+align 6 </s> 1

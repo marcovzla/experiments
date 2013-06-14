@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 0.389964 things 0.320479 being 0.209677 the 0.0756107 dean 0.00132579 gain 0.00111645 *DELETE* 0.000567143 thing 0.00050296 seeing 0.000273125 again 0.000244843 clean 9.26523e-05 then 7.82833e-05 can 6.88241e-05
+align 2 *DELETE* 0.533858 and 0.218069 in 0.207035 end 0.0409377 n 0.000100021
+align 3 such 1
+align 4 as 1
+align 5 what 0.996732 well 0.00326839
+align 6 *DELETE* 0.999633 i 0.000178552 uh 0.000130705 it 4.49745e-05 you 1.04031e-05 is 1.96019e-06 and 2.89589e-19
+align 7 </s> 1

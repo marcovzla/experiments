@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 my 0.812089 may 0.187911
+align 2 *DELETE* 0.84992 i 0.15008
+align 3 friend 0.733763 send 0.219399 thing 0.0421503 sent 0.00468822
+align 4 my 1
+align 5 man 0.712547 men 0.287453
+align 6 just 1
+align 7 found 1
+align 8 all 0.52563 the 0.47437
+align 9 large 1
+align 10 bag 0.81985 back 0.162621 *DELETE* 0.0175291
+align 11 of 0.807268 a 0.132236 the 0.0396617 bakka' 0.016528 to 0.00136017 bakir 0.00100111 up 0.000800755 *DELETE* 0.000511652 if 0.000319293 at 0.000109206 it 6.91045e-05 i 6.81218e-05 and 6.68429e-05 in 1.80537e-14
+align 12 fertilizer 1 fertilizers 2.90125e-10
+align 13 </s> 1

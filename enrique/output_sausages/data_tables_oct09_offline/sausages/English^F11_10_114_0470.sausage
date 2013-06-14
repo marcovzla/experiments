@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 yeah 0.985412 *DELETE* 0.0112471 i 0.00333426 you 7.02011e-06
+align 2 i 1
+align 3 *DELETE* 0.999782 i 0.000218084
+align 4 have 1
+align 5 a 0.999951 the 4.85874e-05
+align 6 map 1
+align 7 here 1
+align 8 *DELETE* 0.99999 to 1.00088e-05
+align 9 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 0.999994 *DELETE* 6.27335e-06
+align 2 are 0.999994 *DELETE* 6.27335e-06
+align 3 you 0.999994 howard 6.27335e-06 *DELETE* 2.28744e-23
+align 4 *DELETE* 0.999997 sir 2.50557e-06 i 1.83982e-08 now 1.05485e-09 powered 5.66481e-18
+align 5 </s> 1

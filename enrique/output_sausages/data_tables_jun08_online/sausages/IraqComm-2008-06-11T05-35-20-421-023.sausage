@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 will 0.996843 we'll 0.00282679 well 0.000329961
+align 2 you 0.706791 he 0.293209
+align 3 need 1 needs 1.34174e-14
+align 4 surgery 0.999948 surgeries 5.19236e-05 a 5.74359e-07
+align 5 *DELETE* 0.999999 surgery 5.74359e-07
+align 6 </s> 1

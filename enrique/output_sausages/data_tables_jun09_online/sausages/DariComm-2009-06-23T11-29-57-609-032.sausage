@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 trucks 1
+align 3 will 1
+align 4 hold 0.999986 holds 1.44102e-05
+align 5 security 0.999978 the 2.18897e-05 a 6.04419e-08
+align 6 *DELETE* 0.997201 uh 0.00122876 i 0.000716659 um 0.000430642 in 0.000109378 you 5.90973e-05 on 5.59593e-05 to 4.32842e-05 it 4.03612e-05 do 3.95453e-05 and 3.88922e-05 security 2.19501e-05 now 5.37091e-06 the 4.45112e-06 with 3.03541e-06 is 1.89727e-06 a 2.76383e-09 that 1.29358e-10 would 1.1865e-10 of 5.95027e-11 at 3.58863e-11 we 2.99453e-11 but 5.95709e-13 if 7.73184e-14 did 3.02701e-15
+align 7 </s> 1

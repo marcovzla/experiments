@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 is 0.544216 yes 0.386171 this 0.0365405 it's 0.0220344 if 0.0101041 its 0.000934085
+align 2 this 1
+align 3 area 0.996301 area's 0.00369586 areas 3.26027e-06
+align 4 is 0.635574 *DELETE* 0.360048 as 0.00409744 a 0.000228418 it's 3.58829e-05 of 1.5926e-05 i 3.64789e-17 uh 6.65558e-27 in 5.82081e-27
+align 5 safe 0.999952 unsafe 2.37988e-05 saif 1.38417e-05 safer 1.03299e-05
+align 6 *DELETE* 1 i 9.84637e-25
+align 7 </s> 1

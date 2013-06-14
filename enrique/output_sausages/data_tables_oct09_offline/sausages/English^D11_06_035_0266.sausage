@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 and 0.996178 *DELETE* 0.00382197
+align 2 out 0.996178 now 0.00380867 no 1.32911e-05
+align 3 of 0.996118 uh 0.00388216 i 2.01556e-09
+align 4 *DELETE* 1 know 2.01556e-09
+align 5 *DELETE* 1 of 2.01556e-09
+align 6 the 0.980098 a 0.017124 let 0.00237911 *DELETE* 0.000398525
+align 7 start 0.982859 *DELETE* 0.0151924 sorrow 0.00127027 assault 0.000392881 solve 0.000279416 lesser 5.63771e-06 us 5.73846e-09
+align 8 off 0.936245 office 0.0267929 of 0.0215869 sahrab 0.0124319 sallal 0.00276056 officer 0.000123455 all 5.76482e-05 *DELETE* 6.1869e-08 are 5.73846e-09
+align 9 slow 0.966338 a 0.0239923 low 0.00690689 slope 0.00256065 though 0.000123455 so 7.61338e-05 also 2.12482e-06 no 7.55941e-08
+align 10 *DELETE* 0.976008 slow 0.0238923 slope 0.000100017
+align 11 </s> 1

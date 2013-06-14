@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that's 1
+align 3 good 1
+align 4 to 1
+align 5 know 1
+align 6 well 0.987739 uh 0.0090867 all 0.00317465
+align 7 *DELETE* 0.999901 uh 9.75862e-05 i 1.65593e-06
+align 8 i'll 0.999983 all 1.10242e-05 oh 5.40551e-06 uh 7.57871e-09 *DELETE* 6.59138e-10
+align 9 pass 1
+align 10 it 1
+align 11 on 1
+align 12 to 1
+align 13 the 1
+align 14 e._o._d. 1
+align 15 team 1
+align 16 *DELETE* 0.999993 i 5.33094e-06 uh 7.5313e-07 a 4.21772e-07
+align 17 </s> 1

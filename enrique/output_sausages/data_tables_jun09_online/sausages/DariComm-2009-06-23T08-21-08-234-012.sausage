@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 stand 1
+align 3 in 1
+align 4 front 1
+align 5 of 1
+align 6 the 0.999994 a 5.98552e-06
+align 7 car 1
+align 8 *DELETE* 0.999858 uh 0.000109101 is 1.69673e-05 in 1.30877e-05 i 2.66918e-06 you 2.70334e-11
+align 9 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i'd 1
+align 2 be 1
+align 3 more 1
+align 4 than 1
+align 5 happy 1
+align 6 to 1
+align 7 compensate 1
+align 8 for 1
+align 9 their 0.876798 the 0.0608841 there 0.0404628 they're 0.0218548
+align 10 move 0.912717 moves 0.0800654 moved 0.00721739 *DELETE* 1.73408e-09
+align 11 *DELETE* 0.999819 i 8.73677e-05 it 5.90376e-05 a 2.23641e-05 in 1.11267e-05 to 3.70759e-07 remove 3.23878e-07
+align 12 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 talk 1
+align 5 about 1
+align 6 with 0.827754 what 0.157008 would 0.0152379
+align 7 the 0.993194 this 0.00463043 they 0.00169113 a 0.000465653 your 1.85072e-05 that 9.86589e-08 to 4.50017e-14 their 4.23999e-15
+align 8 sheikh's 0.994753 cheeks 0.00406015 sheikhs 0.00118696
+align 9 *DELETE* 0.999107 uh 0.000693092 in 0.000198915 a 5.98309e-07 and 3.01484e-09 is 4.33299e-13 of 4.17651e-14
+align 10 </s> 1

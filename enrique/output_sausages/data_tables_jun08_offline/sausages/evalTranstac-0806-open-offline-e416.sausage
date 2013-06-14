@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 uh 1
+align 4 my 1
+align 5 name's 0.959395 name 0.0406053
+align 6 *DELETE* 0.959395 is 0.0406053
+align 7 captain 1
+align 8 lee 1
+align 9 i'm 0.970437 um 0.0246719 uh 0.00310743 i 0.0017836
+align 10 *DELETE* 0.995109 i'm 0.00489103
+align 11 here 1
+align 12 to 1
+align 13 uh 1
+align 14 *DELETE* 0.909539 uh 0.0883078 a 0.0021528
+align 15 coordinate 1
+align 16 the 0.885498 uh 0.114502
+align 17 this 0.893221 uh 0.106779
+align 18 *DELETE* 0.87738 this 0.106779 uh 0.0158413
+align 19 a 0.6916 uh 0.3084
+align 20 *DELETE* 0.994894 a 0.00510594
+align 21 possible 1
+align 22 rate 0.633374 ready 0.354198 rainy 0.0124281
+align 23 that 0.968122 the 0.0194496 day 0.0124281
+align 24 you're 0.998031 your 0.00196863
+align 25 thinking 1
+align 26 about 1
+align 27 doing 0.829018 *DELETE* 0.0885983 you 0.0298938 it 0.0297238 them 0.0143075 me 0.00377816 daily 0.00302583 do 0.00101298 two 0.000526878 dealing 0.000113155 him 1.27921e-06 uh 3.82601e-08 to 9.36909e-10 in 1.55594e-10
+align 28 *DELETE* 0.999999 a 7.5532e-07
+align 29 </s> 1

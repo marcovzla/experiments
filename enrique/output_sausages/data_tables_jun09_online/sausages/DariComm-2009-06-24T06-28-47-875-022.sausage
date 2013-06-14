@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 was 0.999691 wish 0.000308562
+align 3 told 0.999779 so 0.000220781
+align 4 that 1
+align 5 this 1
+align 6 hospital 1
+align 7 is 0.970967 as 0.0172996 it's 0.0117338
+align 8 taghreeb 0.557272 target 0.427598 *DELETE* 0.01485 taghlub 0.000280004
+align 9 by 0.510275 *DELETE* 0.200751 i've 0.129646 are 0.110209 i 0.0282062 bayd 0.0177546 'bayd 0.00154959 bite 0.000778224 odd 0.000385557 bad 0.000321267 buy 7.39008e-05 bait 3.33942e-05 out 1.02087e-05 eye 6.74671e-06
+align 10 *DELETE* 0.362828 a 0.353254 taught 0.269058 talking 0.01485 thought 1.07421e-05
+align 11 *DELETE* 0.503378 about 0.283918 bar 0.0972352 bayd 0.0602625 taught 0.0268021 bite 0.0265339 i'd 0.00186969
+align 12 *DELETE* 0.984656 taught 0.0153439
+align 13 *DELETE* 0.984645 about 0.0153555
+align 14 talaban 0.664913 *DELETE* 0.16069 an 0.0790042 and 0.0683911 taught 0.0238725 about 0.0019295 in 0.00119982
+align 15 *DELETE* 0.949068 about 0.0487336 in 0.0021983
+align 16 *DELETE* 0.817404 in 0.115352 on 0.0225634 and 0.0149882 an 0.010148 it 0.00608071 i'm 0.00530824 a 0.00433032 um 0.00249166 him 0.00133293
+align 17 fighters 0.994912 fires 0.00508755 *DELETE* 1.8252e-30
+align 18 *DELETE* 0.999992 uh 4.09876e-06 do 3.42548e-06 in 2.67802e-07 i 1.14741e-07 and 6.00551e-08 that 1.30273e-08 it 2.81952e-09 you 2.13192e-09 to 2.63242e-12 at 7.30068e-14 fire's 1.41721e-17
+align 19 </s> 1

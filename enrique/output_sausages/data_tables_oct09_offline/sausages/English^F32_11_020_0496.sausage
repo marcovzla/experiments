@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 and 0.89385 then 0.101994 *DELETE* 0.00414882 in 6.62694e-06
+align 3 did 0.995848 ended 0.00414882 that 3.10347e-06 it 1.42276e-08
+align 4 uh 1
+align 5 do 0.913986 they 0.0585306 the 0.027483
+align 6 your 0.996055 you're 0.00341357 are 0.000505315 hear 2.64756e-05
+align 7 intelligence 1
+align 8 taught 0.963163 tell 0.0158566 i 0.0135002 tight 0.00748012
+align 9 *DELETE* 0.984011 you 0.0159895
+align 10 how 1
+align 11 they 0.987615 the 0.0123851
+align 12 gonna 1
+align 13 blow 0.999956 go 4.31653e-05 both 5.24247e-07
+align 14 it 0.997859 *DELETE* 0.00206504 up 7.56721e-05 the 6.55836e-09 at 8.13781e-10
+align 15 up 0.999986 about 1.42198e-05
+align 16 </s> 1

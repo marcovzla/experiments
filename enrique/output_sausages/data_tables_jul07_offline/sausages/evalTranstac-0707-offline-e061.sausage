@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 you 1
+align 4 let 0.99095 *DELETE* 0.00905024
+align 5 us 0.985784 lettuce 0.00558327 it 0.00516593 leota 0.00173348 leta 0.00173348
+align 6 stay 1
+align 7 here 1
+align 8 the 1
+align 9 night 1
+align 10 yeah 1
+align 11 you 1
+align 12 move 1
+align 13 your 0.999444 you 0.000556417
+align 14 family 1
+align 15 i 0.59247 i'll 0.40753
+align 16 give 1
+align 17 you 1
+align 18 fifty 1
+align 19 dollars 1
+align 20 and 1
+align 21 i 0.998843 uh 0.000983975 a 0.000172709 they 6.35598e-07
+align 22 like 0.930746 let 0.0692536
+align 23 to 0.931172 you 0.0688281
+align 24 keep 1
+align 25 the 0.999356 a 0.000642542 you 9.90732e-07
+align 26 weapon 0.998997 weapons 0.00100257
+align 27 *DELETE* 0.998626 uh 0.00137297 in 1.17367e-06 to 3.50503e-07
+align 28 </s> 1

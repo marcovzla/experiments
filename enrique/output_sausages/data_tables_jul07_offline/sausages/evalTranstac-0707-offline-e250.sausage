@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 uh 0.986826 that 0.0131738
+align 2 you 1
+align 3 need 0.842551 you 0.154616 *DELETE* 0.00283289
+align 4 *DELETE* 0.998263 do 0.00120913 eat 0.000511614 you 1.59937e-05
+align 5 your 1
+align 6 brother 1
+align 7 will 0.744329 we'll 0.254637 why 0.0010343
+align 8 have 1
+align 9 to 1
+align 10 prove 1
+align 11 uh 1
+align 12 come 0.98082 *DELETE* 0.0191797
+align 13 with 0.98082 coming 0.0191797
+align 14 proof 1
+align 15 that 1
+align 16 in 0.942359 it 0.0456287 at 0.00373747 end 0.00307624 and 0.00243446 into 0.00171258 any 0.000986113 even 6.58928e-05
+align 17 *DELETE* 0.964913 is 0.0350869
+align 18 his 0.964704 it 0.0325856 *DELETE* 0.00250843 has 0.000202231
+align 19 is 0.975407 it 0.0245926
+align 20 *DELETE* 0.9754 is 0.0245998
+align 21 his 1
+align 22 weapon 1
+align 23 and 1
+align 24 how 0.998685 have 0.00131539
+align 25 to 1
+align 26 do 0.960643 be 0.039357
+align 27 that 1
+align 28 the 0.749053 to 0.246795 this 0.00311834 a 0.00102948 that 3.37807e-06
+align 29 cmoc 1
+align 30 *DELETE* 0.999996 uh 3.42913e-06 i 9.32102e-08
+align 31 </s> 1

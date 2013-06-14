@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 did 0.997911 and 0.00109051 do 0.000998689
+align 2 you 1
+align 3 find 1
+align 4 any 1
+align 5 explosives 0.999965 *DELETE* 3.49861e-05
+align 6 *DELETE* 0.999241 uh 0.000545107 i 0.000104729 in 6.83582e-05 explosive 3.49861e-05 or 3.71621e-06 and 2.0786e-06 um 1.76876e-08 the 2.43602e-10 to 1.69626e-10 you 3.31843e-11
+align 7 </s> 1

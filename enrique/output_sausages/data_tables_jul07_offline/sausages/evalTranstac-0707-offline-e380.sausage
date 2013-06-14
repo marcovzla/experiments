@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 it's 0.500545 *DELETE* 0.424242 if 0.0438853 uh 0.0313281
+align 2 it's 1
+align 3 not 1
+align 4 a 1
+align 5 matter 1
+align 6 of 1
+align 7 which 1
+align 8 weapon 1
+align 9 you 1
+align 10 have 1
+align 11 *DELETE* 1 a 4.92414e-12 uh 3.49352e-12
+align 12 </s> 1

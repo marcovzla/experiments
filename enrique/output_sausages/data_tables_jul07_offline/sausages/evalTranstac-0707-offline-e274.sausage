@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 allow 0.976551 allowed 0.023449
+align 2 that 1
+align 3 car 1
+align 4 in 0.646993 and 0.352878 on 0.000128515
+align 5 that 1
+align 6 car 1
+align 7 *DELETE* 0.70483 i 0.29517
+align 8 only 1
+align 9 into 1
+align 10 the 1
+align 11 checkpoint 1
+align 12 and 1
+align 13 make 0.94332 makes 0.0566799
+align 14 sure 0.94332 a 0.0566799
+align 15 the 1
+align 16 barrier 1
+align 17 close 0.638771 closes 0.318812 clothes 0.0200444 *DELETE* 0.0165666 closest 0.00580569
+align 18 is 0.38515 *DELETE* 0.38003 it 0.234678 it's 0.000140379 as 1.64042e-06
+align 19 again 0.588067 going 0.229592 *DELETE* 0.0805818 yeah 0.0631128 as 0.0216034 closed 0.0165666 it 0.00043191 if 2.43816e-05 isn't 1.16156e-05 it's 4.72498e-06 iz 2.3064e-06 the 6.87573e-07
+align 20 *DELETE* 0.887322 yet 0.0728805 yeah 0.00678169 in 0.00639765 good 0.00531366 gone 0.00472617 got 0.00437116 at 0.0040252 guy 0.00187643 uh 0.00133499 get 0.000791061 now 0.000663865 gun 0.000636933 that 0.000550537 you 0.0004882 yep 0.000408075 him 0.000398022 go 0.000345355 jan 0.000287964 going 0.000236309 up 0.00016455
+align 21 *DELETE* 0.999147 god 0.000230736 down 0.000120647 gas 5.91918e-05 there 5.26008e-05 jet 3.48539e-05 him 3.17483e-05 area 3.17397e-05 gonna 2.87801e-05 bent 2.75427e-05 at 2.61887e-05 guys 2.25843e-05 a 2.21858e-05 guide 2.1059e-05 against 2.02169e-05 event 1.58389e-05 to 1.54003e-05 gap 1.36549e-05 i 1.23582e-05 ago 1.20377e-05 okay 8.38405e-06 them 7.61062e-06 gown 6.74149e-06 an 5.62066e-06 gosh 4.65526e-06 guess 4.37655e-06 and 3.34562e-06 uh 2.67025e-06 yes 2.62398e-06 been 2.33699e-06 then 1.95876e-06 guns 1.87022e-06 in 5.19013e-07 um 3.4246e-07 gotten 2.31792e-07 dent 1.54502e-07 if 1.11015e-07 can 7.96921e-12 it 7.28615e-12 be 7.84069e-13 the 1.84723e-13 we 1.18275e-15 gat 9.52558e-16 give 2.09837e-17
+align 22 </s> 1

@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 how 1
+align 3 did 1
+align 4 he 1
+align 5 tell 1
+align 6 you 1
+align 7 to 0.53794 *DELETE* 0.460585 you 0.00147496
+align 8 get 1
+align 9 in 1
+align 10 touch 1
+align 11 with 1
+align 12 you 0.657635 the 0.302559 a 0.0398057
+align 13 guys 0.940468 guy 0.0565758 guy's 0.00280037 guide 0.00015627
+align 14 he 0.920329 feet 0.0388938 feed 0.00995272 you 0.00958734 heat 0.00948083 i 0.00446734 feud 0.00446487 he'd 0.0019792 few 0.000438188 eat 0.000350947 if 5.57332e-05
+align 15 *DELETE* 0.995477 feed 0.00334419 feet 0.00112295 you 5.57332e-05 few 2.03694e-07
+align 16 didn't 0.917865 and 0.0656479 then 0.0125456 in 0.00394161
+align 17 bring 1
+align 18 the 1
+align 19 car 0.99995 qar 5.03615e-05
+align 20 back 0.999937 bak 6.07399e-05 *DELETE* 8.737e-10
+align 21 *DELETE* 0.999973 i 9.58423e-06 uh 8.07052e-06 to 3.87958e-06 baak 2.47938e-06 in 2.05633e-06 if 1.17759e-06
+align 22 </s> 1

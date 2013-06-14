@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 0.999606 they 0.000393749
+align 3 any 1
+align 4 carpenters 0.864016 carpenter's 0.135984
+align 5 in 0.998328 and 0.00167156
+align 6 the 0.998669 a 0.00133117
+align 7 village 1
+align 8 that 1
+align 9 can 1
+align 10 help 0.998017 *DELETE* 0.0019831
+align 11 *DELETE* 0.984423 you 0.0108558 happen 0.00197803 me 0.00101262 uh 0.00097596 with 0.000227855 them 0.00013948 us 0.000118956 it 0.000109537 him 9.03849e-05 to 4.24224e-05 out 1.40993e-05 at 5.43111e-06 have 4.35862e-06 i 1.35729e-06 how 7.11238e-07 if 1.61659e-07 in 2.22264e-09 the 1.67333e-10 that 6.89918e-17 a 3.71057e-17 and 4.55933e-21
+align 12 *DELETE* 1 it 2.22061e-13
+align 13 </s> 1

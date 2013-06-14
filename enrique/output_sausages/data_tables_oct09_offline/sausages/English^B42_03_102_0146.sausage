@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 like 1
+align 6 uh 0.901986 a 0.0980143
+align 7 *DELETE* 0.901986 uh 0.0980143
+align 8 how 0.980216 *DELETE* 0.0197837
+align 9 how 1
+align 10 much 0.976813 *DELETE* 0.0231873
+align 11 like 0.976813 metallic 0.0231873
+align 12 trista 0.780725 this 0.195593 to 0.0230213 crissy 0.000252245 chrissy 0.000201808 krissy 0.000199778 us 6.5516e-06
+align 13 *DELETE* 0.781379 or 0.195593 see 0.0216844 say 0.00133691 to 6.5516e-06
+align 14 do 1
+align 15 you 1
+align 16 have 1
+align 17 per 1
+align 18 day 1
+align 19 </s> 1

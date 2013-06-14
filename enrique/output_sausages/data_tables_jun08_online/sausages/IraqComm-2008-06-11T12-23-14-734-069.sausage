@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 0.997215 *DELETE* 0.00278493
+align 3 they 0.573158 you 0.311377 *DELETE* 0.111389 other 0.00262046 these 0.000757109 your 0.000534796 i'm 0.000164465
+align 4 specific 0.995383 pacific 0.00461735
+align 5 security 1
+align 6 measures 1
+align 7 *DELETE* 0.999785 in 0.000153091 are 6.14595e-05 and 7.27791e-09 of 2.46065e-14
+align 8 </s> 1

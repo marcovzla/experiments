@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 and 1
+align 3 you 1
+align 4 said 1
+align 5 three 1
+align 6 days 1
+align 7 ago 1
+align 8 this 1
+align 9 took 1
+align 10 place 1
+align 11 was 0.998791 with 0.00120929
+align 12 that 0.794063 at 0.205937
+align 13 daytime 1
+align 14 or 1
+align 15 night-time 1
+align 16 *DELETE* 0.999994 i 5.58113e-06
+align 17 </s> 1

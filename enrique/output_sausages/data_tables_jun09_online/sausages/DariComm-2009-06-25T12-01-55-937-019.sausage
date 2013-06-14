@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 it 0.970265 *DELETE* 0.0296481 he 8.68422e-05
+align 2 is 0.952161 it's 0.0476078 has 0.000231469
+align 3 good 1
+align 4 to 1
+align 5 meet 1
+align 6 your 0.997962 you 0.00172011 you're 0.000318132
+align 7 lieutenants 0.997758 lieutenant 0.00182464 tenants 0.000366494 are 5.10398e-05
+align 8 *DELETE* 0.999543 uh 0.00013801 i 0.000121808 um 5.98183e-05 lieutenants 5.10398e-05 to 4.77715e-05 and 1.65576e-05 it 1.07869e-05 do 5.85627e-06 a 4.08978e-06 in 7.14097e-07 if 5.10662e-07 two 2.01981e-07 we 2.43765e-08 the 1.4435e-08 is 3.1622e-13
+align 9 </s> 1

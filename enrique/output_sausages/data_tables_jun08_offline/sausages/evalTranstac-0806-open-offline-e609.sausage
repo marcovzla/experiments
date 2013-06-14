@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 and 0.982481 in 0.0175191
+align 2 that 1
+align 3 to 0.845924 the 0.123642 *DELETE* 0.0304335
+align 4 confirms 0.714558 confirm 0.28031 confirmed 0.00513289
+align 5 the 0.707307 see 0.212533 c 0.0442183 sea 0.0293547 he 0.00658673 seat 7.99507e-07
+align 6 intelligence 1
+align 7 report 1
+align 8 that 0.99361 *DELETE* 0.00344566 then 0.00294409
+align 9 i 0.989633 *DELETE* 0.00692896 the 0.00343796
+align 10 *DELETE* 0.998847 i 0.00114549 them 7.70115e-06
+align 11 received 1
+align 12 as 0.999234 is 0.000765683
+align 13 well 1
+align 14 </s> 1

@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 an 1
+align 4 iraqi 1
+align 5 law 0.969728 *DELETE* 0.0302717
+align 6 and 0.803641 in 0.166087 line 0.0302717
+align 7 you 1
+align 8 should 1
+align 9 uh 0.991537 um 0.00840755 they 5.50451e-05
+align 10 uh 0.827808 *DELETE* 0.17131 i 0.000827393 are 5.50451e-05
+align 11 bring 0.973364 make 0.0250163 made 0.00127926 bringing 0.000340276
+align 12 it 0.574438 *DELETE* 0.425562
+align 13 up 1
+align 14 to 0.999941 *DELETE* 5.91353e-05
+align 15 your 0.609773 you 0.388902 year 0.000617409 you're 0.000598222 *DELETE* 0.000109557
+align 16 elected 0.66847 like 0.330573 luck 0.000953888 are 3.42891e-06
+align 17 *DELETE* 0.999997 like 3.42891e-06
+align 18 *DELETE* 0.66847 that 0.312405 the 0.0191255
+align 19 official 0.532154 officials 0.467846
+align 20 if 0.99307 that 0.00580991 of 0.000566117 to 0.000554116
+align 21 you 0.999452 be 0.000542794 he 5.47235e-06
+align 22 do 1
+align 23 not 1
+align 24 like 1
+align 25 it 0.989035 that 0.010719 if 0.000175803 at 5.00091e-05 this 1.96985e-05 *DELETE* 1.67984e-09
+align 26 *DELETE* 0.999992 is 6.03925e-06 if 1.31286e-06 it's 9.4339e-07 i 5.98101e-08 you 9.28628e-10
+align 27 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 those 0.937016 this 0.0448428 there's 0.0179928 that's 0.00014813
+align 2 procedures 1
+align 3 that 0.979634 they 0.0105207 what 0.00539455 it 0.00342207 are 0.000929304 we 5.07912e-05 at 4.87052e-05
+align 4 we're 0.613991 were 0.386009
+align 5 used 1
+align 6 to 0.806603 where 0.126628 were 0.0497223 or 0.0170474
+align 7 work 0.447768 wear 0.345005 *DELETE* 0.193397 where 0.0113065 or 0.00252383
+align 8 for 0.999956 four 4.40047e-05
+align 9 everybody's 0.999231 everybody 0.000769173
+align 10 *DELETE* 0.999381 to 0.000517396 is 0.000101777 a 4.94934e-12
+align 11 safety 1
+align 12 *DELETE* 0.99999 uh 8.15873e-06 i 1.61859e-06 is 2.10842e-13
+align 13 </s> 1

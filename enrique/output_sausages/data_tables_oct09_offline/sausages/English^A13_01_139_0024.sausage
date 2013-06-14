@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 once 0.592086 ones 0.255396 one's 0.152518
+align 2 come 1
+align 3 up 0.754598 out 0.239766 i'm 0.00456902 um 0.00057095 uh 0.000496456
+align 4 please 0.996858 *DELETE* 0.001346 these 0.000898939 pleased 0.000897283
+align 5 do 0.416733 you 0.265655 be 0.194144 leave 0.10982 we 0.00483273 give 0.0038788 view 0.00204011 easy 0.00112161 if 0.000930586 to 0.000619031 easily 0.000224397 *DELETE* 1.35759e-13
+align 6 *DELETE* 0.999967 you 3.3411e-05
+align 7 the 1
+align 8 door 0.999947 *DELETE* 5.30492e-05
+align 9 the 0.999947 border 5.30492e-05
+align 10 *DELETE* 1 border 3.28762e-11
+align 11 driver 1
+align 12 door 0.98281 *DELETE* 0.0171899
+align 13 open 0.998934 opened 0.00106487 opens 1.12117e-06
+align 14 please 0.959621 keys 0.0340826 pleas 0.00379887 trees 0.00137716 pleased 0.000657611 queues 0.000178852 case 0.000136831 police 5.97252e-05 piece 2.89371e-05 she's 1.55415e-05 he's 9.78451e-06 place 7.87022e-06 teas 7.76717e-06 these 6.41335e-06 tease 5.65872e-06 qais 2.26565e-06 peas 1.55766e-06 peace 1.18493e-06
+align 15 </s> 1

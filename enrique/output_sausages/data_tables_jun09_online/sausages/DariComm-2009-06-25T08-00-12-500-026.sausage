@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 to 1
+align 6 use 1
+align 7 this 0.998744 the 0.00125634
+align 8 i._v. 0.990022 i._d. 0.00396038 side 0.00367443 *DELETE* 0.0022534 i've 8.53362e-05 i 4.26259e-06
+align 9 *DELETE* 0.99174 the 0.00318604 ivy 0.0011267 ivey 0.0011267 uh 0.000611395 they 0.000607239 i 0.000563234 you 0.000376576 he 0.000253963 a 0.000220261 e 6.317e-05 in 5.58544e-05 is 1.81705e-05 if 1.49401e-05 it 1.16224e-05 and 1.10432e-05 here 9.49523e-06 um 2.89073e-06 eat 2.42439e-07 we 2.05616e-08 to 1.26713e-08 him 9.4385e-09 do 4.32467e-11 me 4.95742e-13 be 2.81997e-19
+align 10 </s> 1

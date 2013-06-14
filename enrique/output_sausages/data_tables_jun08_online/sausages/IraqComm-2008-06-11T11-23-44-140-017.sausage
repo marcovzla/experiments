@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 sick 0.946412 *DELETE* 0.053588
+align 4 tell 0.755946 *DELETE* 0.244054
+align 5 them 0.399719 him 0.356043 jillian 0.114994 jovan 0.0754717 *DELETE* 0.0414331 secured 0.0121549 when 0.000183699
+align 6 do 0.922957 security 0.0414331 to 0.0234546 and 0.0121549 indeed 5.71485e-22
+align 7 you 0.801696 *DELETE* 0.198304
+align 8 have 1
+align 9 *DELETE* 0.999645 a 0.000221254 uh 0.000133443
+align 10 </s> 1

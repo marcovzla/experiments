@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 0.999987 *DELETE* 1.32544e-05
+align 2 are 0.999987 how're 1.32544e-05
+align 3 you 1
+align 4 doing 1
+align 5 today 1
+align 6 *DELETE* 0.998433 uh 0.00140451 sir 0.000162842 i 5.66155e-09
+align 7 </s> 1

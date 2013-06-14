@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 today 1
+align 3 i'll 0.996177 all 0.00382297
+align 4 go 1
+align 5 all 0.452814 uh 0.214703 up 0.139411 *DELETE* 0.138062 out 0.0550089
+align 6 *DELETE* 0.98513 uh 0.0148702
+align 7 up 0.579305 *DELETE* 0.178666 all 0.11271 uh 0.0932275 old 0.0192389 of 0.0168529
+align 8 *DELETE* 0.754808 of 0.156075 up 0.0690205 all 0.0200965
+align 9 *DELETE* 0.979903 of 0.0200965
+align 10 me 0.999937 mean 4.80736e-05 many 1.51692e-05
+align 11 and 0.918349 *DELETE* 0.0804806 in 0.0011704
+align 12 my 1
+align 13 men 1
+align 14 will 1
+align 15 go 1
+align 16 ahead 1
+align 17 and 0.989545 in 0.0104548
+align 18 go 1
+align 19 out 1
+align 20 with 1
+align 21 you 1
+align 22 and 1
+align 23 uh 1
+align 24 *DELETE* 0.998997 uh 0.000965449 if 3.73476e-05
+align 25 we'll 0.910196 i 0.085398 *DELETE* 0.00440558
+align 26 *DELETE* 0.910196 will 0.0898035
+align 27 show 1
+align 28 you 1
+align 29 the 1
+align 30 proper 1
+align 31 ways 1 weighs 3.4961e-12
+align 32 to 0.999393 the 0.000533193 a 7.38128e-05
+align 33 set 1
+align 34 up 1
+align 35 a 0.99211 of 0.00612745 uh 0.00126828 but 0.000493782
+align 36 v._c._p. 1
+align 37 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 happened 1
+align 3 to 1
+align 4 your 1
+align 5 leg 1
+align 6 do 1
+align 7 you 1
+align 8 need 1
+align 9 assistance 0.997077 assistants 0.00292306
+align 10 *DELETE* 0.988796 in 0.00646446 uh 0.00391617 with 0.000462571 i 0.000214352 to 0.000101806 you 3.47319e-05 that 4.75128e-06 if 3.01245e-06 the 1.64741e-06 do 8.9736e-09 it 3.98078e-10 at 3.71922e-10 did 2.01881e-11 but 2.10759e-12 so 1.95374e-14
+align 11 </s> 1

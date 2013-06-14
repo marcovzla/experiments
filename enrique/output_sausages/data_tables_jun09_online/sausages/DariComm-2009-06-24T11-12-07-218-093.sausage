@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 could 1
+align 3 probably 1
+align 4 land 0.911383 lend 0.0865836 len 0.00203357
+align 5 twelve 1
+align 6 people 1
+align 7 to 1
+align 8 help 1
+align 9 out 0.999767 *DELETE* 0.000232752
+align 10 *DELETE* 0.992202 uh 0.00714967 of 0.000166489 i'll 8.74372e-05 if 7.52491e-05 our 7.32646e-05 to 6.16835e-05 all 4.43939e-05 the 3.99678e-05 in 3.0276e-05 a 1.59711e-05 you 1.43583e-05 i 1.31229e-05 with 1.21497e-05 and 1.2001e-05 it 1.34718e-06 there 6.09346e-07 do 2.46996e-08 is 2.16506e-08
+align 11 </s> 1

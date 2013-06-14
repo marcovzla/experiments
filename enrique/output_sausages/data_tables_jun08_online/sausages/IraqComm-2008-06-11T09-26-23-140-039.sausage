@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999733 i 0.000174821 you 9.26453e-05
+align 2 can 1
+align 3 you 1
+align 4 please 1
+align 5 refer 0.994835 *DELETE* 0.00516517
+align 6 this 0.418847 as 0.319149 is 0.230174 it's 0.0266242 refresh 0.00516517 its 4.10067e-05
+align 7 what 0.904712 way 0.0720308 where 0.0108081 were 0.00919731 will 0.0012803 well 0.00123282 we're 0.000738567
+align 8 you 0.99994 you're 5.96061e-05 your 4.81901e-08
+align 9 just 1 to 2.26766e-21
+align 10 said 1
+align 11 *DELETE* 0.999862 it 0.000138448 uh 7.42299e-11 i 6.00197e-11
+align 12 </s> 1

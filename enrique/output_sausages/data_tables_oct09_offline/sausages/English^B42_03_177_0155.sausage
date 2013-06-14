@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 you 0.447017 that 0.298003 do 0.207148 *DELETE* 0.0297768 get 0.00779028 it 0.00401277 if 0.00333879 he 0.00291313
+align 2 you 0.978958 *DELETE* 0.0210421
+align 3 *DELETE* 0.998122 you 0.0018781
+align 4 mentioned 1
+align 5 earlier 1
+align 6 *DELETE* 0.995904 are 0.0040957
+align 7 that 1
+align 8 you 1
+align 9 have 1
+align 10 uh 0.89099 um 0.10901
+align 11 *DELETE* 0.941046 uh 0.0589538
+align 12 you 0.98324 he 0.0167598
+align 13 can't 1
+align 14 store 1
+align 15 any 0.999108 in 0.000891594
+align 16 *DELETE* 0.999108 a 0.000863515 need 2.80791e-05
+align 17 drugs 1
+align 18 are 0.874978 or 0.124978 our 2.77229e-05 it 1.44446e-05 you're 1.51981e-06 your 5.01756e-07
+align 19 require 0.773182 required 0.226818
+align 20 *DELETE* 0.961087 a 0.0389132
+align 21 cold 0.990678 called 0.0093083 colds 1.35538e-05
+align 22 storage 1
+align 23 *DELETE* 0.999982 i 1.39588e-05 uh 3.68952e-06 a 5.40091e-07 it 2.08142e-08
+align 24 </s> 1

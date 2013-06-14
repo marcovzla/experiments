@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 first 1
+align 3 is 1
+align 4 airway 0.9934 air 0.00382654 a 0.00277307
+align 5 *DELETE* 0.9934 way 0.00353655 airway 0.00277307 weigh 0.000289985
+align 6 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 when 0.999931 one 6.93829e-05
+align 2 we 1
+align 3 build 1
+align 4 the 0.66656 a 0.33344
+align 5 hospital 1
+align 6 will 0.850584 we'll 0.140873 well 0.00689626 or 0.00148254 for 0.000154549 low 9.45351e-06
+align 7 *DELETE* 0.999792 all 0.000207939
+align 8 have 0.98095 off 0.0190502
+align 9 to 1
+align 10 hire 1
+align 11 some 1
+align 12 doctors 1
+align 13 as 0.568423 bus 0.281701 those 0.139179 *DELETE* 0.0053002 let's 0.00363954 that's 0.00175701
+align 14 will 0.704453 well 0.284816 *DELETE* 0.0051617 we'll 0.00354816 what 0.00151203 must 0.000290333 that 0.000203628 is 1.47702e-05 was 2.43095e-08 less 7.94608e-11 does 1.50911e-14
+align 15 you 0.984998 he 0.00933193 mostly 0.00479145 way 0.000536021 weigh 0.000342986
+align 16 get 1 gets 1.13172e-11
+align 17 your 0.991082 you 0.00622184 for 0.00175757 *DELETE* 0.000908075 from 2.82637e-05 him 1.88036e-06 them 1.40835e-09 or 1.13172e-11 a 8.61034e-16 you're 1.20002e-25
+align 18 money 1
+align 19 *DELETE* 0.999999 to 7.70518e-07 uh 3.03254e-07 i 5.78728e-14
+align 20 </s> 1

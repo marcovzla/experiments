@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 do 0.864162 did 0.130106 that 0.00573149
+align 5 they 1
+align 6 see 0.985155 seek 0.0101772 sea 0.00312361 *DELETE* 0.00154389
+align 7 *DELETE* 0.992731 you 0.00316951 uh 0.00185274 c 0.00154389 a 0.000520103 it 0.000122031 i 6.01704e-05 the 3.80414e-07 if 1.67603e-10
+align 8 </s> 1

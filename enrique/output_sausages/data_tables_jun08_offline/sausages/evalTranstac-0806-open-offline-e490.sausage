@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 is 1
+align 3 very 1
+align 4 important 1
+align 5 at 0.582853 that 0.416011 uh 0.00113614
+align 6 this 1
+align 7 mission 1
+align 8 remain 0.898398 remains 0.100653 remained 0.000949303
+align 9 secret 1 seek 4.7271e-07
+align 10 *DELETE* 1 right 4.01713e-07 or 5.36751e-08
+align 11 *DELETE* 1 it 5.36751e-08 right 1.7322e-08
+align 12 </s> 1

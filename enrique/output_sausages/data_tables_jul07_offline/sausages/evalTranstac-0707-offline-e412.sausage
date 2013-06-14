@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 people 1
+align 2 over 0.99999 are 8.95565e-06 all 6.02365e-07
+align 3 and 0.811141 then 0.17787 in 0.00499497 than 0.00307034 *DELETE* 0.00235956 them 0.000317414 an 0.00024582
+align 4 you 0.99764 *DELETE* 0.00235956
+align 5 bring 0.978266 bringing 0.0193741 *DELETE* 0.00235896 over 6.02365e-07
+align 6 *DELETE* 0.990228 in 0.0097725
+align 7 the 0.933378 in 0.11007
+align 8 *DELETE* 0.99764 new 0.00235956
+align 9 *DELETE* 0.99764 bringing 0.00142585 bring 0.000933712
+align 10 *DELETE* 0.999767 in 0.000233179
+align 11 *DELETE* 0.931019 the 0.0689811
+align 12 drugs 1
+align 13 to 0.990613 *DELETE* 0.00938687
+align 14 the 0.980911 *DELETE* 0.0153265 at 0.00356621 this 0.000184109 of 1.1734e-05
+align 15 school 1
+align 16 *DELETE* 0.999999 of 1.27081e-06
+align 17 </s> 1

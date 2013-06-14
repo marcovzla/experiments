@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 wrong 1
+align 4 with 1
+align 5 them 1
+align 6 *DELETE* 1 you 2.49961e-07 and 1.43671e-29
+align 7 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 now 1
+align 2 where 0.986351 why 0.0094389 when 0.00239674 what 0.00105768 *DELETE* 0.000755205
+align 3 did 0.950824 do 0.0481739 would 0.000755205 is 0.000247367
+align 4 you 1
+align 5 get 1
+align 6 them 1 him 2.94117e-10
+align 7 from 1
+align 8 *DELETE* 0.999998 uh 2.21162e-06
+align 9 </s> 1

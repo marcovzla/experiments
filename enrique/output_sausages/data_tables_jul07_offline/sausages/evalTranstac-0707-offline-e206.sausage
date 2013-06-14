@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 think 1
+align 3 they 0.781086 they're 0.207034 there 0.0118798
+align 4 are 0.781086 *DELETE* 0.218914
+align 5 far 1
+align 6 more 1
+align 7 skilled 0.922893 skill 0.0658901 skills 0.0112165
+align 8 *DELETE* 0.999887 uh 5.0286e-05 i 3.3571e-05 in 2.13823e-05 if 6.26596e-06 do 7.11007e-07 a 4.27339e-07 at 7.83964e-12
+align 9 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 0.997088 uh 0.00291197
+align 2 will 0.997088 we'll 0.00291197
+align 3 bring 1
+align 4 back 1
+align 5 borrow 0.600802 bottle 0.348272 by 0.0480085 bar 0.00291685
+align 6 *DELETE* 0.951991 our 0.0400758 the 0.00748047 or 0.000452235
+align 7 water 0.999593 war 0.000407257
+align 8 today 0.994732 to 0.00525789 two 1.04585e-05
+align 9 *DELETE* 0.993499 day 0.00526835 uh 0.00108567 i 0.000142583 to 3.69612e-06 you 4.62843e-07 is 6.85805e-10 do 1.55112e-10 the 9.92184e-11 i'm 1.59701e-12 um 4.05507e-13 it 1.25064e-13 in 6.61571e-14 de 2.54129e-24
+align 10 </s> 1

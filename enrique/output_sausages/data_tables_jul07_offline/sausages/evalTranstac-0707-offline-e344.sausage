@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999243 oh 0.000695938 it 4.59592e-05 in 1.49149e-05
+align 2 and 0.919881 *DELETE* 0.0801186 when 8.14857e-08
+align 3 i 0.674185 uh 0.325815
+align 4 *DELETE* 0.919881 and 0.0801185 don't 8.16476e-08
+align 5 *DELETE* 0.91879 i 0.0536931 uh 0.0275165
+align 6 *DELETE* 0.999897 i 0.000103092
+align 7 have 1
+align 8 you 0.93092 your 0.0529643 any 0.00796808 it 0.00522603 a 0.00292202
+align 9 going 0.984183 kind 0.0157789 gun 3.78101e-05
+align 10 to 0.984221 of 0.0157789
+align 11 show 1
+align 12 me 1
+align 13 uh 1
+align 14 what 1
+align 15 type 0.999937 types 6.33267e-05
+align 16 of 0.985558 a 0.0135163 the 0.000925318
+align 17 services 1
+align 18 you 1
+align 19 provide 0.945803 provided 0.0541941 providing 2.96449e-06
+align 20 *DELETE* 0.999656 in 0.0002465 a 8.27254e-05 me 1.08647e-05 to 3.26312e-06 you 7.35067e-07
+align 21 here 0.993969 hear 0.00597865 near 4.86141e-05 air 3.42798e-06
+align 22 *DELETE* 0.703175 or 0.181915 are 0.0914459 uh 0.021003 our 0.00237036 i 9.00496e-05
+align 23 </s> 1

@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 you 1
+align 3 do 1
+align 4 find 1
+align 5 something 1
+align 6 out 1
+align 7 please 1
+align 8 come 1
+align 9 back 1
+align 10 as 1
+align 11 soon 1
+align 12 as 1
+align 13 possible 1
+align 14 and 0.989401 in 0.0105995
+align 15 uh 1
+align 16 i'll 0.7642 uh 0.20024 i 0.0338083 a 0.00154169 *DELETE* 0.000209896
+align 17 pass 0.999414 i 0.000362525 *DELETE* 0.00015888 a 6.46614e-05
+align 18 *DELETE* 0.997477 the 0.00193723 pass 0.000427186 past 0.000106321 passed 3.016e-05 path 2.00141e-05 press 2.38472e-06
+align 19 information 1
+align 20 on 0.809265 onto 0.190146 i'm 0.000427388 are 0.000162171
+align 21 to 0.809854 *DELETE* 0.190146
+align 22 the 1
+align 23 investigators 0.995489 investigator's 0.00451133
+align 24 um 1
+align 25 *DELETE* 0.999973 uh 2.64386e-05 i 1.00533e-06
+align 26 </s> 1

@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 i 0.760139 i'd 0.111167 a 0.0463035 i'll 0.0449208 or 0.0318389 uh 0.00563056
+align 3 let 0.954066 like 0.0440331 lay 0.00190057
+align 4 you 1
+align 5 *DELETE* 0.963983 to 0.0360166
+align 6 keep 1
+align 7 this 1
+align 8 weapon 1
+align 9 maybe 1
+align 10 you'd 0.939219 you 0.0493437 you've 0.0114375 you're 9.81937e-17
+align 11 let 0.999974 like 2.35685e-05 lie 2.36998e-06 lied 5.56761e-08 led 2.07068e-09 glad 1.88707e-09
+align 12 us 0.999974 to 2.59981e-05
+align 13 stay 0.999641 staying 0.000358879
+align 14 here 1
+align 15 for 1
+align 16 one 1
+align 17 night 1
+align 18 *DELETE* 1 i 3.5352e-07
+align 19 </s> 1

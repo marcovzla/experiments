@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 any 1
+align 3 of 1
+align 4 your 1
+align 5 staff 1
+align 6 trained 0.891587 train 0.0560935 training 0.0397507 *DELETE* 0.0102093 to 0.0021893 the 0.000170462
+align 7 *DELETE* 0.956869 in 0.0178408 and 0.0108789 trains 0.0101716 train 0.00193742 to 0.00192064 trained 0.000382095
+align 8 *DELETE* 0.998549 in 0.00071358 and 0.00064227 training 4.02453e-05 trained 3.77155e-05 the 9.36541e-06 did 8.21803e-06
+align 9 mechanics 0.984683 mechanic's 0.015316 to 4.98899e-07
+align 10 *DELETE* 1 mechanics 4.98899e-07 uh 3.7798e-12
+align 11 </s> 1

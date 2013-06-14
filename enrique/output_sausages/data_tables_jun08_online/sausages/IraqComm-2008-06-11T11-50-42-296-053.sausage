@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 need 1
+align 3 you 1
+align 4 to 1
+align 5 exit 1
+align 6 the 1
+align 7 vehicle 1
+align 8 for 0.999969 four 3.05759e-05
+align 9 the 0.999269 this 0.000722873 that 8.35431e-06
+align 10 search 1
+align 11 *DELETE* 1 uh 2.57269e-09
+align 12 </s> 1

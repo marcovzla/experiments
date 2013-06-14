@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 three 0.529284 the 0.444701 a 0.026015
+align 2 *DELETE* 0.529284 three 0.470716
+align 3 million 1
+align 4 iraqi 1
+align 5 dinar 1
+align 6 *DELETE* 0.998276 uh 0.00171858 a 5.39226e-06
+align 7 </s> 1

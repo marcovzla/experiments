@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 your 1
+align 3 men 1
+align 4 missed 1
+align 5 work 0.999986 *DELETE* 1.38669e-05
+align 6 *DELETE* 0.99891 at 0.00107644 working 1.38669e-05
+align 7 because 1
+align 8 of 1
+align 9 bribes 0.786516 brides 0.133596 bride's 0.079888
+align 10 or 1
+align 11 threats 0.9892 threat 0.0107967 *DELETE* 3.12009e-06
+align 12 *DELETE* 0.999971 uh 2.56383e-05 threads 3.12009e-06 i 2.93224e-07 to 3.61866e-11
+align 13 </s> 1

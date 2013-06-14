@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 do 0.81775 can 0.168267 i 0.0111935 uh 0.0027895
+align 2 you 0.988807 see 0.0111935
+align 3 uh 1
+align 4 my 1
+align 5 name 1
+align 6 is 1
+align 7 uh 0.997133 of 0.0028672
+align 8 *DELETE* 0.976802 uh 0.0231976
+align 9 mister 0.981244 miss 0.018756
+align 10 day 0.509813 do 0.1884 *DELETE* 0.137397 they 0.115088 did 0.049302
+align 11 *DELETE* 0.907114 dave 0.0740112 are 0.0185832 or 0.000172734 get 0.000118703
+align 12 *DELETE* 0.964238 good 0.0181241 david 0.00880506 they 0.00348579 dig 0.00229153 we 0.00216069 know 0.000607367 do 0.000204055 give 8.32119e-05
+align 13 *DELETE* 0.999157 new 0.00077684 we 6.02271e-05 get 3.34749e-06 give 2.75904e-06
+align 14 *DELETE* 0.674489 schools 0.281924 date 0.0172955 big 0.0123812 you 0.00851463 that 0.00388747 dig 0.000820816 from 0.00028175 that's 0.000184451 we 0.000138685 know 8.25126e-05
+align 15 *DELETE* 0.997462 schools 0.00208506 that 0.00043295 from 1.95417e-05
+align 16 school 0.715787 and 0.143712 in 0.132881 *DELETE* 0.0074163 cool 0.000184451 schools 1.8665e-05
+align 17 *DELETE* 0.999981 and 1.02371e-05 in 8.4279e-06
+align 18 forces 0.939883 for 0.0396012 importance 0.00739709 force's 0.00597643 forces' 0.0047643 or 0.00167851 four 0.000654251 and 2.11005e-05 important 1.92089e-05 force 5.26484e-06
+align 19 *DELETE* 0.976928 this 0.0188634 you 0.00401676 that 0.000105219 is 3.87124e-05 forces 2.08079e-05 it 1.30097e-05 as 6.62371e-06 uh 3.3378e-06 i 2.19373e-06 if 1.17864e-06 force's 1.11449e-07 forces' 8.00773e-08 four 7.5484e-08 for 2.55933e-08 to 6.10064e-09 the 6.13065e-12
+align 20 *DELETE* 1 if 4.53174e-12
+align 21 </s> 1

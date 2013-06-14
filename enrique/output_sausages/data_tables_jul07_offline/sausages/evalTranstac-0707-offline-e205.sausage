@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 that 0.722127 *DELETE* 0.274358 and 0.00351451
+align 2 *DELETE* 0.996485 that 0.00351451
+align 3 is 0.725642 lettuce 0.274358
+align 4 for 0.992447 four 0.007553
+align 5 eight 1
+align 6 hours 1
+align 7 of 1
+align 8 work 1
+align 9 </s> 1

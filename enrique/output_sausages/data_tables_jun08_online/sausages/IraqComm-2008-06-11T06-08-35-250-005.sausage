@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i 1 oh 3.82339e-11
+align 2 like 1 i 7.63061e-19
+align 3 your 0.71918 a 0.274329 you 0.00531513 to 0.00116095 you're 1.18705e-05 you'll 2.88745e-06 could 7.62873e-19 can't 1.8854e-22 *DELETE* 9.51454e-28
+align 4 blue 0.982181 *DELETE* 0.00908807 push 0.00412971 bush 0.00132342 go 0.00121555 belief 0.000809916 believe 0.000730596 book 0.000520175 blow 1.42548e-06 bushes 3.18942e-08 bushra 1.43097e-10 bush's 1.79606e-27
+align 5 shirt 0.984367 butcher 0.00554644 it 0.00541829 *DELETE* 0.00456662 to 0.000101621 should 5.70045e-20
+align 6 *DELETE* 0.990766 it 0.00456569 bullshit 0.00354163 sure 0.000990143 shirt 0.000101589 at 3.48772e-05 and 9.58054e-09 uh 3.68878e-10 assure 1.73193e-10 bushes 7.59507e-13 a 2.93356e-13 shirts 6.01335e-17 okay 7.78465e-18 he 6.28955e-19 i 1.45147e-19 show 7.55191e-23 negotiate 3.46793e-23 shed 7.17022e-25
+align 7 *DELETE* 1 it 2.28799e-25
+align 8 </s> 1

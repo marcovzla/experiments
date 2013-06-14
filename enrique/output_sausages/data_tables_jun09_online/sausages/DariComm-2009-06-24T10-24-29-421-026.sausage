@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 hospital 1
+align 4 have 1
+align 5 the 1
+align 6 means 1
+align 7 to 1
+align 8 support 1
+align 9 his 1
+align 10 wounds 0.99487 were 0.00431615 *DELETE* 0.000471887 we're 0.000201422 will 0.000132816 we'll 7.87707e-06
+align 11 *DELETE* 0.994767 ones 0.0023226 wounds 0.00115617 rooms 0.00077292 ruins 0.000408665 worms 0.000208722 woman's 0.000146475 womans 0.000114599 i 4.68301e-05 uh 3.84692e-05 in 1.0015e-05 you 7.26571e-06 to 1.13371e-07 do 9.77472e-08 if 9.44038e-08 owns 8.9573e-10 and 3.9559e-10 it 2.94357e-10 um 1.45959e-12
+align 12 </s> 1

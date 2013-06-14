@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 when 0.999256 one 0.000743554
+align 3 was 1
+align 4 that 0.720728 it 0.218708 he 0.0323244 *DELETE* 0.0138763 hit 0.0121652 the 0.00219781
+align 5 you 0.565262 you're 0.403201 your 0.0315144 *DELETE* 2.21045e-05
+align 6 supposed 0.812517 suppose 0.174946 *DELETE* 0.0125371
+align 7 to 0.987463 *DELETE* 0.0125371
+align 8 pick 0.814123 take 0.17334 specific 0.0125371
+align 9 these 1
+align 10 weapons 1
+align 11 up 0.627805 of 0.221301 *DELETE* 0.0801804 a 0.066082 are 0.00463087
+align 12 it 0.610001 pick 0.20875 appear 0.0746532 pit 0.0624676 you 0.0178434 picked 0.0165432 appeared 0.00548806 p 0.00425367
+align 13 from 0.994936 them 0.00506385
+align 14 you 1
+align 15 tomorrow 1
+align 16 *DELETE* 0.999957 i 4.22101e-05 uh 4.73619e-07 if 3.83595e-10
+align 17 </s> 1

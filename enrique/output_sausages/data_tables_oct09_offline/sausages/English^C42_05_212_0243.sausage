@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 people 1
+align 6 to 1
+align 7 build 1
+align 8 us 0.815003 a 0.184997
+align 9 *DELETE* 0.857633 school 0.142367
+align 10 *DELETE* 0.974385 in 0.0256152
+align 11 *DELETE* 0.974385 an 0.0256152
+align 12 schools 0.857633 *DELETE* 0.12388 re 0.0155389 rio 0.00294794
+align 13 *DELETE* 0.96508 in 0.0209707 uh 0.0139497
+align 14 *DELETE* 0.96243 an 0.0375703
+align 15 *DELETE* 0.985232 re 0.0124151 rio 0.00235301
+align 16 and 0.969559 *DELETE* 0.030441
+align 17 re 0.434231 real 0.138862 raihan 0.133482 read 0.0792526 rhea 0.0492015 rea 0.0363354 rio 0.033925 *DELETE* 0.033255 riyadh 0.0217558 really 0.0186975 ryah 0.0148809 riva 0.00471041 redo 0.00141111
+align 18 and 0.939614 *DELETE* 0.033255 in 0.0133769 an 0.00894354 it 0.00475171 then 5.93146e-05
+align 19 *DELETE* 0.995248 and 0.00475171
+align 20 repair 1
+align 21 there 0.568242 their 0.407207 *DELETE* 0.0128298 they're 0.0100388 the 0.00163827 they 4.20296e-05 of 2.11828e-06
+align 22 *DELETE* 0.999998 there 2.11828e-06
+align 23 or 0.932567 are 0.0490558 there're 0.0128298 *DELETE* 0.00526095 were 0.000269935 our 1.61605e-05
+align 24 rebuild 0.998621 rebuilt 0.00137926
+align 25 the 0.997518 a 0.00248176
+align 26 bridge 1 burij 1.69558e-08
+align 27 *DELETE* 0.999978 uh 1.99273e-05 i 2.32868e-06
+align 28 </s> 1

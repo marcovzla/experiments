@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 0.872477 *DELETE* 0.124319 uh 0.00320499
+align 2 am 0.867024 i'm 0.129151 i 0.00244569 and 0.00128835 in 9.05161e-05
+align 3 *DELETE* 0.997554 am 0.00244569
+align 4 the 1
+align 5 director 1
+align 6 *DELETE* 0.921506 of 0.0784939
+align 7 security 1
+align 8 for 1
+align 9 the 1
+align 10 uh 1
+align 11 marine 1
+align 12 corps 0.918667 corp 0.0570676 core 0.0242652
+align 13 installations 0.839889 installation 0.124471 insulation 0.0349664 isolation 0.00067456
+align 14 *DELETE* 1 to 4.98883e-07
+align 15 </s> 1

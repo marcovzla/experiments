@@ -1,0 +1,43 @@
+numaligns 41
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999429 i 0.000570851
+align 3 would 1
+align 4 ask 1
+align 5 that 1
+align 6 uh 1
+align 7 there's 0.970925 there 0.02102 they're 0.0080548
+align 8 certain 0.999669 sir 0.000331449
+align 9 *DELETE* 0.999681 and 0.000318819
+align 10 things 1
+align 11 that 0.798807 there 0.0913672 they 0.0579801 stay 0.0392736 they're 0.00773838 their 0.00368782 day 0.00114579
+align 12 when 1
+align 13 you 1
+align 14 patrol 1
+align 15 with 0.998992 way 0.00100808
+align 16 *DELETE* 0.998992 to 0.00100808
+align 17 us 1
+align 18 as 1
+align 19 a 0.573213 *DELETE* 0.370272 the 0.0213127 an 0.0181844 of 0.0146783 in 0.00233964
+align 20 marines 0.997035 marines' 0.00296489
+align 21 that 0.99794 they 0.00185181 at 0.000207981
+align 22 you 1
+align 23 do 1
+align 24 things 1
+align 25 the 0.999595 to 0.000404535
+align 26 way 0.999999 wait 9.39005e-07
+align 27 we 1
+align 28 do 1
+align 29 it 1
+align 30 because 1
+align 31 it 0.996872 they 0.00269097 that 0.000437456
+align 32 will 0.981223 we'll 0.0187766
+align 33 make 1
+align 34 the 1
+align 35 operation 1
+align 36 *DELETE* 0.999881 to 8.39478e-05 i 3.47211e-05
+align 37 run 0.99982 rung 0.00015824 around 2.21585e-05
+align 38 more 1
+align 39 smoothly 1
+align 40 </s> 1

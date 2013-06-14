@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 would 0.999961 did 3.91088e-05
+align 3 you 1
+align 4 like 1
+align 5 to 1
+align 6 begin 0.994344 big 0.00451356 *DELETE* 0.0011426
+align 7 *DELETE* 0.994344 and 0.00451356 began 0.0011426
+align 8 training 1
+align 9 *DELETE* 0.998199 uh 0.00128443 in 0.000253689 i 0.000198217 you 3.77607e-05 to 1.0819e-05 now 8.88093e-06 and 5.21037e-06 on 1.47208e-06 a 6.5778e-07 do 1.88052e-07 me 6.03355e-11 um 5.05245e-11 it 5.53187e-12 so 2.91179e-19
+align 10 </s> 1

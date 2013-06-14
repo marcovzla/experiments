@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 an 1
+align 4 area 1
+align 5 suitable 1
+align 6 to 1
+align 7 build 1
+align 8 a 0.939258 the 0.03838 it 0.0223623
+align 9 well 0.992372 a 0.00577144 *DELETE* 0.00185618
+align 10 *DELETE* 0.991029 well 0.00577144 while 0.00185618 i 0.000804565 uh 0.000400481 is 4.36445e-05 in 2.69888e-05 the 1.59233e-05 a 1.42288e-05 too 1.14604e-05 it 9.76918e-06 and 7.05208e-06 if 5.74246e-06 so 1.90561e-06 now 1.06895e-06 you 5.84648e-07 do 1.79214e-07 to 1.36304e-07 um 1.50588e-08 no 4.51419e-12 we 3.49771e-12 but 1.02344e-12 i'm 4.18456e-13
+align 11 </s> 1

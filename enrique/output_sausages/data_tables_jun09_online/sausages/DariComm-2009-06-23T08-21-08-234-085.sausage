@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 from 1
+align 3 your 1
+align 4 family 1
+align 5 *DELETE* 0.999981 if 1.88046e-05
+align 6 lives 1
+align 7 in 0.971044 and 0.0289558
+align 8 helmet 0.753805 hell 0.24248 *DELETE* 0.0037145
+align 9 *DELETE* 0.753408 meant 0.221611 men 0.0208467 helmets 0.00277493 how 0.000939573 and 0.000419722
+align 10 *DELETE* 0.996357 to 0.00123307 many 0.000826916 i 0.000356938 it 0.000269268 uh 0.000252505 you 0.000173312 in 0.000148933 a 0.000125366 much 0.000112657 do 6.15213e-05 means 2.27104e-05 an 1.54667e-05 if 1.38598e-05 that 1.35897e-05 and 7.04651e-06 the 5.23226e-06 could 3.72176e-06 at 6.00319e-07 but 5.29373e-07 like 2.0773e-07 with 1.01993e-08 is 5.02527e-09 me 1.78405e-09 would 4.16274e-12 can 3.31285e-13 we 2.34976e-14 i'd 8.54273e-16 i'm 3.04928e-17
+align 11 *DELETE* 1 do 1.43382e-23
+align 12 </s> 1

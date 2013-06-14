@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.995768 a 0.00423242
+align 2 yes 1
+align 3 if 0.339379 it 0.336129 of 0.306536 sir 0.0128145 a 0.00462548 *DELETE* 0.000516701
+align 4 this 0.524201 does 0.174915 is 0.162045 his 0.0816747 it's 0.0379632 there's 0.0132806 visit 0.00462548 it 0.000778942 avis 0.000516701
+align 5 if 0.895634 it 0.0854659 that 0.0160661 is 0.0019033 get 0.000931101
+align 6 *DELETE* 0.99685 if 0.00189288 there 0.00124632 it 1.04217e-05
+align 7 *DELETE* 0.999998 there 1.79123e-06
+align 8 there's 0.998752 is 0.00124812
+align 9 a 0.980543 our 0.00888451 *DELETE* 0.00657211 are 0.00399988
+align 10 room 0.999845 rumor 0.000155205
+align 11 big 0.977053 a 0.0229474
+align 12 *DELETE* 0.977053 big 0.0229474
+align 13 enough 1
+align 14 for 0.99969 or 0.000309774
+align 15 everyone 1
+align 16 *DELETE* 0.998837 a 0.0010255 know 0.000111782 to 2.52378e-05
+align 17 or 1
+align 18 we 1
+align 19 can 1
+align 20 have 1
+align 21 the 1
+align 22 way 0.987614 were 0.00526725 *DELETE* 0.00372493 with 0.00339376
+align 23 the 1
+align 24 women 1
+align 25 uh 0.853263 are 0.0744955 um 0.0722414
+align 26 *DELETE* 0.916043 uh 0.0531324 i 0.0308249
+align 27 *DELETE* 0.946215 go 0.0372762 ago 0.0165086
+align 28 doing 0.946215 on 0.0537793 in 5.536e-06
+align 29 a 1 *DELETE* 4.70954e-09
+align 30 separate 0.98816 *DELETE* 0.0118401 the 6.72364e-08
+align 31 room 0.987198 sniper 0.00652745 slipper 0.00307146 supper 0.00186602 *DELETE* 0.000925975 separately 0.0003752 rooms 3.56993e-05 separate 1.83213e-12
+align 32 *DELETE* 0.99916 room 0.000839816 or 3.88891e-07 on 9.41005e-12
+align 33 </s> 1

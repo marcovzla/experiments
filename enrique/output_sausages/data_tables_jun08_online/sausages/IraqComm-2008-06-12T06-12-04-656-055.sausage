@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 think 0.655104 don't 0.294585 thank 0.0503109
+align 3 the 0.934015 this 0.0659845
+align 4 says 0.855032 is 0.0659845 size 0.0481099 said 0.0183326 say 0.0125411
+align 5 should 1
+align 6 be 1
+align 7 placed 0.995709 place 0.00429055
+align 8 little 0.999884 over 0.000115943
+align 9 *DELETE* 0.999884 the 0.000115943
+align 10 further 0.997776 farther 0.00222352
+align 11 away 0.999973 way 2.02255e-05 a 6.53884e-06
+align 12 *DELETE* 0.999986 in 7.04366e-06 way 6.53884e-06 it 5.8708e-08 a 4.62204e-15 at 5.75081e-18 uh 4.39803e-21 i 1.86759e-27
+align 13 </s> 1

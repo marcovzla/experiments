@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 name 1
+align 5 of 1
+align 6 the 1
+align 7 village 1
+align 8 where 0.464452 or 0.272612 were 0.210738 with 0.0470368 we're 0.00284886 are 0.00166762 wear 0.000644739
+align 9 the 0.955555 a 0.0435832 that 0.000861348
+align 10 talaban 1
+align 11 come 0.999975 *DELETE* 2.49392e-05
+align 12 from 1
+align 13 *DELETE* 0.998912 it 0.000432421 uh 0.000423357 you 0.000104884 a 6.76516e-05 i 3.1103e-05 from 2.49392e-05 to 1.72681e-06 us 1.0702e-06 the 6.62831e-07 that 4.00002e-08
+align 14 </s> 1

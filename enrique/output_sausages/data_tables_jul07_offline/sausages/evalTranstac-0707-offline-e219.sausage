@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 um 0.783935 uh 0.216065
+align 2 the 0.987056 uh 0.0129442
+align 3 *DELETE* 0.987056 the 0.0129442
+align 4 rates 0.998897 rate 0.00110295
+align 5 are 0.993657 our 0.00524046 sar 0.00110295
+align 6 sat 0.43495 set 0.22358 sets 0.203134 sacked 0.0992078 sad 0.0159141 stat 0.00845721 stacked 0.00582964 sa'ad 0.00511417 sack 0.00229032 sacks 0.000732988 set's 0.000721568 said 6.8717e-05
+align 7 *DELETE* 0.999453 to 0.000539896 it 3.57758e-06 the 3.13042e-06 at 1.90237e-07 a 1.31282e-07 this 6.94395e-08
+align 8 </s> 1

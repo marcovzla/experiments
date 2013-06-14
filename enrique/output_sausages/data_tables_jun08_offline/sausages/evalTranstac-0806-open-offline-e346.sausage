@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 no 1
+align 2 it's 0.930047 its 0.0699533
+align 3 to 0.98309 too 0.0106567 two 0.00625325
+align 4 prevent 1
+align 5 further 1
+align 6 injury 1
+align 7 to 1
+align 8 the 1
+align 9 spine 0.471167 spying 0.449722 spy 0.0791108
+align 10 *DELETE* 0.896933 and 0.0791108 uh 0.0235328 it 0.000423191
+align 11 uh 1.00063 um 1.01815e-05
+align 12 *DELETE* 0.99517 uh 0.00482957
+align 13 if 1
+align 14 the 1
+align 15 person 1
+align 16 has 1
+align 17 a 1
+align 18 uh 0.597489 *DELETE* 0.369341 a 0.0331705
+align 19 a 0.656239 *DELETE* 0.222699 um 0.0938367 and 0.0272248
+align 20 neck 0.984077 and 0.0159231
+align 21 *DELETE* 0.984077 neck 0.0159231
+align 22 injury 0.999984 injuries 1.58592e-05
+align 23 *DELETE* 0.999999 i 1.06687e-06 you 2.03358e-08
+align 24 </s> 1

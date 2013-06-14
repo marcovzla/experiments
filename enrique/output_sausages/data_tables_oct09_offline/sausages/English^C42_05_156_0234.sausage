@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 we 1
+align 3 would 0.67825 we 0.313888 will 0.00772134 we'll 0.000140853
+align 4 need 1
+align 5 to 1
+align 6 start 0.997908 star 0.00200468 starr 8.70748e-05
+align 7 work 0.998214 working 0.00178593
+align 8 in 0.996776 and 0.00322408
+align 9 about 1
+align 10 one 1
+align 11 week 0.999824 we 0.000176313
+align 12 </s> 1

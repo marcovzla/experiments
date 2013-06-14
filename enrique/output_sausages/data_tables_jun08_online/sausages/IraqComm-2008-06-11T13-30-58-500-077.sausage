@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 any 0.663897 and 0.246182 *DELETE* 0.0743783 in 0.0155014 a 4.1152e-05
+align 2 other 0.661131 here 0.246212 anyway 0.0743783 they're 0.0140575 of 0.00273531 if 0.00141414 new 4.1152e-05 *DELETE* 3.08935e-05
+align 3 *DELETE* 0.763998 there 0.236002
+align 4 *DELETE* 0.690119 and 0.202326 their 0.0848452 they're 0.0180213 in 0.00406093 an 0.000373071 entry 0.000254575
+align 5 injuries 0.584224 trees 0.20676 entries 0.206532 entrance 0.0011766 increase 0.000922175 is 0.000254575 insurance 0.000127801 enters 3.20346e-06 increased 7.07847e-12
+align 6 </s> 1

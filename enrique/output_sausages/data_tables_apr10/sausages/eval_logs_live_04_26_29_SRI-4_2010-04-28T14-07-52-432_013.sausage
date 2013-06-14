@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999119 i 0.000880784
+align 3 was 1
+align 4 expecting 1
+align 5 to 1
+align 6 meet 1
+align 7 the 0.994783 at 0.00516363 in 5.35455e-05
+align 8 *DELETE* 0.994783 the 0.00521717
+align 9 principal 0.755219 principle 0.244781
+align 10 today 1
+align 11 is 1
+align 12 there 1
+align 13 a 0.996747 *DELETE* 0.00325293
+align 14 reason 1
+align 15 why 1
+align 16 he's 0.792116 he 0.207884
+align 17 *DELETE* 0.792116 is 0.207884
+align 18 not 0.99999 night 9.60417e-06 *DELETE* 1.23751e-15
+align 19 here 0.999291 hear 0.000709374 *DELETE* 1.23751e-15
+align 20 *DELETE* 0.99991 uh 8.10541e-05 i 8.98085e-06 naheer 3.35052e-10 nahir 3.37409e-12
+align 21 </s> 1

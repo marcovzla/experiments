@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 *DELETE* 0.94365 do 0.0563501
+align 3 *DELETE* 0.53328 you 0.46672
+align 4 you're 0.434841 are 0.374404 your 0.0984395 have 0.0893518 want 0.00290235 *DELETE* 6.18303e-05
+align 5 from 0.90022 home 0.0997179 *DELETE* 6.18303e-05
+align 6 offers 0.771156 off 0.150845 offer 0.0712069 uh 0.00672998 cough 6.17118e-05
+align 7 *DELETE* 0.842363 or 0.114898 for 0.0280045 first 0.00966506 four 0.00452527 force 0.000544375
+align 8 see 0.822461 c 0.101164 sea 0.0625106 he 0.0138588 *DELETE* 6.2515e-06
+align 9 is 0.981203 if 0.011221 it 0.00506349 it's 0.00127057 its 0.000835559 iz 0.000273898 as 0.000126598 seize 5.90623e-06 sees 3.4527e-07
+align 10 that 0.773939 at 0.219414 it 0.00664692
+align 11 the 0.999984 a 1.57929e-05
+align 12 camera 0.968358 cameras 0.0316422
+align 13 system 1
+align 14 the 0.716467 this 0.270327 to 0.0117176 that 0.00148838
+align 15 self 0.979615 cell 0.020385
+align 16 *DELETE* 0.979615 phone 0.020385
+align 17 are 0.73502 our 0.260197 r 0.00315831 or 0.0015822 art 4.27973e-05
+align 18 little 1
+align 19 bit 1
+align 20 more 1
+align 21 expensive 1
+align 22 in 0.595572 than 0.355052 and 0.0491585 then 0.000217134
+align 23 high 0.801019 *DELETE* 0.158073 hi 0.0178176 hay 0.00931955 higher 0.0091368 hai 0.00463414
+align 24 and 0.790179 hiring 0.0859305 hyun 0.0590926 in 0.0482758 hiding 0.00650663 hind 0.00424876 end 0.00253423 having 0.00229488 an 0.000937985
+align 25 guards 0.998613 guard's 0.000764142 guards' 0.000623052
+align 26 at 1
+align 27 this 1
+align 28 time 1 tire 1.08864e-08
+align 29 *DELETE* 0.999984 uh 9.70036e-06 i 6.36206e-06
+align 30 </s> 1

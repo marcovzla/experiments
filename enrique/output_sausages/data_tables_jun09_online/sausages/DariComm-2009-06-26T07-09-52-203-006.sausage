@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 can 0.99065 i 0.00934962
+align 2 *DELETE* 0.99065 can 0.00934962
+align 3 morning 0.998539 mourning 0.00146118
+align 4 gentlemen 0.831675 gentleman 0.168325 *DELETE* 9.61327e-23
+align 5 *DELETE* 0.992649 uh 0.00608262 i 0.000913611 it 0.000124197 who 7.67577e-05 that 5.16212e-05 you 4.73689e-05 at 4.20128e-05 a 9.31035e-06 to 1.61037e-06 in 1.00825e-06 them 5.58737e-07 do 1.00384e-07 if 1.49149e-08 now 1.32771e-15 german 1.23885e-16 her 9.11907e-19
+align 6 </s> 1

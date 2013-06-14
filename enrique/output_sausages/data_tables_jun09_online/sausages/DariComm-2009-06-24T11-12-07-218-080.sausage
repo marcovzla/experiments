@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 usually 1
+align 5 you 0.803368 *DELETE* 0.117153 do 0.0794788
+align 6 do 0.920521 *DELETE* 0.0556922 you 0.0237866
+align 7 *DELETE* 0.999998 you 1.60283e-06
+align 8 your 0.999478 you're 0.000521758
+align 9 patrols 0.999759 patrol's 0.000241266
+align 10 *DELETE* 0.999963 i 2.24346e-05 in 8.28681e-06 do 3.31545e-06 to 3.00037e-06 a 3.4609e-07 and 3.6905e-08 uh 2.74376e-10 the 3.69853e-11 it 4.78539e-13
+align 11 </s> 1

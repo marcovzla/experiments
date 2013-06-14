@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 seems 1
+align 3 to 1
+align 4 be 1
+align 5 the 1
+align 6 problem 1
+align 7 *DELETE* 0.998188 uh 0.000942292 i 0.000826296 is 2.29533e-05 in 1.95241e-05 um 9.76667e-07 with 2.33115e-07 at 2.73934e-11
+align 8 </s> 1

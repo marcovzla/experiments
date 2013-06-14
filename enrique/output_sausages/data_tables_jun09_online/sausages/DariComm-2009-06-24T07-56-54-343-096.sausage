@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 a 0.997893 *DELETE* 0.00171153 sir 0.000367019 are 2.85369e-05
+align 4 certain 0.999633 in 0.000367019
+align 5 place 0.997033 places 0.00178933 placed 0.00117778
+align 6 to 1
+align 7 put 1
+align 8 the 1
+align 9 trash 1
+align 10 or 0.861609 for 0.138391
+align 11 trash 0.981792 a 0.0182075
+align 12 picked 0.576462 *DELETE* 0.305122 pick 0.0996527 trash 0.0182075 take 0.000352011 make 0.000166922 big 3.73757e-05 pig 1.25712e-13
+align 13 up 0.67657 pickup 0.317062 pick 0.00607263 picked 0.000194767 *DELETE* 0.000100186 they 3.70924e-07 pay 1.47626e-23
+align 14 *DELETE* 0.993398 up 0.0062674 uh 0.000211023 out 7.72334e-05 to 2.30894e-05 help 2.29523e-05 the 3.78074e-07 go 3.70924e-07 it 2.56333e-09 a 4.13925e-13 i 3.96267e-13 in 1.45612e-14
+align 15 </s> 1

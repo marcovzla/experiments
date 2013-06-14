@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 whose 0.49498 who's 0.405966 who 0.0981534 how 0.000900728
+align 2 *DELETE* 0.898198 is 0.0874335 has 0.00725238 say 0.00346752 a 0.00274809 much 0.000900728
+align 3 a._k. 0.991148 k 0.00620196 a 0.00260927 *DELETE* 4.10841e-05
+align 4 *DELETE* 0.997403 k 0.00259708
+align 5 is 0.991677 *DELETE* 0.00613312 as 0.00202888 iz 8.22668e-05 a._k.s 2.74373e-05 case 2.58367e-05 his 2.52264e-05
+align 6 this 0.98078 it 0.0128403 exists 0.00613312 it's 0.000129425 its 0.000116715 that 1.5193e-09 that's 2.83904e-11
+align 7 *DELETE* 0.999983 is 1.61068e-05 uh 5.79467e-07 a 2.08307e-07 i 1.29727e-07
+align 8 </s> 1

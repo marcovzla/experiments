@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 are 0.857841 uh 0.142159
+align 4 lot 1
+align 5 lot 0.983454 all 0.0165464
+align 6 *DELETE* 0.983454 lot 0.0165464
+align 7 of 1
+align 8 uh 1
+align 9 a 0.637873 of 0.190137 *DELETE* 0.11392 lot 0.0532153 uh 0.00485333
+align 10 *DELETE* 0.810188 a 0.175342 uh 0.0144697
+align 11 lot 0.946785 *DELETE* 0.0532153
+align 12 of 1
+align 13 people 1
+align 14 in 0.976495 *DELETE* 0.0233004 and 0.000204787
+align 15 here 0.645155 you 0.352829 your 0.00201614
+align 16 with 1
+align 17 the 1
+align 18 gunshot 1
+align 19 wounds 1
+align 20 </s> 1

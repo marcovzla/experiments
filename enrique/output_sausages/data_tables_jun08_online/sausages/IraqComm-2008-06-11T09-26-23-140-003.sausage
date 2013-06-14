@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999823 uh 0.000176749
+align 2 that 0.955844 it 0.0441564
+align 3 is 1
+align 4 good 1
+align 5 to 1
+align 6 hear 1
+align 7 how 1
+align 8 is 0.974634 was 0.0253664
+align 9 your 0.999889 their 0.000102001 our 8.65039e-06 the 6.77189e-10
+align 10 family 1
+align 11 </s> 1

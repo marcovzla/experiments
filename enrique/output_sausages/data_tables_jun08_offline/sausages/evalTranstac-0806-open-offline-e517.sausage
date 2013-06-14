@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 no 0.97965 now 0.0203502
+align 2 i 1
+align 3 how 0.916626 i 0.0833742
+align 4 *DELETE* 0.916626 how 0.0833742
+align 5 long 1
+align 6 ago 1
+align 7 did 0.955541 *DELETE* 0.0412779 they 0.00165488 it 0.00111552 of 0.000410745
+align 8 uh 0.945966 that 0.0412625 *DELETE* 0.0106909 it 0.00142916 at 0.000615915 had 3.60246e-05
+align 9 did 0.927848 the 0.0537576 *DELETE* 0.0181178 uh 0.000276821
+align 10 he 1
+align 11 escaped 0.981193 escape 0.0188073
+align 12 *DELETE* 0.989171 the 0.0103768 to 0.000452242
+align 13 or 1 they 6.6427e-08
+align 14 leave 0.570524 *DELETE* 0.365196 lead 0.0642796 were 6.6427e-08
+align 15 the 0.604197 leda 0.121313 lida 0.121313 lita 0.121313 to 0.0299113 leader 0.000967073 *DELETE* 0.000434707 leading 0.000213674 that 0.000209634 liter 7.68416e-05 it 5.10497e-05
+align 16 checkpoint 0.999797 checkpoints 0.0001348 check 6.84514e-05
+align 17 *DELETE* 0.999932 point 6.84514e-05
+align 18 </s> 1

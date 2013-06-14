@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 thank 1
+align 3 you 1
+align 4 for 1
+align 5 the 1
+align 6 information 1
+align 7 we're 0.50594 work 0.399482 were 0.0885143 worked 0.00557321 works 0.00049004
+align 8 *DELETE* 0.999984 put 1.6133e-05
+align 9 most 1
+align 10 likely 1
+align 11 going 0.927861 *DELETE* 0.0721389
+align 12 to 0.908409 gonna 0.0721389 um 0.0166156 uh 0.00279942 i'll 3.67328e-05
+align 13 follow 0.890678 uh 0.0879839 um 0.0213381
+align 14 *DELETE* 0.890678 follow 0.109322
+align 15 up 1
+align 16 on 1
+align 17 that 0.848026 uh 0.100211 the 0.0517633
+align 18 *DELETE* 0.996739 uh 0.00326086
+align 19 in 1
+align 20 the 1
+align 21 future 1
+align 22 *DELETE* 1 i 1.83947e-07
+align 23 </s> 1

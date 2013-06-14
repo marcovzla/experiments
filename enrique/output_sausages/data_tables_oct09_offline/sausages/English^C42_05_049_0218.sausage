@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 we 1
+align 3 also 1
+align 4 have 1
+align 5 a 0.981967 our 0.0180331
+align 6 bridge 1
+align 7 to 0.994852 too 0.00387897 two 0.00126863
+align 8 bill 0.467153 build 0.466863 bills 0.0649756 *DELETE* 0.00100793
+align 9 *DELETE* 0.993055 a 0.00399072 it 0.00204578 bill's 0.000371113 i 0.0002799 go 0.000131316 built 4.59144e-05 is 3.51035e-05 up 2.08745e-05 of 1.53521e-05 i'm 3.13905e-06 at 2.58416e-06 on 2.03871e-06 all 9.14879e-07 to 1.50031e-07 the 9.60232e-08 do 6.33607e-08 you 9.74494e-09 us 2.03114e-09 in 3.73876e-10
+align 10 *DELETE* 0.998425 uh 0.00111546 bill 0.000459585
+align 11 </s> 1

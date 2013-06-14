@@ -1,0 +1,43 @@
+numaligns 41
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 uh 0.992486 we'll 0.00751448
+align 4 *DELETE* 0.992486 uh 0.00751448
+align 5 we're 0.554084 where 0.352589 were 0.0608349 uh 0.0322148 wear 0.000277523
+align 6 *DELETE* 0.967785 we're 0.0209232 were 0.0112916
+align 7 i'm 0.993368 um 0.00663219
+align 8 looking 1
+align 9 at 0.965811 out 0.0341891
+align 10 here 0.993009 a 0.00698583 hear 5.17273e-06
+align 11 *DELETE* 0.993014 here 0.00698583
+align 12 on 0.835585 in 0.11906 and 0.0424921 i'm 0.0028629
+align 13 the 0.924899 a 0.0392117 uh 0.0337707 to 0.00211837
+align 14 pointing 0.995627 playing 0.00437327
+align 15 in 0.929882 on 0.0701182
+align 16 the 1
+align 17 diagram 1
+align 18 *DELETE* 0.999775 if 0.000224644
+align 19 uh 1
+align 20 this'll 0.993456 this 0.00654379
+align 21 *DELETE* 0.993456 will 0.00654055 would 3.24149e-06
+align 22 be 1
+align 23 where 0.815053 wear 0.184614 were 0.000332127
+align 24 for 0.677146 foot 0.321811 four 0.00104275
+align 25 traffic 0.999159 *DELETE* 0.000840529
+align 26 can 0.883289 you 0.0722972 *DELETE* 0.0412387 and 0.00204545 trafficking 0.000840529 in 0.000288802
+align 27 come 1
+align 28 in 0.702347 and 0.297653
+align 29 and 0.918185 in 0.0818147
+align 30 this 1
+align 31 is 1
+align 32 were 0.696996 we're 0.303004
+align 33 um 0.965719 uh 0.0342813
+align 34 *DELETE* 0.999584 uh 0.000415956
+align 35 they 0.999161 there 0.00083918
+align 36 will 0.999258 would 0.000376842 we'll 0.000364824
+align 37 be 1
+align 38 searched 1
+align 39 *DELETE* 1 a 1.07834e-07 i 1.03772e-07
+align 40 </s> 1

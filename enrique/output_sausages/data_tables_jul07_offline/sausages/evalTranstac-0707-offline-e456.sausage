@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.990474 i 0.00952639
+align 3 understand 1
+align 4 sir 1
+align 5 and 1
+align 6 i 0.996075 uh 0.00392538
+align 7 were 0.981206 we're 0.00740326 want 0.00535529 where 0.00392538 wish 0.00211012
+align 8 shouldn't 0.992535 you 0.00714816 again 0.000317241
+align 9 *DELETE* 0.992852 to 0.00536037 can 0.0017878
+align 10 have 0.999849 *DELETE* 0.000151042
+align 11 to 0.870016 *DELETE* 0.103597 can 0.0263872
+align 12 *DELETE* 0.999849 have 0.000151042
+align 13 impose 0.844688 compose 0.103748 poles 0.0263872 oppose 0.0251769
+align 14 upon 0.978248 a 0.00958494 up 0.00613842 it 0.00559024 apply 0.000220668 of 0.000217961
+align 15 *DELETE* 0.978468 on 0.0215265 pond 5.05214e-06
+align 16 you 0.999779 new 0.000220668 *DELETE* 4.38312e-20
+align 17 *DELETE* 0.999681 uh 0.000203856 i 9.48081e-05 do 1.05231e-05 you 6.98003e-06 if 1.96968e-06 know 6.14293e-07 a 3.44623e-07 u 1.89784e-16 your 1.27406e-20
+align 18 </s> 1

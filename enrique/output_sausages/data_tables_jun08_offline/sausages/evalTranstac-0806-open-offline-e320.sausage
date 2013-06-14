@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 the 0.808312 do 0.191688
+align 3 *DELETE* 0.758359 you 0.190864 the 0.0507766
+align 4 a._b._c.s 0.980844 they 0.0114311 a._b. 0.00730703 abi 0.000286916 day 0.000130918
+align 5 *DELETE* 0.988438 be 0.011562
+align 6 *DELETE* 0.981432 sees 0.0146932 seize 0.00285536 c 0.00101976 seized 3.19309e-08
+align 7 is 0.977674 this 0.00822103 us 0.00742783 his 0.00479821 eases 0.000586968 ceases 0.000391803 uses 0.000386071 as 0.000306653 seasons 0.000195856 thus 7.69411e-06 *DELETE* 3.97607e-06
+align 8 *DELETE* 0.999975 his 2.52265e-05
+align 9 the 0.969845 of 0.0259712 a 0.00393344 that 7.09776e-05 uh 6.60663e-05 at 6.18792e-05 it 2.59857e-05 this 2.14904e-05 aside 3.97607e-06
+align 10 *DELETE* 0.999979 a 2.09797e-05 of 5.10658e-07
+align 11 first 1
+align 12 thing 1
+align 13 that 1
+align 14 we 1
+align 15 check 1
+align 16 on 1
+align 17 and 1
+align 18 i'll 0.999948 i 5.22563e-05
+align 19 go 1
+align 20 over 1
+align 21 that 0.999343 there 0.000657258
+align 22 now 1
+align 23 *DELETE* 0.999998 i 1.15458e-06 uh 4.65603e-07
+align 24 </s> 1

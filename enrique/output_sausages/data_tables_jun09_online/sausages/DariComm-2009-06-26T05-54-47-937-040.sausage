@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 occupation 1
+align 5 *DELETE* 1 sir 1.12191e-09
+align 6 </s> 1

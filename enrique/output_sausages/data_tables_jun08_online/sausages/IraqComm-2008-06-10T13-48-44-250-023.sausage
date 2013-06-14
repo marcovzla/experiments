@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 who 0.778372 *DELETE* 0.221628
+align 2 do 0.997802 *DELETE* 0.00219782
+align 3 you 1
+align 4 suspect 1
+align 5 of 0.964919 if 0.0350122 that 6.77811e-05 have 1.06532e-06
+align 6 *DELETE* 0.999932 the 6.77811e-05
+align 7 taking 1
+align 8 these 0.941085 the 0.0392781 this 0.00852739 those 0.00742049 new 0.00352022 news 8.33728e-05 they 3.68226e-05 their 3.06578e-05 them 1.19954e-05 there's 4.75629e-06 any 1.17748e-06 me 4.70888e-08 that 5.36194e-29
+align 9 supplies 0.999999 as 6.8082e-07 *DELETE* 3.6907e-17
+align 10 *DELETE* 0.999858 uh 0.000139734 i 1.74645e-06 supplies 6.8082e-07 it 4.19263e-10 applies 8.6269e-14
+align 11 </s> 1

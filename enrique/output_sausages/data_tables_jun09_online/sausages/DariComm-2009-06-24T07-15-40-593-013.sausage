@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 you 0.6979 he 0.286814 you're 0.0148352 your 0.000450311 i 7.08212e-07
+align 3 travelling 1
+align 4 to 0.954293 too 0.0446182 *DELETE* 0.00108926
+align 5 *DELETE* 0.993813 you 0.00507481 two 0.00108926 do 1.27895e-05 uh 9.00693e-06 a 1.4859e-06
+align 6 </s> 1

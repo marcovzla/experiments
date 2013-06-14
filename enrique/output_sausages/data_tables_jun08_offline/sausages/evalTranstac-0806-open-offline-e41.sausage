@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 guards 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 on 1
+align 8 staff 1
+align 9 at 0.999977 that 2.29924e-05
+align 10 this 0.9996 the 0.000399959
+align 11 time 1
+align 12 *DELETE* 0.999987 uh 9.29854e-06 i 4.00193e-06
+align 13 </s> 1

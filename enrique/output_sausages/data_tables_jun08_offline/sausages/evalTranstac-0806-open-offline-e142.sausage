@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 one 0.999851 when 0.000148714
+align 2 last 0.999851 i 0.000148714
+align 3 *DELETE* 0.999846 ask 0.000148714 clue 5.50861e-06
+align 4 question 1
+align 5 and 0.988148 in 0.0118524
+align 6 i'll 0.999357 al 0.000643146
+align 7 i'll 1
+align 8 stop 1
+align 9 bothering 1
+align 10 you 0.993425 *DELETE* 0.00657452
+align 11 and 0.603001 in 0.385331 unit 0.00657452 know 0.00332171 an 0.00144118 earn 0.000330946
+align 12 *DELETE* 0.974468 um 0.0251393 i 0.000392223
+align 13 and 0.944274 *DELETE* 0.0554041 an 0.00032159
+align 14 uh 0.74598 out 0.188498 *DELETE* 0.0568787 i 0.00671154 um 0.00193129
+align 15 *DELETE* 0.946927 and 0.0515919 in 0.00148132
+align 16 *DELETE* 0.943209 uh 0.0544606 know 0.00233086
+align 17 and 1
+align 18 we'll 0.959381 will 0.0406187
+align 19 leave 1
+align 20 your 0.999962 you're 3.80963e-05
+align 21 house 1
+align 22 *DELETE* 0.999902 uh 9.83268e-05 is 8.81862e-08
+align 23 </s> 1

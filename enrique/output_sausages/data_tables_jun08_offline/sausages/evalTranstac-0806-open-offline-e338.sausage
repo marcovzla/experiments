@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 and 0.999504 in 0.000495762
+align 2 the 1
+align 3 other 1
+align 4 is 1
+align 5 see 0.63503 the 0.209825 c 0.097303 sea 0.0578412
+align 6 head 1
+align 7 tilt 1
+align 8 and 0.999092 an 0.000838731 end 6.90089e-05
+align 9 i'll 0.997262 i 0.00139023 *DELETE* 0.00134804
+align 10 *DELETE* 0.997262 will 0.00139023 all 0.00124035 l 0.000107684
+align 11 demonstrate 1
+align 12 that 1
+align 13 now 1
+align 14 *DELETE* 0.999998 i 2.45523e-06
+align 15 </s> 1

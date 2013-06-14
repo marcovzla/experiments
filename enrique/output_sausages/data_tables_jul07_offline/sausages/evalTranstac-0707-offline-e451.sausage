@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 he 0.52585 you 0.47415
+align 2 can 1
+align 3 pick 1
+align 4 it 1
+align 5 up 1
+align 6 later 0.999951 a 4.85667e-05
+align 7 *DELETE* 0.999951 later 4.85667e-05
+align 8 </s> 1

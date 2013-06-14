@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 it's 0.99911 its 0.0008899
+align 2 open 0.607989 opened 0.392011
+align 3 it 0.817763 that 0.173787 at 0.00348239 there 0.00147353 the 0.000941345 in 0.000912882 *DELETE* 0.000758399 and 0.00033541 to 0.0003285 but 0.000140244 bid 5.85799e-05 than 1.53807e-05 their 3.04663e-06
+align 4 should 0.99976 you'd 0.000240308
+align 5 be 1
+align 6 a 1
+align 7 little 1
+align 8 bit 1
+align 9 more 1
+align 10 cooperative 0.963646 cooperate 0.0363533 cooperated 4.18087e-07
+align 11 *DELETE* 0.963646 if 0.0363533 of 4.18087e-07
+align 12 </s> 1

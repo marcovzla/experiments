@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 uh 0.981861 i 0.0111966 *DELETE* 0.00590606 all 0.00103645
+align 4 well 0.726093 we'll 0.261156 will 0.0123522 oil 0.000399102 *DELETE* 6.30556e-11
+align 5 i'll 0.849413 all 0.149489 i'm 0.000999777 i 9.7838e-05
+align 6 go 1
+align 7 over 1
+align 8 some 1
+align 9 of 0.989078 *DELETE* 0.0109217
+align 10 the 0.980678 other 0.0109217 *DELETE* 0.00839993
+align 11 things 1
+align 12 that 0.999927 *DELETE* 7.33419e-05
+align 13 you 0.999927 they 7.33419e-05
+align 14 were 0.947513 we're 0.0524873
+align 15 going 1
+align 16 to 1
+align 17 need 1
+align 18 uh 1
+align 19 we 1
+align 20 need 1
+align 21 uh 0.909409 a 0.0905912
+align 22 road 1
+align 23 cones 1
+align 24 uh 1
+align 25 constant 0.979975 *DELETE* 0.0200253
+align 26 a 0.772086 *DELETE* 0.224446 of 0.00212599 no 0.000734005 uh 0.000579834 why 1.7418e-05 or 8.9272e-06 constantly 8.37694e-07 and 8.08243e-07 constitute 8.72216e-10
+align 27 *DELETE* 0.97997 constant 0.0200244 why 5.6795e-06
+align 28 wire 0.939473 war 0.0598968 hwayyir 0.000598505 are 2.30974e-05 water 8.49472e-06
+align 29 </s> 1

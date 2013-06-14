@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 once 1
+align 2 you 0.849142 he 0.136074 he's 0.0147838
+align 3 once 0.883544 wants 0.116456
+align 4 the 0.953762 *DELETE* 0.0364622 a 0.00977606
+align 5 vehicles 0.994293 vehicle's 0.00502573 vehicles' 0.000680836
+align 6 come 1
+align 7 to 1
+align 8 a 0.796864 *DELETE* 0.203136
+align 9 stop 1
+align 10 you'll 0.807893 you 0.192095 the 1.16818e-05
+align 11 open 0.999999 opened 7.73443e-07 up 1.01971e-18
+align 12 *DELETE* 1 in 1.01971e-18
+align 13 the 0.978935 they 0.0127888 their 0.00694267 them 0.000871528 there 0.000450097 it 6.1402e-06 that 6.07731e-06 they're 3.21948e-08 in 1.09542e-18
+align 14 barrier 0.99174 very 0.00805301 vary 0.000194541 bury 8.00533e-06 there 4.08178e-06 their 3.92359e-07 they're 3.21948e-08
+align 15 *DELETE* 0.991704 are 0.00475897 air 0.00204451 or 0.00095781 ear 0.000248126 our 0.000241008 i 2.39061e-05 uh 1.66581e-05 r 3.93984e-06 here 1.03274e-06 in 2.17713e-07 ever 1.56324e-07 were 1.30475e-10
+align 16 </s> 1

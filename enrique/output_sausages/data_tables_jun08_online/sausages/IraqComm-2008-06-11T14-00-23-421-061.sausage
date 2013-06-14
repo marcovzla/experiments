@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 time 1
+align 3 did 0.789496 do 0.107308 to 0.102034 today 0.00116139
+align 4 the 0.651779 an 0.170371 them 0.134053 *DELETE* 0.0381362 they 0.00566088
+align 5 *DELETE* 0.887229 are 0.065921 in 0.0211405 that 0.0163303 and 0.00347621 our 0.00278962 or 0.00161807 it 0.00149298 on 2.6268e-06
+align 6 army 0.918656 me 0.0676965 are 0.00950486 may 0.00263479 our 0.00150807
+align 7 *DELETE* 0.988987 me 0.0110129
+align 8 come 1
+align 9 to 1
+align 10 your 1
+align 11 house 1
+align 12 </s> 1

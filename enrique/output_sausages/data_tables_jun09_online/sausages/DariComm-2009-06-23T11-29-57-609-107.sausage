@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 0.99237 i 0.00762991
+align 2 *DELETE* 0.992316 do 0.00762991 you 5.40379e-05
+align 3 all 1
+align 4 of 1
+align 5 your 1
+align 6 soldiers 1
+align 7 have 0.97906 had 0.0209402
+align 8 a._k. 1
+align 9 forty 1
+align 10 seven 1
+align 11 *DELETE* 0.99967 uh 0.000185405 i 7.56097e-05 is 5.70694e-05 and 1.03636e-05 a 1.8891e-06 in 1.41681e-08 oh 8.22849e-12 two 6.7443e-15 due 5.48364e-16
+align 12 </s> 1

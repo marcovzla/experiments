@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 what 0.727243 was 0.26443 what's 0.00672408 of 0.000739268 is 0.000618597 us 0.000124209 as 6.85118e-05 if 2.96267e-05 *DELETE* 1.38969e-05 where 7.64711e-06 it's 9.46668e-07 its 7.4415e-07 it 8.96315e-08
+align 5 c._p._r. 1
+align 6 is 0.980009 his 0.00716352 as 0.00633756 it's 0.00206762 has 0.001501 he's 0.00118235 its 0.000774776 this 0.000514948 ease 0.000197285 iz 0.000148062 these 8.82557e-05 eyes 1.57196e-05
+align 7 </s> 1

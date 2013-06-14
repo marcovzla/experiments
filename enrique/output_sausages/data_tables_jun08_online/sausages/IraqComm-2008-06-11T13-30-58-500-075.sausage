@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 which 1
+align 2 spots 0.998479 box 0.00152148
+align 3 in 0.999814 and 0.000186131
+align 4 the 0.92578 a 0.0742203
+align 5 gas 1
+align 6 station 1
+align 7 can 0.993232 can't 0.00659766 *DELETE* 0.00017009
+align 8 be 0.996902 the 0.00284587 candy 0.00017009 b 8.18092e-05
+align 9 breached 0.736707 breach 0.247955 breech 0.0153382 breaching 3.98536e-13
+align 10 </s> 1

@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i 1
+align 3 would 0.992182 i 0.00781824
+align 4 *DELETE* 0.992182 would 0.00781824
+align 5 also 1
+align 6 say 1
+align 7 uh 0.82399 i 0.15032 um 0.0231651 that 0.00251721 a 8.23871e-06
+align 8 *DELETE* 0.979432 uh 0.0205676
+align 9 don't 1
+align 10 let 1
+align 11 him 1
+align 12 play 1
+align 13 outside 1
+align 14 your 0.99111 you're 0.00889049
+align 15 gate 1
+align 16 near 1
+align 17 all 1
+align 18 that 1
+align 19 trash 1
+align 20 *DELETE* 0.62146 to 0.378111 uh 0.000331502 though 4.37517e-05 i 2.42429e-05 the 1.72597e-05 in 1.27594e-05
+align 21 *DELETE* 0.999993 uh 7.1796e-06
+align 22 </s> 1

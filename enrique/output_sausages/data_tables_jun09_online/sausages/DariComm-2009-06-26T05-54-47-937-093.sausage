@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 local 0.923075 a 0.0769252
+align 6 *DELETE* 0.923075 local 0.0769252
+align 7 gas 1
+align 8 station 1
+align 9 in 1
+align 10 the 1
+align 11 village 1
+align 12 *DELETE* 0.999955 uh 3.8238e-05 i 6.44764e-06 okay 4.20798e-13 it 3.72484e-35
+align 13 </s> 1

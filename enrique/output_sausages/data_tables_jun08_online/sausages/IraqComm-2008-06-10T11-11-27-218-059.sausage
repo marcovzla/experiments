@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 0.749658 *DELETE* 0.250342
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 water 0.935458 louder 0.0577817 flour 0.00675985
+align 6 for 1
+align 7 everyone 0.999877 every 0.000122723
+align 8 *DELETE* 0.999877 one 0.000122723
+align 9 here 0.999742 hear 0.000258308
+align 10 *DELETE* 0.99996 i 2.76286e-05 uh 1.27455e-05
+align 11 </s> 1

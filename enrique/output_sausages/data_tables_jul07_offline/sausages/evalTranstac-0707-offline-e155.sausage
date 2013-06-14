@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 0.99928 *DELETE* 0.000719794
+align 2 *DELETE* 0.962365 i 0.0376347
+align 3 say 0.560503 see 0.433865 actually 0.00491244 that's 0.000556678 i._c. 0.000163116
+align 4 i'm 1
+align 5 not 1
+align 6 going 0.967108 *DELETE* 0.0328919
+align 7 to 0.967108 gonna 0.0328919
+align 8 be 0.952572 do 0.0370089 *DELETE* 0.0103741 get 4.49257e-05
+align 9 there 0.936671 either 0.0626144 their 0.000370513 the 0.000199934 they're 0.000144206
+align 10 *DELETE* 0.999798 either 0.000199934 to 1.32652e-06 are 6.07599e-07 or 1.38154e-07 were 8.46021e-08 i 1.53405e-08
+align 11 </s> 1

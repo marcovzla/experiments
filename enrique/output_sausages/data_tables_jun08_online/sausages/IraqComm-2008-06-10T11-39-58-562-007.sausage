@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what's 1
+align 2 your 1
+align 3 favorite 1
+align 4 color 0.997965 collar 0.00203481
+align 5 *DELETE* 1 or 2.8932e-17 i 4.41225e-18
+align 6 </s> 1

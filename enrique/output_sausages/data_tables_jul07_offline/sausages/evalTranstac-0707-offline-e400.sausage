@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 very 0.672644 or 0.257185 we're 0.0467554 replace 0.0234156
+align 2 *DELETE* 0.69606 a 0.30394
+align 3 place 0.976584 *DELETE* 0.0234156
+align 4 the 0.652251 to 0.346888 that 0.000861604
+align 5 drain 0.999976 *DELETE* 2.4278e-05
+align 6 plug 0.999976 drink 2.4278e-05
+align 7 and 0.998333 *DELETE* 0.00164303 like 2.4278e-05
+align 8 put 0.998333 *DELETE* 0.00147746 input 0.000189846
+align 9 a 0.998333 into 0.00166731
+align 10 new 0.99981 *DELETE* 0.000189846
+align 11 filter 1
+align 12 on 0.99891 in 0.000627528 and 0.000462437 *DELETE* 2.26736e-10
+align 13 *DELETE* 0.998906 uh 0.000584431 a 0.000377004 i 7.15644e-05 the 4.18001e-05 it 1.71913e-05 in 1.31203e-06 an 2.49139e-07
+align 14 </s> 1

@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 the 1
+align 3 ones 1
+align 4 that 1
+align 5 are 1
+align 6 too 0.505159 two 0.445877 to 0.0489639
+align 7 that 0.969811 there 0.0301886
+align 8 are 0.724584 aren't 0.249482 our 0.0133628 arm 0.0121881 armed 0.000383198
+align 9 that 0.815153 in 0.16532 now 0.0195109 there 1.6159e-05
+align 10 *DELETE* 0.83468 that 0.164879 now 0.000441462
+align 11 we 1
+align 12 will 0.892236 won't 0.0910714 want 0.0155603 would 0.000654872 one 0.000309607 were 0.000162494 went 5.35354e-06
+align 13 we 1
+align 14 will 0.711575 won't 0.288425
+align 15 be 1
+align 16 able 1
+align 17 to 1
+align 18 cure 1
+align 19 the 0.505736 that 0.465135 their 0.0291293
+align 20 the 0.872784 *DELETE* 0.123156 bullet 0.0040606
+align 21 little 0.995939 will 0.00311302 *DELETE* 0.000947586
+align 22 *DELETE* 0.918031 one 0.0798845 and 0.00208438
+align 23 going 0.494559 then 0.198037 ones 0.105456 *DELETE* 0.073329 lane 0.0679564 and 0.0352999 in 0.0152032 thing 0.00952672 unclean 0.000432257 only 0.000198784 zein 1.44878e-06
+align 24 *DELETE* 0.770536 in 0.117984 and 0.106026 lane 0.00410121 an 0.00135289
+align 25 and 0.999603 end 0.000393955 hand 3.32729e-06
+align 26 about 0.948897 up 0.0364841 of 0.00918172 a 0.00540062 that 3.64025e-05
+align 27 *DELETE* 0.948902 have 0.0510388 that 3.6402e-05 bad 2.24123e-05
+align 28 to 0.994756 two 0.0032169 the 0.00199623 too 1.52512e-05 *DELETE* 7.20422e-06 bathtub 3.89257e-06 uh 2.76131e-06 that 1.36557e-06
+align 29 go 1
+align 30 *DELETE* 0.999903 to 8.57642e-05 in 8.3963e-06 i 2.75964e-06
+align 31 </s> 1

@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 it's 0.995877 if 0.00304472 uh 0.000588985 its 0.000489239
+align 2 *DELETE* 0.999411 it's 0.000588985
+align 3 not 1
+align 4 just 1
+align 5 the 0.949117 *DELETE* 0.0508834
+align 6 way 0.632688 weight 0.290185 await 0.0508834 wait 0.0262344 wage 9.66685e-06
+align 7 *DELETE* 0.512251 it 0.369815 you 0.0901986 at 0.0161976 we 0.00502532 it's 0.00412141 he 0.00176756 i 0.000493699 the 0.000129876
+align 8 which 1
+align 9 that 0.999997 that's 3.05087e-06 *DELETE* 2.96557e-11
+align 10 your 0.629762 you 0.231384 you're 0.138854 pitcher 3.5502e-07
+align 11 watch 0.908183 watching 0.0918167
+align 12 the 0.411839 their 0.402652 our 0.0664976 *DELETE* 0.0657394 a 0.0532719
+align 13 weapon 0.691214 *DELETE* 0.281583 and 0.0171577 in 0.00761335 new 0.00243207
+align 14 is 0.648516 weapons 0.308716 as 0.0249298 it's 0.0166372 *DELETE* 0.00113023 a 7.0494e-05
+align 15 *DELETE* 0.99993 weapon 7.0494e-05
+align 16 *DELETE* 0.99993 is 6.88129e-05 it's 1.68109e-06
+align 17 the 0.877172 to 0.109794 a 0.0128192 *DELETE* 0.000160783 of 5.37408e-05
+align 18 perception 1
+align 19 of 0.807704 *DELETE* 0.190087 about 0.00186382 by 0.000222051 in 0.000123194
+align 20 other 0.884252 the 0.107735 of 0.00604501 uh 0.00193849 are 3.01866e-05
+align 21 *DELETE* 0.991986 the 0.00801369
+align 22 people 1
+align 23 watching 0.999988 watch 1.2336e-05
+align 24 *DELETE* 0.999988 in 1.2336e-05
+align 25 you 1 *DELETE* 2.95623e-13
+align 26 *DELETE* 1 u 1.45365e-10 i 1.3988e-10 uh 4.41979e-13 new 9.95803e-16
+align 27 </s> 1

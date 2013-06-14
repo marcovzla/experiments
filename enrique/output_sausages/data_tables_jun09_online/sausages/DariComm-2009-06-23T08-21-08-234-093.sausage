@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 do 1
+align 5 for 1
+align 6 work 1
+align 7 *DELETE* 0.999818 sir 0.000157935 you 9.60916e-06 in 6.25025e-06 uh 6.04553e-06 too 2.01488e-06 with 2.05275e-12
+align 8 </s> 1

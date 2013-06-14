@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 0.801493 *DELETE* 0.198507
+align 2 you 1
+align 3 need 1
+align 4 more 1
+align 5 books 0.935676 box 0.0518486 bucks 0.0124755
+align 6 for 1
+align 7 the 0.961221 this 0.0387786
+align 8 school 0.99991 schools 8.98152e-05
+align 9 *DELETE* 0.999976 i 1.50688e-05 in 4.62137e-06 uh 3.89138e-06
+align 10 </s> 1

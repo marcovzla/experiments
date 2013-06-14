@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 understand 1
+align 4 we're 0.986255 were 0.0137445
+align 5 almost 1
+align 6 done 1
+align 7 time 0.775967 i 0.16884 i'm 0.0329735 *DELETE* 0.0222198
+align 8 *DELETE* 0.859346 am 0.140654
+align 9 you 0.477374 to 0.40508 we 0.0353301 a 0.0235051 mean 0.0215336 tayma 0.0146322 he 0.00681975 me 0.0066519 timely 0.00496429 jaimie 0.00151846 *DELETE* 0.00148543 timing 0.0011048
+align 10 go 0.997605 ago 0.00147718 know 0.000844256 no 6.55065e-05 *DELETE* 8.24912e-06
+align 11 home 0.999992 going 8.24912e-06
+align 12 pretty 1 thirty 6.82759e-16
+align 13 soon 1 sin 5.10615e-14
+align 14 </s> 1

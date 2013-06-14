@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 the 1
+align 3 generators 1
+align 4 need 1
+align 5 gas 1
+align 6 to 0.999319 do 0.000425138 they 0.000137241 he 7.84545e-05 key 3.84909e-05 too 1.97294e-06 okay 7.00165e-08
+align 7 *DELETE* 1 you 4.12544e-09
+align 8 run 0.999682 *DELETE* 0.000180266 were 0.000137241 we're 7.00165e-08
+align 9 *DELETE* 0.990774 it 0.00772273 a 0.000531505 i 0.000168423 on 0.000152706 uh 0.000140819 to 0.000134639 ran 0.000129966 in 5.66906e-05 them 5.57531e-05 ron 5.02936e-05 the 4.19085e-05 up 1.76494e-05 i'm 1.20547e-05 you 1.06075e-05 and 1.70382e-07 with 5.88613e-08 iran 6.5972e-09 that 1.88983e-09 at 1.87035e-11 like 4.57509e-12 this 3.61301e-12 two 2.84658e-12 as 3.61793e-14 but 2.93096e-14 of 1.90506e-14
+align 10 </s> 1

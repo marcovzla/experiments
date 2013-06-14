@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 men 0.999436 man 0.000563611 then 1.28679e-08
+align 5 were 0.943468 we're 0.0558596 work 0.000602574 we 6.75122e-05 where 2.20729e-06 would 6.71957e-11 which 1.0478e-12
+align 6 *DELETE* 0.999932 are 6.75122e-05
+align 7 seen 0.852891 seeing 0.137252 scene 0.00819169 singing 0.00166567
+align 8 *DELETE* 0.999905 uh 9.48762e-05 a 2.73208e-07 it 7.52011e-08 you 2.31052e-12
+align 9 </s> 1

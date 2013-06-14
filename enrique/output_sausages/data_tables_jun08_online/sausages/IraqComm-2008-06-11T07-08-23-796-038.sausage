@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 who 0.987267 he 0.0114156 you 0.00131741 if 1.94135e-07
+align 2 *DELETE* 1 you 1.94135e-07
+align 3 told 1
+align 4 you 1
+align 5 about 1
+align 6 the 1
+align 7 uh 1
+align 8 job 1
+align 9 opening 0.953453 openings 0.0462321 uh 0.000315363 open 1.97554e-13 *DELETE* 1.28621e-15
+align 10 *DELETE* 0.999637 opening 0.000315363 a 4.7815e-05 open 1.75854e-11 it 2.05483e-15 opened 1.43648e-20 i 5.6073e-22
+align 11 </s> 1

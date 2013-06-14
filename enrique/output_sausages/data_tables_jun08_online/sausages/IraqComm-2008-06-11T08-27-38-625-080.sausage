@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 now 1 no 1.34698e-10
+align 2 *DELETE* 1 we 1.34698e-10
+align 3 we're 0.999956 we 4.43761e-05 are 1.34698e-10
+align 4 *DELETE* 0.999956 are 4.43761e-05
+align 5 *DELETE* 0.708899 going 0.290511 in 0.000590313
+align 6 gonna 0.708899 to 0.291101
+align 7 discuss 1
+align 8 action 0.984167 actions 0.0158327
+align 9 drills 0.982478 roles 0.0109013 rolls 0.00477828 grills 0.000960988 girls 0.000529608 rules 0.000259562 rose 5.65689e-05 rails 3.3774e-05 rows 2.36247e-06
+align 10 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 0.99145 hi 0.00854965
+align 2 can 1
+align 3 i 1
+align 4 help 1
+align 5 you 1
+align 6 ahmed 0.992916 i 0.00698107 uh 9.31282e-05 *DELETE* 9.59976e-06
+align 7 *DELETE* 0.992916 ahmed 0.00698107 command 9.31282e-05 ahmed's 9.59976e-06
+align 8 </s> 1

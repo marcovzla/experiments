@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 x-ray 1
+align 6 machines 1
+align 7 or 0.565853 are 0.147194 were 0.107256 *DELETE* 0.0969996 for 0.082698
+align 8 all 0.876907 world 0.0969996 old 0.0219665 *DELETE* 0.00412659
+align 9 to 0.983747 the 0.0121261 alta 0.00412481 alter 1.77545e-06
+align 10 sell 0.986366 cell 0.0136224 so 1.15364e-05 selma 6.21769e-10
+align 11 machine 0.527995 machines 0.45788 this 0.0141255 seeing 6.21769e-10
+align 12 *DELETE* 0.875818 to 0.0452387 so 0.0347429 is 0.0221039 change 0.0141255 does 0.00583049 sir 0.00110063 sick 0.000450976 says 0.000388886 set 8.10088e-05 see 5.80718e-05 and 4.38081e-05 sit 7.4735e-06 sea 5.55636e-06 c 2.12317e-06 some 1.50895e-06 sew 7.27128e-07 just 9.85101e-08
+align 13 </s> 1

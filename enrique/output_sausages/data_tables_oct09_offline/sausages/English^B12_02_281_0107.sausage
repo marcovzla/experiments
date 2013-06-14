@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 i'd 0.983407 i 0.0165926
+align 2 *DELETE* 0.983407 would 0.0165926
+align 3 like 1
+align 4 to 1
+align 5 take 1
+align 6 uh 1
+align 7 walk 1
+align 8 around 1
+align 9 your 0.984601 you're 0.0153989
+align 10 building 1
+align 11 and 0.522845 in 0.450399 *DELETE* 0.0267555
+align 12 inspect 0.892927 *DELETE* 0.083517 an 0.023556
+align 13 your 0.891818 inspector 0.107073 you're 0.00110934
+align 14 building 1
+align 15 with 1
+align 16 you 0.999978 few 2.23248e-05 u 2.77886e-08
+align 17 </s> 1

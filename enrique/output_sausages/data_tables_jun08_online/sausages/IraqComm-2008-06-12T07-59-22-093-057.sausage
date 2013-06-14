@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 materials 1
+align 3 are 1
+align 4 needed 1
+align 5 for 1
+align 6 the 1
+align 7 rate 0.60867 raids 0.281155 reda 0.0651106 range 0.0255969 rain 0.01105 ray 0.00608994 rey 0.00137581 re 0.000658344 rates 0.000286076 *DELETE* 7.02545e-06
+align 8 *DELETE* 0.999797 do 0.000168678 day 2.70864e-05 rainy 4.47557e-06 raybi 2.54988e-06 radio 2.58759e-15 raiding 2.21232e-16 is 1.62933e-17 did 7.29635e-19 raided 3.38632e-22 it 4.83141e-23 i 7.29925e-25
+align 9 </s> 1

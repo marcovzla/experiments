@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 like 1
+align 4 being 1
+align 5 a 1
+align 6 teacher 1
+align 7 *DELETE* 0.998723 i 0.00122647 uh 4.85853e-05 a 1.42528e-06 in 2.52725e-07 okay 1.60396e-09 or 1.13138e-10 do 6.72773e-15 to 4.66085e-22 of 3.65218e-35 and 4.3165e-41 you 7.24997e-46 it 5.81623e-46
+align 8 </s> 1

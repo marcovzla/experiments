@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 medical 1
+align 3 supplies 1
+align 4 do 1
+align 5 you 1
+align 6 need 1
+align 7 for 1
+align 8 the 1
+align 9 hospital 1
+align 10 </s> 1

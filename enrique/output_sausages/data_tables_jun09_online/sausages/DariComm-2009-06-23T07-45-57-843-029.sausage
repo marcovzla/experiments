@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 about 1
+align 3 your 1
+align 4 vehicles 1
+align 5 are 0.505686 or 0.494314
+align 6 vehicles 0.998788 vehicle's 0.0012061 vehicles' 6.37369e-06
+align 7 well 0.986438 will 0.00960903 we'll 0.00395296
+align 8 do 1
+align 9 you 1
+align 10 need 1
+align 11 any 1
+align 12 equipment 1
+align 13 *DELETE* 0.996256 to 0.00322705 uh 0.000287965 i 0.00012392 in 0.000104549 it 2.57468e-07 do 2.31237e-07 um 5.57056e-09 you 5.46748e-10
+align 14 </s> 1

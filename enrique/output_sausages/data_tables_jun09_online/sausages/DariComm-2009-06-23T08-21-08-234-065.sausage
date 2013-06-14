@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 seen 1
+align 4 any 1
+align 5 drugs 1
+align 6 in 1
+align 7 the 1
+align 8 area 1
+align 9 *DELETE* 0.999966 uh 1.10097e-05 that 1.07001e-05 i 5.55729e-06 it 3.98479e-06 the 2.9419e-06 can 1.91772e-08 like 6.7899e-09 in 4.27271e-09
+align 10 </s> 1

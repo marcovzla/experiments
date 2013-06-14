@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.995178 i 0.00482236
+align 3 will 1 would 4.05604e-09
+align 4 bring 1
+align 5 four 1
+align 6 trucks 1
+align 7 how 1
+align 8 many 1
+align 9 will 0.999959 we'll 3.89319e-05 were 2.49021e-06
+align 10 you 1
+align 11 bring 1
+align 12 *DELETE* 0.99834 it 0.00151566 us 4.36378e-05 the 4.166e-05 in 3.14233e-05 them 9.23173e-06 up 8.664e-06 me 3.52096e-06 you 3.23082e-06 uh 2.634e-06 a 3.52994e-07 bringing 1.8321e-15
+align 13 </s> 1

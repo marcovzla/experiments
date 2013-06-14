@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 cell 0.551123 sell 0.351305 salah 0.0946817 salad 0.00289081
+align 4 banned 0.481439 band 0.358289 abandon 0.153325 abandoned 0.00694781
+align 5 are 0.996024 our 0.00339047 a 0.000349956 the 0.000236055
+align 6 *DELETE* 0.999414 are 0.000586011
+align 7 usually 0.998479 using 0.00152057
+align 8 in 0.999391 *DELETE* 0.000609474
+align 9 the 0.997073 a 0.00235273 *DELETE* 0.000550408 and 2.34652e-05
+align 10 village 1
+align 11 *DELETE* 0.999995 i 3.19544e-06 uh 1.84466e-06
+align 12 </s> 1

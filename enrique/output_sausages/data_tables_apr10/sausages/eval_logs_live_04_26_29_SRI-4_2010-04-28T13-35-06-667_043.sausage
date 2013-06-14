@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 do 1
+align 4 you 1
+align 5 see 1
+align 6 a 0.997563 the 0.0024374 it 6.97122e-08
+align 7 doctor 1
+align 8 </s> 1

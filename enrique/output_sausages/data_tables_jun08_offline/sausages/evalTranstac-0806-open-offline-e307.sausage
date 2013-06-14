@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999275 of 0.000428151 it 0.000297124
+align 2 whether 1
+align 3 they 1
+align 4 be 1
+align 5 a 0.941072 are 0.0365982 our 0.0124738 uh 0.00985652
+align 6 young 1
+align 7 boy 0.999538 boys 0.000462
+align 8 in 0.905684 and 0.0916887 he 0.00214865 an 0.000478255
+align 9 *DELETE* 0.997851 and 0.00165737 in 0.000491283
+align 10 old 0.9378 all 0.0621996
+align 11 man 0.986692 the 0.00938435 *DELETE* 0.00392327
+align 12 *DELETE* 0.986686 man 0.00923364 manned 0.00382724 manner 9.6614e-05 ma'an 8.59604e-05 mann 4.42564e-05 maan 1.8035e-05 i 6.33308e-06 manning 1.31732e-06 mans 3.21412e-07 manage 1.32577e-07 man's 1.00622e-07 a 2.85079e-08 uh 9.4544e-09
+align 13 *DELETE* 1 i 1.16783e-11
+align 14 </s> 1

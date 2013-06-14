@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 do 0.713617 *DELETE* 0.286383
+align 3 you 1
+align 4 being 1
+align 5 the 0.954144 *DELETE* 0.0295877 uh 0.0109944 a 0.00527399
+align 6 overall 1
+align 7 commander 1
+align 8 you 0.994733 do 0.0052672
+align 9 *DELETE* 0.994733 you 0.0052672
+align 10 can 1
+align 11 make 1
+align 12 sure 1
+align 13 that 1
+align 14 uh 1
+align 15 your 1
+align 16 soldiers 1
+align 17 were 0.529428 are 0.406 or 0.0645717
+align 18 checking 0.743282 taking 0.256718
+align 19 each 1
+align 20 other 1
+align 21 *DELETE* 0.999997 i 2.20831e-06 uh 6.17076e-07
+align 22 </s> 1

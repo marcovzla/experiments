@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 we're 0.999988 were 1.20478e-05
+align 2 going 0.664485 *DELETE* 0.335515
+align 3 to 0.664485 gonna 0.335515
+align 4 be 1
+align 5 doing 1
+align 6 a 1
+align 7 dismounted 1
+align 8 security 1
+align 9 patrol 1
+align 10 um 1
+align 11 today 0.999995 *DELETE* 5.45547e-06
+align 12 *DELETE* 0.999525 uh 0.00025674 i 0.000218267 and 3.29881e-08
+align 13 *DELETE* 0.999995 today 5.45547e-06
+align 14 </s> 1

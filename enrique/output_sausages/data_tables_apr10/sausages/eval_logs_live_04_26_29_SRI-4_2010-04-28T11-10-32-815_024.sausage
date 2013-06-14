@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 bridge 1
+align 3 will 0.996117 we'll 0.00388331
+align 4 be 1
+align 5 at 0.997048 in 0.00159734 of 0.00135464
+align 6 the 1
+align 7 south 1
+align 8 side 1
+align 9 of 1
+align 10 town 1
+align 11 and 0.999993 in 6.79232e-06
+align 12 two 1
+align 13 hundred 1
+align 14 meters 1
+align 15 long 0.999909 lawn 9.14323e-05 *DELETE* 1.5547e-20
+align 16 *DELETE* 1 uh 2.72502e-07 lock 1.7246e-17
+align 17 </s> 1

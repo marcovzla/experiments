@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 would 1
+align 3 like 1
+align 4 to 1
+align 5 conduct 1
+align 6 rehearsals 1
+align 7 before 1
+align 8 we 1
+align 9 do 1
+align 10 the 1
+align 11 actual 1
+align 12 mission 1
+align 13 *DELETE* 0.999997 uh 1.97126e-06 in 5.52481e-07
+align 14 </s> 1

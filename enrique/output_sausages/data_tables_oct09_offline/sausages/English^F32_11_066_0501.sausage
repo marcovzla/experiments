@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 not 1
+align 3 gonna 0.999999 going 7.11811e-07
+align 4 *DELETE* 0.999999 to 7.11811e-07
+align 5 be 1
+align 6 enough 0.999999 in 6.7687e-07
+align 7 *DELETE* 0.999999 uh 6.7687e-07
+align 8 personnel 1
+align 9 for 0.999396 four 0.000603842
+align 10 uh 0.619459 our 0.376195 a 0.00434678
+align 11 v._c._p. 0.999936 the 6.08141e-05 e._c._p. 3.42494e-06 be 4.37922e-12
+align 12 *DELETE* 0.999939 c._p. 6.08141e-05
+align 13 </s> 1

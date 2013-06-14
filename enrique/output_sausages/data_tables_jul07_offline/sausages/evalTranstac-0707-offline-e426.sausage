@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 *DELETE* 1 if 4.37519e-09
+align 3 as 1
+align 4 anyone 0.942984 anyway 0.0495521 any 0.00746412
+align 5 to 0.942984 *DELETE* 0.0495521 why 0.00428497 way 0.00317915
+align 6 uh 0.992102 oh 0.00789836
+align 7 what 1
+align 8 have 1
+align 9 people 1
+align 10 say 0.991978 said 0.00799011 *DELETE* 3.22027e-05
+align 11 that 0.994507 to 0.00502195 the 0.000221128 at 0.000121356 uh 8.50205e-05 set 3.22027e-05 *DELETE* 1.108e-05
+align 12 it 0.959635 *DELETE* 0.0347933 uh 0.00549193 a 7.93742e-05 eight 9.93108e-09
+align 13 *DELETE* 0.999998 a 2.3362e-06
+align 14 is 0.999991 as 8.76461e-06 his 1.90926e-10
+align 15 the 1
+align 16 cause 1
+align 17 of 1
+align 18 this 1
+align 19 *DELETE* 0.997751 uh 0.00222699 i 2.18618e-05 a 2.70192e-07 is 1.41684e-07
+align 20 </s> 1

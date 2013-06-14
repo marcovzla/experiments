@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 and 0.998184 in 0.00181618
+align 2 it's 0.959631 its 0.0403553 that's 1.38951e-05
+align 3 a 0.74559 *DELETE* 0.200616 the 0.0537935
+align 4 way 0.79809 away 0.200616 *DELETE* 0.0012939
+align 5 for 0.998471 wafer 0.0012939 free 0.000235084
+align 6 you 1
+align 7 as 0.92348 was 0.0702427 is 0.00567385 us 0.000602731 it's 1.0228e-06
+align 8 a 0.5736 the 0.4264
+align 9 leader 1
+align 10 to 1
+align 11 make 1
+align 12 sure 1
+align 13 that 1
+align 14 your 1
+align 15 soldiers 1
+align 16 are 0.993996 or 0.00600423
+align 17 prepared 1
+align 18 *DELETE* 0.999994 a 5.62597e-06 to 1.05598e-07
+align 19 </s> 1

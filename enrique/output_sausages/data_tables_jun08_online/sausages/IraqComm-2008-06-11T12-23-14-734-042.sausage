@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 0.999931 *DELETE* 6.87113e-05
+align 3 know 0.988096 have 0.0118354 *DELETE* 6.87113e-05
+align 4 the 0.98817 a 0.0118302
+align 5 sources 0.996506 source 0.00349379
+align 6 *DELETE* 0.996506 is 0.00349379
+align 7 of 0.818425 have 0.181575
+align 8 health 1
+align 9 problems 1
+align 10 in 0.999028 of 0.000971587 at 2.1698e-18
+align 11 your 1
+align 12 town 1
+align 13 *DELETE* 0.999981 uh 1.8939e-05 too 6.48339e-12
+align 14 </s> 1

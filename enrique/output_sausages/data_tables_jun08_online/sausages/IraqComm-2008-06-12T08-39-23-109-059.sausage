@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 0.986328 well 0.0119768 *DELETE* 0.00134041 but 0.000331707 that 2.35133e-05
+align 2 is 0.909275 does 0.0729296 was 0.0123054 as 0.00546698 has 2.35133e-05
+align 3 the 1 that 3.37722e-07
+align 4 propane 0.931651 power 0.0547274 *DELETE* 0.0122136 car 0.00140384 i 4.15781e-06
+align 5 *DELETE* 0.925792 grade 0.0318412 primary 0.0122136 they 0.00959122 grid 0.0075077 need 0.00586314 great 0.00392744 gray 0.00280114 maybe 0.000297078 may 0.00016538
+align 6 needed 0.988664 it 0.00586314 need 0.0051421 *DELETE* 0.000330936
+align 7 *DELETE* 0.994858 it 0.0051421
+align 8 for 0.999669 *DELETE* 0.000330936
+align 9 *DELETE* 0.702939 the 0.29673 in 0.000330936
+align 10 electricity 1
+align 11 *DELETE* 0.999714 here 0.000176645 uh 0.000108971 in 1.06824e-16
+align 12 </s> 1

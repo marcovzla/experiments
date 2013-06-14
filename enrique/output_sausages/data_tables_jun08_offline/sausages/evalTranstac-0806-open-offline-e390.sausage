@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 let's 1
+align 2 start 1
+align 3 talking 1
+align 4 about 1
+align 5 some 1
+align 6 of 1
+align 7 the 1
+align 8 things 1
+align 9 that 1
+align 10 we 1
+align 11 saw 1
+align 12 we 0.980241 *DELETE* 0.0155408 lu'ai 0.00421833
+align 13 were 0.978205 lawyer 0.0154123 we're 0.00605883 *DELETE* 0.000194946 later 8.73719e-05 lee 4.11736e-05
+align 14 out 0.987191 route 0.00933524 were 0.00347354
+align 15 *DELETE* 0.996526 out 0.00347354
+align 16 there 0.999265 their 0.000599561 they're 0.000133122 there're 1.86097e-06
+align 17 </s> 1

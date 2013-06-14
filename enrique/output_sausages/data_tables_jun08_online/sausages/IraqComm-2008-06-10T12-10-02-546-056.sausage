@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.726079 do 0.273921
+align 2 you 0.909131 we 0.0908688
+align 3 have 1
+align 4 a 0.999787 the 0.000213392
+align 5 plan 0.996692 planned 0.00330796
+align 6 to 1
+align 7 recruit 1
+align 8 more 1
+align 9 guards 0.998703 cards 0.00126981 *DELETE* 2.76272e-05
+align 10 *DELETE* 0.999619 in 0.000297397 uh 5.53691e-05 guard's 1.72706e-05 guards' 1.03565e-05 and 1.247e-07 it 5.53019e-11 i 9.55903e-14 so 5.92374e-16
+align 11 </s> 1

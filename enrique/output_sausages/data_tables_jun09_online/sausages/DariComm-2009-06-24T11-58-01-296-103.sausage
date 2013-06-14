@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 will 0.998061 would 0.00193897
+align 3 bring 1
+align 4 you 1
+align 5 water 0.999127 a 0.000873033
+align 6 *DELETE* 0.999127 water 0.000873033
+align 7 today 0.997541 to 0.00244369 two 1.56811e-05
+align 8 *DELETE* 0.994441 day 0.00245935 uh 0.00210524 he 0.000725384 i 0.000253696 to 7.81665e-06 a 7.20264e-06 it 8.4194e-08 so 2.01729e-08 date 1.75153e-08 you 1.63281e-10 at 7.66976e-13 i'm 5.29689e-13 here 2.25246e-15
+align 9 </s> 1

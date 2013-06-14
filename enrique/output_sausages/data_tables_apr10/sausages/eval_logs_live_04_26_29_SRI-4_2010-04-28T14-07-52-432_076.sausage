@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 has 0.999958 as 4.20189e-05
+align 2 the 0.9986 a 0.00139963
+align 3 school 1
+align 4 been 1
+align 5 attacked 0.999103 attack 0.000896591
+align 6 recently 1 a 2.68099e-25
+align 7 *DELETE* 1 i 8.89023e-08 uh 1.22575e-09 recently 2.68099e-25
+align 8 </s> 1

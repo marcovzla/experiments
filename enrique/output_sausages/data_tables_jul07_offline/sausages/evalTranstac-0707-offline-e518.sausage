@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 and 0.943476 *DELETE* 0.0439032 in 0.0126204
+align 2 this 1
+align 3 is 1
+align 4 where 1
+align 5 most 1
+align 6 of 0.992069 *DELETE* 0.007931
+align 7 the 0.967928 this 0.0320715
+align 8 small 1
+align 9 shops 0.999999 *DELETE* 1.01941e-10
+align 10 are 0.999638 our 0.000302703 or 4.27623e-05 *DELETE* 1.55147e-05 shop 1.27557e-06
+align 11 *DELETE* 0.999952 a 2.77436e-05 r 1.54849e-05 uh 3.67042e-06 sar 1.3053e-06 you 1.22118e-07 in 8.63287e-08 i 4.82794e-08
+align 12 </s> 1

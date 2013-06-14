@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 require 0.999026 acquire 0.000957897 required 7.05065e-06 arrive 5.15936e-06 work 4.04858e-06
+align 5 *DELETE* 0.999998 why 2.47065e-06
+align 6 *DELETE* 0.999995 have 1.76765e-06 are 1.57967e-06 why 1.57793e-06 wife 2.6325e-25
+align 7 for 1 four 5.94178e-14 or 2.6325e-25
+align 8 this 0.999905 *DELETE* 9.4537e-05
+align 9 *DELETE* 0.997995 uh 0.00175524 those 9.4537e-05 i 8.37836e-05 is 6.24955e-05 to 8.65602e-06 a 3.27205e-07 and 1.23336e-12 the 1.18925e-13 in 1.01585e-13 i'm 9.24155e-15
+align 10 </s> 1

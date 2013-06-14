@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 are 0.999998 is 1.75023e-06
+align 2 there 1
+align 3 any 1
+align 4 other 1
+align 5 problems 1
+align 6 that 1
+align 7 you 1
+align 8 need 1
+align 9 fixed 0.99982 to 0.000166008 *DELETE* 1.3512e-05
+align 10 *DELETE* 0.999675 fixed 0.000127141 it 7.36615e-05 so 5.07357e-05 fix 4.8068e-05 i 2.08941e-05 fixes 4.31084e-06 uh 2.62844e-08
+align 11 *DELETE* 1 to 4.08462e-12
+align 12 </s> 1

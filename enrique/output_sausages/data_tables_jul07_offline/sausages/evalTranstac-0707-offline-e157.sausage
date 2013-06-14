@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 would 1
+align 3 suggest 1
+align 4 you 1
+align 5 come 1
+align 6 at 1
+align 7 first 1
+align 8 thing 1
+align 9 in 0.611396 i'm 0.297469 of 0.0417602 *DELETE* 0.0346791 a 0.014695
+align 10 *DELETE* 0.891577 a 0.105069 uh 0.002647 it 0.000707012
+align 11 *DELETE* 0.999228 i'm 0.000772339
+align 12 morning 0.929635 warning 0.0703646
+align 13 as 1
+align 14 soon 1
+align 15 as 1
+align 16 we 1
+align 17 *DELETE* 0.990101 help 0.00989915
+align 18 open 0.990101 in 0.00989915
+align 19 the 1
+align 20 doors 0.999199 door 0.0007679 door's 3.34963e-05
+align 21 *DELETE* 0.999993 i 5.32913e-06 uh 1.20575e-06 so 1.34047e-07
+align 22 </s> 1

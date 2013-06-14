@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 you 1
+align 4 don't 1
+align 5 have 1
+align 6 actually 1
+align 7 uh 1
+align 8 running 0.946189 uh 0.0538112
+align 9 *DELETE* 0.946189 running 0.0538112
+align 10 water 1
+align 11 uh 0.927104 up 0.0587933 *DELETE* 0.0108873 or 0.00321582
+align 12 *DELETE* 0.960758 up 0.0253281 of 0.0108873 uh 0.00302691
+align 13 *DELETE* 0.999981 up 1.87106e-05
+align 14 coming 1
+align 15 to 1
+align 16 *DELETE* 0.999963 you 3.67215e-05
+align 17 your 1
+align 18 house 1
+align 19 </s> 1

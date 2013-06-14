@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 whose 0.999992 who's 7.93236e-06
+align 2 car 1
+align 3 is 1
+align 4 this 1
+align 5 </s> 1

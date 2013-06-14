@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 1 i 6.57873e-13
+align 3 don't 1
+align 4 understand 0.999872 i 0.000127776
+align 5 *DELETE* 0.999236 it 0.000133585 that 0.000130073 understand 0.000127776 uh 0.000120294 you 8.74623e-05 how 5.87153e-05 i 4.71849e-05 this 2.84876e-05 the 2.5282e-05 them 5.58038e-06 if 1.64621e-08
+align 6 </s> 1

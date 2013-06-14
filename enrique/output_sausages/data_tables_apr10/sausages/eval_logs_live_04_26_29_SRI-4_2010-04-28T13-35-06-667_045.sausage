@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 say 0.999959 see 3.67942e-05 c 4.45872e-06
+align 2 again 1
+align 3 please 1
+align 4 </s> 1

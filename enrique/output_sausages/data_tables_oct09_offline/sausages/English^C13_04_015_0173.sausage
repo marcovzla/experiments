@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 1
+align 3 what 0.510942 what's 0.487683 which 0.00107989 with 0.000294995
+align 4 your 0.99836 you're 0.00164042
+align 5 brother's 0.964438 brothers 0.0351283 brothers' 0.000433333
+align 6 name 1
+align 7 </s> 1

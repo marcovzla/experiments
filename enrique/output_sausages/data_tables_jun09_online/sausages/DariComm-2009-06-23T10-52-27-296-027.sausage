@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 to 1 you 2.06706e-07
+align 5 see 1
+align 6 a 1 the 1.1018e-08
+align 7 doctor 1
+align 8 *DELETE* 1 i'm 5.64113e-14 to 2.37101e-14 is 1.77753e-14 i 3.91552e-15
+align 9 </s> 1

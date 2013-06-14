@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 0.998291 you 0.00170939
+align 4 *DELETE* 0.998291 need 0.00170939
+align 5 any 1
+align 6 special 1
+align 7 equipment 1
+align 8 to 0.999347 *DELETE* 0.000652553
+align 9 fix 1
+align 10 the 0.976639 that 0.0138381 *DELETE* 0.00943904 it 8.3559e-05
+align 11 vehicles 0.985935 vehicle's 0.0109975 vehicles' 0.00306784
+align 12 *DELETE* 0.998962 uh 0.000597373 in 0.000332512 i 0.00010411 up 3.45152e-06 you 1.20362e-07 if 5.66221e-08 to 8.35106e-09 are 2.74038e-09 um 2.24005e-11
+align 13 </s> 1

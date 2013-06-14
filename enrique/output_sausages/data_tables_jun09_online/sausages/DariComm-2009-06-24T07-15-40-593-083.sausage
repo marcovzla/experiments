@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 you 0.945504 you're 0.053147 your 0.00134898
+align 3 *DELETE* 0.9262 coming 0.0464704 you're 0.0273296
+align 4 *DELETE* 0.973155 coming 0.0268447
+align 5 *DELETE* 0.933143 to 0.0668569
+align 6 *DELETE* 0.966198 do 0.0338016
+align 7 *DELETE* 0.652122 you 0.347878
+align 8 have 0.739018 are 0.150304 *DELETE* 0.0841646 were 0.0123075 a 0.0121135 had 0.00144273 would 0.000495762 your 0.000138442 i 8.55199e-06 know 6.85417e-06
+align 9 come 0.749598 coming 0.177084 *DELETE* 0.0733151 a 2.24804e-06 going 3.75092e-07
+align 10 *DELETE* 0.999991 in 7.02489e-06 come 1.69823e-06 coming 5.49808e-07
+align 11 into 0.691427 to 0.18355 *DELETE* 0.0668569 in 0.058166
+align 12 *DELETE* 0.941834 to 0.058166
+align 13 the 0.800978 do 0.156824 *DELETE* 0.0417044 deep 0.00027663 did 0.000124136 these 9.26143e-05
+align 14 *DELETE* 0.964543 you 0.0354566
+align 15 see 0.966687 sea 0.0254056 c 0.00790691
+align 16 the 1
+align 17 commander 1
+align 18 what 0.639896 we 0.307004 and 0.0458638 *DELETE* 0.00723598
+align 19 *DELETE* 0.639896 want 0.256764 what 0.10334
+align 20 about 1
+align 21 *DELETE* 0.992618 the 0.00550205 that 0.000833798 this 0.000705429 them 0.000319996 their 2.08643e-05
+align 22 this 1
+align 23 guy 1
+align 24 *DELETE* 0.999992 do 5.55082e-06 i 1.56791e-06 and 7.52399e-07 does 1.31378e-07 to 6.46381e-10 uh 3.47512e-11 who 3.26666e-14
+align 25 </s> 1

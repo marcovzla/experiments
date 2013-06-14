@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 can 1
+align 3 check 1
+align 4 and 1
+align 5 see 1
+align 6 if 1
+align 7 he's 0.987989 he 0.0120106
+align 8 *DELETE* 0.987989 is 0.0120106
+align 9 here 0.999674 *DELETE* 0.000325963
+align 10 *DELETE* 0.998493 uh 0.000736031 i 0.00043412 hear 0.000325963 the 8.9496e-06 to 1.95084e-06 a 3.73126e-07
+align 11 </s> 1

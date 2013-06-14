@@ -1,0 +1,47 @@
+numaligns 45
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i'll 0.991773 uh 0.00822302 *DELETE* 3.88249e-06
+align 3 *DELETE* 0.591058 i'll 0.408942
+align 4 i'll 1.00003
+align 5 let 1
+align 6 our 1
+align 7 uh 1
+align 8 i'll 1
+align 9 civil 1
+align 10 affairs 1
+align 11 group 1
+align 12 uh 0.927932 well 0.0720675
+align 13 *DELETE* 0.926508 uh 0.0720675 and 0.0014243
+align 14 know 0.84227 i 0.150806 no 0.00692426
+align 15 *DELETE* 0.849194 know 0.150806
+align 16 that 1
+align 17 the 0.786623 they 0.178796 to 0.0345816
+align 18 the 0.982158 be 0.0162757 do 0.00100559 need 0.000489309 they 7.09296e-05
+align 19 *DELETE* 0.999954 you 4.6298e-05
+align 20 electricity 1
+align 21 here 1
+align 22 in 0.999291 *DELETE* 0.000708998
+align 23 *DELETE* 0.999318 the 0.000681723
+align 24 in 1
+align 25 this 1
+align 26 neighborhood 1
+align 27 is 1
+align 28 uh 1
+align 29 kind 0.662703 coming 0.319164 come 0.0177183 uh 0.000414843
+align 30 *DELETE* 0.999585 kind 0.000414843
+align 31 of 0.593402 *DELETE* 0.319164 a 0.0697158 in 0.0177183
+align 32 going 1
+align 33 on 1
+align 34 and 0.995945 in 0.00405503
+align 35 off 1
+align 36 and 0.99995 *DELETE* 5.04288e-05
+align 37 we'll 0.99995 most 5.04288e-05
+align 38 try 0.99995 trying 5.04288e-05
+align 39 to 1
+align 40 correct 1
+align 41 that 0.992253 it 0.00528046 them 0.00215337 i 0.00031299
+align 42 for 0.999922 four 7.76716e-05
+align 43 you 1 year 4.40649e-12
+align 44 </s> 1

@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 will 0.991596 well 0.0084032 we'll 1.19459e-06
+align 2 he 0.969027 you 0.0309729
+align 3 have 1
+align 4 to 1
+align 5 need 0.934377 *DELETE* 0.0542685 do 0.011355
+align 6 a 0.921062 you 0.0636884 *DELETE* 0.0152493
+align 7 *DELETE* 0.921062 know 0.0640777 to 0.0143151 no 0.000425729 deal 0.000119221
+align 8 wheelchair 1
+align 9 when 0.827981 *DELETE* 0.172019
+align 10 he 0.782523 one 0.171832 *DELETE* 0.0256979 it 0.0197606 wanna 0.000186852
+align 11 gets 1
+align 12 out 0.983155 *DELETE* 0.0168446
+align 13 of 0.906226 a 0.0502945 *DELETE* 0.024475 addie 0.0152726 in 0.0021598 adding 0.000890167 added 0.00068179
+align 14 here 0.961917 year 0.0380828
+align 15 or 1
+align 16 *DELETE* 0.99082 or 0.00917963
+align 17 is 1
+align 18 he 1
+align 19 gonna 0.997526 going 0.00247412
+align 20 *DELETE* 0.997526 to 0.00247412
+align 21 need 1
+align 22 uh 1
+align 23 any 0.903232 uh 0.0967678
+align 24 *DELETE* 0.903232 any 0.0967678
+align 25 other 1
+align 26 equipment 1
+align 27 that 1
+align 28 you 1
+align 29 can 1
+align 30 think 1
+align 31 of 1
+align 32 right 1
+align 33 now 1
+align 34 offhand 0.958671 off 0.0413287
+align 35 *DELETE* 0.958671 hand 0.0407759 and 0.00055274
+align 36 that 1
+align 37 maybe 0.999701 may 0.000298746
+align 38 *DELETE* 0.999701 be 0.000298746
+align 39 i 1
+align 40 could 0.96426 can 0.0357398
+align 41 get 1
+align 42 for 0.998142 four 0.00185774
+align 43 him 0.998687 them 0.0013125
+align 44 *DELETE* 0.999991 uh 5.37535e-06 i 3.97247e-06
+align 45 </s> 1

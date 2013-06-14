@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 good 0.986962 okay 0.0130375
+align 2 then 1
+align 3 let's 1 i 2.11412e-16
+align 4 have 0.999961 uh 3.93582e-05 saw 2.11412e-16
+align 5 a 0.999961 the 3.93582e-05 that 2.11412e-16
+align 6 conversation 0.996102 compensation 0.00389731 *DELETE* 9.77307e-18
+align 7 *DELETE* 0.999985 i 1.0313e-05 you 3.45412e-06 uh 7.52595e-07 conversations 4.809e-07 with 4.05004e-08 and 2.50646e-10
+align 8 </s> 1

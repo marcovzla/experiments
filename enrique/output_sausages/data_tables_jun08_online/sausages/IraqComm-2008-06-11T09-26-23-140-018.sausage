@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 name 1
+align 5 of 1
+align 6 the 1
+align 7 sheikh 0.99995 shake 5.01613e-05
+align 8 </s> 1

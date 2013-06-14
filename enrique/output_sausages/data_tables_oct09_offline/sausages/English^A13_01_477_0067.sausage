@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 why 0.996674 well 0.00332639
+align 2 *DELETE* 0.996674 i 0.00332639
+align 3 would 0.992652 were 0.00734747 *DELETE* 5.26269e-10
+align 4 you 0.732704 be 0.255622 do 0.00807605 *DELETE* 0.00203909 he 0.0010957 we 0.00045931 a 3.43486e-06 wouldn't 2.15369e-07
+align 5 the 0.992995 them 0.00276404 your 0.0020109 know 0.000781215 that 0.000573756 *DELETE* 0.000266131 than 0.000261763 then 0.000212493 have 8.28825e-05 even 2.84059e-05 do 2.35393e-05 new 1.69698e-07
+align 6 *DELETE* 1 them 1.69698e-07
+align 7 money 1
+align 8 sir 0.999906 so 9.1573e-05 cell 2.72035e-06 sooner 1.03344e-08
+align 9 *DELETE* 0.999447 uh 0.000428644 i 0.00012465
+align 10 </s> 1

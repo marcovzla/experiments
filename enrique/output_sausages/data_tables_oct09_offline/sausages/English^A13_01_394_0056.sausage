@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 0.990325 so 0.00967503
+align 3 but 0.999779 good 0.000221465
+align 4 if 1
+align 5 you 1
+align 6 were 1
+align 7 to 1
+align 8 see 0.999905 say 9.46648e-05 sea 2.89584e-07
+align 9 one 0.995211 *DELETE* 0.0047889
+align 10 of 0.995211 what 0.0047889
+align 11 the 0.555687 their 0.444313
+align 12 face 0.710945 faces 0.289055
+align 13 is 0.710945 *DELETE* 0.289055
+align 14 would 1
+align 15 you 1
+align 16 be 1
+align 17 able 1
+align 18 to 1
+align 19 point 1
+align 20 *DELETE* 0.881669 him 0.0630992 i'm 0.0281736 a 0.0264012 of 0.00060486 um 4.7661e-05 to 4.76345e-06 i 1.81047e-11 on 1.62178e-11
+align 21 amount 0.852959 out 0.0878072 mile 0.021212 my 0.0109653 man 0.010964 ahmed 0.00285184 mount 0.00222632 amal 0.00158694 month 0.00146532 i'm 0.00130374 amman 0.00105301 mark 0.000974063 ammo 0.000875235 uh 0.00082275 off 0.000647691 mouth 0.000557579 amounts 0.000357111 may 0.000312805 among 0.000220592 i'll 0.00019607 all 0.000168729 on 0.000143358 um 9.2615e-05 i 7.03264e-05 ammar 6.23156e-05 up 3.92198e-05 about 3.10306e-05 are 2.87055e-05 much 4.02166e-06 mop 1.08632e-06 op 5.16998e-08
+align 22 *DELETE* 0.999999 i 1.03924e-06
+align 23 </s> 1

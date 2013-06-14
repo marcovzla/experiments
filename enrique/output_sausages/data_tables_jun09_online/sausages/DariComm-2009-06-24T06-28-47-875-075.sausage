@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 help 0.640765 have 0.359235
+align 2 more 1
+align 3 patients 0.998791 patient's 0.000916869 *DELETE* 0.000291836
+align 4 then 0.841613 *DELETE* 0.158095 patience 0.000291836
+align 5 treat 0.768102 been 0.124183 *DELETE* 0.073511 being 0.0185134 them 0.0154943 then 0.000195866
+align 6 *DELETE* 0.999804 treat 0.000195866
+align 7 it 0.768298 treated 0.228714 treat 0.00298786
+align 8 *DELETE* 0.997012 it 0.00298786
+align 9 in 1
+align 10 the 1
+align 11 past 1
+align 12 four 0.578028 for 0.276638 before 0.140199 two 0.00509943 *DELETE* 3.49383e-05
+align 13 of 0.998879 a 0.00108557 drove 3.49383e-05
+align 14 years 0.974978 yours 0.0219219 year's 0.00156625 years' 0.000784222 use 0.000723944 you 2.60059e-05 *DELETE* 1.0754e-18
+align 15 *DELETE* 0.999756 i 0.000106121 uh 0.000105369 use 2.60059e-05 it 6.03329e-06 in 7.93776e-08 you 1.05738e-08 to 2.26397e-11 do 1.25835e-11 that 2.43728e-12 and 1.6167e-12 u._s. 1.08632e-15
+align 16 </s> 1

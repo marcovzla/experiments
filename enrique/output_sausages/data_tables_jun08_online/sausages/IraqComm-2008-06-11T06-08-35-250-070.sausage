@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 did 0.999995 would 4.82105e-06
+align 3 you 1
+align 4 lied 0.949521 lie 0.0504548 like 2.38862e-05
+align 5 to 1
+align 6 me 1
+align 7 about 1
+align 8 what's 1
+align 9 in 0.997016 on 0.00298357
+align 10 the 1
+align 11 car 1 cart 7.63862e-08
+align 12 *DELETE* 1 who 4.70867e-14 uh 2.37469e-17 i 4.66188e-18 in 7.84708e-20 and 5.58421e-21
+align 13 </s> 1

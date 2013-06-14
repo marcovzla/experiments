@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 0.999874 *DELETE* 0.000125857
+align 3 you 1
+align 4 doing 1
+align 5 today 1
+align 6 omar 0.999874 uh 6.35292e-05 or 4.63173e-05 *DELETE* 1.20786e-05 oh 4.06909e-06 all 2.07641e-12 are 8.31962e-14
+align 7 *DELETE* 0.999874 more 0.000113916 ammar 1.20786e-05
+align 8 </s> 1

@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 excellent 1
+align 3 the 1
+align 4 last 1
+align 5 point 1
+align 6 that 1
+align 7 uh 1
+align 8 i 0.955133 uh 0.0448671
+align 9 *DELETE* 0.955102 i 0.0448671 want 3.071e-05
+align 10 wanted 0.953606 i 0.0463635 it 3.071e-05
+align 11 *DELETE* 0.953637 wanted 0.0463635
+align 12 to 1
+align 13 talk 1
+align 14 with 1
+align 15 you 1
+align 16 about 1
+align 17 is 1
+align 18 celebrate 1
+align 19 tori 0.49787 torie 0.497756 tore 0.00121346 corrie 0.000615227 cory 0.000615227 corey 0.000613796 kory 0.000613796 korey 0.000613796 or 8.8631e-05
+align 20 *DELETE* 0.998698 a 0.00111542 it 0.00018668
+align 21 fires 0.99507 fire 0.00242299 fire's 0.00209752 buyers 0.00040869 fighters 3.98397e-07
+align 22 </s> 1

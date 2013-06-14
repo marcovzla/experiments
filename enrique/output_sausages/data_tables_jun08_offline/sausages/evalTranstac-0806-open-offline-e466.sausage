@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that'll 0.999993 that 7.16529e-06
+align 3 *DELETE* 0.999993 would 7.16529e-06
+align 4 be 1
+align 5 great 1
+align 6 uh 1
+align 7 *DELETE* 0.798141 uh 0.201859
+align 8 we 1
+align 9 can 1
+align 10 plan 0.989029 plant 0.0109707
+align 11 for 1
+align 12 uh 0.525522 a 0.474478
+align 13 is 0.608745 uh 0.160054 of 0.140569 a 0.0776982 i 0.00703871 i'm 0.00532365 i've 0.000572394
+align 14 zero 1
+align 15 six 1
+align 16 </s> 1

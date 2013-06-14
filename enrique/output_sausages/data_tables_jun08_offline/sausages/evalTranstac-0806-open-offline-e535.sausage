@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 gonna 0.987033 a 0.0129671
+align 3 need 1
+align 4 fee 0.560799 *DELETE* 0.222997 to 0.178843 for 0.0190265 feed 0.0183348
+align 5 you 0.726923 the 0.222997 *DELETE* 0.0500796
+align 6 this 0.691129 u._s. 0.165027 you 0.0907791 *DELETE* 0.0351118 use 0.0172703 expect 0.000493084 to 0.000189579
+align 7 *DELETE* 0.909221 this 0.0907791
+align 8 but 0.860566 *DELETE* 0.102883 respect 0.0351118 put 0.00125004 split 0.000189579
+align 9 you 0.674676 the 0.188454 picture 0.10239 your 0.0216476 to 0.0128329
+align 10 platoon 0.942222 put 0.0577785
+align 11 *DELETE* 0.943554 two 0.036597 him 0.019749 too 0.000100477
+align 12 *DELETE* 0.999961 of 3.39313e-05 many 5.28781e-06
+align 13 *DELETE* 0.999993 the 7.20593e-06
+align 14 to 0.977883 it's 0.0094521 it 0.00510562 men 0.00296793 and 0.00222948 its 0.00135669 him 0.00100485
+align 15 *DELETE* 0.99875 him 0.00125026
+align 16 *DELETE* 0.956047 to 0.0331441 a 0.0108088
+align 17 force 0.626337 forced 0.2593 for 0.0510114 four 0.0428684 forward 0.0132209 forte 0.00527017 fourth 0.00173671 forces 0.00025581
+align 18 for 0.9172 four 0.0483553 to 0.0341462 before 0.000298611
+align 19 *DELETE* 0.965854 for 0.0220983 four 0.012048
+align 20 fire 0.999875 far 0.000125151
+align 21 teams 0.997877 teens 0.00123965 team's 0.000883598
+align 22 *DELETE* 0.999991 uh 7.61906e-06 i 7.62623e-07 a 3.28215e-07
+align 23 </s> 1

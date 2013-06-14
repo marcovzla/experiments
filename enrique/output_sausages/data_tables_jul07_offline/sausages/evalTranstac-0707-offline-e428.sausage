@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 *DELETE* 0.987996 um 0.00871686 so 0.00298757 how 0.000299931
+align 3 how 1
+align 4 often 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 power 1
+align 9 and 0.919916 in 0.0800842
+align 10 for 0.999999 four 5.4404e-07
+align 11 what 1
+align 12 length 0.999295 link 0.000294623 lane 0.00023108 like 0.000148586 went 2.70212e-05 line 3.337e-06 linked 2.71698e-07 when 1.3524e-07
+align 13 of 0.999295 through 0.000260298 that 0.000223873 the 0.000107683 their 5.98133e-05 to 5.33877e-05
+align 14 time 1
+align 15 *DELETE* 0.999984 i 1.21659e-05 if 3.89461e-06
+align 16 </s> 1

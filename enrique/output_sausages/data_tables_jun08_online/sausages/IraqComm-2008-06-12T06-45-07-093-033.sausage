@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 near 0.998809 new 0.00119089
+align 4 this 0.555048 the 0.444952
+align 5 school 1
+align 6 in 0.999429 and 0.000571369
+align 7 terms 0.904552 times 0.0954479
+align 8 of 1
+align 9 landmarks 0.858177 land 0.140991 lane 0.00055883 lan 0.000273406 landmark 1.20627e-07
+align 10 *DELETE* 0.858175 marks 0.132126 works 0.00872977 marx 0.000757241 marcus 0.00010488 markus 0.00010488 i 1.37213e-06 in 4.08121e-07 is 1.20627e-07 work's 1.63218e-22
+align 11 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 medication 1
+align 6 to 1
+align 7 treat 1
+align 8 the 1
+align 9 patients 1
+align 10 that 0.981265 there 0.0187354
+align 11 are 1
+align 12 here 0.999891 near 7.34864e-05 injured 3.28548e-05 in 1.37628e-06 hear 1.20198e-06
+align 13 *DELETE* 0.999999 your 1.37628e-06
+align 14 now 0.999812 are 0.000133126 *DELETE* 5.20543e-05 or 3.14333e-06
+align 15 *DELETE* 0.999355 i 0.000264306 uh 0.000192043 now 0.00013627 no 5.20543e-05 you 2.35913e-07 and 3.20976e-12 to 2.49765e-12 know 5.98723e-25
+align 16 </s> 1

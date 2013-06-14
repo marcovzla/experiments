@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i 0.560284 i'm 0.439716
+align 2 am 0.560284 *DELETE* 0.439716
+align 3 going 1
+align 4 to 1
+align 5 provide 1
+align 6 you 1
+align 7 with 1
+align 8 training 0.99456 a 0.00542893 the 1.05982e-05
+align 9 *DELETE* 0.99456 training 0.00543953
+align 10 on 1
+align 11 patrols 0.999872 patrol's 0.000126258 *DELETE* 2.00653e-12
+align 12 *DELETE* 0.999994 in 2.98463e-06 patrol 1.72074e-06 i 9.57245e-07 a 6.23035e-09
+align 13 </s> 1

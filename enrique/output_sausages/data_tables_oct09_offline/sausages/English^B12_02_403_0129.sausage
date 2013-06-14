@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i'll 0.999965 all 3.53873e-05
+align 3 be 1
+align 4 happy 1
+align 5 to 1
+align 6 give 1
+align 7 you 1
+align 8 my 1
+align 9 cell 1
+align 10 phone 1
+align 11 number 1
+align 12 </s> 1

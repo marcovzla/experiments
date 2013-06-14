@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 1
+align 3 i 1
+align 4 *DELETE* 0.96665 i 0.0333502
+align 5 have 1
+align 6 a 1
+align 7 marine 1
+align 8 who's 0.858136 was 0.140162 *DELETE* 0.00103853 whose 0.000663902
+align 9 really 0.998666 usually 0.00103853 early 0.000295281
+align 10 good 1
+align 11 at 0.946008 out 0.0221391 add 0.0199731 i'd 0.0118802
+align 12 a 0.561659 *DELETE* 0.43311 it 0.00523137
+align 13 uh 0.866322 us 0.101177 of 0.0266608 *DELETE* 0.00583995
+align 14 *DELETE* 0.981004 a 0.0189957
+align 15 fixing 1
+align 16 *DELETE* 0.999992 the 6.83113e-06 it 1.44937e-06
+align 17 things 0.999967 thanks 3.28175e-05 thing's 1.51055e-07 tanks 6.69513e-08
+align 18 *DELETE* 0.999999 uh 8.04457e-07
+align 19 </s> 1

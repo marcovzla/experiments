@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 but 0.991925 and 0.00755921 what 0.000515744
+align 2 i 1
+align 3 will 0.999796 i 0.00020442
+align 4 *DELETE* 0.999796 will 0.00020442
+align 5 assist 1
+align 6 you 1
+align 7 in 1
+align 8 requisite 1
+align 9 seen 0.549641 soon 0.294037 should 0.119834 shin 0.0249361 so 0.00369334 same 0.00190916 some 0.00168476 sin 0.00104684 scene 0.000693155 slim 0.000601862 saying 0.000560956 seeing 0.000388905 chin 0.000316621 shaheen 0.000222459 snow 0.000112934 sane 9.62281e-05 shame 7.37884e-05 she 7.12573e-05 shane 5.94119e-05 shnayyin 1.48246e-05 say 4.79373e-06
+align 10 *DELETE* 0.875329 in 0.124671
+align 11 those 0.998946 nose 0.000630347 knows 0.000423895
+align 12 of 0.957398 *DELETE* 0.0258371 are 0.0167653
+align 13 *DELETE* 0.981872 the 0.0167653 a 0.000932558 uh 0.000429664
+align 14 other 0.873151 the 0.0885247 a 0.0382918 over 3.23219e-05
+align 15 *DELETE* 0.847346 other 0.15128 over 0.00137359
+align 16 uh 0.825505 *DELETE* 0.174495
+align 17 *DELETE* 0.690531 uh 0.134974 are 0.122552 um 0.0519426
+align 18 generators 1
+align 19 for 1
+align 20 your 1
+align 21 facility 0.999994 facilities 5.50668e-06
+align 22 *DELETE* 0.999998 uh 1.53103e-06 is 1.41301e-08
+align 23 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 no 1
+align 2 i 1
+align 3 *DELETE* 0.999346 i 0.000653574
+align 4 want 1
+align 5 you 1
+align 6 to 1
+align 7 check 0.999744 shake 0.000256313 take 4.33813e-17
+align 8 under 0.929474 on 0.0703211 up 0.000204445
+align 9 *DELETE* 0.999796 on 0.000204445
+align 10 *DELETE* 0.929566 their 0.0468927 her 0.0150161 there 0.00835007 they're 0.000114503 or 6.08644e-05 here 3.62539e-11
+align 11 this 0.774044 his 0.206537 the 0.0167352 just 0.00145488 does 0.000954137 is 0.000129605 it 9.8775e-05 that 4.64933e-05 *DELETE* 5.94058e-19
+align 12 *DELETE* 0.999855 is 0.000123543 as 2.1725e-05 does 6.42133e-11
+align 13 car 0.997276 call 0.00154606 cough 0.000490394 cart 0.000250342 *DELETE* 0.000224781 kar 0.0002125 to 4.73526e-17
+align 14 *DELETE* 0.998864 uh 0.000619441 i 0.000234856 qar 9.06275e-05 scar 4.90485e-05 card 4.29113e-05 core 4.17583e-05 or 2.41282e-05 in 2.05268e-05 is 1.15908e-05 karkh 3.99246e-07 it 2.83892e-07 to 1.2003e-07 caught 3.6027e-08 oh 1.61495e-08 a 2.69222e-10 who 1.76148e-10 how 2.99084e-11 and 2.4333e-13 that 9.49963e-15 caller 3.97427e-15 oil 4.09281e-16 on 2.54895e-17
+align 15 </s> 1

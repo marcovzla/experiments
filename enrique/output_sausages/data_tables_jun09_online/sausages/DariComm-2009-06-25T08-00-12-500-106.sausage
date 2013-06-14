@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 which 0.921129 uh 0.0491834 of 0.0296874
+align 5 *DELETE* 0.921129 which 0.0788708
+align 6 medication 1
+align 7 to 0.997392 too 0.00260769
+align 8 use 1
+align 9 for 0.972549 or 0.0146817 *DELETE* 0.0126198 four 0.000149147
+align 10 an 0.985178 foreign 0.0111786 in 0.00204917 corn 0.00068221 born 0.00068152 *DELETE* 0.000153051 thorn 7.74724e-05
+align 11 injury 0.99996 *DELETE* 4.00294e-05
+align 12 *DELETE* 0.999797 is 7.17336e-05 i 6.55095e-05 injuries 4.00294e-05 in 9.1898e-06 to 4.48871e-06 at 3.9059e-06 that 3.8584e-06 uh 3.47534e-06 you 3.65415e-07 do 5.77459e-08 it 2.18695e-08 and 1.58945e-09 but 1.13363e-10
+align 13 </s> 1

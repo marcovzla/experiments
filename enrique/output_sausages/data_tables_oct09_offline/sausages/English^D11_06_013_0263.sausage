@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.999987 and 9.76291e-06 it 3.18345e-06
+align 3 now 1
+align 4 i 1
+align 5 understand 1
+align 6 that 0.996336 uh 0.00366439
+align 7 that 0.564293 but 0.325328 by 0.077374 uh 0.0149232 about 0.0135335 buy 0.00407773 bite 0.000470115
+align 8 *DELETE* 0.999956 uh 4.43066e-05
+align 9 you 0.901002 your 0.0989985
+align 10 medical 1
+align 11 facility 1
+align 12 in 0.999953 *DELETE* 4.72849e-05
+align 13 here 1
+align 14 isn't 0.664504 is 0.335496
+align 15 *DELETE* 0.573276 uh 0.382039 a 0.036693 that 0.00494739 it 0.00170496 is 0.00121319 um 0.000122221 i 2.75646e-06 in 1.02173e-06
+align 16 *DELETE* 0.999325 is 0.000675177
+align 17 *DELETE* 0.998112 in 0.00188836
+align 18 isn't 0.998112 the 0.00139551 *DELETE* 0.000492857
+align 19 uh 0.73271 *DELETE* 0.135491 that 0.0781359 but 0.053663
+align 20 the 0.999831 *DELETE* 0.000169388
+align 21 *DELETE* 0.919231 uh 0.080769
+align 22 *DELETE* 0.864509 the 0.135491
+align 23 great 1
+align 24 the 0.999654 in 0.000170091 and 0.000137468 they 3.82694e-05 *DELETE* 7.82318e-14
+align 25 *DELETE* 0.999692 the 0.00030756
+align 26 greatest 0.998587 graders 0.000863187 great 0.0002925 grade 0.000160164 grades 8.14673e-05 grid 1.33138e-05 group 1.86373e-06 degrade 5.14103e-07 good 2.3027e-07
+align 27 *DELETE* 0.999564 us 0.00017239 this 0.000118538 is 7.71572e-05 it's 4.39845e-05 as 1.10226e-05 i 5.534e-06 its 5.07783e-06 a 1.65968e-06 his 4.41764e-07
+align 28 </s> 1

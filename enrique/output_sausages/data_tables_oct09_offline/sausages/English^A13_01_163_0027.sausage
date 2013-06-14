@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 sir 0.921382 so 0.0786176
+align 2 you 0.6143 unit 0.337143 you're 0.0482504 units 0.000307413
+align 3 know 0.53479 *DELETE* 0.33745 have 0.077577 not 0.0482504 never 0.00193259
+align 4 over 0.546989 our 0.421501 come 0.0122144 or 0.0109384 i'm 0.00599277 the 0.00228011 *DELETE* 8.40845e-05
+align 5 *DELETE* 0.990454 or 0.00726554 cover 0.00218662 car 4.95042e-05 come 4.39806e-05
+align 6 *DELETE* 0.999956 or 4.39806e-05
+align 7 on 0.988974 around 0.0109418 overrun 8.39225e-05
+align 8 open 0.99922 opened 0.000779708
+align 9 the 0.895547 to 0.0740292 up 0.0302431 *DELETE* 0.000180293
+align 10 *DELETE* 0.970991 the 0.0290093
+align 11 uh 0.943325 *DELETE* 0.0559016 to 0.00077315
+align 12 the 0.993032 *DELETE* 0.00696836
+align 13 gas 1
+align 14 thing 0.947266 tank 0.0527342
+align 15 uh 0.705792 the 0.292361 i 0.0018475
+align 16 *DELETE* 0.884068 uh 0.115932
+align 17 door 0.972248 or 0.0162418 for 0.00842624 dor 0.00189607 bore 0.000714943 four 0.000244065 your 7.80081e-05 more 6.04776e-05 board 4.91519e-05 dollar 4.1298e-05
+align 18 please 0.907868 peace 0.0536566 piece 0.0308394 peas 0.00473381 pleas 0.00115543 pee 0.00040438 peach 0.000404307 police 0.000296826 place 0.000203889 p 0.000177506 pleased 0.000166917 pays 3.56593e-05 a 2.52689e-05 pete 2.36339e-05 plays 8.19591e-06 pace 1.56994e-07 placed 5.87691e-08
+align 19 *DELETE* 0.999974 please 2.52689e-05 i 7.22155e-07 uh 2.18742e-07
+align 20 </s> 1

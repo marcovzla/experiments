@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 0.903218 *DELETE* 0.0967822
+align 2 your 0.799374 you 0.200626
+align 3 boys 0.999895 boys' 8.46515e-05 boy's 1.99662e-05
+align 4 go 1
+align 5 to 1
+align 6 school 1
+align 7 *DELETE* 0.999584 uh 0.000308602 to 9.4411e-05 i 1.25141e-05
+align 8 </s> 1

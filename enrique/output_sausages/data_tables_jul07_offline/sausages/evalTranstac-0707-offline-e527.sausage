@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 our 0.996984 are 0.00301593
+align 2 biggest 1
+align 3 concern 1
+align 4 is 1
+align 5 not 1
+align 6 injure 0.616063 to 0.354352 the 0.0295849
+align 7 *DELETE* 0.616063 injure 0.383937
+align 8 any 1
+align 9 of 1
+align 10 the 1
+align 11 people 1
+align 12 that 0.998787 the 0.00121317
+align 13 live 0.999965 lived 3.47278e-05
+align 14 nearby 0.999788 here 0.000186175 near 2.5742e-05
+align 15 *DELETE* 0.999775 by 0.000211917 you 1.27507e-05 i 3.25847e-07
+align 16 </s> 1

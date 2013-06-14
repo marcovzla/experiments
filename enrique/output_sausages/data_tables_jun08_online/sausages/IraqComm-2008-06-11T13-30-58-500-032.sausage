@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 0.999979 *DELETE* 2.14494e-05
+align 2 you 0.999973 the 2.14494e-05 *DELETE* 5.6873e-06
+align 3 point 0.999942 pointed 5.84665e-05
+align 4 it 0.960714 *DELETE* 0.039286
+align 5 out 1
+align 6 on 1
+align 7 this 1
+align 8 map 1
+align 9 *DELETE* 0.999732 uh 0.000262132 i 5.50166e-06 oh 2.31153e-07 off 1.83936e-08 is 6.47756e-16 out 1.29624e-16
+align 10 </s> 1

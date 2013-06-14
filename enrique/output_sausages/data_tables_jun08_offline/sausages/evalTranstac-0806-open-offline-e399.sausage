@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 also 0.991982 uh 0.00666878 i 0.00112744 all 0.000221485
+align 3 *DELETE* 0.991982 also 0.00779623 so 0.000221485
+align 4 i 1
+align 5 want 0.941512 *DELETE* 0.0584878
+align 6 to 0.941512 wanna 0.0584878
+align 7 talk 1
+align 8 to 1
+align 9 you 1
+align 10 about 1
+align 11 a 0.676218 *DELETE* 0.319454 an 0.00351248 in 0.000763167 and 5.20975e-05
+align 12 noise 0.997542 no 0.00123 *DELETE* 0.000651747 and 0.000334098 know 0.000242232
+align 13 *DELETE* 0.997542 is 0.00147106 always 0.000686155 annoys 0.000299118 it's 1.17537e-06 annoyed 5.66974e-07 invoice 5.21546e-09
+align 14 discipline 0.999743 disciplined 0.000257268
+align 15 </s> 1

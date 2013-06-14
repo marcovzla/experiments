@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 for 1
+align 4 bringing 1
+align 5 this 1
+align 6 to 0.996306 too 0.00369367
+align 7 it 0.826177 a 0.151026 *DELETE* 0.0227968
+align 8 to 0.563838 *DELETE* 0.435595 which 0.000567443
+align 9 my 0.996182 may 0.00381837
+align 10 attention 1
+align 11 *DELETE* 0.999871 to 0.000126139 that 2.85712e-06 i 3.54711e-08 uh 3.17603e-14
+align 12 </s> 1

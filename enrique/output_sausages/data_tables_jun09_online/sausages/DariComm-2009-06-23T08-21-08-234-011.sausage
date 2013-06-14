@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 have 1
+align 3 everyone 0.993988 every 0.00601166
+align 4 *DELETE* 0.993988 one 0.00601166
+align 5 exit 1
+align 6 the 1
+align 7 vehicle 1
+align 8 *DELETE* 0.999649 uh 0.00035127
+align 9 </s> 1

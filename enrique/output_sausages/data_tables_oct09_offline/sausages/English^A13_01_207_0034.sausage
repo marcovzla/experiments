@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 you're 0.580057 you 0.419813 *DELETE* 0.000129698
+align 2 *DELETE* 0.626721 are 0.373279
+align 3 going 0.959074 do 0.0409261
+align 4 *DELETE* 0.99987 you 0.000129698
+align 5 *DELETE* 0.99987 do 0.000129698
+align 6 to 0.959074 that 0.0409261
+align 7 you're 1 you 1.12012e-07 your 3.71474e-09
+align 8 *DELETE* 1 are 1.12012e-07
+align 9 going 1
+align 10 has 0.932092 as 0.0442357 to 0.0236725
+align 11 *DELETE* 0.976836 its 0.0162016 it's 0.00692555 have 3.66423e-05
+align 12 *DELETE* 0.999963 to 3.66423e-05
+align 13 physically 1
+align 14 open 0.968717 opened 0.0312825 opening 3.47416e-12
+align 15 yourself 0.997985 herself 0.00141707 itself 0.000308885 your 0.000193483 yourselves 6.44851e-05 a 3.09537e-05
+align 16 *DELETE* 0.999776 self 0.000224436
+align 17 </s> 1

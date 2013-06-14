@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 there 0.442414 they 0.366162 do 0.191424
+align 2 are 0.808576 non 0.0960518 you 0.0947227 they 0.00064979
+align 3 *DELETE* 0.60366 in 0.300967 earn 0.0756908 learn 0.0135488 are 0.00613287
+align 4 *DELETE* 0.994188 in 0.005812
+align 5 sixty 1
+align 6 degree 0.978109 degrees 0.0218905
+align 7 security 1
+align 8 allows 1
+align 9 you 1
+align 10 to 1
+align 11 be 1
+align 12 able 1
+align 13 to 1
+align 14 *DELETE* 0.994574 uh 0.0054263
+align 15 operate 1
+align 16 on 1
+align 17 the 1
+align 18 v._c._p.s 0.999998 v._c._p. 1.98483e-06
+align 19 *DELETE* 0.999998 is 1.98483e-06
+align 20 and 0.995583 a 0.00229364 in 0.00154757 *DELETE* 0.000574956 an 7.08576e-07
+align 21 i 0.985235 uh 0.00868569 now 0.00550484 ona 0.000574956 *DELETE* 5.64488e-11
+align 22 were 0.956553 *DELETE* 0.0277341 we're 0.0157129 our 1.04484e-08
+align 23 in 0.972266 worrying 0.0277341
+align 24 about 1
+align 25 uh 0.993662 a 0.00633841
+align 26 the 1
+align 27 security 1
+align 28 uh 0.563121 *DELETE* 0.335905 around 0.100974
+align 29 around 0.899026 *DELETE* 0.100974
+align 30 around 1
+align 31 you 0.999977 you've 1.22487e-05 two 1.03226e-05 u 2.95345e-08
+align 32 *DELETE* 0.999957 know 4.05412e-05 uh 2.67885e-06 i 2.03812e-07
+align 33 </s> 1

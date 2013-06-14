@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 actions 1
+align 3 have 1
+align 4 you 1
+align 5 taken 1
+align 6 against 1
+align 7 these 1
+align 8 men 0.99407 man 0.00579435 manned 7.46027e-05 manner 4.94366e-05 *DELETE* 1.20227e-05 me 2.01312e-21
+align 9 *DELETE* 0.999649 uh 0.000327738 i 1.15029e-05 min 1.0011e-05 name 1.01298e-06 mean 9.86114e-07 meant 1.26627e-08 many 1.92093e-13 to 6.58446e-14 ma'an 9.36897e-21 main 3.978e-21 in 2.01312e-21
+align 10 </s> 1

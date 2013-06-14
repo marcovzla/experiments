@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 experience 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 with 1
+align 7 dismounted 0.968262 this 0.0310178 *DELETE* 0.000720394
+align 8 *DELETE* 0.971668 man 0.0206178 minute 0.00427476 matter 0.00179912 man's 0.00164071
+align 9 *DELETE* 0.994766 of 0.00156039 mad 0.0011836 mat 0.000734345 dismount 0.000720394 mhanna 0.000285187 map 0.000200758 mattered 0.000112096 as 0.000110167 and 0.000105069 men 8.6876e-05 mans 3.35662e-05 matt 3.14457e-05 a 2.75333e-05 is 2.50779e-05 mass 1.14955e-05 manned 6.04125e-06
+align 10 security 1
+align 11 patrols 0.999959 patrol's 4.14065e-05
+align 12 </s> 1

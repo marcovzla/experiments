@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 will 0.999377 *DELETE* 0.000622596
+align 3 provide 1
+align 4 the 1
+align 5 uh 0.684006 *DELETE* 0.315994
+align 6 outer 0.46751 harder 0.315994 order 0.216496
+align 7 court 0.5522 cordon 0.348867 *DELETE* 0.0766195 cord 0.0223132
+align 8 on 0.846627 *DELETE* 0.0767539 cordon 0.0766195
+align 9 in 1
+align 10 this 1
+align 11 area 1
+align 12 *DELETE* 0.99995 uh 5.02611e-05 um 7.57473e-16
+align 13 </s> 1

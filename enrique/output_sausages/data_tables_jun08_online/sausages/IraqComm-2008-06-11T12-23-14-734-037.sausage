@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i 0.981841 are 0.0128497 *DELETE* 0.00530924
+align 2 know 0.925122 knew 0.0430461 you 0.0127748 i'm 0.00560717 have 0.0040828 go 0.00271687 hear 0.00192636 i 0.0017648 *DELETE* 0.00137462 mean 0.00130124 do 0.000158336 your 7.48728e-05 pay 4.97965e-05
+align 3 *DELETE* 0.997875 a 0.00212511
+align 4 lacking 0.992596 liking 0.00418614 backing 0.00243339 ranking 0.000471347 racking 0.000313273
+align 5 *DELETE* 0.659082 in 0.340918
+align 6 any 0.658829 a 0.285207 the 0.0559072 *DELETE* 5.64923e-05
+align 7 health 1
+align 8 services 1
+align 9 in 1 and 1.84387e-07
+align 10 your 1
+align 11 town 1
+align 12 *DELETE* 1 uh 1.45819e-11
+align 13 </s> 1

@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 yes 1
+align 3 i'd 1
+align 4 like 1
+align 5 him 0.7669 them 0.232803 that 0.000160215 then 4.77749e-05 in 4.69012e-05 *DELETE* 3.85003e-05 and 3.44192e-06
+align 6 to 0.993761 they 0.00581431 the 0.000425074 in 6.49623e-08
+align 7 *DELETE* 1 the 6.49623e-08 and 1.92144e-08
+align 8 *DELETE* 1 the 1.92144e-08
+align 9 know 0.999267 now 0.000395038 no 0.000337874
+align 10 that 1
+align 11 i 1
+align 12 stop 0.978673 stopped 0.0213266
+align 13 by 0.988002 buy 0.0108133 bye 0.0011843
+align 14 but 0.963524 boat 0.036476
+align 15 also 1
+align 16 if 0.880949 it 0.0800582 in 0.0294588 is 0.00953389
+align 17 his 1
+align 18 situation 1
+align 19 changes 1
+align 20 do 0.986777 to 0.0121607 so 0.000596354 *DELETE* 0.000379241 too 8.7084e-05
+align 21 you 1
+align 22 have 1
+align 23 a 1
+align 24 contact 1
+align 25 number 1
+align 26 where 0.997424 were 0.00203099 or 0.000545389
+align 27 you 1
+align 28 can 0.974431 could 0.0255694
+align 29 contact 1
+align 30 them 1
+align 31 </s> 1

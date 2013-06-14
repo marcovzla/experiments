@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999991 oh 9.18583e-06
+align 2 okay 1
+align 3 now 1
+align 4 when 0.636284 *DELETE* 0.287499 what 0.0762167
+align 5 we're 0.615564 wilma 0.179773 houma 0.0917814 were 0.0828333 *DELETE* 0.0203122 i 0.00973582
+align 6 *DELETE* 0.984055 want 0.0159447
+align 7 *DELETE* 0.984052 to 0.0159447 what 3.63136e-06
+align 8 patrolling 1
+align 9 uh 0.991247 up 0.00708096 of 0.00120208 i 0.000469798
+align 10 you 0.931606 do 0.0681695 new 0.000224471
+align 11 *DELETE* 0.931445 you 0.0685545
+align 12 got 0.938362 gotta 0.0616378
+align 13 understand 0.985582 under 0.0144183
+align 14 uh 0.846071 a 0.13951 sena 0.0144183
+align 15 earn 0.649784 *DELETE* 0.350216
+align 16 a 0.532254 erna 0.350216 environments 0.117503 environment 2.65773e-05
+align 17 buyer 0.851404 *DELETE* 0.117529 by 0.0305751 bahrain 0.000491648
+align 18 *DELETE* 0.951256 army 0.0305751 man 0.014296 me 0.00387277
+align 19 managed 0.696382 *DELETE* 0.117503 match 0.111488 it's 0.0492621 man 0.0253652
+align 20 *DELETE* 0.974635 it's 0.0253652
+align 21 it 0.998 a 0.00198369 that 1.67745e-05
+align 22 three 0.849892 *DELETE* 0.147695 tree 0.00198369 to 0.00036384 we 4.90654e-05 do 1.60341e-05
+align 23 *DELETE* 0.999636 be 0.000262536 me 0.000101304
+align 24 d 0.584215 deed 0.216661 did 0.147695 do 0.0385608 *DELETE* 0.0100021 dede 0.00286585
+align 25 *DELETE* 0.58633 to 0.215544 you 0.186256 due 0.00608154 de 0.00236661 dida 0.00155397 them 0.00103377 the 0.000834657 then 2.62671e-13
+align 26 dimension 0.780998 mention 0.214341 mentioned 0.00462459 dimensions 3.58317e-05
+align 27 </s> 1

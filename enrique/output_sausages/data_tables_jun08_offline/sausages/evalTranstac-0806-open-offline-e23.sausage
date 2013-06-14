@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 in 0.957679 i'm 0.0230478 i 0.0110124 um 0.00425314 a 0.00224674 of 0.000635788 *DELETE* 0.000430315 am 0.00040126 let 0.000195104 uh 9.88593e-05
+align 3 my 0.992332 i 0.00607043 might 0.00151016 may 7.78668e-05 am 9.31214e-06
+align 4 *DELETE* 0.999991 i 9.31214e-06
+align 5 belief 0.99392 believe 0.00607974
+align 6 i 1
+align 7 think 1
+align 8 there's 1
+align 9 something 1
+align 10 else 1
+align 11 going 1
+align 12 on 1
+align 13 with 1
+align 14 your 1
+align 15 personnel 0.998682 personal 0.00131761
+align 16 as 0.999395 *DELETE* 0.000605076
+align 17 opposed 0.998046 a 0.00129394 suppose 0.000470691 supposed 0.000134385 *DELETE* 5.46034e-05
+align 18 to 0.998651 post 0.00129394 *DELETE* 5.46034e-05
+align 19 *DELETE* 0.998706 of 0.00129394
+align 20 the 1
+align 21 *DELETE* 0.999945 post 5.46034e-05
+align 22 *DELETE* 0.999945 of 5.46034e-05
+align 23 *DELETE* 0.999945 the 5.46034e-05
+align 24 money 0.99317 monday 0.00364141 morning 0.00245724 month 0.000281215 money's 0.000255806 moaning 0.000167913 moneys 2.55739e-05 monthly 9.5904e-07
+align 25 *DELETE* 0.999868 you 6.71932e-05 uh 4.22858e-05 i 1.13459e-05 to 1.13327e-05 in 1.18684e-07
+align 26 </s> 1

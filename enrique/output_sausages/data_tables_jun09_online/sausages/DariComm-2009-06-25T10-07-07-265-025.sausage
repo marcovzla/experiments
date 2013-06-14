@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 0.999997 *DELETE* 3.20945e-06
+align 2 you 1
+align 3 have 1
+align 4 a 0.999739 uh 0.000254332 the 7.1009e-06
+align 5 hospital 0.999963 *DELETE* 3.67219e-05 a 3.45939e-09
+align 6 *DELETE* 0.999504 is 0.000319565 in 8.06141e-05 i 4.27038e-05 hospitals 3.67219e-05 it 1.32653e-05 a 1.87394e-06 and 9.39857e-07 but 3.5542e-07 uh 3.1658e-07 you 1.38646e-07 hospital 3.45939e-09 if 4.17312e-11 do 1.06861e-11 at 9.89942e-13 hospital's 9.98255e-25
+align 7 </s> 1

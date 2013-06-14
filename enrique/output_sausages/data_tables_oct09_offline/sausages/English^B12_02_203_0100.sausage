@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 um 1
+align 4 well 0.937602 *DELETE* 0.0351352 uh 0.0138971 what 0.00724237 why 0.00582407 we 0.00029899 wow 6.71456e-08 one 5.65384e-09
+align 5 uh 0.957978 *DELETE* 0.0315172 um 0.00765028 up 0.00211349 are 0.000740599
+align 6 are 1
+align 7 your 1
+align 8 officers 1
+align 9 getting 1
+align 10 paid 0.988604 pay 0.011396
+align 11 *DELETE* 0.994293 it 0.00570328 a 3.64668e-06 eight 2.15397e-07
+align 12 </s> 1

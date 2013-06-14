@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 0.948984 his 0.0399678 this 0.0110483
+align 2 to 0.990383 *DELETE* 0.00961745
+align 3 uh 0.626962 add 0.363421 too 0.00493422 two 0.00468323
+align 4 the 0.501676 *DELETE* 0.324833 they 0.0723937 do 0.049913 clear 0.0385874 and 0.00961745 that 0.00297899
+align 5 clearing 0.922275 in 0.0385721 *DELETE* 0.0249476 clear 0.0142051
+align 6 *DELETE* 0.960833 clarine 0.0249323 in 0.0142051 aim 1.52625e-05 a 1.42249e-05
+align 7 barrels 0.999995 girls 5.4464e-06
+align 8 *DELETE* 1 a 3.21162e-10
+align 9 </s> 1

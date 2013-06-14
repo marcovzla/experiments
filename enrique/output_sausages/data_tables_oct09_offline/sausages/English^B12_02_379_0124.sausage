@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 uh 0.897546 hi 0.10046 oh 0.000944388 by 0.000687241 i 0.000362179 all 1.36758e-07
+align 2 *DELETE* 1 right 1.36758e-07
+align 3 you're 0.999065 your 0.00093469 uh 3.44304e-07
+align 4 *DELETE* 1 you're 3.44304e-07
+align 5 welcome 0.999892 welcomed 0.000108344
+align 6 *DELETE* 0.999339 uh 0.00057679 to 6.78174e-05 you 6.53296e-06 here 3.21207e-06 go 2.86125e-06 i 2.44129e-06 them 5.07076e-07 be 1.80683e-07 too 1.3042e-07 we're 9.95909e-08 guy 2.13033e-08 do 1.25057e-08 in 3.3921e-09
+align 7 </s> 1

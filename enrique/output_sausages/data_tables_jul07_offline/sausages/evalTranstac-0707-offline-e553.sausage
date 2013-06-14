@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 in 1
+align 2 the 0.984051 a 0.0159486
+align 3 short 0.988445 shore 0.011555
+align 4 time 0.503412 term 0.473831 timely 0.0223291 timing 0.000427384
+align 5 uh 0.240358 i 0.224396 it 0.170851 *DELETE* 0.147878 a 0.0449082 we 0.0387314 in 0.0298272 at 0.0232107 that 0.0148381 and 0.0148074 the 0.013141 now 0.00920283 they 0.0070773 you 0.00562517 i'd 0.00539291 then 0.00245887 me 0.00211064 i'll 0.00172633 of 0.00142033 new 0.00139337 on 0.00040939 who 0.00020883 there 2.84088e-05
+align 6 we've 0.984408 we 0.0155916 *DELETE* 2.4457e-11
+align 7 been 1
+align 8 talking 1
+align 9 the 1
+align 10 coalition 1
+align 11 forces 0.874445 force 0.121478 *DELETE* 0.00407753
+align 12 *DELETE* 0.602442 of 0.372864 is 0.0160613 forces' 0.00376994 the 0.00342132 surround 0.000873722 force's 0.000307586 are 0.000259754
+align 13 surrounded 0.999123 of 0.000862765 that 1.09566e-05 surround 3.69202e-06
+align 14 *DELETE* 0.999996 that 3.69202e-06
+align 15 this 0.997571 that 0.00241916 that's 9.69263e-06 there's 4.75443e-08
+align 16 shop 0.987544 shock 0.00830494 chalk 0.00199108 shot 0.00170015 shocked 0.000182813 chop 7.66413e-05 shaab 7.30277e-05 shihab 7.28879e-05 shops 5.42942e-05 *DELETE* 1.47499e-12
+align 17 *DELETE* 0.999959 i 3.12533e-05 uh 5.09857e-06 a 3.85687e-06 in 6.56455e-07 do 9.82908e-08 shab 1.6114e-08 at 1.87886e-11 it 6.82288e-15
+align 18 </s> 1

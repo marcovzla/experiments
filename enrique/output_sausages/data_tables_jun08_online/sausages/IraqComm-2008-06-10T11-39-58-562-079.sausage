@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 just 1
+align 3 found 1
+align 4 a 1
+align 5 large 1
+align 6 bag 0.999234 bags 0.000648698 back 0.000117526
+align 7 of 0.99461 and 0.00229091 it 0.00117138 or 0.00089735 *DELETE* 0.000487503 to 0.000460162 you 5.56522e-05 in 2.71794e-05
+align 8 fertilizer 0.999812 fertilizers 0.00018823
+align 9 </s> 1

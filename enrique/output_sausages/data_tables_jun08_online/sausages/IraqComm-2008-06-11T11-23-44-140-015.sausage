@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 is 1
+align 3 everything 1
+align 4 today 1 to 1.01953e-09
+align 5 *DELETE* 0.9999 uh 9.79833e-05 i 1.66224e-06 in 9.17116e-09 if 4.79765e-09 them 1.01953e-09 and 4.33121e-13
+align 6 </s> 1

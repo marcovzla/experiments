@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 gas 1
+align 5 for 1
+align 6 the 1
+align 7 generators 1
+align 8 *DELETE* 0.999997 do 2.63896e-06 uh 7.71632e-08 go 1.55961e-08 the 3.47879e-09 i 3.70752e-11
+align 9 </s> 1

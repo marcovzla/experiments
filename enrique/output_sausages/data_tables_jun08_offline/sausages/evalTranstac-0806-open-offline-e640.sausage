@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 will 0.608929 we'll 0.365126 well 0.0259454
+align 2 be 1
+align 3 available 1
+align 4 to 1
+align 5 always 1
+align 6 look 0.993594 *DELETE* 0.00640563
+align 7 out 0.993594 lookout 0.00640563
+align 8 for 1
+align 9 this 1
+align 10 vehicle 1
+align 11 with 0.998022 what 0.00134215 which 0.000635786
+align 12 aircraft 0.99367 aircrafts 0.00336189 their 0.0019992 air 0.000874599 they're 9.39023e-05
+align 13 *DELETE* 0.997006 craft 0.00296621 uh 1.48023e-05 a 8.29929e-06 i 2.40887e-06 crafts 1.4904e-06 it 3.37122e-07 in 2.94543e-07 to 5.99105e-08
+align 14 </s> 1

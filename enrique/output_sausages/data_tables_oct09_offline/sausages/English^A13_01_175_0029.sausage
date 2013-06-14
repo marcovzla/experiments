@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 logic 1
+align 3 all 0.995201 uh 0.00479906
+align 4 *DELETE* 0.995201 of 0.0030998 oak 0.00169926
+align 5 cooperate 0.998301 operate 0.00169926
+align 6 the 1
+align 7 faster 1
+align 8 you 1
+align 9 get 0.95466 good 0.0453399
+align 10 that 0.998486 *DELETE* 0.00151404
+align 11 uh 0.998486 the 0.00151404
+align 12 out 0.384895 uh 0.380529 i 0.0904393 at 0.0813228 *DELETE* 0.0537122 i'd 0.00588191 add 0.00297817 outer 0.000199142 it 4.25532e-05
+align 13 *DELETE* 0.986669 a 0.00774034 of 0.00291931 at 0.0017512 uh 0.000920639
+align 14 *DELETE* 0.998282 a 0.00171815
+align 15 i 0.49707 here 0.474839 *DELETE* 0.021208 idea 0.00425428 hear 0.00105628 editor 0.000761187 either 0.00038216 him 0.000368452 of 5.37651e-05 a 6.60093e-06 eye 7.87427e-07
+align 16 *DELETE* 0.988534 i 0.0114657
+align 17 do 0.514628 *DELETE* 0.482495 did 0.00206079 to 0.000816236
+align 18 *DELETE* 0.558809 you 0.423122 here 0.0163707 do 0.000915269 it 0.000353551 didn't 0.000186625 adding 0.000157664 added 5.75094e-05 her 1.89775e-05 item 4.31197e-06 due 2.11143e-06 of 1.17381e-06 i 4.17648e-07 audio 1.77902e-07 uh 1.3179e-07 to 1.06148e-08 outing 9.40146e-09 in 3.1943e-09 your 1.95687e-09 air 2.60525e-10
+align 19 </s> 1

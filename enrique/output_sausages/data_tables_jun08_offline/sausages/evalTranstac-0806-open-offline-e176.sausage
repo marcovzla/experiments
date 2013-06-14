@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 right 1
+align 6 now 1
+align 7 was 0.532544 what's 0.461043 what 0.00351929 where 0.00235171 where's 0.000458569 one's 7.09115e-05 ways 1.17723e-05
+align 8 *DELETE* 0.994129 is 0.005871
+align 9 current 0.99687 currant 0.00312962
+align 10 status 1
+align 11 is 0.985102 as 0.014898
+align 12 whether 1
+align 13 i'll 0.999182 it'll 0.000436646 all 0.000276217 i 0.00010422 it 6.71669e-07
+align 14 *DELETE* 0.999895 will 0.000104892
+align 15 make 1
+align 16 it 1 *DELETE* 3.73707e-10
+align 17 or 0.999396 are 0.00060359 inner 1.66713e-07
+align 18 not 1
+align 19 *DELETE* 0.999999 i 9.93317e-07
+align 20 </s> 1

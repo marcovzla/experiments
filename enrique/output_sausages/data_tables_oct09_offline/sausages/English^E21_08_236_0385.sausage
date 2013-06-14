@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999872 oh 0.000128295
+align 2 okay 1
+align 3 now 0.707814 no 0.292186
+align 4 another 0.983064 i 0.0169359
+align 5 *DELETE* 0.983064 another 0.0144901 know 0.00244585
+align 6 *DELETE* 0.997554 that 0.00244585
+align 7 thing 1
+align 8 uh 0.974921 i 0.025079
+align 9 *DELETE* 0.974921 uh 0.025079
+align 10 *DELETE* 0.999507 uh 0.000492741
+align 11 i'm 0.763899 uh 0.236101
+align 12 *DELETE* 0.763899 i'm 0.236101
+align 13 going 1
+align 14 to 0.979456 *DELETE* 0.0205439
+align 15 uh 0.78613 i 0.21387
+align 16 *DELETE* 0.99632 i 0.00368034
+align 17 have 1
+align 18 you 1
+align 19 ever 1
+align 20 heard 1
+align 21 of 1
+align 22 uh 1
+align 23 over 0.995869 uh 0.00413052
+align 24 *DELETE* 0.995869 over 0.00413052
+align 25 watch 1
+align 26 *DELETE* 0.999999 i 5.20281e-07
+align 27 </s> 1

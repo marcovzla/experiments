@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1 where 4.92479e-07
+align 2 is 1
+align 3 wrong 1
+align 4 with 1
+align 5 the 0.99987 this 0.000129899
+align 6 school 1
+align 7 *DELETE* 0.999756 in 6.76243e-05 uh 6.51917e-05 at 4.24215e-05 i 2.7829e-05 is 1.83221e-05 like 1.16769e-05 the 7.48436e-06 it 3.13012e-06 with 7.37132e-07 do 5.61623e-11 to 8.351e-12
+align 8 </s> 1

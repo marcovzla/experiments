@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 are 0.781324 our 0.186277 or 0.0323992
+align 2 people 1
+align 3 getting 1
+align 4 sick 1
+align 5 from 1
+align 6 the 0.999956 that 2.90921e-05 *DELETE* 1.46352e-05
+align 7 water 1 *DELETE* 2.65578e-30
+align 8 *DELETE* 0.997477 uh 0.00251337 i 4.74186e-06 here 4.22285e-06 there 6.03279e-07 it 3.35735e-12 in 1.64578e-20 or 7.16217e-21 and 4.50282e-22 other 2.66742e-29
+align 9 </s> 1

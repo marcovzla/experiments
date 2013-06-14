@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 and 1
+align 3 make 1
+align 4 sure 1
+align 5 that 1
+align 6 your 0.998135 you're 0.00185078 you 1.40931e-05
+align 7 soldiers 0.998248 soldiers' 0.00175184
+align 8 also 1
+align 9 have 1
+align 10 water 1
+align 11 we 1
+align 12 do 1
+align 13 not 1
+align 14 know 1
+align 15 how 1
+align 16 long 1
+align 17 we 1
+align 18 will 0.999764 we'll 0.00023574
+align 19 be 1 *DELETE* 1.17398e-10
+align 20 *DELETE* 0.983993 uh 0.0137972 a 0.00158106 in 0.000437716 um 0.000116161 if 2.70573e-05 i 2.35169e-05 the 1.55938e-05 to 8.35417e-06 b 7.66442e-08 at 2.01557e-10 you 4.18482e-11 as 1.51021e-12
+align 21 </s> 1

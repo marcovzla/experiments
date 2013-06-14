@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999183 i 0.000816632
+align 2 my 1
+align 3 men 0.99995 name 4.98635e-05
+align 4 can 1
+align 5 also 1
+align 6 provide 0.997264 provided 0.00273585
+align 7 humvees 0.988937 a 0.0069494 *DELETE* 0.00384544 it 0.000268508
+align 8 *DELETE* 0.988937 humvees 0.0072179 humvee's 0.00384544 i 1.1868e-15
+align 9 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1 where 2.76397e-16
+align 2 is 1
+align 3 your 1
+align 4 favorite 1
+align 5 color 0.999025 *DELETE* 0.000975307
+align 6 *DELETE* 0.997882 collar 0.000975307 or 0.000748306 is 0.000326622 i 6.30828e-05 sir 3.83922e-06 as 5.76518e-07 you 5.99899e-10 it 1.66278e-12 to 3.15526e-13 there 4.32441e-18
+align 7 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 hospital 1
+align 4 beds 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 *DELETE* 0.997307 uh 0.00119363 a 0.0011919 it 0.000140807 to 0.000114976 the 4.97965e-05 in 2.18387e-06 that 1.94127e-08 i 4.35833e-09 you 5.1997e-10 an 3.46124e-10
+align 9 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 are 0.657407 or 0.338604 were 0.00333853 go 0.000633309 a 1.68724e-05
+align 5 home 0.994419 hold 0.00293266 hole 0.00177734 whole 0.000611614 whom 0.000258916 who 1.62905e-17
+align 6 right 1
+align 7 now 1
+align 8 *DELETE* 0.999994 uh 5.91297e-06 um 1.49082e-12 i 4.35903e-13
+align 9 </s> 1

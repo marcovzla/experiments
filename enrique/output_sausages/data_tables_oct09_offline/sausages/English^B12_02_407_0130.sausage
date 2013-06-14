@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 0.949508 *DELETE* 0.0335562 i 0.00977986 uh 0.00715596
+align 2 *DELETE* 0.997918 i 0.00208249
+align 3 thank 1
+align 4 you 1
+align 5 chief 0.913943 to 0.066085 too 0.0186579 take 0.000989714 tea 0.00013536 cheat 6.1603e-05 two 5.41641e-05 treat 3.65384e-05 cheese 3.07206e-05 chase 4.24895e-06 cheek 1.15552e-06 chiefs 7.89182e-07 cheap 2.25438e-07 change 6.68246e-10
+align 6 *DELETE* 0.933942 you 0.0660463 i 1.15601e-05 of 5.98505e-08
+align 7 </s> 1

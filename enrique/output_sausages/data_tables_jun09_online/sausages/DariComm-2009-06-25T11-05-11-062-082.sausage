@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 well 0.603496 we'll 0.396504
+align 3 we'll 1
+align 4 the 1
+align 5 entry 1
+align 6 point 1
+align 7 be 0.510717 b 0.481976 bee 0.00402016 bea 0.00328628
+align 8 for 0.968527 four 0.0314725
+align 9 this 1
+align 10 compound 0.998607 compounds 0.00139257
+align 11 *DELETE* 0.999986 uh 1.03837e-05 i 1.98369e-06 to 1.72005e-06
+align 12 </s> 1

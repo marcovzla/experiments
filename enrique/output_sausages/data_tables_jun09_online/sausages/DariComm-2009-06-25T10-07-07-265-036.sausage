@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 did 1
+align 3 you 1
+align 4 receive 1
+align 5 your 1
+align 6 training 0.998167 turning 0.00130083 try 0.000532472
+align 7 *DELETE* 0.995054 uh 0.00385084 earning 0.000530517 pay 0.000478372 i 3.77617e-05 is 3.38544e-05 it 6.60162e-06 and 4.34078e-06 name 1.95511e-06 to 7.62107e-07 if 4.27085e-07 in 3.35444e-07 so 6.4936e-09 a 2.70911e-11 oh 2.30729e-11 do 1.04281e-11 you 2.7985e-13 need 3.78431e-26
+align 8 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 medical 0.999614 a 0.000386314
+align 5 *DELETE* 0.999614 medical 0.000386314
+align 6 supplies 1
+align 7 for 1
+align 8 the 1
+align 9 animals 1
+align 10 *DELETE* 0.9997 to 0.000197108 and 7.36897e-05 in 2.16192e-05 you 3.3822e-06 i 2.85064e-06 that 1.59605e-06 uh 2.95045e-09 it 2.45481e-12 we 2.38842e-12 do 1.61327e-12 animals' 2.14526e-24
+align 11 </s> 1

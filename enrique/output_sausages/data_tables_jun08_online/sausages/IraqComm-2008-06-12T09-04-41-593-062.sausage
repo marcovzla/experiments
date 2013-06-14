@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 need 1
+align 3 more 1
+align 4 information 1
+align 5 to 0.995688 too 0.00431165
+align 6 offer 0.921203 off 0.0603069 often 0.0103423 offered 0.00814776
+align 7 *DELETE* 0.939316 or 0.0254655 of 0.0201505 the 0.00715786 a 0.00379702 it 0.00303908 and 0.000835898 uh 0.000238224
+align 8 more 0.999979 one 2.12173e-05
+align 9 suggestions 1
+align 10 *DELETE* 0.99978 i 0.00021307 and 7.25411e-06 uh 1.70067e-10 you 3.68703e-15 on 3.2456e-17 in 5.57708e-20
+align 11 </s> 1

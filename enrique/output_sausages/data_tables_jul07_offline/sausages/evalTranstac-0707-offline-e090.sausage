@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 can 1
+align 3 you 1
+align 4 tell 1
+align 5 uh 1
+align 6 where 0.831745 *DELETE* 0.0965565 uh 0.0558415 oh 0.0138152 when 0.00133468 wear 0.000692834 or 1.3889e-05
+align 7 *DELETE* 0.947285 where 0.052715
+align 8 they're 0.492901 they 0.357371 whether 0.0852465 weather 0.0282517 that 0.0277169 the 0.00848911 their 2.40941e-05
+align 9 coming 1
+align 10 from 1
+align 11 *DELETE* 0.999996 a 3.50492e-06
+align 12 </s> 1

@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 correct 0.656454 uh 0.343546
+align 4 *DELETE* 0.656454 correct 0.343546
+align 5 me 1
+align 6 if 1
+align 7 i'm 1
+align 8 wrong 1
+align 9 but 1
+align 10 i 1
+align 11 don't 1
+align 12 believe 1
+align 13 they 0.999519 *DELETE* 0.000480967
+align 14 have 0.999519 their 0.000480967
+align 15 water 0.891556 a 0.108433 *DELETE* 1.09669e-05
+align 16 *DELETE* 0.891445 water 0.108433 you 0.000121836
+align 17 either 0.995768 you 0.00416304 *DELETE* 5.83401e-05 watery 1.09669e-05
+align 18 *DELETE* 0.995765 there 0.00423235 i 2.32288e-06 a 7.30247e-07
+align 19 </s> 1

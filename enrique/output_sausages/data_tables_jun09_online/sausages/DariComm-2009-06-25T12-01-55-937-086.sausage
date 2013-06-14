@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 my 0.999989 i 5.04228e-06 *DELETE* 3.77517e-06 may 2.17777e-06
+align 2 *DELETE* 0.999986 put 8.16419e-06 by 3.77517e-06 pay 1.93857e-06 i 1.81005e-08
+align 3 *DELETE* 1 pay 2.33781e-08 put 1.81005e-08
+align 4 *DELETE* 0.999986 any 1.01398e-05 paying 3.86181e-06 me 4.42269e-09 pain 4.12865e-09
+align 5 opinion 0.999532 putting 0.000156107 pain 0.000139734 paying 7.54822e-05 painting 4.69145e-05 playing 2.101e-05 praying 1.48274e-05 in 1.40102e-05
+align 6 *DELETE* 0.999594 in 0.000405939
+align 7 on 1 you 8.59674e-13
+align 8 *DELETE* 1 know 8.59674e-13
+align 9 *DELETE* 1 and 8.59674e-13
+align 10 what 0.954595 that 0.0448443 *DELETE* 0.000560529 why 2.61295e-11
+align 11 *DELETE* 0.991457 i 0.005594 uh 0.00113007 want 0.00051393 you 0.000268928 i'm 0.000231888 it 0.000195486 to 0.000136767 the 0.000135099 do 8.81688e-05 he 5.8453e-05 a 5.38177e-05 well 4.65986e-05 we 4.60278e-05 is 3.98074e-05 did 3.90661e-06 are 2.61295e-11
+align 12 </s> 1

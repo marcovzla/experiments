@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 any 1
+align 5 dental 1
+align 6 personnel 1
+align 7 *DELETE* 0.999987 do 1.26583e-05 uh 1.09664e-12 to 5.65844e-15
+align 8 </s> 1

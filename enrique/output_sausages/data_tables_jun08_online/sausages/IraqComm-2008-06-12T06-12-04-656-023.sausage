@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 are 0.999999 if 5.11778e-07 *DELETE* 3.39928e-63
+align 2 you 1 *DELETE* 3.39928e-63
+align 3 aware 0.999999 had 5.11915e-07 i 7.47815e-16 *DELETE* 2.21751e-63
+align 4 *DELETE* 0.999999 any 2.77514e-07 to 2.34401e-07 yeah 4.38543e-13
+align 5 of 1
+align 6 the 1
+align 7 importance 1
+align 8 of 1
+align 9 blocking 1
+align 10 skip 0.525859 excuse 0.380442 exceed 0.0561041 explain 0.034732 skipped 0.00200755 execute 0.000854824
+align 11 routes 0.983999 about's 0.0105197 about 0.00538961 *DELETE* 9.15119e-05
+align 12 *DELETE* 0.999259 sir 0.000583711 so 6.5232e-05 outs 6.22347e-05 route 2.92772e-05 to 6.89132e-07
+align 13 </s> 1

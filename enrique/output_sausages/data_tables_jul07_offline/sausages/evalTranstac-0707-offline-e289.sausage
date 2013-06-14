@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 any 1
+align 6 questions 1
+align 7 for 1
+align 8 me 1
+align 9 about 1
+align 10 any 1
+align 11 of 1
+align 12 the 1
+align 13 checkpoint 1
+align 14 procedures 0.999969 procedure's 3.05065e-05
+align 15 </s> 1

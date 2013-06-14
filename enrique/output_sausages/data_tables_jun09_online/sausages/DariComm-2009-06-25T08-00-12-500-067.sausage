@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 called 0.959547 call 0.0404533
+align 4 a 1
+align 5 splint 0.999724 *DELETE* 0.000276221
+align 6 *DELETE* 0.998781 it 0.000856995 split 0.000196896 splints 7.9325e-05 uh 4.17289e-05 i 2.5281e-05 um 1.4128e-05 if 2.5196e-06 up 1.28059e-06 you 1.13682e-06 that 1.86402e-07 in 1.60025e-09 and 1.01076e-10 on 1.18063e-11 a 7.30967e-12 the 4.6423e-12 is 1.51426e-13 to 5.34836e-14
+align 7 </s> 1

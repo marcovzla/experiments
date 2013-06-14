@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 uh 0.99924 of 0.000759762
+align 2 *DELETE* 0.999998 of 1.55428e-06
+align 3 the 1
+align 4 first 1
+align 5 thing 1
+align 6 we 0.7077 they 0.282981 i 0.00931996
+align 7 check 1
+align 8 is 1
+align 9 to 0.997877 a 0.00211113 the 1.20695e-05
+align 10 make 1
+align 11 sure 1
+align 12 that 1
+align 13 the 1
+align 14 uh 1
+align 15 the 0.998812 uh 0.0011883
+align 16 *DELETE* 0.998812 the 0.0011883
+align 17 battery 1
+align 18 has 1
+align 19 a 0.995425 the 0.00457515
+align 20 proper 1
+align 21 charge 0.954861 charged 0.0451392
+align 22 *DELETE* 0.999953 a 2.5473e-05 i 1.34467e-05 uh 7.64412e-06 you 4.06498e-07 it 1.81834e-07 in 1.25988e-07
+align 23 </s> 1

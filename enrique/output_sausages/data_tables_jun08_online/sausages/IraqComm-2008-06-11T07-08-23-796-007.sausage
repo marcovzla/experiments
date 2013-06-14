@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 it's 0.992917 its 0.00708255
+align 2 too 0.999248 two 0.000751308 to 7.95383e-07 true 1.14856e-15
+align 3 early 1
+align 4 *DELETE* 0.999949 to 4.01631e-05 i 9.69105e-06 uh 1.27522e-06 in 1.16023e-14 on 1.46442e-19
+align 5 </s> 1

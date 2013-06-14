@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 we 0.649866 rephrase 0.350134 the 5.04281e-08 we've 4.78898e-08
+align 2 face 0.435672 *DELETE* 0.350133 this 0.105077 use 0.0852983 raise 0.0238155 wish 3.53964e-06 that 8.36463e-07 miss 4.28899e-08 news 7.53827e-09 uh 2.04402e-09
+align 3 *DELETE* 1 is 3.16513e-10 miss 7.48278e-11 raised 2.60003e-13 faced 1.38218e-15 his 4.42507e-25
+align 4 </s> 1

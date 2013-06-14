@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 anything 1
+align 4 else 1
+align 5 we 1
+align 6 can 1
+align 7 help 1
+align 8 you 1
+align 9 with 1
+align 10 *DELETE* 0.60788 it 0.391847 uh 0.000240769 you 1.72317e-05 that 1.3192e-05 a 1.36838e-06 the 8.18119e-12 i 1.43952e-13
+align 11 </s> 1

@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 you 0.969916 if 0.0270589 he 0.00302484
+align 2 *DELETE* 0.972941 you 0.0270547 he 4.19438e-06
+align 3 would 0.999712 wouldn't 0.000287715
+align 4 want 0.9997 *DELETE* 0.000300009
+align 5 to 0.9997 wanna 0.000300009
+align 6 do 1
+align 7 that 1
+align 8 because 1
+align 9 he 1
+align 10 is 1
+align 11 shot 1
+align 12 in 1
+align 13 the 1
+align 14 chest 1
+align 15 and 0.950743 *DELETE* 0.0206632 in 0.017595 of 0.010301 some 0.000698316
+align 16 by 0.938705 my 0.0369166 about 0.0206632 buy 0.00301721 i 0.000698316
+align 17 pressing 1
+align 18 on 1
+align 19 that 1
+align 20 he'll 0.646118 him 0.180896 you 0.0958016 in 0.0745972 came 0.00141339 *DELETE* 0.00079711 he 0.00037758
+align 21 *DELETE* 0.949892 and 0.0500665 in 4.19915e-05
+align 22 go 1
+align 23 ahead 1
+align 24 and 0.516481 in 0.270045 *DELETE* 0.180998 an 0.0324767
+align 25 make 1
+align 26 data 0.410437 that 0.400412 dad 0.185013 the 0.00413783
+align 27 uh 0.5654 *DELETE* 0.410438 a 0.0141294 i 0.00589542 add 0.00292441 adah 0.00121288
+align 28 *DELETE* 0.992408 uh 0.00728366 a 0.000308247
+align 29 injury 1
+align 30 worse 0.903874 wars 0.0939103 works 0.00143822 worst 0.00044802 war's 0.000175691 worsen 0.000153524
+align 31 *DELETE* 0.999946 i 3.25681e-05 uh 2.14916e-05 a 1.17109e-07 in 4.58975e-08
+align 32 </s> 1

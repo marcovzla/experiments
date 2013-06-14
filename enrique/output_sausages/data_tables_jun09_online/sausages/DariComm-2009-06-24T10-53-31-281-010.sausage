@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 medicine 0.833913 medicines 0.166087
+align 6 to 0.997157 too 0.00110875 if 0.000807277 in 0.000531073 two 0.00028711 and 0.000108477
+align 7 *DELETE* 0.997067 to 0.0029335
+align 8 supply 1
+align 9 people 1
+align 10 that 0.983641 they 0.0163585
+align 11 come 0.963535 coming 0.036465
+align 12 to 0.750467 into 0.249493 in 4.0446e-05
+align 13 *DELETE* 0.99996 to 4.0446e-05
+align 14 your 1
+align 15 hospital 1
+align 16 *DELETE* 0.999995 i 2.12852e-06 that 1.12344e-06 with 1.0376e-06 to 9.61476e-07 but 3.90876e-09 you 2.20242e-09 is 8.03225e-10 and 5.42808e-11
+align 17 </s> 1

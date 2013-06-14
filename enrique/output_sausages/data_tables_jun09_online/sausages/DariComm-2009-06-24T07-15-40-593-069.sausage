@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 did 1
+align 3 you 1
+align 4 get 1
+align 5 this 1
+align 6 information 1
+align 7 *DELETE* 0.999829 uh 0.000163009 i 7.50391e-06 to 1.25443e-09
+align 8 </s> 1

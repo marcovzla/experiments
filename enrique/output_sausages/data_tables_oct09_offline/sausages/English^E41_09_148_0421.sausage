@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 0.997479 i'd 0.00252146
+align 3 i'll 0.82955 uh 0.170012 all 0.000437814 oh 1.34188e-10
+align 4 *DELETE* 0.829988 i'll 0.170012
+align 5 go 1
+align 6 ahead 1
+align 7 and 0.999408 in 0.000592492
+align 8 show 1
+align 9 you 1
+align 10 how 1
+align 11 are 1 *DELETE* 4.22768e-10
+align 12 you 1
+align 13 would 0.998957 with 0.000617352 *DELETE* 0.000425363
+align 14 apply 0.999578 *DELETE* 0.000422086
+align 15 fly 0.610922 klay 0.262867 by 0.112367 *DELETE* 0.0134214 reply 0.000422086
+align 16 this 0.720589 the 0.265567 flight 0.0073666 clyde 0.00647684
+align 17 *DELETE* 0.720589 is 0.279036 the 0.000374626
+align 18 *DELETE* 0.999625 is 0.000374626
+align 19 to 0.999973 tea 2.696e-05
+align 20 use 1
+align 21 uh 0.632499 um 0.351984 a 0.0134033 *DELETE* 0.00211426
+align 22 as 0.596175 has 0.381802 uh 0.0220231
+align 23 *DELETE* 0.977977 as 0.0220231
+align 24 a 0.990621 the 0.00921317 to 0.000155388 *DELETE* 9.21687e-06 it 7.90387e-07 uh 1.90356e-13
+align 25 tourniquet 1
+align 26 *DELETE* 0.999998 it 1.50606e-06
+align 27 </s> 1

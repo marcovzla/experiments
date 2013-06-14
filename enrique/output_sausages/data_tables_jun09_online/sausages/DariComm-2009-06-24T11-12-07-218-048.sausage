@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 has 1
+align 3 happened 1
+align 4 *DELETE* 0.999621 i 0.000246842 to 9.87976e-05 uh 2.5151e-05 sir 7.88591e-06
+align 5 </s> 1

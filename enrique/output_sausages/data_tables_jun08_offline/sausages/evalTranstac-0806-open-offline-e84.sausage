@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i 1
+align 3 think 0.997453 thank 0.00254706
+align 4 with 1
+align 5 our 1
+align 6 help 1
+align 7 we 1
+align 8 can 1
+align 9 uh 1
+align 10 pushed 0.935396 push 0.0626327 uh 0.00197046 puts 3.87602e-07
+align 11 *DELETE* 0.940256 the 0.0577728 pushed 0.00197046 a 3.87545e-07 to 3.00943e-08
+align 12 paperwork 1
+align 13 to 0.891927 *DELETE* 0.108073
+align 14 a 0.816428 the 0.0762819 *DELETE* 0.0748966 too 0.0134955 through 0.00971127 with 0.0086421 two 0.00054436
+align 15 little 0.996198 with 0.00368074 *DELETE* 0.000120917 look 7.02152e-10
+align 16 bit 0.967283 the 0.0288839 but 0.00281129 big 0.00102205 at 7.02152e-10
+align 17 quicker 0.998911 quick 0.000980903 quickly 0.000108566
+align 18 *DELETE* 0.999992 i 8.20704e-06
+align 19 </s> 1

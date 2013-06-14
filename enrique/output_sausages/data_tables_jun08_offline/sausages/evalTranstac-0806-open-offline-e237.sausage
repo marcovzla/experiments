@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 yes 1
+align 3 you're 0.694145 your 0.180193 *DELETE* 0.0705744 you 0.0550878
+align 4 *DELETE* 0.874338 here 0.0452615 are 0.0387459 year 0.0253129 were 0.0144172 ever 0.00192469
+align 5 out 0.917723 outfit 0.0822769
+align 6 fitted 0.844611 in 0.0816492 fit 0.0731121 *DELETE* 0.000627713
+align 7 *DELETE* 0.925891 in 0.0734814 and 0.000627713
+align 8 with 1
+align 9 the 1
+align 10 glock 0.987696 clock 0.0123038
+align 11 nine 1
+align 12 millimeter 1
+align 13 pistol 1
+align 14 </s> 1

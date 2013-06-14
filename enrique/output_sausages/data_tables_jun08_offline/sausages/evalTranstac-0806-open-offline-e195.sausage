@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 were 0.997351 we're 0.00264907
+align 3 on 1
+align 4 a 1
+align 5 routine 1
+align 6 patrol 1
+align 7 through 1
+align 8 the 1
+align 9 al-anbar 1
+align 10 province 1
+align 11 and 1
+align 12 uh 1
+align 13 we 0.995407 uh 0.00459324
+align 14 *DELETE* 0.995407 we 0.00459324
+align 15 came 1
+align 16 under 1
+align 17 an 0.991701 in 0.00734449 and 0.00075475 the 0.000200145
+align 18 enemy 1
+align 19 and 0.840011 ambush 0.155881 an 0.00344657 end 0.000661088
+align 20 bush 0.844071 *DELETE* 0.155881 bash 4.78963e-05 a 2.32639e-08
+align 21 </s> 1

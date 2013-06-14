@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 are 0.999981 *DELETE* 1.86018e-05
+align 2 there 0.999981 other 1.86018e-05
+align 3 any 1
+align 4 carpenters 1
+align 5 in 0.981972 and 0.0180277
+align 6 the 0.999149 *DELETE* 0.000792745 a 5.80234e-05
+align 7 village 1
+align 8 *DELETE* 0.999996 uh 2.19271e-06 i 1.66361e-06
+align 9 </s> 1

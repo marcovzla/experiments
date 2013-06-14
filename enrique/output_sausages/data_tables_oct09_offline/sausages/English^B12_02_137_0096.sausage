@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 sorry 1
+align 3 um 1
+align 4 three 1
+align 5 or 1
+align 6 thirty 0.927622 authority 0.069875 thirties 0.0025025
+align 7 *DELETE* 0.999953 i 3.70536e-05 uh 9.60636e-06
+align 8 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 which 1
+align 2 building 1
+align 3 is 1
+align 4 the 1
+align 5 most 1
+align 6 important 1
+align 7 *DELETE* 0.996225 uh 0.00352216 i 0.000166924 you 7.19905e-05 to 1.05691e-05 in 3.69959e-06 of 3.55699e-14 we 1.09737e-14
+align 8 </s> 1

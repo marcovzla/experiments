@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 use 0.957756 is 0.0422443
+align 4 that 1
+align 5 for 1
+align 6 the 0.980635 this 0.0193652
+align 7 school 0.99999 *DELETE* 1.00975e-05
+align 8 *DELETE* 0.999594 uh 0.000180892 in 0.000115103 i 7.34864e-05 and 1.01125e-05 schools 1.00975e-05 of 1.00002e-05 at 3.61981e-06 it 2.98043e-06 to 9.94003e-08 on 1.75257e-12
+align 9 </s> 1

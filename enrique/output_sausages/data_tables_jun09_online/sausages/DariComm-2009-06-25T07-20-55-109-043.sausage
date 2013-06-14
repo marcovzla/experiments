@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 will 1
+align 4 it 0.997999 *DELETE* 0.00200113
+align 5 take 1
+align 6 you 1
+align 7 to 1
+align 8 complete 1
+align 9 your 1
+align 10 work 1
+align 11 *DELETE* 0.999998 uh 1.98504e-06
+align 12 </s> 1

@@ -1,0 +1,56 @@
+numaligns 54
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999961 oh 3.88609e-05
+align 2 okay 1
+align 3 now 0.990047 and 0.00995321
+align 4 *DELETE* 0.984349 out 0.0135347 to 0.00211626
+align 5 the 0.719553 that 0.280447
+align 6 *DELETE* 0.589135 uh 0.410865
+align 7 *DELETE* 0.999621 uh 0.000379033
+align 8 the 0.711863 that 0.288137
+align 9 search 1
+align 10 team 1 teams 3.90796e-08
+align 11 *DELETE* 0.918428 the 0.0815722
+align 12 *DELETE* 0.91047 three 0.0747719 deputy 0.00795756 area 0.00680029
+align 13 that 1
+align 14 three 0.353149 through 0.31113 there 0.171471 *DELETE* 0.109302 day 0.017516 they're 0.0116021 the 0.0113088 their 0.00819422 do 0.00215843 very 0.00175346 they 0.0016415 drew 0.000450629 we 0.000324067
+align 15 *DELETE* 0.998342 do 0.0016415 is 1.6003e-05
+align 16 that 0.892269 *DELETE* 0.0895298 area 0.0171596 uh 0.000988277 the 5.176e-05 a 7.64701e-07 is 4.71946e-07
+align 17 *DELETE* 0.999823 at 0.000176921
+align 18 that 0.9932 *DELETE* 0.00680029
+align 19 *DELETE* 0.997382 that 0.00261836
+align 20 are 1
+align 21 *DELETE* 0.887658 going 0.112342
+align 22 gonna 0.887658 to 0.112342
+align 23 initiate 1
+align 24 stop 1
+align 25 the 1
+align 26 vehicle 1
+align 27 uh 1
+align 28 one 0.659047 when 0.262975 won 0.0779783
+align 29 the 0.972145 *DELETE* 0.0278554
+align 30 vehicle 0.999653 vehicle's 0.000347091
+align 31 stops 0.997747 stop 0.00225268 stopped 1.12718e-07
+align 32 you 0.999998 he 1.47618e-06 the 2.1023e-07
+align 33 can 0.999599 going 0.000272774 gonna 0.000128356
+align 34 *DELETE* 0.999525 to 0.000272774 i 0.000201727
+align 35 ask 1
+align 36 them 0.947737 him 0.0392727 um 0.0129899
+align 37 to 1
+align 38 get 1
+align 39 every 0.97714 ever 0.0228595
+align 40 all 1
+align 41 the 1
+align 42 uh 1
+align 43 *DELETE* 0.876338 person 0.117933 uh 0.00572987
+align 44 personnel 0.882067 now 0.117933
+align 45 except 1
+align 46 the 1
+align 47 driver 1
+align 48 out 0.929773 *DELETE* 0.0696336 i 0.00059351
+align 49 of 0.999211 had 0.000479092 at 0.000249148 would 3.01939e-05 have 2.24535e-05 add 6.4366e-06 *DELETE* 4.27959e-08
+align 50 the 1
+align 51 vehicle 0.999621 vehicles 0.000378939
+align 52 *DELETE* 1 uh 3.47081e-07
+align 53 </s> 1

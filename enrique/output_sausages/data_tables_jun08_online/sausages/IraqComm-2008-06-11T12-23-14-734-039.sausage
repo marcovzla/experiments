@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 please 1
+align 3 rephrase 0.999785 refer 0.000214729
+align 4 *DELETE* 0.999785 is 0.000214729
+align 5 your 1
+align 6 answer 1
+align 7 </s> 1

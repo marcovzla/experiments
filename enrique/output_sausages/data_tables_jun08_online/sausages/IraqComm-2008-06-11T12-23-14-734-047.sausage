@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 so 0.991067 *DELETE* 0.0070931 see 0.00183952
+align 2 you 0.998389 *DELETE* 0.00117544 say 0.000435557
+align 3 *DELETE* 0.993342 say 0.00423229 see 0.00242525
+align 4 *DELETE* 0.993979 you 0.00602115
+align 5 have 0.999356 had 0.000644486
+align 6 a 1
+align 7 *DELETE* 0.999994 a 5.81544e-06
+align 8 problem 1
+align 9 with 1
+align 10 cholera 1
+align 11 are 0.845569 *DELETE* 0.154431
+align 12 there 0.836146 other 0.153786 their 0.00721155 the 0.00221064 either 0.000645453
+align 13 other 1
+align 14 diseases 1
+align 15 in 1 and 2.01343e-18
+align 16 your 1
+align 17 town 1
+align 18 *DELETE* 0.999979 uh 2.11137e-05
+align 19 </s> 1

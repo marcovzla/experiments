@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 sa'ad 0.840103 *DELETE* 0.107098 side 0.032845 sad 0.0134245 sat 0.00652968
+align 2 and 0.722985 in 0.169447 saddened 0.0929943 sadoun 0.0141032 bin 0.000470479
+align 3 understand 1
+align 4 what 1
+align 5 you 1
+align 6 said 1
+align 7 could 1
+align 8 you 1
+align 9 repeat 1
+align 10 please 1
+align 11 *DELETE* 0.999974 do 2.50517e-05 uh 6.88177e-07
+align 12 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 uh 0.675072 sir 0.239511 it 0.0239904 i 0.0173111 a 0.0102233 we 0.0100329 are 0.0079418 our 0.0063467 or 0.00478335 of 0.00334968 i'd 0.000512609 they 0.000492455 that 0.000227974 there 0.000204955
+align 3 we 1
+align 4 got 0.632103 gotta 0.364121 are 0.00377549 going 5.69299e-07
+align 5 a 0.521837 *DELETE* 0.477046 uh 0.000638868 it 0.000374069 i 8.35003e-05 to 2.04948e-05
+align 6 covered 0.993713 cover 0.00619041 covers 7.38724e-05 coverage 2.28145e-05
+align 7 *DELETE* 1 uh 4.77433e-07
+align 8 </s> 1

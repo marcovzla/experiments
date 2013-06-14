@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 color 1
+align 3 is 1
+align 4 your 1
+align 5 car 1
+align 6 *DELETE* 0.999962 uh 3.05324e-05 sir 5.49327e-06 i 1.70609e-06
+align 7 </s> 1

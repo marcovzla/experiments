@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 0.994377 i 0.00562346
+align 2 long 0.994377 don't 0.00562346
+align 3 have 1
+align 4 you 1
+align 5 worked 1
+align 6 in 1
+align 7 a 0.788409 the 0.211591
+align 8 hospital 1 *DELETE* 9.49638e-28
+align 9 *DELETE* 0.999987 i 8.10814e-06 is 4.70813e-06 hospitals 3.46569e-19 or 1.56295e-26
+align 10 </s> 1

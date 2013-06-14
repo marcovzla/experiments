@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 your 1
+align 3 neighbor 0.999779 *DELETE* 0.000221003
+align 4 there's 0.840706 looters 0.0353685 leaders 0.0214573 orders 0.0181822 letters 0.0157877 *DELETE* 0.0156459 odors 0.0147418 ears 0.0119226 theirs 0.0114097 others 0.00812169 or 0.00665673
+align 5 *DELETE* 0.969069 owners 0.00675059 there's 0.00665673 and 0.00631669 leader's 0.00261618 lawyers 0.00257246 in 0.00225038 liters 0.0019701 leaders' 0.000800626 is 0.000471373 rulers 0.000243582 neighbor's 0.000206561 an 7.57028e-05
+align 6 *DELETE* 0.999939 and 4.65183e-05 neighbors 1.44416e-05
+align 7 children 1
+align 8 get 1
+align 9 sick 1
+align 10 *DELETE* 0.999453 i 0.000470472 uh 6.02997e-05 too 1.63531e-05 it 1.02217e-07 to 4.99364e-10 and 7.13423e-13
+align 11 </s> 1

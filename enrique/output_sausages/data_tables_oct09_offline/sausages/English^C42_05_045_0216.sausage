@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 excellent 1
+align 2 we 1
+align 3 have 1
+align 4 we 1
+align 5 need 1
+align 6 to 1
+align 7 build 1
+align 8 a 0.931941 the 0.0679236 this 0.000135441
+align 9 school 1
+align 10 uh 0.992432 i 0.00314139 out 0.00224543 us 0.00208359 oh 9.20711e-05 *DELETE* 5.16748e-06
+align 11 *DELETE* 0.999707 of 0.000200598 uh 9.20711e-05
+align 12 some 0.977705 uh 0.0161388 us 0.0060644 *DELETE* 9.20401e-05
+align 13 *DELETE* 0.977705 some 0.0222032 sum 8.68726e-05 awesome 5.16748e-06
+align 14 schools 0.999797 school's 0.000180868 schools' 2.18604e-05
+align 15 *DELETE* 0.999899 uh 8.11145e-05 i 1.96832e-05 in 6.00143e-07
+align 16 </s> 1

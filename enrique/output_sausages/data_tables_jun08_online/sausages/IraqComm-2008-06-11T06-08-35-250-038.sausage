@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 need 1
+align 3 everyone 1
+align 4 to 1
+align 5 get 1
+align 6 out 1
+align 7 of 1
+align 8 the 0.999791 *DELETE* 0.000209037
+align 9 vehicle 1
+align 10 *DELETE* 0.999106 uh 0.00089361 vehicles 8.26335e-17
+align 11 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 hours 1
+align 4 a 1
+align 5 day 1
+align 6 do 1
+align 7 you 1
+align 8 have 1
+align 9 electricity 1
+align 10 *DELETE* 0.999988 uh 8.04938e-06 i 3.3374e-06 in 1.72921e-07
+align 11 </s> 1

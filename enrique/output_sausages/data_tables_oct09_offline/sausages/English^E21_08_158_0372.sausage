@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.995889 oh 0.00411137
+align 2 okay 1
+align 3 but 0.998217 bye 0.000896554 by 0.000886614
+align 4 regardless 0.772866 regards 0.227134
+align 5 *DELETE* 1 sir 1.04829e-14
+align 6 we 1
+align 7 always 1
+align 8 need 1
+align 9 to 1
+align 10 have 1
+align 11 some 0.999337 the 0.000662675
+align 12 *DELETE* 0.999337 some 0.000662675
+align 13 type 1
+align 14 of 1
+align 15 procedure 1
+align 16 in 1
+align 17 order 1
+align 18 for 1
+align 19 at 0.633514 if 0.255687 that 0.0700363 it 0.0206362 us 0.0201258
+align 20 that 1
+align 21 vehicle 1
+align 22 does 0.999909 and 9.07997e-05
+align 23 *DELETE* 0.999909 does 9.07997e-05
+align 24 come 0.999881 comes 0.000118501
+align 25 straight 1
+align 26 out 0.827166 up 0.105721 at 0.0671129
+align 27 the 0.70405 a 0.156306 to 0.133826 *DELETE* 0.0045623 of 0.00125493
+align 28 patrol 0.999594 patrols 0.000390771 patrol's 1.51245e-05
+align 29 *DELETE* 0.999948 uh 5.18306e-05
+align 30 </s> 1

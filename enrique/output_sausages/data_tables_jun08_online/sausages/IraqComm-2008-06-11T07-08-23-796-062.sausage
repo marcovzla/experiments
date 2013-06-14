@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 workers 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 *DELETE* 0.99871 a 0.000658546 uh 0.000631451
+align 9 </s> 1

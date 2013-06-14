@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 0.354296 are 0.316894 did 0.297188 if 0.0316221
+align 3 they 1
+align 4 been 0.822925 mean 0.15648 going 0.0133655 can 0.00288932 don't 0.00282369 even 0.000729204 bring 0.000588459 burn 0.000199311
+align 5 spotted 1
+align 6 doing 1
+align 7 what 1
+align 8 activities 1 activity 1.03873e-07
+align 9 *DELETE* 1 is 1.03873e-07
+align 10 </s> 1

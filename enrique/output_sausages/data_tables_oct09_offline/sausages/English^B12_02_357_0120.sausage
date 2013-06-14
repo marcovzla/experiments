@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 uh 1
+align 4 do 1
+align 5 you 1
+align 6 ever 1
+align 7 meet 0.88623 me 0.0917005 meat 0.0220694
+align 8 with 1
+align 9 the 1
+align 10 citizens 1
+align 11 of 1
+align 12 your 1
+align 13 community 1
+align 14 or 1
+align 15 with 1
+align 16 any 1
+align 17 of 1
+align 18 the 1
+align 19 elected 1
+align 20 officials 1
+align 21 locally 0.99796 luckily 0.00155987 look 0.00039963 local 8.0553e-05
+align 22 *DELETE* 0.999421 away 0.00039963 i 8.28627e-05 way 7.88691e-05 uh 1.6166e-05 in 1.09738e-06 weigh 4.1389e-07 and 1.72618e-07
+align 23 </s> 1

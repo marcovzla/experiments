@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 equipment 1
+align 5 to 1
+align 6 set 1
+align 7 up 1
+align 8 the 1
+align 9 checkpoint 0.999789 checkpoints 0.000211026
+align 10 *DELETE* 0.99992 is 7.93163e-05 to 7.40697e-07 uh 3.23315e-07 i 6.56907e-09
+align 11 </s> 1

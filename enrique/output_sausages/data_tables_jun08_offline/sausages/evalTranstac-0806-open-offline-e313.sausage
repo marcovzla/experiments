@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 uh 1
+align 5 corpsman 0.909565 corpsmen 0.0904348
+align 6 lady 0.523773 lee 0.435322 li 0.0222583 lea 0.0157887 lay 0.00151436 early 0.00134318
+align 7 and 1
+align 8 i 0.999995 uh 5.4029e-06
+align 9 *DELETE* 0.998975 i 0.00102538
+align 10 will 1
+align 11 be 1
+align 12 uh 1
+align 13 going 0.975916 uh 0.0240841
+align 14 *DELETE* 0.975916 going 0.0240841
+align 15 or 0.999683 over 0.000316868
+align 16 some 1
+align 17 basic 1
+align 18 first 1
+align 19 aid 0.99776 eight 0.00223969
+align 20 with 1
+align 21 you 0.999736 your 0.000264167
+align 22 today 1
+align 23 </s> 1

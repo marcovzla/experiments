@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 doctors 1
+align 4 and 1
+align 5 nurses 1
+align 6 *DELETE* 0.999929 do 7.04538e-05 uh 7.81216e-07 i 9.05505e-08 at 9.83507e-10 in 5.30316e-10 that 3.85599e-10 and 1.18261e-12 to 3.28554e-14
+align 7 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 a 0.542862 the 0.455801 their 0.00131171 in 2.52477e-05
+align 4 religious 1
+align 5 background 1
+align 6 of 0.952613 up 0.0264115 uh 0.00478584 i've 0.00443743 out 0.00436832 i 0.00361036 on 0.00221559 *DELETE* 0.000856173 i'll 0.00036841 all 0.000333129
+align 7 *DELETE* 0.997097 of 0.00290326
+align 8 this 0.979214 his 0.0173592 its 0.00194067 others 0.00082927 it's 0.000242263 is 0.00023623 these 0.00015184 others' 2.69036e-05 obvious 1.46522e-11
+align 9 neighborhood 1 is 4.05228e-12
+align 10 *DELETE* 0.999284 uh 0.000715574 in 5.46406e-07 neighborhood 4.05228e-12 i 9.59358e-13 a 1.44901e-13 it 7.37051e-16 to 6.68971e-16
+align 11 </s> 1

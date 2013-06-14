@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 can 1
+align 3 we 0.998468 be 0.00153196
+align 4 purchase 0.94909 purchased 0.0509103
+align 5 more 1
+align 6 fuel 0.99998 feel 2.00981e-05
+align 7 *DELETE* 0.999944 uh 5.59425e-05
+align 8 </s> 1

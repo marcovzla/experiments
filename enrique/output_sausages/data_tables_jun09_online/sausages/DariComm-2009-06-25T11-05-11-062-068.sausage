@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 which 1
+align 2 house 0.995994 how 0.00394366 *DELETE* 6.28004e-05
+align 3 *DELETE* 0.995606 us 0.00394366 uh 0.000215098 i 0.000108213 houses 6.28004e-05 is 5.32745e-05 do 4.30272e-06 a 2.60125e-06 it 2.21038e-06 you 1.13893e-06 in 3.73196e-07 he 2.83074e-13
+align 4 </s> 1

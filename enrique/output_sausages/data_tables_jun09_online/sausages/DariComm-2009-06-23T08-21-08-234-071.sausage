@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 please 1
+align 4 stand 1
+align 5 with 1
+align 6 your 0.999323 you 0.000676822 you're 1.56429e-07
+align 7 friend 0.999998 a 1.48207e-09 *DELETE* 1.46026e-13
+align 8 *DELETE* 0.999797 and 6.02874e-05 do 5.9326e-05 sir 2.64275e-05 i 2.49792e-05 you 1.86773e-05 uh 1.13083e-05 friends 1.50097e-06 now 5.18138e-08 friend 1.48207e-09 them 3.08667e-13 to 3.04818e-14 in 2.30624e-16
+align 9 </s> 1

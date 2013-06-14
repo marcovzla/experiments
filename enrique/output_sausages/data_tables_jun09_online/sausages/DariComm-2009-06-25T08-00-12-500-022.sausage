@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 why 0.997048 *DELETE* 0.00295169
+align 2 are 0.997048 while 0.00295169
+align 3 you 1
+align 4 pull 1
+align 5 in 1
+align 6 this 1
+align 7 day 1
+align 8 and 1
+align 9 age 1
+align 10 on 0.999851 and 0.000149068
+align 11 his 0.983939 it 0.0153777 *DELETE* 0.000489792 is 0.000193656
+align 12 *DELETE* 0.984133 is 0.0158674
+align 13 arm 1
+align 14 please 0.99995 police 4.96725e-05
+align 15 explain 0.999201 explained 0.000799445
+align 16 *DELETE* 0.999239 it 0.000481831 uh 0.000193846 i 4.24186e-05 the 1.96818e-05 to 1.06589e-05 a 6.85867e-06 them 2.8084e-06 in 1.89382e-06 you 5.94286e-07
+align 17 </s> 1

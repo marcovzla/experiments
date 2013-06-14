@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 work 1
+align 4 in 0.728325 on 0.27152 and 0.000154499
+align 5 the 1
+align 6 farms 0.998746 farm's 0.00125444
+align 7 *DELETE* 0.999993 and 5.61736e-06 it 1.2369e-06
+align 8 </s> 1

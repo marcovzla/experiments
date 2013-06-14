@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 ever 1
+align 4 lived 0.539155 live 0.460845
+align 5 outside 1
+align 6 of 1
+align 7 afghanistan 1
+align 8 *DELETE* 1 i 1.27877e-07
+align 9 </s> 1

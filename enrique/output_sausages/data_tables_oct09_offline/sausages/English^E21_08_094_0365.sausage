@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 do 1
+align 3 you 1
+align 4 understand 1
+align 5 what 1
+align 6 i 1
+align 7 mean 1
+align 8 by 0.942393 but 0.0576071
+align 9 *DELETE* 0.988564 a 0.0114362
+align 10 three 0.907922 we 0.0576071 tree 0.0173779 to 0.0170912 *DELETE* 4.06734e-11
+align 11 *DELETE* 0.982909 be 0.0170912
+align 12 deed 0.447194 d 0.364375 due 0.110147 need 0.0735759 dede 0.00470646 treaty 2.06083e-06 do 2.28912e-07
+align 13 to 0.771895 *DELETE* 0.228105
+align 14 mention 0.771256 dimension 0.228105 mentioned 0.000638646
+align 15 are 0.404916 to 0.271316 *DELETE* 0.229765 of 0.0807601 environment 0.0132422
+align 16 um 0.971208 *DELETE* 0.025431 uh 0.00193052 or 0.000566819 a 0.000446144 that 0.000229764 in 0.000174247 if 1.38463e-05
+align 17 arm 0.528578 army 0.357146 armed 0.0518429 environment 0.0155418 *DELETE* 0.0133354 armor 0.012116 i 0.0117904 iron 0.00867719 arms 0.000598554 i'll 0.000240891 byron 0.000109098 um 9.81124e-06 environments 7.02837e-06 armored 5.52923e-06 buyer 1.35405e-06 arming 8.25452e-10 are 1.61833e-11
+align 18 *DELETE* 0.987802 arm 0.00614805 am 0.00252836 armed 0.00116868 army 0.00100164 earn 0.000425871 i'm 0.000362272 it 0.000228764 armor 0.000144067 don't 9.55126e-05 i 5.59608e-05 in 1.62435e-05 at 9.77571e-06 uh 6.7069e-06 irma 2.40419e-06 erma 2.40419e-06 that 4.76259e-07 the 3.92353e-07
+align 19 </s> 1

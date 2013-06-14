@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 um 0.644499 uh 0.326654 i 0.0269585 i'm 0.00188829
+align 2 i've 1
+align 3 heard 1
+align 4 that 0.916691 the 0.0833095
+align 5 *DELETE* 0.999998 i 1.82013e-06
+align 6 concrete 1
+align 7 is 1
+align 8 in 1
+align 9 short 1
+align 10 supply 1
+align 11 and 0.440483 in 0.280037 it 0.176771 of 0.0801695 at 0.0118042 a 0.00831604 *DELETE* 0.00163841 an 0.00078119
+align 12 hard 1
+align 13 hard 0.980049 *DELETE* 0.019951
+align 14 to 1
+align 15 *DELETE* 0.980049 hard 0.019951
+align 16 *DELETE* 0.980049 to 0.019951
+align 17 find 0.999956 fined 4.35985e-05
+align 18 </s> 1

@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 rephrase 1
+align 2 *DELETE* 0.999939 it 3.44634e-05 that 2.31995e-05 if 2.99271e-06 i 4.80644e-09 uh 2.36703e-11 the 8.51543e-19
+align 3 </s> 1

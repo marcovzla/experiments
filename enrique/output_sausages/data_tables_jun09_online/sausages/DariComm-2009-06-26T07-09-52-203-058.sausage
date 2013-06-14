@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 any 1
+align 5 school 1 *DELETE* 3.58865e-20
+align 6 materials 1 schoolmates 9.82649e-10
+align 7 *DELETE* 0.998403 i 0.000551506 uh 0.000327993 at 0.000286979 in 0.000142452 to 7.39226e-05 and 6.52968e-05 it 5.57111e-05 do 3.34814e-05 that 2.83556e-05 you 1.7286e-05 like 6.5138e-06 are 5.79424e-06 if 8.46667e-07 a 7.63806e-07 um 6.07025e-09 aerials 9.82649e-10 is 3.59791e-14
+align 8 </s> 1

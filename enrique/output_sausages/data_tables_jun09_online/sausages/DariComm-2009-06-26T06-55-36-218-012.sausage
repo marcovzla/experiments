@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 didn't 0.989299 don't 0.010701
+align 3 understand 1
+align 4 your 0.999178 you're 0.000821857
+align 5 car 0.532995 comment 0.410819 *DELETE* 0.0255799 call 0.0153421 card 0.0148452 called 0.000418413
+align 6 right 0.46143 *DELETE* 0.44638 that 0.0315624 man 0.0247993 comments 0.024588 by 0.01124 but 2.54023e-07
+align 7 *DELETE* 0.955033 back 0.0147364 it 0.011588 but 0.0101218 bat 0.00360063 rent 0.0018418 bent 0.00132815 combat 0.00097864 meant 0.000514219 write 8.84703e-05 met 5.01571e-05 mat 4.1931e-05 you 2.43817e-05 carpet 1.32158e-05 went 1.15508e-05 uh 1.14092e-05 i 1.03536e-05 in 6.25263e-06
+align 8 *DELETE* 0.999997 it 1.77033e-06 i 6.21475e-07 matt 3.01565e-07 a 2.39036e-07 might 1.27506e-07 at 4.23948e-09 backed 7.96545e-10 bit 3.34019e-11 on 2.77925e-11 to 2.38998e-11 bad 1.06317e-13 let 7.78645e-17
+align 9 </s> 1

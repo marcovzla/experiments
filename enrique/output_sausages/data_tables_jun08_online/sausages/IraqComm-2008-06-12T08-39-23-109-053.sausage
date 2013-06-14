@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 well 0.970089 *DELETE* 0.0299109
+align 2 it 0.795574 *DELETE* 0.174515 no 0.024647 yeah 0.00309408 now 0.00216983
+align 3 be 0.797376 they 0.163765 the 0.0385358 a 0.000322532
+align 4 safe 0.835927 say 0.163765 *DELETE* 0.000307812
+align 5 for 0.989937 to 0.00975567 safer 0.000307812
+align 6 the 0.998299 their 0.00170107
+align 7 workers 0.999988 workers' 1.19967e-05
+align 8 in 0.999975 and 2.52036e-05
+align 9 this 1
+align 10 area 1
+align 11 *DELETE* 0.998714 uh 0.00128628 um 1.04884e-14
+align 12 </s> 1

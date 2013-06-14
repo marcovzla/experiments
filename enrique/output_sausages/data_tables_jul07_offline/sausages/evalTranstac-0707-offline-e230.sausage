@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 i'm 1
+align 3 going 1
+align 4 to 1
+align 5 do 1
+align 6 is 1
+align 7 interview 0.916876 to 0.0831241
+align 8 *DELETE* 0.916876 interview 0.0831241
+align 9 you 0.999915 *DELETE* 8.49891e-05
+align 10 and 1
+align 11 trying 1
+align 12 give 1 *DELETE* 2.02138e-11
+align 13 you 1 t._v. 2.60972e-07
+align 14 the 0.995456 their 0.00277485 to 0.00176924
+align 15 job 1
+align 16 the 0.999611 that 0.000336955 it 5.13369e-05 to 8.43626e-07
+align 17 best 0.999992 bess 7.38778e-06 this 9.86833e-07
+align 18 suits 0.941796 fits 0.0495937 it's 0.00624517 sits 0.00099811 its 0.000750127 fit 0.000350087 see 0.000212872 fifth 4.87176e-05 it 3.84101e-06 aids 1.28631e-06
+align 19 *DELETE* 0.999787 it's 0.000154167 its 5.87057e-05
+align 20 you 0.999963 you'll 2.45609e-05 u 1.18755e-05 due 6.28039e-07 yu 8.69816e-08
+align 21 *DELETE* 0.999996 i 3.39054e-06 a 2.06585e-07 in 1.11607e-08
+align 22 </s> 1

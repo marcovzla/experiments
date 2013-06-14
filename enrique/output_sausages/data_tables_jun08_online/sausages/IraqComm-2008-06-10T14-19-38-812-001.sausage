@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 it's 0.999647 *DELETE* 0.000184893 its 0.000168214
+align 4 good 1
+align 5 to 1
+align 6 see 1
+align 7 you 1
+align 8 *DELETE* 0.999809 uh 0.000191312 i 7.02145e-08 in 6.65492e-16
+align 9 </s> 1

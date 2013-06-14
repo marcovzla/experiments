@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 now 0.493812 not 0.446568 no 0.0596199
+align 2 two 0.444026 to 0.404478 too 0.128268 uh 0.0196216 till 0.00295634 a 0.000650213
+align 3 *DELETE* 0.958159 you 0.0222192 to 0.0111274 two 0.0084942
+align 4 would 1
+align 5 be 1
+align 6 great 1
+align 7 thank 1
+align 8 you 1
+align 9 *DELETE* 0.999999 uh 1.2924e-06
+align 10 </s> 1

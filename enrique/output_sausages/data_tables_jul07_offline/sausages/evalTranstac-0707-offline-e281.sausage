@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.605686 you 0.393094 do 0.0012206
+align 2 would 1
+align 3 move 1
+align 4 everyone 1
+align 5 else 1
+align 6 to 0.999997 too 3.45489e-06
+align 7 the 1
+align 8 holding 1
+align 9 area 1
+align 10 to 1
+align 11 be 1
+align 12 searched 1
+align 13 separately 0.991844 to 0.00812583 as 2.50391e-05 is 5.58973e-06
+align 14 *DELETE* 0.991843 separately 0.00815646 i 8.24357e-08
+align 15 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 have 0.689542 if 0.309604 and 0.000853597
+align 2 you 1
+align 3 done 0.598174 don't 0.401826
+align 4 patrolling 1
+align 5 through 0.999826 do 0.000173533
+align 6 like 0.968298 likes 0.0284333 liked 0.00179039 lights 0.000809625 light 0.000668465
+align 7 cities 0.982809 city's 0.0161183 c._d.s 0.000845697 city 0.000147353 *DELETE* 7.93863e-05
+align 8 *DELETE* 0.998113 uh 0.000921269 i 0.000440387 is 0.000151263 it 0.000143461 in 8.26717e-05 eighties 7.93863e-05 do 3.30486e-05 to 1.54218e-05 that 1.08028e-05 and 2.60185e-06 but 1.94648e-06 did 1.59569e-06 at 9.01124e-07 does 6.83457e-07 like 6.02456e-07 you 3.78451e-07 are 1.59343e-07 if 1.10217e-07 too 9.55652e-08 so 1.75077e-08 of 5.25479e-12
+align 9 </s> 1

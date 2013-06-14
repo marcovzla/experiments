@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 but 0.795494 what 0.122807 well 0.081699
+align 2 the 0.999985 we'll 1.47316e-05
+align 3 pillars 1
+align 4 are 0.999001 i 0.000999411
+align 5 in 0.634653 *DELETE* 0.308061 indeed 0.0572325 and 5.35378e-05
+align 6 *DELETE* 0.999946 he 5.35378e-05
+align 7 need 0.886226 needed 0.0564883 it 0.0482507 *DELETE* 0.00897512 did 6.01687e-05
+align 8 at 0.530562 it 0.245631 need 0.106938 of 0.0985251 to 0.0128713 that 0.00339185 did 0.00114915 and 0.000859583 a 7.16628e-05
+align 9 *DELETE* 0.996042 it 0.00274058 be 0.00121739
+align 10 at 0.53661 *DELETE* 0.46339
+align 11 the 1 a 1.34234e-18
+align 12 hospital 1
+align 13 </s> 1

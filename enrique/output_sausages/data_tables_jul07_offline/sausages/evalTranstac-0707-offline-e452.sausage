@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 can 1
+align 3 make 1
+align 4 other 1
+align 5 arrangements 0.870779 regions 0.108377 arranges 0.0139534 agents 0.005151 ranges 0.00125076 ages 0.000488528
+align 6 if 1
+align 7 you're 0.805189 your 0.178795 you 0.0132633 you'd 0.00275241
+align 8 open 0.995996 opened 0.00400417
+align 9 to 0.99667 too 0.00238653 two 0.000943861
+align 10 it 0.987144 us 0.00917829 ours 0.00236453 *DELETE* 0.000844442 work 0.000173497 is 9.13107e-05 as 8.24768e-05 a 6.7651e-05 if 3.19584e-05 its 1.13555e-05 itch 1.04068e-05
+align 11 *DELETE* 0.999982 so 1.11777e-05 it's 3.78815e-06 list 1.61468e-06 his 7.80491e-07 sir 7.53418e-07 hours 2.18157e-07 i 7.25292e-08 her 7.17564e-08 in 1.32269e-10 of 3.10237e-12 have 1.47039e-14 uh 5.99561e-15 at 4.76689e-15 answer 7.41029e-17 tools 1.34019e-17 attack 6.22937e-18 is 1.00223e-18 each 1.5231e-22
+align 12 </s> 1

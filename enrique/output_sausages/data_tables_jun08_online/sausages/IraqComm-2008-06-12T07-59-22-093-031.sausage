@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 0.97272 he 0.0272798
+align 3 describe 1
+align 4 them 0.922133 him 0.0767738 the 0.000714239 then 0.000320778 their 3.97788e-05 to 1.86394e-05
+align 5 *DELETE* 0.999984 uh 1.62548e-05 a 6.92536e-09 them 1.98482e-11 in 9.77513e-19
+align 6 </s> 1

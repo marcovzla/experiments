@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 we 0.836523 you 0.158208 i 0.00374099 *DELETE* 0.00107231 they 0.000408425 who 4.69594e-05
+align 3 do 0.998928 *DELETE* 0.00107231
+align 4 sir 0.792351 so 0.206351 reducer 0.00107231 sell 7.37471e-05 some 6.59464e-05 serve 5.25785e-05 soap 2.07637e-05 sew 1.0482e-05 show 2.25065e-06
+align 5 *DELETE* 0.99894 uh 0.0010573 i 2.86367e-06
+align 6 </s> 1

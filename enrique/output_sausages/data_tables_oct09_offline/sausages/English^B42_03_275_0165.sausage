@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.984153 i 0.0153519 *DELETE* 0.000494968
+align 2 *DELETE* 0.984153 will 0.0158468
+align 3 see 1
+align 4 if 1
+align 5 we 1
+align 6 can 1
+align 7 help 1
+align 8 with 1
+align 9 that 1
+align 10 *DELETE* 0.999928 uh 7.12481e-05 i 4.70639e-07
+align 11 </s> 1

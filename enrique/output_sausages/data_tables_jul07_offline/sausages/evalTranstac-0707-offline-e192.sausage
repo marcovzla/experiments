@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 uh 1
+align 3 uh 0.962888 um 0.0371117
+align 4 my 0.999116 may 0.000883616
+align 5 records 0.755664 record 0.231063 record's 0.0132726
+align 6 say 1
+align 7 he 1
+align 8 is 1
+align 9 uh 0.99948 a 0.000519576
+align 10 suspected 0.932603 uh 0.0673973
+align 11 *DELETE* 0.932603 suspected 0.0673973
+align 12 of 1 *DELETE* 1.93081e-15
+align 13 insurgent 1
+align 14 activity 1
+align 15 *DELETE* 0.999933 i 3.10032e-05 uh 1.88334e-05 in 1.67947e-05
+align 16 </s> 1

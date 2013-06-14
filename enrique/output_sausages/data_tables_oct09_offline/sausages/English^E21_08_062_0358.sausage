@@ -1,0 +1,47 @@
+numaligns 45
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.993312 oh 0.00662017 uh 6.78147e-05
+align 2 okay 1
+align 3 now 0.73509 no 0.26491
+align 4 *DELETE* 0.569925 i 0.430075
+align 5 have 0.430075 *DELETE* 0.244544 as 0.192449 is 0.0558486 i've 0.0472486 are 0.0298345
+align 6 a 0.478805 the 0.276519 other 0.240506 either 0.00403806 there 0.000132111
+align 7 patrol 0.987264 patrolling 0.012736
+align 8 into 0.922693 in 0.0401607 at 0.0205818 to 0.0103276 it's 0.00335656 *DELETE* 0.00240843 and 0.000471924
+align 9 *DELETE* 0.956959 to 0.0430411
+align 10 this 1
+align 11 town 1
+align 12 and 0.998773 uh 0.000900788 as 0.000325819
+align 13 we 1
+align 14 all 0.539816 uh 0.281577 *DELETE* 0.177423 i 0.00118425
+align 15 right 0.539816 *DELETE* 0.167824 i 0.15298 are 0.0932157 write 0.0398134 uh 0.002563 the 0.00185433 it 0.00114957 they 0.000360757 buy 0.000211994 you 0.000211542
+align 16 *DELETE* 0.999924 i 7.57395e-05
+align 17 approach 0.745124 approached 0.254876
+align 18 this 0.847383 us 0.134937 it's 0.0114404 as 0.00356213 is 0.00267664 does 1.25766e-17
+align 19 uh 0.933494 the 0.0665063
+align 20 intersection 0.982656 uh 0.017344
+align 21 *DELETE* 0.982656 intersection 0.017344
+align 22 the 0.987983 but 0.00792945 that 0.00322502 there 0.000862729
+align 23 first 1
+align 24 guy 1
+align 25 in 0.998199 and 0.00180072
+align 26 the 1
+align 27 front 0.974933 fry 0.0250666
+align 28 *DELETE* 0.994696 uh 0.00275336 it 0.00255049
+align 29 is 0.950017 as 0.0491571 it's 0.000825616
+align 30 going 0.992036 in 0.0047908 *DELETE* 0.00316519 good 7.52333e-06
+align 31 taking 0.988977 *DELETE* 0.00587384 gonna 0.00316519 to 0.00198421
+align 32 *DELETE* 0.988985 take 0.0110152
+align 33 *DELETE* 0.988977 in 0.0110152 taking 8.043e-06
+align 34 the 0.869465 knee 0.130535
+align 35 *DELETE* 0.804364 and 0.181229 m 0.0102668 uh 0.00224323 i 0.00189664
+align 36 right 0.611287 provide 0.369074 improvise 0.0118327 bright 0.00780633
+align 37 security 1
+align 38 on 1
+align 39 this 0.999701 his 0.000298923
+align 40 uh 1
+align 41 intersection 0.996291 reception 0.00163074 perception 0.000972309 and 0.00045976 in 0.000458339 intersections 8.39153e-05 inner 6.75979e-05 injection 3.59789e-05
+align 42 *DELETE* 0.999542 a 0.000458334
+align 43 *DELETE* 0.999014 section 0.000985692 reception 5.0452e-09 i 2.60149e-09
+align 44 </s> 1

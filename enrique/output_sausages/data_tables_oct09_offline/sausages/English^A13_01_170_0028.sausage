@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 sir 0.99996 so 3.96727e-05
+align 2 i 1
+align 3 need 1
+align 4 you 1
+align 5 to 0.630167 *DELETE* 0.369833
+align 6 open 1 opened 1.3963e-08
+align 7 to 0.803737 the 0.148057 new 0.036627 a 0.00975214 your 0.000861472 *DELETE* 0.00051573 it 0.00031431 that 0.000134635 in 4.78142e-11
+align 8 be 0.801435 regards 0.197183 every 0.000515729 we 0.000447153 rear 0.000275589 regard 9.37796e-05 big 2.86744e-05 *DELETE* 2.13681e-05
+align 9 guards 0.799234 *DELETE* 0.19725 guard's 0.0013834 guards' 0.00124713 garbage 0.000474957 guard 0.000208701 gardens 0.000124014 guarded 2.98491e-05 regardless 2.13681e-05 as 8.62262e-06 to 4.83481e-06 us 4.51405e-06 i 4.03946e-06 this 3.80987e-06 is 8.87523e-07 it's 2.97672e-08 it 8.69086e-09 its 2.00071e-10
+align 10 *DELETE* 0.999892 it 5.20434e-05 i 3.33382e-05 is 1.03541e-05 us 6.61063e-06 uh 3.57815e-06 this 2.02488e-06 as 2.11579e-07 it's 1.23337e-09
+align 11 </s> 1

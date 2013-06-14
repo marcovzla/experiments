@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 0.999799 do 0.000201441
+align 3 the 1
+align 4 cause 1
+align 5 of 1
+align 6 your 0.999998 you're 1.72356e-06
+align 7 problems 1
+align 8 </s> 1

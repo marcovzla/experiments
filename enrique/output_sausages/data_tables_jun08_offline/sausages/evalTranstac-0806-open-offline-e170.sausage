@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 great 1
+align 3 thank 1
+align 4 you 1
+align 5 </s> 1

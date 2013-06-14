@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 i'll 1
+align 2 try 1
+align 3 to 1
+align 4 get 1
+align 5 him 0.91419 them 0.0858096
+align 6 back 0.763608 that 0.236392
+align 7 women 0.743851 equipment 0.236392 willing 0.00573249 wooden 0.00566475 with 0.0043699 woman 0.00386472 would 0.000125593
+align 8 *DELETE* 0.99563 them 0.00336453 him 0.00100538
+align 9 for 1
+align 10 you 1
+align 11 as 1
+align 12 soon 1
+align 13 as 1
+align 14 possible 1
+align 15 *DELETE* 0.999869 uh 0.000130773 i 1.05777e-11 it 5.52531e-14 to 1.26787e-14
+align 16 </s> 1

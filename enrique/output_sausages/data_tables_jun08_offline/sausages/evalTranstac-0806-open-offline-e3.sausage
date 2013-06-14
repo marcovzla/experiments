@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 well 0.952728 we'll 0.0472716
+align 2 first 1
+align 3 of 1
+align 4 all 1
+align 5 have 0.999243 had 0.000756646
+align 6 you 1
+align 7 been 1
+align 8 keeping 1
+align 9 it 0.952522 a 0.039094 the 0.00838352
+align 10 good 0.606899 could 0.309998 to 0.0644867 did 0.0136542 there 0.00361367 it 0.00134867
+align 11 inventory 1
+align 12 of 0.999999 if 5.55922e-07 *DELETE* 4.68959e-11
+align 13 these 1 this 2.09737e-08
+align 14 weapons 1
+align 15 *DELETE* 1 in 7.85832e-09
+align 16 </s> 1

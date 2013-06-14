@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 hello 1 *DELETE* 2.84477e-11
+align 2 um 0.616643 uh 0.383348 *DELETE* 9.32988e-06
+align 3 *DELETE* 0.998121 uh 0.000949893 i 0.000917816 um 5.57661e-06 yeah 3.07808e-06 oh 2.85635e-06 it 4.89207e-09 you 1.34516e-09 the 3.09799e-12
+align 4 *DELETE* 1 uh 7.05313e-14
+align 5 </s> 1

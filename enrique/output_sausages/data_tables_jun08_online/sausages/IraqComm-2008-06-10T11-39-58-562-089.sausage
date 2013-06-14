@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 why 0.997261 wow 0.00243756 well 0.000300242 what 7.78144e-07
+align 2 *DELETE* 0.9997 i 0.000300242
+align 3 do 1 did 1.74077e-07
+align 4 you 1
+align 5 have 1
+align 6 so 1
+align 7 much 1
+align 8 fertilizer 0.985641 fertilizers 0.0143589
+align 9 for 0.999627 four 0.000373338
+align 10 the 0.99999 that 9.55372e-06 their 4.24408e-16
+align 11 garden 0.998769 guard 0.0011168 *DELETE* 0.000113966
+align 12 *DELETE* 0.998769 and 0.000660771 in 0.000456025 gardens 9.2545e-05 guarding 2.14205e-05
+align 13 </s> 1

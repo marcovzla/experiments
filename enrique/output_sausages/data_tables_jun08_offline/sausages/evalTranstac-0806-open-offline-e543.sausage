@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 why 0.524559 was 0.420607 what 0.0547903 wise 4.3513e-05
+align 4 is 0.555697 *DELETE* 0.42065 it's 0.023653
+align 5 very 1
+align 6 point 0.802398 import 0.19748 important 0.000121927
+align 7 for 0.994712 *DELETE* 0.00517177 to 0.00011611 that 1.41634e-12
+align 8 you 0.994828 feed 0.00267462 fee 0.00249133 need 5.81635e-06
+align 9 to 1 *DELETE* 4.74773e-15
+align 10 tell 1
+align 11 me 1
+align 12 at 0.996522 it 0.00311199 a 0.000366038
+align 13 least 1 lease 1.59262e-07
+align 14 the 1
+align 15 key 1
+align 16 terrain 1
+align 17 features 0.97723 feature 0.0227697
+align 18 that 1
+align 19 we 1
+align 20 may 1
+align 21 encounter 1
+align 22 come 0.999245 coming 0.000754912
+align 23 into 0.999941 to 5.91228e-05
+align 24 this 1
+align 25 village 1
+align 26 </s> 1

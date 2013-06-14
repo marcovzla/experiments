@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 once 0.95488 i 0.0299634 wants 0.014742 *DELETE* 0.000414781
+align 2 *DELETE* 0.969622 want 0.0284627 once 0.0019155
+align 3 all 1
+align 4 the 1
+align 5 other 1
+align 6 personnel 0.887774 person 0.112226
+align 7 *DELETE* 0.887774 i 0.112226
+align 8 as 0.797775 was 0.112226 is 0.0899996
+align 9 out 1
+align 10 the 0.999996 that 4.29582e-06
+align 11 drivers 0.663713 driver's 0.33025 drivers' 0.00480759 driver 0.00122974
+align 12 in 0.785227 and 0.109656 can 0.102974 thing 0.000735969 going 0.000680059 is 0.000360809 then 0.000132959 name 0.000131168 to 0.000101783
+align 13 *DELETE* 0.999639 in 0.000360809
+align 14 the 0.597564 be 0.388899 *DELETE* 0.0103347 b 0.00320243
+align 15 in 0.989665 being 0.0103347
+align 16 the 1
+align 17 vehicle 1
+align 18 you 0.789491 you're 0.210509
+align 19 gonna 0.768592 can 0.225403 don't 0.00495526 going 0.00104973
+align 20 *DELETE* 0.99895 to 0.00104973
+align 21 have 1
+align 22 him 1
+align 23 open 1
+align 24 up 1
+align 25 all 1
+align 26 the 1
+align 27 compartments 1
+align 28 inside 1
+align 29 that 0.974928 the 0.0250717
+align 30 *DELETE* 0.996031 uh 0.00396941
+align 31 inside 1
+align 32 the 1
+align 33 vehicle 0.999911 vehicles 8.85013e-05
+align 34 </s> 1

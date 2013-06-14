@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 0.999999 we 1.24345e-06
+align 2 are 1
+align 3 your 1
+align 4 parents 0.999772 parents' 0.00022752
+align 5 *DELETE* 1 i 4.72913e-07
+align 6 </s> 1

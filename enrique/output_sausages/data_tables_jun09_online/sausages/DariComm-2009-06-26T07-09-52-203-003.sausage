@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 1
+align 2 play 0.999927 point 7.29565e-05
+align 3 instructions 1
+align 4 *DELETE* 0.999509 i 0.000259609 to 0.000194713 and 1.83634e-05 do 8.11582e-06 in 5.63739e-06 you 3.24752e-06 uh 7.90446e-07 a 2.90168e-07 on 9.21708e-16
+align 5 </s> 1

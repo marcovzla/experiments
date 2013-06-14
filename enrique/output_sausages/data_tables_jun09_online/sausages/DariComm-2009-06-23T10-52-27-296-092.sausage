@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 any 1
+align 4 other 1
+align 5 symptoms 1
+align 6 that 1
+align 7 you 0.999999 you're 6.16896e-07
+align 8 have 1
+align 9 right 1
+align 10 now 1
+align 11 *DELETE* 0.999784 uh 0.000215613 i 3.37759e-13 is 1.70058e-14
+align 12 </s> 1

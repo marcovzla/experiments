@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 get 1
+align 3 that 1
+align 4 out 0.992652 on 0.00734764
+align 5 a 1 are 1.39901e-13
+align 6 lot 1
+align 7 but 1
+align 8 uh 1
+align 9 all 0.813972 are 0.101575 i'll 0.0286798 i 0.0146958 um 0.0138792 arm 0.0119108 i'm 0.00743622 or 0.00733044 *DELETE* 0.000521002
+align 10 we 0.999896 we'd 0.000104067
+align 11 *DELETE* 0.9999 you 9.99006e-05
+align 12 just 1
+align 13 got 1
+align 14 here 1
+align 15 and 0.983687 in 0.0163135
+align 16 our 0.924058 are 0.0752003 *DELETE* 0.00064922 arm 9.27992e-05
+align 17 main 0.999258 army 0.00064922 a 9.27992e-05
+align 18 mission 1
+align 19 is 1
+align 20 to 1
+align 21 do 1
+align 22 this 1
+align 23 medical 1
+align 24 for 0.999987 four 1.2992e-05
+align 25 the 0.999902 a 9.79794e-05
+align 26 whole 0.999958 hole 4.15469e-05
+align 27 town 0.925115 time 0.0748853
+align 28 </s> 1

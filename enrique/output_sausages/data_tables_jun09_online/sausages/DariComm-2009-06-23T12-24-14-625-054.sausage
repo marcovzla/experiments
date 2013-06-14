@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 can 1 didn't 7.89956e-08
+align 2 you 1
+align 3 say 1
+align 4 again 0.999915 yes 5.52158e-05 *DELETE* 2.976e-05
+align 5 *DELETE* 0.999809 i 9.75887e-05 uh 4.51428e-05 yeah 2.976e-05 in 1.82759e-05 it 1.42848e-14 how 3.08888e-22
+align 6 </s> 1

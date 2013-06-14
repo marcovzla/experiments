@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 0.994704 *DELETE* 0.00529631
+align 2 you 1
+align 3 know 1
+align 4 where 1
+align 5 they 1 the 2.00125e-11
+align 6 come 1
+align 7 from 1
+align 8 *DELETE* 1 uh 1.7272e-10 i 6.7166e-11
+align 9 </s> 1

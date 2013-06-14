@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.95794 will 0.0271118 well 0.0149481
+align 2 see 0.989908 say 0.00798247 *DELETE* 0.00210935
+align 3 is 0.905779 as 0.054267 if 0.0252439 us 0.0103604 this 0.00205492 says 0.00116096 seize 0.000948385 his 0.000185332
+align 4 how 1
+align 5 we 0.998678 wheat 0.00125603 weak 6.6368e-05
+align 6 *DELETE* 0.999829 eat 0.000170953
+align 7 were 0.906404 will 0.0381787 we're 0.0376773 wear 0.0151794 where 0.00243262 worry 0.000127673
+align 8 limited 0.73015 limit 0.268581 in 0.00107965 linda 0.000137025 at 5.30143e-05
+align 9 *DELETE* 0.997059 it 0.00180881 limited 0.00113267
+align 10 with 0.950032 what 0.0499684
+align 11 time 1
+align 12 we 1
+align 13 should 1
+align 14 probably 1
+align 15 move 1
+align 16 on 1
+align 17 to 0.990966 a 0.00702428 i 0.00100672 and 0.000930881 who 7.19653e-05
+align 18 go 1
+align 19 talk 1
+align 20 to 1
+align 21 the 1
+align 22 police 1
+align 23 chief 0.765443 chiefs 0.171922 chief's 0.0626349
+align 24 since 0.68703 as 0.228809 is 0.0380393 says 0.0173056 us 0.0136861 this 0.00685707 *DELETE* 0.00477167 it's 0.00350057
+align 25 we 1
+align 26 have 0.999592 had 0.000407662
+align 27 half 0.932181 have 0.0678024 a 1.64039e-05
+align 28 *DELETE* 0.999984 half 1.64039e-05
+align 29 are 0.53982 our 0.458176 power 0.00110151 or 0.000862896 hour 3.92982e-05
+align 30 planned 0.381842 plant 0.364587 plan 0.240317 playing 0.0130047 plane 0.000243329 plain 5.04542e-06
+align 31 committee 0.785966 committed 0.201989 commit 0.0084328 *DELETE* 0.00288416 to 0.000728554
+align 32 *DELETE* 0.990829 it 0.00328673 committing 0.00288416 a 0.0021169 maybe 0.000728554 at 0.000154235
+align 33 at 0.997833 that 0.00214965 out 1.74424e-05
+align 34 this 0.996735 the 0.00187929 that 0.00135356 those 3.08629e-05 that's 9.05905e-07
+align 35 </s> 1

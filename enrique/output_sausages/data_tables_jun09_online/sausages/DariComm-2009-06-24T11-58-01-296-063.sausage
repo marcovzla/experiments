@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 would 0.99998 will 2.00399e-05
+align 3 like 1
+align 4 to 1
+align 5 know 1
+align 6 how 1
+align 7 many 1
+align 8 people 1
+align 9 live 0.961774 do 0.0360822 who 0.00102892 were 0.000658039 *DELETE* 0.000277386 there 0.000179236
+align 10 *DELETE* 0.997825 do 0.00168696 you 0.000303292 of 0.000179236 know 5.8708e-06
+align 11 with 1
+align 12 you 1
+align 13 *DELETE* 0.999852 uh 0.000132396 in 9.63637e-06 at 5.50467e-06 i 9.82449e-11
+align 14 </s> 1

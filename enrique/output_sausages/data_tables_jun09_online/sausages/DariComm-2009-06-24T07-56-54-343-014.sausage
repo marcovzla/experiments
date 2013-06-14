@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 like 1
+align 5 the 0.999987 then 1.28907e-05 that 7.7113e-14
+align 6 neighborhood 0.999907 *DELETE* 9.31316e-05
+align 7 *DELETE* 0.979332 uh 0.0199206 i 0.000351374 is 0.000129906 neighborhoods 7.64191e-05 you 6.45829e-05 i'm 2.89255e-05 um 2.75575e-05 in 2.28559e-05 neighborhood's 1.67126e-05 if 9.72478e-06 do 8.36348e-06 to 5.34718e-06 it 3.38768e-06 too 1.01456e-06 and 4.45474e-07 the 1.86184e-07 that 1.28842e-07 would 1.23606e-09 a 1.02853e-09
+align 8 </s> 1

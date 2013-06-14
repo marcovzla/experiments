@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 have 0.94572 are 0.0542803
+align 3 they 1
+align 4 not 1
+align 5 it 0.946038 it's 0.0512814 its 0.00268096
+align 6 seen 0.95987 you 0.0347825 in 0.00400802 *DELETE* 0.0011944 seem 9.24918e-05 see 5.29902e-05 scene 3.37869e-11 seemed 9.64815e-20
+align 7 a 0.963871 know 0.0347134 ina 0.000660864 gonna 0.0004864 to 9.06872e-05 no 8.45903e-05 seena' 3.69049e-05 now 2.40354e-05 that 1.53045e-05 either 9.14015e-06 it 6.93425e-06 unit 1.09371e-06 of 3.37869e-11 enid 4.28936e-14 enough 1.36718e-15
+align 8 doctor 0.999219 a 0.000780774
+align 9 *DELETE* 0.999219 doctor 0.000780774
+align 10 </s> 1

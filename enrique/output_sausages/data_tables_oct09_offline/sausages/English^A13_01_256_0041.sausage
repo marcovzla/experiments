@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 0.960217 is 0.0304841 so 0.00804159 say 0.00125745
+align 3 *DELETE* 0.969516 there 0.0304841
+align 4 then 0.975419 and 0.011557 them 0.0101613 than 0.00286318
+align 5 *DELETE* 0.608417 you 0.390785 he 0.000592405 yeah 0.000205754
+align 6 *DELETE* 0.809016 have 0.190984
+align 7 yes 0.60147 to 0.152723 guys 0.138066 has 0.0623277 *DELETE* 0.0382611 gets 0.00694624 it's 0.000205754
+align 8 come 1
+align 9 over 1
+align 10 here 1
+align 11 in 0.999986 and 1.37187e-05
+align 12 order 0.999833 orders 0.000106182 or 6.02304e-05 notice 9.91101e-07
+align 13 *DELETE* 0.99994 just 6.02304e-05
+align 14 to 1
+align 15 *DELETE* 0.999321 to 0.00067866
+align 16 continue 1
+align 17 with 1
+align 18 the 0.650356 *DELETE* 0.349642 a 2.53439e-06
+align 19 process 0.996673 *DELETE* 0.00317631 processing 0.000150364
+align 20 you 0.399829 that 0.335599 we 0.23448 of 0.0268258 processing 0.00317631 at 7.66753e-05 who 1.31331e-05 and 6.79238e-13
+align 21 get 0.615275 you 0.362732 can 0.0120063 *DELETE* 0.00998716
+align 22 underway 0.629633 anyway 0.265269 don't 0.0587759 know 0.0379994 going 0.00682221 anywhere 0.000687352 on 0.000485728 *DELETE* 0.000287137 underwear 1.91144e-05 gonna 1.67299e-05 and 5.07428e-06 get 5.74246e-09
+align 23 *DELETE* 1 on 5.74246e-09
+align 24 *DELETE* 0.896808 away 0.0583868 anyway 0.0377372 know 0.00488799 work 0.000823295 with 0.000443533 awai 0.000393786 anywhere 0.000253816 a 0.000151594 you 5.46923e-05 worry 3.80195e-05 aware 1.03564e-05 anyone 8.38258e-06 they 2.21857e-06 i 4.36677e-07 to 1.15934e-07 it 1.06353e-09 and 2.03629e-12
+align 25 *DELETE* 0.993703 way 0.00204013 where 0.00143131 it 0.00107681 when 0.000906156 what 0.000590353 why 0.000149093 weigh 0.000103117 work 5.62822e-08 i 6.87667e-10
+align 26 </s> 1

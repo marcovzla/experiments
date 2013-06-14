@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 first 1
+align 2 thing 1
+align 3 i'll 1
+align 4 do 1
+align 5 is 1
+align 6 i'll 1
+align 7 go 1
+align 8 over 1
+align 9 some 1
+align 10 uh 0.957396 things 0.0426036
+align 11 *DELETE* 0.744447 uh 0.255553
+align 12 *DELETE* 0.997412 uh 0.00258833
+align 13 basic 1
+align 14 first 1
+align 15 aid 1
+align 16 and 0.986255 in 0.0137446
+align 17 then 0.914551 and 0.0800377 in 0.0054109
+align 18 we'll 0.880369 will 0.119631
+align 19 go 1
+align 20 into 0.760718 in 0.180368 and 0.0589142
+align 21 *DELETE* 0.778759 to 0.147572 two 0.0736692
+align 22 more 1
+align 23 uh 0.956361 a 0.0436386
+align 24 combat 0.995984 uh 0.00401554
+align 25 *DELETE* 0.995984 combat 0.00401554
+align 26 first 0.992827 for 0.00712483 four 4.79561e-05
+align 27 aid 0.992789 state 0.00475138 stayed 0.00241672 aids 3.35021e-05 states 4.68265e-06 eight 4.57616e-06
+align 28 stuff 1
+align 29 </s> 1

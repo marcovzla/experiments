@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.467809 here 0.352543 you 0.179647 do 1.00857e-06 we 6.00222e-13
+align 2 i 0.350193 you're 0.313542 know 0.177408 your 0.153453 *DELETE* 0.00235 ever 0.00128917 are 0.000949807 near 0.000814218 you 1.00857e-06 have 6.00222e-13
+align 3 *DELETE* 0.999999 ever 1.00857e-06
+align 4 want 0.409187 along 0.343871 *DELETE* 0.24033 on 0.00635647 long 0.000256061
+align 5 to 0.416311 a 0.335506 wanna 0.111847 us 0.0782119 the 0.0581244
+align 6 *DELETE* 0.871517 wanna 0.0592448 lot 0.0465512 long 0.0196218 want 0.00306493
+align 7 *DELETE* 0.930762 of 0.0465512 us 0.0196218 to 0.00306493
+align 8 search 1
+align 9 area 0.999989 your 1.05088e-05 are 1.00743e-15
+align 10 *DELETE* 0.999862 uh 0.000127257 area 1.05088e-05 you 1.00743e-15
+align 11 </s> 1

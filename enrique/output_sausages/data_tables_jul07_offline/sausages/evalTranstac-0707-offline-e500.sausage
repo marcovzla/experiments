@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 he 0.703148 *DELETE* 0.296852
+align 2 is 0.703148 he's 0.296852
+align 3 going 1
+align 4 to 1
+align 5 be 1
+align 6 here 0.990647 *DELETE* 0.00935263
+align 7 in 0.762113 *DELETE* 0.127053 and 0.0966992 hearing 0.00935263 an 0.0047822
+align 8 definitely 0.872947 indefinitely 0.127053
+align 9 until 0.684331 into 0.306181 intel 0.00462615 enter 0.00359184 in 0.0012133 and 5.67943e-05
+align 10 *DELETE* 0.99873 two 0.00108862 too 0.000181471
+align 11 we 1
+align 12 learn 0.999567 learned 0.000433242
+align 13 more 1
+align 14 about 1
+align 15 what 1
+align 16 happened 0.999943 *DELETE* 5.72971e-05
+align 17 *DELETE* 0.999583 uh 0.000311927 happen 5.72971e-05 i 3.65624e-05 in 9.55986e-06 to 1.86505e-06
+align 18 </s> 1

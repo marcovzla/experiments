@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 kalashnikovs 1
+align 4 and 0.987439 in 0.00787771 *DELETE* 0.00468327
+align 5 how 1
+align 6 many 1
+align 7 rocket 1
+align 8 launchers 1
+align 9 are 0.993203 *DELETE* 0.0064887 or 0.000308411
+align 10 in 0.993613 on 0.00638554 and 1.22443e-06
+align 11 the 1
+align 12 house 1 hose 2.54113e-07
+align 13 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.999063 uh 0.000936766
+align 3 yes 1
+align 4 we're 0.987334 were 0.0123694 we 0.000296574
+align 5 just 1
+align 6 up 0.986248 *DELETE* 0.0137521
+align 7 to 0.986248 stepped 0.00955028 stopped 0.00420181
+align 8 uh 0.992301 up 0.00738706 a 0.000309166 *DELETE* 3.44649e-11
+align 9 towards 1
+align 10 the 1
+align 11 northeast 0.898603 north 0.101397
+align 12 *DELETE* 0.89911 the 0.100729 you 9.01689e-05 to 7.16354e-05
+align 13 *DELETE* 0.898603 east 0.101395 leased 2.29227e-06 least 2.72328e-07
+align 14 </s> 1

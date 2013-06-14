@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 tell 1
+align 2 me 1
+align 3 everything 1
+align 4 in 0.999417 and 0.000583311
+align 5 the 1
+align 6 bag 0.958996 back 0.0410036
+align 7 *DELETE* 0.999999 sir 1.02973e-06 in 4.98703e-21
+align 8 </s> 1

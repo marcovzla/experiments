@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 help 1
+align 5 with 1
+align 6 water 1
+align 7 electricity 1
+align 8 anything 0.999273 and 0.000464209 any 0.000263145 *DELETE* 3.91436e-51
+align 9 *DELETE* 0.978445 uh 0.0157276 i 0.00337375 now 0.000849718 anything 0.000464209 thing 0.000263145 it 0.000244795 up 0.000181032 to 8.60896e-05 in 7.08857e-05 you 6.40253e-05 if 5.19463e-05 out 5.01009e-05 i'm 3.43663e-05 can 3.37144e-05 of 3.11206e-05 there 1.38099e-05 like 5.79496e-06 we 3.25132e-06 a 3.13168e-06 and 1.1863e-06 so 5.2175e-07 do 3.91102e-07 on 7.05154e-08 at 6.56148e-08 here 7.02495e-09 um 6.52867e-09 come 6.7984e-10 that 6.90277e-11 how 4.99212e-11 or 4.60539e-11 is 1.87434e-12 take 1.43661e-13 for 7.42457e-14 they 6.77638e-14 no 3.14247e-15 i'll 6.42228e-19 go 1.46291e-19 anything's 3.95784e-21 are 3.98601e-24 he 5.94403e-26
+align 10 </s> 1

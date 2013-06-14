@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 anyone 1
+align 4 living 1
+align 5 with 1
+align 6 you 1
+align 7 now 0.976589 in 0.0234113
+align 8 *DELETE* 0.976589 now 0.0234113
+align 9 in 1
+align 10 your 1
+align 11 family 0.999981 families 1.31097e-05 family's 5.45223e-06
+align 12 *DELETE* 0.999759 uh 0.000240948 have 8.46716e-08
+align 13 </s> 1

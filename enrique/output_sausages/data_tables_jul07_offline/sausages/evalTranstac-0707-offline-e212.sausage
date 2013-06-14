@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 0.97927 um 0.0205389 *DELETE* 0.000191428
+align 2 oh 0.591543 *DELETE* 0.408454 i'll 1.89565e-06 i 1.46616e-06
+align 3 *DELETE* 0.999983 i 1.06665e-05 i'll 6.65209e-06
+align 4 how 1
+align 5 much 1
+align 6 experience 1
+align 7 do 0.999829 did 0.00017125
+align 8 they 1
+align 9 have 1
+align 10 *DELETE* 0.999974 a 2.57237e-05
+align 11 </s> 1

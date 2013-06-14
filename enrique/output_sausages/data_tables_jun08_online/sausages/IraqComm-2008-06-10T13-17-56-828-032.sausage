@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 must 1
+align 3 move 0.884238 to 0.115762
+align 4 *DELETE* 0.884238 move 0.115762
+align 5 the 0.831372 this 0.168628
+align 6 safety 1
+align 7 lever 1
+align 8 to 1
+align 9 turn 1
+align 10 it 1
+align 11 on 1
+align 12 and 1
+align 13 off 1
+align 14 *DELETE* 0.999984 uh 1.57956e-05 of 4.44278e-11 i 2.49589e-19 a 5.45275e-23
+align 15 </s> 1

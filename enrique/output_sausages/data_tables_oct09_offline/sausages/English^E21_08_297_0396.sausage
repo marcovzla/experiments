@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 okay 0.676798 oh 0.323202
+align 2 *DELETE* 0.676408 okay 0.323202 i 0.000340948 in 4.92556e-05
+align 3 and 0.85815 now 0.140901 *DELETE* 0.000948931
+align 4 uh 0.638848 *DELETE* 0.359576 now 0.00157525
+align 5 *DELETE* 0.999051 now 0.000948931
+align 6 i 1
+align 7 *DELETE* 0.934379 i 0.0656209
+align 8 think 1
+align 9 that's 1
+align 10 gonna 1
+align 11 be 1
+align 12 good 1
+align 13 for 1
+align 14 a 1
+align 15 day 1
+align 16 though 0.368835 *DELETE* 0.310323 if 0.195465 it 0.089571 the 0.0263129 is 0.00415905 at 0.0034794 it's 0.000843151 of 0.000346549 i 0.000325777 they 0.000217743 and 9.70147e-05 a 1.05396e-05 to 4.81668e-06 do 2.91324e-06 or 2.8722e-06 there 1.90626e-06 go 1.23733e-06 that 1.9783e-07
+align 17 *DELETE* 0.999133 i 0.000845322 the 2.16123e-05
+align 18 </s> 1

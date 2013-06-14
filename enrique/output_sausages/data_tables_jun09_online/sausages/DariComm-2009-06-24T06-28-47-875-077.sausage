@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 0.935832 well 0.0619438 where 0.0016904 or 0.00053383
+align 2 are 0.875017 is 0.0520011 as 0.0347998 uh 0.031007 a 0.00658511 *DELETE* 0.000522874 us 6.38355e-05 i 3.44908e-06
+align 3 some 1 sum 1.95385e-11
+align 4 of 1
+align 5 the 1
+align 6 common 1
+align 7 treatments 1
+align 8 of 0.99642 *DELETE* 0.0028891 all 0.000690673
+align 9 your 0.550091 the 0.412396 you 0.030066 *DELETE* 0.00477482 okay 0.00267205
+align 10 *DELETE* 0.95521 a 0.0400154 their 0.00279389 you're 0.00107412 yet 0.000344808 aliya 0.000217043 it 0.000209547 you'll 8.22324e-05 her 3.15787e-05 get 2.15958e-05
+align 11 patient 0.693782 patients 0.30284 patience 0.00337787 *DELETE* 1.5868e-13
+align 12 *DELETE* 0.999917 in 7.51987e-05 uh 7.97253e-06 patients' 2.26743e-07 patient's 5.87211e-09 do 5.56034e-10 i 2.61542e-14 or 1.07897e-15 and 1.14965e-16 to 9.86555e-21
+align 13 </s> 1

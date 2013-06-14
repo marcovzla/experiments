@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 the 0.999992 that 7.69562e-06
+align 2 thing 1
+align 3 with 0.999969 *DELETE* 3.13329e-05
+align 4 the 0.800257 a 0.101798 their 0.0344637 that 0.0282929 an 0.0193061 *DELETE* 0.00843034 there 0.0039565 it 0.00316137 uh 0.000208339 our 8.14276e-05 within 3.13329e-05 to 1.28392e-05
+align 5 internal 1
+align 6 bleeding 1
+align 7 you 0.670899 and 0.171585 in 0.157516
+align 8 know 0.670899 *DELETE* 0.121569 the 0.107768 uh 0.099764
+align 9 uh 0.941796 *DELETE* 0.0577048 it 0.000295806 a 0.000203017
+align 10 *DELETE* 0.999382 uh 0.000617575
+align 11 things 1
+align 12 that 0.998036 i 0.00196366
+align 13 we're 0.988915 were 0.0110845
+align 14 going 1
+align 15 to 1
+align 16 go 1
+align 17 ahead 1
+align 18 and 1
+align 19 give 1
+align 20 you 1
+align 21 you 1
+align 22 won't 0.994177 will 0.00582307
+align 23 be 1
+align 24 able 1
+align 25 to 1
+align 26 take 0.691307 uh 0.308693
+align 27 *DELETE* 0.691307 take 0.308693
+align 28 care 0.999696 a 0.00030365
+align 29 *DELETE* 0.894249 of 0.105751
+align 30 that 1
+align 31 out 1
+align 32 in 0.999997 of 2.89302e-06
+align 33 the 1
+align 34 field 0.999987 feel 1.27785e-05
+align 35 *DELETE* 0.999916 uh 8.38658e-05 i 4.04488e-07
+align 36 </s> 1

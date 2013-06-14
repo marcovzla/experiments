@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 a 1
+align 4 clearer 0.38962 clear 0.266228 clever 0.168512 clue 0.0720963 car 0.0314762 quarter 0.0236933 clothe 0.0173059 call 0.0158514 kluk 0.00416561 core 0.00366596 cold 0.00265639 close 0.00152606 corps 0.00143476 clothes 0.00131416 called 0.000453848
+align 5 pack 0.74239 packed 0.153819 bak 0.0328061 pat 0.0256392 of 0.01317 or 0.012746 *DELETE* 0.0125012 up 0.00692825
+align 6 *DELETE* 0.954646 pack 0.0288775 pac 0.0124654 packed 0.00367095 attack 0.000185059 bak 0.000132373 pass 7.84302e-06 path 4.40615e-06 it 3.42729e-06 a 2.80427e-06 uh 2.14691e-06 packs 1.33553e-06 patch 5.92872e-07 i 4.66793e-07 if 5.67477e-08 in 3.41908e-08 the 2.27438e-08 to 1.08507e-14 of 3.82911e-15
+align 7 </s> 1

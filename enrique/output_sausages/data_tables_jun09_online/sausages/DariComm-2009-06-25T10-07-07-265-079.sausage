@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 all 0.693314 i 0.169688 *DELETE* 0.0804917 oh 0.0523468 uh 0.00416027
+align 2 *DELETE* 0.972276 i 0.0277245
+align 3 *DELETE* 0.802649 work 0.197351
+align 4 *DELETE* 0.719373 why 0.197351 are 0.0382891 our 0.0334646 oh 0.0115216
+align 5 *DELETE* 0.999436 oh 0.000563768
+align 6 require 0.778337 are 0.197351 requires 0.0243117
+align 7 safe 0.803931 a 0.195392 *DELETE* 0.000677337
+align 8 *DELETE* 0.803931 safe 0.195392 saif 0.000677337
+align 9 location 1
+align 10 to 0.62842 the 0.37158
+align 11 build 0.997967 bill 0.00195412 bell 7.91605e-05
+align 12 the 0.998533 to 0.000756311 a 0.000710738
+align 13 hospital 1
+align 14 *DELETE* 0.999982 uh 1.46452e-05 and 2.02323e-06 in 8.68483e-07 i 6.40705e-07 is 1.50722e-07
+align 15 </s> 1

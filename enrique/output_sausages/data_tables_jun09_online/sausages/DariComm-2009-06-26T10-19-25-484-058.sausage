@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 0.997924 *DELETE* 0.00207558
+align 3 you 1
+align 4 need 1
+align 5 a 0.989813 to 0.00978511 *DELETE* 0.000401401
+align 6 car 0.999659 cut 0.000222212 *DELETE* 8.67696e-05 kar 1.99924e-05 card 1.22475e-05 qar 2.07547e-16
+align 7 for 0.999109 *DELETE* 0.000804379 cough 8.67696e-05
+align 8 *DELETE* 0.996586 you 0.00221849 four 0.000804379 uh 0.000118742 or 8.67696e-05 us 7.9593e-05 a 5.47129e-05 me 2.79282e-05 it 2.29551e-05 the 1.4308e-07 i 3.5497e-12 all 2.001e-13
+align 9 </s> 1

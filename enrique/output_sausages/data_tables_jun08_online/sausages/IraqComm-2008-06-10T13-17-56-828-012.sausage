@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 other 1
+align 6 concerns 1
+align 7 *DELETE* 0.999989 uh 7.3082e-06 i 3.36514e-06
+align 8 </s> 1

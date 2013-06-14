@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 his 0.700286 is 0.267791 used 0.0308896 he 0.00103302
+align 2 *DELETE* 0.998967 is 0.00103302
+align 3 to 0.804833 two 0.183944 too 0.0112229
+align 4 put 1
+align 5 forth 0.99563 fourth 0.00437011
+align 6 year 0.827694 your 0.14501 *DELETE* 0.0270801 to 0.000215437
+align 7 your 0.838922 you're 0.106836 or 0.0542421
+align 8 *DELETE* 0.918462 your 0.0554541 you're 0.0260836
+align 9 policy 1
+align 10 by 0.815138 my 0.174219 may 0.00448236 i 0.00388913 buy 0.00227215
+align 11 post 1
+align 12 thing 1
+align 13 up 1
+align 14 uh 0.900526 um 0.0994739
+align 15 safety 1
+align 16 rules 1
+align 17 around 1
+align 18 the 0.996207 to 0.00379256
+align 19 battalion 0.920183 btay 0.0613529 the 0.0184639
+align 20 *DELETE* 0.920183 an 0.0272733 in 0.0201268 time 0.0184639 and 0.0139528
+align 21 area 0.999945 to 3.28616e-05 the 2.13619e-05 of 4.3603e-07
+align 22 *DELETE* 0.991872 uh 0.00725686 i 0.000506997 yeah 0.000163471 a 5.85188e-05 area 5.46595e-05 it 4.21226e-05 if 3.65021e-05 in 6.66201e-06 an 1.13469e-06 as 7.90485e-07 at 2.10314e-12
+align 23 </s> 1

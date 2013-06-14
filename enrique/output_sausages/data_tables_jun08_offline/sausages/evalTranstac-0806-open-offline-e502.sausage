@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 color 0.990308 call 0.00969247
+align 3 *DELETE* 0.990308 or 0.00969247
+align 4 will 0.963502 or 0.0364977
+align 5 *DELETE* 0.963502 will 0.0364977
+align 6 the 1
+align 7 flare 1
+align 8 be 0.927383 b 0.0552616 or 0.00798187 bee 0.00519817 bea 0.00371183 beam 0.000463579
+align 9 *DELETE* 0.992018 be 0.00798187
+align 10 for 0.985374 four 0.0146263
+align 11 a 0.971997 each 0.0240319 his 0.00219985 ease 0.00177148 he 2.34043e-11
+align 12 ceasefire 0.98242 cease 0.0175453 sees 3.07963e-05 seize 3.92775e-06
+align 13 *DELETE* 0.982393 fire 0.0175801 or 2.70207e-05
+align 14 </s> 1

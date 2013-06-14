@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 1
+align 3 you 1
+align 4 doing 1
+align 5 *DELETE* 0.998326 uh 0.00156139 it 7.7314e-05 now 3.52035e-05 in 2.47405e-14
+align 6 </s> 1

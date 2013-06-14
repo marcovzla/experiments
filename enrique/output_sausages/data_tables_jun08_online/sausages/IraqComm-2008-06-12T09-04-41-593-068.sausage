@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 0.336052 for 0.190227 from 0.186766 oh 0.143436 *DELETE* 0.108559 well 0.032011 but 0.00217817 do 0.000454779 so 0.000316541
+align 2 about 0.469682 the 0.29317 that 0.0976624 god 0.0669245 not 0.0453892 provide 0.0114986 *DELETE* 0.0107301 they 0.00255991 i 0.00237884 put 3.5059e-06 uh 7.75643e-07
+align 3 *DELETE* 0.969879 not 0.0143536 what 0.00649527 got 0.00493875 forgot 0.00311912 mutlaq 0.00110188 lock 8.96699e-05 lead 1.2825e-05 out 5.88381e-06 but 3.95786e-06
+align 4 direction 1
+align 5 were 0.813506 will 0.139171 when 0.0428478 would 0.00131627 where 0.0012472 what 0.000988948 we're 0.000647204 we'll 0.000275306
+align 6 you 1
+align 7 approach 0.999946 know 5.38564e-05 *DELETE* 1.43946e-15
+align 8 *DELETE* 0.997122 uh 0.002426 it 0.000202097 a 0.000102716 you 5.99995e-05 approach 5.38564e-05 the 1.89202e-05 i 1.10837e-05 in 3.31664e-06 approached 7.81478e-08 to 9.3935e-11 on 3.76323e-17 of 1.05665e-19
+align 9 </s> 1

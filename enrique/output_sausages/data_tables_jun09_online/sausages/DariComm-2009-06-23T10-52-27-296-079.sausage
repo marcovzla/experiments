@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 notify 1
+align 4 the 1
+align 5 local 1
+align 6 police 1
+align 7 to 0.766736 *DELETE* 0.204264 they 0.0290002
+align 8 give 0.795736 that 0.152046 think 0.0507447 the 0.00147291
+align 9 you 0.866996 *DELETE* 0.132988 give 1.63454e-05
+align 10 a 0.663572 are 0.198014 your 0.131548 *DELETE* 0.0054101 gear 0.00145657 you're 8.59219e-11
+align 11 ride 0.663572 right 0.321808 uh 0.00976355 write 0.00485649
+align 12 to 0.995008 *DELETE* 0.00267999 at 0.00211769 the 0.000109025 or 8.28027e-05 of 2.35564e-06
+align 13 the 0.999993 *DELETE* 7.12822e-06
+align 14 hospital 0.999969 hospitals 2.65074e-05 whole 4.46231e-06
+align 15 *DELETE* 0.999912 i 3.85602e-05 uh 1.58483e-05 and 1.09218e-05 to 5.88691e-06 yeah 4.92059e-06 hospital 4.46231e-06 in 3.24498e-06 if 3.19643e-06 you 3.90224e-07 is 3.77407e-07 too 6.44927e-09 it 3.18188e-10 do 2.42082e-10
+align 16 </s> 1

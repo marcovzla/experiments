@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 would 0.806517 with 0.164288 wood 0.0245667 what 0.00342822 good 0.00120005
+align 2 this 1
+align 3 building 1
+align 4 see 0.986716 c 0.013284
+align 5 fit 0.995437 fifth 0.00456265
+align 6 to 0.947334 the 0.0526661
+align 7 be 0.990278 bee 0.00808642 b 0.00163567
+align 8 your 0.870921 or 0.125873 you're 0.00269055 year 0.000262506 our 0.000117151 here 5.14621e-05 you 4.49812e-05 air 2.11031e-05 are 1.26233e-05 *DELETE* 6.25998e-06
+align 9 hospital 0.999924 *DELETE* 7.50007e-05 are 1.22934e-06 own 2.43829e-08
+align 10 *DELETE* 0.999786 i 0.000117672 hospitals 7.50007e-05 uh 1.20164e-05 is 7.14848e-06 hospital 1.25372e-06 a 8.15694e-07 you 1.7073e-09 it 2.36614e-10 to 3.13812e-11 in 5.80315e-13
+align 11 </s> 1

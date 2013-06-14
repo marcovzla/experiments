@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 we 1
+align 3 look 1
+align 4 forward 1
+align 5 to 1
+align 6 working 1
+align 7 together 1
+align 8 *DELETE* 0.999999 uh 3.65022e-07 i 1.78997e-07
+align 9 </s> 1

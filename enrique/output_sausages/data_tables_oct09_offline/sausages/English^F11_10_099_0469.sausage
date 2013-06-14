@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 uh 0.996069 oh 0.00393057
+align 2 we 1
+align 3 have 0.995201 had 0.00479898
+align 4 extra 0.504908 next 0.409373 x 0.0857189
+align 5 sure 0.495092 *DELETE* 0.478768 uh 0.0261409
+align 6 uh 0.99438 *DELETE* 0.00562022
+align 7 *DELETE* 0.96167 uh 0.0383303
+align 8 a._k. 0.680138 uh 0.319862
+align 9 *DELETE* 0.680138 a._k. 0.319862
+align 10 ammo 1
+align 11 for 1
+align 12 you 1
+align 13 uh 1
+align 14 *DELETE* 0.765209 uh 0.234791
+align 15 lean 0.896392 the 0.0578724 *DELETE* 0.0457356
+align 16 *DELETE* 0.896392 me 0.0464677 main 0.0216493 lien 0.00961411 glean 0.00913958 leen 0.00850349 lean 0.00813299 link 7.02033e-05 mean 2.68365e-05 lane 3.74724e-06
+align 17 and 0.999816 *DELETE* 0.000184062 andy 5.51454e-15
+align 18 do 0.965626 *DELETE* 0.0343739
+align 19 you 0.965695 the 0.0168714 *DELETE* 0.0165736 deed 0.000376633 these 0.000201174 an 0.000118629 dede 9.82886e-05 andy 6.54235e-05 deep 2.15234e-08 anti 9.70955e-09
+align 20 need 0.829684 leave 0.0650587 mean 0.0384724 evening 0.0169249 dealing 0.0161019 live 0.0139204 think 0.0137616 meet 0.00307438 lee 0.000684032 me 0.000677474 link 0.000590474 peeling 0.000280146 li 0.000233972 dealings 0.000188166 lean 0.000162711 even 5.57968e-05 lead 4.75273e-05 lien 3.20853e-05 leen 2.61123e-05 know 1.75982e-05 deeply 2.13368e-06 detail 7.98132e-07 we 7.05365e-07 the 6.85567e-07 going 5.09491e-07 lea 1.77437e-07 between 1.14366e-07 deal 1.4423e-09 deedee 1.25146e-09 demon 2.43815e-11
+align 21 *DELETE* 0.999621 uh 0.000196888 with 0.000143521 it 2.66716e-05 to 6.84556e-06 a 3.38597e-06 in 4.88612e-07 is 3.39998e-07 i 1.75764e-07 if 1.66246e-07 at 5.18522e-08
+align 22 </s> 1

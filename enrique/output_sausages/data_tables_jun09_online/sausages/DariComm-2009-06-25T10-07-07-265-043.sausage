@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 dentists 0.999867 *DELETE* 0.000132854 dent 5.9375e-08
+align 6 *DELETE* 0.999153 in 0.000559826 dentist's 0.000109539 i 7.35806e-05 uh 2.40556e-05 dentist 2.33146e-05 um 2.00338e-05 you 1.86358e-05 is 6.64991e-06 and 4.25998e-06 a 3.21138e-06 it 2.60851e-06 that 1.32875e-06 if 1.23504e-07 this 5.9375e-08 the 4.28465e-08 to 2.33735e-08 as 1.04157e-08 we 7.31654e-12
+align 7 </s> 1

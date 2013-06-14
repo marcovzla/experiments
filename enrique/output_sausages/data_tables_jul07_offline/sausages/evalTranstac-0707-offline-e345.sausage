@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 workers 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 here 0.998723 there 0.00116868 her 0.000104129 hear 3.78472e-06
+align 8 *DELETE* 0.999995 or 4.59337e-06
+align 9 </s> 1

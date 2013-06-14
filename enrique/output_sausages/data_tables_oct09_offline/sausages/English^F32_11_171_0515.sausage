@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 other 0.999988 a 1.14078e-05 uh 1.43372e-07
+align 4 *DELETE* 0.999988 other 1.15512e-05
+align 5 tactics 1
+align 6 that 0.971708 there 0.028292
+align 7 were 0.532742 *DELETE* 0.267763 we're 0.197045 i 0.0024503
+align 8 uh 0.969034 well 0.0280803 *DELETE* 0.00199718 why 0.00050492 way 0.000199844 law 0.000108792 i 7.53508e-05
+align 9 *DELETE* 0.977583 uh 0.0224175
+align 10 i'm 1
+align 11 going 0.948518 *DELETE* 0.0514816
+align 12 to 0.948518 gonna 0.0514816
+align 13 teach 1
+align 14 you 1
+align 15 how 1
+align 16 to 1
+align 17 how 0.916999 uh 0.083001
+align 18 *DELETE* 0.916999 how 0.083001
+align 19 to 1
+align 20 uh 1
+align 21 conduct 1
+align 22 a 1
+align 23 snap 1
+align 24 v._c._p.s 0.999562 v._c._p. 0.000437514
+align 25 *DELETE* 0.999899 so 0.000101295
+align 26 </s> 1

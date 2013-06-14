@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 main 1
+align 5 uh 1
+align 6 afflictions 1
+align 7 uh 1
+align 8 four 0.551413 for 0.448587
+align 9 people 1
+align 10 what 1
+align 11 is 0.926854 it's 0.0626919 its 0.0104543
+align 12 their 0.998125 our 0.0018747
+align 13 main 0.93074 means 0.0667414 mean 0.00251849
+align 14 sickness 1
+align 15 </s> 1

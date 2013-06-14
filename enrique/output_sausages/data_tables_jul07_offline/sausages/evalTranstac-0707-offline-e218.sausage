@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 in 1
+align 2 about 1
+align 3 a 1
+align 4 week 1
+align 5 uh 1
+align 6 you 1
+align 7 *DELETE* 0.999664 you 0.000336433
+align 8 will 0.992935 we'll 0.00706531
+align 9 be 1
+align 10 plate 0.63735 play 0.360566 played 0.00208451
+align 11 paid 0.896456 *DELETE* 0.0875903 pave 0.00739492 pay 0.00522331 paved 0.00148935 page 0.00142538 pays 0.000420531
+align 12 it 0.655002 a 0.291682 *DELETE* 0.0387072 to 0.00649445 at 0.00503131 uh 0.00282818 you 0.00013791 paved 7.58962e-05 in 2.92249e-05 the 9.50077e-06 he 2.01854e-06 me 5.96769e-08
+align 13 *DELETE* 0.912486 paid 0.0875144
+align 14 *DELETE* 0.912362 it 0.0646497 a 0.0224998 at 0.00028155 to 0.000207233
+align 15 weekly 0.997035 weakly 0.00296487
+align 16 </s> 1

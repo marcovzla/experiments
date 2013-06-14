@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 do 1
+align 4 you 1
+align 5 expect 1
+align 6 them 0.991633 him 0.0083671
+align 7 to 1
+align 8 be 0.99835 do 0.00165009
+align 9 *DELETE* 0.998068 you 0.00165009 a 0.000213866 he 3.7799e-05 it 2.95981e-05 if 6.16295e-07 at 1.80775e-07
+align 10 there 0.921439 either 0.0387445 in 0.0211915 *DELETE* 0.015575 you 0.00305033
+align 11 *DELETE* 0.960204 there 0.023934 here 0.0126829 their 0.00226997 they're 0.00077349 better 0.000131442 uh 3.05728e-06 the 1.06192e-06
+align 12 *DELETE* 0.999998 air 1.06192e-06 this 7.09088e-07 heater 5.54178e-07 that 4.25065e-09 other 1.10583e-14
+align 13 </s> 1

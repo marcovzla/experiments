@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 who 0.999042 how 0.00095759
+align 2 are 0.919928 who 0.080072
+align 3 *DELETE* 0.919928 are 0.080072
+align 4 the 0.999843 they 0.000156839
+align 5 insurgents 0.997773 insurgence 0.00222666 *DELETE* 3.55102e-29
+align 6 *DELETE* 0.998402 uh 0.00159834 insurgents' 8.96924e-19
+align 7 </s> 1

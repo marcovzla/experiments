@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999956 does 4.39165e-05
+align 3 the 0.992693 a 0.00730656
+align 4 problem 1
+align 5 with 0.999114 if 0.000886065
+align 6 your 1
+align 7 brother 1
+align 8 at 0.998761 that 0.00123443 it 4.70135e-06 and 3.37771e-32
+align 9 work 0.998994 word 0.000962648 *DELETE* 4.36615e-05
+align 10 *DELETE* 0.999774 uh 0.000146368 in 2.67271e-05 works 2.45772e-05 worth 1.90169e-05 and 6.94635e-06 i 1.81605e-06 now 7.34735e-08 worked 5.12175e-08 words 1.61056e-08 um 3.54269e-09 on 1.22308e-11 at 7.9357e-13 edward 4.23992e-15 where 1.31496e-17 were 2.48407e-19 war 1.0508e-44
+align 11 </s> 1

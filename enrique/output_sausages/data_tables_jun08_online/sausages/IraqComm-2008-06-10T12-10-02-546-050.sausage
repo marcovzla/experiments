@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 asked 0.942299 ask 0.0577009
+align 4 local 0.979601 the 0.0203989
+align 5 *DELETE* 0.979601 local 0.0203989
+align 6 leaders 1
+align 7 for 0.993009 or 0.00698397 four 6.61618e-06
+align 8 training 1
+align 9 help 0.946344 you 0.0424459 *DELETE* 0.0112101
+align 10 *DELETE* 0.943917 know 0.0423759 helped 0.00907664 uh 0.00194743 out 0.000897892 held 0.000536921 helps 0.000474775 you 0.000214392 i 0.000180667 health 0.000139112 no 6.9942e-05 l 3.86238e-05 a 3.72422e-05 el 2.82777e-05 them 1.93931e-05 it 1.63735e-05 i'll 7.92088e-06 ell 7.22188e-06 us 6.69583e-06 to 3.34274e-06 al 2.57449e-06 in 1.23171e-06 if 4.64601e-07 it'll 1.07762e-07 the 7.84908e-08 um 8.10524e-09 with 5.26282e-09 i'm 9.03643e-10 me 6.50186e-10 do 1.11702e-10 our 2.66387e-14
+align 11 *DELETE* 0.999985 i 1.46399e-05 uh 3.09995e-07 of 4.05704e-12 a 2.34799e-12
+align 12 </s> 1

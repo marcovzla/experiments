@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 brother 1
+align 4 ever 0.990927 our 0.00907254 i 2.95134e-08
+align 5 *DELETE* 1 ever 2.95134e-08
+align 6 *DELETE* 1 so 2.95134e-08
+align 7 associate 0.999952 so 4.79192e-05 seat 2.95134e-08
+align 8 *DELETE* 0.999952 seat 4.79192e-05
+align 9 with 1
+align 10 troublemakers 0.999874 a 0.000120881 the 3.37448e-06 trouble 1.81059e-06
+align 11 *DELETE* 0.99986 troublemakers 0.000124255 i 1.37584e-05 makers 1.81059e-06 uh 3.69129e-07 in 2.34989e-09
+align 12 </s> 1

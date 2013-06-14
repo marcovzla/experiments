@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 0.999932 *DELETE* 6.10404e-05 you 6.46662e-06
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 livestock 0.999459 a 0.0004632 live 7.7368e-05 alive 4.86985e-08
+align 6 *DELETE* 0.999405 livestock 0.0004632 stock 7.74167e-05 on 2.37772e-05 i 1.9746e-05 uh 9.79751e-06 you 1.15312e-06 a 3.27215e-07 do 6.2387e-09 to 8.0298e-11 in 1.69141e-12 that 2.45681e-13 it 4.79572e-14
+align 7 </s> 1

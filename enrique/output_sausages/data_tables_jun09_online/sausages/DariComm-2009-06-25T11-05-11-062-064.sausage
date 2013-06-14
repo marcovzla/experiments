@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 once 1
+align 2 we're 1
+align 3 done 1
+align 4 doing 0.971125 do 0.0288747
+align 5 *DELETE* 0.971125 when 0.0288747
+align 6 this 1
+align 7 court 1
+align 8 on 1
+align 9 do 0.999996 to 4.21061e-06
+align 10 you 1
+align 11 want 0.992658 *DELETE* 0.0073419
+align 12 a 0.964963 to 0.0253559 wanna 0.0073419 *DELETE* 0.00233898
+align 13 cordon 0.790561 koran 0.209439
+align 14 and 1
+align 15 search 1
+align 16 these 0.929389 his 0.0689589 *DELETE* 0.00165178
+align 17 car 0.942266 *DELETE* 0.0343674 call 0.0204879 he's 0.00165178 kind 0.00121672 caught 9.99282e-06
+align 18 lots 0.943135 clots 0.0303637 locks 0.0125138 clocks 0.00535938 rocks 0.00364964 watts 0.00337705 lot's 0.000691741 wants 0.00042613 co-ops 0.000296125 routes 9.716e-05 box 9.04719e-05 *DELETE* 1.97556e-15
+align 19 *DELETE* 0.999832 i 0.000140956 of 2.39176e-05 a 2.30317e-06 in 1.01534e-06 and 1.01678e-08 cops 1.45501e-09 to 6.68801e-12
+align 20 </s> 1

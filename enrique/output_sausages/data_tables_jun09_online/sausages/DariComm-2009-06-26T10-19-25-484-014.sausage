@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 don't 1
+align 3 understand 0.999989 i 1.09321e-05 know 1.43128e-07
+align 4 *DELETE* 0.999011 you 0.000643233 it 0.000256246 i 4.8749e-05 uh 2.96073e-05 understand 1.10752e-05 do 7.39059e-13
+align 5 </s> 1

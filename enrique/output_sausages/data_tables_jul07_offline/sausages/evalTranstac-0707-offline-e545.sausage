@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 0.598092 hey 0.401908
+align 2 why 0.999977 what 2.33398e-05
+align 3 don't 0.998673 are 0.00093705 that 0.000389474
+align 4 you 1
+align 5 show 1
+align 6 me 1
+align 7 this 1 his 2.27528e-11
+align 8 vehicle 1
+align 9 over 1
+align 10 here 1
+align 11 *DELETE* 0.998327 uh 0.00160714 i 6.55883e-05 um 1.45975e-09
+align 12 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 on 0.995467 uh 0.00453285
+align 3 *DELETE* 0.995467 on 0.00453285
+align 4 the 1
+align 5 dummy 1
+align 6 that 1
+align 7 we 1
+align 8 have 1
+align 9 here 0.999995 hear 4.53719e-06 her 7.27371e-07
+align 10 *DELETE* 1 a 3.52744e-07
+align 11 </s> 1

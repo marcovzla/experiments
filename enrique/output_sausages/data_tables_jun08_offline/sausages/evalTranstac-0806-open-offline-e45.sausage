@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 as 1
+align 3 u._s. 0.87508 the 0.12492 you 9.19272e-09
+align 4 *DELETE* 0.87508 u._s. 0.12492 was 9.19272e-09
+align 5 forces 1
+align 6 will 0.88094 we'll 0.114002 would 0.00505725
+align 7 help 0.99855 come 0.00124335 go 0.000206927
+align 8 *DELETE* 0.99855 help 0.00145027
+align 9 you 1
+align 10 and 0.688904 in 0.311096
+align 11 procuring 1
+align 12 the 0.987085 that 0.0129146
+align 13 but 0.321768 bit 0.224193 bet 0.159829 better 0.0878157 butt 0.0554818 been 0.03775 bat 0.0162615 back 0.0159909 bag 0.0145719 baath 0.0138622 bare 0.0129628 that 0.0129146 bear 0.0104244 bath 0.0101224 bad 0.00393475 bed 0.00211713
+align 14 better 1
+align 15 employees 0.978262 employee's 0.0217377
+align 16 for 0.998253 four 0.00174661
+align 17 your 0.998259 you 0.00167119 you're 6.98413e-05
+align 18 security 1
+align 19 staff 0.999976 stuff 2.44223e-05
+align 20 </s> 1

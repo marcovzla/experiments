@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 thank 1
+align 3 you 1
+align 4 and 0.999121 in 0.000879424
+align 5 if 0.479571 uh 0.250899 have 0.210962 i 0.0447888 of 0.0137791
+align 6 we 0.268 food 0.253796 thank 0.221845 *DELETE* 0.211571 think 0.0447888
+align 7 you 0.732 do 0.268
+align 8 *DELETE* 0.788429 do 0.211571
+align 9 could 0.561976 go 0.438023 the 3.50828e-07
+align 10 go 1
+align 11 ahead 1
+align 12 and 1
+align 13 uh 1
+align 14 give 0.830598 and 0.145193 uh 0.0226048 to 0.0015212 get 8.30075e-05
+align 15 *DELETE* 0.830681 give 0.169319
+align 16 the 1
+align 17 patient 1
+align 18 *DELETE* 0.957017 if 0.0429831
+align 19 uh 1
+align 20 i 0.361323 and 0.30615 uh 0.273021 *DELETE* 0.0238149 as 0.0226702 it 0.00353889 i'm 0.00224763 is 0.00163178 a 0.00161949 i'd 0.00114331 in 0.000788146 oh 0.000607228 are 0.000582133 his 0.000302524 at 0.00021662 or 0.000159324 us 0.00011279 if 5.10625e-05 it's 1.82317e-05 of 1.92789e-06 you 3.59745e-07 he 9.38847e-08
+align 21 *DELETE* 0.975774 i 0.022666 as 0.000788454 was 0.000771856
+align 22 tell 1
+align 23 him 1
+align 24 i 1
+align 25 said 1
+align 26 *DELETE* 0.67937 hello 0.30655 a 0.0127532 no 0.00132657
+align 27 alone 0.67937 and 0.307877 loan 0.0127532
+align 28 i 1
+align 29 hope 0.999011 hoped 0.000988778
+align 30 that 0.902796 to 0.0751475 they 0.0156411 take 0.00412366 the 0.00137479 i 0.000916608
+align 31 he 0.995612 a 0.00438812
+align 32 *DELETE* 0.995612 he 0.00438812
+align 33 gets 0.999482 get 0.000518021
+align 34 of 0.886916 uh 0.0560984 a 0.0384425 out 0.011522 ill 0.00233794 oh 0.00181598 up 0.00105848 so 0.00101563 el 0.000398028 cell 0.000236945 sell 0.000157852
+align 35 *DELETE* 0.994074 of 0.00592645
+align 36 better 1
+align 37 soon 0.97636 sooner 0.0135455 sir 0.00929165 serve 0.000678865 served 7.32572e-05 so 4.94066e-05 sewer 1.0542e-06 suit 4.71292e-09
+align 38 *DELETE* 1 uh 2.04179e-07 or 3.9227e-08
+align 39 </s> 1

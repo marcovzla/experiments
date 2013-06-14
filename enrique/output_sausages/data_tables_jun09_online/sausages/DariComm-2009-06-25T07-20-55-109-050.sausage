@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i'll 1
+align 2 try 1
+align 3 to 1
+align 4 get 1
+align 5 that 0.740609 the 0.198619 their 0.0607725
+align 6 equipment 1
+align 7 for 1
+align 8 you 1
+align 9 as 1
+align 10 soon 1
+align 11 as 1
+align 12 possible 1
+align 13 *DELETE* 0.99998 uh 2.02971e-05 i 6.30233e-12
+align 14 </s> 1

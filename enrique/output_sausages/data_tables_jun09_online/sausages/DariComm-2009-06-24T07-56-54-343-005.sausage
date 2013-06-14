@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 0.998144 well 0.00158442 *DELETE* 0.000271168
+align 3 are 0.999995 were 4.94407e-06
+align 4 they 1
+align 5 *DELETE* 0.999993 in 7.40812e-06 now 5.51087e-08 with 2.95757e-15
+align 6 </s> 1

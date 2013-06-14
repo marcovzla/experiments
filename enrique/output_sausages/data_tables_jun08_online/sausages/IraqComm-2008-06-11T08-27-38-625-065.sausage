@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 practice 0.999604 practiced 0.000395696
+align 4 your 0.978457 you're 0.0206703 are 0.000857131 here 1.54524e-05 our 3.53737e-11
+align 5 patrolling 0.921581 patrol 0.0784188
+align 6 *DELETE* 0.921581 in 0.06221 and 0.0153292 an 0.000403649 end 0.000162247 at 8.82575e-05 i'm 7.14098e-05 n 6.87602e-05 on 4.51372e-05 when 4.01839e-05
+align 7 *DELETE* 0.999995 uh 3.66257e-06 i 1.29146e-06 oil 1.67656e-08 it 1.09175e-08 am 1.05042e-09 m 6.54397e-10 one 2.59839e-10 inn 1.88446e-11 a 7.8373e-12 aim 2.82602e-13 i'll 1.73289e-16
+align 8 </s> 1

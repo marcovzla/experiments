@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 men 0.999905 a 9.52675e-05
+align 5 were 0.704122 we're 0.214525 *DELETE* 0.0812573 men 9.52675e-05
+align 6 seeing 0.553449 singing 0.229638 seen 0.116411 receiving 0.0812733 sitting 0.019149 were 7.9233e-05
+align 7 *DELETE* 0.999921 seeing 5.52445e-05 seen 2.39885e-05
+align 8 going 1
+align 9 into 0.926197 in 0.0738032
+align 10 *DELETE* 0.926197 to 0.0738032
+align 11 this 0.438006 the 0.336036 his 0.205521 a 0.0158551 is 0.00370591 as 0.000548177 *DELETE* 0.000328365
+align 12 school 0.999908 schools 8.40388e-05 small 6.4976e-06 slow 1.24972e-06 screw 6.69676e-07 stew 1.25029e-08 new 3.72883e-09
+align 13 *DELETE* 1 if 7.55349e-15 i 7.9193e-22 new 6.93325e-22 school's 1.78384e-24 will 7.41398e-28 you 5.19119e-31
+align 14 </s> 1

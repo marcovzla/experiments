@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 0.999991 i 8.78089e-06
+align 2 do 0.997296 are 0.00210883 *DELETE* 0.000594664 did 3.32919e-07
+align 3 you 1
+align 4 plan 1
+align 5 to 1
+align 6 search 1
+align 7 the 1
+align 8 vehicles 1
+align 9 and 1
+align 10 people 1
+align 11 *DELETE* 0.999998 do 2.08764e-06 uh 4.62993e-13
+align 12 </s> 1

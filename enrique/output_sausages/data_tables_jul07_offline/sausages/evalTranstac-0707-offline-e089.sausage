@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 0.544815 or 0.280776 were 0.172329 where 0.00207952
+align 2 do 1
+align 3 you 1
+align 4 think 1
+align 5 that 0.965265 *DELETE* 0.0347346
+align 6 they're 0.92342 that 0.0674016 the 0.00788931 their 0.00112498 there 0.000164211 are 4.64939e-10
+align 7 coming 1
+align 8 from 1
+align 9 *DELETE* 0.999971 a 2.17999e-05 uh 7.63462e-06 the 5.91929e-08
+align 10 </s> 1

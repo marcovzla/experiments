@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.99822 *DELETE* 0.00176961 where 1.02934e-05
+align 2 do 0.997317 would 0.00176961 *DELETE* 0.000912897
+align 3 you 1
+align 4 do 1
+align 5 for 1
+align 6 a 1
+align 7 living 1
+align 8 </s> 1

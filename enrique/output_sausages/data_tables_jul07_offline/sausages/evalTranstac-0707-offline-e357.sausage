@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 go 1
+align 2 ahead 1
+align 3 and 0.954555 *DELETE* 0.0454451
+align 4 tell 0.982584 until 0.0174161
+align 5 your 0.994709 you're 0.00529071
+align 6 employees 0.892806 employee 0.105478 employee's 0.0017165
+align 7 *DELETE* 0.894522 is 0.105478
+align 8 to 1
+align 9 set 1
+align 10 down 1
+align 11 or 0.94856 there 0.0514396
+align 12 tools 1
+align 13 *DELETE* 0.999618 i 0.000243145 uh 0.000133248 in 5.62267e-06 to 3.66996e-12
+align 14 </s> 1

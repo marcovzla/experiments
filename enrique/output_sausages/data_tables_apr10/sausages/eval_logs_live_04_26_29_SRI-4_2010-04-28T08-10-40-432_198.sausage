@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 beds 0.997499 bags 0.00250054
+align 4 are 0.999432 or 0.000554924 our 1.3421e-05 there 1.13803e-07
+align 5 needed 0.999999 new 9.40685e-07
+align 6 *DELETE* 0.999998 a 9.35018e-07 i 7.87812e-07
+align 7 </s> 1

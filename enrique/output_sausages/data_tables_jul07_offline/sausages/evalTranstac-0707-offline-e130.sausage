@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 uh 0.999591 *DELETE* 0.000409327
+align 4 *DELETE* 0.917564 uh 0.0780434 i 0.00286957 i'll 0.00152284 how 6.21255e-07
+align 5 *DELETE* 1 i'll 4.2355e-07
+align 6 i 0.99973 *DELETE* 0.0002702
+align 7 *DELETE* 1 i 3.44613e-07
+align 8 will 0.99973 i'll 0.000270083 *DELETE* 1.12437e-10 we'll 4.33783e-11
+align 9 *DELETE* 0.524887 uh 0.430832 i 0.044281
+align 10 i 0.954202 *DELETE* 0.0457982
+align 11 will 0.995122 i 0.00334727 *DELETE* 0.0015303
+align 12 *DELETE* 0.996646 will 0.00335381
+align 13 also 1
+align 14 bring 1
+align 15 that 0.935232 as 0.0298208 is 0.0231462 that's 0.0117238 *DELETE* 5.14691e-05 the 2.55149e-05
+align 16 *DELETE* 0.999781 is 0.000166796 us 4.03744e-05 nice 9.48512e-06 this 1.22761e-06 a 8.67927e-07 eyes 3.11957e-07 nest 6.60413e-08 next 3.95389e-09
+align 17 concern 0.991613 concerned 0.00838676
+align 18 up 0.992941 of 0.0067046 it 0.000353464 *DELETE* 1.5101e-07
+align 19 to 0.999999 if 5.52114e-07 *DELETE* 5.86731e-10
+align 20 my 1
+align 21 commander 1
+align 22 *DELETE* 0.999999 i 7.82236e-07
+align 23 </s> 1

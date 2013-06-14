@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 good 1
+align 3 to 1
+align 4 hear 1
+align 5 how 1
+align 6 is 0.975206 was 0.024794
+align 7 your 0.999975 our 2.47212e-05 their 5.34629e-13
+align 8 family 1
+align 9 </s> 1

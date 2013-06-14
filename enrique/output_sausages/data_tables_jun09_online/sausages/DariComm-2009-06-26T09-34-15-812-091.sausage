@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 0.994928 *DELETE* 0.0048878 hi 0.000184037
+align 2 is 0.759701 are 0.149482 was 0.0748436 does 0.0104648 however 0.004856 do 0.00061978 how's 3.18007e-05 did 1.08278e-06
+align 3 *DELETE* 0.998762 is 0.00123824
+align 4 the 1
+align 5 hospital 0.999995 *DELETE* 5.26078e-06
+align 6 *DELETE* 0.999671 uh 0.000191875 in 0.000127653 hospitals 5.26078e-06 is 3.67964e-06 i 7.14858e-08 a 7.02978e-12 to 1.7409e-14
+align 7 </s> 1

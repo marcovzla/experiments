@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.649988 so 0.34455 oh 0.00546274
+align 2 i 1
+align 3 *DELETE* 0.996177 i 0.00382339
+align 4 appreciate 1
+align 5 all 1
+align 6 the 0.999882 *DELETE* 0.000117711
+align 7 information 1
+align 8 </s> 1

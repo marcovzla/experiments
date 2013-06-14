@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 will 1
+align 3 do 0.996366 be 0.00363352
+align 4 the 1
+align 5 best 1
+align 6 i 1
+align 7 can 1
+align 8 for 1
+align 9 you 1
+align 10 chief 0.996138 to 0.00381249 chiefs 3.23753e-05 too 1.74916e-05
+align 11 *DELETE* 0.996187 you 0.0037702 you've 4.22982e-05 i 5.78912e-07 if 3.11384e-10
+align 12 </s> 1

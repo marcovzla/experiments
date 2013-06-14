@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 uh 1
+align 3 *DELETE* 0.523344 uh 0.476656
+align 4 c._p._r. 1
+align 5 is 1
+align 6 uh 1
+align 7 *DELETE* 0.346456 uh 0.327451 it 0.244319 i 0.0466528 you 0.0164035 a 0.0146063 is 0.00159068 he 0.00148366 in 0.00103678
+align 8 also 0.906315 it 0.083775 you 0.00422156 i 0.00281965 a 0.00267361 in 0.000195091
+align 9 *DELETE* 0.906315 also 0.093685
+align 10 involves 1
+align 11 compressions 1
+align 12 to 1
+align 13 the 1
+align 14 chest 1
+align 15 to 0.961207 the 0.0387934
+align 16 actually 1
+align 17 palm 1
+align 18 blood 1
+align 19 up 0.424792 *DELETE* 0.319495 that 0.255713
+align 20 *DELETE* 0.744287 up 0.255713
+align 21 to 0.97649 two 0.0235103
+align 22 *DELETE* 0.680505 up 0.319495
+align 23 *DELETE* 0.680505 to 0.319495
+align 24 uh 0.97649 of 0.0235103
+align 25 the 1
+align 26 victims 0.804862 victim's 0.195138
+align 27 bring 0.541894 bringing 0.368041 boring 0.060803 brain 0.017896 of 0.0111661 brings 0.000188131 were 1.2362e-05
+align 28 *DELETE* 0.987809 bringing 0.00841366 bring 0.00266765 in 0.00100324 burning 9.71318e-05 a 8.03375e-06 i 7.15706e-07 and 1.70901e-07
+align 29 </s> 1

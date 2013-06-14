@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 well 0.970438 why 0.0263061 wow 0.00202317 while 0.00118845 *DELETE* 4.27899e-05 when 8.36633e-07 law 3.46946e-07 we're 9.3699e-16 la 3.11816e-17
+align 2 i 0.964134 *DELETE* 0.0334831 uh 0.00238329
+align 3 *DELETE* 0.76143 i 0.230143 i. 0.00743521 i'm 0.000399407 uh 0.000289551 i've 0.000233992 do 2.57698e-05 lie 2.03798e-05 yeah 9.60688e-06 live 6.48638e-06 my 6.2637e-06 alright 2.16605e-07 y 1.47664e-09 line 1.121e-10 like 1.25441e-14 are 3.4384e-17 i'll 8.12388e-18
+align 4 *DELETE* 0.999168 i 0.00083215
+align 5 </s> 1

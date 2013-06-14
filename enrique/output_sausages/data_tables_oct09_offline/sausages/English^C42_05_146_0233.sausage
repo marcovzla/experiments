@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 you 0.824762 if 0.12766 okay 0.0203762 *DELETE* 0.0114465 a 0.00455052 it 0.00426324 do 0.00353861 your 0.00144481 you're 0.0013359 yeah 0.000455102 he 0.000167426
+align 2 *DELETE* 0.999956 you 4.40273e-05
+align 3 for 0.7464 four 0.139916 or 0.102237 before 0.0114465
+align 4 able 1
+align 5 to 1
+align 6 come 1
+align 7 to 1
+align 8 uh 1
+align 9 signed 0.634609 sign 0.335517 to 0.0298739
+align 10 *DELETE* 0.970126 sign 0.0298739
+align 11 a 1
+align 12 contract 1
+align 13 how 1
+align 14 quickly 0.999976 could 2.43226e-05
+align 15 *DELETE* 0.999976 they 2.43226e-05
+align 16 can 1
+align 17 you 1
+align 18 start 1
+align 19 work 1
+align 20 *DELETE* 1 uh 2.19413e-07
+align 21 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999914 i 8.61691e-05
+align 3 doing 0.899266 didn't 0.0557408 do 0.0449913 don't 1.77904e-06
+align 4 *DELETE* 0.955009 in 0.0260141 then 0.0189767
+align 5 sir 0.999988 surround 1.16842e-05 and 5.23052e-07 serve 1.21211e-07
+align 6 um 0.86373 i'm 0.0901784 i 0.0345359 uh 0.0110796 *DELETE* 0.0004744 the 5.8209e-07 surround 5.23052e-07 i'll 5.19016e-07 a 1.13949e-07
+align 7 *DELETE* 0.928269 i'm 0.0441642 uh 0.0186564 i 0.00696742 um 0.00124586 a 0.000456925 my 0.000102549 eye 7.34015e-05 may 4.37687e-05 the 1.21628e-05 go 8.21661e-06
+align 8 *DELETE* 0.995923 i 0.00270837 uh 0.00129237 i'm 6.31612e-05 a 1.31997e-05
+align 9 </s> 1

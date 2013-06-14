@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 small 0.992823 smile 0.00717694
+align 5 animals 1
+align 6 do 1
+align 7 you 1
+align 8 have 1
+align 9 on 0.994487 in 0.00540073 of 0.000111717 and 5.70307e-07 an 9.83015e-18
+align 10 this 1
+align 11 farm 0.939743 form 0.0602574
+align 12 </s> 1

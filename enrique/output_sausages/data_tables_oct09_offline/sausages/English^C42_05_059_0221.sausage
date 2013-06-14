@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 0.972225 um 0.027775
+align 3 *DELETE* 0.711284 i 0.265254 uh 0.0234627
+align 4 repair 1
+align 5 of 0.822247 *DELETE* 0.177753
+align 6 the 1
+align 7 irrigation 1
+align 8 systems 1
+align 9 uh 0.591592 are 0.247208 um 0.0813969 off 0.0661673 of 0.0131071 i 0.000529343
+align 10 *DELETE* 0.992484 uh 0.00561047 off 0.00137577 have 0.000529343
+align 11 to 0.993372 the 0.00662785
+align 12 support 1
+align 13 those 1 goes 1.00399e-07
+align 14 wells 0.99998 well's 1.97417e-05
+align 15 </s> 1

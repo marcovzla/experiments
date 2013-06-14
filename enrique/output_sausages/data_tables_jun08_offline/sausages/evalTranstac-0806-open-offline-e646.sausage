@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 the 0.819631 to 0.180281 okay 8.76653e-05
+align 2 *DELETE* 0.833743 uh 0.166257
+align 3 and 0.999233 man 0.000767292
+align 4 i'm 0.997217 i 0.00278294
+align 5 *DELETE* 0.997217 am 0.00278294
+align 6 glad 1
+align 7 to 1
+align 8 hear 0.999635 here 0.000365213
+align 9 that 1
+align 10 you 1
+align 11 have 1
+align 12 that 1
+align 13 material 1
+align 14 prepared 1
+align 15 for 0.997965 or 0.00203465
+align 16 any 1
+align 17 mission 0.998339 missions 0.00166131
+align 18 *DELETE* 0.99989 uh 9.11313e-05 i 1.20428e-05 do 3.4525e-06 he 1.40206e-06 it 1.25291e-06 is 5.16368e-07 to 1.89875e-07 in 3.09281e-08
+align 19 </s> 1

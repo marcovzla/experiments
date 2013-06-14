@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 look 1
+align 3 that 1
+align 4 way 1
+align 5 and 1
+align 6 if 1
+align 7 you 1
+align 8 don't 1
+align 9 look 0.996136 like 0.00197824 let 0.00080557 work 0.000692085 what 0.000300852 looked 8.70786e-05
+align 10 that 1
+align 11 way 1
+align 12 then 0.981944 than 0.0160787 it 0.00197723
+align 13 *DELETE* 0.998023 then 0.00197723
+align 14 we 1
+align 15 could 0.931469 can 0.0685213 can't 9.45869e-06
+align 16 get 1
+align 17 it 0.865956 hit 0.134044
+align 18 from 1
+align 19 that 0.927453 the 0.0725466
+align 20 side 0.927453 outside 0.0725466
+align 21 *DELETE* 0.999976 and 1.90618e-05 i 3.22684e-06 in 1.84361e-06
+align 22 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 are 0.994337 by 0.00566321
+align 2 the 1
+align 3 plans 1
+align 4 to 1
+align 5 take 1
+align 6 him 1
+align 7 as 1
+align 8 he 0.814349 a 0.185651
+align 9 detainee 1
+align 10 or 1
+align 11 eliminate 0.998004 eliminating 0.00199609
+align 12 him 0.966153 them 0.030383 a 0.00174954 *DELETE* 0.000995744 it 0.000547729 you 0.000166103 the 5.09443e-06
+align 13 *DELETE* 0.995815 him 0.00246847 m 0.000662585 uh 0.000556323 i 0.000122855 am 0.000117182 ham 0.00010145 i'm 5.50787e-05 a 3.62668e-05 camp 3.28988e-05 um 1.72142e-05 come 9.25538e-06 in 4.88049e-06 to 1.03354e-07 time 7.91277e-08 the 2.06956e-09 cam 1.27599e-09 do 3.56179e-11 hem 7.18585e-14
+align 14 </s> 1

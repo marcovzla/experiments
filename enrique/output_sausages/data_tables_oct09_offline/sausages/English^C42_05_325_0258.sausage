@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 0.927693 why 0.0526205 uh 0.0125099 but 0.00246436 *DELETE* 0.00213699 my 0.0019395 our 0.000636214
+align 2 i 0.724845 *DELETE* 0.271361 i'll 0.00379408
+align 3 look 1
+align 4 for 1
+align 5 to 0.903281 do 0.0912095 due 0.00550901
+align 6 working 1
+align 7 with 1
+align 8 you 1
+align 9 </s> 1

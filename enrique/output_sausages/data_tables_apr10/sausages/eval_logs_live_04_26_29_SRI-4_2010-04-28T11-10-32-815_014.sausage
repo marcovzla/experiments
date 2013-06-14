@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 any 1
+align 6 experience 1
+align 7 building 1
+align 8 a 0.608712 *DELETE* 0.386947 on 0.00152846 the 0.0013548 or 0.00109217 no 0.000283423 know 6.09972e-05 to 1.72995e-05 of 3.83709e-06
+align 9 while 0.42151 awhile 0.386933 well 0.190725 wa'el 0.000661476 wealth 0.000107915 *DELETE* 6.2433e-05
+align 10 *DELETE* 0.999536 uh 0.000229652 i 0.000159896 wells 3.30675e-05 wild 2.0034e-05 a 9.7993e-06 wail 7.77142e-06 whale 1.56003e-06 to 1.21173e-06 it 4.09682e-07 in 3.00014e-07 the 2.62965e-08 if 1.32717e-08
+align 11 </s> 1

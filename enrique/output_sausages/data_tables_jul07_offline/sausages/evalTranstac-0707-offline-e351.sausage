@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 alright 0.546583 all 0.453417
+align 2 *DELETE* 0.546583 right 0.453417
+align 3 so 0.999292 *DELETE* 0.000708244
+align 4 i 0.714755 i'll 0.284537 *DELETE* 0.000704786 saw 3.45852e-06
+align 5 just 0.999295 soldiers 0.000704786
+align 6 go 1
+align 7 ahead 1
+align 8 and 1
+align 9 talk 1
+align 10 to 1
+align 11 uh 0.790042 us 0.209958
+align 12 *DELETE* 0.999693 uh 0.000307383
+align 13 some 1
+align 14 of 1
+align 15 your 1
+align 16 workers 1
+align 17 uh 0.588744 um 0.409089 of 0.00208788 are 5.10391e-05 *DELETE* 1.46802e-05 is 1.2716e-05
+align 18 *DELETE* 0.823432 oh 0.11178 uh 0.0493023 i'll 0.00434631 um 0.00381105 all 0.00181363 oil 0.00114408 it 0.000849318 a 0.0007446 i 0.000539349 of 0.000477855 low 0.00029592 in 0.000241371 go 0.000199065 i'm 0.000185008 on 0.000139914 or 0.000121538 well 0.000110732 up 9.06481e-05 no 8.31483e-05 out 6.92391e-05 will 3.87754e-05 old 3.15523e-05 who 3.06143e-05 we'll 2.40144e-05 him 1.59819e-05 do 1.16907e-05 hope 1.16231e-05 how 9.14923e-06 an 9.03871e-06 you 7.94242e-06 know 7.93281e-06 were 6.10098e-06 we're 5.26347e-06 at 3.52825e-06 our 2.77507e-06 my 1.72217e-06 law 1.71136e-06 are 1.47014e-06 we 7.43158e-07 them 5.63027e-07 and 3.6191e-07 am 3.41642e-07 look 1.48469e-07 the 1.16165e-07 by 1.00246e-07 to 5.59486e-08 when 3.67597e-08
+align 19 *DELETE* 0.999925 uh 7.46806e-05
+align 20 </s> 1

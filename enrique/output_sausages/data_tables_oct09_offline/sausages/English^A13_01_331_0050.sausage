@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i 1
+align 3 understand 1
+align 4 that 0.990315 uh 0.00968506
+align 5 but 1
+align 6 in 0.954759 and 0.0452412
+align 7 the 1
+align 8 area 1
+align 9 that 0.936635 uh 0.0521166 *DELETE* 0.0112483
+align 10 i've 0.936635 uh 0.0626044 *DELETE* 0.00076051
+align 11 been 0.996706 then 0.00329366
+align 12 surgeons 0.451806 sir 0.299485 searches 0.129055 sure 0.100481 surges 0.0191715
+align 13 *DELETE* 0.600033 does 0.399967
+align 14 are 1
+align 15 known 1
+align 16 to 1
+align 17 be 1
+align 18 drug 1
+align 19 trafficking 1
+align 20 and 1
+align 21 since 1
+align 22 you 0.964398 *DELETE* 0.0352259 they 0.000375688
+align 23 have 0.958263 you're 0.0304888 are 0.00651117 your 0.00473709
+align 24 drugs 1
+align 25 uh 0.664347 and 0.0938414 *DELETE* 0.0683903 are 0.0650455 aren't 0.0386589 island 0.0358618 i'll 0.0335111 on 0.000344356
+align 26 and 0.831293 *DELETE* 0.168707
+align 27 i 1
+align 28 need 1
+align 29 to 1
+align 30 know 1
+align 31 everything 1
+align 32 about 1
+align 33 it 0.999985 uh 1.43424e-05 *DELETE* 1.47892e-08
+align 34 </s> 1

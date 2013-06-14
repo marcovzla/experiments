@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 equipment 1
+align 3 do 0.998674 *DELETE* 0.00132573
+align 4 you 1
+align 5 need 1
+align 6 to 1
+align 7 fix 1
+align 8 your 1
+align 9 vehicles 0.958607 vehicle's 0.0219085 vehicle 0.0194841
+align 10 or 0.506443 are 0.474073 sir 0.0194841
+align 11 any 0.999775 or 0.000225415
+align 12 *DELETE* 0.999775 any 0.000225415
+align 13 lubricant 1
+align 14 *DELETE* 0.968794 so 0.0189812 sir 0.00434334 uh 0.00414823 sick 0.00152892 some 0.000551715 says 0.000275019 sin 0.000227401 see 0.000191565 sieve 0.000153035 sit 0.000148851 sum 7.82552e-05 cell 7.41444e-05 say 7.30077e-05 saw 6.91505e-05 sea 6.49958e-05 snow 4.9711e-05 soap 4.80426e-05 sew 3.8071e-05 c 2.63738e-05 stuff 2.25734e-05 i 2.21048e-05 sell 1.68687e-05 sees 1.32606e-05 son 8.1854e-06 such 8.09693e-06 stick 7.18446e-06 said 6.82863e-06 seize 4.91918e-06 six 4.62018e-06 since 4.012e-06 side 3.61344e-06 sah 3.27629e-06 sigh 3.01624e-06 set 3.00591e-06 suit 1.28543e-06 sing 6.60394e-07 safe 6.41412e-07 if 2.98617e-07 to 2.7019e-07 sore 2.65893e-07 a 1.35804e-07 sa 1.21798e-07 soup 6.59778e-08 stay 3.03896e-08 sue 5.84965e-09 and 3.02581e-09
+align 15 *DELETE* 0.999981 i 1.89257e-05 sit 5.19425e-08
+align 16 </s> 1

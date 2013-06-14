@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 when 0.625332 one 0.251442 when'd 0.107871 *DELETE* 0.0153552
+align 2 ever 0.971705 whenever 0.0153552 i 0.0129399
+align 3 *DELETE* 0.98706 ever 0.0129399
+align 4 he 0.999998 *DELETE* 3.31193e-11
+align 5 is 0.5211 ease 0.330353 he's 0.147824 he 0.000723649
+align 6 *DELETE* 0.999276 is 0.000723649
+align 7 up 0.93515 of 0.0648503
+align 8 *DELETE* 0.566681 a 0.433319
+align 9 they'll 0.421038 little 0.379286 dalal 0.0967153 they 0.0489284 a 0.0358767 *DELETE* 0.0114208 low 0.00499523 we'll 0.00173953
+align 10 *DELETE* 0.954332 little 0.0345751 will 0.00762 low 0.00347307
+align 11 ball 0.488485 opel 0.421038 will 0.0505577 *DELETE* 0.0399198
+align 12 *DELETE* 0.974675 blow 0.0173382 bowl 0.00506091 pool 0.00117572 bald 0.000564917 below 0.000337896 pull 0.000279642 uh 0.000124291 bahloul 0.000104902 i 9.42787e-05 paul 9.39599e-05 a 2.88456e-05 boil 2.8297e-05 bolt 2.69481e-05 boy 2.02411e-05 in 1.28373e-05 bulls 1.27034e-05 to 7.36194e-06 and 5.89188e-06 you 5.52491e-06 it 1.03856e-06 um 4.53209e-07 with 1.02534e-07 but 3.08944e-08 is 5.77845e-09 that 5.14272e-10 do 2.43673e-11 blue 6.7311e-12 the 6.19853e-12
+align 13 *DELETE* 1 it 2.38496e-08
+align 14 </s> 1

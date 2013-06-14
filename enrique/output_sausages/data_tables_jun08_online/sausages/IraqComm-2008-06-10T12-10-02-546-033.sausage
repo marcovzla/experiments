@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 done 1
+align 4 background 1
+align 5 checks 0.99984 check 0.000160085
+align 6 *DELETE* 0.998821 sir 0.000592103 some 0.000352513 in 0.00010537 on 3.91943e-05 you 3.34741e-05 it 2.65111e-05 or 2.00528e-05 i 7.23225e-06 and 2.07797e-06 so 6.87644e-07 to 1.68014e-11 of 9.19249e-22 uh 1.63296e-23 are 5.98438e-26
+align 7 </s> 1

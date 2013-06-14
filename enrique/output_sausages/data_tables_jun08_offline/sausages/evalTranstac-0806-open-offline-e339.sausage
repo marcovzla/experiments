@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 they're 0.828885 there 0.124329 their 0.0447365 they 0.00204985
+align 2 they're 0.827952 there 0.0693044 are 0.0546882 their 0.0479903 is 6.559e-05
+align 3 *DELETE* 0.945246 there 0.0218035 their 0.0199363 they're 0.013014
+align 4 similar 1
+align 5 what 0.965083 will 0.0135216 well 0.0107389 we'll 0.00699936 while 0.00365661 *DELETE* 1.60574e-09
+align 6 we 1
+align 7 need 1
+align 8 to 1
+align 9 do 1
+align 10 is 1
+align 11 we 1
+align 12 need 1
+align 13 to 1
+align 14 lift 0.992281 live 0.00771911
+align 15 the 1
+align 16 chanda 0.575837 chin 0.399184 chan 0.0249787
+align 17 up 1
+align 18 in 1
+align 19 order 1
+align 20 to 1
+align 21 open 1
+align 22 the 1
+align 23 airway 1
+align 24 uh 0.97238 off 0.025418 i'll 0.00220238
+align 25 from 1
+align 26 the 1
+align 27 mouth 1
+align 28 down 0.937622 to 0.0508266 uh 0.00663861 and 0.00491193 of 4.90617e-07 it 3.93846e-09 the 6.55299e-14
+align 29 *DELETE* 0.937622 down 0.0623776
+align 30 into 1
+align 31 the 0.991106 *DELETE* 0.00504705 a 0.00384699
+align 32 lungs 0.972461 longs 0.0124321 long's 0.0111095 belongs 0.00399704
+align 33 *DELETE* 1 uh 2.49705e-10
+align 34 </s> 1

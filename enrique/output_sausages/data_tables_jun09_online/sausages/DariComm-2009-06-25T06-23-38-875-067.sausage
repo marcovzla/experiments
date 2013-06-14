@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 0.546501 *DELETE* 0.453499
+align 3 any 1
+align 4 men 1
+align 5 want 1
+align 6 to 1
+align 7 join 1
+align 8 the 1
+align 9 national 1
+align 10 police 1
+align 11 *DELETE* 0.999992 i 4.43719e-06 and 2.66514e-06 do 7.59888e-07 uh 2.51532e-07 a 8.59097e-12 to 7.22812e-15
+align 12 </s> 1

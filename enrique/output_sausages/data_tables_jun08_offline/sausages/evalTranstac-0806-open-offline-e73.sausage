@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 is 1
+align 3 the 1
+align 4 uh 0.999475 *DELETE* 0.000525335 up 9.71281e-10
+align 5 this 0.885393 the 0.114599 *DELETE* 8.14715e-06
+align 6 second 1
+align 7 entry 0.996354 and 0.00263572 country 0.00100386 entries 6.15512e-06 an 8.92187e-09
+align 8 gate 0.991435 gates 0.00544927 treated 0.00263564 date 0.00032579 *DELETE* 5.61748e-05 gait 5.03966e-05 day 2.28321e-05 to 9.34427e-06 jay 8.41404e-06 do 3.85524e-06 duty 2.93262e-06 j 1.1818e-07 treat 9.19917e-08 get 4.79599e-12 eight 7.76975e-13
+align 9 *DELETE* 0.999928 i 4.53543e-05 uh 1.65347e-05 eight 9.03929e-06 it 8.85968e-07 a 3.04977e-07 gate 9.19917e-08
+align 10 </s> 1

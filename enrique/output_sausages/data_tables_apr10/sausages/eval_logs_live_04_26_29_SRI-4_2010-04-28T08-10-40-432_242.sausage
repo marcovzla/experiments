@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 more 1
+align 5 nurses 1
+align 6 are 0.531952 or 0.434528 our 0.0333514 were 0.000118358 r 4.94118e-05
+align 7 doctors 0.996914 doctor's 0.00152008 doctors' 0.00149958 a 6.6787e-05
+align 8 *DELETE* 0.999885 doctors 5.17275e-05 i 3.05783e-05 doctor's 1.50595e-05 uh 1.00893e-05 do 5.45328e-06 to 1.73324e-06 in 8.36791e-08 you 1.33997e-09
+align 9 </s> 1

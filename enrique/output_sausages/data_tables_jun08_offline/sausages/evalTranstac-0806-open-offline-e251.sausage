@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 first 1
+align 3 one 1
+align 4 is 0.998922 his 0.00107798
+align 5 to 1
+align 6 treat 1
+align 7 up 0.486652 if 0.341388 a 0.129447 it 0.0267572 upper 0.0116163 their 0.00413858
+align 8 every 1
+align 9 weapon 1
+align 10 as 1 is 2.10573e-07
+align 11 if 1
+align 12 it 1
+align 13 were 1
+align 14 loaded 1
+align 15 *DELETE* 0.99987 it 0.000129809
+align 16 </s> 1

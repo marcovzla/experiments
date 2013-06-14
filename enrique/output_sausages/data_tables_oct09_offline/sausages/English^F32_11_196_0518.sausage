@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i 0.74556 they 0.25444
+align 3 *DELETE* 0.74556 were 0.252664 will 0.00177678
+align 4 i 1
+align 5 will 0.996557 we'll 0.00309159 i 0.000351728
+align 6 *DELETE* 0.999648 will 0.000351728
+align 7 have 1
+align 8 about 1
+align 9 two 0.992157 to 0.00756971 too 0.000273186
+align 10 marines 1
+align 11 with 0.835807 would 0.164035 which 0.000157915
+align 12 *DELETE* 0.834164 do 0.164035 two 0.00180106
+align 13 you 0.999819 u 0.000180698
+align 14 *DELETE* 0.997614 you 0.00238568
+align 15 </s> 1

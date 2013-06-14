@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 how 1
+align 4 is 1
+align 5 your 1
+align 6 family 1
+align 7 *DELETE* 0.999972 uh 2.7979e-05 i 2.85274e-07
+align 8 </s> 1

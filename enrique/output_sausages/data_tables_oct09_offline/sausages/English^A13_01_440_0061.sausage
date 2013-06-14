@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 another 0.680102 now 0.273788 no 0.04611
+align 3 *DELETE* 0.680102 the 0.319898
+align 4 person 1
+align 5 you 1
+align 6 said 1
+align 7 that 0.607532 they 0.387027 day 0.00349126 a 0.00194901
+align 8 you 1
+align 9 let 0.74185 have 0.141454 know 0.0570174 live 0.0392228 lead 0.0204554
+align 10 ball 0.997697 about 0.00230341
+align 11 your 0.978777 you're 0.021223
+align 12 car 0.847858 card 0.152142
+align 13 that 0.999403 but 0.000597151
+align 14 left 1
+align 15 the 0.995925 a 0.00213828 to 0.00193716
+align 16 drugs 1
+align 17 in 0.999719 and 0.00028144
+align 18 your 1
+align 19 car 1
+align 20 </s> 1

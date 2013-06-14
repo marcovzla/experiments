@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 no 0.876382 know 0.0924517 now 0.0311661
+align 2 either 0.978741 *DELETE* 0.00935092 are 0.00663696 you 0.00527148
+align 3 *DELETE* 0.984012 you 0.0159879
+align 4 *DELETE* 0.978741 there 0.0164789 their 0.00251358 they're 0.00149871 either 0.000768143
+align 5 one 0.999999 won 7.80842e-07
+align 6 will 0.992829 we'll 0.00717137 well 1.32242e-13 would 9.76544e-14
+align 7 do 0.999989 due 1.14746e-05
+align 8 *DELETE* 0.999987 a 1.26579e-05
+align 9 </s> 1

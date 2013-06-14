@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you 0.812102 you're 0.1182 *DELETE* 0.0696972
+align 2 are 0.809075 *DELETE* 0.1182 your 0.0696972 were 0.00302717
+align 3 iraqi 1
+align 4 i._d. 1
+align 5 card 1
+align 6 is 0.706726 it 0.170439 as 0.122835
+align 7 *DELETE* 0.829541 is 0.170439 a 1.94309e-05
+align 8 okay 0.999948 ok 5.22871e-05
+align 9 *DELETE* 0.999999 uh 3.53171e-07 i 2.76491e-07
+align 10 </s> 1

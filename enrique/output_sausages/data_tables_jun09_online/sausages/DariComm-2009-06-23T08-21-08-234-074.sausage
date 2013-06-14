@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 please 1
+align 4 get 1
+align 5 out 1
+align 6 of 1
+align 7 the 1
+align 8 vehicle 0.999909 *DELETE* 9.12081e-05
+align 9 *DELETE* 0.999194 uh 0.000714245 vehicles 9.12081e-05 with 3.32418e-07 that 3.28793e-08 and 2.67442e-08 in 4.73963e-09 is 3.50763e-14
+align 10 </s> 1

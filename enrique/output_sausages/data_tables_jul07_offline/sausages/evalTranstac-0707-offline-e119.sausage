@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 but 0.424768 uh 0.279154 i 0.258843 *DELETE* 0.020093 that 0.0171413
+align 2 *DELETE* 0.971106 i 0.0288937
+align 3 have 0.959016 i 0.0409842
+align 4 *DELETE* 0.938923 have 0.0610772
+align 5 you 1
+align 6 have 1
+align 7 you 1
+align 8 given 0.596012 giving 0.403988
+align 9 your 0.560122 a 0.303616 you 0.118159 her 0.0181032
+align 10 *DELETE* 0.993242 a 0.00675761
+align 11 child 1
+align 12 any 0.550146 in 0.285886 and 0.12762 i 0.0363489
+align 13 *DELETE* 0.963651 need 0.0363489
+align 14 medicine 1
+align 15 um 0.95013 uh 0.0498704
+align 16 so 0.99134 i'm 0.00380196 uh 0.00368586 um 0.000833914 sew 0.000312492 in 2.56533e-05
+align 17 *DELETE* 0.991653 so 0.00834739
+align 18 far 0.996464 for 0.00286372 four 0.000672035
+align 19 *DELETE* 0.999577 uh 0.00021234 i 0.000199142 off 1.1506e-05 it 3.29313e-07 as 9.28866e-09
+align 20 </s> 1

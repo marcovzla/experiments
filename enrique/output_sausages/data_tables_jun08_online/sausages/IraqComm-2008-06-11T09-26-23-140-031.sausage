@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.997676 would 0.00132737 with 0.000996154
+align 2 buildings 1
+align 3 have 1
+align 4 you 1
+align 5 worked 0.999905 work 9.50862e-05
+align 6 on 1
+align 7 *DELETE* 0.999064 it 0.000468639 uh 0.000442163 a 1.37065e-05 them 4.98089e-06 you 4.68332e-06 the 1.7367e-06 that 2.21097e-08 and 1.45325e-17
+align 8 </s> 1

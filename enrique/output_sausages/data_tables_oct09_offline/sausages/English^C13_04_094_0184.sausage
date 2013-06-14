@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 was 0.854095 i 0.13899 and 0.0069155
+align 3 *DELETE* 0.854095 was 0.145905
+align 4 uh 1
+align 5 anything 0.78436 uh 0.204152 that 0.00600265 at 0.00488766 in 0.000597908
+align 6 *DELETE* 0.78436 anything 0.21564
+align 7 else 1
+align 8 taken 0.990986 taking 0.00493094 take 0.00408266
+align 9 *DELETE* 0.992615 in 0.00698839 no 0.0003391 or 5.57336e-05 on 1.93082e-06
+align 10 one 0.882063 when 0.112517 will 0.00495734 well 0.00046194
+align 11 they 0.804129 the 0.195871
+align 12 are 0.389055 of 0.341768 um 0.127029 i'm 0.0466993 uh 0.032667 owe 0.0280562 out 0.0266236 oh 0.00810227
+align 13 the 1
+align 14 *DELETE* 0.999928 the 7.20978e-05
+align 15 soldiers 1
+align 16 were 0.998851 *DELETE* 0.00114859
+align 17 in 0.998851 run 0.00113174 rain 1.68556e-05
+align 18 your 1
+align 19 home 1
+align 20 </s> 1

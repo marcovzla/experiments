@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 are 1 *DELETE* 3.00565e-11
+align 3 you 1
+align 4 taking 1
+align 5 it 0.999549 *DELETE* 0.000451498
+align 6 to 0.999549 into 0.000451498
+align 7 your 1
+align 8 father's 0.992783 fathers 0.00721671
+align 9 house 1
+align 10 </s> 1

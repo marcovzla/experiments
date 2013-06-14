@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 the 0.955511 *DELETE* 0.0270708 you 0.0174185
+align 3 *DELETE* 0.955844 to 0.0223097 they 0.0140318 the 0.00779384 do 2.1133e-05
+align 4 talaban 1
+align 5 scare 0.99964 skhayr 0.000358076 scary 1.97489e-06 scared 5.8763e-14
+align 6 them 0.999824 then 0.000143547 *DELETE* 3.25126e-05
+align 7 *DELETE* 0.999819 uh 0.000104324 that 2.95194e-05 i 2.28306e-05 in 9.75884e-06 to 8.9897e-06 the 2.99319e-06 up 2.12618e-06 a 2.49484e-07 it 2.49801e-11 do 1.90067e-11 there 1.13052e-14 all 2.45071e-16
+align 8 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 good 0.999946 uh 5.42871e-05
+align 2 *DELETE* 0.999946 good 5.42871e-05
+align 3 morning 1
+align 4 how 0.999867 *DELETE* 0.00013296
+align 5 are 0.999859 *DELETE* 0.000140953
+align 6 you 0.99965 they 0.000208875 hello 0.00013296 yeah 7.18546e-06 *DELETE* 2.3047e-14
+align 7 *DELETE* 1 uh 2.89625e-07 um 3.85715e-10 him 2.72903e-15
+align 8 </s> 1

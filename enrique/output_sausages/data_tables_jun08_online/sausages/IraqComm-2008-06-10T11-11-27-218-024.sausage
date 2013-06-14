@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.997878 uh 0.00120574 i 0.000916412
+align 2 *DELETE* 0.997878 i'm 0.00212215
+align 3 sorry 1
+align 4 i'm 1
+align 5 knocking 1
+align 6 on 1
+align 7 your 1
+align 8 door 1
+align 9 so 1
+align 10 early 0.998355 i 0.00155121 *DELETE* 8.64067e-05 we're 7.68409e-06
+align 11 *DELETE* 0.998352 early 0.0015589 earlie 7.16303e-05 earlier 1.47764e-05 on 2.59088e-06 hourly 7.39755e-13 really 1.43496e-13 oily 1.24416e-21
+align 12 </s> 1

@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 you 0.982975 do 0.0166985 you're 0.000326476
+align 2 *DELETE* 0.983302 you 0.0166985
+align 3 don't 0.912874 know 0.0809457 want 0.00585398 going 0.000326476
+align 4 *DELETE* 0.979391 what 0.015006 want 0.00415267 why 0.00141741 on 3.26062e-05
+align 5 wanna 0.909181 i'll 0.0432069 well 0.0232028 to 0.0103361 will 0.00655972 a 0.00442574 i 0.0030446 *DELETE* 4.11491e-05 while 1.7051e-06
+align 6 go 1
+align 7 ahead 1
+align 8 and 1
+align 9 cut 1
+align 10 it 0.928932 *DELETE* 0.0710678
+align 11 to 0.774079 tough 0.15372 it's 0.05032 its 0.0207478 *DELETE* 0.00113326
+align 12 uh 0.817083 *DELETE* 0.178472 fix 0.00352786 a 0.000585051 fifth 0.000327774 of 4.40787e-06 if 7.527e-07
+align 13 *DELETE* 0.999991 fifth 9.48802e-06
+align 14 feed 0.388632 fit 0.186075 feel 0.154918 it 0.11147 see 0.0727191 fix 0.0316365 you 0.0245247 fifth 0.0127135 fitted 0.00779321 sit 0.00498531 feet 0.00231524 field 0.00180893 *DELETE* 0.000302627 fifty 0.000106237
+align 15 *DELETE* 0.950339 in 0.0492657 if 0.00039576
+align 16 fit 0.980099 it 0.0138345 *DELETE* 0.00356324 fifth 0.00221357 sit 0.000289741
+align 17 the 0.999922 this 4.46528e-05 to 3.29404e-05
+align 18 size 1
+align 19 of 1
+align 20 the 1
+align 21 wound 0.948527 wall 0.0445777 woman 0.00472582 wounds 0.00139199 willing 0.000639494 warmth 4.61144e-05 well 4.2874e-05 wounded 2.61664e-05 won't 2.11501e-05 women 1.27169e-06
+align 22 *DELETE* 0.972201 and 0.0256223 in 0.00133575 around 0.000840582 won't 7.05003e-10
+align 23 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 how 1
+align 3 did 1
+align 4 you 1
+align 5 come 1
+align 6 about 1
+align 7 hiring 0.999808 *DELETE* 0.000192084
+align 8 these 0.993277 nice 0.00467439 this 0.000770233 needs 0.000749805 *DELETE* 0.00028202 hirings 0.000192084 those 5.47357e-05
+align 9 guards 0.962282 cards 0.032552 cords 0.00259566 carts 0.000661766 guard's 0.000655565 guards' 0.000591496 guard 0.000568314 courts 8.82461e-05 *DELETE* 4.73766e-06
+align 10 *DELETE* 0.999637 uh 0.000332125 i 2.43215e-05 card's 2.47167e-06 card 2.26599e-06 a 1.59887e-06
+align 11 </s> 1

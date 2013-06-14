@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 make 1
+align 3 sure 1
+align 4 your 1
+align 5 soldiers 1
+align 6 have 1
+align 7 all 1
+align 8 their 0.882036 of 0.117964
+align 9 *DELETE* 0.882036 their 0.117964
+align 10 ammunition 1
+align 11 and 0.885268 in 0.114732
+align 12 that 1
+align 13 your 0.988665 you're 0.0113345
+align 14 trucks 1
+align 15 have 1
+align 16 full 1
+align 17 fuel 1
+align 18 *DELETE* 0.997056 uh 0.00258122 i 0.000314081 do 1.68302e-05 you 1.34411e-05 to 1.00939e-05 in 5.2952e-06 a 1.79423e-06 if 5.53979e-07 is 2.44263e-07 it 2.41523e-07 at 9.55275e-08 and 8.78812e-11 that 5.93913e-11 the 6.87104e-13
+align 19 </s> 1

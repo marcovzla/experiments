@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 0.796665 uh 0.19454 oh 0.00695876 why 0.00148908 but 0.000345718 and 3.33953e-07 *DELETE* 4.68471e-08
+align 2 i 0.991356 uh 0.00861587 *DELETE* 2.82807e-05
+align 3 i 1.00001
+align 4 *DELETE* 0.96079 i 0.0392102
+align 5 *DELETE* 0.503046 i 0.496954
+align 6 have 1
+align 7 heard 1
+align 8 of 1
+align 9 it 0.995548 that 0.00445186
+align 10 </s> 1

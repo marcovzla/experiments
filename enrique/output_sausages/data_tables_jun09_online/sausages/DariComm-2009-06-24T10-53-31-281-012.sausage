@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 0.989634 well 0.0103661
+align 2 other 0.843042 are 0.156958
+align 3 *DELETE* 0.843042 their 0.146592 there 0.0103661
+align 4 medicines 1
+align 5 would 0.999997 wood 2.53153e-06
+align 6 you 1
+align 7 like 1
+align 8 *DELETE* 0.984154 it 0.00863867 to 0.00378556 uh 0.00199795 a 0.000808348 that 0.000229029 us 0.00014744 me 0.000101312 you 5.95593e-05 the 3.90757e-05 i 3.89881e-05 do 1.66949e-07 in 1.88414e-12
+align 9 *DELETE* 0.999967 uh 2.83397e-05 do 4.92332e-06
+align 10 </s> 1

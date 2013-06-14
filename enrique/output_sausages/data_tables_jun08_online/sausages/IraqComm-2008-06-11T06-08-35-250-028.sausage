@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 put 1
+align 2 your 1
+align 3 keys 1
+align 4 on 1
+align 5 the 1
+align 6 dashboard 0.994898 dash 0.00510191
+align 7 *DELETE* 0.994898 board 0.00510191
+align 8 </s> 1

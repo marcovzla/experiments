@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 that's 0.999409 it's 0.000590675 *DELETE* 1.32482e-41
+align 2 good 0.996661 it 0.00280392 a 0.000480467 *DELETE* 5.50446e-05 let's 9.95155e-10
+align 3 *DELETE* 0.995938 uh 0.00345382 good 0.000478487 i 4.6126e-05 okay 4.09008e-05 um 2.45305e-05 going 1.41437e-05 at 3.74156e-06 i'm 1.76159e-09 get 9.95155e-10 it 3.02766e-20 that 4.00463e-22
+align 4 *DELETE* 1 uh 2.71255e-22 to 2.62399e-25
+align 5 </s> 1

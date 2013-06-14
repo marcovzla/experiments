@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 only 1
+align 3 take 1
+align 4 up 1
+align 5 one 0.999958 won 3.99126e-05 when 2.5107e-06
+align 6 room 1
+align 7 *DELETE* 1 i 1.73716e-07
+align 8 </s> 1

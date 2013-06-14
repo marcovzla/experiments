@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 a 0.242302 and 0.156548 hey 0.116521 they 0.105178 okay 0.0958146 i 0.083123 he 0.0816991 it 0.0348585 in 0.0315938 an 0.0199488 if 0.0190046 who 0.00948454 any 0.0020063 uh 0.00191789
+align 2 technically 1
+align 3 you 1
+align 4 could've 1
+align 5 been 1
+align 6 taken 1
+align 7 to 0.960482 a 0.0395185
+align 8 jail 1
+align 9 but 0.999881 *DELETE* 0.000115779 that 3.16502e-06 or 3.81296e-09
+align 10 they 1
+align 11 only 0.955478 *DELETE* 0.0209729 want 0.0164324 look 0.0069514 let 0.0001649
+align 12 took 0.935203 wanted 0.0209729 take 0.0201997 at 0.0069514 that 0.00579009 it 0.00499446 to 0.0039604 of 0.00192833 the 6.80291e-08 think 6.24359e-09
+align 13 the 1 a 1.81076e-10
+align 14 weapon 0.998866 weapons 0.00113429
+align 15 </s> 1

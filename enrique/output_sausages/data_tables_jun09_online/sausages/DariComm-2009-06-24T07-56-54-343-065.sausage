@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 gun 0.992669 guns 0.00636682 done 0.000730122 *DELETE* 0.0002343
+align 5 *DELETE* 0.998158 it 0.000731099 i 0.000418653 uh 0.000361586 god 0.000178964 guy 5.53355e-05 in 2.83772e-05 you 2.44765e-05 to 2.05687e-05 a 1.46125e-05 is 7.39855e-06 the 8.83682e-07 and 3.31657e-07 so 6.62341e-08 that 1.92649e-08 do 3.4757e-09 at 1.06924e-11 but 2.18439e-13 if 1.81504e-14
+align 6 </s> 1

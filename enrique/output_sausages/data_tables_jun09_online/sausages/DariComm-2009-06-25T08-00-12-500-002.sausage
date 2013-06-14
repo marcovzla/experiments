@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 today 1
+align 2 we 1
+align 3 are 1
+align 4 training 1
+align 5 on 1
+align 6 first 1
+align 7 aid 0.999987 *DELETE* 1.33631e-05
+align 8 *DELETE* 0.999847 uh 0.00013381 eight 1.33631e-05 is 5.33373e-06 and 3.00769e-08 to 1.49161e-08
+align 9 </s> 1

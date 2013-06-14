@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 into 0.697149 in 0.301319 and 0.00153224
+align 3 *DELETE* 0.787352 to 0.212648
+align 4 *DELETE* 0.702162 leave 0.207831 two 0.0900074
+align 5 evening 0.763745 me 0.201465 *DELETE* 0.027994 it 0.00660054 too 0.000195411
+align 6 so 0.963556 evenings 0.0218242 needs 0.0129658 sir 0.00165403
+align 7 *DELETE* 0.99829 so 0.000977642 you 0.000438284 who 0.000259782 and 2.60108e-05 in 8.17631e-06
+align 8 we 0.999526 who 0.000492373
+align 9 should 1
+align 10 be 1
+align 11 prepared 1
+align 12 to 1
+align 13 capture 0.998293 captured 0.00170721
+align 14 the 1 d 1.53589e-17
+align 15 insurgents 0.996044 insurgence 0.00377842 insurgents' 0.00017724
+align 16 *DELETE* 0.998798 uh 0.00120215
+align 17 </s> 1

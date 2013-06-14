@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 very 1
+align 4 much 1
+align 5 for 1
+align 6 your 1
+align 7 time 1
+align 8 today 1
+align 9 in 0.76531 and 0.194017 at 0.0233412 it 0.0112381 *DELETE* 0.00609359
+align 10 all 0.943575 i 0.0564246
+align 11 of 0.73745 *DELETE* 0.206113 will 0.0564372
+align 12 *DELETE* 0.989917 be 0.0100831
+align 13 your 0.990679 you're 0.00641939 hear 0.00290187
+align 14 uh 1
+align 15 *DELETE* 0.99982 uh 0.000180313
+align 16 all 0.999094 well 0.000906121 or 7.54901e-11
+align 17 of 0.97386 *DELETE* 0.0261399
+align 18 your 1
+align 19 help 1
+align 20 *DELETE* 0.999854 uh 0.000128208 i 1.7496e-05 me 5.63928e-07 you 1.89533e-08 them 7.53643e-09
+align 21 </s> 1

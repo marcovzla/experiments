@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 are 0.987575 *DELETE* 0.00761234 to 0.00481255
+align 4 the 1
+align 5 insurgents 0.940701 insurgence 0.0592987
+align 6 coming 0.999749 come 0.000250577
+align 7 *DELETE* 0.999966 in 3.41228e-05
+align 8 to 1
+align 9 your 1
+align 10 power 1
+align 11 plant 1
+align 12 to 0.941103 too 0.0309761 two 0.0279212
+align 13 the 0.686545 that 0.273781 *DELETE* 0.0263377 disrupt 0.0133367
+align 14 *DELETE* 0.996374 uh 0.00356314 to 6.24646e-05
+align 15 *DELETE* 0.998632 to 0.000865627 it 0.000501911
+align 16 disrupt 0.976383 *DELETE* 0.0133367 district 0.0101883 shop 9.14264e-05 struck 7.83339e-07
+align 17 *DELETE* 0.999999 by 7.83339e-07 supply 5.57941e-08
+align 18 operations 0.999999 operation's 8.45212e-07
+align 19 </s> 1

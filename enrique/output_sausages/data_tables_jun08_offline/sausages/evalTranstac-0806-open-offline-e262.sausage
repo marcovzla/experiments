@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 think 1
+align 3 uh 1
+align 4 uh 0.85288 *DELETE* 0.091766 the 0.0474185 if 0.0057335 it 0.00220147
+align 5 very 1
+align 6 uh 0.744179 *DELETE* 0.255821
+align 7 uh 0.9795 *DELETE* 0.0204997
+align 8 good 1
+align 9 addition 1
+align 10 to 0.9851 too 0.0145368 two 0.000363388
+align 11 the 1
+align 12 battalion 1
+align 13 area 1
+align 14 where 0.993105 were 0.00689478
+align 15 you 1
+align 16 uh 0.688644 *DELETE* 0.311356
+align 17 uh 0.608994 are 0.284484 *DELETE* 0.0796482 alright 0.0266877 in 0.000184277 the 1.70934e-06 a 3.40445e-07 at 8.95096e-08
+align 18 normally 0.994391 at 0.00376353 uh 0.00184526
+align 19 *DELETE* 0.994391 normally 0.0056088
+align 20 work 1
+align 21 at 0.99719 cat 0.00280972
+align 22 every 0.999985 *DELETE* 1.49028e-05
+align 23 day 0.999985 everyday 1.49028e-05
+align 24 *DELETE* 0.999994 uh 3.40613e-06 i 2.36321e-06
+align 25 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 what 0.990858 when 0.00914248
+align 2 i'm 0.981543 i 0.0184573
+align 3 *DELETE* 0.981543 am 0.0184573
+align 4 saying 1
+align 5 with 0.999427 what 0.000573015
+align 6 the 1
+align 7 commander's 1
+align 8 intent 1
+align 9 you're 0.877481 you 0.0724168 do 0.0375382 your 0.0117827 pure 0.000781356
+align 10 not 1
+align 11 telling 1
+align 12 them 1
+align 13 all 1
+align 14 the 1
+align 15 details 1
+align 16 *DELETE* 0.999852 i 0.000106332 uh 1.72352e-05 if 1.27534e-05 of 1.19199e-05
+align 17 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 the 0.97907 this 0.0209051 in 2.47007e-05
+align 2 *DELETE* 0.999975 the 2.47007e-05
+align 3 school 1
+align 4 has 1
+align 5 many 1
+align 6 talaban 0.999998 *DELETE* 2.6084e-12
+align 7 *DELETE* 0.991761 uh 0.00382231 i 0.00258412 a 0.000582137 it 0.000488522 in 0.000163395 you 0.000137722 do 0.000109618 if 0.000105184 is 9.77439e-05 to 6.05517e-05 the 3.59746e-05 as 2.1239e-05 at 1.09456e-05 and 8.44609e-06 too 4.63178e-06 so 3.11418e-06 touban 2.05871e-06 of 1.01428e-06 oh 1.1443e-07 that 9.55139e-09 are 5.9752e-09 who 5.02104e-09 an 2.97013e-10 we 2.82726e-10 i'm 1.26532e-10 two 1.30315e-12
+align 8 </s> 1

@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 you're 0.990373 your 0.0096257 you 8.93673e-07
+align 2 *DELETE* 0.999999 are 8.93673e-07
+align 3 right 1
+align 4 they 0.86398 we 0.103628 the 0.0136555 that 0.0113346 then 0.00354092 and 0.00334137 in 0.000519698
+align 5 make 0.997233 neck 0.00224709 it 0.000519698
+align 6 the 1
+align 7 driver 1
+align 8 slow 1
+align 9 down 1
+align 10 before 1
+align 11 they 1
+align 12 get 1
+align 13 to 0.966961 *DELETE* 0.0330392
+align 14 the 0.999914 a 8.63791e-05
+align 15 *DELETE* 0.99999 the 1.04775e-05
+align 16 checkpoint 0.99995 checkpoints 5.04512e-05
+align 17 *DELETE* 1 i 1.78853e-09
+align 18 </s> 1

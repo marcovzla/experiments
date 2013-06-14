@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 do 1
+align 4 *DELETE* 0.738087 you 0.261913
+align 5 travel 1
+align 6 to 1
+align 7 syria 1
+align 8 *DELETE* 1 i 4.20236e-12 syrian 5.36227e-14 a 1.24511e-18
+align 9 </s> 1

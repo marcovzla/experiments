@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 did 1
+align 3 you 1
+align 4 need 0.990561 take 0.00315459 write 0.00258352 think 0.00182174 right 0.001261 you 0.00061843
+align 5 to 0.999382 can 0.00061843
+align 6 tell 1
+align 7 me 1
+align 8 *DELETE* 0.985191 uh 0.0148091
+align 9 *DELETE* 0.999763 uh 0.000233952 i 2.08199e-06 a 4.86695e-07 he 2.66473e-07
+align 10 </s> 1

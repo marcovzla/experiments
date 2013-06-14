@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 alright 0.469182 i 0.396024 i'd 0.134794
+align 3 *DELETE* 0.659962 i 0.340038
+align 4 tell 1
+align 5 somebody 1
+align 6 to 1
+align 7 check 1
+align 8 and 1
+align 9 then 1
+align 10 i 1
+align 11 make 0.957763 i 0.0422371
+align 12 *DELETE* 0.957763 make 0.0422371
+align 13 sure 1
+align 14 that 1
+align 15 their 0.597204 they're 0.378223 there 0.0237509 there's 0.00082154
+align 16 checking 0.955951 tracking 0.0440391 are 1.01676e-05
+align 17 *DELETE* 0.99985 uh 0.000108511 in 1.60692e-05 i 1.47534e-05 checking 1.01676e-05
+align 18 </s> 1

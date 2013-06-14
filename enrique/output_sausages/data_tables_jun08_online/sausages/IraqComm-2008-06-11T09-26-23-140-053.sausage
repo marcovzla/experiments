@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 small 1
+align 5 pools 0.780637 pulls 0.219363
+align 6 available 1
+align 7 </s> 1

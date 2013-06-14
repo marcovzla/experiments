@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 we'll 0.942519 will 0.0574595 *DELETE* 2.16238e-05
+align 3 help 0.999652 *DELETE* 0.000348092
+align 4 you 0.988623 me 0.00964415 he 0.000619473 be 0.000578817 healthy 0.000326468 the 0.000186839 wealthy 2.16238e-05
+align 5 when 1
+align 6 you 1
+align 7 come 1
+align 8 back 1
+align 9 in 0.40974 it 0.327016 an 0.209474 and 0.0537709
+align 10 up 0.968698 amp 0.0229122 a 0.00787739 after 0.000512279
+align 11 *DELETE* 0.992123 up 0.00787739
+align 12 at 0.729094 that 0.270906
+align 13 a 1
+align 14 chance 1
+align 15 to 1
+align 16 investigate 1
+align 17 your 1
+align 18 claim 1
+align 19 </s> 1

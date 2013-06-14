@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 five 0.999803 if 0.000196656
+align 4 *DELETE* 0.999803 i 0.000196656
+align 5 guys 0.907928 guard 0.0920623 guy 9.93099e-06
+align 6 on 0.99753 i 0.00147774 are 0.000850654 uh 0.00010742 i'll 2.47303e-05 don't 9.86795e-06 or 9.73109e-09 our 2.49065e-09 *DELETE* 1.20998e-12
+align 7 each 0.922328 its 0.0751215 need 0.00240325 needs 0.0001055 eat 3.18019e-05 knead 6.50268e-06 eats 1.6219e-06 it 1.41408e-06 donate 6.3044e-08
+align 8 *DELETE* 1 to 6.97242e-08
+align 9 side 1
+align 10 *DELETE* 0.999999 of 1.16804e-06
+align 11 </s> 1

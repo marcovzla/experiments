@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 okay 0.999767 *DELETE* 0.000232522
+align 2 i 0.781617 *DELETE* 0.217204 uh 0.00117945
+align 3 *DELETE* 0.999767 can't 0.000232522
+align 4 i 0.904098 *DELETE* 0.0959024
+align 5 *DELETE* 0.9969 i 0.0030997
+align 6 think 1
+align 7 we'll 0.999452 will 0.000547984
+align 8 start 1
+align 9 off 1
+align 10 with 1
+align 11 uh 0.999348 a 0.000651612
+align 12 i'll 0.996666 uh 0.00323388 i 0.000100402
+align 13 take 0.9999 think 8.59989e-05 thank 1.44845e-05
+align 14 you 1
+align 15 out 0.989118 had 0.00829839 have 0.0016569 right 0.000888326 *DELETE* 3.82152e-05
+align 16 here 0.9999 a 9.95848e-05
+align 17 *DELETE* 0.66748 and 0.33252
+align 18 show 0.73507 so 0.241076 say 0.0238549
+align 19 you 0.999135 *DELETE* 0.000864591
+align 20 what 1
+align 21 uh 1
+align 22 we 1
+align 23 we 0.844629 *DELETE* 0.155371
+align 24 do 1
+align 25 every 1
+align 26 day 1
+align 27 for 1
+align 28 each 1
+align 29 of 0.965065 *DELETE* 0.0341461 uh 0.000789114
+align 30 our 0.96448 other 0.0123484 or 0.0114771 ever 0.00539958 river 0.0041776 *DELETE* 0.00211774
+align 31 *DELETE* 0.996976 or 0.00108389 driver 0.000993081 are 0.000947312
+align 32 *DELETE* 0.999497 are 0.000281337 over 8.94511e-05 hour 6.75276e-05 we're 3.25369e-05 of 2.58671e-05 i 6.51464e-06
+align 33 vehicles 0.999978 vehicle 1.23283e-05 vehicle's 6.71457e-06 vehicles' 3.13961e-06
+align 34 </s> 1

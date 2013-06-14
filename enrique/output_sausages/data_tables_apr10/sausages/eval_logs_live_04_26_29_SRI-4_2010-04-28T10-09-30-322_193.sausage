@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 brother's 0.992152 brothers 0.00768468 brothers' 0.000163487
+align 5 weight 0.958157 wait 0.0354986 weak 0.0034736 *DELETE* 0.00114678 week 0.000881487 are 0.000466301 or 0.000301305 a 6.42066e-05 with 1.06834e-05 what 5.26527e-08 uh 2.53306e-13
+align 6 *DELETE* 0.997981 weak 0.000778256 await 0.000534499 awake 0.000486644 wake 7.11259e-05 late 5.45069e-05 weight 4.1744e-05 i 2.62862e-05 wait 2.24953e-05 uh 2.75955e-06 in 7.47653e-08 if 7.00039e-08 do 6.09202e-08 week 5.26527e-08
+align 7 </s> 1

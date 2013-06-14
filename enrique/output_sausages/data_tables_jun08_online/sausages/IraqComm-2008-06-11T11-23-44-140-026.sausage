@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 what 1
+align 5 may 0.996388 *DELETE* 0.00361208
+align 6 have 0.788634 of 0.207754 made 0.00361208
+align 7 *DELETE* 0.681318 caused 0.318682
+align 8 custard 0.681318 your 0.312108 you 0.0065742
+align 9 children 1
+align 10 to 1
+align 11 be 1
+align 12 sick 1
+align 13 *DELETE* 0.99998 uh 1.93067e-05 i 1.00295e-06 now 3.3001e-08 in 1.02457e-17
+align 14 </s> 1

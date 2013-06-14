@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 0.807932 our 0.192068
+align 2 people 1
+align 3 getting 1
+align 4 sick 1
+align 5 from 1
+align 6 the 1
+align 7 watch 0.999941 *DELETE* 5.85618e-05
+align 8 here 0.8674 her 0.110203 your 0.0123359 hear 0.0052603 or 0.00354149 *DELETE* 0.00125935
+align 9 *DELETE* 0.997328 uh 0.00099017 i 0.000411084 you're 0.00031863 are 0.000309511 earth 0.000245743 sir 0.000154966 hurt 8.65573e-05 watchers 5.85618e-05 our 5.65721e-05 you 2.19027e-05 a 7.42355e-06 array 5.40169e-06 in 1.87603e-06 it 1.53412e-06 urge 1.18698e-06 to 6.92965e-07 for 3.18618e-07 is 3.67926e-08
+align 10 </s> 1

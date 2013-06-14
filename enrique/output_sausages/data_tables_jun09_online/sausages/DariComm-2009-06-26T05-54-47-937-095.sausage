@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 can 0.998483 then 0.0014844 and 3.23953e-05 when 3.7665e-09
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 what's 1
+align 6 the 1
+align 7 nearest 0.883941 neighbors 0.0753216 neighbor's 0.0227229 neighbors' 0.0180146
+align 8 village 1
+align 9 with 0.996514 we're 0.0033651 where 0.000120701
+align 10 the 0.925797 *DELETE* 0.0728463 it 0.00056958 big 0.000461855 that 0.000325247
+align 11 gas 0.825275 cast 0.174623 *DELETE* 0.00010204
+align 12 *DELETE* 0.966612 in 0.00872039 and 0.00796821 shia 0.00691161 she 0.0029312 shoe 0.00127485 shy 0.000917167 sheeha 0.000771288 should 0.000668813 shah 0.00065196 sure 0.000556701 shin 0.000556576 sheehan 0.000371221 shoes 0.000323094 now 0.00021542 shit 0.000188691 then 0.0001845 shrine 0.00017605
+align 13 *DELETE* 0.997999 chin 0.000238955 she's 0.000158508 sheep 0.00014119 show 0.000127937 sheet 0.000110803 casts 0.00010204 shirt 9.80034e-05 shoot 9.18217e-05 shame 9.0458e-05 sha 7.31003e-05 it 7.22651e-05 ship 7.12327e-05 shouldn't 6.82794e-05 shape 6.49496e-05 shut 5.29057e-05 shed 4.73002e-05 chai 4.72272e-05 chef 3.29111e-05 shade 3.19546e-05 is 3.16973e-05 issue 3.00065e-05 can 1.98673e-05 shnayf 1.8561e-05 shnaw 1.85399e-05 shnayyin 1.36438e-05 sheikh 1.03118e-05 sri 1.00845e-05 shell 8.97912e-06 sean 8.29457e-06 shay 7.93788e-06 she'll 6.45468e-06 shea 6.23551e-06 i 5.99379e-06 shift 5.80586e-06 shooting 5.5963e-06 in 5.20054e-06 shya 4.69655e-06 shaun 4.68846e-06 shook 4.67398e-06 shop 4.37731e-06 cheese 4.14296e-06 chew 3.78155e-06 there 3.76525e-06 sheets 3.47646e-06 shiite 3.43704e-06 shane 3.40424e-06 shu 3.27114e-06 shaped 2.30216e-06 shows 1.9729e-06 shan 1.90115e-06 shall 1.79799e-06 shake 1.63299e-06 chewing 1.52828e-06 from 1.51356e-06 shieer 1.49276e-06 sugar 1.42686e-06 shanawa 1.40407e-06 choose 1.36461e-06 sheer 1.23444e-06 you 9.04001e-07 shave 5.01059e-07 showed 4.6119e-07 shias 2.45573e-07 shown 1.31742e-07 shoots 9.6614e-08 an 9.55609e-08 and 1.69993e-08 shaved 6.80651e-09 shirts 1.5592e-09 uh 8.76086e-10 shatai 4.70215e-11 sheree 1.73204e-11 shaan 1.5042e-11 share 8.59339e-12 chewy 3.74318e-12 shara 1.54263e-14 shred 4.64201e-16 shrink 1.19222e-27 they 5.45141e-28 chau 2.30904e-29 to 3.41435e-32 chu 1.41463e-33 shuroum 6.58442e-36 shnawi 1.29286e-43 we 1.2325e-44 chip 5.6006e-48
+align 14 </s> 1

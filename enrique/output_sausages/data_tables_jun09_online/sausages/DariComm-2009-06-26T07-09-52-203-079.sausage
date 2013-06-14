@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 arrange 1
+align 4 a 1
+align 5 meeting 1
+align 6 with 1
+align 7 him 0.982093 them 0.0179071
+align 8 *DELETE* 0.999841 uh 0.000116365 i 3.05656e-05 in 9.36353e-06 um 1.42865e-06 to 8.0036e-07 that 3.49871e-11 and 3.65525e-12 the 3.56461e-12 do 5.85481e-15
+align 9 </s> 1

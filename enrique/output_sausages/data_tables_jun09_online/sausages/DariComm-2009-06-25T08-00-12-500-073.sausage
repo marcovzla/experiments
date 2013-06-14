@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 splint 1
+align 3 is 1
+align 4 used 0.981063 use 0.0166448 you's 0.00143606 you 0.000856509
+align 5 *DELETE* 0.999143 use 0.000856509
+align 6 to 0.993219 the 0.00678079
+align 7 stabilize 1
+align 8 broken 1
+align 9 bones 1
+align 10 *DELETE* 0.999999 a 1.09025e-06 uh 9.40211e-08 i 2.28176e-09 do 1.01224e-09 in 6.56516e-10 um 4.80657e-11 you 8.54751e-14
+align 11 </s> 1

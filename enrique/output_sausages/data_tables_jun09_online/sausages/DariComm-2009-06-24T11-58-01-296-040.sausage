@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 1
+align 3 are 1
+align 4 your 0.998835 you 0.00116463
+align 5 *DELETE* 0.999594 a 0.000389678 oh 1.60493e-05
+align 6 wives 0.963819 wife's 0.0334571 wives' 0.0026314 *DELETE* 9.24289e-05
+align 7 *DELETE* 0.99936 i 0.000265901 uh 0.000173433 to 5.91819e-05 wife 5.65263e-05 wise 3.59025e-05 do 2.43522e-05 it 1.43064e-05 a 6.39853e-06 at 3.43723e-06 you 7.90844e-07 and 1.31474e-07 that 2.38022e-09 in 9.41556e-11 but 2.84284e-12
+align 8 </s> 1

@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 my 0.989306 mike 0.00200967 right 0.00193994 may 0.00187308 might 0.00166593 *DELETE* 0.00150771 by 0.00108802 like 0.000559116 why 3.92319e-05 white 1.06349e-05 i 2.50967e-07
+align 2 time 0.998462 night-time 0.00150771 it 2.1153e-05 i 8.91884e-06 *DELETE* 3.48296e-12
+align 3 *DELETE* 0.999954 time 3.00718e-05 i 1.4618e-05 uh 1.62801e-06 turn 6.89001e-08
+align 4 </s> 1

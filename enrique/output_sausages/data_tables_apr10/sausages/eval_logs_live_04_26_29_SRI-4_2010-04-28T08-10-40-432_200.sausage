@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 refrigeration 1
+align 4 units 0.988227 unit's 0.00983242 unit 0.00194072
+align 5 are 0.99724 sir 0.00194072 or 0.00069261 our 0.000112668 i 1.42238e-05
+align 6 needed 1
+align 7 *DELETE* 0.999985 i 5.91754e-06 uh 4.40484e-06 it 3.26062e-06 a 9.42413e-07
+align 8 </s> 1

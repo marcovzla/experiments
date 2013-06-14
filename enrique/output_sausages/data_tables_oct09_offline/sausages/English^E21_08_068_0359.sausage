@@ -1,0 +1,52 @@
+numaligns 50
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999509 oh 0.000491203
+align 2 okay 1
+align 3 now 0.996996 no 0.00300445
+align 4 when 0.993529 one 0.006471
+align 5 that 0.94549 the 0.0530291 they 0.000750202 *DELETE* 0.000730731
+align 6 *DELETE* 0.96279 uh 0.0324795 up 0.00473083
+align 7 first 1
+align 8 first 1
+align 9 uh 1
+align 10 personnel 0.99464 uh 0.00527204 *DELETE* 8.76802e-05
+align 11 *DELETE* 0.993014 personnel 0.00527204 as 0.0016261 personal 8.76802e-05
+align 12 things 0.68492 take 0.163465 takes 0.131172 thinks 0.0134576 of 0.00698514
+align 13 *DELETE* 0.993015 takes 0.00698514
+align 14 that 1
+align 15 need 1
+align 16 the 0.92193 to 0.0755817 *DELETE* 0.00248823
+align 17 one 1
+align 18 the 0.861854 to 0.114034 *DELETE* 0.0232848 could 0.000726512 in 0.000100058
+align 19 *DELETE* 0.861854 the 0.114861 that 0.0192103 that's 0.00393138 no 0.000143122
+align 20 second 1
+align 21 *DELETE* 0.993583 i'm 0.00376908 in 0.00141404 on 0.00077029 to 0.000335295 one 0.000124205 and 3.72121e-06
+align 22 coming 1
+align 23 up 0.987422 uh 0.0125776 to 3.03771e-07
+align 24 behind 1
+align 25 them 0.959566 him 0.0388233 on 0.00161112
+align 26 is 0.987625 it's 0.00976623 as 0.00260897
+align 27 *DELETE* 0.718692 going 0.281308
+align 28 *DELETE* 0.718692 to 0.281308
+align 29 gonna 0.718692 set 0.151329 *DELETE* 0.126608 soak 0.00337162 sent 2.51615e-10
+align 30 simply 0.801859 the 0.154701 secure 0.0392668 fifty 0.00417376 sent 1.50162e-09
+align 31 *DELETE* 1 the 1.50162e-09
+align 32 bump 0.849489 bone 0.150511
+align 33 on 0.324602 um 0.204857 and 0.168735 bone 0.156433 palm 0.0459222 own 0.0278509 but 0.0188856 owned 0.0173076 pull 0.00922558 i'm 0.0083494 up 0.00733999 of 0.00561645 put 0.00342355 poor 0.000724477 pulled 0.000241391 button 0.000208637 pop 0.000191622 pump 8.53431e-05
+align 34 *DELETE* 0.999675 me 0.000281029 we 2.80114e-05 in 1.58188e-05
+align 35 as 0.95156 has 0.0245366 is 0.0239031
+align 36 he 0.999158 it 0.000630713 a 0.000157854 the 5.33632e-05
+align 37 crosses 1
+align 38 and 1
+align 39 he's 1
+align 40 going 0.859604 gonna 0.140396
+align 41 replace 0.983601 replaced 0.0163992
+align 42 them 0.935823 him 0.0641767
+align 43 while 0.986044 well 0.0136421 *DELETE* 0.000313598
+align 44 *DELETE* 0.984717 um 0.00722842 i'm 0.00484916 uh 0.00289178 wall 0.000313598
+align 45 providing 1
+align 46 that 0.857851 the 0.141512 their 0.000552052 us 6.58508e-05 that's 1.05557e-05 this 8.29428e-06 there 9.00555e-08
+align 47 *DELETE* 0.999975 as 2.50947e-05 at 5.32018e-09 i 8.2342e-11
+align 48 security 1
+align 49 </s> 1

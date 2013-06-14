@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 so 0.824586 *DELETE* 0.175414
+align 2 the 0.802323 cell 0.175322 they 0.0190014 *DELETE* 0.00139347 we 0.0010299 that 0.00050078 he 0.000170197 uh 0.000165038 selling 9.18871e-05 you 1.24898e-06 it 1.1659e-06 seleem 9.16219e-08
+align 3 uniforms 0.883146 the 0.116124 they 0.000730142
+align 4 *DELETE* 0.883146 uniforms 0.116854
+align 5 are 1
+align 6 and 0.734489 in 0.265511
+align 7 um 0.877945 now 0.121516 *DELETE* 0.000538765
+align 8 *DELETE* 0.877945 um 0.121516 uh 0.000538765
+align 9 are 1
+align 10 they 1
+align 11 are 1
+align 12 they 1
+align 13 point 0.839538 torn 0.160462
+align 14 up 1
+align 15 and 1
+align 16 and 1
+align 17 *DELETE* 0.686134 uh 0.313866
+align 18 uh 1.22571
+align 19 *DELETE* 0.999854 uh 0.000146267
+align 20 in 1
+align 21 need 1
+align 22 of 1
+align 23 repair 1
+align 24 </s> 1

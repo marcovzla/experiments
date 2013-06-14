@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 has 1
+align 4 your 1
+align 5 brother 1
+align 6 been 1
+align 7 missing 1
+align 8 *DELETE* 0.999981 i 1.36016e-05 uh 5.89312e-06
+align 9 </s> 1

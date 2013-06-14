@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 there 0.817396 they're 0.142743 their 0.0188 they 0.0169628 and 0.00409826
+align 3 *DELETE* 0.983037 are 0.0169628
+align 4 my 1
+align 5 superiors 1
+align 6 i 0.544062 are 0.415378 or 0.0242654 our 0.0141823 *DELETE* 0.00211169
+align 7 report 0.642206 pour 0.355682 airport 0.00211169
+align 8 directly 1
+align 9 to 1
+align 10 them 0.993051 then 0.00694938
+align 11 did 1
+align 12 you 1
+align 13 need 1
+align 14 me 0.942068 need 0.0579322
+align 15 to 1
+align 16 request 1
+align 17 something 1
+align 18 *DELETE* 0.999998 i 1.57495e-06
+align 19 </s> 1

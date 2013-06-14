@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 about 1
+align 3 *DELETE* 0.981602 if 0.0151831 your 0.00321475
+align 4 vehicles 1
+align 5 do 1
+align 6 you 1
+align 7 need 1
+align 8 any 1
+align 9 equipment 1
+align 10 for 1
+align 11 your 1 you're 8.6008e-14
+align 12 vehicles 0.999768 vehicle's 0.000231703
+align 13 *DELETE* 0.999951 in 4.91883e-05 uh 6.39906e-09 and 9.97476e-23
+align 14 </s> 1

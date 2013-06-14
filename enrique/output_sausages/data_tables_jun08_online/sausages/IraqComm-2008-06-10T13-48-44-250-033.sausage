@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 coalition 1
+align 2 forces 0.99786 forces' 0.00213958
+align 3 can 1
+align 4 replace 0.995314 replaced 0.00468559
+align 5 these 1
+align 6 weapons 1 *DELETE* 1.48046e-14
+align 7 *DELETE* 0.999984 uh 1.61957e-05 weapon's 5.91496e-08 in 1.57623e-14
+align 8 </s> 1

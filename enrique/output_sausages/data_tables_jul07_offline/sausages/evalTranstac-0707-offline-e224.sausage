@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 in 1
+align 3 the 1
+align 4 area 1
+align 5 where 0.999707 were 0.000293192
+align 6 you 0.82311 *DELETE* 0.17689
+align 7 will 0.82311 you'll 0.17689
+align 8 be 1
+align 9 working 1
+align 10 there 0.987756 they're 0.00460473 in 0.00393144 their 0.00260494 *DELETE* 0.000644857 and 0.000265046 they 0.000192501
+align 11 *DELETE* 0.996069 there 0.00369279 their 0.000238654
+align 12 are 0.99633 our 0.00293421 were 0.000736183
+align 13 *DELETE* 0.9999 are 9.9937e-05
+align 14 constant 1
+align 15 security 1
+align 16 patrols 0.999954 patrol's 4.58737e-05
+align 17 *DELETE* 1 i 2.48624e-07
+align 18 </s> 1

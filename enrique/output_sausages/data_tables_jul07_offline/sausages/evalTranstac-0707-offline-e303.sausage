@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 you 0.999923 do 7.65685e-05
+align 2 *DELETE* 0.999923 you 7.65685e-05
+align 3 have 1
+align 4 to 1
+align 5 stay 1
+align 6 looking 0.64371 a 0.345412 in 0.0108784
+align 7 *DELETE* 0.64371 looking 0.35629
+align 8 in 0.98566 and 0.0143402
+align 9 your 0.999295 you're 0.00070491
+align 10 direction 0.99992 directions 8.02692e-05
+align 11 </s> 1

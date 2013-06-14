@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 lieutenant 1
+align 7 newton 0.978249 looting 0.0148412 new 0.00416601 you 0.00140887 in 0.000880174 *DELETE* 0.000227907 lee 0.000226702 looked 4.22625e-20
+align 8 *DELETE* 0.992885 thing 0.00217875 can 0.00142907 newton 0.000880174 tin 0.000792791 ten 0.000674285 team 0.000673922 lieutenant 0.00022779 i 0.000204778 thin 5.27589e-05 a 2.67323e-07 looking 1.17235e-07 in 4.22625e-20 mutiny 5.07412e-29
+align 9 </s> 1

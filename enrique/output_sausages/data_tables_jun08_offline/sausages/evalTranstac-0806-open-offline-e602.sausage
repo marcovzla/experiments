@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.96711 i 0.0328898
+align 2 *DELETE* 0.96711 i'm 0.0187889 am 0.014101
+align 3 very 1
+align 4 sorry 1
+align 5 to 1
+align 6 hear 1
+align 7 that 1
+align 8 *DELETE* 0.999741 uh 0.000256013 i 2.87321e-06 too 4.7467e-07
+align 9 </s> 1

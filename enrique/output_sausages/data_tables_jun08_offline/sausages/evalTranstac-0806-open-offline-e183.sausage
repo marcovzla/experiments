@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 uh 0.995821 *DELETE* 0.00417891
+align 3 uh 1.00418
+align 4 do 0.990096 *DELETE* 0.00971721 uh 0.000186733
+align 5 you 1
+align 6 have 1
+align 7 a 1
+align 8 way 1
+align 9 to 1
+align 10 keep 1
+align 11 in 1
+align 12 contact 1
+align 13 with 1
+align 14 us 0.68893 a 0.214648 *DELETE* 0.0682289 this 0.0194374 is 0.00760764 as 0.00114862
+align 15 family 0.99993 families 6.98456e-05 family's 3.17282e-09
+align 16 *DELETE* 0.99994 uh 4.47111e-05 i 1.53838e-05
+align 17 </s> 1

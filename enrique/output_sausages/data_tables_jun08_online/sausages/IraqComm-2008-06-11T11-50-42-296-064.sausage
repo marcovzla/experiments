@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 say 0.873792 i 0.0786378 it's 0.0475703
+align 2 *DELETE* 0.873792 say 0.0786378 a 0.0475703
+align 3 response 1
+align 4 again 1
+align 5 please 1 place 2.3491e-11 pleas 9.17378e-13
+align 6 *DELETE* 1 uh 1.41788e-15 police 2.40719e-17
+align 7 </s> 1

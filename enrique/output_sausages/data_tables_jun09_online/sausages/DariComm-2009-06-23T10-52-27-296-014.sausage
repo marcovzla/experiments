@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 a 0.428149 in 0.295242 and 0.171131 it 0.0544383 eight 0.0497067 you 0.00133345
+align 2 *DELETE* 0.998667 know 0.00133345
+align 3 understand 1
+align 4 can 1
+align 5 you 1
+align 6 see 0.743076 say 0.198686 so 0.0577438 *DELETE* 0.000494097
+align 7 your 0.932338 you're 0.0463646 here 0.0188464 our 0.000910109 or 0.000541136 sayir 0.000494097 are 0.000492763 you 1.31675e-05
+align 8 *DELETE* 0.999987 are 1.31675e-05
+align 9 last 0.878947 lasts 0.117647 lives 0.00340577 *DELETE* 4.64494e-17
+align 10 *DELETE* 0.996784 uh 0.00193417 you 0.000599673 i 0.000348866 in 0.000107287 a 0.000100384 thing 5.05432e-05 now 2.90351e-05 and 2.12689e-05 the 8.25294e-06 of 7.07539e-06 to 2.65605e-06 no 2.1818e-06 so 1.87278e-06 it 9.20579e-07 do 7.26388e-07 two 5.0931e-07 with 1.0815e-07 that 3.3027e-08 some 1.00339e-08 them 3.07505e-10 i'm 1.93181e-10 like 1.28528e-10 at 1.19553e-10 lastly 4.01776e-12
+align 11 </s> 1

@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 that 1
+align 3 noise 0.626943 no 0.329707 know 0.0421052 you 0.0012453
+align 4 *DELETE* 0.998755 know 0.0012453
+align 5 *DELETE* 0.46877 is 0.325474 happen 0.154719 it's 0.0368157 it 0.00644025 its 0.00432777 happened 0.00345303
+align 6 happens 0.710371 is 0.158172 happen 0.131457
+align 7 *DELETE* 0.866592 is 0.133408
+align 8 behind 1
+align 9 you 1
+align 10 or 0.998551 are 0.00144937
+align 11 to 0.960247 two 0.0397532
+align 12 your 0.923308 you're 0.0735873 you 0.00310467
+align 13 right 1
+align 14 it's 0.963388 its 0.0366122
+align 15 not 1
+align 16 your 0.617122 you 0.341636 you're 0.0412416
+align 17 *DELETE* 0.753746 responsible 0.246254
+align 18 responsibility 0.753746 it 0.246254
+align 19 *DELETE* 0.999999 to 8.30735e-07
+align 20 look 1
+align 21 at 1
+align 22 it 0.999853 at 0.000103256 *DELETE* 4.41112e-05 a 1.91839e-09
+align 23 *DELETE* 0.999997 uh 2.98285e-06
+align 24 </s> 1

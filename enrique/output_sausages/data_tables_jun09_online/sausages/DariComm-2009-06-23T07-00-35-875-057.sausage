@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 sorry 1
+align 2 can 1
+align 3 you 1
+align 4 repeat 1
+align 5 the 1 that 2.45224e-07
+align 6 question 1
+align 7 *DELETE* 0.999912 i 6.0735e-05 uh 2.73283e-05
+align 8 </s> 1

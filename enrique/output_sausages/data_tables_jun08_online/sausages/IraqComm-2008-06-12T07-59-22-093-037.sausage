@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 no 0.443546 what 0.361574 wow 0.062869 well 0.0529285 uh 0.0205985 oh 0.0121418 assistance 0.0114362 not 0.0110257 *DELETE* 0.0109904 my 0.00809529 but 0.0020341 the 0.00188717 a 0.000811446 why 3.92937e-05 now 2.23298e-05
+align 2 *DELETE* 0.984314 i 0.0156857
+align 3 assistance 0.978743 *DELETE* 0.0114362 assistants 0.00965946 i 0.000161635
+align 4 *DELETE* 0.999838 assistance 0.000161635
+align 5 do 1
+align 6 you 1
+align 7 need 1
+align 8 from 1
+align 9 americans 0.995601 americans' 0.0030167 american's 0.00138214
+align 10 prior 1
+align 11 to 1
+align 12 the 1
+align 13 mission 1
+align 14 *DELETE* 1 i 4.58135e-13 uh 1.76091e-14
+align 15 </s> 1

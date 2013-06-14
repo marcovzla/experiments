@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 well 0.792272 uh 0.194238 i 0.0134899
+align 3 if 1
+align 4 we 1
+align 5 do 1
+align 6 find 1
+align 7 the 0.645579 uh 0.354421
+align 8 explosive 0.874959 a 0.125041
+align 9 *DELETE* 0.874959 explosive 0.125041
+align 10 in 0.878188 and 0.118938 end 0.00287332
+align 11 there 0.747788 their 0.167834 or 0.0476322 are 0.0225516 they're 0.014047 urge 0.000147112
+align 12 *DELETE* 0.999939 are 6.1318e-05
+align 13 you 0.999867 u 0.00013311
+align 14 want 0.636732 *DELETE* 0.363268
+align 15 to 0.636732 wanna 0.363268
+align 16 detain 1
+align 17 all 1
+align 18 all 1
+align 19 *DELETE* 0.98833 all 0.01167
+align 20 the 1
+align 21 personnel 0.998377 personal 0.00162308
+align 22 in 0.909658 and 0.0903419
+align 23 that 0.709331 the 0.290406 their 0.000263074
+align 24 vehicle 1
+align 25 *DELETE* 1 uh 1.63282e-07
+align 26 </s> 1

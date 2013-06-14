@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 any 1
+align 5 and 1
+align 6 *DELETE* 0.459293 i'm 0.385203 um 0.155504
+align 7 i 0.888083 *DELETE* 0.111917
+align 8 buy 0.459293 i 0.389955 by 0.0953453 *DELETE* 0.0388343 ayyad 0.0165719
+align 9 takes 0.318738 are 0.28085 our 0.273788 i 0.0598203 ought 0.0388343 aches 0.0147642 take 0.011397 *DELETE* 0.00180773
+align 10 *DELETE* 0.99789 take 0.00210978
+align 11 eggs 0.577583 *DELETE* 0.343059 takes 0.0577105 this 0.0135068 aches 0.0081414
+align 12 to 0.936552 two 0.0350383 too 0.0142518 exit 0.00955637 took 0.00460147
+align 13 cover 0.99527 over 0.0046177 color 0.000112371
+align 14 up 0.527875 of 0.472125
+align 15 the 1
+align 16 dalla 0.580097 dog 0.401448 dot 0.0181806 doc 0.000186148 dogs 5.11403e-05 dollar 3.47814e-05 della 2.34882e-06 dark 5.42032e-15 doubt 1.52505e-15 duh 1.48627e-16 ballot 8.49974e-23
+align 17 body 0.407338 bite 0.363844 *DELETE* 0.116003 by 0.112815
+align 18 *DELETE* 0.813247 you 0.0699156 bye 0.0494007 bike 0.0443291 biting 0.0163809 buy 0.00589075 a 0.000490205 me 0.00033197 uh 8.7203e-06 i 2.87186e-06 bait 1.59874e-06 them 5.68132e-07
+align 19 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 besides 1
+align 2 cholera 0.999992 car 7.62501e-06
+align 3 are 0.936223 and 0.0435536 *DELETE* 0.0202236
+align 4 there 0.928148 other 0.0627527 their 0.00807484 either 0.00102452
+align 5 other 1
+align 6 diseases 1
+align 7 in 0.999987 and 1.25931e-05
+align 8 your 1
+align 9 town 1
+align 10 *DELETE* 0.999979 uh 2.07636e-05
+align 11 </s> 1

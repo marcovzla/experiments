@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 him 1
+align 2 in 0.963974 and 0.0360097 an 1.65411e-05
+align 3 person 1
+align 4 </s> 1

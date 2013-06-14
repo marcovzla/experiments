@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 would 0.970427 will 0.029573
+align 3 use 1
+align 4 this 0.811744 there's 0.18384 their 0.00289212 the 0.00079655 there 0.00072753
+align 5 *DELETE* 0.999272 is 0.00072753
+align 6 so 0.57466 syringe 0.424804 *DELETE* 0.000535472
+align 7 range 0.57466 *DELETE* 0.424804 arrange 0.000535472
+align 8 they 0.919662 to 0.0676842 the 0.00640862 they'd 0.00624471
+align 9 give 0.934845 get 0.0587468 gift 0.00640862
+align 10 myself 1
+align 11 medicine 0.996077 madison 0.00383347 *DELETE* 8.93931e-05
+align 12 *DELETE* 0.999461 i 0.000241152 uh 0.000203711 medicines 8.93931e-05 in 4.28429e-06 you 9.16181e-08 and 7.21201e-08 it 5.09194e-08 to 1.30506e-08 if 8.98643e-13 on 8.54583e-18
+align 13 </s> 1

@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 well 0.775195 but 0.119809 what 0.104996
+align 2 we 1
+align 3 can 1
+align 4 begin 0.99799 dig 0.0020101
+align 5 *DELETE* 0.99799 in 0.0020101
+align 6 at 0.873212 that 0.126788
+align 7 this 1
+align 8 week 0.999377 we 0.000412445 weak 0.000210467
+align 9 uh 0.712001 but 0.17515 i 0.0701136 the 0.0359881 to 0.00550404 well 0.000616654 by 0.000485339 buy 0.000106018 my 3.56119e-05
+align 10 *DELETE* 0.999559 uh 0.000441129
+align 11 also 1
+align 12 *DELETE* 0.97945 i 0.0205497
+align 13 *DELETE* 0.979438 would 0.020562
+align 14 like 0.689534 *DELETE* 0.310463 likes 3.565e-06
+align 15 to 0.683007 likes 0.310463 *DELETE* 0.00653001
+align 16 talk 0.997459 to 0.00253768 *DELETE* 3.565e-06
+align 17 *DELETE* 0.997459 talk 0.00254124
+align 18 about 1
+align 19 *DELETE* 0.991183 a 0.00881657
+align 20 little 1
+align 21 bit 1
+align 22 about 1
+align 23 the 1
+align 24 personnel 1
+align 25 that 1
+align 26 you 1
+align 27 have 1
+align 28 on 1
+align 29 staff 1
+align 30 </s> 1

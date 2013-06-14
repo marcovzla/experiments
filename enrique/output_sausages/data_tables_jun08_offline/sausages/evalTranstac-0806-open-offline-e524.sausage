@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 that 0.999338 but 0.000533961 uh 6.42016e-05 said 3.4067e-05 set 2.9657e-05
+align 2 that 1
+align 3 is 1
+align 4 our 1
+align 5 main 0.999947 may 5.29473e-05
+align 6 concern 0.999999 concerned 1.04538e-06
+align 7 *DELETE* 0.99985 i 8.66144e-05 uh 4.97075e-05 oh 9.1602e-06 um 2.8476e-06 in 1.12787e-06 to 2.64594e-07 on 1.35731e-07 i'm 3.53981e-08
+align 8 </s> 1

@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 i'll 1
+align 3 do 1
+align 4 now 1
+align 5 is 1
+align 6 i'll 0.9992 uh 0.000800078
+align 7 go 1
+align 8 over 1
+align 9 uh 0.993543 *DELETE* 0.00645706
+align 10 a 0.877123 uh 0.122877
+align 11 *DELETE* 0.870666 a 0.129334
+align 12 basic 1
+align 13 plan 1
+align 14 um 1
+align 15 and 0.942912 *DELETE* 0.0332046 in 0.0238833
+align 16 uh 0.830117 um 0.169883
+align 17 what 0.999981 would 1.79347e-05 when 7.69683e-07 with 1.6844e-09 i 4.2297e-11
+align 18 *DELETE* 1 would 4.2297e-11
+align 19 our 0.620427 hour 0.249179 i 0.130394
+align 20 *DELETE* 0.869606 would 0.130394
+align 21 recommend 1
+align 22 uh 0.964068 um 0.0359321
+align 23 how 0.998388 oh 0.0016116
+align 24 we 1
+align 25 can 1
+align 26 conduct 1
+align 27 this 0.994617 as 0.00183042 its 0.0017093 a 0.00111101 us 0.000551843 it's 0.000106415 is 7.39518e-05
+align 28 rate 0.973189 right 0.010168 rain 0.0066086 ray 0.00363524 ready 0.00113214 three 0.00111101 raye 0.000858303 reign 0.000688818 raids 0.000645105 range 0.000571775 rape 0.000504252 rey 0.000337809 re 0.000273895 rates 0.000130641 raided 6.92654e-05 rae 4.58156e-05 rea 2.12348e-05 raise 8.61188e-06 rained 8.27306e-07 rating 4.61559e-08 raiding 2.02849e-08 ridge 1.25373e-08
+align 29 *DELETE* 0.999982 it 1.80786e-05
+align 30 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 let's 0.988761 lets 0.0112386
+align 3 go 1
+align 4 from 1
+align 5 start 1
+align 6 to 1
+align 7 finish 1
+align 8 uh 0.952737 um 0.0471911 i 5.65409e-05 our 1.51412e-05
+align 9 *DELETE* 0.927122 uh 0.0728382 i 3.89205e-05 a 1.29618e-06
+align 10 </s> 1

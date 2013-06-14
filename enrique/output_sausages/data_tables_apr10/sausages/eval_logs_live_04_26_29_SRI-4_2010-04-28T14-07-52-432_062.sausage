@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 did 0.931015 could 0.0685372 i 0.000448188
+align 2 *DELETE* 0.999552 did 0.000448188
+align 3 you 1
+align 4 say 1
+align 5 all 0.618556 i 0.242112 i'll 0.0646576 *DELETE* 0.04729 on 0.0273839
+align 6 hundred 1
+align 7 and 0.994246 an 0.00575417
+align 8 eighty 1
+align 9 students 0.989778 students' 0.0058938 student's 0.00432804
+align 10 *DELETE* 0.999862 i 8.54886e-05 uh 4.84611e-05 a 1.89256e-06 to 1.87471e-06 do 2.73455e-07 in 1.23531e-07 the 1.33676e-10
+align 11 </s> 1

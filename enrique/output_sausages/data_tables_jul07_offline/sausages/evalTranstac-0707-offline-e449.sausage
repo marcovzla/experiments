@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 later 1
+align 2 if 1
+align 3 you 0.996739 he 0.00326082
+align 4 find 1
+align 5 out 1
+align 6 who 1
+align 7 this 1
+align 8 weapon 1
+align 9 belongs 1
+align 10 to 1
+align 11 they 1
+align 12 can 1
+align 13 pick 1
+align 14 it 1
+align 15 up 1
+align 16 at 0.89201 if 0.0443891 with 0.0336095 but 0.00960431 it 0.00781412 up 0.00486216 that 0.00435244 of 0.00335788
+align 17 the 1
+align 18 local 1
+align 19 see 0.751191 c 0.141197 sea 0.105325 siham 0.00228668 *DELETE* 3.49814e-12
+align 20 and 0.79122 him 0.0785055 *DELETE* 0.0312345 i'm 0.0292186 on 0.0253729 them 0.0140804 m 0.00991084 in 0.0073093 an 0.00730789 n 0.00284371 you 0.00205094 um 0.000916934 end 2.85395e-05
+align 21 *DELETE* 0.997949 and 0.00205094
+align 22 we'll 0.943352 will 0.0241401 a 0.013038 i 0.00879255 m._o. 0.00609296 *DELETE* 0.00355835 ammo 0.000955552 of 6.86992e-05 oh 1.52865e-06 c._o. 9.6902e-09 o 3.96044e-25 well 5.74829e-26 most 4.51155e-27 elmo 9.11245e-29
+align 23 see 0.971746 mostly 0.0251136 sea 0.00187392 *DELETE* 0.000922572 will 0.000344078 most 1.11364e-23
+align 24 *DELETE* 0.996844 you 0.00186231 c 0.000915926 see 0.000344078 i 2.48516e-05 seen 6.51426e-06 if 1.81192e-06 seeing 1.31808e-07 scene 1.85406e-12
+align 25 </s> 1

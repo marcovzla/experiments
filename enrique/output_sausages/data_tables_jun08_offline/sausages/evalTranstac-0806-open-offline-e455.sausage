@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 uh 0.489182 oh 0.380038 i 0.114408 *DELETE* 0.0144221 absolutely 0.00194967
+align 2 *DELETE* 0.700049 i 0.299951
+align 3 *DELETE* 0.992739 have 0.00726078
+align 4 absolutely 0.870969 *DELETE* 0.107511 i 0.0142583 slowly 0.00726078
+align 5 *DELETE* 0.88018 absolutely 0.11982
+align 6 they 1
+align 7 will 0.643149 well 0.356851
+align 8 uh 0.517818 i'll 0.482182
+align 9 bring 1
+align 10 all 1
+align 11 the 1
+align 12 required 1
+align 13 uh 0.711772 um 0.28558 to 0.00157176 *DELETE* 0.00107618
+align 14 *DELETE* 0.997045 uh 0.00187904 i 0.000615147 a 0.00033656 are 0.000124475
+align 15 equipment 1
+align 16 that 0.999938 at 6.16998e-05
+align 17 they'll 0.846664 they 0.146763 the 0.00655863 though 1.42162e-05
+align 18 *DELETE* 0.853199 will 0.146796 oil 4.18082e-06
+align 19 need 0.993165 only 0.00652109 knead 0.000210252 needs 4.14073e-05 the 3.82066e-05 they 1.41828e-05 be 1.03414e-05
+align 20 </s> 1

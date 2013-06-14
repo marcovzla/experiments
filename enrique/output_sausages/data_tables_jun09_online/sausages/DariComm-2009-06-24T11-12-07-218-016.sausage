@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 only 0.990418 i 0.00958157
+align 2 *DELETE* 0.990418 only 0.00958157
+align 3 people 1
+align 4 to 0.991128 do 0.00887192
+align 5 use 1
+align 6 you 0.962275 it 0.0362251 the 0.00082202 *DELETE* 0.000677604
+align 7 *DELETE* 0.982935 to 0.0170647
+align 8 take 0.966298 go 0.0170647 they 0.0151375 thing 0.00082202 heating 0.000677604
+align 9 on 0.984862 don't 0.0151375
+align 10 patrol 1
+align 11 with 1
+align 12 you 1
+align 13 *DELETE* 0.999092 uh 0.000734128 i 0.000137756 to 1.52856e-05 and 1.00169e-05 in 5.85965e-06 it 2.65184e-06 know 1.40277e-06 did 1.2563e-06 at 4.24114e-09 so 1.39601e-11 you 1.38461e-11 do 5.9838e-12 that 2.58932e-12 is 3.34208e-13
+align 14 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.850428 well 0.149572
+align 2 about 1
+align 3 the 1
+align 4 bathroom 0.992287 bathrooms 0.00771307
+align 5 and 0.999998 an 1.6338e-06
+align 6 lights 0.960824 rights 0.0296736 *DELETE* 0.00660399 like 0.0024656 the 0.000423532 write 8.85428e-06
+align 7 *DELETE* 0.990479 writes 0.00420779 this 0.00237901 light 0.00193528 lights 0.000423532 light's 0.000380099 rites 8.05902e-05 it's 7.64527e-05 us 1.89961e-05 on 1.73467e-05 up 1.29815e-06 right 2.28451e-07 i 3.03946e-09 uh 1.07008e-09 and 2.99702e-10 in 3.90589e-12
+align 8 </s> 1

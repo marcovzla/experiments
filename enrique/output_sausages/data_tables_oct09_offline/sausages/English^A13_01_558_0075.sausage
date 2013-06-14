@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.984686 i 0.0152699 a 2.85644e-05 why 1.57135e-05
+align 2 *DELETE* 0.984686 i'm 0.00792793 am 0.00738623
+align 3 here 1
+align 4 to 1
+align 5 talk 1
+align 6 about 1
+align 7 the 1
+align 8 contents 1
+align 9 and 1
+align 10 i 1
+align 11 need 1
+align 12 you 1
+align 13 more 1
+align 14 information 1
+align 15 about 1 *DELETE* 3.95398e-08
+align 16 *DELETE* 0.934487 khansa' 0.0433943 constant 0.0221183
+align 17 *DELETE* 0.947028 him 0.0527028 having 0.000187579 have 8.17083e-05
+align 18 constantly 0.928684 the 0.0328607 to 0.0200169 *DELETE* 0.0125131 confident 0.00379582 constant 0.00171159 every 0.000168776 continent 0.000167149 any 8.17083e-05 but 1.90276e-07
+align 19 *DELETE* 1 but 2.40088e-07 have 6.37611e-09 having 6.00892e-10
+align 20 *DELETE* 0.999765 concertina 7.18809e-05 they 7.056e-05 constant 5.68057e-05 haven't 3.42218e-05 you 1.70145e-06 on 8.23898e-08 there 6.24563e-08 it 4.7777e-08 and 2.65629e-08 backs 1.75949e-08 any 6.37611e-09 did 2.55971e-09 to 6.00892e-10
+align 21 backseat 0.997116 back 0.00241653 backseats 0.000318836 backs 0.000145177 vaccine 2.15863e-06 you 1.11478e-06 and 6.47435e-07 eat 1.67864e-08
+align 22 *DELETE* 0.997437 see 0.00216426 seat 0.000252273 you 0.000100209 eat 4.49681e-05 backseat 1.76141e-06 i 3.475e-09
+align 23 </s> 1

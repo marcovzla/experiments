@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 what 0.920766 which 0.0755065 would 0.00372789
+align 3 you're 0.957484 you 0.0425163
+align 4 talking 1
+align 5 about 1
+align 6 is 0.97508 as 0.0249203
+align 7 an 1
+align 8 officer 0.99682 office 0.00317967
+align 9 *DELETE* 0.996822 or 0.00317797
+align 10 rationed 0.622925 vision 0.24976 beige 0.0968778 mission 0.0271713 evasion 0.00293936 basin 0.000179187 base 0.000111395 of 3.54026e-05
+align 11 *DELETE* 0.999965 a 3.54026e-05
+align 12 *DELETE* 0.999853 and 0.000111395 shown 3.54026e-05
+align 13 post 0.70939 posts 0.17386 imposed 0.0949807 posed 0.0161725 pose 0.00357281 and 0.00137073 impose 0.000526318 poster 9.17673e-05 posted 1.8749e-05 posting 1.63817e-05 poses 2.93832e-07 imposes 3.54114e-08 imposing 2.15465e-08
+align 14 *DELETE* 0.998456 post 0.00129364 uh 0.000153739 posts 7.7095e-05 a 1.30995e-05 to 6.0835e-06 at 1.92593e-07 so 9.12588e-08 it 3.62931e-08
+align 15 </s> 1

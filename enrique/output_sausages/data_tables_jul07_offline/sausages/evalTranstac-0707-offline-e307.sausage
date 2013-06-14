@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 while 0.999059 why 0.000940595
+align 3 you're 0.999942 your 5.77849e-05
+align 4 sitting 1
+align 5 here 1
+align 6 in 1
+align 7 the 1
+align 8 *DELETE* 0.999878 uh 0.00012233
+align 9 back 1
+align 10 of 1
+align 11 the 0.914747 a 0.0852529
+align 12 patrol 1
+align 13 *DELETE* 0.999754 will 0.00024617
+align 14 your 0.634537 you 0.333466 you're 0.0226954 he 0.00519258 who 0.00410879
+align 15 responsibility 0.980001 responsible 0.0199989
+align 16 is 0.978743 used 0.0197857 as 0.00125772 use 0.000213197
+align 17 to 1
+align 18 watch 1
+align 19 everything 1
+align 20 to 0.936301 *DELETE* 0.0636986
+align 21 where 0.781504 wear 0.193775 port 0.0247008 we're 1.75279e-05 *DELETE* 5.06676e-11
+align 22 we're 0.360759 we 0.346604 rear 0.291742 where 0.000893773 were 2.52822e-06 or 7.95081e-08 tore 1.1003e-09
+align 23 *DELETE* 0.653399 are 0.346595 were 4.89071e-06 a 1.10366e-06
+align 24 </s> 1

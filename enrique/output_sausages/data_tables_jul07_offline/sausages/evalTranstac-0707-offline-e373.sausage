@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 go 1
+align 2 back 1
+align 3 here 0.636426 in 0.229165 there 0.117792 it 0.0078213 then 0.00739898 and 0.00139607
+align 4 with 1
+align 5 your 0.997005 you 0.00299526
+align 6 with 1
+align 7 your 1
+align 8 uh 1
+align 9 *DELETE* 0.99077 uh 0.00922974
+align 10 your 1
+align 11 follows 0.958644 *DELETE* 0.0413556
+align 12 *DELETE* 0.927503 fellows 0.0413556 a 0.0311412
+align 13 and 1
+align 14 uh 1
+align 15 well 0.97487 uh 0.0251303
+align 16 *DELETE* 0.984055 well 0.0159454
+align 17 i'll 0.713484 *DELETE* 0.277331 well 0.00918496
+align 18 see 1
+align 19 them 0.760068 him 0.239754 tomorrow 0.000138042 you 3.95314e-05
+align 20 *DELETE* 0.999961 tomorrow 3.88812e-05
+align 21 off 0.999822 if 0.000172179 *DELETE* 4.74375e-06 tomorrow 6.50174e-07
+align 22 the 0.999992 for 5.39393e-06 a 2.93947e-06
+align 23 next 1
+align 24 patrol 1
+align 25 *DELETE* 1 in 4.15346e-08
+align 26 </s> 1

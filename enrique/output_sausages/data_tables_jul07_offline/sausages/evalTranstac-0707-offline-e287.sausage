@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 it's 1
+align 2 always 1
+align 3 a 1
+align 4 good 1
+align 5 idea 1
+align 6 to 0.961118 the 0.0217604 this 0.0171217
+align 7 search 0.950249 searched 0.0497506
+align 8 large 0.977209 the 0.0227907
+align 9 *DELETE* 0.977209 large 0.0227907
+align 10 trucks 1
+align 11 and 1
+align 12 uh 1
+align 13 anything 0.890915 uh 0.101109 i 0.0053064 a 0.00266903
+align 14 *DELETE* 0.890915 anything 0.109085 you 5.70385e-07
+align 15 used 0.979123 use 0.016363 news 0.00451364 see 5.70385e-07
+align 16 for 0.999742 four 0.000257545
+align 17 cargo 0.999669 car 0.000330683
+align 18 *DELETE* 0.999669 go 0.000330683
+align 19 </s> 1

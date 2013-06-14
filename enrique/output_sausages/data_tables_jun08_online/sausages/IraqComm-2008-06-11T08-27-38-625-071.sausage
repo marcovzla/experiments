@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 that's 0.714362 it's 0.285053 let's 0.000370556 its 0.000213981 what's 4.12391e-10
+align 2 good 1
+align 3 *DELETE* 0.999675 uh 0.00032495
+align 4 </s> 1

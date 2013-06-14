@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 can 1
+align 3 you 1
+align 4 please 1
+align 5 hold 0.396122 all 0.322861 we'll 0.204401 will 0.0754295 well 0.00118555
+align 6 drew 0.603878 you 0.381118 *DELETE* 0.0150044
+align 7 up 0.959341 *DELETE* 0.0256544 your 0.00977177 a 0.00523262
+align 8 in 0.952168 weapon 0.0383148 and 0.0078219 open 0.00164751 opened 4.73638e-05
+align 9 the 0.999612 all 0.000233316 no 0.00015438
+align 10 right 1
+align 11 way 1
+align 12 like 1
+align 13 this 1
+align 14 other 1
+align 15 gentleman 0.988163 jumaa 0.0108954 don't 0.000611608 joint 0.000193978 gentlemen 0.000129437 *DELETE* 7.05239e-06
+align 16 *DELETE* 0.999024 i 0.000614496 uh 0.000304919 and 2.55455e-05 join 7.05235e-06 that 7.01726e-06 is 5.50649e-06 it 5.15325e-06 you 4.13812e-06 who 6.62185e-07 a 6.12094e-07 if 4.97736e-07 to 3.71837e-07 now 4.38089e-08 in 4.74944e-09 do 1.30546e-09 with 7.51348e-11 jum'a 3.83218e-11 the 6.29858e-12 can 1.878e-12 joy 4.80061e-13 doing 7.1336e-16 joined 7.20905e-17
+align 17 </s> 1

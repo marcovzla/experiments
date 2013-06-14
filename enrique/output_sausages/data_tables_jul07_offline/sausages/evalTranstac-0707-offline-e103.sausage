@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 0.693613 lot 0.158725 law 0.0700967 low 0.0412819 lock 0.0351066 loud 0.0011774
+align 3 *DELETE* 0.589875 and 0.359981 a 0.0347297 in 0.0154147
+align 4 time 0.924698 to 0.0521662 *DELETE* 0.016232 tie 0.00282821 intact 0.00277653 inter 0.000853175 until 0.000445606
+align 5 how 1
+align 6 long 1
+align 7 has 1
+align 8 your 1
+align 9 son 1
+align 10 been 1
+align 11 sick 1
+align 12 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 good 1
+align 6 relationship 1
+align 7 with 1
+align 8 the 1
+align 9 local 1
+align 10 sheikh's 0.999836 *DELETE* 0.000164036 sheikh 1.70443e-13
+align 11 *DELETE* 0.998676 in 0.000999139 sheikhs 0.000164036 and 8.41616e-05 uh 7.70254e-05 i 8.58871e-12 a 6.07915e-12 some 1.61403e-13 sir 9.0392e-15 so 6.41843e-19
+align 12 </s> 1

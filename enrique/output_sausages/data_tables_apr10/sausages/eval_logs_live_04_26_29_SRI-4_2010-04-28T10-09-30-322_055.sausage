@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 does 1
+align 4 it 1
+align 5 cost 1
+align 6 to 1
+align 7 run 1
+align 8 your 1
+align 9 generator 1
+align 10 *DELETE* 0.999999 uh 4.09856e-07 i 2.89519e-07
+align 11 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 what 1
+align 5 this 0.99975 *DELETE* 0.000249649
+align 6 is 0.983952 it's 0.00887828 it 0.00618748 *DELETE* 0.000982343
+align 7 *DELETE* 0.999754 it 0.000245686
+align 8 *DELETE* 0.992088 is 0.00618541 its 0.00101068 it's 0.000669219 uh 4.00928e-05 a 6.26549e-06
+align 9 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 do 1
+align 5 when 1
+align 6 you 1
+align 7 don't 1
+align 8 have 1
+align 9 enough 1
+align 10 water 0.998793 louder 0.00116125 lada 2.06957e-05 lighter 1.76426e-05 lot 7.7123e-06 or 6.36927e-09 *DELETE* 5.61465e-15
+align 11 *DELETE* 0.999992 of 7.71228e-06 other 6.36927e-09 war 4.56864e-10 slaughter 2.8209e-10 or 2.56087e-12 are 9.15583e-16 uh 3.47967e-16 in 6.2131e-18
+align 12 </s> 1

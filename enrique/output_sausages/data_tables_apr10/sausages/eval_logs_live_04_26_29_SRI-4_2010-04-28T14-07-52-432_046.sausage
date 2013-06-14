@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 the 1
+align 3 school 1
+align 4 have 1
+align 5 a 1
+align 6 generator 1
+align 7 *DELETE* 1 uh 1.62875e-17
+align 8 </s> 1

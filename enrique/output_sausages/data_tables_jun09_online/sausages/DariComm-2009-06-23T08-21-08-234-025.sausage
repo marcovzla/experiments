@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 *DELETE* 0.946863 uh 0.0506064 it 0.00138629 a 0.000645902 i 0.000383846 is 3.69485e-05 the 2.79944e-05 to 1.92564e-05 in 1.53685e-05 an 6.15353e-06 that 6.09482e-06 and 2.82443e-06 but 5.43321e-09 you 1.1155e-10
+align 5 </s> 1

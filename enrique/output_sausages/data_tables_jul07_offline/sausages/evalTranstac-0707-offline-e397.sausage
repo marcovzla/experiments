@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 what's 0.524205 once 0.469044 wants 0.00675134
+align 4 all 1
+align 5 of 0.986313 *DELETE* 0.0136868
+align 6 this 1
+align 7 is 1
+align 8 uh 1
+align 9 tract 0.389174 tracked 0.210466 checked 0.144753 check 0.101827 track 0.0924692 uh 0.034036 *DELETE* 0.0222332 a 0.00376789 to 0.00127314
+align 10 *DELETE* 0.93869 tract 0.034036 truck 0.0222332 checked 0.0036014 check 0.00143963
+align 11 then 0.999769 than 0.000230615
+align 12 the 1
+align 13 uh 1
+align 14 the 1
+align 15 vehicle 1
+align 16 *DELETE* 0.85885 can 0.110282 to 0.0178445 could 0.0129979 and 2.56362e-05
+align 17 we 0.861399 be 0.0856939 it 0.0325946 you 0.0140479 *DELETE* 0.00391321 he 0.00230417 they 4.66908e-05
+align 18 can 0.99955 could 0.000270561 can't 0.000172299 convicted 6.80099e-06
+align 19 be 1
+align 20 driven 0.909761 given 0.0902393
+align 21 for 0.999994 four 5.71954e-06
+align 22 the 0.999856 that 0.000143613
+align 23 day 0.999681 guy 0.000262024 die 5.67e-05 de 1.67606e-08 *DELETE* 9.86376e-10
+align 24 </s> 1

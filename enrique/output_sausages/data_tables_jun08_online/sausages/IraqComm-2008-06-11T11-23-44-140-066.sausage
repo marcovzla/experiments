@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 please 1
+align 4 rephrase 1
+align 5 your 0.696228 the 0.303689 you 8.31942e-05
+align 6 question 1
+align 7 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.812344 where 0.0879622 *DELETE* 0.0769823 were 0.0227018 would 9.38613e-06
+align 2 i 0.653 they 0.158747 *DELETE* 0.116272 with 0.0719811
+align 3 *DELETE* 0.67443 are 0.186949 their 0.0719811 a 0.0429962 there 0.0227018 have 0.000938984 would 2.37487e-06
+align 4 *DELETE* 0.656149 back 0.295854 rack 0.0425234 whatever 0.00499881 lack 0.000472773 have 2.37487e-06
+align 5 iraqi 0.652997 you 0.311848 he 0.0269727 akhi 0.00501057 baki 0.00173788 baqi 0.00131456 al-baqi 8.96692e-05 east 1.96999e-05 u 7.53264e-06 he's 1.80453e-06
+align 6 soldiers 0.998419 soldier's 0.00105673 *DELETE* 0.000524679
+align 7 *DELETE* 0.99771 uh 0.00175388 soldiers' 0.000524679 in 1.15531e-05 i 2.88123e-08 you 1.10668e-09 or 7.3001e-17 and 4.53607e-22 to 3.1099e-23
+align 8 </s> 1

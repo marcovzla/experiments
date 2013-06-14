@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.589544 well 0.20543 will 0.145417 i 0.0596091
+align 2 *DELETE* 0.935342 will 0.0596091 it 0.00493635 do 0.000112927
+align 3 anything 1
+align 4 be 0.996387 we 0.00361335
+align 5 found 1
+align 6 in 0.998372 and 0.00162754
+align 7 the 0.995346 a 0.00465404 that 1.13125e-07
+align 8 truck 0.999374 trunk 0.000626046
+align 9 *DELETE* 0.999295 uh 0.000705004 i 4.15411e-15
+align 10 </s> 1

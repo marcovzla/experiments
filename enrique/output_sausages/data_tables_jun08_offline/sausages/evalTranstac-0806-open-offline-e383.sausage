@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 as 1
+align 2 you 1
+align 3 develop 0.999541 developed 0.000458959
+align 4 that 1
+align 5 relationship 0.989055 a 0.0109445
+align 6 *DELETE* 0.989055 relationship 0.0109445
+align 7 with 1
+align 8 them 1
+align 9 they'll 1
+align 10 be 1
+align 11 more 1
+align 12 willing 1
+align 13 to 1
+align 14 give 1
+align 15 us 1
+align 16 information 1
+align 17 </s> 1

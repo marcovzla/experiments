@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 0.978413 *DELETE* 0.0215867
+align 3 and 0.978413 certain 0.0215867
+align 4 uh 0.998172 i 0.00139909 um 0.000428815
+align 5 *DELETE* 0.856286 uh 0.143714
+align 6 we're 0.917219 were 0.0827815
+align 7 not 1
+align 8 removing 1
+align 9 all 0.978792 i'll 0.0206248 oh 0.000326136 al 0.00025439 off 1.90741e-06 ought 8.78373e-07
+align 10 animals 0.995906 all 0.00281585 of 0.000735842 animals' 0.000542384
+align 11 *DELETE* 0.996275 animals 0.00355169 uh 0.000126807 i 4.36118e-05 oh 1.91542e-06 you 6.08863e-07
+align 12 </s> 1

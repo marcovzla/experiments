@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.985778 i 0.0142217
+align 2 *DELETE* 0.985778 i'm 0.0138067 am 0.000414978
+align 3 here 0.999741 hear 0.000258796
+align 4 to 1
+align 5 provide 1
+align 6 weapons 0.924107 weapons' 0.0620582 a 0.0125157 *DELETE* 0.0013187
+align 7 *DELETE* 0.986166 weapons 0.0125157 weapon's 0.0013187
+align 8 training 1
+align 9 for 1 four 1.40051e-14
+align 10 you 1
+align 11 *DELETE* 0.999988 uh 1.19339e-05
+align 12 </s> 1

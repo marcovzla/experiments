@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 do 0.997052 *DELETE* 0.00294762
+align 5 you 1
+align 6 need 1
+align 7 for 1
+align 8 the 1
+align 9 patrol 0.998865 patrols 0.00113215 *DELETE* 9.36592e-10
+align 10 *DELETE* 0.999971 in 1.90936e-05 is 5.85279e-06 petrol 2.86743e-06 to 6.62694e-07 uh 2.61921e-07 and 6.72182e-09 i 2.42947e-14 patrolling 1.92786e-16
+align 11 </s> 1

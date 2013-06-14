@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that 0.650402 the 0.319358 *DELETE* 0.0238323 then 0.00440286 i 0.00173121 does 0.000223269 is 4.96665e-05
+align 3 if 0.98522 *DELETE* 0.014644 is 0.000136033
+align 4 you 0.992533 *DELETE* 0.00518648 we 0.00183999 it 0.000407857 could 3.14491e-05 he 1.11163e-06
+align 5 come 1
+align 6 around 1
+align 7 to 1
+align 8 the 1
+align 9 passenger 0.988988 passenger's 0.0110124
+align 10 side 1
+align 11 and 0.997511 then 0.00180961 on 0.000664674 than 1.51383e-05
+align 12 i 1
+align 13 need 1
+align 14 to 0.868827 you 0.131173
+align 15 *DELETE* 0.9946 to 0.00540018
+align 16 open 1
+align 17 up 0.767383 a 0.194249 them 0.0148738 on 0.0131885 to 0.00949642 it 0.00080901
+align 18 well 0.505543 *DELETE* 0.431152 both 0.0633051
+align 19 *DELETE* 0.439312 but 0.425759 uh 0.134929
+align 20 all 0.986568 *DELETE* 0.00902489 we'll 0.00307045 both 0.0013363
+align 21 *DELETE* 0.560688 the 0.350516 uh 0.0879403 but 0.000855439
+align 22 *DELETE* 0.559823 all 0.438513 or 0.00166331
+align 23 towards 0.427595 pours 0.258019 porch 0.212054 doors 0.0784486 torch 0.0214552 boards 0.00242801
+align 24 on 1
+align 25 the 1
+align 26 passenger 0.661427 bus 0.122425 passage 0.077029 passengers 0.0625937 persons 0.0606362 buses 0.013806 person's 0.00208374
+align 27 *DELETE* 0.878206 was 0.121794
+align 28 *DELETE* 0.610809 a 0.103606 that 0.0795299 the 0.0546814 sir 0.0518055 are 0.0340397 at 0.0334354 of 0.0223476 i 0.00617519 or 0.0034779 so 8.34525e-05 it 9.00387e-06
+align 29 please 0.878873 he's 0.0674024 ease 0.0123497 this 0.012045 least 0.00991469 piece 0.00730986 peace 0.00509796 police 0.00275614 place 0.00144738 institutes 0.000565261 needs 0.000531019 pleas 0.000351124 i._p.s 0.000314627 appease 0.000311602 pleased 0.000203657 is 0.000129823 things 8.44527e-05 keys 8.34525e-05 placed 6.86791e-05 his 4.31833e-05 institution 4.31536e-05 case 2.2644e-05 incidents 2.21891e-05 i._p.'s 1.33074e-05 lease 1.28312e-05 nice 1.21755e-06 accused 9.16557e-07 east 2.66818e-07 sickness 4.40989e-08 each 3.61965e-08 was 2.06541e-08
+align 30 </s> 1

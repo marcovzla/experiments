@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 0.998012 *DELETE* 0.0019876
+align 3 need 1
+align 4 to 1
+align 5 provide 1
+align 6 *DELETE* 0.9991 a 0.000899711
+align 7 to 1 two 5.98768e-22
+align 8 the 1
+align 9 hospital 0.999931 hospitals 6.92401e-05
+align 10 *DELETE* 0.999995 uh 3.82028e-06 i 8.86147e-07 in 2.21243e-07 you 1.24182e-07 is 1.99613e-09 to 9.31218e-12 and 2.28565e-12
+align 11 </s> 1

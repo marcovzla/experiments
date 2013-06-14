@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 how 0.955736 oh 0.0262339 uh 0.0142597 well 0.00272108 i'll 0.00104905
+align 3 what 0.999828 would 0.000171632
+align 4 *DELETE* 0.989945 it 0.00766001 uh 0.00183075 if 0.000509319 at 5.47411e-05
+align 5 what 1
+align 6 i 1
+align 7 would 1
+align 8 suggest 1
+align 9 is 0.933763 his 0.034809 as 0.0265781 has 0.00485003
+align 10 uh 1
+align 11 prior 1
+align 12 on 1
+align 13 saturday 1
+align 14 we 1
+align 15 can 1
+align 16 start 1
+align 17 doing 1
+align 18 these 1
+align 19 patrols 1
+align 20 and 0.892669 in 0.107331
+align 21 these 0.64078 he's 0.35922
+align 22 uh 1
+align 23 snap 1
+align 24 v._c._p.s 1
+align 25 to 1
+align 26 deny 1
+align 27 the 1
+align 28 uh 1
+align 29 insurgents 1
+align 30 uh 1
+align 31 freedom 0.972426 uh 0.0275739
+align 32 *DELETE* 0.972426 freedom 0.0275739
+align 33 of 1
+align 34 movement 1
+align 35 in 1
+align 36 the 1
+align 37 area 1
+align 38 *DELETE* 0.999982 uh 1.82864e-05
+align 39 </s> 1

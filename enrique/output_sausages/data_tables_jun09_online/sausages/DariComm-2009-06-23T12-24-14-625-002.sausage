@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 testing 0.999773 test 0.000117427 *DELETE* 0.000109318
+align 2 *DELETE* 0.999496 uh 0.000172396 it 0.000139647 tested 0.000109318 a 6.46242e-05 and 8.37147e-06 i 7.16107e-06 you 2.84268e-06 them 2.51849e-08 to 3.62467e-10 in 7.66921e-11 they 3.97358e-11 if 2.65594e-12 tasting 8.36584e-14 the 8.0769e-15
+align 3 </s> 1

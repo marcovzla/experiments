@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999779 i 0.000220721
+align 2 did 0.997664 could 0.00233561
+align 3 you 1
+align 4 buy 1
+align 5 *DELETE* 0.562501 the 0.428 a 0.00839316 it 0.00110609
+align 6 weapons 0.982847 weapon's 0.0171531
+align 7 from 1
+align 8 this 1
+align 9 man 0.999615 manned 0.000361748 man's 1.97643e-05 *DELETE* 3.27781e-06
+align 10 *DELETE* 0.99993 uh 6.12432e-05 i 5.63225e-06 ma'an 2.832e-06 ma'am 4.45777e-07 is 2.52349e-07 mann 3.01683e-11 maan 4.24555e-22
+align 11 </s> 1

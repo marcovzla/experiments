@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 it 0.955683 that 0.0428673 yeah 0.000886169 there 0.000563246
+align 2 *DELETE* 0.999114 it 0.000886169
+align 3 is 1
+align 4 the 1
+align 5 best 1
+align 6 *DELETE* 0.993422 to 0.00657431 that's 2.45027e-06 acts 1.41257e-06 dents 1.34905e-08
+align 7 answer 0.988912 dancer 0.00899278 into 0.00175661 dance 0.000317601 dancing 1.68887e-05 a 2.45027e-06 of 1.41257e-06 in 1.34905e-08 *DELETE* 9.28631e-11
+align 8 *DELETE* 0.999953 of 3.41872e-05 a 7.9326e-06 in 3.81753e-06 to 1.31697e-06
+align 9 that 1 dances 2.68253e-07
+align 10 i 1
+align 11 *DELETE* 0.99919 i 0.000809564
+align 12 have 1
+align 13 to 1
+align 14 be 1
+align 15 able 1
+align 16 do 0.606249 to 0.393751
+align 17 you 0.68513 *DELETE* 0.312755 year 0.00173319 hear 0.00038181 yeah 8.98692e-08
+align 18 have 0.68513 give 0.312755 of 0.00211509
+align 19 *DELETE* 0.999992 a 8.32596e-06
+align 20 </s> 1

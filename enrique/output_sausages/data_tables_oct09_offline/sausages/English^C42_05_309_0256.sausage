@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 if 1
+align 3 you 1
+align 4 can 0.945476 can't 0.0545243
+align 5 if 1
+align 6 something 0.999998 somebody 2.37911e-06
+align 7 comes 1
+align 8 up 1
+align 9 and 1 in 6.02608e-14
+align 10 you 1
+align 11 can 0.610871 can't 0.389129
+align 12 the 0.98786 tell 0.00993585 go 0.00146639 to 0.000738191
+align 13 respond 1
+align 14 in 1
+align 15 three 1
+align 16 days 0.981323 days' 0.0186766
+align 17 just 1
+align 18 call 1
+align 19 me 1
+align 20 and 0.844614 in 0.149225 an 0.00616188
+align 21 we'll 0.66421 will 0.335626 well 0.000163395
+align 22 extend 0.991124 *DELETE* 0.00887638
+align 23 the 0.975034 extended 0.00887638 a 0.00792043 that 0.00597644 to 0.00219271
+align 24 time 1
+align 25 *DELETE* 0.999993 i 4.30376e-06 uh 2.97256e-06
+align 26 </s> 1

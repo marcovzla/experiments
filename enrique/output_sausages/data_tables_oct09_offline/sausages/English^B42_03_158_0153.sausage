@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 uh 3.75974e-09
+align 2 okay 1
+align 3 if 1
+align 4 you 1
+align 5 could 1
+align 6 *DELETE* 0.979638 get 0.0203623
+align 7 uh 1
+align 8 we'll 0.704961 will 0.235543 uh 0.0553788 *DELETE* 0.00407424 war 4.24961e-05 what's 2.39731e-09
+align 9 *DELETE* 0.888566 we'll 0.0552271 who 0.052217 we 0.00398975
+align 10 war 0.66626 wore 0.331195 or 0.00153962 warm 0.000666668 were 0.000259297 *DELETE* 8.01476e-05
+align 11 what's 0.999139 once 0.00086133 *DELETE* 2.07818e-12
+align 12 your 0.998445 you're 0.00086133 here 0.000693875
+align 13 most 1
+align 14 important 1
+align 15 to 0.971648 *DELETE* 0.0283519
+align 16 uh 1
+align 17 *DELETE* 0.999992 uh 7.78498e-06
+align 18 most 1
+align 19 pressing 1
+align 20 need 0.998128 aid 0.000968023 knead 0.00061997 made 0.000250729 needs 3.36491e-05
+align 21 </s> 1

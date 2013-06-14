@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 you're 1 you 1.87149e-07
+align 2 *DELETE* 1 are 1.87149e-07
+align 3 a 1
+align 4 liar 1
+align 5 and 0.991281 *DELETE* 0.00871867
+align 6 not 1
+align 7 a 1
+align 8 very 1
+align 9 good 1 goodwill 9.86539e-08
+align 10 one 0.998794 man 0.000469472 want 0.000268323 ones 0.000257756 won 9.81631e-05 willing 6.53566e-05 on 3.89407e-05 lawn 7.47694e-06 wound 1.51376e-07 we'll 1.6538e-09 when 4.19754e-10
+align 11 *DELETE* 1 on 1.6538e-09
+align 12 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 with 1
+align 4 all 1
+align 5 the 0.999988 that 1.22636e-05
+align 6 trash 1
+align 7 *DELETE* 0.99966 in 0.000197685 uh 0.000126265 to 9.99522e-06 i 5.72935e-06 out 4.91137e-07 do 5.66122e-09 the 7.76335e-13
+align 8 </s> 1

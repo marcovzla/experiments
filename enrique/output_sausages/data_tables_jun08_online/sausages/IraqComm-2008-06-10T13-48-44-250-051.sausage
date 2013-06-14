@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 a 0.734961 the 0.190009 uh 0.0643297 no 0.00846068 *DELETE* 0.0022395
+align 2 threat 1
+align 3 please 0.9999 pleas 9.96207e-05
+align 4 repeat 1
+align 5 *DELETE* 0.995191 it 0.00429807 i 0.000476469 uh 2.61569e-05 a 7.88942e-06 in 1.72859e-14 the 1.80579e-15
+align 6 </s> 1

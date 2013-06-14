@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 any 1
+align 4 problem 1
+align 5 with 1
+align 6 the 0.997692 this 0.00230751
+align 7 sewerage 0.997685 sewage 0.00231548
+align 8 *DELETE* 0.999999 is 1.44719e-06 in 2.94367e-08 a 3.7811e-10 it 6.01773e-14 and 9.26764e-15
+align 9 </s> 1

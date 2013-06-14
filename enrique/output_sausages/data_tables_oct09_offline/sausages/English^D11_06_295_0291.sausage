@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 we're 0.997209 we 0.00264503 were 0.000145798
+align 3 *DELETE* 0.997355 were 0.00264503
+align 4 going 1
+align 5 to 0.998374 *DELETE* 0.00162648
+align 6 end 0.891423 in 0.0545884 and 0.0527635 *DELETE* 0.00122509
+align 7 up 0.679217 the 0.166701 of 0.115866 a 0.0124243 uh 0.0115053 that 0.00637646 out 0.00407113 handle 0.0012148 they'll 0.000809338 they're 0.000613189 then 0.000504436 they 0.000479341 in 0.000132816 to 8.47763e-05
+align 8 *DELETE* 0.99999 and 1.02833e-05
+align 9 *DELETE* 0.99999 that 1.02833e-05
+align 10 setting 1
+align 11 up 1
+align 12 a 1
+align 13 dental 1
+align 14 facility 1
+align 15 for 0.999911 four 8.92127e-05
+align 16 you 1 u 1.85493e-07
+align 17 *DELETE* 1 i 1.06137e-07
+align 18 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 yeah 0.757188 now 0.144675 no 0.0979198 you 0.000217566
+align 2 *DELETE* 0.999782 know 0.000217566
+align 3 the 1
+align 4 platoon 0.999059 petition 0.000940735
+align 5 *DELETE* 0.394098 out 0.333605 to 0.120078 that 0.0871132 and 0.0252801 at 0.0233248 net 0.00843868 i'm 0.00287239 it 0.00258457 add 0.00242014 down 0.000185534
+align 6 i'll 0.665985 that'll 0.222068 i 0.105589 all 0.00635672 al 1.10594e-06
+align 7 *DELETE* 0.894411 will 0.102575 i'll 0.00301357
+align 8 be 1
+align 9 coming 1
+align 10 with 0.539545 will 0.230546 we'll 0.229909
+align 11 pull 0.489772 will 0.236733 we'll 0.232098 full 0.0298276 pool 0.0115696
+align 12 have 1
+align 13 uh 0.94363 um 0.0552123 a 0.00115794
+align 14 forty 1
+align 15 five 1
+align 16 marines 0.999896 marines' 5.75263e-05 marine's 4.68735e-05
+align 17 </s> 1

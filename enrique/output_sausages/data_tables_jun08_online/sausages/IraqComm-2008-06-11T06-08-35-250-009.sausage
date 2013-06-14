@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 0.99906 i 0.000940096
+align 2 did 1
+align 3 you 1
+align 4 sleep 1
+align 5 *DELETE* 0.999343 in 0.000331472 uh 0.000172522 on 5.60446e-05 i 4.79934e-05 a 4.62172e-05 at 2.3408e-06 well 1.55724e-09 way 1.28025e-09 now 8.98226e-13 were 6.25201e-14 we 1.59927e-15
+align 6 </s> 1

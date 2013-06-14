@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.96892 uh 0.0310798
+align 3 worst 0.280129 *DELETE* 0.236406 where's 0.233947 we're 0.141644 where 0.0654 worse 0.035717 were 0.00506596 wears 0.00169138
+align 4 *DELETE* 0.862997 is 0.113633 it's 0.0233697
+align 5 less 0.319781 worthless 0.236406 most 0.167228 suppose 0.0749064 let's 0.0709259 my 0.0613824 go 0.018848 not 0.0157491 was 0.0147352 unless 0.0122571 *DELETE* 0.00336806 nice 0.00246785 now 0.0014992 so 0.000200346 no 0.000186987 i 5.74228e-05
+align 6 you 0.890798 see 0.102253 rusty 0.00336806 c 0.0023037 sea 0.00115214 she 0.000125113 *DELETE* 6.17234e-10
+align 7 were 0.953126 we're 0.0468732 ciera 3.83733e-07
+align 8 coming 1
+align 9 from 1
+align 10 *DELETE* 0.999912 a 4.31083e-05 uh 4.21789e-05 the 2.09279e-06 i 8.46013e-07 to 2.46422e-07
+align 11 </s> 1

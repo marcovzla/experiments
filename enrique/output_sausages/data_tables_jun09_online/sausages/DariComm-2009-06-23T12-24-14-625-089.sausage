@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 0.999878 i'll 0.00011428 *DELETE* 7.96859e-06
+align 3 will 0.999878 i'll 0.000122248
+align 4 get 0.997015 give 0.00298547
+align 5 better 0.997737 a 0.00226338
+align 6 *DELETE* 0.997182 better 0.00226338 or 0.00055462 it 1.45914e-15 we 2.00661e-18
+align 7 equipment 0.984988 equip 0.0145873 *DELETE* 0.000425133 would 1.45914e-15 can 2.00661e-18
+align 8 *DELETE* 0.983983 you 0.00957384 them 0.00408589 uh 0.00068809 him 0.000399219 equipping 0.000355017 thing 0.000298895 i 0.000243737 and 0.000197538 equipments 4.57131e-05 do 3.73697e-05 it 3.44288e-05 equipped 2.44035e-05 to 2.00664e-05 pink 1.0429e-05 a 1.11933e-06 than 7.52514e-07 in 3.17124e-07 think 1.6006e-07 um 2.38472e-08 the 8.13318e-11 whipping 2.00661e-18
+align 9 *DELETE* 1 it 5.50675e-12
+align 10 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.999527 white 0.000473104
+align 2 else 0.961372 house 0.0386122 is 1.58741e-05
+align 3 does 0.999984 to 1.5876e-05
+align 4 the 1
+align 5 hospital 1
+align 6 need 1
+align 7 *DELETE* 0.999404 uh 0.000552595 it 4.25593e-05 a 4.78758e-07 to 4.51115e-09
+align 8 </s> 1

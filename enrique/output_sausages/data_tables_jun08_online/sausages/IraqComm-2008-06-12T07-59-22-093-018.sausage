@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we 0.999607 well 0.000344078 what 4.92664e-05
+align 2 are 0.999462 you're 0.000344078 were 9.83851e-05 have 9.53644e-05
+align 3 here 1
+align 4 to 1
+align 5 help 1
+align 6 today 1
+align 7 *DELETE* 1 uh 1.48085e-07 you 2.831e-23
+align 8 </s> 1

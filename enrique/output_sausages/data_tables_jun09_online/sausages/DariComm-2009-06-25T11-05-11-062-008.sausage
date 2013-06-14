@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 1
+align 2 play 1 plane 7.82641e-16
+align 3 instructions 1 shock 7.82641e-16
+align 4 *DELETE* 0.999888 i 9.47814e-05 to 1.41569e-05 you 2.72314e-06 uh 9.31429e-08 in 9.16254e-10 and 4.0253e-11 do 5.94812e-12 it 7.59437e-14 are 3.08015e-14 chance 7.82641e-16 since 5.42614e-23
+align 5 </s> 1

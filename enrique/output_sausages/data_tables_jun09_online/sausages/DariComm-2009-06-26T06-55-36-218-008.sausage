@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 food 1
+align 6 to 1
+align 7 eat 1
+align 8 in 0.999999 *DELETE* 7.22408e-11
+align 9 your 0.999996 her 2.81623e-06 inner 1.35234e-06 dinner 5.09594e-20
+align 10 village 1
+align 11 *DELETE* 0.999966 are 1.73114e-05 and 1.52092e-05 to 1.19105e-06 in 2.39656e-08 sir 2.36968e-09 i 3.5102e-13
+align 12 </s> 1

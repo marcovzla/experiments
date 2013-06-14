@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 eat 0.681588 you 0.239839 be 0.0289991 he 0.0194101 the 0.0141173 *DELETE* 0.0122737 a 0.00305795 they 0.000715045
+align 4 breakfast 0.999999 back 5.75816e-07 pack 2.61749e-09
+align 5 *DELETE* 0.999387 uh 0.000229478 um 0.000209024 a 6.43741e-05 i 4.06947e-05 in 3.93545e-05 at 2.18859e-05 it 6.55294e-06 and 1.14767e-06 this 5.78434e-07 too 1.69643e-10 is 2.8054e-13 as 2.3973e-16 to 5.86236e-17 the 1.6475e-18
+align 6 *DELETE* 1 is 7.62914e-13
+align 7 </s> 1

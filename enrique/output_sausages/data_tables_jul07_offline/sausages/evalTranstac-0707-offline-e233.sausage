@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 0.97559 we'll 0.0244098
+align 3 give 1
+align 4 you 1
+align 5 ten 1
+align 6 percent 1
+align 7 of 1
+align 8 the 1
+align 9 total 1
+align 10 cost 1
+align 11 of 1
+align 12 the 1
+align 13 project 1
+align 14 *DELETE* 0.999999 i 7.61357e-07 uh 1.89661e-07
+align 15 </s> 1

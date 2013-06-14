@@ -1,0 +1,51 @@
+numaligns 49
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 what 1
+align 3 i 1
+align 4 can 1
+align 5 do 1
+align 6 is 1
+align 7 uh 0.976437 a 0.023563
+align 8 prior 0.980469 uh 0.0195311
+align 9 *DELETE* 0.980469 prior 0.0195311
+align 10 to 1
+align 11 each 0.898983 you 0.101017
+align 12 *DELETE* 0.898983 each 0.101017
+align 13 patrol 1
+align 14 going 1
+align 15 out 1
+align 16 uh 1
+align 17 i'll 1
+align 18 make 1
+align 19 sure 1
+align 20 that 1
+align 21 each 1
+align 22 uh 0.763565 shell 0.156222 shop 0.0643533 of 0.0127709 up 0.00308915
+align 23 patrol 1
+align 24 leader 1
+align 25 has 1
+align 26 um 0.643994 uh 0.355997 a 9.66988e-06
+align 27 *DELETE* 0.942149 uh 0.0578507
+align 28 the 1
+align 29 updated 1
+align 30 uh 0.968719 um 0.0302969 a 0.000983973
+align 31 intelligence 0.978584 uh 0.0214159
+align 32 *DELETE* 0.978584 intelligence 0.0214159
+align 33 for 1
+align 34 the 1
+align 35 area 1
+align 36 to 1
+align 37 include 1
+align 38 the 0.917203 uh 0.082797
+align 39 the 0.960842 uh 0.0391575
+align 40 *DELETE* 0.960842 the 0.0391575
+align 41 bahloul 0.661534 but 0.182208 below 0.148535 boat 0.0052457 ballou 0.00221224 ball 0.000264134
+align 42 *DELETE* 0.758562 we'll 0.11563 will 0.0718238 a 0.053984
+align 43 list 1
+align 44 and 0.964618 in 0.0353815
+align 45 the 0.71935 a 0.275428 *DELETE* 0.00383519 i 0.00138689
+align 46 watch 1
+align 47 list 0.999731 lists 0.000268901
+align 48 </s> 1

@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 well 0.983869 no 0.0161272 rail 3.62886e-06
+align 2 i 0.70115 uh 0.29885
+align 3 *DELETE* 0.691905 i 0.308095
+align 4 would 0.991346 don't 0.00865383
+align 5 like 1
+align 6 to 1
+align 7 inspect 1
+align 8 your 1
+align 9 gates 1
+align 10 ensure 0.845851 in 0.152932 unsure 0.0012168
+align 11 *DELETE* 0.847068 sure 0.152932
+align 12 that 1
+align 13 you 0.96501 do 0.0349903
+align 14 *DELETE* 0.96501 you 0.0349903
+align 15 have 0.995108 had 0.00489169
+align 16 the 0.83337 be 0.16663
+align 17 adequate 1
+align 18 amount 0.578055 among 0.415202 a 0.00374744 amman 0.00196201 iman 0.00102113 um 1.23213e-05
+align 19 *DELETE* 0.987846 of 0.00839421 month 0.00287945 man 0.000867988 um 1.23213e-05
+align 20 guards 0.992036 guard's 0.00423577 guards' 0.00372801
+align 21 at 0.990328 that 0.0064502 it 0.00180076 if 0.00142061 of 3.82039e-07
+align 22 these 0.92506 the 0.0403242 each 0.0343325 ease 0.000253023 this 3.02693e-05 peace 3.82039e-07
+align 23 dates 0.667999 gates 0.25057 gate 0.0378941 states 0.0266313 state 0.0099535 state's 0.00277329 kids 0.0021222 streets 0.000891555 gate's 0.000653872 date 0.00022836 street 0.000221872 gait 4.12704e-05 gauge 9.87205e-06 street's 6.05964e-06 estates 2.99156e-06 kate 8.93045e-07
+align 24 *DELETE* 1 to 4.10216e-09
+align 25 </s> 1

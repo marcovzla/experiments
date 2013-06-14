@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 you 1
+align 3 need 0.65076 know 0.34924
+align 4 american 0.998842 the 0.00115848
+align 5 *DELETE* 0.998842 american 0.00115848
+align 6 assistance 0.652026 assistants 0.321541 assistant's 0.0264324
+align 7 during 1
+align 8 the 1 *DELETE* 3.83056e-16 a 2.99467e-25
+align 9 mission 1 *DELETE* 4.45037e-26
+align 10 *DELETE* 0.999998 is 1.46664e-06 uh 4.7226e-08 i 3.2472e-14 missions 9.72235e-21
+align 11 </s> 1

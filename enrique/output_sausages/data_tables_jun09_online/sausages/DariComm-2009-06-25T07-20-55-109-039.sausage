@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 this 0.979881 *DELETE* 0.00909532 its 0.00783513 it's 0.00318844
+align 2 location 0.990905 dislocation 0.00909532
+align 3 right 0.999245 write 0.000462744 *DELETE* 0.000251264 white 4.11301e-05 writing 2.27261e-09 run 7.16003e-10
+align 4 here 0.993261 now 0.00309958 there 0.00241875 *DELETE* 0.0011777 while 3.25371e-05 in 1.05047e-05
+align 5 *DELETE* 0.997216 uh 0.00182883 i 0.000231961 you 0.000203303 or 0.000198566 writer 0.00017521 lighter 4.35165e-05 her 3.54566e-05 um 2.85788e-05 near 2.54479e-05 here 1.05047e-05 hear 2.34315e-06 in 1.88861e-07 is 1.68136e-07 and 9.48359e-08 i'm 4.25681e-10 runner 3.11249e-14 writing 1.81902e-14 are 4.14163e-20 life 1.61996e-25
+align 6 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what's 1
+align 2 the 1
+align 3 problem 0.999745 *DELETE* 0.000254775
+align 4 *DELETE* 0.994364 i 0.0038313 uh 0.00154812 problems 0.000254775 there 9.89714e-07 is 8.70274e-07 now 1.1909e-07 with 2.62883e-09 if 6.25134e-11 that 2.90789e-14
+align 5 </s> 1

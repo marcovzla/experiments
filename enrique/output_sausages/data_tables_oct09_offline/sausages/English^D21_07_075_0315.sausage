@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.676031 oh 0.181192 why 0.140907 what 0.000977423 how 0.000505509 wow 0.000177244 well 0.000120611 i 6.8417e-05 where 2.02481e-05 when 3.34938e-07
+align 2 *DELETE* 0.992379 why 0.00762105
+align 3 why's 0.559574 is 0.323879 wise 0.115939 was 0.000532842 allies 7.12733e-05 i 3.37738e-06
+align 4 *DELETE* 0.999997 was 3.37738e-06
+align 5 that 0.94562 out 0.0543803
+align 6 are 0.953472 uh 0.042081 of 0.00444745
+align 7 the 1
+align 8 most 1
+align 9 common 1
+align 10 a 0.919535 uh 0.0804145 in 4.29444e-05 or 8.08123e-06
+align 11 *DELETE* 0.999949 a 4.29444e-05 uh 8.08123e-06
+align 12 gunshot 1
+align 13 wound 0.992107 wounds 0.00789337 one 3.17947e-08 when 1.16385e-08 were 4.0692e-09 will 1.58915e-09 we'll 9.15876e-12 well 6.49338e-12
+align 14 </s> 1

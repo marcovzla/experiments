@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 was 0.992399 is 0.00760114
+align 3 it 1 that 5.06638e-14
+align 4 damaged 1
+align 5 *DELETE* 1 i 7.85228e-09
+align 6 </s> 1

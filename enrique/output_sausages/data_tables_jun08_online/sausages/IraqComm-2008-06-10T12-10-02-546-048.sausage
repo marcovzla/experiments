@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999482 i 0.000518402
+align 2 have 1
+align 3 you 1
+align 4 talked 0.739153 talk 0.260847
+align 5 to 1
+align 6 *DELETE* 0.802492 the 0.110383 a 0.087125
+align 7 local 1
+align 8 leaders 0.99789 *DELETE* 0.00210957
+align 9 *DELETE* 0.992337 sir 0.00555315 liters 0.00197542 leader's 0.000108593 leaders' 2.55655e-05 so 9.59262e-13
+align 10 </s> 1

@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 computer 1
+align 2 play 0.989997 plan 0.00520584 apply 0.00479742
+align 3 instructions 1
+align 4 </s> 1

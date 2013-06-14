@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 describe 1
+align 4 the 0.997093 this 0.00290685
+align 5 screening 1 screen 4.74184e-07
+align 6 process 1
+align 7 *DELETE* 0.999988 uh 1.23658e-05 i 5.20182e-12 so 3.67561e-12
+align 8 </s> 1

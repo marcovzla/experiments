@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 big 1
+align 3 is 1
+align 4 your 1
+align 5 company 1
+align 6 *DELETE* 0.999866 uh 0.000133276 is 6.18897e-07
+align 7 </s> 1

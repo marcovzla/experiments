@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 been 1
+align 6 living 1
+align 7 here 1
+align 8 *DELETE* 1 i 4.63624e-12
+align 9 </s> 1

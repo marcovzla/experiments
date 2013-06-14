@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 screen 0.993833 screened 0.00356907 scream 0.00251639 screamed 8.12902e-05
+align 5 them 0.999276 then 0.000724184 *DELETE* 1.45498e-13
+align 6 *DELETE* 0.999931 uh 5.06993e-05 i 1.39164e-05 a 4.32343e-06 in 1.36471e-07 the 2.55432e-11
+align 7 </s> 1

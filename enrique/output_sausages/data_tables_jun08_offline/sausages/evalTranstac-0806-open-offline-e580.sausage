@@ -1,0 +1,60 @@
+numaligns 58
+posterior 1
+align 0 <s> 1
+align 1 uh 0.900748 *DELETE* 0.0992524
+align 2 uh 0.534262 well 0.126154 *DELETE* 0.121166 what 0.119146 um 0.0992524 while 2.00285e-05
+align 3 what 0.742339 *DELETE* 0.24532 well 0.0123412
+align 4 we 1
+align 5 can 1
+align 6 do 1
+align 7 is 1
+align 8 here 0.975112 hear 0.0248881
+align 9 we'll 0.459811 well 0.30792 will 0.232269
+align 10 have 0.998779 *DELETE* 0.00122142
+align 11 multiple 1
+align 12 search 1
+align 13 lanes 0.877326 planes 0.11304 a 0.00781954 plains 0.00181502
+align 14 *DELETE* 0.99218 lanes 0.00781954
+align 15 in 1
+align 16 this 1
+align 17 area 1
+align 18 here 1
+align 19 and 0.997943 in 0.0020573
+align 20 then 0.986648 and 0.0133521
+align 21 just 1
+align 22 off 1
+align 23 below 0.999051 blow 0.0009491
+align 24 it 0.871523 what 0.127807 if 0.000669746
+align 25 if 1
+align 26 there's 0.859068 there 0.0913366 they're 0.036247 their 0.0133483
+align 27 someone 1
+align 28 that 1
+align 29 we 1
+align 30 need 1
+align 31 to 1
+align 32 uh 1
+align 33 *DELETE* 0.876603 uh 0.123261 i 0.00013597
+align 34 take 1
+align 35 a 0.999669 *DELETE* 0.000330646
+align 36 harder 1
+align 37 look 1
+align 38 at 0.977724 uh 0.0222761
+align 39 we 1
+align 40 can 0.929097 could 0.070828 can't 7.46138e-05
+align 41 bring 1
+align 42 them 1
+align 43 off 1
+align 44 over 1
+align 45 here 1
+align 46 and 0.974976 in 0.0250241
+align 47 we 1
+align 48 can 1
+align 49 do 1
+align 50 you 0.858838 *DELETE* 0.141162
+align 51 know 0.710385 help 0.249357 up 0.0233619 oh 0.00594052 owe 0.0049734 go 0.00469109 it 0.000584211 *DELETE* 0.000399294 all 0.000307655
+align 52 a 0.469973 i'm 0.317927 how 0.0989979 *DELETE* 0.0959873 or 0.0081664 of 0.00421777 who 0.00366695 i'll 0.000373981 to 0.000255812 all 0.000181915 for 0.000101965 home 7.60014e-05 it 5.27224e-05 on 2.17923e-05
+align 53 more 0.999794 i'm 0.000187269 or 1.87567e-05
+align 54 *DELETE* 0.999813 more 0.000187269
+align 55 detailed 0.998913 detail 0.000985851 details 0.000101023
+align 56 search 1
+align 57 </s> 1

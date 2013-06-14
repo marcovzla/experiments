@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 the 0.622574 a 0.250372 it 0.127055
+align 3 doctor 1
+align 4 ever 0.997269 every 0.00273141
+align 5 visit 1
+align 6 your 0.999405 you're 0.000595392
+align 7 village 1
+align 8 *DELETE* 0.999999 i 3.6559e-07 uh 2.01586e-07 do 1.01554e-08
+align 9 </s> 1

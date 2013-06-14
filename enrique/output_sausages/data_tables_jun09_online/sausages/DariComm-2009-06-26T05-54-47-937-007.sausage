@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 gentleman 0.787258 gentlemen 0.212281 german 0.00046114
+align 4 *DELETE* 0.999488 uh 0.000320723 i 0.000183556 can 7.93825e-06 okay 5.54091e-08 it 3.16257e-17 to 1.08783e-17 oh 3.27759e-18
+align 5 </s> 1

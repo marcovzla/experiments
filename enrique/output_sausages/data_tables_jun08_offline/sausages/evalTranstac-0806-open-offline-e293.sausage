@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 that 0.992313 the 0.00768673
+align 2 *DELETE* 0.996734 at 0.00326617
+align 3 their 0.948574 they're 0.0482654 there 0.00316066
+align 4 weapon 1
+align 5 is 1
+align 6 clean 1
+align 7 and 1
+align 8 that 0.99952 then 0.000479667
+align 9 they 1
+align 10 have 1
+align 11 uh 1
+align 12 *DELETE* 0.993523 uh 0.00647653
+align 13 they 1
+align 14 have 1
+align 15 magazines 1
+align 16 with 1
+align 17 ammunition 0.979256 the 0.0207436
+align 18 *DELETE* 0.979256 ammunition 0.0207436
+align 19 and 1
+align 20 that 0.993788 then 0.00536184 there 0.000850097
+align 21 they 1
+align 22 have 1
+align 23 the 0.887341 their 0.105835 they're 0.00444873 your 0.00235743 they 1.84941e-05
+align 24 *DELETE* 0.999982 are 1.84941e-05
+align 25 required 1
+align 26 *DELETE* 0.999976 to 2.35381e-05
+align 27 equipment 0.999957 equipments 4.3069e-05
+align 28 *DELETE* 0.999999 uh 7.06949e-07
+align 29 </s> 1

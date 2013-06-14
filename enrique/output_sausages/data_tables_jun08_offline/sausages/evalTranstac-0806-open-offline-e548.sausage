@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.971137 there 0.028132 they're 0.000730594
+align 2 and 1
+align 3 that's 1
+align 4 what 1
+align 5 we're 0.986263 were 0.0137368
+align 6 *DELETE* 0.99897 going 0.00103006
+align 7 gonna 0.99897 to 0.00103006
+align 8 have 1
+align 9 the 0.961584 a 0.0207224 to 0.0135007 big 0.00396943 they 0.00022394
+align 10 guys 0.684608 guy's 0.273835 gas 0.0385815 guys' 0.00297572
+align 11 come 0.834168 *DELETE* 0.164803 coming 0.00102884
+align 12 in 0.834348 coming 0.164803 *DELETE* 0.000718929 and 0.000130011
+align 13 from 1
+align 14 the 1
+align 15 east 0.999944 *DELETE* 5.56553e-05
+align 16 and 0.999944 eastern 5.56553e-05 in 1.24753e-07
+align 17 west 0.999112 the 0.000888285 wes 5.07697e-08
+align 18 *DELETE* 0.999112 west 0.000888285
+align 19 </s> 1

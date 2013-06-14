@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 0.998792 uh 0.00120841
+align 2 *DELETE* 0.995433 i 0.00456739
+align 3 have 0.999946 had 5.44761e-05
+align 4 to 1
+align 5 check 1
+align 6 with 1
+align 7 our 1
+align 8 detention 1
+align 9 facility 1
+align 10 and 1
+align 11 find 0.999997 finding 2.63142e-06
+align 12 out 1
+align 13 *DELETE* 0.999995 uh 5.05391e-06
+align 14 </s> 1

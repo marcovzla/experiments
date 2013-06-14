@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 rephrase 1
+align 2 please 1
+align 3 *DELETE* 1 uh 5.60529e-10 do 8.67881e-12
+align 4 </s> 1

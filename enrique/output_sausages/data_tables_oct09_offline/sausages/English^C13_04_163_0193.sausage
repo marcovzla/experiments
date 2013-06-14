@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 can 0.588498 could 0.411502
+align 3 you 1
+align 4 tell 1
+align 5 me 1
+align 6 his 0.998679 is 0.000937138 whose 0.000383677
+align 7 name 1
+align 8 again 1 we 9.92217e-13 a 9.84131e-15
+align 9 *DELETE* 1 get 9.92217e-13 good 9.84131e-15
+align 10 </s> 1

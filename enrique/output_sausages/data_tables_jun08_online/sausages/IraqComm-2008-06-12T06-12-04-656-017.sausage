@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 here 0.989854 going 0.0101459
+align 3 to 1
+align 4 talk 1
+align 5 to 1
+align 6 you 1
+align 7 about 1
+align 8 vehicle 1
+align 9 checkpoints 1
+align 10 and 0.999629 in 0.000370918
+align 11 searches 1
+align 12 *DELETE* 1 uh 5.67922e-12
+align 13 </s> 1

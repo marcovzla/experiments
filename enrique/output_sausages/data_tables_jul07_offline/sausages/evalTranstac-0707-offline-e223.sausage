@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 but 1
+align 3 that 1
+align 4 is 1
+align 5 the 1
+align 6 that 1
+align 7 is 1
+align 8 the 1
+align 9 best 1
+align 10 we 1
+align 11 can 1
+align 12 do 0.999993 go 6.92029e-06 deal 7.07621e-11 to 7.55043e-12
+align 13 *DELETE* 0.999339 uh 0.000375762 it 0.000247263 i 3.07002e-05 a 7.22643e-06 is 3.88867e-07
+align 14 </s> 1

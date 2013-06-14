@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 *DELETE* 0.999546 i 0.000454
+align 3 have 1
+align 4 the 1
+align 5 driver 1
+align 6 search 0.981511 searched 0.0184891
+align 7 the 1
+align 8 vehicle 1
+align 9 with 1
+align 10 you 1
+align 11 *DELETE* 0.99997 uh 3.00361e-05 i 1.39463e-12 at 3.68515e-13
+align 12 </s> 1

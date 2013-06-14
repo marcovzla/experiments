@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 well 0.421472 why 0.339974 one 0.159512 now 0.0690532 yeah 0.00929467 right 0.000687052 oh 6.16206e-06
+align 2 is 1
+align 3 this 1
+align 4 *DELETE* 0.821627 is 0.178373
+align 5 a 0.613339 to 0.383712 they 0.00292732 *DELETE* 2.16992e-05
+align 6 good 0.613339 go 0.386229 *DELETE* 0.000409891 sir 2.16992e-05
+align 7 out 0.327784 what 0.224828 *DELETE* 0.189709 work 0.135125 it 0.0433293 like 0.0232259 bad 0.017341 up 0.0154278 look 0.0149402 but 0.00331884 not 0.00326993 god 0.00170083
+align 8 factory 1
+align 9 import 0.558118 important 0.356555 *DELETE* 0.0853198 in 6.88307e-06
+align 10 *DELETE* 0.999993 port 6.88307e-06
+align 11 it 0.557616 *DELETE* 0.357228 imported 0.0849387 employed 0.000217284
+align 12 *DELETE* 0.99747 uh 0.00137246 at 0.000640615 in 0.00027381 importance 0.000108065 it 7.83884e-05 and 5.6564e-05
+align 13 *DELETE* 0.999612 i 0.000241047 important 4.87897e-05 now 4.76006e-05 do 2.58511e-05 you 1.01266e-05 a 7.27006e-06 imported 6.97274e-06 um 1.10158e-07 to 2.80103e-09 importing 7.31786e-11 importer 2.58866e-13 if 2.28139e-13
+align 14 </s> 1

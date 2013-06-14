@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 0.89456 *DELETE* 0.10544
+align 2 is 0.89456 where's 0.10544
+align 3 the 0.975606 this 0.0242512 that 0.000142386
+align 4 school 1
+align 5 located 1
+align 6 at 0.999848 out 0.000103161 uh 2.66121e-05 that 1.44402e-05 up 7.90748e-06 a 1.20808e-07 i 3.02026e-10
+align 7 *DELETE* 0.999743 uh 0.000120909 a 8.64409e-05 at 4.37131e-05 it 3.10496e-06 all 1.46194e-06 i 1.17985e-06 the 9.39811e-08
+align 8 </s> 1

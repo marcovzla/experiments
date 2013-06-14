@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 commander 0.951124 no 0.0284684 when 0.020408 amana 2.94575e-08 many 2.46355e-09 amanda 2.23259e-09
+align 2 *DELETE* 0.951124 the 0.0488764
+align 3 for 0.844605 phone 0.0785585 *DELETE* 0.0559602 far 0.0208762
+align 4 how 0.943768 farhan 0.0559602 *DELETE* 0.00020664 her 4.46401e-05 high 2.02923e-05
+align 5 do 0.999664 hunting 0.00014512 and 0.000105437 hand 6.15207e-05 can 2.3649e-05
+align 6 you 1
+align 7 have 1
+align 8 any 1
+align 9 problems 0.553508 problem 0.446492
+align 10 street 0.843232 to 0.151392 treat 0.00537649
+align 11 for 0.48421 four 0.286795 report 0.151392 or 0.0508903 pour 0.0177915 *DELETE* 0.00467308 war 0.00424788
+align 12 *DELETE* 0.994167 more 0.00267445 it 0.00107074 port 0.000820364 core 0.000352527 poor 0.00033329 fore 0.000223631 wore 0.00017369 corps 9.51297e-05 uh 4.4495e-05 a 4.19696e-05 i 2.35517e-06
+align 13 </s> 1

@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i'm 0.892548 *DELETE* 0.107452
+align 3 sure 0.907334 ensure 0.0926662
+align 4 that 1
+align 5 they 0.989064 the 0.0109361
+align 6 understand 1
+align 7 that 0.575949 the 0.424051
+align 8 the 0.990561 they 0.00942357 they're 1.57438e-05 there 5.89815e-12
+align 9 necessities 0.943241 necessity 0.0567587
+align 10 of 0.9457 for 0.0265771 food 0.0257405 *DELETE* 0.00108265 from 0.000671278 to 0.000228752
+align 11 and 0.788321 them 0.0998877 in 0.0692967 an 0.0233382 than 0.0107374 then 0.00649174 seven 0.00108265 him 0.000844716
+align 12 stay 1
+align 13 away 0.620922 awake 0.378259 a 0.000818879
+align 14 *DELETE* 0.999181 wake 0.000818879 he 1.48219e-08
+align 15 can 0.492262 and 0.314755 you 0.132337 in 0.0602714 *DELETE* 0.000375064
+align 16 *DELETE* 0.866999 can 0.132337 do 0.000663628
+align 17 be 0.861228 the 0.0976618 you 0.0378707 b 0.00250577 candy 0.000375064 do 0.000358986
+align 18 *DELETE* 0.999641 you 0.000358986
+align 19 observing 0.716754 observant 0.215244 observed 0.0540115 observe 0.0132239 observer 0.000766326
+align 20 *DELETE* 0.931998 and 0.0517801 him 0.012386 in 0.00383562
+align 21 while 1
+align 22 they're 0.998809 there 0.00119076
+align 23 on 1
+align 24 duty 0.999861 t._v. 0.0001385 today 2.89089e-07 tuesday 1.03981e-08
+align 25 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 0.992729 if 0.00707594 *DELETE* 0.000195132
+align 2 you 1
+align 3 need 1
+align 4 our 1
+align 5 help 1
+align 6 after 0.977638 uh 0.0223622
+align 7 *DELETE* 0.977638 after 0.0223622
+align 8 the 0.999944 their 3.0913e-05 they 1.21378e-05 them 1.00506e-05 that 3.1678e-06
+align 9 mission 0.999541 missions 0.000451404 *DELETE* 7.72741e-06
+align 10 *DELETE* 0.995937 uh 0.00171806 is 0.000818433 in 0.000408282 you 0.000386396 i 0.000315818 to 0.000179814 um 0.000101596 it 8.57384e-05 and 2.95083e-05 nation 7.72741e-06 now 5.79102e-06 then 5.40093e-06 of 3.07862e-10 too 2.88844e-11 them 2.4943e-12 but 6.0206e-14
+align 11 </s> 1

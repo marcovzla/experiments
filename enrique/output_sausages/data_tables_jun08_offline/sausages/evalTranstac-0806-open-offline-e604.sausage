@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 take 1
+align 3 care 0.999354 *DELETE* 0.000646366
+align 4 of 0.845087 *DELETE* 0.112941 it 0.028385 at 0.0129405 kick 0.000646366
+align 5 control 1
+align 6 of 0.999964 in 3.63563e-05
+align 7 the 0.981518 this 0.0184824
+align 8 situation 1
+align 9 </s> 1

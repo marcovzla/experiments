@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 great 1
+align 3 after 1
+align 4 we 1
+align 5 take 1
+align 6 care 1
+align 7 of 1
+align 8 the 1
+align 9 talaban 0.999683 talla 0.000317419
+align 10 *DELETE* 0.999683 band 0.000317419
+align 11 we 1
+align 12 can 1
+align 13 come 1
+align 14 back 1
+align 15 here 1
+align 16 and 0.987049 in 0.0129507
+align 17 have 0.999906 i 9.37671e-05 had 5.07708e-17
+align 18 *DELETE* 0.999906 have 9.37671e-05
+align 19 dinner 0.915111 been 0.081781 *DELETE* 0.00186502 done 0.00123161 them 1.02939e-05 bennett 6.88382e-07 didn't 2.56704e-07 dental 3.35864e-09 bina 1.90408e-15 bin 1.45542e-20
+align 20 *DELETE* 0.915463 it 0.0325962 there 0.011547 in 0.00815923 here 0.00670087 a 0.0057287 at 0.00439185 to 0.00381792 uh 0.00276774 hit 0.00190403 dented 0.00178847 hurt 0.00147196 an 0.000785253 a. 0.000597298 eight 0.000552068 and 0.000407142 air 0.000351351 ill 0.000222373 ache 0.00021106 i 0.000205712 or 0.000122641 are 0.000116711 of 9.1757e-05
+align 21 *DELETE* 0.999513 a 0.000130299 dennis 7.53121e-05 it 5.68927e-05 uh 3.8473e-05 her 2.73399e-05 him 2.45727e-05 that 2.3228e-05 if 2.24877e-05 with 1.772e-05 any 1.75427e-05 end 1.38135e-05 s 1.16399e-05 as 1.14328e-05 their 1.06428e-05 is 2.29317e-06 aid 1.24438e-06 then 1.2381e-06 n 8.08537e-07
+align 22 *DELETE* 0.999996 it 1.23791e-06 the 5.1529e-07 aim 4.83462e-07 they're 4.34005e-07 n 3.94548e-07 you 3.07172e-07 aid 1.63306e-07 is 1.38934e-07 eye 8.5059e-08 um 1.48145e-10 but 1.24391e-10 ate 1.93762e-11 out 2.05822e-12 they 1.51234e-12 i'm 1.51806e-14 then 5.29478e-15 did 6.54677e-16 enter 3.99971e-16 add 6.99787e-18 m 1.18509e-20 hear 9.10161e-21
+align 23 </s> 1

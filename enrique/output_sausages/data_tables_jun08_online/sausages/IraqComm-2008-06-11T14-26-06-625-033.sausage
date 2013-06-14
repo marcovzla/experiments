@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 do 0.961998 to 0.0361016 two 0.00190011
+align 2 any 1
+align 3 of 1
+align 4 your 0.94116 you 0.0588403
+align 5 old 0.472938 oil 0.373901 or 0.0935703 all 0.0593868 oral 0.000203457
+align 6 people 1
+align 7 here 0.950178 hear 0.0408506 of 0.00404941 were 0.00273929 are 0.00218315
+align 8 *DELETE* 0.991028 here 0.00897185
+align 9 suffer 0.981134 suffered 0.0183545 suffers 0.000511594
+align 10 from 0.99965 form 0.000349876
+align 11 specific 0.996769 a 0.00323135
+align 12 *DELETE* 0.996769 specific 0.00323135
+align 13 health 0.998073 help 0.00190927 khalaf 1.04172e-05 helped 6.96494e-06 hell 4.7927e-24
+align 14 problems 1
+align 15 *DELETE* 0.999745 uh 0.000241927 i 1.21874e-05 a 7.10612e-07 are 2.19751e-07
+align 16 </s> 1

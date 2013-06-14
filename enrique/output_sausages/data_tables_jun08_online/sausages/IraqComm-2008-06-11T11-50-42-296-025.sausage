@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 are 0.992617 *DELETE* 0.00738333
+align 2 you 0.992617 i 0.00738333
+align 3 afraid 0.986949 have 0.00738333 free 0.00299553 for 0.00267247
+align 4 *DELETE* 0.997328 you 0.00267247
+align 5 to 1
+align 6 travel 1
+align 7 at 0.882334 a 0.117666
+align 8 night 1
+align 9 with 0.999586 the 0.000217901 and 8.4403e-05 do 5.51077e-05 you 3.46262e-05 they 2.24246e-05
+align 10 *DELETE* 0.999586 with 0.000414463
+align 11 insurgents 1
+align 12 in 1 on 3.95003e-11
+align 13 the 1
+align 14 area 1
+align 15 *DELETE* 0.999994 of 6.11422e-06
+align 16 </s> 1

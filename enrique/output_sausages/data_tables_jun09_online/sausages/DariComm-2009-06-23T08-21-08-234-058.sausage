@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 0.668955 and 0.193006 you 0.138039
+align 2 *DELETE* 0.668955 do 0.331045
+align 3 you 1
+align 4 make 1
+align 5 enough 1
+align 6 money 1
+align 7 to 1
+align 8 support 1
+align 9 your 1
+align 10 family 1
+align 11 *DELETE* 0.999668 uh 0.00033167 to 1.3745e-09 um 1.13411e-10
+align 12 </s> 1

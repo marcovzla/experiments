@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 would 0.992176 will 0.00782397
+align 3 like 1
+align 4 to 1
+align 5 it 0.4326 uh 0.321918 a 0.222055 i 0.023427
+align 6 all 0.987016 call 0.00928004 uh 0.00246223 oh 0.00106858 *DELETE* 0.000173502
+align 7 *DELETE* 0.997538 all 0.00246223
+align 8 for 0.880786 four 0.11904 offer 0.000173502
+align 9 additional 1
+align 10 medical 1
+align 11 training 1
+align 12 to 0.729341 too 0.23364 two 0.0370189
+align 13 in 0.572427 *DELETE* 0.282521 know 0.145052
+align 14 the 0.572427 no 0.16261 *DELETE* 0.145129 your 0.0971301 my 0.0108227 do 0.0108111 you 0.00103121 a 3.8899e-05
+align 15 *DELETE* 0.999789 a 0.0001432 and 6.80314e-05
+align 16 nurses 0.995022 *DELETE* 0.00351737 a 0.00105815 nurse 0.000402222 donors 5.47566e-07 another 5.92163e-08
+align 17 *DELETE* 0.994938 nurse's 0.00177154 nurses' 0.0017668 nurses 0.0010361 is 0.000394014 i 3.88883e-05 uh 3.25584e-05 as 6.68455e-06 do 4.1082e-06 in 2.44503e-06 you 2.3883e-06 says 2.0632e-06 a 1.19845e-06 nurse 1.08391e-06 and 1.00373e-06 to 6.54653e-07 since 5.92163e-08 if 1.59173e-08 it's 7.04724e-09 it 2.5632e-09 has 2.1468e-10 his 2.52192e-23
+align 18 *DELETE* 0.999999 is 1.08391e-06
+align 19 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 0.998804 *DELETE* 0.00119623
+align 2 you 1
+align 3 talk 1
+align 4 about 1
+align 5 anything 1
+align 6 else 0.999951 out 4.92301e-05
+align 7 *DELETE* 0.999997 uh 2.72773e-06 sir 5.66429e-07 so 4.00898e-13
+align 8 </s> 1

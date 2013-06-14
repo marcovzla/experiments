@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 everything 1 earring 2.35013e-10
+align 2 okay 1
+align 3 *DELETE* 0.9969 i 0.0029754 then 0.000115579 right 8.60192e-06 eye 6.16199e-07 uh 1.79153e-09
+align 4 </s> 1

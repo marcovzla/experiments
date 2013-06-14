@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.995778 you 0.00388877 and 0.000333082
+align 3 we 1
+align 4 have 1
+align 5 a 0.999832 the 0.00016823
+align 6 very 1
+align 7 tight 1
+align 8 time 0.998634 times 0.0013663
+align 9 schedule 1
+align 10 for 0.982744 four 0.0172558
+align 11 *DELETE* 0.523557 for 0.461692 uh 0.00746842 four 0.00703744 the 0.000230529 a 1.45396e-05
+align 12 *DELETE* 0.993505 for 0.00649508
+align 13 these 0.999999 this 7.30589e-07
+align 14 buildings 0.999993 building's 6.72521e-06
+align 15 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 do 1
+align 4 you 1
+align 5 cross 0.979581 crossed 0.0204187
+align 6 the 1
+align 7 border 1
+align 8 into 0.897485 in 0.065996 and 0.0246897 on 0.00933037 end 0.00222366 *DELETE* 0.000274882
+align 9 *DELETE* 0.897485 to 0.069342 a 0.0128395 the 0.0105339 of 0.00938861 under 0.000251856 it 0.000106351 now 2.30261e-05 up 1.5569e-05 that 1.22654e-05 they 1.5333e-06
+align 10 pakistan 0.999987 pakistani 1.25387e-05
+align 11 *DELETE* 0.998248 and 0.0014447 in 0.000102395 on 5.99697e-05 i 5.66811e-05 end 5.50299e-05 to 1.50314e-05 it 1.13509e-05 uh 2.9991e-06 if 1.90766e-06 do 1.39959e-06 is 6.39133e-07 i'm 1.52395e-08 as 2.01003e-09
+align 12 </s> 1

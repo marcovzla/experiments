@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 place 0.991921 play 0.00807862
+align 3 argue 0.954839 are 0.0370805 sir 0.00808059
+align 4 your 0.93007 you're 0.0667059 year 0.00322393
+align 5 next 1
+align 6 to 1
+align 7 the 1
+align 8 person's 1
+align 9 mouth 1
+align 10 and 0.946244 in 0.0536095 an 0.000146814
+align 11 actually 1
+align 12 listen 0.98013 listened 0.0198703
+align 13 for 0.998659 four 0.00134075
+align 14 breathing 0.65496 breeding 0.341594 bringing 0.00313467 a 0.000288311 briefing 2.24433e-05 breaching 1.1956e-07
+align 15 *DELETE* 0.999712 breathing 0.000262234 breeding 2.60775e-05
+align 16 </s> 1

@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 one 1
+align 3 thing 1
+align 4 one 0.602946 we're 0.396851 when 0.000203371
+align 5 thing 0.603149 thinking 0.396851
+align 6 about 0.926167 in 0.0738328
+align 7 *DELETE* 0.926167 about 0.0738328
+align 8 a 0.862208 of 0.1139 the 0.0238921
+align 9 v._c._p. 0.999991 *DELETE* 9.18622e-06
+align 10 it's 0.998861 its 0.00112937 v._c._p.s 9.18622e-06
+align 11 not 1
+align 12 something 1
+align 13 you 1
+align 14 want 0.936789 *DELETE* 0.0632111
+align 15 to 0.936351 wanna 0.0632111 i 0.000437434
+align 16 keep 1
+align 17 on 1
+align 18 doing 1
+align 19 because 1
+align 20 uh 0.999307 a 0.000692925
+align 21 uh 0.82488 of 0.0847299 *DELETE* 0.0508464 i 0.0395432
+align 22 *DELETE* 0.99423 i 0.00577015
+align 23 the 0.880763 other 0.0482585 to 0.027487 that 0.0262015 uh 0.00767552 either 0.0059907 *DELETE* 0.00362353
+align 24 *DELETE* 0.994217 the 0.00571382 that 6.9607e-05
+align 25 talaban 0.99175 tower 0.00824972
+align 26 *DELETE* 0.99175 band 0.0055644 banned 0.00268532
+align 27 would 0.997105 wood 0.00215014 what 0.000744829
+align 28 uh 1
+align 29 would 1 with 3.51428e-07
+align 30 see 0.810669 steal 0.181023 steve 0.00830871
+align 31 that 0.821044 guy 0.178956
+align 32 and 0.887535 in 0.112465
+align 33 then 0.987225 them 0.0127752
+align 34 go 1
+align 35 ahead 1
+align 36 and 1
+align 37 step 1 stuff 7.80041e-11
+align 38 uh 0.758905 by 0.14391 but 0.0895908 on 0.00759388 out 5.11283e-12 off 5.05637e-14
+align 39 *DELETE* 0.999265 uh 0.000735051
+align 40 ambush 0.886665 ambushed 0.113335
+align 41 on 0.96887 *DELETE* 0.0301584 uh 0.000971676 show 3.16697e-10
+align 42 *DELETE* 0.999067 on 0.000932585
+align 43 you 0.916622 *DELETE* 0.0339034 me 0.0185647 showing 0.0139817 are 0.00408353 army 0.00325357 shown 0.00236524 armed 0.00115074 run 0.00110267 arm 0.000950006 around 0.000901271 running 0.000476216 him 0.000423572 son 0.000258103 onion 0.00023811 our 0.000228975 it 0.000224708 argue 0.000189928 anya 0.00010835 sown 0.000100198 aren't 8.16431e-05 under 8.12972e-05 only 7.95495e-05 dawn 7.66475e-05 ali 5.50559e-05 shelling 5.07485e-05 shaun 4.63269e-05 sean 3.76285e-05 oil 3.31609e-05 your 3.24434e-05 one 3.12694e-05 yeah 2.99643e-05 selling 2.76881e-05 oven 2.64613e-05 sun 2.40378e-05 own 1.73849e-05 un 1.52436e-05 awn 1.24576e-05 the 1.17101e-05 john 1.05057e-05 or 1.00986e-05 who 9.74684e-06 i 8.78829e-06 here 8.70592e-06 join 8.56917e-06 sonya 7.47065e-06 sonja 7.47065e-06 on 7.10857e-06 site 5.71802e-06 i'm 4.69602e-06 sonia 3.89332e-06 island 3.43912e-06 in 3.22538e-06 shine 8.92738e-07 shon 8.24533e-07 don't 4.59527e-07 knew 2.7078e-07 u 2.13757e-07 art 2.1264e-07 we 3.85892e-08 armor 3.20714e-08 olen 3.08346e-08 shock 2.04716e-08 owned 1.88746e-08 shot 1.3256e-08 sign 7.87552e-09 a 5.73697e-09 eye 1.25839e-09 time 1.06045e-09 r 3.30501e-10 joined 2.30752e-10 were 2.06318e-10 my 1.33577e-10 joint 7.01254e-11 uh 1.32408e-11 sony 4.24977e-12 shaan 2.15803e-12 ran 1.94746e-12 so 3.08447e-13 and 3.84731e-14
+align 44 *DELETE* 0.996452 new 0.00340776 now 7.82337e-05 you 3.97745e-05 in 1.47662e-05 uh 3.44759e-06 here 3.10866e-06 on 7.59739e-07 no 9.16403e-08 not 4.62801e-10
+align 45 </s> 1

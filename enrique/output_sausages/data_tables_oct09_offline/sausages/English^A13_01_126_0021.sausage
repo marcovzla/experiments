@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 no 1
+align 2 i 1
+align 3 want 1
+align 4 you 1
+align 5 to 1
+align 6 engage 1
+align 7 on 1
+align 8 the 1
+align 9 uh 1
+align 10 the 1
+align 11 hood 1
+align 12 release 0.873126 released 0.126828 relieve 2.60104e-05 really 1.99719e-05
+align 13 *DELETE* 0.99998 the 1.99719e-05
+align 14 that's 0.987973 it's 0.00659648 that 0.00303414 its 0.00127043 sets 0.0011256
+align 15 inside 1
+align 16 the 1
+align 17 vehicle 1
+align 18 *DELETE* 0.937936 in 0.0593018 on 0.00221552 an 0.000346083 and 0.000200363
+align 19 more 0.925243 order 0.0344609 or 0.0335688 nor 0.00672746
+align 20 *DELETE* 0.999832 or 0.000167718
+align 21 for 1
+align 22 the 1
+align 23 hood 1
+align 24 pop 0.996519 popped 0.0034806
+align 25 up 0.999542 uh 0.000446159 ups 1.19126e-05
+align 26 </s> 1

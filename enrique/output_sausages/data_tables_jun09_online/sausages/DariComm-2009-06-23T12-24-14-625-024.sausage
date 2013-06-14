@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 imagine 0.99977 imagined 0.000230186
+align 3 where 0.546203 were 0.221868 we're 0.187268 wear 0.0420277 ware 0.00263329
+align 4 *DELETE* 0.513306 and 0.479959 ad 0.00579645 add 0.00093863
+align 5 at 0.940703 *DELETE* 0.0381368 add 0.0211597
+align 6 that 0.48482 *DELETE* 0.448841 at 0.0343976 it 0.0313756 added 0.000424676 stake 0.000140274
+align 7 checkpoint 0.622598 checkpoints 0.377262 point 0.000140274 stake 8.31842e-11
+align 8 *DELETE* 0.999814 do 9.02489e-05 uh 3.49265e-05 you 2.001e-05 i 1.99198e-05 in 6.53759e-06 too 6.13082e-06 and 6.03304e-06 to 1.26538e-06 are 4.89954e-07 them 1.47229e-07 there 1.25702e-07 for 5.95609e-08 it 1.47926e-08 we 1.29862e-08 point 8.31842e-11 if 1.01019e-12 me 3.86355e-15
+align 9 </s> 1

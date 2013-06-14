@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 then 1
+align 2 you 1
+align 3 know 0.601558 don't 0.235921 will 0.147275 *DELETE* 0.0152453
+align 4 want 1
+align 5 to 1
+align 6 check 1
+align 7 and 1
+align 8 see 1
+align 9 if 0.999563 *DELETE* 0.000437312
+align 10 for 0.388471 or 0.316828 far 0.164317 four 0.0655764 uh 0.06471 other 9.78384e-05
+align 11 *DELETE* 0.999799 uh 0.00020114
+align 12 there's 0.994161 there 0.00574112 is 9.78384e-05
+align 13 *DELETE* 0.994259 is 0.00574112
+align 14 an 1
+align 15 exit 1
+align 16 wound 1
+align 17 *DELETE* 0.999998 uh 1.4609e-06 i 1.01529e-06
+align 18 </s> 1

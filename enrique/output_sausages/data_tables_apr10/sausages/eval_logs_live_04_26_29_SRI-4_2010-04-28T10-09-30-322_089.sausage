@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 feel 1
+align 4 the 1
+align 5 police 1
+align 6 protect 0.999956 *DELETE* 4.43374e-05
+align 7 you 0.999956 protecting 4.43374e-05
+align 8 from 1
+align 9 the 1
+align 10 talaban 0.61971 tell 0.270826 *DELETE* 0.109463
+align 11 *DELETE* 0.619949 about 0.270588 telegraph 0.109463
+align 12 *DELETE* 0.969964 it 0.0228382 a 0.0056934 uh 0.00093719 i 0.000259348 above 0.000238436 on 6.15569e-05 to 3.15891e-06 if 1.8887e-06 in 1.80203e-06 so 9.08598e-07 the 1.53529e-07 as 7.18281e-08 of 6.1649e-10
+align 13 </s> 1

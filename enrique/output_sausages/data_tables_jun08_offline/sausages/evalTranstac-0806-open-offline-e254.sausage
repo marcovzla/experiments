@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 the 0.975105 he 0.0185388 you 0.00574091 be 0.000615181
+align 3 second 1
+align 4 rule 1
+align 5 we 1
+align 6 have 1
+align 7 is 0.983442 as 0.0100132 this 0.00554619 it's 0.00086236 just 0.000135945
+align 8 to 0.879242 two 0.120758
+align 9 never 1
+align 10 point 1
+align 11 a 0.991049 the 0.00895127
+align 12 weapon 1
+align 13 at 1
+align 14 anything 1
+align 15 you 1
+align 16 do 1
+align 17 not 1
+align 18 intend 1
+align 19 to 1
+align 20 shoot 1
+align 21 *DELETE* 1 it 4.64955e-10
+align 22 </s> 1

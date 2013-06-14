@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 problems 1 problem 9.61074e-20
+align 5 *DELETE* 1 and 1.90547e-14 so 3.11761e-15 some 1.74354e-15
+align 6 </s> 1

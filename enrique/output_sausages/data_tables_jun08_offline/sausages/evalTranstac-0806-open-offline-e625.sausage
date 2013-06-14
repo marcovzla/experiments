@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 i 1
+align 3 think 1
+align 4 the 0.999102 that 0.000897577
+align 5 most 0.995616 uh 0.00438389
+align 6 *DELETE* 0.995616 most 0.00438389
+align 7 effective 1
+align 8 means 1
+align 9 would 1
+align 10 be 1
+align 11 do 0.706192 *DELETE* 0.293808
+align 12 you 0.706192 dia 0.293536 a 0.000272288
+align 13 conduct 1
+align 14 the 0.999924 this 7.55596e-05
+align 15 snap 1
+align 16 v._c._p.s 1
+align 17 </s> 1

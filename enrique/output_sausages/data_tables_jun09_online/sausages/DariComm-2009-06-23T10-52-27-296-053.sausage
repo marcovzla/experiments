@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 any 1
+align 4 more 1
+align 5 information 1
+align 6 you 1
+align 7 can 1
+align 8 give 1
+align 9 me 1
+align 10 *DELETE* 0.991624 uh 0.00376589 a 0.0028964 some 0.000555957 to 0.00019129 now 0.000175299 the 0.000172513 i 0.000150896 um 0.000128866 in 0.00012003 i'm 7.40673e-05 an 4.6845e-05 you 2.88008e-05 so 2.57481e-05 and 2.01093e-05 with 1.69283e-05 two 5.73423e-06 no 7.62041e-07 that 2.02867e-07 do 1.5114e-07 this 2.65355e-09 is 9.67714e-11 who 4.2098e-11 on 2.92134e-11 we 5.97362e-14 all 2.07382e-14
+align 11 </s> 1

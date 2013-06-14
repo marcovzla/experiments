@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 get 1
+align 4 your 1
+align 5 price 0.772563 parts 0.226145 prize 0.00129186
+align 6 from 0.359392 how 0.34141 are 0.28044 our 0.0114744 wrong 0.00275935 on 0.00155178 or 0.00127501 raw 0.000936814 i'll 0.000625502 i 0.000134464
+align 7 local 1
+align 8 our 0.838258 *DELETE* 0.0982104 are 0.0635318
+align 9 house 0.900118 warehouse 0.0982104 *DELETE* 0.00167211
+align 10 is 0.703398 as 0.158776 ours 0.0741722 there's 0.0594525 search 0.00247616 houses 0.00167211 are 5.32474e-05
+align 11 *DELETE* 0.999947 as 5.32474e-05
+align 12 *DELETE* 0.878611 i 0.121389
+align 13 *DELETE* 0.948298 said 0.0517022
+align 14 *DELETE* 0.971756 and 0.0282445
+align 15 that 0.556986 at 0.230159 *DELETE* 0.082568 as 0.053057 is 0.0527766 in 0.0234578 a 0.000995137
+align 16 seven 0.545719 something 0.320241 southern 0.0823381 *DELETE* 0.0517022
+align 17 that 0.984637 *DELETE* 0.0153628
+align 18 is 1
+align 19 uh 1
+align 20 further 0.994121 for 0.00587926
+align 21 *DELETE* 0.992769 their 0.00578241 a 0.00125891 or 0.000130987 uh 2.91193e-05 of 1.66588e-05 out 4.87283e-06 it 3.72756e-06 oh 3.6394e-06 and 1.21277e-07 are 7.2126e-08 i 3.77863e-10
+align 22 away 0.987201 wife 0.00810267 why 0.00360221 white 0.000280786 life 0.000278547 way 0.000168944 light 5.5586e-05 wine 5.15713e-05 while 5.0917e-05 line 4.81643e-05 what 3.30965e-05 awai 2.5731e-05 wai 1.83971e-05 ally 1.67043e-05 alive 1.47042e-05 y 1.39335e-05 weigh 1.04882e-05 lie 1.01865e-05 wide 6.9982e-06 awhile 4.63528e-06 wife's 2.10425e-06 alight 1.30582e-06 like 8.42543e-07 one 4.28164e-07 wyatt 1.64137e-07
+align 23 *DELETE* 0.999379 it 0.000416393 if 0.000203664 i 7.7169e-07
+align 24 </s> 1

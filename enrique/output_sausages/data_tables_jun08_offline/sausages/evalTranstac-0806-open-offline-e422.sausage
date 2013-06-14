@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 0.996986 oh 0.00301424
+align 2 *DELETE* 0.996986 okay 0.00301424
+align 3 seven 1
+align 4 to 0.99925 the 0.000625091 a 7.73545e-05 at 2.44283e-05 *DELETE* 1.48226e-05 or 6.10311e-06 that 2.52495e-06 it 1.31305e-10
+align 5 ten 0.999985 attend 1.48226e-05
+align 6 *DELETE* 0.999996 i 4.27487e-06
+align 7 </s> 1

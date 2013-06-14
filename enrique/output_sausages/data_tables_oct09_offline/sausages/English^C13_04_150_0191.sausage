@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.999992 it 8.34782e-06
+align 3 is 1
+align 4 your 1
+align 5 brother 1
+align 6 ever 1
+align 7 been 1
+align 8 uh 1
+align 9 uh 0.660669 *DELETE* 0.188039 detained 0.151292
+align 10 detained 0.848708 *DELETE* 0.151292
+align 11 by 1
+align 12 the 1
+align 13 the 0.984039 uh 0.0159609
+align 14 uh 0.999999 *DELETE* 1.50234e-10
+align 15 the 0.999906 uh 9.38215e-05
+align 16 *DELETE* 0.999906 the 9.38215e-05
+align 17 authorities 0.982184 authority's 0.0162123 authorities' 0.00131594 authority 0.000288111
+align 18 *DELETE* 0.999712 is 0.000288109
+align 19 before 0.997694 to 0.00226997 the 2.42068e-05 *DELETE* 7.19455e-06 do 5.01626e-06 for 1.69417e-09 too 3.44169e-13
+align 20 *DELETE* 0.997626 four 0.00153511 for 0.000771284 uh 3.38146e-05 i 3.05682e-05 it 2.47543e-06 a 9.46683e-07 you 3.69148e-09
+align 21 </s> 1

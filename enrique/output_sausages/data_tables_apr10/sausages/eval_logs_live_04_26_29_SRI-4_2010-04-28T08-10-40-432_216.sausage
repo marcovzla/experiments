@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 does 0.999559 *DELETE* 0.00040104 is 3.98464e-05
+align 4 this 1
+align 5 *DELETE* 0.999599 is 0.00040104
+align 6 fuel 1
+align 7 cost 0.980473 costs 0.0195274
+align 8 per 1
+align 9 liter 0.999067 leader 0.000933309
+align 10 *DELETE* 0.999939 uh 5.12208e-05 um 5.06898e-06 i 2.94264e-06 it 6.65453e-07 if 4.81022e-07 do 2.88207e-07 of 2.46905e-07 and 2.75119e-08 them 2.0578e-08 there 1.12437e-09 with 3.34186e-10 the 2.69182e-10
+align 11 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 how 0.977892 *DELETE* 0.0221081
+align 3 long 0.977892 *DELETE* 0.0221081
+align 4 will 0.725481 would 0.228601 *DELETE* 0.0227642 hello 0.0221081 were 0.00104577
+align 5 go 0.823222 it 0.148836 there 0.0219845 the 0.00340069 *DELETE* 0.00243401 grow 7.47807e-05 though 4.46639e-05 no 3.23273e-06
+align 6 was 0.898779 is 0.0687723 as 0.0312255 with 0.00115629 *DELETE* 4.78803e-05 iz 1.81051e-05 it's 8.88321e-07 if 4.86359e-09
+align 7 that 0.99513 at 0.00369527 out 0.000742542 there 0.000243849 a 6.97921e-05 izzat 4.78803e-05 they 4.64789e-05 then 2.14585e-05 uh 2.72145e-06 them 2.15553e-07 the 4.85104e-08 as 4.46532e-08 that's 2.38488e-08 al 4.27348e-10
+align 8 *DELETE* 0.999757 i 6.68424e-05 uh 5.38624e-05 are 4.64789e-05 at 4.28912e-05 it 3.1241e-05 a 1.76419e-06 is 2.5989e-10
+align 9 </s> 1

@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 first 1
+align 3 step 1
+align 4 we 1
+align 5 like 0.838305 thank 0.127337 make 0.0339598 liked 0.000398246
+align 6 you 0.940568 do 0.0594319
+align 7 *DELETE* 0.681589 you 0.318411
+align 8 guys 1
+align 9 do 1
+align 10 we 1
+align 11 give 1
+align 12 a 1
+align 13 visual 1
+align 14 but 0.626563 the 0.122815 that 0.117758 uh 0.100613 like 0.0132375 they 0.0124397 let 0.00657373
+align 15 uh 1
+align 16 something 0.868599 some 0.129104 uh 0.00229661
+align 17 *DELETE* 0.999652 some 0.000348124
+align 18 *DELETE* 0.868599 to 0.124256 can 0.00519606 something 0.00194849 this 4.14415e-10
+align 19 vigil 0.977912 visual 0.0220879 traditional 1.63195e-07 will 4.14415e-10
+align 20 that 0.925027 *DELETE* 0.0749725
+align 21 they 0.867548 i 0.0659152 you 0.064668 *DELETE* 0.00147433 to 0.000394022
+align 22 can 0.818853 could 0.101792 think 0.0749725 go 0.00163987 take 0.00147433 *DELETE* 0.00126828
+align 23 *DELETE* 0.925381 i 0.0669048 you 0.00771418
+align 24 see 0.996904 the 0.00182789 get 0.00126828
+align 25 us 0.585822 it 0.393995 a 0.0157072 c._o. 0.0030627 if 0.00137987 see 3.34694e-05
+align 26 so 0.994572 *DELETE* 0.00539501 us 3.34694e-05
+align 27 we 1
+align 28 go 0.968434 give 0.0159993 gonna 0.0155627 get 3.62056e-06
+align 29 *DELETE* 0.98505 a 0.0109781 i 0.00373519 it 0.000236717
+align 30 ahead 0.969487 had 0.0280292 hat 0.0013242 *DELETE* 0.00115924 head 2.4356e-07
+align 31 and 0.955953 an 0.0366847 on 0.0044309 in 0.0017719 hadn't 0.00105075 hannan 0.000108491
+align 32 arm 0.986293 i'm 0.0116246 on 0.00147774 arms 0.000346176 i 0.000234152 um 2.40141e-05 armed 4.50985e-08
+align 33 *DELETE* 0.999766 am 0.000234152
+align 34 signal 0.999755 signals 0.000244736
+align 35 *DELETE* 1 i 1.50125e-07
+align 36 </s> 1

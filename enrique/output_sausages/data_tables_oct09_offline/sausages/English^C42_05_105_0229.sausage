@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 that 0.940236 a 0.0597637
+align 5 kind 1
+align 6 of 0.999513 *DELETE* 0.000486501
+align 7 equipment 0.996764 equipments 0.00323584
+align 8 </s> 1

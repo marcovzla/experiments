@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 pictures 1
+align 6 or 1
+align 7 or 0.797312 are 0.182125 *DELETE* 0.0205627
+align 8 *DELETE* 0.7957 or 0.149094 are 0.0346435 our 0.0205625
+align 9 drawings 1
+align 10 from 1
+align 11 those 1
+align 12 building 0.999752 buildings 0.000247523
+align 13 or 0.920874 are 0.0752885 our 0.00383772 your 4.3387e-10 her 7.06186e-17
+align 14 those 1
+align 15 bridges 0.984002 bridge 0.0157902 bridge's 0.0002076
+align 16 *DELETE* 0.967651 is 0.0121474 are 0.00746737 as 0.00364281 in 0.00358035 uh 0.00319408 i 0.000834896 that 0.000800977 a 0.000278265 it 0.000203926 and 0.000198451
+align 17 we 0.939691 it 0.0267292 a 0.0192417 or 0.0135263 uh 0.000742553 in 4.78274e-05 that 2.16512e-05
+align 18 *DELETE* 0.939691 we 0.0603093
+align 19 can 1
+align 20 take 1
+align 21 a 1
+align 22 look 1
+align 23 at 0.999773 and 0.000115444 as 8.25842e-05 ask 2.83053e-05 eh 5.99849e-07 a 5.26384e-07
+align 24 *DELETE* 0.989384 it 0.0105816 a 2.31872e-05 uh 1.11389e-05 at 4.49885e-07 i 2.67877e-08
+align 25 </s> 1

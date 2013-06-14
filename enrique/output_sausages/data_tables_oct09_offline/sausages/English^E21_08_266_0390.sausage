@@ -1,0 +1,43 @@
+numaligns 41
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 now 1
+align 3 for 1
+align 4 example 1
+align 5 for 0.700303 from 0.292419 food 0.00727852
+align 6 a 0.977485 uh 0.0152354 and 0.00727852 *DELETE* 2.56231e-10
+align 7 do 0.999999 into 8.74879e-07
+align 8 a 1
+align 9 snap 1
+align 10 v._c._p. 1
+align 11 here 0.975681 hear 0.0243194
+align 12 you 1
+align 13 want 0.905628 *DELETE* 0.0943715
+align 14 to 0.607467 a 0.298161 wanna 0.0943715
+align 15 punch 1
+align 16 out 1
+align 17 and 0.571652 of 0.246565 *DELETE* 0.0558921 that 0.0523328 in 0.0292859 uh 0.0243918 at 0.0198808
+align 18 *DELETE* 0.745002 the 0.254998
+align 19 uh 1.03114 a 0.00735819
+align 20 *DELETE* 0.999997 uh 3.2566e-06
+align 21 *DELETE* 0.958216 uh 0.0390847 a 0.00185178 the 0.000847135
+align 22 *DELETE* 0.989385 uh 0.0106153
+align 23 fire 0.727046 uh 0.272954
+align 24 *DELETE* 0.727046 fire 0.272954
+align 25 team 1
+align 26 uh 1
+align 27 no 0.989528 know 0.0104719
+align 28 more 1
+align 29 than 1
+align 30 four 1
+align 31 soldiers 1
+align 32 on 1
+align 33 top 1
+align 34 of 1
+align 35 this 0.918741 those 0.0810048 his 0.000254456
+align 36 this 0.991797 that's 0.00820288
+align 37 uh 0.806144 i 0.129241 our 0.0370366 are 0.0240869 out 0.00215982 eye 0.00133163
+align 38 rooftop 0.992956 roof 0.00584118 route 0.00104019 root 0.000113895 rule 3.07273e-05 rooftops 1.8275e-05
+align 39 *DELETE* 0.992974 top 0.00630786 talk 0.000633396 taught 8.47419e-05
+align 40 </s> 1

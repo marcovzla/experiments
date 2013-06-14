@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 uh 0.996781 oh 0.00321868
+align 2 we're 1
+align 3 doing 1
+align 4 our 1
+align 5 best 1
+align 6 to 0.999683 a 0.000316547
+align 7 stay 1
+align 8 out 1
+align 9 of 1
+align 10 you 0.93087 the 0.0488933 if 0.0196408 of 0.000594148 a 1.68676e-06
+align 11 *DELETE* 0.93087 view 0.048895 you 0.0202349
+align 12 see 0.866413 so 0.133233 *DELETE* 0.000186237 c 0.000154682 sea 1.26939e-05
+align 13 your 0.92018 you 0.0550888 in 0.0170287 you're 0.00555169 a 0.00196453 siu 0.000124231 seeing 6.20068e-05
+align 14 neighbors 0.972211 neighbor's 0.0166705 neighbors' 0.0111181
+align 15 don't 1
+align 16 know 0.99972 no 0.000280475
+align 17 that 1
+align 18 we're 0.992655 were 0.00734542
+align 19 here 1
+align 20 *DELETE* 0.999998 uh 2.04385e-06
+align 21 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.996334 i 0.00366559
+align 3 have 1
+align 4 a 1
+align 5 good 1
+align 6 day 1
+align 7 and 0.99982 uh 7.94581e-05 *DELETE* 5.21547e-05 i 4.85242e-05
+align 8 i'll 0.996201 uh 0.00379936
+align 9 *DELETE* 0.996201 i'll 0.00379936
+align 10 see 1
+align 11 you 1
+align 12 in 1
+align 13 a 1
+align 14 couple 1
+align 15 hours 0.99615 a 0.00327408 ours 0.000439285 of 0.000136242
+align 16 *DELETE* 0.996543 hours 0.00341032 uh 4.32028e-05 i 3.22448e-06
+align 17 </s> 1

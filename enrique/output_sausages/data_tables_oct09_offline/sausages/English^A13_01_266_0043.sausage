@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 uh 0.938784 oh 0.0612162
+align 2 what's 1
+align 3 uh 1
+align 4 all 1
+align 5 the 1
+align 6 money 0.859169 *DELETE* 0.0899649 mind 0.0316808 my 0.0191855
+align 7 in 0.887223 mining 0.0796613 name 0.0191855 minding 0.0103036 *DELETE* 0.00362605 and 9.55134e-07
+align 8 the 1
+align 9 back 0.968569 *DELETE* 0.0314308
+align 10 so 0.758755 see 0.185762 backseat 0.0230031 sir 0.0199528 backs 0.00842763 to 0.00409976
+align 11 you 0.998269 *DELETE* 0.00130599 he 0.000424558
+align 12 have 0.999419 had 0.000304073 half 0.000132378 has 8.80736e-05 of 5.60722e-05
+align 13 *DELETE* 0.998212 a 0.000919563 to 0.000716051 uh 0.000128891 i 2.32992e-05 in 9.5664e-08
+align 14 </s> 1

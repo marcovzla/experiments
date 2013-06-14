@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 we 0.999636 you 0.000364306
+align 2 can 1
+align 3 also 1
+align 4 talk 1
+align 5 in 0.820289 and 0.179711
+align 6 make 1
+align 7 me 0.582233 make 0.417767
+align 8 coordination 1
+align 9 with 1
+align 10 the 1
+align 11 iraqi 1
+align 12 military 1
+align 13 iraqi 1
+align 14 police 1
+align 15 to 0.753661 too 0.177014 two 0.0693253
+align 16 maybe 1 may 7.48871e-21
+align 17 *DELETE* 1 be 7.48871e-21
+align 18 do 1
+align 19 *DELETE* 1 you 7.48871e-21
+align 20 joint 0.899394 a 0.0998155 you 0.000461429 the 0.000328821
+align 21 *DELETE* 0.899394 joint 0.100606
+align 22 patrols 1
+align 23 with 1
+align 24 your 0.984132 you 0.0158678
+align 25 *DELETE* 0.984132 or 0.0158678
+align 26 security 1
+align 27 guards 1
+align 28 in 0.949812 on 0.0336399 *DELETE* 0.00984235 and 0.00670592
+align 29 the 0.978044 *DELETE* 0.00983247 and 0.00889294 your 0.00224775 who 0.000948834 that 2.59202e-05 you 7.9308e-06 we 5.86836e-07
+align 30 *DELETE* 0.999999 you 5.74269e-07 we 5.56767e-07 if 1.74718e-07 they 4.83466e-08 it 7.06412e-10
+align 31 facility 0.999254 facilities 0.000746144
+align 32 </s> 1

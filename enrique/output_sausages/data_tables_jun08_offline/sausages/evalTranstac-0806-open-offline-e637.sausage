@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 let's 1
+align 3 uh 1
+align 4 review 1
+align 5 some 1
+align 6 of 1
+align 7 the 1
+align 8 uh 1
+align 9 the 1
+align 10 main 1
+align 11 uh 1
+align 12 *DELETE* 0.996676 uh 0.00332351
+align 13 points 0.989153 point's 0.0108471
+align 14 that 1
+align 15 you 1
+align 16 need 1
+align 17 to 0.938378 do 0.0616218
+align 18 *DELETE* 0.938378 you 0.0616218
+align 19 conduct 1
+align 20 uh 0.390101 a 0.364665 the 0.128413 *DELETE* 0.100867 prior 0.0107166 that 0.00523684
+align 21 *DELETE* 0.998693 a 0.00130733
+align 22 prior 0.989283 *DELETE* 0.0107166
+align 23 to 1
+align 24 conducting 0.944305 conduct 0.0556951
+align 25 *DELETE* 0.944305 in 0.0556126 can 5.25725e-05 an 3.00008e-05
+align 26 this 1
+align 27 mission 0.999999 mention 5.62254e-07
+align 28 *DELETE* 0.999991 uh 9.0521e-06
+align 29 </s> 1

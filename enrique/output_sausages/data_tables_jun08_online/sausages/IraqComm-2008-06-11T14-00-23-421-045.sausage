@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.996934 i 0.00306573
+align 2 *DELETE* 0.996934 i'm 0.00304175 am 2.39784e-05
+align 3 going 0.991557 *DELETE* 0.00844324
+align 4 to 0.991557 gonna 0.00844324
+align 5 start 1
+align 6 a 0.999745 uh 0.00025489
+align 7 *DELETE* 0.999745 a 0.00025489
+align 8 report 1
+align 9 in 0.605343 and 0.390459 at 0.00419802
+align 10 need 1
+align 11 to 1
+align 12 take 1
+align 13 down 1
+align 14 the 1
+align 15 all 0.999991 *DELETE* 9.02802e-06
+align 16 the 0.998759 these 0.00123197 only 9.02802e-06
+align 17 notes 1
+align 18 *DELETE* 1 uh 5.31353e-14
+align 19 </s> 1

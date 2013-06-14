@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 tribe 1
+align 3 are 1
+align 4 you 1
+align 5 in 0.954349 man 0.0271877 men 0.0180672 and 0.000396226 *DELETE* 1.36232e-09
+align 6 *DELETE* 0.999975 a 2.48155e-05 an 2.69959e-07 in 8.54364e-25
+align 7 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 no 1
+align 2 i 1
+align 3 do 1
+align 4 you 1
+align 5 familiar 1
+align 6 with 0.519441 *DELETE* 0.480559
+align 7 it 0.517075 what 0.45534 where 0.0252196 the 0.00158267 a 0.000782283 *DELETE* 5.43069e-09
+align 8 do 0.999999 *DELETE* 5.43069e-09
+align 9 you 1
+align 10 know 0.987951 now 0.0120495
+align 11 where 1
+align 12 it's 0.999924 its 7.641e-05
+align 13 at 0.999778 that 0.000222045
+align 14 *DELETE* 0.9996 uh 0.000383075 it 1.23748e-05 all 2.00417e-06 you 1.24064e-06 a 7.14865e-07 the 1.67252e-07 to 3.33289e-08 this 6.60218e-09 five 5.74625e-09 if 6.62775e-10
+align 15 </s> 1

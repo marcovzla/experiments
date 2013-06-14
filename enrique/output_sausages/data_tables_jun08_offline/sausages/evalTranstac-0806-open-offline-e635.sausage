@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 that's 1
+align 3 a 1
+align 4 very 1
+align 5 that's 1
+align 6 a 1
+align 7 very 1
+align 8 good 1
+align 9 recommendation 0.999507 recommendations 0.000493098
+align 10 *DELETE* 0.99999 uh 9.7405e-06
+align 11 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 1
+align 7 your 1
+align 8 neighbors 0.996309 neighbor's 0.00232926 neighbors' 0.00136218
+align 9 *DELETE* 0.999629 uh 0.000318945 you 5.1554e-05 do 7.44014e-07 to 2.27423e-09 in 8.9757e-10 i 1.35174e-12 and 2.90533e-13
+align 10 </s> 1

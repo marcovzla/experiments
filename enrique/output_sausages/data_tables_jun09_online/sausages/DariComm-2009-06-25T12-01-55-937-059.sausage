@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 do 1
+align 3 you 1
+align 4 want 1
+align 5 to 1
+align 6 place 0.832619 put 0.107011 pull 0.0294476 pay 0.0193702 play 0.010645 buy 0.000906823
+align 7 *DELETE* 0.832619 place 0.124924 a 0.0338788 placed 0.00640645 up 0.00217215
+align 8 *DELETE* 0.963949 place 0.0360509
+align 9 the 0.998694 *DELETE* 0.00125035 a 5.43659e-05 that 1.1951e-06 they 2.73645e-08
+align 10 checkpoints 0.999988 checkpoint 1.17796e-05
+align 11 *DELETE* 0.999965 uh 2.44907e-05 i 7.17319e-06 so 3.33998e-06 is 1.86309e-07 in 6.01652e-09 you 2.36435e-10 um 4.33127e-11 it 2.77103e-14 and 1.64217e-14
+align 12 </s> 1

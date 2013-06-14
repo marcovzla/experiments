@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.99987 oh 0.000129776 uh 1.15849e-07
+align 2 okay 1
+align 3 great 0.993003 gray 0.00541831 good 0.00147081 grade 9.16665e-05 grass 7.81299e-06 grab 7.39511e-06 greater 8.52081e-07 grip 1.22763e-09
+align 4 uh 0.66828 *DELETE* 0.329694 i 0.00146585 a 0.000399797 it 6.06899e-05 how 2.08683e-05 eye 1.52622e-05 hey 1.45849e-05 um 1.25769e-05 if 9.74523e-06 at 9.17383e-06 oh 4.85231e-06 huh 4.16257e-06 as 3.66187e-06 f 2.05278e-06 are 8.93132e-07 high 8.89153e-07 in 5.82354e-07 her 4.22274e-07 i'm 8.78131e-08 of 8.66964e-08 now 7.52158e-08 up 3.71577e-08 that 1.39065e-08
+align 5 *DELETE* 0.999996 uh 3.38202e-06 i 1.8608e-07
+align 6 </s> 1

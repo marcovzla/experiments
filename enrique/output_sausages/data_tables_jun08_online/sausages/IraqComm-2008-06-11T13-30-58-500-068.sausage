@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 after 1
+align 2 you 0.972152 you've 0.0153625 your 0.0124851
+align 3 form 1
+align 4 the 1
+align 5 perimeter 1
+align 6 around 1
+align 7 the 1
+align 8 gas 1
+align 9 station 1
+align 10 what's 0.997517 what 0.00212721 wants 0.000355941 will 1.30854e-10
+align 11 *DELETE* 1 it's 1.30854e-10
+align 12 next 0.997873 snacks 0.00203486 *DELETE* 9.2345e-05
+align 13 *DELETE* 0.999723 do 0.000129894 snatched 9.2345e-05 to 5.45783e-05
+align 14 </s> 1

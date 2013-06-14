@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 we'll 0.913502 will 0.0864977
+align 3 investigate 1
+align 4 your 0.999045 europe 0.000569324 you're 0.000386073
+align 5 claim 0.928246 or 0.0705067 *DELETE* 0.0012365 claims 1.08359e-05
+align 6 *DELETE* 0.928257 claim 0.0645031 claimed 0.00650736 claiming 0.000732701 it 9.02456e-08 to 1.2768e-09
+align 7 </s> 1

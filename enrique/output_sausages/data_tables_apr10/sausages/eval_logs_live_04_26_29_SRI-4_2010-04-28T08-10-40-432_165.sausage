@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 0.991988 *DELETE* 0.00801215
+align 2 is 0.991988 how's 0.00801215
+align 3 business 1
+align 4 *DELETE* 0.999841 uh 0.000126775 now 2.07599e-05 if 7.84048e-06 i 2.40117e-06 in 7.99952e-07 is 5.49226e-07
+align 5 </s> 1

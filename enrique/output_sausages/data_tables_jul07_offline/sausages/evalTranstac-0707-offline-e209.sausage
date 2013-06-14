@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 would 1
+align 3 like 1
+align 4 to 1
+align 5 know 1
+align 6 if 1
+align 7 there 1
+align 8 are 0.994553 *DELETE* 0.00544731
+align 9 any 1
+align 10 projects 0.996531 project's 0.00346914
+align 11 available 1
+align 12 *DELETE* 0.999969 i 3.01672e-05 uh 4.04773e-07
+align 13 </s> 1

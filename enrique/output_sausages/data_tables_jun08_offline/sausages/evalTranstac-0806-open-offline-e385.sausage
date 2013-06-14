@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that 1
+align 3 may 1
+align 4 be 1
+align 5 but 1
+align 6 in 0.999695 *DELETE* 0.000305493
+align 7 the 0.98458 *DELETE* 0.0154203
+align 8 future 1
+align 9 we 1
+align 10 need 1
+align 11 to 1
+align 12 make 1
+align 13 sure 1
+align 14 that 0.999999 *DELETE* 1.78091e-09
+align 15 that 1
+align 16 happens 1
+align 17 </s> 1

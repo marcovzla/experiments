@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 um 0.999936 uh 6.41449e-05
+align 2 *DELETE* 0.999971 uh 2.89775e-05
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 colonel 1
+align 7 inman 0.963198 in 0.0312748 imad 0.00384787 and 0.00146886 edmond 0.000126429 ended 5.41164e-05 adnan 1.77033e-05 england 6.78745e-06 image 3.74234e-06 women 1.58381e-06 then 2.78785e-07 into 1.84585e-07
+align 8 *DELETE* 0.967525 the 0.0128645 that 0.0096013 it 0.00532903 then 0.00166074 them 0.00117387 there 0.00100635 uh 0.000493805 this 0.000196613 good 5.36793e-05 i 3.70069e-05 than 2.09534e-05 now 1.58453e-05 men 7.32789e-06 eye 4.73617e-06 live 3.8618e-06 mid 2.56552e-06 in 8.65719e-07 their 7.79095e-07 to 7.50454e-07 oh 3.25044e-07 at 1.40215e-07 middle 2.48368e-08 going 2.20639e-08 but 1.4322e-08
+align 9 *DELETE* 0.999743 eye 0.000216637 uh 4.00753e-05
+align 10 </s> 1

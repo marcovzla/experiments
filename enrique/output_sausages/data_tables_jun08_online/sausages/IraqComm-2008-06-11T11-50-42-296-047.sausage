@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 ever 0.953435 have 0.0465648
+align 4 *DELETE* 0.953435 a 0.0465648
+align 5 give 0.986025 get 0.0139031 *DELETE* 7.15789e-05
+align 6 rides 0.985271 prides 0.0127705 brides 0.000776035 bride's 0.000441166 rights 0.000410774 bribes 0.000259137 divides 7.15789e-05
+align 7 to 0.998856 the 0.00114366
+align 8 people 1
+align 9 *DELETE* 1 i 5.87014e-15
+align 10 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 0.9232 wood 0.0510679 would 0.0249806 with 0.000751209
+align 2 job 1
+align 3 are 0.874449 or 0.123604 by 0.000769424 our 0.000668455 all 0.000414119 of 9.50912e-05
+align 4 the 1
+align 5 workers 0.888237 workers' 0.085792 worker's 0.0259711
+align 6 relieving 0.922562 who 0.0774379
+align 7 *DELETE* 0.922562 are 0.0774379
+align 8 *DELETE* 0.922562 leaving 0.0774379
+align 9 your 0.972937 you're 0.0270628
+align 10 plant 0.79266 plan 0.18841 planned 0.0189307
+align 11 looking 1
+align 12 for 0.999176 four 0.000823941
+align 13 *DELETE* 0.997578 uh 0.0018789 a 0.00036501 it 7.90531e-05 him 4.89655e-05 um 3.35467e-05 her 1.16863e-05 i 4.43633e-06
+align 14 </s> 1

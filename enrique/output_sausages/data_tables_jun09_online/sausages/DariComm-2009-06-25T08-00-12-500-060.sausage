@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 understand 1
+align 4 how 1
+align 5 to 1
+align 6 use 1
+align 7 the 0.999994 that 5.95998e-06
+align 8 tourniquet 1
+align 9 *DELETE* 0.999899 i 5.5506e-05 is 2.98597e-05 uh 1.52679e-05 if 2.05982e-08 it 2.62618e-11 and 2.00264e-11 in 7.12972e-14 do 1.48071e-15
+align 10 </s> 1

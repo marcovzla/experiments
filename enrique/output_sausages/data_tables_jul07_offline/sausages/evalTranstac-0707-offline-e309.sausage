@@ -1,0 +1,41 @@
+numaligns 39
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.998763 uh 0.00123721
+align 3 the 1
+align 4 patrol 1
+align 5 wall 0.586025 will 0.213018 all 0.178934 *DELETE* 0.0220228 we 4.79653e-07 uh 2.93328e-07
+align 6 will 0.934483 we'll 0.0655168 well 7.20624e-07
+align 7 certainly 1
+align 8 be 1
+align 9 sensitive 1
+align 10 to 1
+align 11 that 1
+align 12 a 0.927592 eight 0.0586219 *DELETE* 0.0137866
+align 13 and 1
+align 14 uh 1
+align 15 *DELETE* 1 uh 1.31145e-07
+align 16 while 0.980471 why 0.0195286
+align 17 we 1
+align 18 can't 0.988071 can 0.0119291
+align 19 promise 1
+align 20 anything 1
+align 21 we 1
+align 22 will 1
+align 23 do 1
+align 24 our 1
+align 25 best 1
+align 26 to 1
+align 27 make 1
+align 28 sure 1
+align 29 that 1
+align 30 the 1
+align 31 patrol 1
+align 32 uh 1
+align 33 is 0.692372 it's 0.259296 its 0.035712 as 0.0126204
+align 34 conduct 0.825624 conducted 0.153937 *DELETE* 0.0204399
+align 35 *DELETE* 0.401886 the 0.280904 a 0.260829 it 0.0314939 conductor 0.0202989 of 0.00434234 conducting 0.000140966 that 0.000103547 their 5.67327e-07
+align 36 properly 1
+align 37 *DELETE* 0.999999 i 1.08201e-06 uh 4.23615e-08
+align 38 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 uh 0.98356 oh 0.00736266 *DELETE* 0.00605683 i 0.00302013
+align 2 *DELETE* 0.922495 i'd 0.0395182 i 0.0371805 uh 0.000635466 do 0.000170545
+align 3 *DELETE* 0.995536 do 0.00157028 i 0.00150921 here 0.000804507 hear 0.000345512 did 0.0002341
+align 4 *DELETE* 0.999995 here 4.78584e-06
+align 5 here's 0.998823 is 0.0011548 here 1.47098e-05 hear 7.45195e-06
+align 6 *DELETE* 0.999978 is 2.21617e-05
+align 7 one 0.933539 want 0.0664614
+align 8 tourniquet 1
+align 9 that 1
+align 10 we 1
+align 11 use 0.996931 *DELETE* 0.00306853
+align 12 and 0.830344 in 0.16533 using 0.00306853 then 0.000684992 them 0.000571774
+align 13 this 1
+align 14 is 1
+align 15 what 1
+align 16 it 0.972087 he 0.0279131
+align 17 looks 1
+align 18 like 1
+align 19 *DELETE* 0.999995 a 4.70096e-06
+align 20 </s> 1

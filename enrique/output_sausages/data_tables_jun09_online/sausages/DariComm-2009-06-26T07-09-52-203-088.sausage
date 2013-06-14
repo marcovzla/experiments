@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 further 1
+align 6 problems 1
+align 7 we 1
+align 8 can 1
+align 9 assist 0.842996 uh 0.101945 to 0.0468756 i 0.00818336
+align 10 *DELETE* 0.842996 assist 0.157004
+align 11 you 1
+align 12 with 1
+align 13 *DELETE* 0.996519 uh 0.0019603 them 0.000601579 it 0.000565977 you 0.00025533 that 6.58611e-05 a 2.27102e-05 the 8.87911e-06 me 2.50374e-07 this 2.13337e-09
+align 14 </s> 1

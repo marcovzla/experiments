@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 is 0.986569 was 0.013431
+align 3 the 1
+align 4 village 1
+align 5 leader 0.983072 liter 0.0163516 of 0.000539809 *DELETE* 3.69769e-05
+align 6 *DELETE* 0.998192 i 0.000511982 leader 0.000489573 uh 0.000289718 is 0.000200597 in 0.000133685 liter 5.0236e-05 leaders 3.69749e-05 to 3.52052e-05 here 2.90675e-05 it 2.57329e-05 a 2.67e-06 you 1.35157e-06 if 4.34521e-07 and 2.04605e-07 do 1.02611e-07 meter 1.94239e-09 that 4.67859e-10 the 7.30647e-11 so 9.42012e-13
+align 7 </s> 1

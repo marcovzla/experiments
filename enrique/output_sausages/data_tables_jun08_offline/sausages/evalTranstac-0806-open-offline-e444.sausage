@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.99266 i 0.0062432 uh 0.0010967
+align 3 i 1.00012
+align 4 *DELETE* 0.999952 i 4.75732e-05
+align 5 can 0.999909 i 9.08714e-05
+align 6 *DELETE* 0.999909 can 9.08714e-05
+align 7 provide 1
+align 8 uh 1
+align 9 those 1
+align 10 blocking 0.99986 baqeen 0.00013959
+align 11 positions 1
+align 12 myself 0.999985 my 1.15031e-05 may 3.85719e-06
+align 13 *DELETE* 0.999985 self 1.53602e-05
+align 14 </s> 1

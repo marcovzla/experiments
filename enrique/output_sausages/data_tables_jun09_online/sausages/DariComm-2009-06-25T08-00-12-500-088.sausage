@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 show 1
+align 4 me 1
+align 5 how 1
+align 6 to 0.706728 *DELETE* 0.293272
+align 7 put 0.706728 about 0.293272
+align 8 the 1
+align 9 gloves 1
+align 10 on 0.952082 are 0.0478465 *DELETE* 7.10644e-05
+align 11 *DELETE* 0.950318 on 0.0461227 in 0.00269154 it 0.00043842 uh 0.000176046 a 7.79714e-05 you 6.99057e-05 aunt 5.39569e-05 and 2.89815e-05 off 1.13393e-05 the 5.15496e-06 awn 3.47158e-06 um 2.29659e-06 an 1.41151e-07 i 1.06724e-07 who 4.93392e-08 him 2.29665e-08 how 2.36052e-13
+align 12 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 well 0.998372 what 0.00162785
+align 3 what's 1
+align 4 the 1
+align 5 uh 1
+align 6 the 1
+align 7 nearest 1
+align 8 hospital 1
+align 9 it's 0.629337 that's 0.260819 is 0.0422897 this 0.0273486 its 0.0195438 does 0.0127723 gets 0.00789013 there's 7.28061e-09
+align 10 bigger 0.995066 a 0.00493415
+align 11 *DELETE* 0.995066 bigger 0.00493415
+align 12 than 1
+align 13 yours 1
+align 14 </s> 1

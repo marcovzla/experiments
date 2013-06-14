@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 well 0.982118 about 0.017882
+align 3 *DELETE* 0.946769 it 0.0532311
+align 4 when 1
+align 5 your 0.996376 you're 0.00362401
+align 6 second 1
+align 7 platoon 1
+align 8 moves 1
+align 9 into 1
+align 10 the 1
+align 11 warehouse 1
+align 12 i 1
+align 13 will 1
+align 14 attach 1
+align 15 my 0.948073 may 0.0519271
+align 16 uh 1
+align 17 e._o._d. 1
+align 18 team 1
+align 19 *DELETE* 0.999978 i 2.15674e-05 uh 5.73812e-07
+align 20 </s> 1

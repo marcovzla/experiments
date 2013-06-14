@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 before 1
+align 3 you 0.709682 he 0.200802 we 0.0895157
+align 4 came 1
+align 5 i 1
+align 6 put 1
+align 7 a 1
+align 8 tourniquet 1
+align 9 on 1
+align 10 his 1
+align 11 leg 1
+align 12 </s> 1

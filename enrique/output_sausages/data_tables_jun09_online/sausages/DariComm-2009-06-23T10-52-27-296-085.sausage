@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 he 0.999374 she 0.000459585 if 0.000132044 key 3.39972e-05
+align 2 *DELETE* 0.999868 he 0.000132044
+align 3 does 1
+align 4 *DELETE* 0.98445 it 0.00818775 uh 0.00451931 a 0.00118449 that 0.000915367 i 0.000537008 the 6.56185e-05 you 4.35414e-05 in 4.11994e-05 do 1.97235e-05 he 1.65027e-05 and 1.06799e-05 have 3.0883e-06 but 2.49975e-06 now 2.49241e-06 all 1.04813e-06 to 2.6354e-08 her 8.7674e-10 it's 1.7104e-10 an 5.20074e-21
+align 5 </s> 1

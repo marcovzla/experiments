@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 a 0.998977 uh 0.00102255
+align 4 large 1
+align 5 quantity 1
+align 6 of 1
+align 7 supplies 1
+align 8 that 1
+align 9 uh 1
+align 10 *DELETE* 0.997566 uh 0.00243438
+align 11 we 1
+align 12 can 1
+align 13 go 1
+align 14 ahead 1
+align 15 and 1
+align 16 give 0.998307 get 0.00117861 gave 0.000514715
+align 17 to 0.999402 two 0.000457147 tea 8.24337e-05 too 5.83735e-05
+align 18 you 1
+align 19 *DELETE* 0.999953 uh 4.65843e-05
+align 20 </s> 1

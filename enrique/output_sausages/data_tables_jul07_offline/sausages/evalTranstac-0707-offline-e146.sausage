@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.946128 uh 0.0538718
+align 3 we 1
+align 4 will 0.994379 were 0.00446842 would 0.000914254 we're 0.0002385
+align 5 try 1
+align 6 and 0.681419 uh 0.318581
+align 7 *DELETE* 0.681419 and 0.318581
+align 8 do 1
+align 9 that 1
+align 10 also 0.99988 i'll 0.000118855 *DELETE* 9.53807e-08 all 9.41331e-11
+align 11 *DELETE* 0.999865 so 8.87414e-05 sell 3.01139e-05 i 1.05802e-05 a 2.78231e-06 uh 2.60618e-06
+align 12 *DELETE* 0.999999 also 6.96365e-07
+align 13 </s> 1

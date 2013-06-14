@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 1
+align 3 uh 0.999735 *DELETE* 0.000263967 i 8.03807e-07
+align 4 i'll 0.699971 uh 0.300011 i 1.81645e-05
+align 5 *DELETE* 0.699971 i'll 0.300029
+align 6 go 1
+align 7 ahead 1
+align 8 and 1
+align 9 go 1
+align 10 into 0.876583 in 0.123417
+align 11 *DELETE* 0.876583 to 0.109809 two 0.0136086
+align 12 what 1
+align 13 to 0.999022 they 0.000977693
+align 14 do 1
+align 15 if 0.932613 with 0.061441 it 0.00510024 at 0.000845561
+align 16 there 0.944349 that 0.0456103 the 0.00702183 they're 0.00262995 they 0.000388447
+align 17 was 1
+align 18 an 1
+align 19 exit 1
+align 20 wound 1
+align 21 after 0.540621 uh 0.383665 a 0.0316105 i 0.0261662 or 0.0179373
+align 22 *DELETE* 0.540621 after 0.459379
+align 23 i 1
+align 24 do 1
+align 25 uh 1
+align 26 to 0.888516 *DELETE* 0.0663259 the 0.0212437 two 0.0124317 too 0.00706206 oh 0.00435521 door 6.16832e-05 store 3.97712e-06
+align 27 want 0.937594 torn 0.0310945 wanted 0.0179091 one 0.0131139 storm 0.000206399 on 6.56603e-05 doing 1.06069e-05 won 5.56102e-06
+align 28 the 0.998329 of 0.0016706
+align 29 *DELETE* 0.998329 the 0.0016706
+align 30 regular 1
+align 31 gunshot 1
+align 32 wound 1
+align 33 to 0.99961 in 0.000389747
+align 34 the 1
+align 35 chest 1
+align 36 </s> 1

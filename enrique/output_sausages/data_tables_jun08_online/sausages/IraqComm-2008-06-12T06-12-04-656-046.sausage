@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 having 0.887758 how 0.0535867 *DELETE* 0.0452581 have 0.00874994 hadn't 0.00464753
+align 2 *DELETE* 0.937111 do 0.0381303 i 0.0225821 are 0.00214657 did 2.98428e-05
+align 3 *DELETE* 0.903539 hadn't 0.0434457 the 0.0285283 long 0.0127812 they 0.00942485 have 0.00181234 big 0.000468138
+align 4 *DELETE* 0.998188 the 0.00181234
+align 5 signs 1
+align 6 on 1
+align 7 the 1
+align 8 road 1
+align 9 *DELETE* 0.773844 or 0.226156
+align 10 are 0.976264 *DELETE* 0.0221918 or 0.00146872 our 7.58184e-05
+align 11 very 1
+align 12 important 1
+align 13 *DELETE* 0.999882 uh 0.000109061 i 8.81298e-06 to 5.64817e-12
+align 14 </s> 1

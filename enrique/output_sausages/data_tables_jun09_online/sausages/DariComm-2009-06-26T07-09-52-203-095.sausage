@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 need 1
+align 5 help 1
+align 6 with 1
+align 7 it 0.526048 that 0.47388 *DELETE* 7.11531e-05
+align 8 *DELETE* 0.998201 uh 0.00172841 the 7.0505e-05 hit 2.83351e-08 i 7.83124e-09 as 1.04348e-09 at 5.50272e-10 to 5.41681e-10 a 2.8521e-18
+align 9 *DELETE* 1 it 1.50665e-21
+align 10 </s> 1

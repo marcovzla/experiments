@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 show 1
+align 4 me 1
+align 5 the 1
+align 6 area 1
+align 7 where 0.971245 up 0.0175528 help 0.00798383 uh 0.00321865
+align 8 *DELETE* 0.971245 where 0.0287553
+align 9 we 1
+align 10 will 1
+align 11 conduct 0.995215 convey 0.00478471
+align 12 *DELETE* 0.995215 out 0.00478471
+align 13 the 1
+align 14 koran 1
+align 15 and 0.935201 in 0.0647536 an 4.5327e-05
+align 16 search 0.997357 *DELETE* 0.00264273
+align 17 *DELETE* 0.993411 it 0.00258545 searched 0.00189999 uh 0.000789236 starch 0.000410494 you 0.000339891 searching 0.000332251 them 9.02646e-05 i 6.29969e-05 in 4.15518e-05 the 3.34714e-05 a 1.88675e-06 do 8.63082e-07 and 3.56658e-07 if 6.11694e-08 is 1.38821e-10
+align 18 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computers 0.990233 computer 0.00976725
+align 2 say 0.900433 see 0.0975433 to 0.00158994 *DELETE* 0.000434097
+align 3 again 0.997423 a 0.00192305 *DELETE* 0.000565655 state 8.86175e-05 it 5.93324e-26
+align 4 *DELETE* 0.996612 again 0.00190519 i 0.000382335 uh 0.000363351 sayediyah 0.000272894 going 0.000236829 in 8.06781e-05 stadium 7.19293e-05 okay 5.60002e-05 it 7.07961e-06 game 6.48568e-06 gang 2.66415e-06 to 1.11731e-06 saydiya 6.56528e-07 um 3.5666e-07 a 3.38796e-07 if 4.08366e-08 do 3.37335e-10 and 2.5393e-12 doing 1.46579e-17
+align 5 </s> 1

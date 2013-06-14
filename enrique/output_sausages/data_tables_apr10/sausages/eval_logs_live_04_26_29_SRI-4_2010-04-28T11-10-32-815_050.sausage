@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999974 i 2.55743e-05
+align 2 do 1
+align 3 you 1
+align 4 all 0.633916 own 0.313258 don't 0.0528258
+align 5 do 1
+align 6 you 1
+align 7 own 0.930089 all 0.069878 owe 3.26344e-05
+align 8 uh 0.829866 *DELETE* 0.16379 a 0.00602904 the 0.000314787
+align 9 all 1
+align 10 *DELETE* 0.719186 of 0.280607 all 0.000206995
+align 11 the 1
+align 12 necessary 1
+align 13 equipment 0.959222 equipments 0.0407779
+align 14 *DELETE* 0.999994 uh 3.43004e-06 i 2.57879e-06 to 2.13181e-07
+align 15 </s> 1

@@ -1,0 +1,43 @@
+numaligns 41
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 i 0.912941 uh 0.0870588
+align 3 i 0.470359 *DELETE* 0.324461 i'm 0.176748 uh 0.0284328
+align 4 i'm 0.796936 *DELETE* 0.176748 i 0.026316
+align 5 *DELETE* 0.999848 i 0.000152386
+align 6 *DELETE* 0.973684 i'm 0.026316
+align 7 sorry 1
+align 8 to 1
+align 9 hear 1
+align 10 that 1
+align 11 sir 1
+align 12 but 1
+align 13 it 1
+align 14 seems 1
+align 15 like 1
+align 16 there 0.873116 *DELETE* 0.0908966 they're 0.0359872
+align 17 is 0.909103 there's 0.0908966
+align 18 *DELETE* 0.999125 a 0.000875214
+align 19 pretty 1
+align 20 good 1
+align 21 evidence 1
+align 22 that 1
+align 23 he 1
+align 24 was 1
+align 25 involved 1
+align 26 in 1
+align 27 insurgent 1
+align 28 activity 1
+align 29 and 0.574725 in 0.425275
+align 30 trying 1
+align 31 to 1
+align 32 to 0.899824 two 0.0918681 too 0.00830812
+align 33 hurt 0.710081 hurts 0.245781 merge 0.0417364 merchant 0.00240205
+align 34 both 1
+align 35 american 1
+align 36 and 1
+align 37 iraqi 1
+align 38 forces 1
+align 39 *DELETE* 0.999996 uh 4.37641e-06
+align 40 </s> 1

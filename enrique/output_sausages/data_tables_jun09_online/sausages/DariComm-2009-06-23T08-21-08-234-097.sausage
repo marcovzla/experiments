@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 crops 1
+align 5 do 1
+align 6 you 1
+align 7 work 1
+align 8 with 1
+align 9 *DELETE* 0.802264 you 0.162168 them 0.0214301 it 0.00514423 me 0.00484393 him 0.00161081 uh 0.00119961 a 0.000794229 us 0.000382717 the 0.000128627 and 1.25717e-05 in 9.73123e-06 um 9.19269e-06 that 1.35429e-06 good 7.75592e-07 this 8.95797e-08 who 2.75984e-12 i 6.91613e-14
+align 10 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 0.999417 the 0.000582817
+align 3 very 1
+align 4 bad 1
+align 5 things 1
+align 6 in 0.955936 and 0.044055 end 8.99428e-06
+align 7 the 1 that 4.01149e-07 their 3.9866e-11
+align 8 trash 1
+align 9 *DELETE* 0.999931 uh 5.73918e-05 in 1.12543e-05 can 2.50671e-07 i 1.4083e-08
+align 10 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 of 0.867701 a 0.123648 it 0.00865083
+align 7 each 0.982877 v 0.0122795 beach 0.00484325
+align 8 *DELETE* 0.98772 each 0.0122795
+align 9 type 1
+align 10 of 0.999989 *DELETE* 1.14148e-05
+align 11 worker 0.958329 work 0.0331468 workers 0.00852388
+align 12 *DELETE* 0.966835 or 0.0250752 are 0.0080716 i 9.25607e-06 uh 8.51067e-06
+align 13 </s> 1

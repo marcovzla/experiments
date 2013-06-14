@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 0.956614 i 0.0433856
+align 3 we're 0.951156 uh 0.0265182 were 0.0223085 will 1.73807e-05
+align 4 *DELETE* 0.973482 we're 0.0265182
+align 5 actually 1
+align 6 gonna 0.834409 going 0.165591
+align 7 *DELETE* 0.834409 to 0.165591
+align 8 do 1
+align 9 a 1
+align 10 of 0.576756 off 0.423244
+align 11 a 0.781104 uh 0.218896
+align 12 pack 0.68501 packs 0.306775 pac 0.00818323 price 3.21406e-05
+align 13 say 0.724664 a 0.235178 see 0.0349704 sit 0.00358967 to 0.000790763 they 0.00066718 c 0.00014074
+align 14 here 0.999961 hear 3.94509e-05
+align 15 on 0.999979 our 2.10267e-05
+align 16 the 0.698709 *DELETE* 0.301291
+align 17 base 1
+align 18 right 1
+align 19 now 1
+align 20 so 1
+align 21 they 0.878589 then 0.121411
+align 22 know 0.866536 uh 0.0990911 are 0.0156139 no 0.00741713 i 0.0066244 now 0.00463643 all 8.11029e-05
+align 23 *DELETE* 0.999977 i 2.28054e-05
+align 24 you 1
+align 25 can 0.99908 could 0.000919703
+align 26 just 1
+align 27 see 1
+align 28 how 1 i 1.13442e-07
+align 29 it's 1 its 1.63778e-07
+align 30 done 1
+align 31 </s> 1

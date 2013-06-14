@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 now 0.996169 *DELETE* 0.00383052
+align 2 we'll 0.873919 i 0.0571613 *DELETE* 0.0376123 well 0.0108927 i'll 0.0104795 will 0.00993565
+align 3 *DELETE* 0.905271 will 0.0947295
+align 4 uh 1
+align 5 *DELETE* 0.883831 uh 0.116169
+align 6 with 0.999948 put 5.2076e-05
+align 7 that 0.999194 i 0.00080567
+align 8 plan 0.979447 planned 0.010342 plant 0.00593997 playing 0.00243253 *DELETE* 0.00183871
+align 9 in 0.998161 planning 0.00183871
+align 10 mind 1
+align 11 i 1
+align 12 would 1
+align 13 recommend 1
+align 14 uh 0.97654 that 0.0234599
+align 15 that 0.994734 uh 0.00526607
+align 16 *DELETE* 0.994734 that 0.00526607
+align 17 you 1
+align 18 would 1
+align 19 handle 1
+align 20 the 1
+align 21 east 1
+align 22 side 1
+align 23 of 1
+align 24 the 1
+align 25 objective 1
+align 26 and 0.98005 in 0.019893 an 5.71621e-05
+align 27 i'll 1
+align 28 stay 1
+align 29 here 1
+align 30 on 1
+align 31 the 1
+align 32 west 1
+align 33 ass 0.946602 that's 0.0300348 as 0.0193081 ask 0.00405548
+align 34 </s> 1

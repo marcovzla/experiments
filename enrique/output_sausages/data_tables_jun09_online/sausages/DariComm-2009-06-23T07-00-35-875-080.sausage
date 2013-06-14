@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 0.99986 i've 0.000140311
+align 2 do 0.773255 did 0.2185 been 0.00824455
+align 3 not 0.991755 uh 0.00824455
+align 4 *DELETE* 0.991755 i 0.00824455
+align 5 understand 1
+align 6 can 0.999957 and 4.28969e-05 *DELETE* 2.86539e-12
+align 7 you 1 he 8.86231e-10 *DELETE* 2.27916e-13
+align 8 say 0.999971 save 1.81638e-05 *DELETE* 1.1116e-05 see 2.71954e-08
+align 9 again 0.99923 you 0.000308448 here 0.000224593 *DELETE* 0.00014078 he 9.64237e-05
+align 10 *DELETE* 0.999861 i 5.47975e-05 it 2.47868e-05 game 2.11582e-05 see 1.08734e-05 in 9.46034e-06 gain 7.14013e-06 uh 5.37252e-06 he's 2.55177e-06 that 1.20065e-06 they 6.74468e-07 thing 4.3917e-07 saving 2.42463e-07 a 5.5064e-08 stay 8.91856e-11 eighty 7.34487e-18 setting 1.70914e-20
+align 11 *DELETE* 0.999991 you 8.71245e-06
+align 12 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 that 0.970993 not 0.0147148 now 0.0142924
+align 2 would 0.892429 with 0.107571
+align 3 that 1
+align 4 way 0.85579 would 0.0866254 with 0.0569613 *DELETE* 0.000622751
+align 5 there 0.544702 their 0.23159 they're 0.223085 whether 0.000622751
+align 6 uh 0.795268 um 0.190268 a 0.0144643
+align 7 vision 1
+align 8 is 0.991399 as 0.00855522 uh 4.58843e-05
+align 9 *DELETE* 0.999954 is 4.58843e-05
+align 10 more 0.996041 a 0.00395921
+align 11 *DELETE* 0.996041 more 0.00395921
+align 12 spread 0.700375 spurt 0.299432 sprayed 0.000193297
+align 13 out 0.997794 all 0.00220626
+align 14 into 1
+align 15 the 0.999438 *DELETE* 0.000561657 that 3.52307e-08
+align 16 town 0.999609 time 0.000390528
+align 17 </s> 1

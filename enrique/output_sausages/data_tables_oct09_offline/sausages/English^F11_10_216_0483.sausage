@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 1
+align 3 uh 1
+align 4 we'll 1
+align 5 go 1
+align 6 execute 1
+align 7 in 0.983252 it 0.0108082 *DELETE* 0.00488264 and 0.00105705
+align 8 *DELETE* 0.984309 and 0.0156908
+align 9 prior 0.898585 press 0.0913622 prep 0.00527454 pressure 0.00477807
+align 10 practice 0.998744 practiced 0.000998283 packs 0.000257392
+align 11 this 0.981753 *DELETE* 0.0182467
+align 12 inside 1
+align 13 the 1
+align 14 fob 0.998715 farm 0.00103353 father 0.000251336
+align 15 today 0.999967 to 3.34042e-05
+align 16 *DELETE* 0.999245 uh 0.000441986 it 0.000212886 i 6.62458e-05 the 3.34042e-05
+align 17 </s> 1

@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 how 1 *DELETE* 2.3222e-17
+align 2 about 1
+align 3 you 1
+align 4 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 these 0.998562 he's 0.00131944 ease 0.000118773 nice 1.15572e-08
+align 6 problems 1 *DELETE* 9.20412e-18
+align 7 *DELETE* 0.995387 uh 0.00451457 i 6.67497e-05 are 3.10861e-05 problem's 4.51029e-07 to 6.00678e-08 can 3.06211e-08 be 3.88472e-11 it 4.06243e-14 of 2.94871e-15 have 5.0437e-17
+align 8 </s> 1

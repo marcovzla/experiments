@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 did 0.988612 do 0.0113877
+align 3 you 1
+align 4 wait 1
+align 5 three 1
+align 6 days 1
+align 7 to 1
+align 8 come 1
+align 9 and 0.999992 in 7.84564e-06
+align 10 talk 1
+align 11 to 1
+align 12 me 1
+align 13 about 1
+align 14 this 1
+align 15 if 0.914514 that 0.0572465 it's 0.0143317 it 0.00968401 at 0.00392269 its 0.000174537 *DELETE* 0.000111494 of 1.53327e-05
+align 16 this 1
+align 17 is 0.594386 was 0.403609 has 0.00200485
+align 18 all 1
+align 19 of 1
+align 20 your 0.991593 you 0.0050462 the 0.00336082
+align 21 money 1
+align 22 </s> 1

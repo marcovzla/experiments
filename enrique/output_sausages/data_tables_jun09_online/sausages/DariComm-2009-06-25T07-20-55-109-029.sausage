@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 do 0.999982 *DELETE* 1.83502e-05
+align 4 you 1
+align 5 get 1 give 6.96948e-38
+align 6 paid 0.999503 pay 0.00049672 *DELETE* 7.24994e-19
+align 7 *DELETE* 0.99948 it 0.000402214 off 6.43534e-05 in 3.95352e-05 uh 1.26281e-05 you 8.35694e-07 to 3.70793e-08 a 3.25855e-10 for 5.2437e-11 well 6.6749e-15 page 2.16133e-15 me 2.17486e-24 and 2.37541e-26 them 5.53114e-29
+align 8 </s> 1

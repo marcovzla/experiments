@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 you're 0.840947 you 0.154582 your 0.00446295 do 8.09964e-06
+align 2 *DELETE* 0.999992 you 8.09964e-06
+align 3 welcome 1
+align 4 </s> 1

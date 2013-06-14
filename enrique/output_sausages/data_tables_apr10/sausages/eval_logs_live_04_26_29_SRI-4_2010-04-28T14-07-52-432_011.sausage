@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.986158 i 0.0138424
+align 2 thank 1
+align 3 you 1
+align 4 for 1
+align 5 meeting 1
+align 6 with 1
+align 7 me 1
+align 8 regarding 1
+align 9 the 0.996365 *DELETE* 0.00194381 this 0.00155305 a 0.000137752
+align 10 school 0.99998 schools 1.97296e-05
+align 11 *DELETE* 0.999896 i 6.03954e-05 uh 3.73303e-05 in 6.03058e-06 a 3.24773e-07
+align 12 </s> 1

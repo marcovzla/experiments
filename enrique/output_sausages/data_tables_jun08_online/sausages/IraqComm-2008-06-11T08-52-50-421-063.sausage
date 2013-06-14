@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.942297 where 0.0535291 were 0.00411436 what 5.90659e-05
+align 2 would 0.942297 do 0.0577025
+align 3 you 0.761803 your 0.238197
+align 4 workers 1
+align 5 mostly 1
+align 6 come 1 calm 4.03361e-21
+align 7 from 1
+align 8 *DELETE* 0.999954 uh 4.11687e-05 you 3.62369e-06 a 1.27071e-06 the 1.52182e-13
+align 9 </s> 1

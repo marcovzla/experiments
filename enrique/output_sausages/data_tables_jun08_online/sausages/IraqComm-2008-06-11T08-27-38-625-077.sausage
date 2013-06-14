@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 do 1
+align 3 you 1
+align 4 share 0.997926 *DELETE* 0.00207371
+align 5 a 0.513827 *DELETE* 0.412249 patrol 0.0718504 sure 0.00168873 ship 0.00038498
+align 6 patrol 0.92815 *DELETE* 0.0718504
+align 7 intelligence 1
+align 8 with 0.704956 what 0.1696 well 0.0475681 where 0.0452885 was 0.013248 wealth 0.00663987 wet 0.00532319 west 0.00408446 way 0.00300289 wes 0.000207578 *DELETE* 8.16958e-05
+align 9 *DELETE* 0.999795 ways 7.6114e-05 if 7.32354e-05 a 2.88551e-05 uh 2.10461e-05 wear 5.58173e-06 is 1.06543e-12
+align 10 </s> 1

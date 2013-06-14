@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 what 0.9922 *DELETE* 0.00779993
+align 2 i 0.975398 uh 0.010113 well 0.00779993 out 0.0066892
+align 3 what 0.998754 want 0.00124607
+align 4 i 1
+align 5 was 1
+align 6 when 0.97029 what 0.0297097
+align 7 i 1
+align 8 was 1
+align 9 suggest 0.992413 suggests 0.00758744
+align 10 at 0.982592 that 0.0109769 if 0.0032415 it 0.00319003
+align 11 this 1
+align 12 time 0.997286 *DELETE* 0.00271401
+align 13 is 0.960507 it's 0.0203392 as 0.0148048 times 0.00271401 this 0.00163466
+align 14 maybe 0.996741 may 0.00304138 meeting 0.000217892
+align 15 *DELETE* 0.996959 be 0.00304138
+align 16 we 1
+align 17 can 1
+align 18 do 1
+align 19 *DELETE* 0.961312 you 0.0386882
+align 20 uh 0.992373 um 0.00762656
+align 21 a 0.828085 *DELETE* 0.164203 to 0.00513124 uh 0.00258051
+align 22 job 0.986047 chop 0.00737514 jobs 0.00329341 chopped 0.00310418 jot 0.000163775 chopper 1.61057e-05
+align 23 fair 0.986607 fare 0.0116222 there 0.00125327 *DELETE* 0.000452722 to 6.45915e-05
+align 24 *DELETE* 0.997543 in 0.00135991 uh 0.000323968 here 0.00025907 and 0.000232589 fear 0.000150083 fair 5.40206e-05 affair 2.85906e-05 fairer 1.35801e-05 or 1.26856e-05 fare 1.05691e-05 i 9.21451e-06 a 1.13264e-06 figure 1.07172e-06 farah 2.21244e-07 prayer 1.06452e-07 their 2.30014e-11
+align 25 </s> 1

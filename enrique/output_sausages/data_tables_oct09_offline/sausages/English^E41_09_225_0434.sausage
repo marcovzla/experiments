@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 next 0.98929 and 0.01071
+align 3 *DELETE* 0.98929 next 0.01071
+align 4 after 1
+align 5 you 1
+align 6 go 1
+align 7 ahead 1
+align 8 and 1
+align 9 do 1
+align 10 that 1
+align 11 you're 1
+align 12 going 0.800635 *DELETE* 0.199365
+align 13 to 0.800107 gonna 0.199365 uh 0.000527876
+align 14 make 0.674269 uh 0.325731
+align 15 *DELETE* 0.674269 make 0.325731
+align 16 sure 0.873841 sir 0.126159
+align 17 are 0.91545 our 0.0527359 uh 0.0310973 i'd 0.000442239 *DELETE* 0.000244376 i 2.97247e-05
+align 18 there 0.877221 *DELETE* 0.0753806 uh 0.017406 are 0.0107194 they 0.00829383 their 0.00483602 there's 0.00469423 i 0.0009092 if 0.000276102 does 0.000153821 that 7.83651e-05 oh 3.10033e-05
+align 19 *DELETE* 0.895284 they're 0.091817 there 0.0124661 there's 0.000244289 their 0.00016039 they 1.63753e-05 that 1.17729e-05
+align 20 still 0.999994 distill 6.49718e-06
+align 21 rising 1
+align 22 and 0.985043 him 0.0134526 them 0.000690592 in 0.000420332 i'm 0.000393065
+align 23 falling 1
+align 24 *DELETE* 0.999999 out 1.40649e-06
+align 25 of 0.98844 or 0.0045037 to 0.00242764 on 0.00217816 are 0.00121551 ill 0.000986859 uh 0.000188899 no 2.37879e-05 our 2.24054e-05 out 1.26712e-05 though 2.21502e-07
+align 26 the 1
+align 27 chest 1
+align 28 </s> 1

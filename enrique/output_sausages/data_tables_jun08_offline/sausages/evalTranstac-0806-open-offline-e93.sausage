@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that'll 1
+align 3 work 1
+align 4 right 0.860276 great 0.0943894 rate 0.0423857 rates 0.00159379 grade 0.00060467 write 0.00048355 grates 0.000247283 rights 1.04814e-05 raids 3.77968e-06 crates 1.99006e-06 grades 1.41297e-06 rape 1.1203e-06 writes 6.7592e-07 grave 1.6198e-07 grape 1.28772e-07 or 1.50651e-09
+align 5 *DELETE* 1 eight 1.50651e-09
+align 6 </s> 1

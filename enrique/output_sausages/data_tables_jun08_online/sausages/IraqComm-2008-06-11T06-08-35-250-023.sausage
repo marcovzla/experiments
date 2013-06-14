@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we're 0.72676 we 0.272305 where 0.000934402 were 5.86726e-15
+align 2 *DELETE* 0.727695 are 0.272305
+align 3 looking 1
+align 4 for 1
+align 5 i._e._d. 0.816118 uh 0.179998 i 0.00388387
+align 6 *DELETE* 0.816118 i._e._d. 0.179998 eighty 0.00269956 edi 0.00118431
+align 7 materials 1 material 5.74158e-17
+align 8 *DELETE* 0.999894 uh 7.1648e-05 i 3.42985e-05 if 2.44308e-08 in 2.38372e-11 so 5.74158e-17 to 2.83874e-17
+align 9 </s> 1

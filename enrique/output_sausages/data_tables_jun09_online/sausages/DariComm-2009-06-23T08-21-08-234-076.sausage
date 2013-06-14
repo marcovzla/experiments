@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.945198 i 0.0236157 oh 0.0228809 uh 0.00830551
+align 2 *DELETE* 0.945198 i'm 0.0414885 am 0.0133136
+align 3 sorry 1
+align 4 but 1
+align 5 i 1
+align 6 cannot 1
+align 7 let 1
+align 8 you 1
+align 9 pass 1
+align 10 it 0.542621 and 0.163411 *DELETE* 0.161501 on 0.0602487 in 0.0484677 them 0.0178302 went 0.00456887 when 0.000834828 i'm 0.000317813 then 0.000194238 by 5.27543e-06
+align 11 *DELETE* 0.999995 in 5.27543e-06
+align 12 to 0.730846 into 0.161501 two 0.0739217 too 0.0337316
+align 13 you 1
+align 14 get 1
+align 15 out 1
+align 16 and 0.99911 in 0.000847376 when 4.23e-05
+align 17 i 0.627635 i'll 0.30313 uh 0.0395385 i've 0.0284669 a 0.000847376 that 0.000280472 i'd 0.000101504
+align 18 talk 0.917031 talked 0.0677835 talking 0.0151857
+align 19 to 1
+align 20 you 1
+align 21 *DELETE* 0.999708 uh 0.000281665 to 3.6489e-06 in 3.64063e-06 i 2.56033e-06 a 2.14229e-07 do 1.98355e-07 know 6.10348e-09 and 3.46539e-10 that 2.84584e-11 um 2.07901e-12
+align 22 </s> 1

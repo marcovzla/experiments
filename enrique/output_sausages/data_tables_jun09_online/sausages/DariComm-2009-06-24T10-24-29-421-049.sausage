@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.887538 i 0.112462
+align 3 so 0.852336 see 0.147664
+align 4 you 0.99977 *DELETE* 0.00022972
+align 5 have 0.992804 had 0.00719615
+align 6 fifteen 1
+align 7 beds 1
+align 8 for 0.981356 four 0.0186445
+align 9 fifty 1
+align 10 people 1
+align 11 *DELETE* 0.999718 do 0.000170477 uh 8.93947e-05 i 1.42265e-05 who 4.20799e-06 in 3.96628e-06 to 1.46492e-07 you 1.80684e-10 so 4.69369e-11 it 1.57692e-12
+align 12 </s> 1

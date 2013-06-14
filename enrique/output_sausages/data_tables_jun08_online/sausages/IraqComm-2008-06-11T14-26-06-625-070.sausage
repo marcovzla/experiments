@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 0.564989 computers 0.435011
+align 2 say 1
+align 3 again 0.999343 a 0.000656945 *DELETE* 1.16681e-14
+align 4 *DELETE* 0.999343 again 0.000656945 i 1.67635e-07 jan 2.91937e-11 can 1.83342e-14
+align 5 </s> 1

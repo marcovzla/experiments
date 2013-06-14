@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 with 1
+align 2 that 1
+align 3 it's 1
+align 4 important 1
+align 5 that 0.98025 at 0.0197505
+align 6 there 0.358527 they're 0.358524 their 0.282949
+align 7 straps 1
+align 8 get 0.947184 good 0.0528158
+align 9 taped 0.425224 tape 0.424077 keep 0.140641 peep 0.0100587
+align 10 down 0.905944 out 0.0940562
+align 11 and 0.998602 in 0.00139833
+align 12 they 0.999721 a 0.000279265
+align 13 can 1
+align 14 maintain 1
+align 15 proper 0.970574 properly 0.0294265
+align 16 noise 0.97042 always 0.0294265 loyce 0.000153119
+align 17 discipline 0.97625 disciplined 0.0237498
+align 18 </s> 1

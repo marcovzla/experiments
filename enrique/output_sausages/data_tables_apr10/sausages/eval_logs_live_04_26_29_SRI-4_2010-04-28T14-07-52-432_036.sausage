@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 do 1
+align 3 you 1
+align 4 get 1
+align 5 your 1
+align 6 water 1
+align 7 for 0.999981 four 1.86982e-05
+align 8 the 0.999966 this 3.40673e-05 that 1.66111e-27
+align 9 students 0.999019 students' 0.000936938 student's 4.35736e-05
+align 10 *DELETE* 0.999996 i 3.96126e-06 to 1.23652e-09
+align 11 </s> 1

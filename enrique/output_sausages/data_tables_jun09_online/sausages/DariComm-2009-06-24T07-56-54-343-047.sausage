@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 0.995194 well 0.00480542 we'll 1.06993e-07
+align 2 problems 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 *DELETE* 0.994789 uh 0.00237141 a 0.00235448 it 0.000216132 the 0.000145743 to 0.000100021 that 1.22092e-05 in 1.12811e-05 them 1.57666e-07 you 6.44255e-10 i 3.14386e-10
+align 7 </s> 1

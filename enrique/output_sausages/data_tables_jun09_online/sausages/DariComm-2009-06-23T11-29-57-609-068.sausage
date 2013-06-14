@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 water 0.912543 a 0.087457
+align 6 *DELETE* 0.912543 water 0.087457
+align 7 to 0.99987 could 9.87834e-05 too 3.14098e-05
+align 8 give 1
+align 9 your 0.997073 you 0.00279127 you're 0.000136161
+align 10 soldiers 0.998875 *DELETE* 0.00112498
+align 11 *DELETE* 0.990928 a 0.00563227 uh 0.00216584 soldiers' 0.0011145 i 0.000144404 soldier's 1.04767e-05 in 3.29092e-06 to 9.59715e-07 that 1.00389e-08 you 1.79019e-09 are 1.48274e-11
+align 12 </s> 1

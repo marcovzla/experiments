@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 let's 1
+align 2 start 1
+align 3 by 1
+align 4 looking 1
+align 5 at 1
+align 6 the 1
+align 7 map 1
+align 8 and 1
+align 9 identify 0.876943 *DELETE* 0.122927 i 0.000130835
+align 10 *DELETE* 0.999869 identify 0.000130835
+align 11 and 0.865587 identifying 0.122927 in 0.0114863
+align 12 the 0.571029 get 0.291447 be 0.0882717 they 0.0426414 do 0.00600758 pay 0.000603082
+align 13 particular 1
+align 14 neighborhood 1
+align 15 and 1
+align 16 uh 0.672854 the 0.327146
+align 17 particular 0.924479 uh 0.075521
+align 18 *DELETE* 0.924479 particular 0.075521
+align 19 routes 1
+align 20 that 1
+align 21 you 1
+align 22 believe 0.99965 believed 0.000350379
+align 23 that 1
+align 24 they 1
+align 25 may 1
+align 26 use 1
+align 27 to 1
+align 28 exit 0.999989 eggs 1.10131e-05
+align 29 *DELETE* 0.999989 at 1.10131e-05
+align 30 the 1
+align 31 city 0.999991 siti 8.86224e-06
+align 32 *DELETE* 0.999994 uh 5.71525e-06 i 1.82459e-08
+align 33 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 do 1
+align 3 you 1
+align 4 know 1
+align 5 how 1
+align 6 many 1
+align 7 uh 1
+align 8 um 0.905467 uh 0.0945331
+align 9 *DELETE* 0.924261 uh 0.0739709 i'm 0.0017679
+align 10 men 0.966239 man 0.0337558 and 5.71341e-06
+align 11 were 0.929976 we're 0.0667307 word 0.00215543 work 0.000983733 or 0.000154365
+align 12 driving 1
+align 13 that 0.999404 at 0.000596158
+align 14 red 0.99911 right 0.000541625 read 0.000244097 rent 8.47824e-05 rhett 1.43817e-05 ride 4.99799e-06 write 5.25969e-10
+align 15 car 0.999794 kar 0.000146645 qar 5.89496e-05
+align 16 </s> 1

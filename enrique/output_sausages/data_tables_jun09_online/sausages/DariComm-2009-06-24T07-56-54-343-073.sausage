@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 0.99937 well 0.000629566
+align 2 other 1
+align 3 problems 1
+align 4 are 1
+align 5 there 0.999824 their 0.00013668 *DELETE* 3.96432e-05
+align 6 *DELETE* 0.999666 the 8.96945e-05 in 6.48788e-05 uh 4.39973e-05 they're 3.96432e-05 too 3.66015e-05 to 3.36326e-05 with 2.06789e-05 two 2.93164e-06 so 8.46657e-07 is 7.66608e-07 and 2.94213e-07 i 7.00849e-13
+align 7 </s> 1

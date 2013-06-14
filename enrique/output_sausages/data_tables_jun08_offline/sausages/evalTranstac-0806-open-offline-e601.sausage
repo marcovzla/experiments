@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 i 0.999205 i've 0.000795039
+align 2 *DELETE* 0.988947 i 0.0110534
+align 3 heard 1
+align 4 it 1
+align 5 over 1
+align 6 the 1
+align 7 uh 1
+align 8 radio 0.999702 uh 0.000297699
+align 9 *DELETE* 0.999702 radio 0.000297699
+align 10 report 1 reports 9.56857e-09
+align 11 *DELETE* 1 and 9.17571e-08 uh 2.59143e-08
+align 12 i 1
+align 13 *DELETE* 1 i 2.96845e-07
+align 14 just 1
+align 15 wanted 0.990656 wanna 0.00910389 want 0.000239955
+align 16 to 0.94345 it 0.0474459 dig 0.00910389
+align 17 *DELETE* 0.99976 dig 0.000239955
+align 18 confirm 0.902002 confirmed 0.0979983
+align 19 the 0.999805 d 0.000194765
+align 20 information 1
+align 21 regarding 1
+align 22 the 0.999956 that 4.42109e-05
+align 23 vehicle 0.999969 vehicles 3.06873e-05
+align 24 *DELETE* 0.999908 uh 9.04866e-05 i 1.19193e-06
+align 25 </s> 1

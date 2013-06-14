@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 replacement 1
+align 5 cars 0.936226 car 0.0380087 car's 0.017226 cards 0.00654779 cars' 0.00199047 cause 1.47267e-06
+align 6 *DELETE* 0.961991 as 0.0369726 is 0.00103603
+align 7 for 0.999626 four 0.000374447
+align 8 any 1
+align 9 of 1
+align 10 your 0.367643 years 0.355018 yours 0.277339
+align 11 *DELETE* 0.632357 is 0.362621 as 0.00502203
+align 12 that 1
+align 13 get 0.985842 could 0.00694289 can 0.00651564 gets 0.00060599 good 8.09429e-05 kid 1.2271e-05 kit 6.86638e-08 kids 3.70435e-09
+align 14 damaged 0.988992 damage 0.0110078
+align 15 *DELETE* 0.999763 it 0.000132129 i 5.37997e-05 uh 2.26137e-05 in 1.12395e-05 due 7.79354e-06 do 4.01081e-06 and 3.11575e-06 you 1.2188e-06 a 6.10389e-07 the 2.59735e-09 is 1.3993e-12
+align 16 </s> 1

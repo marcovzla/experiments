@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 who 0.994054 *DELETE* 0.00588236 and 6.06632e-05 uh 3.2619e-06
+align 2 are 0.891136 were 0.108864
+align 3 the 1
+align 4 people 1
+align 5 that 1
+align 6 work 1
+align 7 here 1
+align 8 *DELETE* 1 uh 4.08938e-09 i 1.40087e-12
+align 9 </s> 1

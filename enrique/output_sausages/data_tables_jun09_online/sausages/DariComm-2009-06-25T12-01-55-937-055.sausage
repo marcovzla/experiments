@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 direction 1
+align 3 has 0.999878 as 0.000121629
+align 4 the 1
+align 5 most 1
+align 6 traffic 1
+align 7 over 0.942375 or 0.0576121 what 6.70419e-06 well 5.19077e-06 where 1.05389e-06
+align 8 *DELETE* 0.999991 would 7.75809e-06 wood 8.43573e-07
+align 9 the 0.943302 with 0.055677 were 0.000427139 or 0.000404413 what 9.37605e-05 would 5.15843e-05 we're 4.37278e-05
+align 10 *DELETE* 0.943302 a 0.0473973 the 0.00930035
+align 11 bridge 1
+align 12 *DELETE* 0.999333 uh 0.000636638 it 1.18843e-05 is 9.66302e-06 i 8.16787e-06 the 1.71568e-07 you 1.14502e-08
+align 13 </s> 1

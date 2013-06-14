@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 0.999471 when 0.000332657 where 0.000163754 one 3.30057e-05
+align 2 is 1
+align 3 it 0.981264 that 0.0187362
+align 4 like 1
+align 5 here 0.970082 a 0.0232513 hear 0.0037383 in 0.00292876
+align 6 *DELETE* 0.97382 here 0.0261801
+align 7 when 0.999058 one 0.00094188
+align 8 you 1
+align 9 don't 1
+align 10 have 1
+align 11 enough 1
+align 12 water 1 *DELETE* 3.22732e-21
+align 13 *DELETE* 0.99995 or 5.00503e-05 louder 4.83639e-16 uh 2.87836e-18
+align 14 </s> 1

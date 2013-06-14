@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 my 1
+align 3 name 1
+align 4 is 1
+align 5 lieutenant 1
+align 6 colonel 1
+align 7 well 0.925847 while 0.0709757 long 0.00144523 wall 0.00114441 all 0.000562659 low 2.49093e-05 *DELETE* 9.02702e-17
+align 8 i'm 0.920985 i 0.039897 *DELETE* 0.039118
+align 9 *DELETE* 0.920269 am 0.0365225 um 0.0241117 on 0.0105799 i'm 0.00337459 long 0.00285327 along 0.000906593 mom 0.000628649 uh 0.000452365 a 0.000186975 i 0.000114156 i'll 1.038e-07 lawn 2.16819e-10 lon 1.29855e-10
+align 10 *DELETE* 0.999997 i 2.57215e-06
+align 11 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 don't 1
+align 3 understand 1
+align 4 can 1
+align 5 you 1
+align 6 tell 1
+align 7 me 1
+align 8 what's 1
+align 9 wrong 1
+align 10 with 1
+align 11 you 1
+align 12 *DELETE* 0.998899 uh 0.00102479 now 3.41866e-05 i 2.75085e-05 um 9.03409e-06 know 5.02396e-06
+align 13 </s> 1

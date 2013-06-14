@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 0.99515 were 0.00484962
+align 2 *DELETE* 0.88378 are 0.11622
+align 3 you 1
+align 4 going 1
+align 5 today 1 to 8.41103e-11
+align 6 *DELETE* 1 them 8.41103e-11 pay 2.53019e-17
+align 7 </s> 1

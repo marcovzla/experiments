@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.954534 uh 0.0454659
+align 2 and 0.998617 *DELETE* 0.00138299 in 3.99308e-11
+align 3 then 1 that 4.00867e-07
+align 4 we 0.999997 they 2.71227e-06
+align 5 check 0.984661 take 0.0153386
+align 6 the 1
+align 7 battery 0.889326 better 0.108668 battered 0.00200523
+align 8 to 0.976545 do 0.0208872 you 0.00200523 did 0.000443648 get 0.00011914
+align 9 *DELETE* 0.999965 you 3.50867e-05
+align 10 make 1
+align 11 sure 1
+align 12 that 1
+align 13 is 0.920711 it's 0.0792892
+align 14 not 1
+align 15 committed 0.992534 permitted 0.00407747 can 0.0029722 ready 0.000388285 commit 2.00035e-05 committee 8.38403e-06
+align 16 *DELETE* 0.997028 read 0.0029722
+align 17 *DELETE* 0.996989 it 0.00299221 a 1.12874e-05 to 7.14433e-06
+align 18 </s> 1

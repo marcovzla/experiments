@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.991926 oh 0.00502509 i 0.0030494
+align 2 i 0.99997 *DELETE* 3.03178e-05
+align 3 am 0.999964 i'm 3.60096e-05
+align 4 here 1
+align 5 to 1
+align 6 help 1
+align 7 rebuild 0.992814 rebuilt 0.00713528 *DELETE* 5.12167e-05
+align 8 *DELETE* 0.995152 uh 0.00410305 a 0.000285134 the 0.000135316 it 0.00013301 some 6.79062e-05 so 6.69955e-05 rebuilds 5.12167e-05 i 5.69702e-06
+align 9 </s> 1

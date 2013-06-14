@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 0.834542 non 0.165458
+align 5 desks 1
+align 6 for 0.999496 four 0.000504249
+align 7 these 1
+align 8 classrooms 0.999997 class 1.71722e-06 glass 1.03076e-06
+align 9 *DELETE* 0.999996 rooms 2.74798e-06 uh 4.48039e-07 i 3.32877e-07
+align 10 </s> 1

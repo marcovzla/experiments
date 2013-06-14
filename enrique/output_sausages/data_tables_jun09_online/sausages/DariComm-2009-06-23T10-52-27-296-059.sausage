@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.9991 do 0.000900021
+align 2 you 1
+align 3 need 1
+align 4 to 1
+align 5 see 1
+align 6 a 1
+align 7 doctor 1
+align 8 is 0.989832 he 0.0101681
+align 9 *DELETE* 0.989832 is 0.0101681
+align 10 it 0.990605 that 0.00939456 sit 2.64702e-28 *DELETE* 2.31651e-33
+align 11 an 0.998917 in 0.00108285 and 1.27242e-14 sitting 2.93762e-32
+align 12 emergency 1 the 1.27632e-13
+align 13 *DELETE* 0.999993 i 6.92756e-06 uh 5.73313e-09 the 3.41554e-12 you 4.34829e-13 um 3.21149e-13 emergency 1.27632e-13
+align 14 </s> 1

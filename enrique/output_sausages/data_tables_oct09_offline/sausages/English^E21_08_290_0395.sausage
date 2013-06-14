@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 guys 1
+align 3 gotta 1
+align 4 use 1
+align 5 imagination 1
+align 6 what 0.797711 on 0.202289
+align 7 *DELETE* 0.735423 what 0.202289 all 0.0622878
+align 8 and 0.525496 on 0.337597 armed 0.136906
+align 9 what 0.743398 well 0.245885 why 0.0104525 one 0.000263912
+align 10 and 0.999653 on 0.000284371 i'm 6.29781e-05
+align 11 how 1
+align 12 you 1
+align 13 can 1
+align 14 use 1
+align 15 it 0.998574 *DELETE* 0.000786746 a 0.000298051 that 0.000295156 uh 4.64107e-05 at 2.11338e-09
+align 16 </s> 1

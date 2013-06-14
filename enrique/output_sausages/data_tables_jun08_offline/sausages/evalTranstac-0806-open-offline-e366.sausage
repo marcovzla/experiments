@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 0.874625 are 0.0457035 now 0.0409601 oh 0.0167827 all 0.0112203 how 0.00609793 i'll 0.00293335 i 0.000885355 no 0.000792036
+align 2 *DELETE* 0.999511 uh 0.000484424 i 4.09407e-06
+align 3 you 1
+align 4 want 0.989332 *DELETE* 0.0106679
+align 5 to 0.989241 wanna 0.0106679 a 9.1062e-05
+align 6 check 1
+align 7 it 0.997268 if 0.00187086 a 0.00086088
+align 8 from 1
+align 9 the 1
+align 10 neck 0.995024 net 0.00496811 next 8.18385e-06
+align 11 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 based 0.995431 they 0.00456913
+align 2 upon 0.995431 spun 0.00456913
+align 3 your 1
+align 4 knowledge 1
+align 5 of 0.990407 *DELETE* 0.00959266
+align 6 the 1
+align 7 area 1
+align 8 what 1
+align 9 directions 1
+align 10 should 0.999569 sure 0.000431269
+align 11 they 0.998534 that 0.00146587 *DELETE* 1.32555e-12
+align 12 come 1 become 7.13463e-09
+align 13 from 0.996785 for 0.00321458 front 2.14312e-08
+align 14 *DELETE* 1 i 2.1144e-07
+align 15 </s> 1

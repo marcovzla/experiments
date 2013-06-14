@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 come 1
+align 2 back 1
+align 3 tomorrow 1
+align 4 and 1
+align 5 i'll 1
+align 6 i'll 1
+align 7 uh 0.952607 *DELETE* 0.043536 i'll 0.00385703
+align 8 *DELETE* 0.999866 uh 0.000133651
+align 9 i 0.52755 should 0.26469 *DELETE* 0.205529 uh 0.00152506 us 0.000704789
+align 10 should 0.73531 *DELETE* 0.26469
+align 11 have 1
+align 12 any 0.537582 an 0.462418
+align 13 answer 0.999999 it's 8.95167e-07
+align 14 *DELETE* 0.999999 in 6.37978e-07 or 2.56796e-07 are 3.93202e-10 our 2.30903e-13 an 1.05637e-15
+align 15 for 1
+align 16 you 1
+align 17 *DELETE* 0.999988 i 1.18316e-05
+align 18 </s> 1

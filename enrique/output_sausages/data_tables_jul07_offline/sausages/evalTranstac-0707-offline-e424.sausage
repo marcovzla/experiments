@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 where 1
+align 3 else 1
+align 4 would 0.98942 do 0.0105797
+align 5 you 1
+align 6 like 1
+align 7 to 1
+align 8 talk 0.999602 top 0.000246153 talked 7.60917e-05 taught 7.52743e-05
+align 9 *DELETE* 0.999921 to 7.35474e-05 i 3.19261e-06 uh 1.42843e-06 a 7.64987e-07
+align 10 </s> 1

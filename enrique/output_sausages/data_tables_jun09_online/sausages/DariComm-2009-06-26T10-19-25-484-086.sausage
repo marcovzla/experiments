@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 get 1
+align 5 water 1
+align 6 to 0.994199 too 0.00207032 can 0.0018274 two 0.00113911 *DELETE* 0.000755324 could 8.47297e-06
+align 7 your 0.999175 tuyour 0.000755324 you're 7.00672e-05 carrier 9.7892e-13 year 6.33812e-21 you 2.9049e-22
+align 8 fields 1 field's 1.26934e-15
+align 9 </s> 1

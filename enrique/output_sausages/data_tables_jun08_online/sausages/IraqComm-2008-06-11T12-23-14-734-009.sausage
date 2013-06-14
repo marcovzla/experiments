@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computer 0.939968 a 0.0600321
+align 2 *DELETE* 0.939968 computer 0.0600321
+align 3 play 0.973298 clay 0.0178555 plate 0.00413077 playing 0.00237284 played 0.00180948 plague 0.000466 player 6.7297e-05
+align 4 instructions 0.991375 a 0.00860379 *DELETE* 2.07567e-05
+align 5 *DELETE* 0.991375 instructions 0.00860379 constructions 2.07567e-05 i 3.56581e-12
+align 6 </s> 1

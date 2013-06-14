@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 did 1
+align 3 *DELETE* 0.702399 now 0.274529 know 0.0230713
+align 4 not 0.702399 i 0.28911 *DELETE* 0.00750013 i'll 0.000990571 are 5.72195e-10
+align 5 understand 1
+align 6 *DELETE* 0.998923 uh 0.000709368 it 0.000218962 you 0.000122431 i 2.5202e-05 that 4.26102e-07 if 2.82824e-07 a 2.13093e-07 um 2.38794e-08 do 3.81625e-13
+align 7 </s> 1

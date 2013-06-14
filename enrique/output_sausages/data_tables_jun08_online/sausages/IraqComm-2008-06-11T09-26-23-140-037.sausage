@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 a 1
+align 7 each 0.56052 beach 0.333761 peach 0.105719
+align 8 type 1
+align 9 of 1
+align 10 worker 0.994248 *DELETE* 0.00449569 work 0.00125656
+align 11 *DELETE* 0.994217 workers 0.00449569 or 0.00124694 i 2.82466e-05 are 9.61793e-06 uh 2.5625e-06 in 1.12607e-21
+align 12 </s> 1

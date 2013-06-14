@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 name 1
+align 4 if 0.935671 it 0.0643287
+align 5 *DELETE* 0.935671 if 0.0643287
+align 6 you 1
+align 7 medicines 1
+align 8 *DELETE* 0.999774 at 0.000134318 that 9.12843e-05
+align 9 that 1
+align 10 you 1
+align 11 need 1 *DELETE* 6.24921e-16
+align 12 *DELETE* 0.998524 uh 0.000967968 to 0.00024252 it 0.000182883 a 5.04584e-05 sir 1.60838e-05 you 1.11083e-05 that 2.70801e-06 us 1.50257e-06 and 1.04002e-06 them 1.02265e-07 in 4.88643e-09 as 8.53427e-10 knead 3.05185e-12 this 1.31336e-13 is 1.10989e-13 the 1.03548e-14
+align 13 </s> 1

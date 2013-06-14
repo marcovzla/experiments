@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 0.998706 sir 0.00129413
+align 3 now 0.999952 no 4.76174e-05
+align 4 we 1
+align 5 got 1
+align 6 the 1
+align 7 uh 1
+align 8 the 1
+align 9 airway 1
+align 10 open 1
+align 11 now 1
+align 12 would 0.679709 we'll 0.278953 will 0.0413372
+align 13 give 1
+align 14 two 1
+align 15 rescue 1
+align 16 breaths 0.99998 breast 1.97668e-05 brass 5.59648e-08
+align 17 </s> 1

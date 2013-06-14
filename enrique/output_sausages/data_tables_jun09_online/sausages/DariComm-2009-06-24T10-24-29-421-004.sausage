@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 hello 0.843899 hi 0.105984 uh 0.0239792 *DELETE* 0.022593 um 0.00286194 yeah 0.000555988 and 0.000110037 i 8.91124e-06 oh 7.76195e-06
+align 2 *DELETE* 0.999991 i 8.91124e-06
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 sergeant 1
+align 7 power 0.783398 our 0.126492 hour 0.082128 baba 0.00491562 *DELETE* 0.00306684 bao 3.59282e-09
+align 8 *DELETE* 0.99331 or 0.00279186 dawr 0.00118912 dollar 0.000941657 bar 0.000837834 uh 0.000543653 dark 9.56758e-05 i 8.9996e-05 are 3.9415e-05 to 3.6753e-05 is 3.33739e-05 it 3.20466e-05 do 2.97102e-05 in 1.22189e-05 you 9.28626e-06 the 2.5525e-06 bow 2.28113e-06 a 1.98684e-06 bark 2.7178e-07 dar 5.81018e-09 if 1.8656e-09 doll 1.37144e-09 and 2.85459e-12 that 1.36448e-12 powered 8.56077e-14 so 3.33825e-15 borrow 1.92692e-17
+align 9 *DELETE* 0.999998 our 2.28113e-06 are 2.22161e-12
+align 10 </s> 1

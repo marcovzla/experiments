@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 will 0.751301 were 0.246807 would 0.00184279 with 4.89075e-05
+align 5 you 1 your 2.30347e-07
+align 6 require 0.999851 *DELETE* 0.000149028 be 7.83204e-41
+align 7 *DELETE* 0.999245 a 0.000513333 required 0.00013551 uh 4.901e-05 it 2.27627e-05 i 1.95318e-05 acquire 1.35177e-05 the 1.76731e-06 that 6.33538e-13 you 1.22534e-13
+align 8 </s> 1

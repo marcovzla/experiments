@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.972988 i 0.0270118
+align 3 need 1
+align 4 to 1
+align 5 inspect 1
+align 6 this 0.99997 as 2.94836e-05 is 1.0025e-06
+align 7 facility 0.999913 facilities 8.68154e-05
+align 8 *DELETE* 0.999648 uh 0.000351966
+align 9 </s> 1

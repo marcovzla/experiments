@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 know 0.946354 not 0.0536464
+align 4 pray 0.632071 that 0.366948 about 0.000980773
+align 5 at 0.632071 *DELETE* 0.366948 that 0.000980773
+align 6 the 1
+align 7 platoon 0.99897 two 0.00102994
+align 8 sergeants 0.729283 sergeant's 0.270717
+align 9 so 0.445607 site 0.372055 sight 0.148378 to 0.0266691 sir 0.00576581 say 0.00152551
+align 10 *DELETE* 0.992211 you 0.00576581 i 0.00166129 a 0.000361239 it 2.21278e-07
+align 11 issue 0.874016 *DELETE* 0.122741 he 0.00324249
+align 12 *DELETE* 0.996758 issue 0.00324249
+align 13 in 0.460977 you 0.358689 *DELETE* 0.147542 they 0.0149659 that 0.0132892 we 0.00453665
+align 14 *DELETE* 0.906504 issue 0.0934957
+align 15 the 0.405746 any 0.224828 knew 0.2033 new 0.0823551 you 0.0648595 *DELETE* 0.00760291 in 0.00597668 need 0.00533151
+align 16 *DELETE* 0.970754 issue 0.0292457
+align 17 *DELETE* 0.897324 knew 0.0466568 new 0.0201929 you 0.0171872 any 0.0124288 in 0.00621058
+align 18 *DELETE* 0.975206 knew 0.0119832 any 0.00621058 new 0.00475618 need 0.00184412
+align 19 nation 0.98744 mission 0.0125603
+align 20 to 0.995824 so 0.0034597 too 0.000715949 *DELETE* 3.76634e-23
+align 21 the 0.999905 *DELETE* 8.1846e-05 this 1.24962e-05 let 1.01264e-07 to 6.04e-08 since 2.07622e-16
+align 22 soldiers 0.997209 soldier's 0.00153777 soldiers' 0.00125282
+align 23 *DELETE* 0.999878 uh 0.000115165 i 5.95119e-06 do 5.73122e-07
+align 24 </s> 1

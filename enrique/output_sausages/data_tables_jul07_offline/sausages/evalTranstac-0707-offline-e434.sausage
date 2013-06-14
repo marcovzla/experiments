@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 no 0.993571 you 0.00642882
+align 2 *DELETE* 0.993571 know 0.00642882
+align 3 sir 1
+align 4 we 0.997619 we've 0.0023809
+align 5 for 0.960199 four 0.0398007
+align 6 nothing 1
+align 7 specific 1
+align 8 about 0.998598 a 0.000723839 of 0.000181111 to 0.000116745 the 0.000114156 go 9.56093e-05 good 6.47573e-05 up 5.82959e-05 uh 2.60153e-05 goodbye 1.7316e-05 they 3.82058e-06
+align 9 *DELETE* 0.998616 by 0.00137696 buy 7.38726e-06
+align 10 your 0.999981 you're 1.91127e-05
+align 11 house 1
+align 12 *DELETE* 0.999913 uh 8.7163e-05
+align 13 </s> 1

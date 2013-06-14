@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 for 0.9824 four 0.0176002
+align 2 this 1
+align 3 rate 1
+align 4 can 1
+align 5 you 1
+align 6 tell 1
+align 7 me 1
+align 8 how 1
+align 9 many 1
+align 10 enemy 1
+align 11 are 1
+align 12 in 1
+align 13 the 1
+align 14 warehouse 1
+align 15 or 0.973593 are 0.0252865 for 0.00112042
+align 16 suspected 1
+align 17 to 0.50992 *DELETE* 0.49008
+align 18 be 1
+align 19 in 1
+align 20 the 1
+align 21 warehouse 0.982722 work 0.0128384 war 0.00204424 were 0.0012378 where 0.000833377 we're 0.000199307 worker 0.000119391 warehouses 2.58404e-06 worth 2.18666e-06 wear 1.08006e-06
+align 22 *DELETE* 0.999413 how 0.00031619 her 0.000270964 is 2.84752e-07 i 2.40883e-08
+align 23 </s> 1

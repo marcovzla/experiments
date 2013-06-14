@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 don't 1
+align 3 know 1
+align 4 what 1
+align 5 happened 0.982863 happen 0.0167592 happens 0.000377893
+align 6 *DELETE* 0.99986 i 8.20125e-05 uh 5.82141e-05 to 4.00244e-16
+align 7 </s> 1

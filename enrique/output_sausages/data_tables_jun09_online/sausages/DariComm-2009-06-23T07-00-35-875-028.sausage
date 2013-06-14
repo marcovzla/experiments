@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 when 0.998319 where 0.00168099
+align 2 we 0.998319 were 0.00168099
+align 3 *DELETE* 0.998319 you 0.00168099
+align 4 talking 0.605126 talk 0.394874
+align 5 *DELETE* 0.634381 can 0.364859 in 0.000760208
+align 6 you 0.970119 and 0.0292549 *DELETE* 0.000626209
+align 7 you 1.00001
+align 8 *DELETE* 0.976806 you 0.0231941
+align 9 sort 1
+align 10 sentences 0.930316 of 0.0570714 sentence 0.0117666 sent 0.000845781
+align 11 *DELETE* 0.999154 us 0.000845781
+align 12 *DELETE* 0.930316 sentences 0.0570714 is 0.0113291 his 0.00128331
+align 13 please 0.992407 pleas 0.00382569 police 0.00349863 fleas 0.000267525 *DELETE* 6.73541e-16
+align 14 *DELETE* 0.988354 uh 0.011049 i 0.000216945 do 0.000199746 um 0.000161871 and 1.73011e-05 flees 1.10029e-06 weeks 4.85363e-08 lease 7.4271e-12 come 4.49297e-13 i'm 1.5633e-14 you 3.46666e-27 if 2.50278e-60 in 4.88239e-64 a 2.98527e-64 go 1.45612e-72
+align 15 </s> 1

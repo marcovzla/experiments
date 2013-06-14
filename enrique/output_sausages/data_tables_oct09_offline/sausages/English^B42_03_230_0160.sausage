@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 an 0.983271 any 0.0167292
+align 6 ambulance 1
+align 7 at 0.781298 that 0.191407 but 0.0172071 it 0.0100877
+align 8 your 1
+align 9 hospital 1
+align 10 it 0.943513 that 0.0328637 at 0.00917859 it's 0.00755604 and 0.0044837 do 0.00124627 to 0.00115907
+align 11 you 1
+align 12 can 1
+align 13 send 1
+align 14 out 1
+align 15 the 0.406503 for 0.390742 to 0.202755
+align 16 patients 0.96674 patient's 0.026105 patients' 0.00712769 patience 2.7348e-05
+align 17 </s> 1

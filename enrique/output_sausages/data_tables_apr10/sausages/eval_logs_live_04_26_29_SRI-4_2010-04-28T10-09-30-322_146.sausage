@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 see 1
+align 4 your 1
+align 5 brother 1
+align 6 get 0.998751 gets 0.00124939
+align 7 taken 0.99845 take 0.000796756 taking 0.000752745
+align 8 *DELETE* 0.999201 in 0.000392185 it 0.000211777 an 0.000190563 uh 2.28537e-06 and 2.17195e-06 a 5.82369e-08
+align 9 </s> 1

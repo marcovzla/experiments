@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 we 0.999907 *DELETE* 9.32981e-05
+align 2 the 0.999674 day 0.000232606 we'd 9.32981e-05
+align 3 americans 1
+align 4 will 0.994803 *DELETE* 0.0051969
+align 5 be 0.975316 *DELETE* 0.0172729 we'll 0.0051969 you 0.00212272 he 9.17112e-05
+align 6 staying 0.968196 stay 0.0318037
+align 7 *DELETE* 0.964622 in 0.0353775
+align 8 in 1
+align 9 your 1
+align 10 village 1
+align 11 or 1
+align 12 outside 1
+align 13 the 0.868584 a 0.116479 to 0.00751151 your 0.00662336 of 0.000802145
+align 14 village 1
+align 15 for 0.99921 or 0.000789924
+align 16 a 0.999756 *DELETE* 0.000244187
+align 17 couple 1
+align 18 of 0.99939 a 0.000334523 *DELETE* 0.000275016
+align 19 days 0.977903 date 0.0212006 dates 0.000896359 *DELETE* 5.18426e-09
+align 20 *DELETE* 0.992912 uh 0.0070625 i 2.55761e-05 day 1.63276e-07
+align 21 </s> 1

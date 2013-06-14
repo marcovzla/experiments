@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 does 0.999691 is 0.000309069
+align 4 your 1
+align 5 brother 1
+align 6 where 0.757445 work 0.122559 wear 0.0527654 aware 0.0241394 away 0.0240038 way 0.0141291 weigh 0.00133731 wearing 0.00114853 weather 0.000966656 whether 0.000789941 ware 0.000225999 what 0.000146938 were 0.000144854 why 9.48077e-05 when 5.07198e-05 wei 3.02812e-05 whey 1.13576e-05 we're 1.00006e-05 worked 1.1809e-06 was 4.33244e-09 what're 1.80045e-10
+align 7 *DELETE* 0.998715 a 0.000438316 i 0.000368451 it 0.000324391 uh 8.17137e-05 are 3.666e-05 in 1.66578e-05 you 1.65879e-05 do 1.10338e-06 if 6.23288e-07 to 3.94297e-07 they 3.39689e-09
+align 8 </s> 1

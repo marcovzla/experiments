@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 where 1
+align 3 do 1
+align 4 you 1
+align 5 get 1
+align 6 your 1
+align 7 water 1
+align 8 that 1
+align 9 you 1
+align 10 drink 1 drank 4.54305e-10
+align 11 *DELETE* 0.999973 it 2.45818e-05 uh 1.6134e-06 a 7.25913e-07 i 1.57683e-07
+align 12 </s> 1

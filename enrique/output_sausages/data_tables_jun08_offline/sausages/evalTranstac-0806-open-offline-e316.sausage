@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 let's 1 that's 1.67003e-11
+align 2 first 1
+align 3 let's 0.949809 us 0.0501911
+align 4 go 1
+align 5 over 1
+align 6 uh 1
+align 7 *DELETE* 0.968199 uh 0.0318012
+align 8 some 0.789969 *DELETE* 0.205357 so 0.00466623 if 7.85387e-06
+align 9 uh 0.954891 someone 0.204345 much 0.00486001 and 0.00212077 went 0.00039814 once 0.000337134
+align 10 *DELETE* 0.998981 so 0.00101924
+align 11 *DELETE* 0.998981 much 0.00101924
+align 12 just 0.986603 you 0.00737199 to 0.00351985 into 0.00108374 as 0.000949575 use 0.000471396
+align 13 some 1
+align 14 basic 1
+align 15 first 1
+align 16 aid 1
+align 17 that 1
+align 18 you 1
+align 19 may 1
+align 20 uh 1
+align 21 use 0.533064 *DELETE* 0.236167 you 0.211123 uh 0.0168233 a 0.00212513 i 0.000696805
+align 22 *DELETE* 0.773034 use 0.226966
+align 23 and 0.448084 in 0.286157 using 0.239969 an 0.0257893
+align 24 every 0.987663 *DELETE* 0.0120177 everything 0.000319044
+align 25 day 0.974002 *DELETE* 0.0139801 ever 0.0103255 everyday 0.00169219
+align 26 like 0.847265 light 0.0555141 life 0.0400673 daylight 0.0237951 it 0.0185078 live 0.00480609 a 0.00272172 lied 0.00252419 line 0.00133431 lies 0.000709139 leith 0.000668466 at 0.000640477 one 0.000384845 i 0.000377368 you 0.000196316 day 0.000191328 he 0.000142378 lights 4.94439e-05 way 3.42525e-05 lined 2.09716e-05 when 2.02124e-05 lloyd 1.1106e-05 lived 8.00462e-06 wise 5.29252e-06 liked 5.01313e-06 do 1.52312e-07
+align 27 *DELETE* 0.977173 like 0.0195393 light 0.00234509 life 0.000893164 uh 2.17991e-05 i 1.65071e-05 a 1.07296e-05 to 1.75926e-07 the 1.13868e-07
+align 28 </s> 1

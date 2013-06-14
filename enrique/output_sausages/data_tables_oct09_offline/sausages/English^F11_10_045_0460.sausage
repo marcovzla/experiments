@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 are 0.980993 oh 0.0188057 all 0.000132485 uh 6.85713e-05
+align 2 you 0.986023 you're 0.0139742 do 2.60078e-06
+align 3 *DELETE* 0.999997 you 2.60078e-06
+align 4 also 1
+align 5 going 0.92558 *DELETE* 0.0744198
+align 6 to 0.92558 gonna 0.0711953 *DELETE* 0.00322451
+align 7 want 1
+align 8 to 1
+align 9 take 1
+align 10 uh 1
+align 11 areas 1 area's 1.64577e-07
+align 12 to 0.976072 *DELETE* 0.0239282
+align 13 do 1
+align 14 that 1
+align 15 uh 0.60309 is 0.217543 us 0.111878 as 0.0344532 have 0.0128293 i 0.0116649 out 0.00650649 has 0.00139191 at 0.000643633
+align 16 *DELETE* 0.992074 of 0.00650649 have 0.00141973
+align 17 such 0.990063 us 0.00993685
+align 18 *DELETE* 0.990063 such 0.00993685
+align 19 as 1
+align 20 a 0.85015 uh 0.14985
+align 21 key 0.963169 a 0.0368305
+align 22 *DELETE* 0.963169 key 0.0368305
+align 23 terrain 1
+align 24 *DELETE* 0.999978 you 1.88479e-05 in 2.28348e-06 to 7.54818e-07
+align 25 </s> 1

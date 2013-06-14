@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.977297 how 0.0227025
+align 2 at 0.977297 man 0.0227025
+align 3 help 0.999983 hope 1.71219e-05
+align 4 you 1
+align 5 today 0.986822 do 0.0131782 *DELETE* 1.53688e-12
+align 6 *DELETE* 0.986754 that 0.0131782 uh 6.74536e-05 day 7.53055e-11
+align 7 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 married 0.999999 *DELETE* 3.23633e-10
+align 4 *DELETE* 0.999912 to 7.77273e-05 sir 4.84821e-06 now 4.41728e-06 made 9.59219e-07 a 7.47707e-09 i 2.46643e-11
+align 5 </s> 1

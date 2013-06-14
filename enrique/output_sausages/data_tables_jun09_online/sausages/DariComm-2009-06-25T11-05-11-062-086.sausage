@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 are 0.999791 uh 0.000209072
+align 2 there 0.525768 their 0.452318 the 0.0156871 they 0.00601793 they're 0.000209072
+align 3 plans 0.851841 plants 0.14682 plant's 0.000645853 a 0.000453994 plan's 0.000239191
+align 4 *DELETE* 0.999546 plans 0.000453994
+align 5 to 0.615097 the 0.384903
+align 6 search 0.818812 searched 0.181188
+align 7 the 0.996054 that 0.00251148 to 0.00143495
+align 8 east 0.993033 each 0.00696681
+align 9 side 1
+align 10 of 1
+align 11 the 1
+align 12 compound 1
+align 13 *DELETE* 1 uh 2.91243e-07 i 2.03414e-10 is 3.11958e-11 in 1.29113e-12
+align 14 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computer 0.952718 compete 0.0409719 competed 0.00554677 can 0.000659098 impede 0.000103921
+align 2 *DELETE* 0.958265 a 0.0356541 of 0.00521096 peter 0.000659098 to 0.000210785
+align 3 play 1
+align 4 instructions 0.999957 a 4.29036e-05
+align 5 *DELETE* 0.99995 instructions 4.29036e-05 i 7.36158e-06 to 1.00126e-09
+align 6 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 0.988051 where 0.00944577 *DELETE* 0.00151252 when 0.000893341 well 9.76872e-05
+align 2 is 0.994055 was 0.00272021 does 0.00171187 where's 0.00151252
+align 3 your 1
+align 4 problem 1
+align 5 with 0.993196 what 0.00680412
+align 6 the 0.999947 any 5.31512e-05
+align 7 american 1
+align 8 army 1 uh 1.92865e-18
+align 9 *DELETE* 1 i 3.09577e-07 me 1.92865e-18
+align 10 </s> 1

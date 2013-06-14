@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.984401 uh 0.0155987
+align 3 do 1
+align 4 you 1
+align 5 know 1
+align 6 anything 1
+align 7 about 1
+align 8 these 0.999812 days 0.00018014 the 6.41998e-06 day's 1.76246e-06
+align 9 *DELETE* 0.999987 a 6.43568e-06 ease 6.41998e-06
+align 10 attacks 0.999994 tax 6.43568e-06
+align 11 *DELETE* 0.999992 in 8.04339e-06
+align 12 </s> 1

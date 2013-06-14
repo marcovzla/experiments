@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 the 0.994829 a 0.00517122
+align 5 sheikh's 0.999752 sheikhs 0.000248494
+align 6 permission 1
+align 7 to 1
+align 8 work 1
+align 9 *DELETE* 0.999726 uh 0.000101647 it 7.96909e-05 in 5.99801e-05 at 1.24126e-05 out 1.11934e-05 on 5.39432e-06 i 3.41676e-06 as 4.77874e-14
+align 10 </s> 1

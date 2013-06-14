@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 in 1
+align 2 what 0.98903 that 0.0109696
+align 3 way 1
+align 4 you 0.687178 it 0.230176 has 0.0403183 *DELETE* 0.0341717 as 0.00726523 is 0.000890442
+align 5 has 0.951526 *DELETE* 0.0484739
+align 6 your 0.997258 you're 0.00274168
+align 7 school 0.995609 schools 0.00439082 *DELETE* 1.45721e-16
+align 8 *DELETE* 0.955067 or 0.0449329
+align 9 been 0.941213 up 0.0347767 *DELETE* 0.0239942 with 1.60424e-05
+align 10 *DELETE* 0.941217 and 0.0387359 opened 0.00732229 open 0.00528749 then 0.00472119 bin 0.00151116 urban 0.000957387 than 0.000248073 schooled 1.29729e-10
+align 11 *DELETE* 0.999988 then 8.21741e-06 in 3.46528e-06 through 6.95261e-07
+align 12 threatened 0.999999 it 6.95261e-07 *DELETE* 3.25112e-18
+align 13 *DELETE* 0.999625 you 0.000228742 i 7.8208e-05 to 4.02073e-05 uh 2.39154e-05 a 2.34556e-06 and 6.95454e-07 it 3.60351e-07 the 3.58519e-07
+align 14 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 0.958586 *DELETE* 0.0414136
+align 2 will 0.952267 i'm 0.0408067 don't 0.0047579 would 0.00107731 i've 0.000606896 was 0.000483722
+align 3 show 1
+align 4 you 1
+align 5 how 1
+align 6 to 1
+align 7 clear 1
+align 8 this 0.954304 its 0.0456957
+align 9 vehicle 0.999105 vehicles 0.000894215 do 6.83496e-08 *DELETE* 5.26409e-12
+align 10 *DELETE* 1 you 6.83496e-08
+align 11 *DELETE* 0.998188 uh 0.00160729 um 0.000141974 i 3.81368e-05 is 1.66096e-05 now 4.40226e-06 a 2.76848e-06 people 8.03607e-07 go 6.83496e-08 vehicle's 2.8761e-09 it 1.97312e-09 and 1.25666e-09 the 9.7395e-10 you 1.74958e-10 sir 9.82023e-11 in 5.52283e-11 i'm 8.17132e-13
+align 12 </s> 1

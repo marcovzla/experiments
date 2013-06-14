@@ -1,0 +1,50 @@
+numaligns 48
+posterior 1
+align 0 <s> 1
+align 1 and 0.978782 i 0.0212184
+align 2 i 1
+align 3 *DELETE* 0.989195 i 0.010805
+align 4 *DELETE* 0.999697 i 0.000302916
+align 5 hope 1
+align 6 uh 0.948495 but 0.0515053
+align 7 i 1
+align 8 *DELETE* 0.997315 i 0.00268511
+align 9 hope 0.999993 hoped 7.30278e-06
+align 10 that 1
+align 11 we 1
+align 12 can 1
+align 13 help 1
+align 14 you 1
+align 15 but 1
+align 16 we 1
+align 17 need 1
+align 18 also 0.976396 to 0.0236044
+align 19 *DELETE* 0.976396 also 0.0236044
+align 20 your 0.980094 you're 0.0199059
+align 21 help 1
+align 22 to 1
+align 23 talk 1
+align 24 to 1
+align 25 your 1
+align 26 son 1
+align 27 so 1
+align 28 that 1
+align 29 we 1
+align 30 can 1
+align 31 get 1
+align 32 to 1
+align 33 the 1
+align 34 bottom 1
+align 35 of 1
+align 36 the 1
+align 37 questions 1
+align 38 that 1
+align 39 we 1
+align 40 need 1
+align 41 to 1
+align 42 get 0.821784 *DELETE* 0.178216
+align 43 a 0.679663 getting 0.178216 any 0.0744774 *DELETE* 0.0657841 uh 0.00103781 in 0.000822052
+align 44 answered 0.762379 answer 0.141956 assured 0.0559833 a 0.0299893 *DELETE* 0.00961118 him 8.14298e-05
+align 45 *DELETE* 0.958934 tree 0.0266083 insert 0.00565897 answered 0.0027897 answers 0.00141478 entry 0.00129323 it 0.00126241 answering 0.000508524 ensured 0.000327055 street 0.000303449 assure 0.000299125 answer 0.000282288 insurgent 0.000114447 sir 8.14298e-05 you 6.40212e-05 a 1.95191e-05 uh 1.66186e-05 to 1.60032e-05 i 4.83164e-06 me 6.48904e-07 ensure 5.79872e-07 the 2.20448e-08 isra 1.43237e-10
+align 46 *DELETE* 1 your 4.19394e-08 you're 6.71251e-10
+align 47 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 inside 1
+align 2 the 1
+align 3 shop 1
+align 4 the 1
+align 5 iraqi 0.970797 iraq 0.0292033
+align 6 intelligence 1
+align 7 an 0.612051 in 0.37799 and 0.00799724 on 0.0019621 than 1.42757e-07
+align 8 american 0.969083 america 0.0309174
+align 9 intelligence 1
+align 10 and 0.543174 that 0.173565 have 0.150403 of 0.110112 to 0.0222827 in 0.000257557 it 8.3569e-05 at 3.86936e-05 uh 2.49211e-05 said 2.38541e-05 an 2.20224e-05 they 1.17208e-05 or 4.04405e-07 a 3.21533e-07
+align 11 learn 0.648381 learned 0.351619
+align 12 that 0.99201 *DELETE* 0.00700519 at 0.000984791
+align 13 *DELETE* 0.977297 the 0.0156086 it 0.00665421 at 0.000350979 that 8.94116e-05
+align 14 vehicle 1
+align 15 bombs 1
+align 16 are 1
+align 17 being 1
+align 18 made 1
+align 19 *DELETE* 0.999754 to 8.76839e-05 a 7.4192e-05 it 2.50578e-05 in 1.92261e-05 of 1.79807e-05 i 1.71344e-05 uh 4.48489e-06 the 1.03071e-07
+align 20 </s> 1

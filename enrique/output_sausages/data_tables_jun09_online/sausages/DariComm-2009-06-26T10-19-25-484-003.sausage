@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 hello 0.562694 how 0.436121 hilal 0.00118518
+align 2 *DELETE* 0.563879 well 0.436121
+align 3 gentleman 0.645097 joe 0.354903
+align 4 *DELETE* 0.645097 man 0.354903
+align 5 how 0.999989 *DELETE* 1.0902e-05
+align 6 are 0.999989 how're 1.0902e-05 *DELETE* 1.25337e-15
+align 7 you 1
+align 8 today 1
+align 9 *DELETE* 0.999875 uh 0.000125331 is 6.52637e-08
+align 10 </s> 1

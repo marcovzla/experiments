@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 wrong 1
+align 4 with 1
+align 5 the 0.967747 *DELETE* 0.0197418 you 0.00782787 your 0.00448223 me 0.000122151 my 7.93461e-05
+align 6 operation 1
+align 7 room 0.999857 rooms 0.000143049
+align 8 *DELETE* 0.999999 uh 5.08837e-07
+align 9 </s> 1

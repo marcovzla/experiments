@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 1
+align 7 the 0.999537 a 0.000462042 uh 1.25031e-06 to 1.09984e-14
+align 8 hospital 1
+align 9 *DELETE* 0.999994 uh 6.38688e-06 is 1.10603e-07 i 5.88565e-11
+align 10 </s> 1

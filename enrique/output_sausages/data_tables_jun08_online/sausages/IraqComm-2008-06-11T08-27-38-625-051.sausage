@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999064 does 0.000936469
+align 3 this 0.995283 its 0.00413352 it's 0.000583164
+align 4 area's 0.846045 areas 0.151884 area 0.00207122
+align 5 *DELETE* 0.997929 is 0.00189393 as 0.000177298
+align 6 population 0.987571 populations 0.0124289
+align 7 sides 0.814492 size 0.11388 science 0.0642365 side's 0.00431808 is 0.00116905 signs 0.000818656 sized 0.000561999 eyes 0.000300024 *DELETE* 0.000147534 side 7.6542e-05
+align 8 *DELETE* 0.999776 ties 5.50232e-05 tires 5.20874e-05 is 4.46471e-05 sizes 4.03781e-05 as 2.56526e-05 us 6.23994e-06 i 3.10387e-07 saads 3.78366e-08 sayyids 7.0155e-09 uh 4.27923e-09 it's 2.306e-09 saad's 2.09838e-13
+align 9 </s> 1

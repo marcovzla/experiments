@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 0.955538 oh 0.0216022 all 0.0156263 of 0.00606972 *DELETE* 0.00116383
+align 2 the 0.987627 oh 0.00632765 uh 0.0034372 *DELETE* 0.00144427 um 0.000796778 i 0.000367056
+align 3 most 1
+align 4 common 1
+align 5 one 0.691944 when 0.307154 won 0.000902614
+align 6 you 0.950897 *DELETE* 0.0491033
+align 7 see 0.884925 use 0.0491033 *DELETE* 0.0486049 say 0.0173666
+align 8 is 0.905387 he's 0.0460084 seize 0.0451846 sees 0.00342033
+align 9 the 0.999729 *DELETE* 0.000271211
+align 10 chin 0.977335 each 0.0214996 *DELETE* 0.00116511
+align 11 *DELETE* 0.977335 and 0.0195581 in 0.00194155 chan 0.000547498 teaching 0.000271211 chain 0.000185413 change 0.000143618 chiam 7.16073e-06 channel 5.16811e-06 chanda 5.04589e-06
+align 12 lift 0.977444 left 0.0225557
+align 13 </s> 1

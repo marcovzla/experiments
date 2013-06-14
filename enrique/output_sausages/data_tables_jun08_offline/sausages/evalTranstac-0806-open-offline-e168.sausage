@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 he 0.502052 he's 0.235605 *DELETE* 0.171566 is 0.090777
+align 2 is 0.673618 *DELETE* 0.326382
+align 3 there 0.89558 their 0.10442
+align 4 uh 1
+align 5 many 1
+align 6 dental 1
+align 7 problems 1
+align 8 the 0.598371 uh 0.401629
+align 9 people 0.989542 in 0.00729987 to 0.00142312 and 0.00101115 i'm 0.00072388
+align 10 *DELETE* 0.989542 people 0.010458
+align 11 having 1
+align 12 problems 1
+align 13 with 1
+align 14 their 0.867542 they're 0.115406 *DELETE* 0.013944 there 0.0018716 our 0.00115448 third 8.19579e-05
+align 15 keys 0.970008 key 0.00878289 thirty 0.00848426 teeth 0.00700762 turkey 0.00450596 turkey's 0.000922797 tea 0.000245608 turki 3.10321e-05 tease 6.07299e-06 t 5.49979e-06
+align 16 *DELETE* 0.999686 eight 0.000298595 he's 1.52642e-05
+align 17 </s> 1

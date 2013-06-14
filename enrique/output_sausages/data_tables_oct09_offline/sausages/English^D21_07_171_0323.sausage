@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i 0.869222 *DELETE* 0.130778
+align 3 i 0.978086 *DELETE* 0.0219136
+align 4 *DELETE* 0.999999 i 1.2448e-06
+align 5 wouldn't 0.990041 don't 0.00861341 would 0.00130447 i'm 4.1544e-05
+align 6 sign 0.880674 side 0.098607 inside 0.00982138 signed 0.00637737 son 0.00451997
+align 7 *DELETE* 0.970658 in 0.0293424
+align 8 our 0.502746 are 0.219745 or 0.201004 nor 0.0394774 more 0.035659 no 0.00127463 r 5.90543e-05 their 3.41278e-05
+align 9 trucks 0.999846 truck's 0.000154026
+align 10 we 1
+align 11 have 1
+align 12 uh 0.842838 a 0.104662 of 0.0519498 us 0.000550439
+align 13 five 0.951363 uh 0.0447989 oh 0.00167938 a 0.00143564 of 0.00072268
+align 14 *DELETE* 0.951363 five 0.0486366
+align 15 boxes 1
+align 16 of 1
+align 17 uh 1
+align 18 address 0.90133 addresses 0.0986696
+align 19 of 0.823985 i'll 0.129284 and 0.0296889 *DELETE* 0.00852995 i'm 0.00463288 is 0.00306656 um 0.000812201
+align 20 *DELETE* 0.967245 i'll 0.0296889 of 0.00306656
+align 21 just 0.709709 *DELETE* 0.210639 jess 0.0711223 address 0.00805549 adjust 0.000474457
+align 22 things 0.784154 dressings 0.210639 thing's 0.00262443 thing 0.00185609 seems 0.00072633
+align 23 *DELETE* 0.998144 is 0.00185609
+align 24 and 0.69574 in 0.292034 *DELETE* 0.00821364 an 0.00265794 end 0.000911361 then 0.000382756 than 5.17097e-05 invented 8.63204e-06 advantage 1.12401e-07
+align 25 bandages 0.990514 advantages 0.00846049 bandage 0.0010166 use 8.63204e-06 is 1.12401e-07 bani 2.30175e-12
+align 26 *DELETE* 0.998983 it 0.000597074 is 0.000415768 as 3.75742e-06 just 2.30175e-12
+align 27 </s> 1

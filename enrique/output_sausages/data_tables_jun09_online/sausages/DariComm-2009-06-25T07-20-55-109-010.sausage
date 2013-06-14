@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 say 0.966123 sir 0.0308931 so 0.0029841
+align 2 again 0.996556 you 0.00243271 i 0.00085486 *DELETE* 0.000156809
+align 3 *DELETE* 0.996578 going 0.00226697 again 0.00085486 didn't 0.000299948
+align 4 *DELETE* 0.99939 to 0.000549161 i 3.84018e-05 can 2.26041e-05 uh 8.42396e-09 in 2.69831e-14 gun 3.31035e-23
+align 5 </s> 1

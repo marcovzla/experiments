@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 0.999747 *DELETE* 0.000253399
+align 2 you 1 *DELETE* 4.174e-35
+align 3 perform 1 before 2.07636e-08 people 4.59015e-24
+align 4 *DELETE* 1 i'm 2.07636e-08 him 2.7533e-17 form 4.59015e-24
+align 5 background 0.999869 back 9.32259e-05 *DELETE* 3.72954e-05
+align 6 *DELETE* 0.999907 on 9.32259e-05
+align 7 checks 0.999955 backgrounds 3.72954e-05 *DELETE* 7.39968e-06
+align 8 *DELETE* 0.999826 it 0.000116209 tax 3.7305e-05 i 1.35579e-05 check 7.39015e-06 on 2.4706e-08 and 1.01616e-12
+align 9 </s> 1

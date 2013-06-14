@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 know 1
+align 3 it's 0.893136 is 0.106864
+align 4 not 0.876822 that 0.123178
+align 5 it's 0.864975 is 0.127743 this 0.00728198
+align 6 not 0.862405 that 0.137595
+align 7 the 1
+align 8 best 1
+align 9 thing 1
+align 10 for 1
+align 11 you 1
+align 12 but 1
+align 13 it 0.951446 *DELETE* 0.0252124 at 0.0233418
+align 14 uh 1
+align 15 in 0.585278 and 0.279109 *DELETE* 0.135614
+align 16 *DELETE* 0.999888 the 0.000112494
+align 17 long 1
+align 18 term 0.999945 *DELETE* 5.48732e-05
+align 19 will 0.631135 i'll 0.357994 we'll 0.00838557 it'll 0.00242838 terminal 5.48732e-05 would 1.99046e-06
+align 20 be 1
+align 21 the 1
+align 22 best 1
+align 23 for 1
+align 24 security 1
+align 25 in 0.983241 *DELETE* 0.0167592
+align 26 the 0.998783 knee 0.00121689 any 2.07569e-10
+align 27 area 1
+align 28 *DELETE* 0.999994 uh 5.03301e-06 i 5.44142e-07
+align 29 </s> 1

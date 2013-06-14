@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 make 1
+align 4 money 1
+align 5 off 1
+align 6 of 1
+align 7 your 0.999891 you're 0.000109
+align 8 crops 0.997605 co-ops 0.00218067 cops 0.000211081 *DELETE* 3.15222e-06
+align 9 *DELETE* 0.99999 i 6.35932e-06 clubs 3.15201e-06 cop's 1.22745e-10 crowds 8.37825e-11
+align 10 </s> 1

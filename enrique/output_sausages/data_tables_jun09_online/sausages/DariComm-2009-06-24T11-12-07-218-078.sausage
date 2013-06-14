@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 i 0.999452 uh 0.000548216
+align 2 *DELETE* 0.999629 i 0.000371452
+align 3 would 1
+align 4 have 1
+align 5 to 1
+align 6 talk 1
+align 7 to 1
+align 8 my 1
+align 9 command 1
+align 10 we 0.745332 or 0.198696 but 0.0271201 will 0.0235027 we'll 0.00315326 group 0.00173784 we've 0.000458804
+align 11 *DELETE* 0.97288 we 0.0271201
+align 12 probably 0.669094 a 0.195955 proud 0.0846794 *DELETE* 0.0267804 power 0.0211656 i 0.00173784 powder 0.000538282 um 4.94913e-05
+align 13 *DELETE* 0.879283 to 0.103388 packing 0.0151583 can 0.00172314 power 0.000447003 pack 3.84982e-07
+align 14 *DELETE* 1 of 3.84982e-07
+align 15 then 0.452832 pilot 0.146656 can 0.118259 *DELETE* 0.11591 commander 0.0810886 product 0.0576525 land 0.0186489 learn 0.00311616 two 0.00301517 apart 0.00269075 put 7.37554e-05 pat 5.70921e-05
+align 16 *DELETE* 0.884497 then 0.115503
+align 17 the 0.543467 linda 0.224671 *DELETE* 0.0840914 lynda 0.0748679 to 0.0252099 a 0.0167319 glenda 0.0155975 command 0.00879843 commanders 0.00375814 this 0.00145012 commander's 0.0010486 they 0.000200666 commando 6.98287e-05 is 3.70836e-05 lend 7.85413e-21
+align 18 squad 0.972266 squat 0.0230495 squads 0.00435528 *DELETE* 0.000175229 to 9.25515e-05 of 6.1748e-05 us 7.85413e-21
+align 19 *DELETE* 0.999463 uh 0.000184579 squad's 0.000138874 squad 0.000125779 squat 2.73619e-05 quiet 1.55057e-05 to 1.53824e-05 squatted 1.4815e-05 quad 6.03452e-06 i 5.51277e-06 is 1.23436e-06 squads 1.15901e-06 in 1.50644e-07 a 1.24712e-07 it 2.85856e-08 you 7.40593e-09 the 3.48837e-09
+align 20 </s> 1

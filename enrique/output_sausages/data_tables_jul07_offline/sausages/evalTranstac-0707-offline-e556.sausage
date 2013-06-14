@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 wanted 0.902379 want 0.0976215
+align 3 *DELETE* 0.9996 it 0.0004
+align 4 to 1
+align 5 keep 0.999647 to 0.000352862
+align 6 *DELETE* 0.999647 keep 0.000352862
+align 7 everybody 1
+align 8 here 1
+align 9 in 0.977472 at 0.0139748 on 0.00851189 are 4.10974e-05
+align 10 the 0.88325 this 0.0874102 a 0.0293011 his 3.86702e-05
+align 11 shop 0.998918 shops 0.00108009 shot 1.52952e-06 shock 3.31079e-11
+align 12 </s> 1

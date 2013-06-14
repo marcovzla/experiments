@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 go 0.999347 *DELETE* 0.00065294
+align 4 to 0.992571 up 0.0041092 *DELETE* 0.00266729 good 0.000570212 could've 6.06461e-05 could 2.20822e-05
+align 5 medical 1
+align 6 school 1
+align 7 in 0.999565 and 0.00042541 of 9.51147e-06
+align 8 trouble 0.999528 problem 0.000434922 couple 3.75282e-05
+align 9 *DELETE* 0.999939 uh 5.1857e-05 i 8.73921e-06
+align 10 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 did 0.997309 do 0.00269058
+align 3 you 1
+align 4 get 1
+align 5 the 0.999598 a 0.000401802 *DELETE* 1.33669e-38
+align 6 fruit 0.741665 from 0.160881 fruits 0.0973439 front 9.86622e-05 for 8.31115e-06 four 2.22855e-06 *DELETE* 3.62583e-11 before 4.13168e-38
+align 7 from 0.900325 farm 0.0811253 form 0.0155276 *DELETE* 0.00302245 to 8.00984e-23
+align 8 *DELETE* 0.992831 for 0.00289903 it 0.00248892 you 0.000827057 a 0.000370945 uh 0.000344403 four 0.000121872 the 6.63239e-05 that 4.01308e-05 to 5.32471e-06 i 3.91922e-06 fruitful 1.55442e-06 from 8.00984e-23
+align 9 </s> 1

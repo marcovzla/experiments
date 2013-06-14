@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 okay 1
+align 3 i 0.776584 *DELETE* 0.223416
+align 4 understand 1
+align 5 now 1
+align 6 your 0.958283 you're 0.0412685 here 0.000448826
+align 7 men 1
+align 8 that 1
+align 9 we 1
+align 10 will 0.9885 we'll 0.0114997
+align 11 stand 0.518645 send 0.481355
+align 12 to 0.942891 two 0.0571087
+align 13 you 0.962163 *DELETE* 0.0340405 go 0.00379648
+align 14 go 0.996204 *DELETE* 0.00379648
+align 15 to 0.999997 *DELETE* 3.38912e-06
+align 16 these 1
+align 17 houses 1
+align 18 they 1
+align 19 need 1
+align 20 to 1
+align 21 go 1
+align 22 to 1
+align 23 the 1
+align 24 roof 0.99895 roofs 0.00105018
+align 25 *DELETE* 1 i 4.71204e-11
+align 26 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 you 1
+align 3 need 1
+align 4 to 1
+align 5 control 1
+align 6 the 0.946108 *DELETE* 0.0538922
+align 7 traffic 1
+align 8 on 0.984806 going 0.0151938
+align 9 both 0.999989 *DELETE* 1.10657e-05
+align 10 sides 0.999989 besides 1.10657e-05
+align 11 *DELETE* 0.999999 you 1.06886e-06 i 4.25751e-07 and 1.11316e-10
+align 12 </s> 1

@@ -1,0 +1,41 @@
+numaligns 39
+posterior 1
+align 0 <s> 1
+align 1 we 0.901157 where 0.0978527 what 0.000963871 when 2.59713e-05 *DELETE* 1.492e-11
+align 2 as 0.737708 are 0.154818 is 0.106324 have 0.00104389 just 7.81506e-05 a 1.81933e-05 this 9.10061e-06 where's 8.2858e-07 ways 1.17625e-08 *DELETE* 5.99114e-09
+align 3 i 0.736696 sir 0.151418 there 0.0787603 that 0.0177302 their 0.0109316 side 0.00213164 sorry 0.00159602 so 0.000714007 say 2.10352e-05 like 1.02073e-06
+align 4 *DELETE* 0.999249 i 0.000750824
+align 5 as 1
+align 6 i 1
+align 7 mentioned 1
+align 8 before 1
+align 9 we 0.970689 with 0.0293109
+align 10 we 0.929296 leave 0.070306 *DELETE* 0.000339367 me 5.83152e-05
+align 11 will 0.881473 we'll 0.118527
+align 12 make 1
+align 13 a 0.994056 it 0.00507185 you 0.00057519 your 0.000297022
+align 14 concern 0.979265 concerned 0.0207353
+align 15 after 0.816773 afra' 0.0773168 it 0.0705153 afrah 0.0232053 i 0.0121397 uh 5.01425e-05
+align 16 *DELETE* 0.997862 i 0.00213838
+align 17 *DELETE* 0.917295 after 0.0805668 for 0.00213838
+align 18 twin 0.760834 two 0.232101 twins 0.00673716 twelve 0.000327222
+align 19 sure 0.767899 ensure 0.20719 in 0.0207245 unsure 0.00399869 and 0.000188054
+align 20 *DELETE* 0.979087 sure 0.0209126
+align 21 there 0.633688 that 0.213974 they're 0.115499 they 0.0282771 their 0.00856195
+align 22 are 0.594818 our 0.375358 or 0.0107437 uh 0.00803432 of 0.0076056 up 0.00306673 a 0.00037389
+align 23 personnel 0.937509 personal 0.0624909
+align 24 all 0.445327 are 0.350178 or 0.160443 our 0.0440501 on 2.32363e-06
+align 25 patrolling 0.984149 patrol 0.0158515
+align 26 *DELETE* 0.984149 in 0.00927931 and 0.00657216
+align 27 and 0.620657 in 0.379343
+align 28 doing 0.972072 *DELETE* 0.0205118 do 0.00741599
+align 29 *DELETE* 0.972212 and 0.027788
+align 30 conduct 0.993437 *DELETE* 0.006423 in 0.000109496 when 3.0354e-05
+align 31 a 0.98987 conducting 0.00656284 *DELETE* 0.00356683
+align 32 joint 1
+align 33 patrol 0.993545 patrols 0.00645496
+align 34 with 0.993724 but 0.00626983 put 6.6087e-06
+align 35 your 0.999919 you're 8.07357e-05
+align 36 security 1
+align 37 guards 0.999876 guard 9.37877e-05 guard's 3.06107e-05
+align 38 </s> 1

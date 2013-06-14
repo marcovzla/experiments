@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 can 1
+align 3 you 1
+align 4 uh 1
+align 5 show 1
+align 6 me 1
+align 7 your 1
+align 8 armory 1
+align 9 please 0.906563 place 0.0672365 police 0.0191284 pleas 0.00323196 placed 0.00182749 plays 0.00169486 pleased 0.000238893 places 7.93919e-05
+align 10 *DELETE* 0.999721 uh 0.000237756 i 3.63556e-05 do 3.75661e-06 a 1.18403e-06
+align 11 </s> 1

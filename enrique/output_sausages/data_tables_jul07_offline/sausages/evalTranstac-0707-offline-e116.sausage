@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 make 1
+align 2 sure 1
+align 3 where 1
+align 4 he 0.996472 are 0.0035279
+align 5 *DELETE* 0.996472 you 0.0035279
+align 6 play 0.545941 plays 0.417117 *DELETE* 0.0369417
+align 7 is 0.586252 as 0.307956 places 0.0369417 his 0.0316878 does 0.0236398 *DELETE* 0.0110115 this 0.00186911 has 0.000641596
+align 8 *DELETE* 0.443048 is 0.414644 it's 0.107019 as 0.0171853 its 0.0141358 his 0.00396842
+align 9 not 0.998855 knot 0.00114506
+align 10 around 0.979308 a 0.0206916
+align 11 *DELETE* 0.979308 round 0.0206916
+align 12 that 1
+align 13 trash 1
+align 14 pile 1
+align 15 outside 1
+align 16 your 0.995812 you're 0.00397917 you 0.000208989
+align 17 gate 0.993421 gates 0.00321239 gait 0.0017508 gay 0.00100909 day 0.000297131 date 0.000141174 gave 7.51354e-05 ghaith 5.18622e-05 gauge 3.91373e-05 *DELETE* 2.43073e-09
+align 18 *DELETE* 0.999949 is 1.89215e-05 i 1.50654e-05 in 8.70564e-06 and 3.81888e-06 if 1.87432e-06 get 1.23432e-06 uh 7.6455e-07 gaye 4.89262e-07 it 2.04841e-07 gaytan 8.97878e-08 you 4.15255e-08 the 2.16304e-08 that 3.27154e-11
+align 19 </s> 1

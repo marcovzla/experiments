@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 on 0.941226 own 0.0499388 owned 0.00883528
+align 6 the 1
+align 7 car 0.999743 cart 0.000166992 card 8.23857e-05 kar 6.93643e-06 qar 8.13723e-07
+align 8 *DELETE* 1 uh 1.89728e-11 call 5.15214e-14
+align 9 </s> 1

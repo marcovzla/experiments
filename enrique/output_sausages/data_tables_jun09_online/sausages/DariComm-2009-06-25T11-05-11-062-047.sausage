@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999417 i 0.000583391
+align 3 will 0.9985 would 0.00124469 *DELETE* 0.000255421
+align 4 recommend 1
+align 5 that 0.999467 then 0.000532555
+align 6 we 1
+align 7 put 1
+align 8 the 0.939711 to 0.0582881 a 0.00200046
+align 9 al-ziyoud 0.749864 al-ziyout 0.215987 elza 0.0341483
+align 10 *DELETE* 0.965852 each 0.0341483
+align 11 for 1
+align 12 any 1
+align 13 k 0.907487 kay 0.0925131
+align 14 i._a.s 1
+align 15 and 0.999498 in 0.000454059 intel 4.82227e-05
+align 16 that 0.794727 *DELETE* 0.0889779 they'll 0.0734481 out 0.0424806 i'll 0.000237819 uh 0.000128824
+align 17 we 0.837384 ali 0.0885232 be 0.073686 dubai 0.000406496
+align 18 i._a.s 0.994117 is 0.00588306
+align 19 in 0.999384 and 0.000616417 end 2.85556e-24
+align 20 this 1
+align 21 area 1
+align 22 *DELETE* 0.999938 uh 6.19155e-05
+align 23 </s> 1

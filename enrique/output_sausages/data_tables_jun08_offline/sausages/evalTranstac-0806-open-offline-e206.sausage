@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 very 1
+align 3 good 1
+align 4 the 0.923002 that 0.0503705 uh 0.0266276
+align 5 uh 0.670543 *DELETE* 0.198422 i'm 0.12127 i 0.00976593
+align 6 i'm 0.878376 *DELETE* 0.12127 am 0.000354448
+align 7 here 1
+align 8 to 1
+align 9 uh 1
+align 10 to 0.536897 uh 0.319695 *DELETE* 0.143407
+align 11 *DELETE* 0.987302 uh 0.0124196 a 0.000277998
+align 12 inquire 1
+align 13 about 1
+align 14 a 0.997705 the 0.00142023 it 0.000770633 of 0.000103747
+align 15 patient 1
+align 16 *DELETE* 0.999995 to 4.87817e-06 i 1.35965e-07
+align 17 </s> 1

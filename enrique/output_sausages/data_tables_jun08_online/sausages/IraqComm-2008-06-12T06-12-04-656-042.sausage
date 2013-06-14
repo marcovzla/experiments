@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 any 0.81823 uh 0.155304 yeah 0.0149584 in 0.0104207 and 0.00108657
+align 2 *DELETE* 0.81823 any 0.180684 the 0.00108657
+align 3 type 1
+align 4 of 1
+align 5 permanent 1
+align 6 checkpoint 1
+align 7 is 0.819716 it's 0.180253 its 3.16875e-05
+align 8 going 1
+align 9 to 1
+align 10 be 1
+align 11 designed 0.888904 design 0.111096
+align 12 differently 1
+align 13 than 1
+align 14 a 1
+align 15 snap 1
+align 16 vehicle 1
+align 17 checkpoint 0.999571 checkpoints 0.000415466 truck 1.33142e-05
+align 18 *DELETE* 0.999959 uh 2.7216e-05 point 1.33142e-05 i 1.06166e-12 to 1.02294e-15 and 2.86046e-17
+align 19 </s> 1

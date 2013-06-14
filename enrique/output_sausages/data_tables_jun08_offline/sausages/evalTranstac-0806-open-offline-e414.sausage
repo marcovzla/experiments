@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 *DELETE* 0.523218 i'll 0.411942 i 0.0648406
+align 3 okay 0.873425 look 0.0648406 *DELETE* 0.0617343
+align 4 i'll 1.42584 uh 0.0356424
+align 5 look 1
+align 6 *DELETE* 0.938266 uh 0.0339922 i'll 0.0277421
+align 7 *DELETE* 0.938266 look 0.0617343
+align 8 forward 1
+align 9 to 1
+align 10 working 1
+align 11 with 1
+align 12 you 0.999993 your 7.4109e-06
+align 13 much 1
+align 14 more 1
+align 15 i 1
+align 16 *DELETE* 0.999892 i 0.000108195
+align 17 have 0.999785 had 0.000215342
+align 18 much 1
+align 19 to 1
+align 20 learn 1
+align 21 from 1
+align 22 you 1
+align 23 guys 1
+align 24 as 0.999678 is 0.000321959
+align 25 well 1
+align 26 *DELETE* 1 um 1.50429e-07
+align 27 </s> 1

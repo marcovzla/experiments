@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 can 1
+align 3 provide 1
+align 4 these 0.999595 peace 0.000404772
+align 5 for 0.999931 four 6.92209e-05
+align 6 you 1 *DELETE* 1.29488e-10
+align 7 *DELETE* 0.999918 uh 8.12029e-05 you 7.44246e-07 i 2.73619e-09 year 2.41168e-09
+align 8 </s> 1

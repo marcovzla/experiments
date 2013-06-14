@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 engineered 0.601877 engineering 0.2775 engineers 0.120623
+align 3 hired 1
+align 4 nice 1
+align 5 to 1
+align 6 meet 1
+align 7 you 1
+align 8 *DELETE* 0.998107 uh 0.00185537 i 3.72552e-05 i'm 6.01299e-08
+align 9 </s> 1

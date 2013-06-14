@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 is 1
+align 3 called 0.996469 club 0.00353115
+align 4 a 0.999968 the 3.20016e-05
+align 5 tourniquet 1
+align 6 *DELETE* 0.999998 to 1.03515e-06 it 4.58376e-07 i 3.57397e-07 and 1.74521e-10 if 2.82991e-11 in 2.6457e-11 uh 7.80673e-13 at 4.77448e-13 you 1.59542e-15
+align 7 </s> 1

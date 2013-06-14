@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 *DELETE* 0.998034 of 0.00196636
+align 4 vehicles 1
+align 5 and 0.896794 in 0.102563 an 0.000643687
+align 6 men 0.993968 then 0.00603246
+align 7 do 1
+align 8 you 1
+align 9 have 1
+align 10 available 1
+align 11 for 1
+align 12 this 1
+align 13 operation 0.999907 uh 9.32488e-05
+align 14 *DELETE* 0.999907 operation 9.32488e-05
+align 15 </s> 1

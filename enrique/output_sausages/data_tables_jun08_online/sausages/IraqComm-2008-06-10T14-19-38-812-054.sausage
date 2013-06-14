@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 coalition 1
+align 2 forces 1
+align 3 can 1
+align 4 provide 1
+align 5 training 1
+align 6 to 1
+align 7 your 0.999643 you're 0.000356696
+align 8 men 0.999996 man 3.7264e-06
+align 9 *DELETE* 0.999997 uh 2.99311e-06
+align 10 </s> 1

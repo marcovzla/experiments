@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 anybody 1
+align 4 sick 1
+align 5 in 1
+align 6 the 1
+align 7 village 0.999434 knowledge 0.000565702
+align 8 </s> 1

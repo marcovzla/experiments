@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 your 0.996243 you're 0.00375686
+align 2 friend 1
+align 3 will 0.695809 we'll 0.304191
+align 4 provide 1
+align 5 food 1
+align 6 or 0.536023 for 0.463977
+align 7 my 1
+align 8 friend 1
+align 9 will 0.979994 we'll 0.0183262 *DELETE* 0.000845412 would 0.000834352 well 3.78041e-08 all 1.72992e-09 or 5.69333e-13
+align 10 provide 1
+align 11 *DELETE* 0.973111 it 0.00756366 a 0.00717167 uh 0.00677348 you 0.00256409 i 0.000909741 that 0.000712335 the 0.000347438 some 0.000273052 them 0.000180516 food 0.000145299 to 0.000126369 for 5.27039e-05 all 3.82683e-05 us 2.85127e-05 an 1.06502e-06 full 7.41655e-07 so 1.99245e-07 in 5.65035e-08 me 5.3077e-09 we 3.28202e-09 and 6.51057e-12 four 7.1115e-14
+align 12 </s> 1

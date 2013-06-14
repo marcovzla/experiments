@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 can 1
+align 3 provide 1
+align 4 the 1
+align 5 village 1
+align 6 with 1
+align 7 several 1
+align 8 generators 1
+align 9 and 0.93717 in 0.0628302
+align 10 important 0.999822 importing 0.000177655
+align 11 areas 0.96259 area 0.0371033 *DELETE* 0.000306338 and 8.70442e-08
+align 12 *DELETE* 0.962553 is 0.0370034 area's 0.000306338 this 9.99553e-05 i 2.41213e-05 uh 1.27898e-05 areas 8.70442e-08 to 6.91259e-19 it 8.05787e-20 us 4.60251e-20 as 3.68928e-23 it's 6.3399e-26
+align 13 </s> 1

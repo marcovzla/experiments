@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 staying 1
+align 4 for 1
+align 5 one 1
+align 6 day 1
+align 7 or 1
+align 8 longer 0.817804 a 0.180966 it 0.00121476 *DELETE* 1.47279e-05 are 8.77119e-08
+align 9 *DELETE* 0.817677 longer 0.182162 i 6.39623e-05 uh 6.33708e-05 long 3.3863e-05 along 4.13102e-11
+align 10 *DELETE* 0.999945 there 3.3863e-05 um 9.50331e-06 to 9.05575e-06 and 2.0462e-06 than 1.00197e-06 i 1.48608e-09 uh 6.11719e-10 you 2.15055e-10 in 1.75783e-10 it 9.07027e-12 a 6.78973e-13 i'm 1.7352e-13 or 6.90821e-25
+align 11 </s> 1

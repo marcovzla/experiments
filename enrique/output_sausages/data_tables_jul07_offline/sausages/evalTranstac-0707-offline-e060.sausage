@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 ideas 1
+align 6 on 1
+align 7 how 1
+align 8 we 1
+align 9 could 1
+align 10 *DELETE* 0.999049 get 0.000826693 be 0.000124066
+align 11 could 0.994859 can 0.00449285 get 0.000538386 *DELETE* 0.000109485
+align 12 handle 1
+align 13 it 0.999997 at 3.49845e-06
+align 14 *DELETE* 0.999999 i 1.49163e-06
+align 15 </s> 1

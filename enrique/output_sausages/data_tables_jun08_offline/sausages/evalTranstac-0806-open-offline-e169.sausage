@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 well 0.99855 what 0.00144996
+align 3 we 1
+align 4 can 1
+align 5 work 1
+align 6 on 1
+align 7 that 1
+align 8 together 1
+align 9 as 0.999845 is 0.000155199
+align 10 well 1
+align 11 </s> 1

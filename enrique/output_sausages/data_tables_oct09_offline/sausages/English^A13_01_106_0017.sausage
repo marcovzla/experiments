@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 tell 1
+align 2 mohammed 0.999918 ayman 8.24168e-05
+align 3 nice 1
+align 4 to 1
+align 5 meet 1
+align 6 you 1
+align 7 *DELETE* 0.999952 uh 4.82181e-05
+align 8 </s> 1

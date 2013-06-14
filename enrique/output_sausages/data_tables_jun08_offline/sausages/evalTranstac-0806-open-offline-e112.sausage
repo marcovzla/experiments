@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 scope 1
+align 2 on 1
+align 3 a 0.962888 the 0.0355687 *DELETE* 0.00154367
+align 4 roof 1
+align 5 and 0.97756 in 0.0224404
+align 6 you 1
+align 7 can 1
+align 8 uh 1
+align 9 try 0.998752 kind 0.00124779
+align 10 at 0.465125 to 0.346589 *DELETE* 0.143594 that 0.0428076 of 0.00124779 it 0.000637019
+align 11 the 0.524196 to 0.468966 a 0.00564821 *DELETE* 0.00119041
+align 12 point 0.997024 appoint 0.00297636
+align 13 right 0.978764 write 0.021236
+align 14 at 0.899707 that 0.0957916 out 0.00450119
+align 15 it 1
+align 16 but 0.982653 with 0.0128053 *DELETE* 0.00454181
+align 17 uh 1
+align 18 *DELETE* 0.995458 the 0.00454181
+align 19 *DELETE* 0.995458 uh 0.00454181
+align 20 you 0.863036 uh 0.136964
+align 21 *DELETE* 0.863036 you 0.136964
+align 22 can 1
+align 23 show 1
+align 24 me 1
+align 25 which 1
+align 26 house 0.982955 houses 0.0170421 house's 2.78383e-06
+align 27 this 0.626164 it 0.137667 to 0.0816706 *DELETE* 0.0811055 so 0.0339554 has 0.0149789 it's 0.00597091 lives 0.00587296 his 0.00314041 of 0.00249566 its 0.0021431 in 0.00117036 as 0.00114325 a 0.000658858 there's 0.000645636 you 0.000379944 and 0.000203178 others 0.000115658 was 0.000106611 that's 0.000104381 does 8.37838e-05 those 7.85227e-05 miss 6.14376e-05 yes 4.78353e-05 us 3.00148e-05 iz 2.51347e-06 says 2.02951e-06 uh 1.12874e-06
+align 28 *DELETE* 0.677687 is 0.202229 this 0.119675 his 0.000185897 it's 0.000136052 as 5.04864e-05 there's 1.81136e-05 its 1.18492e-05 i 6.23687e-06
+align 29 *DELETE* 0.999999 is 7.8935e-07
+align 30 </s> 1

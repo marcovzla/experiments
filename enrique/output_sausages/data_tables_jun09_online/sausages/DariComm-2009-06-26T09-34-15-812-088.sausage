@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 are 0.926642 do 0.0733478 i 8.61666e-06 okay 1.55431e-06 oh 5.00412e-07
+align 2 *DELETE* 0.999991 do 8.61666e-06
+align 3 you 1
+align 4 having 0.926517 have 0.0734832
+align 5 *DELETE* 0.926517 any 0.0734832
+align 6 problems 0.997356 problem 0.00264442
+align 7 is 0.974114 *DELETE* 0.0221786 going 0.00370782
+align 8 covering 0.595434 coming 0.389562 growing 0.00756816 *DELETE* 0.00370782 going 0.00263721 occurring 0.00109016
+align 9 your 0.579263 you 0.33451 you're 0.0708966 year 0.0137369 near 0.00159286 u 4.0397e-07 you'd 2.26266e-07
+align 10 we 0.948922 wheat 0.0230308 weak 0.0228127 week 0.00523485 were 8.12139e-08
+align 11 *DELETE* 0.998595 do 0.00056677 i 0.000439957 uh 0.000327987 did 3.5247e-05 to 3.17819e-05 a 3.58193e-06 we 8.12139e-08 the 2.01426e-09 let 3.14698e-10 you 5.62586e-15 are 2.85317e-15
+align 12 </s> 1

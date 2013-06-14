@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 not 0.906144 no 0.0560469 now 0.0378095
+align 3 everyone 1
+align 4 else 0.999919 knows 8.11953e-05
+align 5 will 0.770139 what 0.112437 would 0.062976 when 0.0226872 one 0.0192692 we'll 0.00923693 win 0.00325475
+align 6 not 0.814512 i'll 0.182665 uh 0.0018261 all 0.000767304 know 0.000201597 um 2.80727e-05
+align 7 move 0.978198 moved 0.0202961 moving 0.0015054
+align 8 into 0.944396 until 0.0272429 and 0.0189484 intel 0.00656076 it 0.00285162
+align 9 *DELETE* 0.9782 tell 0.0109969 so 0.00607046 until 0.00285162 fill 0.00188107
+align 10 that 0.999344 the 0.000583794 it 7.27027e-05
+align 11 vehicles 0.928421 *DELETE* 0.0715569 vehicle 2.18713e-05
+align 12 come 0.804095 *DELETE* 0.124387 vehicle's 0.0714959 is 2.18713e-05
+align 13 to 0.768621 complete 0.15139 *DELETE* 0.0493077 can 0.0305696 vehicles' 6.09821e-05 too 5.07821e-05
+align 14 you 0.949578 completely 0.043582 please 0.00485387 use 0.000947867 continue 0.000869445 ease 9.78879e-05 continues 6.33433e-05 *DELETE* 7.53318e-06 police 6.10664e-08
+align 15 *DELETE* 0.999757 you 0.000243452
+align 16 stop 0.934316 stopped 0.0655494 stock 0.000102112 stops 3.21753e-05
+align 17 *DELETE* 1 i 3.61438e-08
+align 18 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 any 1
+align 6 idea 1
+align 7 *DELETE* 0.999844 of 0.000156479
+align 8 why 0.99967 where 0.000329835
+align 9 they 1
+align 10 would 0.985451 *DELETE* 0.0145493
+align 11 have 0.985451 would've 0.0145493
+align 12 taken 1
+align 13 him 0.999958 them 4.18064e-05
+align 14 </s> 1

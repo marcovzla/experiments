@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 1
+align 3 the 1
+align 4 locals 1
+align 5 like 0.999192 lie 0.000808063
+align 6 can 1
+align 7 we 1
+align 8 anticipate 1
+align 9 then 0.487742 the 0.327441 *DELETE* 0.155653 day 0.0247881 they 0.00437606
+align 10 *DELETE* 0.487742 and 0.29156 them 0.141993 i'm 0.0483264 end 0.0167191 than 0.00973024 dan 0.00295777 dam 0.000642161 damn 0.000329598
+align 11 being 0.999147 be 0.000853074
+align 12 helpful 1
+align 13 to 1
+align 14 us 1
+align 15 in 0.996975 and 0.0030254
+align 16 this 1
+align 17 rate 0.495009 range 0.269484 ray 0.153134 raye 0.0400139 rey 0.0143618 re 0.011817 rain 0.00775558 rae 0.00251084 raids 0.00246008 rail 0.00146765 rea 0.00129038 ria 0.00025115 raise 0.000193921 raheeb 0.000179925 rates 4.82732e-05 raised 2.24132e-05
+align 18 </s> 1

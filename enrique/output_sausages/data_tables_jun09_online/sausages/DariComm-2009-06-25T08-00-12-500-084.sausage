@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 well 0.995916 *DELETE* 0.00275552 now 0.0013289
+align 2 i 0.997244 why 0.00275552
+align 3 *DELETE* 0.596596 i 0.403404
+align 4 would 0.948607 i 0.0513931
+align 5 *DELETE* 0.948607 would 0.0513931
+align 6 you 1
+align 7 use 1
+align 8 the 0.997045 that 0.00295487
+align 9 gloves 1
+align 10 to 1
+align 11 treat 1
+align 12 a 1 any 5.17987e-08
+align 13 patient 1
+align 14 *DELETE* 0.99915 i 0.000426097 uh 0.000242019 in 0.000127712 a 2.25063e-05 it 1.25798e-05 is 8.98605e-06 to 5.09949e-06 do 3.56358e-06 the 9.83601e-07 who 9.61584e-09 at 2.58163e-09 if 8.81276e-12 and 1.18935e-15 as 1.62589e-16 that 1.38847e-20
+align 15 </s> 1

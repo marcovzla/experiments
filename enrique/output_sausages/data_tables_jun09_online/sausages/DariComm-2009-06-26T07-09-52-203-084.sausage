@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 whatever 0.572688 one 0.361897 when 0.0590644 what 0.00635003
+align 2 *DELETE* 0.572688 ever 0.427312
+align 3 you 0.609627 your 0.296701 *DELETE* 0.0936726
+align 4 or 0.608705 *DELETE* 0.287133 you're 0.0936726 as 0.00956767 your 0.000921398
+align 5 stew 0.740594 soon 0.145778 seeing 0.0468662 as 0.0340643 *DELETE* 0.0326974
+align 6 *DELETE* 0.933238 soon 0.0340643 stool 0.0164828 suit 0.0153295 souq 0.000847584 souk 3.74866e-05
+align 7 is 1
+align 8 available 1
+align 9 we 1
+align 10 will 1
+align 11 arrange 1
+align 12 a 1
+align 13 meeting 1
+align 14 *DELETE* 0.994752 in 0.00315264 uh 0.00121307 you 0.000445545 i 0.000346289 a 5.86291e-05 to 2.25443e-05 at 5.56876e-06 with 3.82965e-06 and 1.19684e-07 if 6.18673e-09 the 4.941e-10 that 6.78822e-12
+align 15 </s> 1

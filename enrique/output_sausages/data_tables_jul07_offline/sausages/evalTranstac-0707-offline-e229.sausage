@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 0.944372 the 0.0515339 of 0.0040939 *DELETE* 4.79831e-15
+align 3 the 0.973922 other 0.0260781
+align 4 project 1
+align 5 will 0.971866 we'll 0.0281341
+align 6 start 1
+align 7 in 0.999583 to 0.00041723
+align 8 *DELETE* 0.999583 in 0.00041723
+align 9 about 1
+align 10 a 1
+align 11 week 1
+align 12 so 1
+align 13 if 0.900277 few 0.0997225
+align 14 you 0.900277 *DELETE* 0.0997225
+align 15 come 1
+align 16 back 1
+align 17 um 1
+align 18 at 0.688061 i 0.295069 *DELETE* 0.0168691
+align 19 the 0.535922 will 0.295597 what 0.0606074 a 0.0312267 uh 0.0280714 but 0.0274416 well 0.0102539 go 0.00518894 low 0.00330847 i'll 0.0015241 *DELETE* 0.000858576
+align 20 one 1
+align 21 week 1
+align 22 from 1
+align 23 today 1
+align 24 um 0.990383 uh 0.00961714
+align 25 i 0.997056 uh 0.00294388
+align 26 *DELETE* 0.926231 i 0.0737694
+align 27 will 0.99953 i 0.000469785
+align 28 *DELETE* 0.99953 will 0.000469785
+align 29 will 0.932764 we 0.0500942 we'll 0.0171421
+align 30 *DELETE* 0.949906 will 0.0500942
+align 31 have 0.998254 love 0.00174642
+align 32 all 1
+align 33 the 1
+align 34 final 1
+align 35 directions 0.978744 direction 0.0212563
+align 36 for 0.99976 *DELETE* 0.000180338 four 5.94481e-05
+align 37 you 0.998722 him 0.000790433 yeah 0.000224224 forty 0.000180338 it 8.00716e-05 *DELETE* 3.36182e-06
+align 38 *DELETE* 0.999966 i 1.93303e-05 to 1.06174e-05 any 1.62389e-06 a 1.32725e-06 know 1.15322e-06
+align 39 </s> 1

@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 i'll 0.943346 all 0.0566542
+align 2 set 1
+align 3 up 1
+align 4 uh 1
+align 5 a 0.987644 *DELETE* 0.0123557
+align 6 cup 0.987644 come 0.0123557
+align 7 also 1
+align 8 in 0.945645 *DELETE* 0.0531356 and 0.00121953
+align 9 a 0.946864 know 0.0531356
+align 10 couple 1
+align 11 marines 1
+align 12 on 1
+align 13 the 1
+align 14 opposite 0.881261 ops 0.118739
+align 15 side 0.881261 aside 0.118739
+align 16 and 1
+align 17 uh 1
+align 18 and 1
+align 19 you 1
+align 20 guys 0.953259 ask 0.0467414
+align 21 *DELETE* 0.542906 to 0.252919 could 0.136219 are 0.0503417 can 0.0160234 you 0.000828096 have 0.000762432
+align 22 take 0.994508 think 0.0054913 took 6.26897e-07 cook 3.23512e-07
+align 23 one 0.998285 when 0.000859119 *DELETE* 0.000429991 ones 0.000275581 won 0.000150706
+align 24 side 0.457541 site 0.448275 sight 0.0894249 so 0.00411786 once 0.000429991 sites 0.000107418 like 6.36908e-05 sights 2.84017e-05 *DELETE* 5.60263e-06 saif 5.05878e-06 cites 6.56417e-07 zayed 1.31819e-07 sides 1.21137e-07
+align 25 *DELETE* 0.995443 i 0.00415776 it 0.000267022 i'd 0.000132472
+align 26 *DELETE* 0.999992 can 7.68445e-06 uh 4.34434e-07 to 1.18044e-08
+align 27 </s> 1

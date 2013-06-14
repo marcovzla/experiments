@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 *DELETE* 0.999754 we 0.000245888
+align 3 have 1
+align 4 to 1
+align 5 check 1
+align 6 the 1
+align 7 the 0.972923 uh 0.0270768
+align 8 *DELETE* 0.972923 the 0.0270768
+align 9 air 1
+align 10 in 1
+align 11 the 1
+align 12 tires 1
+align 13 and 1
+align 14 make 1
+align 15 sure 1
+align 16 there 0.961665 *DELETE* 0.0318254 they're 0.00557796 their 0.000931393
+align 17 is 0.968175 there's 0.0318254
+align 18 enough 0.999779 an 0.000221051
+align 19 *DELETE* 0.999779 off 0.000221051
+align 20 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 no 1
+align 2 those 1
+align 3 will 0.957784 all 0.0422158
+align 4 be 1
+align 5 my 0.96055 may 0.0394505
+align 6 uh 1
+align 7 the 0.993854 to 0.00614497 a 8.87136e-07
+align 8 six 1
+align 9 gun 1
+align 10 trucks 1
+align 11 *DELETE* 0.999905 uh 5.6336e-05 i 3.80406e-05 in 5.44255e-07
+align 12 </s> 1

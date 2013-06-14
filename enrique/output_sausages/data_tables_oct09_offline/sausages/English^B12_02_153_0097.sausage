@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what's 0.9873 what 0.0127005
+align 2 the 0.9873 see 0.0125338 c 0.000166629
+align 3 average 1
+align 4 experience 0.998074 experienced 0.00192559
+align 5 </s> 1

@@ -1,0 +1,60 @@
+numaligns 58
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 what 0.924318 we'll 0.0405787 well 0.0350192 *DELETE* 8.37085e-05 will 8.89899e-07
+align 3 we'll 0.999986 will 1.28055e-05
+align 4 do 1
+align 5 is 1
+align 6 uh 1
+align 7 *DELETE* 0.935902 uh 0.055884 i'll 0.00821447
+align 8 i'll 0.969448 all 0.0108253 oh 0.00780812 *DELETE* 0.00610995 uh 0.00475422 one 0.00105421
+align 9 *DELETE* 0.998294 one 0.00109517 i'll 0.000349551 all 0.000261407
+align 10 want 0.997845 of 0.0021009 *DELETE* 5.45122e-05
+align 11 to 0.997679 the 0.0021009 other 0.000167332 a 4.64978e-05 wanted 5.19465e-06 wanna 8.34203e-07
+align 12 *DELETE* 0.999252 the 0.000747143 a 9.96287e-07 uh 7.92863e-08
+align 13 time 0.985292 timer 0.0147079
+align 14 if 0.972468 for 0.0192013 *DELETE* 0.00833024
+align 15 i 0.572247 it 0.333754 you 0.026515 to 0.0192013 *DELETE* 0.0143224 for 0.0115926 referred 0.00833 or 0.00622596 four 0.00369167 if 0.00142576 we 0.00133543 at 0.00062748 they 0.000370926 he 0.000359863
+align 16 *DELETE* 0.932955 can 0.0451277 to 0.0215102 get 0.000364045 it 4.28205e-05 forget 2.37881e-07
+align 17 have 1
+align 18 all 1
+align 19 the 1
+align 20 the 1
+align 21 adult 0.957187 the 0.0428127
+align 22 *DELETE* 0.957187 adult 0.0428127
+align 23 males 1
+align 24 uh 0.954283 um 0.0457166
+align 25 *DELETE* 0.717708 uh 0.282292
+align 26 what 1
+align 27 we'll 0.822685 we 0.177278 would 3.76214e-05
+align 28 do 1
+align 29 is 1
+align 30 we'll 1
+align 31 take 1
+align 32 some 1
+align 33 um 0.941034 *DELETE* 0.0431916 uh 0.0157743
+align 34 *DELETE* 0.49869 uh 0.264072 i 0.182768 it 0.0474561 i'll 0.00645322 i've 0.00053594 i'm 1.40113e-05 and 9.57806e-06 it's 1.25745e-06
+align 35 *DELETE* 0.999867 uh 0.000132866
+align 36 just 0.999837 adjust 0.000162957
+align 37 pictures 1
+align 38 uh 0.600155 i 0.38166 and 0.0165033 *DELETE* 0.00168096
+align 39 don't 0.967506 we 0.0135811 and 0.00484098 *DELETE* 0.00429601 um 0.00390209 oh 0.00375549 to 0.00156781 own 0.000446601 room 0.000103412
+align 40 *DELETE* 0.999862 room 0.000138335
+align 41 take 1
+align 42 some 1
+align 43 information 1
+align 44 we're 0.999326 were 0.000674144
+align 45 going 0.601511 *DELETE* 0.398489
+align 46 to 0.601511 gonna 0.398489
+align 47 get 1
+align 48 out 0.595234 uh 0.404766
+align 49 *DELETE* 0.995317 uh 0.00366872 of 0.00101452
+align 50 what's 1
+align 51 called 0.939842 *DELETE* 0.057275 call 0.00288255
+align 52 a 0.939805 color 0.0566384 the 0.00292044 caller 0.000636619
+align 53 rental 0.524079 right 0.278807 red 0.169489 rentals 0.00966048 rhett 0.00607729 wreck 0.00427031 write 0.00398694 rat 0.00293466 read 0.000457743 rug 8.88137e-05 rent 7.13446e-05 ride 4.36792e-05 rest 3.38802e-05
+align 54 *DELETE* 0.533739 knoll 0.217089 no 0.148443 now 0.0687157 know 0.030804 notes 0.00120888
+align 55 scan 0.85698 skin 0.127154 can 0.00920786 all 0.00656166 canned 7.21436e-05 scans 1.11731e-05 skinned 8.35697e-06 scanning 3.20229e-06 scam 1.65551e-06 scanner 4.10341e-08
+align 56 *DELETE* 0.993436 scan 0.00571528 skin 0.000846384 i 2.22138e-06 uh 3.88499e-07 a 8.64626e-08
+align 57 </s> 1

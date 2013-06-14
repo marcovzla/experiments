@@ -1,0 +1,71 @@
+numaligns 69
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 1
+align 3 *DELETE* 0.994744 oh 0.00525608
+align 4 fool 0.448626 foul 0.286 full 0.210912 for 0.0411925 fo 0.0118222 flow 0.00144715
+align 5 one 1
+align 6 example 1
+align 7 of 0.625968 *DELETE* 0.374032
+align 8 this 1
+align 9 would 0.970292 will 0.0297085
+align 10 be 1
+align 11 uh 1
+align 12 uh 0.504263 *DELETE* 0.289895 say 0.205842
+align 13 sale 0.612793 say 0.181365 i'll 0.123998 uh 0.0620415 at 0.00866275 all 0.00614128 oh 0.00489519 i 0.000102819
+align 14 *DELETE* 0.818635 i'll 0.114972 uh 0.057684 all 0.00556599 at 0.00304618 i 9.61087e-05
+align 15 one 0.998661 what 0.000674479 want 0.000634878 *DELETE* 2.93198e-05
+align 16 of 0.998679 are 0.000674479 to 0.000617586 wanted 2.93198e-05
+align 17 those 1
+align 18 of 0.952321 uh 0.0476791
+align 19 marines 0.996596 uh 0.0034036
+align 20 *DELETE* 0.996596 marines 0.0034036
+align 21 or 0.988508 are 0.01144 uh 5.19754e-05
+align 22 one 0.821638 *DELETE* 0.178362
+align 23 of 0.78597 *DELETE* 0.0926721 well 0.0438616 with 0.0364179 was 0.0324724 when 0.00621047 uh 0.00239511
+align 24 one 0.9406 what 0.0593997
+align 25 of 0.9406 were 0.0448139 one 0.0145858
+align 26 *DELETE* 0.985414 of 0.0145858
+align 27 the 1
+align 28 army 1
+align 29 when 0.98972 well 0.00764923 were 0.00263037
+align 30 you 0.991076 he 0.00798334 u 0.000940909
+align 31 but 0.977778 *DELETE* 0.0136286 bought 0.00859307
+align 32 he's 0.986371 bodies 0.0136286
+align 33 fell 1
+align 34 into 0.764634 *DELETE* 0.15805 in 0.0629612 and 0.0143548
+align 35 this 0.75445 interest 0.15805 twist 0.0773159 us 0.0101847
+align 36 is 1
+align 37 ankle 1
+align 38 but 1
+align 39 the 1
+align 40 other 1
+align 41 one 1
+align 42 uh 0.998736 i 0.00126374
+align 43 *DELETE* 0.931266 uh 0.0687343
+align 44 was 1
+align 45 shot 0.979321 signed 0.0102442 shon 0.00810935 shaan 0.00181994 sound 0.000505649
+align 46 in 0.796988 and 0.162724 *DELETE* 0.0343782 on 0.0059099
+align 47 one 1
+align 48 of 1
+align 49 the 1
+align 50 allergies 1
+align 51 you're 1
+align 52 gonna 1
+align 53 wanna 0.984461 want 0.015539
+align 54 *DELETE* 0.984461 to 0.015539
+align 55 go 1
+align 56 ahead 1
+align 57 and 1
+align 58 go 1
+align 59 to 0.940832 over 0.032299 or 0.0268694
+align 60 the 1
+align 61 one 1
+align 62 nashan 0.994857 uh 0.00514304
+align 63 *DELETE* 0.994857 shon 0.00327087 shaun 0.00128427 shot 0.000587901
+align 64 *DELETE* 0.999412 in 0.000587901
+align 65 artery 0.859027 arteries 0.13724 are 0.00297134 areef 0.000750233 or 1.0776e-05
+align 66 first 0.947694 fairs 0.0379957 affairs 0.0098295 firs 0.00220671 thirst 0.00107024 ferris 0.000628471 refers 0.000575077
+align 67 *DELETE* 1 uh 1.83303e-07
+align 68 </s> 1

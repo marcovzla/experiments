@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 0.999027 i 0.000973278
+align 2 do 0.944662 did 0.0553378
+align 3 they 1
+align 4 plan 1
+align 5 on 1
+align 6 blowing 0.999847 going 0.000152863
+align 7 up 1
+align 8 the 0.99975 *DELETE* 0.000248541 a 1.61162e-06
+align 9 bridge 1
+align 10 *DELETE* 0.99956 uh 0.000232766 is 0.000137444 i 5.15457e-05 it 1.16677e-05 to 6.55702e-06 if 7.10723e-08 you 4.92349e-10 and 3.79888e-13 in 1.28422e-13
+align 11 </s> 1

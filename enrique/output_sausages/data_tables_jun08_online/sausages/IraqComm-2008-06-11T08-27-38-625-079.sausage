@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 now 1
+align 2 we're 1
+align 3 gonna 0.956696 going 0.0433038
+align 4 *DELETE* 0.962874 to 0.0371259
+align 5 talk 0.963833 *DELETE* 0.0299886 to 0.00617797
+align 6 *DELETE* 0.963833 cut 0.0249121 talk 0.0112544
+align 7 *DELETE* 0.996777 to 0.00322297
+align 8 discuss 0.614029 discussed 0.385971
+align 9 action 0.999236 actions 0.000764467
+align 10 drills 0.999231 roles 0.000542276 rolls 0.00022219 girls 4.93816e-06 rose 1.36346e-09
+align 11 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 enemy 0.994768 enemies 0.00523186
+align 4 soldiers 1
+align 5 *DELETE* 0.999879 or 0.00012125
+align 6 are 0.999977 or 1.41247e-05 *DELETE* 9.20496e-06
+align 7 we 0.999787 are 0.000213193
+align 8 *DELETE* 0.999787 we 0.000213193
+align 9 looking 1
+align 10 at 1
+align 11 facing 0.930248 pacing 0.0659298 casing 0.00275028 basing 0.00076275 face 0.0002596 *DELETE* 4.91899e-05
+align 12 *DELETE* 0.999691 in 0.000181558 and 7.80422e-05 placing 4.91899e-05 a 4.14372e-07
+align 13 </s> 1

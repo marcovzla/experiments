@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 and 0.999826 in 0.00017424
+align 2 this 1
+align 3 is 1
+align 4 where 1
+align 5 uh 0.708211 *DELETE* 0.291789
+align 6 uh 0.361072 i 0.293229 um 0.153393 i'm 0.101004 are 0.0855788 in 0.00337696 our 0.00224885 on 7.12095e-05 am 2.58044e-05 i'll 2.42927e-07
+align 7 most 0.867344 i 0.0838012 i'm 0.0441091 uh 0.00398924 um 0.000756085
+align 8 *DELETE* 0.867344 most 0.130403 i'm 0.00225277
+align 9 *DELETE* 0.997747 most 0.00225277
+align 10 of 1
+align 11 the 0.668958 these 0.331042
+align 12 small 1
+align 13 shops 1
+align 14 are 0.99967 our 0.000307871 r 1.99869e-05 or 1.75921e-06
+align 15 *DELETE* 0.999973 a 1.98955e-05 uh 6.70879e-06
+align 16 </s> 1

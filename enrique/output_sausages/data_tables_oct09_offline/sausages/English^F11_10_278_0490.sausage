@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 0.997031 *DELETE* 0.00296857
+align 2 you 1
+align 3 go 1
+align 4 get 0.992882 beat 0.00553929 be 0.00156696 beach 1.22265e-05
+align 5 your 0.9833 you 0.0151196 two 0.00134443 too 0.00022253 you're 1.27039e-05 are 3.59522e-07
+align 6 men 0.602849 name 0.377628 mean 0.0152091 main 0.00376673 many 0.000246033 man 0.000226571 meant 7.41712e-05 may 4.79094e-08
+align 7 *DELETE* 0.99978 at 0.00012399 uh 6.39904e-05 do 2.03238e-05 to 1.11003e-05 i 8.56368e-07 in 1.16535e-07
+align 8 </s> 1

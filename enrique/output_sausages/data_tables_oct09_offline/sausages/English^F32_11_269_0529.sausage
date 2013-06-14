@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 well 0.996922 we 0.00167931 what 0.00129321 we'll 7.62311e-05 we're 2.94918e-05 were 1.79645e-08
+align 3 uh 0.995122 i 0.00206493 *DELETE* 0.00152506 are 0.00128766
+align 4 we 0.995458 i'll 0.00134606 *DELETE* 0.00116274 what 0.000949026 will 0.000805125 how 0.000164511 we're 0.000114454
+align 5 will 0.997843 we'll 0.00215707
+align 6 be 1
+align 7 searching 1
+align 8 them 0.996474 him 0.00352577
+align 9 as 0.999969 is 3.08912e-05
+align 10 well 1
+align 11 </s> 1

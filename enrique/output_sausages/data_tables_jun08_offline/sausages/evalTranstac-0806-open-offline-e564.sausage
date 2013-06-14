@@ -1,0 +1,66 @@
+numaligns 64
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 then 0.675842 would 0.287964 when 0.0132749 wound 0.0120862 one 0.00787326 do 0.00295979
+align 3 so 1
+align 4 this 0.979652 *DELETE* 0.0203484
+align 5 will 0.972909 this'll 0.0203484 would 0.00674301
+align 6 be 1
+align 7 a 1
+align 8 are 0.94693 uh 0.0374863 our 0.0155836
+align 9 fairly 1
+align 10 simple 1
+align 11 set 1
+align 12 up 1
+align 13 uh 0.957678 well 0.0410243 *DELETE* 0.00124058 if 3.55456e-05 all 1.29094e-05 oh 8.32915e-06
+align 14 *DELETE* 0.999991 uh 8.80227e-06 well 4.87081e-07
+align 15 *DELETE* 0.982154 i 0.0157979 uh 0.00204612 well 2.00582e-06 all 3.86623e-10 oh 4.08325e-11
+align 16 *DELETE* 1 i 7.30172e-09
+align 17 will 0.807644 we'll 0.192356
+align 18 have 1
+align 19 uh 1
+align 20 well 0.999932 uh 5.02204e-05 *DELETE* 1.78188e-05
+align 21 uh 0.770926 *DELETE* 0.229074
+align 22 what 0.623508 um 0.229089 *DELETE* 0.120403 uh 0.0226664 with 0.0043341
+align 23 *DELETE* 0.977403 what 0.0225967
+align 24 the 0.35608 we 0.349492 *DELETE* 0.167998 a 0.123532 to 0.0028292 what 6.97272e-05
+align 25 set 0.619153 cassette 0.358584 could 0.0222441 said 1.94742e-05
+align 26 *DELETE* 0.977756 set 0.0222441
+align 27 of 1
+align 28 of 1
+align 29 uh 0.990495 of 0.00950506
+align 30 *DELETE* 0.999715 uh 0.000284974
+align 31 the 0.635817 a 0.339183 *DELETE* 0.0204196 uh 0.00457964
+align 32 place 1
+align 33 where 1
+align 34 we 1
+align 35 can 1
+align 36 check 1
+align 37 vehicles 0.998719 vehicle's 0.00128101
+align 38 as 0.999493 is 0.000344606 has 0.000161931
+align 39 they 0.999669 a 0.000331333
+align 40 come 1
+align 41 in 0.999998 and 2.07908e-06
+align 42 in 0.844266 and 0.124665 an 0.016311 *DELETE* 0.0147577
+align 43 and 0.553907 in 0.412056 an 0.0144738 a 0.0092821 on 0.00352004 i'm 0.00231757 them 0.00223397 *DELETE* 0.00220932
+align 44 *DELETE* 0.998448 then 0.00152672 than 1.95858e-05 them 4.24252e-06 a 1.00828e-06
+align 45 park 0.869779 part 0.128442 impart 0.00177915
+align 46 and 0.962845 in 0.0371422 then 1.17118e-05 an 1.20596e-06
+align 47 also 1
+align 48 all 0.999388 *DELETE* 0.000610878 uh 1.29835e-06 law 2.24866e-07
+align 49 uh 0.490443 on 0.280964 i'll 0.104134 off 0.0864117 aws 0.0184071 of 0.0120874 office 0.00724406 *DELETE* 0.00025434 a 5.21675e-05 the 2.16514e-06
+align 50 *DELETE* 0.999572 on 0.000286662 off 0.000132609 uh 8.50409e-06
+align 51 separate 1
+align 52 from 1
+align 53 that 1
+align 54 will 0.914902 we'll 0.0850983
+align 55 have 1
+align 56 a 1
+align 57 uh 1
+align 58 pedestrian 1
+align 59 uh 1
+align 60 e._c._p. 1
+align 61 point 0.999892 points 0.000108014
+align 62 *DELETE* 0.999998 uh 2.16054e-06 i 3.2188e-08
+align 63 </s> 1

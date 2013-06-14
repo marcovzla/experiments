@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 0.999326 *DELETE* 0.000674138
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 experience 1
+align 6 *DELETE* 0.904482 uh 0.0955178
+align 7 so 0.904482 oh 0.0954799 *DELETE* 3.79606e-05
+align 8 with 0.876221 we 0.123779
+align 9 vehicle 1
+align 10 maintenance 1
+align 11 </s> 1

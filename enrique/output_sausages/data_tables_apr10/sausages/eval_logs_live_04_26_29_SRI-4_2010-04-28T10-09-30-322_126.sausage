@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 any 0.540622 an 0.459062 in 0.000316574
+align 4 easy 1
+align 5 way 1
+align 6 for 1
+align 7 us 1
+align 8 to 1
+align 9 identify 1
+align 10 who 0.931381 *DELETE* 0.0682873 from 0.000169353 and 7.64189e-05 me 5.73721e-05 the 2.53085e-05 them 3.06357e-06
+align 11 your 0.998975 you're 0.00102483
+align 12 brother 1
+align 13 is 0.998727 as 0.0010421 us 0.000231042
+align 14 *DELETE* 0.999968 i 1.91536e-05 a 8.4623e-06 uh 4.43421e-06
+align 15 </s> 1

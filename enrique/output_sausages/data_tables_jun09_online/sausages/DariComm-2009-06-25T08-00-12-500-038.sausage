@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 a 1
+align 4 first 1
+align 5 aid 1
+align 6 attack 0.744094 pack 0.192211 tack 0.0220174 taq 0.0118671 bak 0.00962498 tak 0.0087314 taak 0.00572226 pac 0.0038485 packed 0.00125682 attacked 0.000562681 *DELETE* 6.3434e-05
+align 7 *DELETE* 0.998184 you 0.000660657 it 0.000442068 uh 0.000273505 them 0.00015192 i 8.67022e-05 a 7.4627e-05 tax 6.12347e-05 in 3.28708e-05 the 1.03946e-05 if 8.90436e-06 to 4.66072e-06 tactic 2.19928e-06 at 1.6587e-06 and 1.55229e-06 is 1.27596e-06 me 7.74454e-07 up 6.60019e-07 that 1.77068e-07 so 8.00437e-08 of 5.25406e-09 do 1.03943e-09 this 6.63248e-12 pat 3.2791e-14 attacks 1.08175e-15
+align 8 </s> 1

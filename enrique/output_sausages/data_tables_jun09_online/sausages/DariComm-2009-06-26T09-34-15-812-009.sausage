@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 good 0.990878 gay 0.00912233
+align 3 how 0.999941 oh 5.86795e-05
+align 4 is 0.999993 as 6.84177e-06
+align 5 your 1
+align 6 family 1
+align 7 *DELETE* 0.999725 uh 0.00023133 now 4.33875e-05 i 1.08674e-08 to 6.68484e-11 in 3.05343e-11
+align 8 </s> 1

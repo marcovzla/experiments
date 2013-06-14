@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 0.998299 so 0.0017007
+align 3 not 0.685493 now 0.314045 no 0.000462331
+align 4 this 0.99233 on 0.00641272 that 0.00125689
+align 5 *DELETE* 0.99233 this 0.00766961
+align 6 person 0.999934 percent 6.60079e-05
+align 7 are 1
+align 8 you 1
+align 9 making 0.987124 make 0.0128765
+align 10 a 0.991592 *DELETE* 0.00456685 ended 0.00215557 in 0.000722972 it 0.000338485 an 0.000164362 anything 0.000147413 him 0.000123363 any 8.31756e-05 and 6.42824e-05 indeed 4.14524e-05
+align 11 *DELETE* 0.999975 it 2.48068e-05 that 1.74594e-07
+align 12 delivery 0.997565 every 0.0023933 that 4.19292e-05
+align 13 *DELETE* 0.999958 every 4.19292e-05
+align 14 for 1
+align 15 him 1
+align 16 as 1
+align 17 well 1
+align 18 are 0.849025 or 0.150897 uh 7.75184e-05
+align 19 *DELETE* 0.999922 are 7.75184e-05
+align 20 you 1
+align 21 to 0.472249 just 0.388505 did 0.0696234 does 0.050718 *DELETE* 0.0189045
+align 22 make 0.794486 making 0.18661 digging 0.0189045
+align 23 a 0.540188 the 0.459812
+align 24 delivery 1
+align 25 for 1
+align 26 your 1
+align 27 personal 1
+align 28 business 0.999877 businesses 0.000122973
+align 29 *DELETE* 0.999999 uh 7.01829e-07 in 1.69952e-08
+align 30 </s> 1

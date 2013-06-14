@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 so 0.95561 sir 0.0301991 sure 0.0141905
+align 2 when 0.906433 we 0.0935672
+align 3 you 0.906433 need 0.0935672
+align 4 *DELETE* 0.906433 to 0.0935672
+align 5 search 1
+align 6 them 1
+align 7 as 1 is 2.6052e-12
+align 8 well 1
+align 9 </s> 1

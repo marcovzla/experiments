@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 i 0.956646 uh 0.0433535
+align 3 *DELETE* 0.807416 i 0.191472 uh 0.00111176
+align 4 *DELETE* 1 uh 8.07852e-08
+align 5 i 0.620033 *DELETE* 0.379967
+align 6 just 1
+align 7 *DELETE* 0.865972 want 0.134028
+align 8 wanna 0.865972 to 0.134028
+align 9 thank 0.813579 take 0.186421
+align 10 you 1
+align 11 uh 1
+align 12 again 0.967029 uh 0.023831 i 0.00913959
+align 13 *DELETE* 0.967029 again 0.0329706
+align 14 for 1
+align 15 allowing 0.555296 uh 0.401296 a 0.0434086
+align 16 *DELETE* 0.555296 allowing 0.444704
+align 17 us 1
+align 18 to 1
+align 19 stay 1
+align 20 in 1
+align 21 your 1
+align 22 house 1
+align 23 these 0.992674 *DELETE* 0.00707324 he's 0.000253053
+align 24 past 0.9926 each 0.00707324 passed 0.000189824 *DELETE* 0.000137154
+align 25 couple 0.983626 task 0.00721039 *DELETE* 0.00623166 a 0.00293228
+align 26 of 0.987657 abboud 0.00788481 blue 0.00262289 a 0.001331 bullet 0.000309388 it 0.000160346 abu 3.23702e-05 that 2.29243e-06 and 6.0791e-08 today's 3.92415e-08 avoid 2.16259e-12
+align 27 *DELETE* 0.998803 blue 0.0011971
+align 28 days 0.987315 is 0.00688047 wood 0.00419386 *DELETE* 0.0014764 bullet 0.000133898 it 1.38386e-08 would 4.40363e-10
+align 29 *DELETE* 0.994011 as 0.00555914 is 0.000244994 uh 0.000180984 i 3.1068e-06 a 5.41579e-07
+align 30 </s> 1

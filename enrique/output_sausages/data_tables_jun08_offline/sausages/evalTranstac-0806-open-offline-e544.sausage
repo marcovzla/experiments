@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 close 1
+align 3 all 0.882555 are 0.117017 of 0.000333828 on 9.28715e-05 off 9.01929e-07
+align 4 the 1
+align 5 palm 1
+align 6 groves 0.991242 girls 0.00854823 girls' 0.000210026
+align 7 to 0.999679 too 0.000213334 two 6.04927e-05 through 4.70428e-05
+align 8 this 1
+align 9 neighborhood 1
+align 10 *DELETE* 0.999868 uh 0.000127435 i 4.55231e-06
+align 11 </s> 1

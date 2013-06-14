@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 also 1
+align 3 to 0.963249 two 0.0344316 too 0.00231952
+align 4 uh 0.790318 you 0.209682
+align 5 *DELETE* 0.790318 uh 0.209682
+align 6 put 1
+align 7 out 1
+align 8 a 0.925576 of 0.0744242
+align 9 policy 0.929089 policies 0.0709115
+align 10 letter 0.999431 ladder 0.00056894
+align 11 of 1
+align 12 your 0.999935 here 6.51626e-05
+align 13 expectations 1
+align 14 and 0.985092 in 0.0149076
+align 15 consequences 1
+align 16 for 1
+align 17 mishandling 0.834478 this 0.133719 miss 0.0318023
+align 18 *DELETE* 0.834478 handling 0.165522
+align 19 weapons 0.996571 weapon's 0.00266612 weapons' 0.000762717
+align 20 </s> 1

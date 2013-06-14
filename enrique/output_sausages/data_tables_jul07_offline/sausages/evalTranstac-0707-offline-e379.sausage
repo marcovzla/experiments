@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 don't 1
+align 3 need 1
+align 4 to 1
+align 5 be 1
+align 6 aiming 0.982472 a 0.0175279
+align 7 *DELETE* 0.982472 mean 0.0175279
+align 8 the 0.99577 a 0.0042299
+align 9 rifle 1
+align 10 that 0.985372 at 0.013677 back 0.00094446 act 6.31478e-06
+align 11 people 1
+align 12 that 1
+align 13 are 1
+align 14 not 1
+align 15 threatening 0.999148 frightening 0.00046009 threatened 0.000392334
+align 16 you 0.996054 yeah 0.0017048 me 0.000670046 *DELETE* 0.00052996 it 0.00044119 here 0.000185333 yet 9.64844e-05 to 9.23351e-05 year 8.63803e-05 the 3.42453e-05 ear 3.12661e-05 a 1.63096e-05 new 1.55744e-05 do 1.49758e-05 in 1.48753e-05 aim 9.47266e-06 them 1.5094e-06 knew 5.00808e-07 your 3.67431e-07 if 1.4439e-07 yes 8.29415e-08 is 6.93772e-08 there 3.81364e-08 e 1.85949e-08 eight 8.77574e-09 u 6.46468e-09 near 6.37196e-10 at 2.60659e-10
+align 17 *DELETE* 1 i 2.2481e-08 you 2.2226e-08
+align 18 </s> 1

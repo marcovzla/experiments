@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 security 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 at 0.846358 a 0.115283 uh 0.026201 of 0.0113637 *DELETE* 0.00079396
+align 9 the 1
+align 10 *DELETE* 0.999937 the 6.27872e-05
+align 11 hospital 1
+align 12 do 1
+align 13 you 1
+align 14 feel 1
+align 15 secure 0.999357 secured 0.000642792
+align 16 talking 0.998648 a 0.00135228
+align 17 *DELETE* 0.998648 talking 0.00135228
+align 18 to 1
+align 19 me 1
+align 20 right 1
+align 21 now 1
+align 22 *DELETE* 0.999902 uh 7.51611e-05 i 2.31819e-05 if 4.48244e-08
+align 23 </s> 1

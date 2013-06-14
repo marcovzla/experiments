@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 you 1
+align 3 did 0.970205 don't 0.0268383 *DELETE* 0.00295621
+align 4 *DELETE* 0.993081 know 0.00691944
+align 5 all 0.938875 know 0.0228011 help 0.0215301 of 0.0114231 not 0.00980049
+align 6 the 0.936951 of 0.0629058 my 0.000143232
+align 7 *DELETE* 0.937094 the 0.0629058
+align 8 trunk 1
+align 9 *DELETE* 0.999033 of 0.000847231 the 0.000107186 up 1.23903e-05 if 3.76226e-10 with 1.31285e-12
+align 10 before 0.988492 for 0.0103494 what 0.00115861
+align 11 you 1
+align 12 start 1
+align 13 driving 0.999997 drive 2.54848e-06
+align 14 *DELETE* 0.999997 in 2.54848e-06
+align 15 a 1
+align 16 car 1
+align 17 *DELETE* 0.999996 in 3.7463e-06
+align 18 </s> 1

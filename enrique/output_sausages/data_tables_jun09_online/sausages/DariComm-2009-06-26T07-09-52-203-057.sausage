@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 does 0.78334 the 0.216508 *DELETE* 0.000152182
+align 2 *DELETE* 0.768478 is 0.147576 as 0.0689317 it 0.0132911 the 0.000457808 a 0.000394652 uh 0.000370019 those 0.000152182 he 0.000150464 i 0.000141228 that 5.6496e-05 do 2.99454e-07 you 1.61517e-07 this 4.45275e-08
+align 3 </s> 1

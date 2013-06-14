@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 after 0.978378 uh 0.0216221
+align 2 *DELETE* 0.978378 after 0.0216221
+align 3 we 0.988709 we've 0.0112906
+align 4 moved 0.9565 move 0.0435001
+align 5 *DELETE* 0.721147 in 0.158636 from 0.0809208 to 0.0392963
+align 6 checkpoint 1
+align 7 three 0.977231 *DELETE* 0.0227693
+align 8 to 0.716135 a 0.200654 the 0.0588912 treated 0.0227693 *DELETE* 0.00155135
+align 9 checkpoint 1
+align 10 for 1
+align 11 i 0.973955 uh 0.0260454
+align 12 notice 0.625165 noticed 0.374835
+align 13 the 0.502 that 0.267665 it 0.197716 a 0.0326193
+align 14 things 0.999467 thing's 0.000532957
+align 15 were 0.857605 we're 0.142395
+align 16 starting 0.997957 starring 0.00204264
+align 17 to 1
+align 18 get 1
+align 19 better 1
+align 20 *DELETE* 0.999998 at 2.27656e-06
+align 21 </s> 1

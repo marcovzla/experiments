@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 uh 0.993104 oh 0.00431646 i 0.00257913
+align 2 *DELETE* 0.995002 uh 0.00251561 i 0.00248274
+align 3 it's 0.992341 uh 0.00743869 its 0.000220481
+align 4 *DELETE* 0.992561 it's 0.00743869
+align 5 only 1
+align 6 twice 1
+align 7 because 1
+align 8 next 1
+align 9 we 1
+align 10 gotta 1
+align 11 check 0.997976 checked 0.00202372
+align 12 to 1
+align 13 see 1
+align 14 if 1
+align 15 he 1 *DELETE* 7.73492e-12
+align 16 is 1 he's 1.22842e-07 his 2.689e-08
+align 17 uh 1
+align 18 heart 0.962203 a 0.0375304 hard 0.000266473
+align 19 *DELETE* 0.96247 heart 0.0374748 hard 5.5584e-05
+align 20 is 0.999999 his 6.92253e-07 it's 3.40314e-09
+align 21 beating 0.999958 bleeding 4.19576e-05
+align 22 </s> 1

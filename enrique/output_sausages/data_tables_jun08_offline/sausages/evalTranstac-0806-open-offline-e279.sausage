@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 it's 1
+align 2 important 1
+align 3 that 1
+align 4 you 1
+align 5 give 0.979912 get 0.0200884
+align 6 your 0.602811 to 0.397189
+align 7 *DELETE* 0.602811 your 0.397189
+align 8 soldiers 1
+align 9 a 0.580296 the 0.334229 that 0.0854752
+align 10 commander's 1
+align 11 intent 1
+align 12 because 1
+align 13 i 1
+align 14 could 0.898664 can 0.0812089 can't 0.0201276
+align 15 tell 1
+align 16 if 1
+align 17 if 1
+align 18 i 0.997639 *DELETE* 0.0023615
+align 19 am 0.997639 i'm 0.0023615
+align 20 in 1
+align 21 *DELETE* 0.999999 and 8.07793e-07 it 1.94113e-08
+align 22 leading 1
+align 23 the 1
+align 24 patrol 1
+align 25 and 0.998532 in 0.00146822
+align 26 you 0.988544 *DELETE* 0.0114559
+align 27 are 0.988544 you're 0.0113778 your 7.80862e-05
+align 28 one 1
+align 29 of 1
+align 30 my 1
+align 31 soldiers 1
+align 32 in 0.991318 on 0.00859328 some 6.3196e-05 of 2.03847e-05 and 3.46934e-06 to 1.77444e-06
+align 33 the 0.999744 a 0.000198429 of 5.74647e-05 to 1.74434e-07
+align 34 patrol 1
+align 35 *DELETE* 1 in 1.77067e-08
+align 36 </s> 1

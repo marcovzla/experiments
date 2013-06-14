@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 go 1
+align 4 to 1
+align 5 a 0.591998 *DELETE* 0.251485 university 0.156517
+align 6 university 0.843483 *DELETE* 0.156516 i 6.62521e-07
+align 7 *DELETE* 1 i 7.09467e-13
+align 8 </s> 1

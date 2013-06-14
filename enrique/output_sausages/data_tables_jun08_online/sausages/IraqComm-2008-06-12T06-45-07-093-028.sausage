@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 were 0.99719 we're 0.00203311 would 0.000539391 was 0.000225862 with 1.12375e-05
+align 3 the 0.954103 they 0.045897
+align 4 men 0.734372 name 0.261921 named 0.00370743
+align 5 doing 1
+align 6 *DELETE* 0.998974 uh 0.00100537 a 1.87045e-05 i 1.44102e-06
+align 7 </s> 1

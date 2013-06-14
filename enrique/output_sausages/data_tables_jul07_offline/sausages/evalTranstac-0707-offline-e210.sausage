@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 and 1
+align 3 what 1
+align 4 kind 1
+align 5 of 1
+align 6 uh 1
+align 7 what 0.993349 uh 0.00665094
+align 8 *DELETE* 0.993349 what 0.00665094
+align 9 kind 1
+align 10 of 1
+align 11 construction 1
+align 12 work 1
+align 13 do 0.709097 *DELETE* 0.290869 to 3.24307e-05 if 1.26997e-06
+align 14 you 1
+align 15 *DELETE* 1 you 5.38704e-11
+align 16 do 0.999877 deal 0.000118258 due 4.55976e-06
+align 17 *DELETE* 0.999987 uh 1.02545e-05 i 2.38941e-06 it 3.62361e-07 a 2.6435e-07
+align 18 </s> 1

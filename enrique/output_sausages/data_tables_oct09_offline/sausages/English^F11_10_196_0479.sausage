@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 0.808489 so 0.0886843 sir 0.0749746 uh 0.0278522
+align 3 *DELETE* 0.924744 i 0.075256
+align 4 will 0.883479 we'll 0.116521
+align 5 go 1
+align 6 ahead 1
+align 7 and 1
+align 8 uh 1
+align 9 i 0.935347 uh 0.064653
+align 10 *DELETE* 0.935347 i 0.064653
+align 11 have 1
+align 12 a 1
+align 13 company 1
+align 14 of 1
+align 15 um 1
+align 16 marines 1
+align 17 out 0.983103 at 0.0145119 *DELETE* 0.00238469
+align 18 uh 0.45498 a 0.433238 of 0.098076 to 0.0113219 awda 0.00238469
+align 19 *DELETE* 0.807625 uh 0.192375
+align 20 my 0.972454 may 0.0258212 mile 0.000780529 mai 0.000313485 mei 0.000178894 might 0.000145668 mike 0.000120822 man 0.000105626 mine 7.89973e-05 much 7.72939e-07 month 6.15763e-08
+align 21 disposal 1
+align 22 *DELETE* 0.999698 i 0.000261523 uh 3.89058e-05 it 1.5165e-06 of 1.51158e-07 in 8.37203e-08 the 5.63585e-08
+align 23 </s> 1

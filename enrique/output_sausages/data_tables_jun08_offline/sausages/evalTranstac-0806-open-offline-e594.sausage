@@ -1,0 +1,60 @@
+numaligns 58
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 some 1
+align 3 uh 1
+align 4 some 1
+align 5 other 0.98589 uh 0.0106412 of 0.00346871
+align 6 *DELETE* 0.996531 the 0.00346871
+align 7 things 1
+align 8 you 0.989557 we 0.00987883 he 0.000563875 do 1.73139e-07
+align 9 *DELETE* 1 you 1.73139e-07
+align 10 *DELETE* 0.894846 want 0.105154
+align 11 wanna 0.894846 *DELETE* 0.0906003 to 0.0145538
+align 12 make 1
+align 13 sure 1
+align 14 we 1
+align 15 have 1
+align 16 uh 1
+align 17 uh 1
+align 18 *DELETE* 0.743224 uh 0.256776
+align 19 we 1
+align 20 need 1
+align 21 to 1
+align 22 collect 1
+align 23 uh 1
+align 24 *DELETE* 0.949624 uh 0.0503758
+align 25 is 1
+align 26 uh 1
+align 27 is 0.707189 in 0.186234 *DELETE* 0.0676039 uh 0.0213147 the 0.0176586
+align 28 *DELETE* 0.99914 uh 0.000860169
+align 29 the 1
+align 30 most 1
+align 31 up-to-date 1
+align 32 uh 0.903313 um 0.0966866 of 1.43365e-07
+align 33 *DELETE* 0.996498 uh 0.00350177
+align 34 what 0.999806 well 0.000184537 will 5.06351e-06 when 4.13488e-06 or 2.34685e-07 *DELETE* 3.91217e-10
+align 35 we 1
+align 36 call 1
+align 37 a 1
+align 38 bolo 1
+align 39 list 1
+align 40 and 1
+align 41 also 1
+align 42 uh 1
+align 43 the 1
+align 44 wanted 1
+align 45 list 1
+align 46 or 0.708134 for 0.291866
+align 47 *DELETE* 0.786332 were 0.126476 we're 0.0479236 or 0.0392679
+align 48 uh 0.653746 are 0.294755 um 0.0410552 aren't 0.00584696 out 0.00447655 *DELETE* 0.000120426
+align 49 the 0.796545 to 0.203455
+align 50 watch 1
+align 51 list 0.984212 lists 0.0157879
+align 52 for 0.999848 four 0.000152437
+align 53 uh 0.991429 *DELETE* 0.00857098
+align 54 uh 0.716742 *DELETE* 0.173363 insurgents 0.10092 um 0.00833948 a 0.0004893 insurgence 7.34136e-05 insurgents' 7.32785e-05
+align 55 insurgents 0.898934 *DELETE* 0.101066
+align 56 *DELETE* 1 uh 5.31047e-08
+align 57 </s> 1

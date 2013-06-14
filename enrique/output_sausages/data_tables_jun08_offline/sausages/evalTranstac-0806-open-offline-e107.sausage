@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 what 0.996366 well 0.0036343
+align 3 what 1
+align 4 is 1
+align 5 that 1
+align 6 *DELETE* 0.999974 a 2.61545e-05
+align 7 problem 1
+align 8 you're 0.990392 in 0.00314958 your 0.00260116 here 0.00255811 and 0.001132 it 0.000162026 if 5.12335e-06
+align 9 *DELETE* 0.999566 your 0.000433789 the 2.09167e-07
+align 10 having 0.99994 amman 3.0796e-05 heaven 2.34772e-05 *DELETE* 5.54362e-06
+align 11 *DELETE* 0.999987 a 5.85049e-06 arriving 5.54353e-06 uh 1.22966e-06 haven't 9.71703e-11
+align 12 </s> 1

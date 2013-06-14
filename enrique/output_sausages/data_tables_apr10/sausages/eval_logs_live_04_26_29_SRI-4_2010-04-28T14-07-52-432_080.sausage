@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 have 0.821336 i 0.103034 are 0.0512853 of 0.0158258 at 0.00821323 has 0.000288932 and 1.74836e-05
+align 2 *DELETE* 0.896966 have 0.103034
+align 3 the 1
+align 4 students 0.737914 students' 0.262086
+align 5 ever 0.999844 of 0.000156335
+align 6 been 0.999844 urban 0.000156335
+align 7 attacked 0.998093 attack 0.00178315 intact 0.000123458
+align 8 *DELETE* 1 a 5.74659e-08 i 5.20456e-08 it 6.572e-14 the 3.91541e-19
+align 9 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 the 0.982717 he 0.0172054 *DELETE* 7.74063e-05
+align 2 *DELETE* 0.999936 he 6.41412e-05
+align 3 easy 1
+align 4 way 1
+align 5 you 1
+align 6 tell 1
+align 7 us 1
+align 8 which 1
+align 9 rooms 0.997603 room's 0.00239736
+align 10 we 1
+align 11 can 1
+align 12 *DELETE* 0.999975 you 2.47517e-05
+align 13 use 1
+align 14 </s> 1

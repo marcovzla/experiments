@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 when 0.999991 *DELETE* 9.06785e-06
+align 2 we 1
+align 3 finish 0.999757 finished 0.00024336
+align 4 with 1
+align 5 this 1
+align 6 nation 0.609694 mission 0.390306
+align 7 do 0.999009 if 0.000991426
+align 8 you 1
+align 9 want 0.827705 *DELETE* 0.172295
+align 10 to 0.827705 wanna 0.172295
+align 11 search 1
+align 12 this 1
+align 13 area 1
+align 14 *DELETE* 0.999918 uh 8.22556e-05 is 4.19484e-12
+align 15 </s> 1

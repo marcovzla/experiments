@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 0.998757 which 0.00123954 what's 3.44685e-06
+align 2 is 1
+align 3 wrong 1
+align 4 with 1
+align 5 it 0.997878 that 0.0021204 *DELETE* 5.85603e-08
+align 6 *DELETE* 0.999853 it 0.000105822 i 4.02239e-05 a 1.21461e-06 uh 1.18956e-09 to 9.04706e-11 eight 2.23642e-25 the 2.12808e-34
+align 7 </s> 1

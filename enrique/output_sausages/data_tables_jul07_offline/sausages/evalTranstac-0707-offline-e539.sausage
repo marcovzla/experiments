@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i'd 1
+align 2 like 1
+align 3 to 1
+align 4 take 1
+align 5 a 1
+align 6 good 1
+align 7 look 1
+align 8 at 0.999813 a 0.000125538 in 6.11616e-05
+align 9 your 0.99965 you're 0.000224172 year 0.000125538
+align 10 operation 0.999985 operations 1.51994e-05
+align 11 *DELETE* 0.99991 uh 9.01431e-05
+align 12 </s> 1

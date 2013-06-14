@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 0.998296 were 0.00170364
+align 2 you 1
+align 3 heading 0.997324 headed 0.00254229 had 7.18474e-05 get 6.20564e-05 got 9.31609e-08
+align 4 to 0.999089 too 0.000608744 two 0.000168442 into 0.000133997
+align 5 *DELETE* 0.999771 a 0.000201479 it 1.86852e-05 him 5.69432e-06 you 3.27147e-06 at 3.98463e-09
+align 6 </s> 1

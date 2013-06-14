@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 job 0.998179 jobs 0.00182089
+align 5 would 0.993915 wood 0.00608455
+align 6 your 0.998534 you 0.00146648
+align 7 *DELETE* 0.998534 your 0.00146648
+align 8 company 1
+align 9 be 0.999479 b 0.000521477
+align 10 able 1
+align 11 to 1
+align 12 do 1
+align 13 you 0.588996 *DELETE* 0.263553 right 0.147451
+align 14 right 0.852436 *DELETE* 0.147451 write 0.000112994
+align 15 now 1
+align 16 *DELETE* 0.999997 i 1.24573e-06 is 1.19908e-06 uh 3.53836e-07
+align 17 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 who 0.878072 what 0.0917345 or 0.0175194 well 0.00586142 we'll 0.00322943 where 0.00245285 will 0.00111279 i 1.78338e-05
+align 2 *DELETE* 0.999982 will 1.78338e-05
+align 3 do 1
+align 4 you 1
+align 5 want 1
+align 6 to 1
+align 7 search 1
+align 8 the 1 *DELETE* 1.41146e-12
+align 9 car 0.999981 *DELETE* 1.87109e-05 to 7.51526e-11
+align 10 *DELETE* 0.995796 uh 0.00367583 in 0.000243732 i 0.000122527 now 9.94573e-05 to 2.3827e-05 call 1.8711e-05 and 1.86392e-05 too 6.66164e-07 if 1.72956e-07 is 6.51318e-08 then 2.55578e-10 you 8.36109e-14
+align 11 </s> 1

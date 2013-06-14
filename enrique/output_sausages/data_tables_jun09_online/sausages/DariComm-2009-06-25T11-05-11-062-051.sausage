@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 where 0.996502 would 0.00275456 were 0.000638142 well 5.48828e-05 we'll 1.96748e-05 we're 1.87891e-05 we 1.14921e-05
+align 2 *DELETE* 0.999991 would 8.96251e-06
+align 3 do 1
+align 4 you 1
+align 5 want 1
+align 6 the 1
+align 7 marines 1
+align 8 to 0.974758 the 0.0252419
+align 9 *DELETE* 0.999982 the 1.84497e-05
+align 10 place 1
+align 11 their 0.879751 there 0.108342 they're 0.0119065
+align 12 vehicles 1
+align 13 what 0.538841 with 0.452811 but 0.00827392 *DELETE* 7.46199e-05
+align 14 the 0.962115 a 0.0187965 they 0.0134064 their 0.00378758 that 0.000870961 it 0.000475236 big 0.000299749 *DELETE* 9.70267e-05 weapon 7.46199e-05 they're 7.4085e-05 there 2.99347e-06
+align 15 guns 0.993007 gun's 0.00549851 gowns 0.00144835 downs 4.63241e-05 *DELETE* 5.50317e-19
+align 16 *DELETE* 0.999909 uh 8.70136e-05 i 3.5138e-06 don's 9.24089e-17
+align 17 </s> 1

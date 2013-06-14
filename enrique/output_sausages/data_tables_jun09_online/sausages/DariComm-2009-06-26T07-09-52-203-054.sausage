@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 0.996983 *DELETE* 0.0030172
+align 2 you 1
+align 3 *DELETE* 0.996983 do 0.0030172
+align 4 *DELETE* 0.996983 you 0.0030172
+align 5 have 1
+align 6 any 0.955207 a 0.0447934
+align 7 *DELETE* 0.955207 need 0.0447934
+align 8 teachers 0.994279 teachers' 0.00331544 teacher's 0.00240548
+align 9 in 0.999906 *DELETE* 9.4018e-05 and 4.98559e-14
+align 10 the 0.99989 any 9.4018e-05 knee 1.58092e-05
+align 11 area 1
+align 12 *DELETE* 0.999331 uh 0.000602469 is 3.04177e-05 i 1.622e-05 and 1.60961e-05 now 4.09217e-06 um 7.41303e-08 a 3.04826e-09 of 2.21754e-09 the 4.33096e-10 so 1.39144e-10
+align 13 </s> 1

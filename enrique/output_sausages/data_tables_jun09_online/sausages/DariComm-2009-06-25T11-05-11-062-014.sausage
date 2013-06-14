@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 say 1
+align 3 his 1
+align 4 name 1
+align 5 again 0.999959 against 4.12249e-05
+align 6 *DELETE* 1 i 1.18028e-18 uh 1.18028e-18 um 1.13582e-18
+align 7 </s> 1

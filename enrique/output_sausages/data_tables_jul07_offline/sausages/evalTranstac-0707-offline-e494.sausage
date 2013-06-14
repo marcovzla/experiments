@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 but 0.837157 *DELETE* 0.159868 by 0.00297539
+align 2 my 0.996921 may 0.00307872
+align 3 records 0.98088 record's 0.0166149 record 0.00250485
+align 4 say 1
+align 5 he 1
+align 6 is 1
+align 7 suspected 1
+align 8 of 0.999516 *DELETE* 0.000483711
+align 9 insurgent 1
+align 10 activity 1
+align 11 *DELETE* 1 i 7.03931e-09 in 7.35101e-10 do 3.41174e-10
+align 12 </s> 1

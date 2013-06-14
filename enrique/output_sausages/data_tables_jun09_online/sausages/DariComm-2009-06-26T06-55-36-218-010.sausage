@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 food 1
+align 5 to 1
+align 6 eat 1
+align 7 *DELETE* 0.970845 it 0.0278783 eat 0.00127649 them 1.28093e-07 uh 1.08226e-08 and 2.6395e-10
+align 8 </s> 1

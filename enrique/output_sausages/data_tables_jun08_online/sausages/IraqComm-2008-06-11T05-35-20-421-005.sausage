@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computer 1
+align 2 play 0.998888 plans 0.00111163
+align 3 *DELETE* 0.998888 for 0.00111163
+align 4 instructions 0.998888 cans 0.000926674 actions 0.000184959
+align 5 *DELETE* 1 i 2.321e-07
+align 6 </s> 1

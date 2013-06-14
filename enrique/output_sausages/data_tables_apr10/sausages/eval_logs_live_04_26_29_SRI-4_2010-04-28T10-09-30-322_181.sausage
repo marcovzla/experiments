@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 why 0.998992 what 0.0010081
+align 2 doesn't 1
+align 3 your 1
+align 4 brother 1
+align 5 live 1
+align 6 with 1
+align 7 his 1
+align 8 parents 1
+align 9 *DELETE* 1 i 4.85808e-07
+align 10 </s> 1

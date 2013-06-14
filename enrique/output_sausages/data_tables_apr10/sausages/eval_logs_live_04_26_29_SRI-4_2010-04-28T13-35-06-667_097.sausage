@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 policemen 1
+align 4 are 1
+align 5 at 0.99577 *DELETE* 0.00392548 that 0.000304975
+align 6 the 1
+align 7 police 1 *DELETE* 7.99634e-14
+align 8 station 0.999951 stations 4.91098e-05 *DELETE* 7.99634e-14
+align 9 *DELETE* 0.999995 uh 2.48654e-06 i 1.94879e-06 is 4.55301e-07 playstation 4.06685e-08 if 1.04847e-09
+align 10 </s> 1

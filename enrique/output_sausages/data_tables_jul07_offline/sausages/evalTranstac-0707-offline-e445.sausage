@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 can 1
+align 3 ask 1
+align 4 your 0.981523 her 0.018359 you're 0.000117873
+align 5 family 1
+align 6 *DELETE* 0.999709 uh 0.000287988 i 2.24409e-06 if 4.70714e-07
+align 7 </s> 1

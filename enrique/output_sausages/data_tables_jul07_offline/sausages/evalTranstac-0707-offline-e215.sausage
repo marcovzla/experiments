@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 that 0.636805 they 0.114985 the 0.0695855 way 0.0609304 uh 0.031172 who 0.0243163 new 0.0226587 day 0.021504 a 0.0120174 baby 0.0052289 bay 0.000598247 her 0.000136498 *DELETE* 6.23421e-05
+align 3 *DELETE* 0.974327 they 0.0252881 you 0.000284518 he 0.000100265
+align 4 your 0.959886 you're 0.0400787 year 3.48143e-05
+align 5 company 1
+align 6 is 1
+align 7 *DELETE* 0.94332 it 0.0566802
+align 8 a 0.703527 *DELETE* 0.296473
+align 9 did 0.635487 *DELETE* 0.259901 it 0.104612
+align 10 it 0.823118 *DELETE* 0.107322 in 0.0377681 date 0.031792
+align 11 *DELETE* 0.742987 the 0.136895 a 0.0616467 data 0.0197743 is 0.0175761 day 0.0076338 do 0.00740214 it 0.00430873 good 0.0017764
+align 12 independent 1
+align 13 or 1
+align 14 do 0.999631 did 0.000368822
+align 15 you 1
+align 16 work 1
+align 17 with 0.996809 was 0.0031911
+align 18 someone 1
+align 19 else 1
+align 20 </s> 1

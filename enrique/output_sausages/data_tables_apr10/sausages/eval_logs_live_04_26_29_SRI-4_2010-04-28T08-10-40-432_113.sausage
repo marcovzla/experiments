@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 1
+align 3 you 1
+align 4 planning 1
+align 5 to 0.926692 do 0.073308
+align 6 evacuate 1
+align 7 *DELETE* 0.999999 the 1.06234e-06
+align 8 medical 1
+align 9 casualties 1
+align 10 *DELETE* 0.99999 i 8.98806e-06 if 7.045e-07
+align 11 </s> 1

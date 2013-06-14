@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 years 1
+align 4 old 1
+align 5 are 0.9988 or 0.00106483 i 8.55428e-05 our 5.00459e-05 r 4.73726e-12
+align 6 *DELETE* 0.999914 are 8.55428e-05
+align 7 you 1 *DELETE* 1.04352e-14
+align 8 *DELETE* 0.99999 uh 6.80947e-06 now 2.73016e-06 in 1.28029e-08 u 1.61398e-11
+align 9 </s> 1

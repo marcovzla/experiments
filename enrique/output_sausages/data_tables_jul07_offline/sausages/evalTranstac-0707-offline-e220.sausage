@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 i 0.99995 i'd 5.02129e-05
+align 3 *DELETE* 0.966594 i 0.0334064
+align 4 do 1
+align 5 not 1
+align 6 have 1
+align 7 room 0.999942 *DELETE* 5.83005e-05
+align 8 to 0.994434 the 0.00527005 good 9.85885e-05 that 6.63299e-05 rented 5.83005e-05 there 3.79648e-05 did 3.21302e-05 for 2.83415e-06
+align 9 negotiate 1
+align 10 *DELETE* 0.988427 it's 0.00685034 its 0.00332072 it 0.000872644 a 0.000328155 to 0.00013585 so 4.60144e-05 the 9.3978e-06 is 5.74321e-06 some 2.46827e-06 i 1.33394e-06 this 1.2757e-07 if 3.59549e-10
+align 11 </s> 1

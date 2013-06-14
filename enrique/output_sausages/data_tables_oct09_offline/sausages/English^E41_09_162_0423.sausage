@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 the 0.990798 uh 0.00920176
+align 4 *DELETE* 0.990798 the 0.00920176
+align 5 first 1
+align 6 thing 1
+align 7 you 0.997059 you'll 0.00294091
+align 8 little 0.672614 know 0.288324 *DELETE* 0.0390622
+align 9 *DELETE* 0.714555 we 0.283506 over 0.00193957
+align 10 *DELETE* 0.677546 all 0.236908 will 0.0855458
+align 11 want 0.928611 *DELETE* 0.0713887
+align 12 to 0.928611 wanna 0.0713733 wanted 1.53629e-05
+align 13 do 1
+align 14 is 1
+align 15 *DELETE* 0.999793 uh 0.000206786
+align 16 i'll 1
+align 17 go 1
+align 18 ahead 1
+align 19 and 1
+align 20 come 1
+align 21 up 1 out 2.09217e-07
+align 22 to 1
+align 23 that 1
+align 24 uh 1
+align 25 that 0.9998 *DELETE* 0.000158259 dad 4.19411e-05
+align 26 uh 0.498049 *DELETE* 0.436041 i 0.0656775 are 0.000232952
+align 27 that 0.939143 have 0.0463437 had 0.0132369 *DELETE* 0.000943217 at 0.000164316 i've 8.1459e-05 out 3.00192e-05 map 2.90608e-05 i'll 2.39651e-05 data 4.19647e-06
+align 28 person 1
+align 29 in 0.99971 and 0.000289912
+align 30 your 0.999988 *DELETE* 1.17846e-05 you 8.85155e-11
+align 31 unit 1
+align 32 </s> 1

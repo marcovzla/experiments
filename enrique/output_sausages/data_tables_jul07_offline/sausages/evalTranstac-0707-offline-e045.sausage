@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 and 0.998669 an 0.00133109
+align 2 uh 1
+align 3 we're 0.955065 uh 0.0333336 were 0.0116012
+align 4 *DELETE* 0.966666 we're 0.0331376 were 0.000195999
+align 5 doing 1
+align 6 household 0.999898 households 0.00010216
+align 7 searches 1
+align 8 and 1
+align 9 yours 0.752536 years 0.23139 year's 0.00971548 years' 0.0057624 your 0.000596001
+align 10 is 0.973257 as 0.0206537 it's 0.00235326 this 0.00135178 its 0.000945429 does 0.00078761 his 0.000623279 just 2.80508e-05
+align 11 *DELETE* 0.999404 is 0.000477271 this 0.00011873
+align 12 next 0.999932 mixed 6.75813e-05
+align 13 *DELETE* 0.999851 to 0.000148609 i 1.0798e-07
+align 14 </s> 1

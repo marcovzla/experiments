@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.961942 *DELETE* 0.0220923 we 0.0121418 will 0.00382375
+align 2 *DELETE* 0.965766 will 0.0341816 we'll 5.25145e-05
+align 3 look 1
+align 4 for 0.753903 one 0.202191 *DELETE* 0.0439056
+align 5 on 0.79702 is 0.201681 um 0.000789236 *DELETE* 0.000510434
+align 6 *DELETE* 0.998739 is 0.00126053
+align 7 his 0.630305 *DELETE* 0.324823 inside 0.042212 this 0.00253446 it's 0.000109973 hussein 1.52577e-05 as 1.21773e-07
+align 8 inside 0.661116 *DELETE* 0.338884
+align 9 of 0.65575 its 0.166644 *DELETE* 0.145903 aside 0.0316995 as 3.48496e-06
+align 10 the 0.699393 assigned 0.259256 and 0.0333538 *DELETE* 0.00301854 aside 0.00264162 i 0.00181612 this 0.000521651
+align 11 *DELETE* 0.994299 and 0.00264162 haven't 0.00173109 island 0.0012436 have 8.50233e-05
+align 12 *DELETE* 0.999915 an 8.50233e-05
+align 13 *DELETE* 0.999851 american 0.000148763
+align 14 americans 0.999851 so 0.000148763
+align 15 will 0.692844 we'll 0.165387 we 0.13923 who 0.00238658 *DELETE* 0.000152066
+align 16 look 0.999848 willing 0.000152066
+align 17 for 1
+align 18 *DELETE* 0.99957 it 0.000429985
+align 19 in 0.949684 on 0.0181235 and 0.016511 him 0.0150909 an 0.000591054
+align 20 the 1
+align 21 next 1
+align 22 time 1
+align 23 we 1
+align 24 come 1
+align 25 through 0.94877 to 0.0504199 for 0.000810009
+align 26 town 1 towns 1.36e-14 time 4.133e-15
+align 27 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.998211 i 0.00178858
+align 2 would 1
+align 3 you 1
+align 4 like 1
+align 5 to 1
+align 6 be 1
+align 7 paid 1
+align 8 in 1
+align 9 dollars 1
+align 10 or 1
+align 11 afghani 1
+align 12 he's 0.356152 yes 0.20387 it's 0.191634 ease 0.0934311 its 0.0921655 is 0.0156299 east 0.0112638 use 0.00799811 eats 0.00583436 needs 0.00568374 *DELETE* 0.00383183 ins 0.00375232 s 0.00327829 ears 0.00209222 as 0.00148649 aids 0.000963655 ice 0.000932403
+align 13 *DELETE* 0.985791 uh 0.0057342 a 0.00358486 his 0.000825225 us 0.000777466 in 0.000530769 has 0.000465318 nice 0.000463716 eggs 0.000418297 ads 0.000317912 i 0.000313489 ass 0.000253295 ends 0.000139422 adds 0.000129951 the 8.20749e-05 if 6.47862e-05 iz 3.46035e-05 on 2.40571e-05 to 1.3532e-05 an 1.33478e-05 of 1.19859e-05 so 6.61553e-06 is 3.9152e-06 it 2.44737e-07
+align 14 </s> 1

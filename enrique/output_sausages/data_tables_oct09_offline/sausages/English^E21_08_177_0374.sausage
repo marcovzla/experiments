@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 0.991509 oh 0.0084913
+align 2 *DELETE* 0.991509 okay 0.0084913
+align 3 um 1
+align 4 do 0.306775 the 0.228422 *DELETE* 0.200443 but 0.167162 uh 0.0696374 no 0.0136087 they 0.0125546 then 0.000730654 there 0.00066659
+align 5 not 0.999879 knot 0.000121406
+align 6 too 1
+align 7 bad 1
+align 8 but 1
+align 9 you 1
+align 10 gotta 1
+align 11 think 0.909773 thing 0.0902269
+align 12 as 0.751808 is 0.244019 it's 0.00417294
+align 13 if 1
+align 14 you 0.969299 he 0.0307015
+align 15 fire 1
+align 16 in 1
+align 17 the 1
+align 18 air 1
+align 19 goals 0.966596 those 0.0316611 goes 0.00174245
+align 20 uh 1
+align 21 bullet 0.844097 bullets 0.155439 blood 0.000403846 a 6.01121e-05
+align 22 *DELETE* 0.99994 bullet 6.01121e-05
+align 23 have 0.722616 had 0.202644 tied 0.0486959 that 0.00925798 tight 0.00632617 time 0.00333234 at 0.00288482 type 0.00212978 tad 0.00133203 ten 0.000583411 taught 0.000145418 tap 5.16155e-05
+align 24 to 0.987475 the 0.0125254
+align 25 calm 0.62762 come 0.37238
+align 26 down 1
+align 27 *DELETE* 0.999997 uh 3.0413e-06
+align 28 </s> 1

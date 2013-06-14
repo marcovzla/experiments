@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 0.999992 *DELETE* 8.11395e-06 when 2.60358e-07 where 2.7293e-09
+align 2 is 0.999837 was 0.000162924
+align 3 the 1
+align 4 number 1
+align 5 of 1
+align 6 old 0.601606 all 0.390431 own 0.00755965 oh 0.000389422 on 1.43796e-05
+align 7 versus 0.918122 forces 0.0808087 force's 0.000483904 verses 0.000302623 forces' 0.000276245 force 6.50352e-06
+align 8 *DELETE* 0.999993 is 6.50352e-06
+align 9 young 1
+align 10 citizens 0.987544 citizens' 0.00583694 citizen's 0.0038573 citizen 0.00276141
+align 11 *DELETE* 0.999962 i 3.04008e-05 uh 6.57381e-06 a 1.34807e-06 to 6.97589e-14 of 4.03574e-18
+align 12 </s> 1

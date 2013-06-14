@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 1
+align 2 play 0.944602 plate 0.0512415 played 0.00244537 playing 0.00155053 plays 0.000106448 place 5.46719e-05
+align 3 instructions 0.99315 a 0.00685046
+align 4 *DELETE* 0.993078 instructions 0.00685046 i 7.14791e-05 in 4.61571e-08 to 4.48696e-08 and 6.19717e-09 you 5.54668e-09 uh 4.72296e-09 it 1.83007e-13 do 2.59228e-15
+align 5 </s> 1

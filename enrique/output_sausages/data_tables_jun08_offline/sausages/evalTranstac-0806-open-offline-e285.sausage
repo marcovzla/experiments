@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 this 0.922208 it's 0.0334718 *DELETE* 0.0143927 just 0.0116776 his 0.00923253 does 0.00647246 says 0.00183224 there's 0.000712147 that's 2.99015e-08
+align 2 just 0.985607 sisters 0.0138048 sister's 0.00058788
+align 3 saying 1
+align 4 hey 0.81326 pay 0.13637 a 0.031086 day 0.00866841 okay 0.00703055 they 0.00347704 eight 0.00010816
+align 5 at 1
+align 6 the 1
+align 7 end 1
+align 8 of 1
+align 9 the 1
+align 10 day 1
+align 11 once 1
+align 12 we're 0.77529 *DELETE* 0.22471
+align 13 done 0.729829 or 0.184243 *DELETE* 0.045461 were 0.0331426 are 0.00482163 our 0.00250264
+align 14 with 0.729829 don't 0.270171
+align 15 the 1
+align 16 patrol 1
+align 17 this 1
+align 18 is 1
+align 19 what's 1
+align 20 going 1
+align 21 to 1
+align 22 be 1
+align 23 *DELETE* 0.99996 a 3.98435e-05
+align 24 accomplished 0.999945 accomplish 5.47364e-05
+align 25 *DELETE* 0.999778 it 8.87277e-05 eat 6.08639e-05 a 4.88541e-05 to 1.22224e-05 dick 6.81985e-06 do 4.26991e-06 the 4.10375e-07 in 2.12938e-08
+align 26 </s> 1

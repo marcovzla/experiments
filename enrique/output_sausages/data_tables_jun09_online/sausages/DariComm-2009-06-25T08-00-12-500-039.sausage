@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 open 1
+align 3 the 1
+align 4 pack 0.814618 packed 0.106621 bak 0.0334129 pat 0.0277359 pac 0.0135304 path 0.00289129 package 0.00116564 *DELETE* 2.50246e-05
+align 5 *DELETE* 0.99907 it 0.000344239 uh 0.000263658 a 0.00014333 i 9.28914e-05 in 3.02057e-05 packet 1.30633e-05 them 1.23942e-05 packs 1.19613e-05 if 7.33592e-06 the 3.83676e-06 of 2.48085e-06 you 2.44997e-06 is 1.45601e-06 up 3.86824e-07 that 1.18919e-07 and 7.42354e-08 at 1.63905e-09 to 1.5865e-09 do 1.47493e-09 all 1.10789e-12
+align 6 </s> 1

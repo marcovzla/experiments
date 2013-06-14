@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 permanent 0.883173 permit 0.0796579 i'm 0.0371692
+align 2 *DELETE* 0.962831 a 0.0371692
+align 3 checkpoints 0.975418 checkpoint 0.0245816
+align 4 it 0.954559 sir 0.0141228 at 0.0138681 so 0.00929293 or 0.00410299 are 0.0025286 set 0.000924282 that 0.000332288 suit 0.000241509 *DELETE* 2.75194e-05
+align 5 is 0.950893 does 0.0292303 as 0.0193906 it 0.000486273
+align 6 *DELETE* 0.999514 is 0.000486273
+align 7 that 0.383897 uh 0.374429 i 0.241673
+align 8 in 1
+align 9 different 1
+align 10 laden 1
+align 11 snap 1
+align 12 v._c._p.s 1
+align 13 *DELETE* 1 uh 7.95478e-10
+align 14 </s> 1

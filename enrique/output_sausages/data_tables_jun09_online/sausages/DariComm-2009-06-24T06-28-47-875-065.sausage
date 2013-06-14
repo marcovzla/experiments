@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 0.985481 okay 0.0145185
+align 2 you 1
+align 3 say 1
+align 4 it 0.999847 *DELETE* 0.000153357
+align 5 again 1
+align 6 *DELETE* 1 i 8.16819e-11 uh 4.08159e-11 in 2.89735e-14
+align 7 </s> 1

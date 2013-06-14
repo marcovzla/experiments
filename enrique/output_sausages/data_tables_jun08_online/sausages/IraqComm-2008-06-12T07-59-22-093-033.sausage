@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 describe 1
+align 4 the 0.781903 their 0.218097 there 8.60353e-17
+align 5 vehicle 0.999951 *DELETE* 4.93012e-05
+align 6 *DELETE* 0.998342 a 0.00139931 uh 0.00020155 vehicles 4.93012e-05 i 7.4563e-06
+align 7 </s> 1

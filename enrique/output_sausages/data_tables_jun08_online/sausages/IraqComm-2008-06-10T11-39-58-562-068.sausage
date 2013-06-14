@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 why 0.92161 wow 0.0783399 what 5.00951e-05
+align 2 *DELETE* 0.999999 how 7.07092e-07
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 a 0.999326 *DELETE* 0.000673766
+align 7 dent 0.852341 day 0.120192 dam 0.0240613 date 0.00130199 dan 0.000997474 *DELETE* 0.000673766 dance 0.0003408 dann 9.18278e-05
+align 8 *DELETE* 0.879472 it 0.0852348 and 0.0352934
+align 9 *DELETE* 0.999326 then 0.000673766
+align 10 in 0.99766 *DELETE* 0.00233973
+align 11 the 0.997981 a 0.00201896
+align 12 car 1 kar 1.16274e-07 qar 1.0417e-09
+align 13 *DELETE* 1 uh 7.08367e-16
+align 14 </s> 1

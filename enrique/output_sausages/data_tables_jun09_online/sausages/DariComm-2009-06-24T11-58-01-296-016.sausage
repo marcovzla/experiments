@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 0.70226 live 0.29774
+align 4 here 0.999962 of 3.82184e-05
+align 5 uh 0.454362 *DELETE* 0.250245 are 0.188784 or 0.10657 here 3.82184e-05
+align 6 with 1
+align 7 uh 0.982108 the 0.0178921
+align 8 *DELETE* 0.982108 uh 0.0178921
+align 9 the 1
+align 10 rest 1
+align 11 of 1
+align 12 your 0.999936 you 6.35097e-05
+align 13 *DELETE* 0.999936 a 6.35097e-05
+align 14 family 1
+align 15 *DELETE* 0.998017 uh 0.00186072 to 0.000111076 with 9.24291e-06 and 1.38679e-06 i 6.83995e-07 if 9.91481e-08 do 5.61348e-08 are 2.86109e-08 that 3.20493e-09 in 1.43153e-09 it 3.34603e-14
+align 16 </s> 1

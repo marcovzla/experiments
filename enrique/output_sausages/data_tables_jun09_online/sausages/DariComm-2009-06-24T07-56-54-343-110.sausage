@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 0.995881 is 0.0041187
+align 2 the 1
+align 3 children 1
+align 4 go 1
+align 5 to 1
+align 6 the 0.999991 that 9.13988e-06
+align 7 hospital 1
+align 8 *DELETE* 0.999976 i 1.33059e-05 uh 9.69432e-06 and 5.82547e-07 in 3.59628e-07 to 6.73781e-08
+align 9 </s> 1

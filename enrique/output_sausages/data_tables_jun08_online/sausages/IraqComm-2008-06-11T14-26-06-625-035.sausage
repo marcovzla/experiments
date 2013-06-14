@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 0.984512 they 0.0154881
+align 3 any 1
+align 4 other 1
+align 5 health 0.999709 have 0.000205609 help 8.1011e-05 house 3.8158e-06 hold 8.36202e-07 half 8.27439e-12
+align 6 problems 1
+align 7 *DELETE* 0.99993 uh 6.79054e-05 i 2.30726e-06
+align 8 </s> 1

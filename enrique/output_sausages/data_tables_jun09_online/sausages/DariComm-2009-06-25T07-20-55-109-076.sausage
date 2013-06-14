@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i'll 0.9992 we'll 0.000556635 well 0.000243461
+align 2 see 1
+align 3 what 1
+align 4 i 1
+align 5 can 1
+align 6 do 1
+align 7 *DELETE* 0.973451 uh 0.0136557 it 0.0108677 i 0.00107563 is 0.000597874 that 0.000209839 you 9.23933e-05 now 3.3325e-05 to 1.49234e-05 a 6.70299e-07 and 6.36179e-07 we 8.1728e-10 this 3.88953e-11 do 4.21105e-16 they 1.95239e-16
+align 8 </s> 1

@@ -1,0 +1,44 @@
+numaligns 42
+posterior 1
+align 0 <s> 1
+align 1 yeah 0.760015 i 0.239985
+align 2 i 0.994876 *DELETE* 0.00512423
+align 3 *DELETE* 0.972471 i 0.0275294
+align 4 could 0.867663 can 0.132337
+align 5 go 1
+align 6 ahead 1
+align 7 and 0.999758 in 0.00024171
+align 8 uh 1
+align 9 bring 0.99766 uh 0.00233951
+align 10 *DELETE* 0.99766 bring 0.00233951
+align 11 him 0.998301 in 0.00169915
+align 12 in 0.998499 many 0.0010184 any 0.000475161 men 7.68325e-06
+align 13 you 0.998385 and 0.00149356 here 0.000121268
+align 14 *DELETE* 0.999879 and 0.000121268
+align 15 need 0.997906 he 0.00161483 and 0.000478771
+align 16 could 0.945394 to 0.052512 can 0.00161483 he 0.000478771
+align 17 *DELETE* 0.998925 do 0.000596247 can 0.000478771
+align 18 use 1
+align 19 uh 1
+align 20 some 0.978521 uh 0.0214792
+align 21 *DELETE* 0.978521 some 0.0214792
+align 22 of 1
+align 23 the 1
+align 24 *DELETE* 0.678422 know 0.266659 now 0.0367571 no 0.0181615
+align 25 knowledge 0.522187 is 0.321578 dollars 0.148117 noise 0.00452631 knows 0.00359171
+align 26 that 1
+align 27 he 0.964867 you 0.035133
+align 28 has 0.964867 guys 0.035133
+align 29 to 1
+align 30 go 1
+align 31 ahead 1
+align 32 and 0.695976 *DELETE* 0.304024
+align 33 uh 0.589538 not 0.242861 i'll 0.0801056 now 0.0616714 i 0.0145006 are 0.00489235 or 0.00196171 *DELETE* 0.00190371 in 0.00152864 no 0.0010373
+align 34 *DELETE* 0.975093 uh 0.0078807 to 0.00570145 i 0.00431955 i'll 0.00272358 our 0.00263627 would 0.000893722 out 0.00024916 i've 0.000219343 i'd 0.000110957 nut 8.28127e-05 or 6.06286e-05 and 2.88744e-05
+align 35 discuss 1
+align 36 that 1
+align 37 with 1
+align 38 with 0.999996 which 4.47694e-06
+align 39 him 0.978328 them 0.0213205 here 0.000190656 you 0.00016067
+align 40 *DELETE* 0.999966 uh 3.43083e-05
+align 41 </s> 1

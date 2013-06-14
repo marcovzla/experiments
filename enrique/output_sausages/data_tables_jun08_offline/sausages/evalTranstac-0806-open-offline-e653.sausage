@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 absolutely 1
+align 2 we'll 0.928278 will 0.0717217
+align 3 have 1
+align 4 a 0.999656 the 0.000344403
+align 5 legal 1
+align 6 team 0.976902 teen 0.0230984
+align 7 there 0.974779 they're 0.0163432 their 0.00887799
+align 8 at 1
+align 9 the 1
+align 10 police 1
+align 11 station 1
+align 12 when 1
+align 13 you 1
+align 14 bring 1
+align 15 him 0.992791 them 0.00720947
+align 16 into 0.999504 in 0.000496188
+align 17 *DELETE* 0.999504 to 0.000496188
+align 18 custody 1
+align 19 </s> 1

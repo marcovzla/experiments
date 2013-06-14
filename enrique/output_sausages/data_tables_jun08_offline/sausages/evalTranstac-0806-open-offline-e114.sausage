@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 is 1
+align 3 that 1
+align 4 house 1
+align 5 over 1
+align 6 there 1
+align 7 in 0.855081 of 0.0614166 *DELETE* 0.0321829 are 0.0287982 at 0.0212517 and 0.00126931
+align 8 that 0.993029 the 0.0069705
+align 9 the 1
+align 10 house 0.999474 how 0.000525855
+align 11 that 0.887623 so 0.112377
+align 12 you're 1
+align 13 talking 1
+align 14 about 1
+align 15 </s> 1

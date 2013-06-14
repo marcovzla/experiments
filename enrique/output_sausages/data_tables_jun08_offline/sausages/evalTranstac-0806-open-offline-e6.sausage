@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 way 1
+align 3 we 1
+align 4 can 0.999867 can't 0.000133232
+align 5 process 1
+align 6 the 1
+align 7 paperwork 1
+align 8 to 0.984128 do 0.0158719
+align 9 the 0.990105 do 0.00962958 to 0.000265786
+align 10 *DELETE* 0.990105 the 0.00989536
+align 11 military 1
+align 12 ministry 1
+align 13 of 1
+align 14 interior 1
+align 15 to 0.984091 too 0.0158613 two 4.73418e-05
+align 16 maybe 0.889326 may 0.110674
+align 17 *DELETE* 0.889326 be 0.110674
+align 18 identify 0.96078 identified 0.0389021 identifies 0.000253938 identifying 6.38015e-05
+align 19 these 0.999996 he's 3.79833e-06
+align 20 weapons 0.999993 weapon's 7.12929e-06
+align 21 *DELETE* 0.999999 uh 1.15915e-06
+align 22 </s> 1

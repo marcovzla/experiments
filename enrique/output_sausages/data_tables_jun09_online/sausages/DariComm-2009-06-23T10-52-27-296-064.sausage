@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 0.994314 would 0.00369005 we'll 0.00199635
+align 3 take 1
+align 4 it 0.552899 you 0.44619 him 0.000911093
+align 5 to 0.999995 through 5.07639e-06
+align 6 the 0.999993 that 6.60013e-06
+align 7 doctor 1
+align 8 *DELETE* 0.999835 i 0.000151592 uh 7.45451e-06 is 4.87556e-06 and 5.82524e-07 if 1.79092e-07 do 2.72718e-08 so 8.19135e-09 now 2.17155e-09 who 1.0014e-12 that 1.86544e-14 here 5.1998e-15
+align 9 </s> 1

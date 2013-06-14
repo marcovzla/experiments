@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 no 0.926527 i 0.0457115 now 0.0277579 *DELETE* 3.59526e-06
+align 2 *DELETE* 0.948483 know 0.0457151 a 0.00580213
+align 3 with 0.608755 but 0.328615 it 0.0619214 a 0.0004942 about 0.000215275
+align 4 *DELETE* 0.937584 but 0.0624156
+align 5 the 1
+align 6 coalition 1
+align 7 forces 1
+align 8 have 0.722397 are 0.253203 of 0.0199547 in 0.00188332 on 0.00144509 and 0.00111684
+align 9 the 1
+align 10 right 0.999918 rights 8.15601e-05
+align 11 to 1
+align 12 search 1
+align 13 anybody's 0.920655 your 0.066306 it 0.0130391
+align 14 *DELETE* 0.920655 anybody's 0.0793451
+align 15 house 1
+align 16 in 0.989419 and 0.00990076 of 0.000564662 on 0.000104607 *DELETE* 1.06033e-05
+align 17 the 0.99989 *DELETE* 9.90148e-05 an 1.06033e-05
+align 18 area 1
+align 19 *DELETE* 0.999988 uh 1.23452e-05 is 3.94432e-09 i 1.24387e-09 um 3.69629e-22
+align 20 </s> 1

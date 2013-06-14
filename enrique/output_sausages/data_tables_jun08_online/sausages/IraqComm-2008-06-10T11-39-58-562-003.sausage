@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 1 *DELETE* 4.59958e-13
+align 3 are 1 about 3.54376e-09
+align 4 you 1
+align 5 </s> 1

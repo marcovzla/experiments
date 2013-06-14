@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 great 0.975838 right 0.017927 gray 0.00400693 alright 0.00200951 okay 0.000218631
+align 2 great 0.977611 right 0.0179252 gray 0.00405451 grade 0.000395956 grades 8.60752e-06 grates 4.28622e-06
+align 3 *DELETE* 0.999992 uh 7.78905e-06
+align 4 </s> 1

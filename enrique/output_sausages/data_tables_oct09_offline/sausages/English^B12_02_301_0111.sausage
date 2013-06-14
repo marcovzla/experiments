@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 *DELETE* 0.929702 uh 0.0702983
+align 3 *DELETE* 0.999676 uh 0.00032449
+align 4 how 1
+align 5 do 1
+align 6 you 1
+align 7 account 1
+align 8 for 1
+align 9 nor 0.760904 more 0.080405 nour 0.0529774 *DELETE* 0.0409805 you 0.0220743 now 0.0209516 or 0.0130725 a 0.00863467
+align 10 *DELETE* 0.907359 or 0.0781493 our 0.0144919
+align 11 inventory 1
+align 12 your 0.999545 you're 0.000454937
+align 13 weapons 0.997374 weapon's 0.00244885 weapons' 0.000177245
+align 14 </s> 1

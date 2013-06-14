@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.959848 uh 0.0401524
+align 2 do 0.996464 *DELETE* 0.0035365
+align 3 you 1
+align 4 have 1
+align 5 any 1
+align 6 sewerage 0.771782 sewage 0.228218
+align 7 problems 1
+align 8 </s> 1

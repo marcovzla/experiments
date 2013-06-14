@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 i 0.998994 uh 0.000694693 *DELETE* 0.000311553
+align 3 *DELETE* 0.973099 i 0.0269007
+align 4 don't 0.99556 i'm 0.00444035
+align 5 patrol 1
+align 6 do 0.999993 *DELETE* 6.5057e-06
+align 7 you 0.999993 see 4.1736e-06 of 3.39428e-08 in 1.08591e-08 *DELETE* 6.16573e-11
+align 8 use 0.998663 *DELETE* 0.00133479 the 2.3321e-06
+align 9 you 0.998663 usually 0.00133479 use 1.57127e-06 easy 7.60829e-07
+align 10 *DELETE* 0.999998 you 1.57127e-06
+align 11 find 1
+align 12 anything 0.997031 any 0.0029692
+align 13 *DELETE* 0.996614 thank 0.00288045 uh 0.00049553 in 6.48964e-06 to 3.32096e-06 if 4.75124e-07 but 3.32429e-08 that 7.33649e-09 it 1.42452e-13 and 4.66992e-14 thing 3.26625e-14
+align 14 *DELETE* 0.999771 thanks 8.87505e-05 i 7.71207e-05 you 6.28153e-05
+align 15 </s> 1

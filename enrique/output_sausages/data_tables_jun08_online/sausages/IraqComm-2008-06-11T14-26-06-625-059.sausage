@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1 what's 1.42152e-09
+align 2 specific 1
+align 3 security 1
+align 4 do 0.99705 to 0.00295028
+align 5 you 0.974359 *DELETE* 0.0256409
+align 6 need 1
+align 7 to 1
+align 8 provide 0.999454 *DELETE* 0.0005463
+align 9 *DELETE* 0.993017 a 0.00415321 it 0.00206673 provided 0.000498397 uh 0.000158197 provider 3.51971e-05 oh 3.02127e-05 an 1.28729e-05 providing 1.27058e-05 in 1.01122e-05 us 4.99217e-06 of 4.5571e-12 to 1.65344e-12 i 7.3786e-13 and 4.75476e-14
+align 10 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999996 uh 4.01743e-06
+align 2 okay 1
+align 3 that 1
+align 4 is 1
+align 5 very 1
+align 6 good 1
+align 7 recommendations 0.999987 a 1.31722e-05
+align 8 *DELETE* 0.99995 i 3.52166e-05 recommendations 1.31722e-05 uh 6.64719e-07 do 3.64356e-07 to 2.90109e-07
+align 9 </s> 1

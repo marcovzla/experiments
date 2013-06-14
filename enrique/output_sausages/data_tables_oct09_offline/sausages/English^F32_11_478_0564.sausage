@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 no 0.986008 know 0.0137865 nope 0.000205011
+align 2 free 0.717347 forgot 0.194612 forget 0.0868547 for 0.00118706
+align 3 at 0.488488 *DELETE* 0.281605 of 0.0938367 it 0.0669346 and 0.060689 had 0.00706497 going 0.00117103 if 0.000122488 in 7.23035e-05 yet 1.60301e-05
+align 4 i'm 1
+align 5 just 1
+align 6 uh 1
+align 7 phone 1
+align 8 call 1
+align 9 way 0.680929 away 0.319071
+align 10 if 1
+align 11 you 1
+align 12 need 1
+align 13 anything 1
+align 14 else 1
+align 15 </s> 1

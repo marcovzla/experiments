@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 treatment 1
+align 5 does 0.837084 as 0.155532 is 0.00738339
+align 6 he 0.818443 you 0.181557
+align 7 need 1
+align 8 for 0.98806 four 0.0119396 before 4.35706e-16
+align 9 his 0.975332 is 0.0219055 as 0.00249319 iz 0.000268344 its 1.2752e-06
+align 10 legs 0.997579 leg 0.00242079
+align 11 </s> 1

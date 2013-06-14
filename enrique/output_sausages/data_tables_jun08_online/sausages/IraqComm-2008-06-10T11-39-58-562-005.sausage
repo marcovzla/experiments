@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 0.999011 *DELETE* 0.000988883
+align 3 are 1
+align 4 you 1
+align 5 *DELETE* 1 uh 1.21764e-17 you 3.68534e-21
+align 6 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 okay 0.983472 *DELETE* 0.0165278
+align 2 others 0.94998 other 0.0211121 *DELETE* 0.0123797 computers 0.00980453 containers 0.00647882 computer 0.000244482 here 5.59877e-24 container 1.08271e-26 competitive 4.90863e-27 i 7.05948e-32
+align 3 say 0.999999 *DELETE* 5.97457e-12
+align 4 again 0.999985 *DELETE* 1.44618e-05 sayigh 7.80284e-07 a 1.9267e-09 go 3.87473e-24 headache 1.86169e-24
+align 5 *DELETE* 0.999946 i 3.31395e-05 can 6.98667e-06 going 4.46612e-06 uh 3.36138e-06 ken 2.78014e-06 um 1.79625e-06 and 7.80284e-07 a 3.00693e-07 taken 2.22832e-07 sediment 7.97595e-09 gang 4.33566e-13 in 2.54654e-13 agent 2.24967e-13 can't 1.25537e-23 canned 1.09779e-24 kent 3.47196e-25 given 1.88955e-25 a._k. 6.43586e-30
+align 6 </s> 1

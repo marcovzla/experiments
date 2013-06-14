@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 you 0.579219 it 0.162687 he 0.116269 they 0.0689774 a 0.0584485 we 0.0143867 do 1.29865e-05
+align 2 *DELETE* 0.999987 you 1.29865e-05
+align 3 can 0.999845 can't 0.000155447
+align 4 lead 0.957732 leading 0.0329339 leave 0.00933371
+align 5 into 0.978617 in 0.012995 the 0.00473762 *DELETE* 0.00297535 to 0.000672479 it 2.42947e-06
+align 6 *DELETE* 0.999998 in 2.42947e-06
+align 7 *DELETE* 0.978617 two 0.0100128 to 0.00595996 into 0.00534862 in 6.1482e-05
+align 8 *DELETE* 0.999939 two 5.4816e-05 to 6.66606e-06
+align 9 c._p._r. 1
+align 10 but 1
+align 11 it's 0.806507 its 0.186507 this 0.00541679 is 0.00131194 he's 0.000257545
+align 12 these 1
+align 13 first 1
+align 14 three 1
+align 15 steps 1
+align 16 is 0.946106 as 0.0538939
+align 17 what 1
+align 18 we 1
+align 19 check 1
+align 20 on 1
+align 21 and 1
+align 22 that's 1
+align 23 the 1
+align 24 way 1
+align 25 we 1
+align 26 determine 0.996424 determined 0.00357609
+align 27 if 1
+align 28 we 1
+align 29 need 1
+align 30 to 1
+align 31 conduct 1
+align 32 c._p._r. 1
+align 33 *DELETE* 0.999994 or 6.33718e-06
+align 34 </s> 1

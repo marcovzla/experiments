@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 0.903156 i 0.0540795 oh 0.0216287 um 0.0109823 *DELETE* 0.00933286 and 0.000692914 i'd 0.000127517
+align 3 *DELETE* 0.954344 uh 0.0392658 i 0.00639029
+align 4 *DELETE* 0.808779 i 0.185618 i'd 0.00560311
+align 5 *DELETE* 0.984288 i 0.0157099 uh 2.27539e-06
+align 6 do 0.929932 *DELETE* 0.06223 i 0.00783763
+align 7 *DELETE* 0.929932 do 0.0700677
+align 8 you 1
+align 9 have 1
+align 10 some 1
+align 11 of 0.477588 uh 0.426167 a 0.0485572 way 0.0371607 i 0.00787362 in 0.00130658 other 0.000665726 and 0.000291382 *DELETE* 0.000280108 are 0.000109226
+align 12 *DELETE* 0.905324 uh 0.0795225 a 0.0151534
+align 13 that's 0.563629 this 0.346133 its 0.0573712 those 0.0250843 it's 0.00699794 his 0.000504298 minutes 0.000280108
+align 14 qualified 1
+align 15 to 1
+align 16 repair 1
+align 17 this 1
+align 18 uh 0.864071 said 0.130267 side 0.00387317 saeed 0.0017891 i 1.7129e-08 set 7.50678e-14 i'd 2.23228e-14
+align 19 generator 0.997736 uh 0.00184806 *DELETE* 0.000415466
+align 20 *DELETE* 0.997736 generator 0.00184806 generator's 0.000356399 generators 5.72197e-05 generated 1.84676e-06 i 9.65566e-10
+align 21 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 because 0.986561 as 0.00910395 cause 0.00433541
+align 2 if 1
+align 3 you 1
+align 4 don't 1
+align 5 he's 0.990149 use 0.00985123
+align 6 in 0.99917 going 0.000830457
+align 7 a 0.99917 to 0.000830457
+align 8 bleed 1
+align 9 out 1
+align 10 and 0.999915 on 8.51606e-05
+align 11 die 0.999806 uh 9.22552e-05 that 8.51606e-05 i 1.66396e-05 are 1.36181e-07
+align 12 </s> 1

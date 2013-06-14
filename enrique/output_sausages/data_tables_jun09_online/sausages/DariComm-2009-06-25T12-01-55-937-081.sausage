@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 at 1
+align 2 least 1
+align 3 fifteen 0.814864 fifty 0.185136
+align 4 meters 1
+align 5 from 0.95814 in 0.0404913 and 0.0013685
+align 6 the 0.997076 *DELETE* 0.00292001 me 3.95944e-06
+align 7 area 1
+align 8 *DELETE* 0.999921 uh 3.77993e-05 um 3.23382e-05 i 7.97468e-06 and 9.34849e-07 that 4.30841e-10 is 8.9759e-12 the 4.76912e-12 do 4.01402e-12 like 1.17533e-13 you 3.63986e-16
+align 9 </s> 1

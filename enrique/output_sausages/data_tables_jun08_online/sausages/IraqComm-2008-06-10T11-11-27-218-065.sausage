@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 ours 0.873559 hours 0.125676 hour's 0.000765769
+align 2 do 1
+align 3 you 1
+align 4 store 1
+align 5 water 1
+align 6 in 1
+align 7 pots 1
+align 8 when 0.996697 one 0.00289349 won 0.000409718
+align 9 the 1
+align 10 water 0.976461 ladder 0.0105357 latter 0.00627347 lighter 0.00343054 louder 0.0030545 letter 0.000244383 wonder 1.75185e-10 what're 3.57405e-12 war 1.02995e-12 larger 6.13936e-15
+align 11 stops 1
+align 12 *DELETE* 0.999915 i 8.30201e-05 it 1.04761e-06 you 5.33547e-07
+align 13 </s> 1

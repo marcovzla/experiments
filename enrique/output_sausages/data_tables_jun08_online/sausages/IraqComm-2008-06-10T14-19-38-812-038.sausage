@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.996607 i 0.00339315
+align 2 have 1
+align 3 you 1
+align 4 performed 1
+align 5 background 1
+align 6 checks 1
+align 7 *DELETE* 0.999989 it 1.14312e-05 i 1.53169e-09 on 4.19733e-13
+align 8 </s> 1

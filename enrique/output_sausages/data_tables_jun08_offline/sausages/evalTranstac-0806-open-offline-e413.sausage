@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 completely 1
+align 3 agree 0.999668 gray 0.000188968 great 0.000143446 grade 1.70707e-08
+align 4 *DELETE* 0.999998 uh 1.22543e-06 i 3.11123e-07
+align 5 </s> 1

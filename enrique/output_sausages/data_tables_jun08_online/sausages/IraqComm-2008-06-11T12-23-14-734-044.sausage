@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 yes 0.951989 yeah 0.038315 if 0.00449243 it 0.00195825 you 0.00183422 your 0.000371964 you're 0.000371964 his 0.000243945 is 7.78811e-05 okay 7.17445e-05 it's 6.88767e-05 yet 6.63229e-05 here 4.97023e-05 in 4.38616e-05 yep 2.07543e-05 good 1.3568e-05 its 8.44748e-06 as 1.6625e-06 a 2.50618e-08
+align 2 *DELETE* 0.999999 it 8.29273e-07
+align 3 </s> 1

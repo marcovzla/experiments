@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 way 1
+align 3 you 1
+align 4 have 1
+align 5 uh 1
+align 6 and 0.495555 in 0.255365 *DELETE* 0.24908
+align 7 uh 1
+align 8 *DELETE* 0.874259 and 0.124985 uh 0.000755683
+align 9 *DELETE* 0.999999 uh 5.86218e-07
+align 10 *DELETE* 0.748269 uh 0.251731
+align 11 *DELETE* 0.997689 uh 0.0023109
+align 12 huge 1
+align 13 and 0.810929 uh 0.0980712 an 0.0790582 *DELETE* 0.0090898 all 0.00213959 well 0.000378082 oh 0.000333962
+align 14 *DELETE* 0.889529 and 0.04183 an 0.0368997 in 0.0312829 the 0.000458137
+align 15 ample 0.994718 the 0.00285009 apple 0.00243239
+align 16 *DELETE* 0.99715 ample 0.00285009
+align 17 force 1
+align 18 to 0.990359 two 0.00656181 too 0.00307883
+align 19 patrol 1
+align 20 you 0.695719 the 0.234667 your 0.0696138
+align 21 *DELETE* 0.999815 a 0.00018482
+align 22 police 1
+align 23 stations 0.989784 station's 0.00804667 station 0.00216981
+align 24 *DELETE* 0.999956 is 4.44002e-05
+align 25 </s> 1

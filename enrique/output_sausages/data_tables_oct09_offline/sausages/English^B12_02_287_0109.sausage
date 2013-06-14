@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 electricity 1
+align 5 and 0.999695 in 0.000305477
+align 6 water 0.999936 a 6.05661e-05 the 3.92283e-06
+align 7 *DELETE* 0.99815 or 0.00122903 are 0.000554604 water 6.4489e-05 i 1.12742e-06 uh 3.31505e-07
+align 8 </s> 1

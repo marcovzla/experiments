@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.544401 uh 0.281195 in 0.120476 and 0.0539279
+align 3 how 0.982032 uh 0.0092843 in 0.00867871 *DELETE* 4.73204e-06
+align 4 *DELETE* 0.594456 i 0.346361 how 0.0563179 is 0.00283851 uh 2.71859e-05
+align 5 *DELETE* 0.999973 i 2.71859e-05
+align 6 how 0.952339 *DELETE* 0.0476587 hope 2.83402e-06
+align 7 we 0.99978 *DELETE* 0.000220384
+align 8 need 0.999592 winnie 0.000212792 knee 0.000188113 twenty 7.59207e-06
+align 9 additional 1
+align 10 doctors 0.999019 doctor's 0.000980643
+align 11 would 1
+align 12 you 1
+align 13 need 0.999978 *DELETE* 2.21892e-05
+align 14 *DELETE* 0.999689 to 0.000212969 uh 7.08744e-05 knead 2.21892e-05 a 5.22018e-06
+align 15 </s> 1

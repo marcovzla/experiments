@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that's 1
+align 3 uh 0.998853 *DELETE* 0.00114696
+align 4 all 1
+align 5 stuff 0.974873 stops 0.0245101 stuffs 0.000616727
+align 6 that 0.982009 then 0.0179911
+align 7 i'm 0.571115 on 0.407283 um 0.0121112 i 0.00949042
+align 8 *DELETE* 0.989448 am 0.00949042 in 0.00106141
+align 9 the 0.958419 gonna 0.0266876 a 0.0128126 *DELETE* 0.00185341 uh 0.000227104
+align 10 push 1
+align 11 up 1
+align 12 to 1
+align 13 the 1
+align 14 uh 1
+align 15 to 1
+align 16 the 1
+align 17 asked 0.839935 ask 0.0987375 as 0.0342111 is 0.0131272 ice 0.00592124 eyes 0.0039674 s 0.00201551 it's 0.00140477 ass 0.000680424
+align 18 you 0.933007 to 0.0401832 too 0.0177861 two 0.00902417
+align 19 and 1
+align 20 hopefully 1
+align 21 we'll 0.949934 *DELETE* 0.049324 we 0.000619755 will 0.000122269
+align 22 get 0.950292 the 0.0362983 they 0.0117017 they're 0.000775891 we're 0.000548149 *DELETE* 0.000383549
+align 23 a 0.5586 any 0.36515 good 0.0496917 *DELETE* 0.0253708 in 0.00117099 get 1.5852e-05
+align 24 answer 0.982475 answered 0.0175247
+align 25 back 1
+align 26 to 0.999971 *DELETE* 2.87111e-05
+align 27 us 0.999971 doors 2.87016e-05 office 6.88742e-07 towards 9.4502e-09 aws 5.19311e-09
+align 28 *DELETE* 1 uh 4.15163e-07
+align 29 </s> 1

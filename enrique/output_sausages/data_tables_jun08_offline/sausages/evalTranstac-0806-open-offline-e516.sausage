@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 many 1
+align 6 people 1
+align 7 are 1 *DELETE* 4.31991e-18
+align 8 *DELETE* 0.999998 it 2.09315e-06 art 1.17156e-10
+align 9 in 1
+align 10 this 1
+align 11 compound 1
+align 12 with 0.978898 what 0.0211019
+align 13 this 0.955969 us 0.0440307
+align 14 into 0.442874 individual 0.381905 and 0.172631 in 0.002545 *DELETE* 4.43745e-05 individually 1.30763e-10
+align 15 *DELETE* 0.489706 that 0.336504 if 0.172631 the 0.00115877
+align 16 *DELETE* 0.382333 you 0.334735 they 0.275359 the 0.00757252
+align 17 *DELETE* 0.717347 do 0.282653
+align 18 *DELETE* 0.997883 uh 0.000812315 you 0.000585005 due 0.000413525 you'll 0.00025594 individuals 4.43745e-05 i 3.73293e-06 vigil 1.37156e-06 a 8.63743e-07 you've 2.91424e-09 you're 2.49037e-10 your 3.23577e-13
+align 19 </s> 1

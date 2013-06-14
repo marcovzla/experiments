@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 did 1
+align 3 you 1
+align 4 first 1
+align 5 notice 1
+align 6 the 1
+align 7 symptoms 1
+align 8 *DELETE* 0.999991 uh 4.27075e-06 i 4.06015e-06 of 6.09191e-07
+align 9 </s> 1

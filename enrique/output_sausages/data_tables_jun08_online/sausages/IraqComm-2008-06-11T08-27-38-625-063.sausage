@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 patrols 0.998843 patrol's 0.00115744
+align 5 do 1
+align 6 you 0.981283 *DELETE* 0.0187172 your 1.59337e-07
+align 7 conduct 0.99997 *DELETE* 3.0293e-05
+align 8 *DELETE* 0.992628 a 0.00708746 uh 9.65095e-05 i 9.51984e-05 the 5.25787e-05 conducted 3.02648e-05 in 6.9713e-06 an 1.80869e-06 of 8.96055e-07 to 3.30477e-07 conducts 2.82016e-08
+align 9 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 trucks 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 available 1
+align 9 </s> 1

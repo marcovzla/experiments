@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 permission 1
+align 5 to 1
+align 6 work 1
+align 7 *DELETE* 0.999484 uh 0.000164532 it 0.000143116 in 0.000110771 at 6.24261e-05 i 3.18756e-05 on 3.22036e-06 as 2.0744e-07
+align 8 </s> 1

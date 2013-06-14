@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 0.997127 *DELETE* 0.00220169 um 0.000669183 oh 2.09179e-06
+align 2 it's 0.993735 is 0.00626488
+align 3 probably 1
+align 4 best 1
+align 5 taken 0.731925 taking 0.268075
+align 6 up 0.969727 out 0.0302732
+align 7 by 1
+align 8 the 0.999998 *DELETE* 3.24369e-11
+align 9 iraqi 1
+align 10 police 1
+align 11 </s> 1

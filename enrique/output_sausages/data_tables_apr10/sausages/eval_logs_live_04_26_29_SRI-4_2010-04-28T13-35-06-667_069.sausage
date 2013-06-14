@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 far 1
+align 3 away 1
+align 4 is 1
+align 5 the 1
+align 6 school 1
+align 7 in 0.639468 *DELETE* 0.207398 have 0.148483 from 0.00402655 on 0.000623762
+align 8 our 0.504779 your 0.349246 her 0.139311 you're 0.00362651 amir 0.00129222 ameer 0.00111135 near 0.000344513 under 0.000261113 *DELETE* 2.73183e-05 here 1.10226e-06 i'm 2.34637e-07
+align 9 *DELETE* 1 here 4.23284e-08
+align 10 house 0.999976 houses 2.42504e-05 house's 2.42109e-08
+align 11 *DELETE* 0.999941 uh 5.32425e-05 i 5.4505e-06 is 2.7862e-07 in 1.19624e-08 to 2.06055e-10
+align 12 </s> 1

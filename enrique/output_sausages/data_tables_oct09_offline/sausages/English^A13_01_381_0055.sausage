@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 oh 0.982987 uh 0.0157251 *DELETE* 0.00128808
+align 2 okay 1
+align 3 and 1
+align 4 uh 1
+align 5 do 1 *DELETE* 2.88768e-11
+align 6 you 1 *DELETE* 2.88768e-11
+align 7 do 0.997134 *DELETE* 0.00286622 the 2.08699e-08
+align 8 you 1
+align 9 know 1
+align 10 of 1
+align 11 any 1
+align 12 *DELETE* 0.784171 uh 0.215829
+align 13 insurgent 1
+align 14 activity 1
+align 15 around 1
+align 16 the 0.99769 *DELETE* 0.00209635 um 0.000213839
+align 17 uh 0.997454 *DELETE* 0.00254642
+align 18 um 0.88418 uh 0.113293 *DELETE* 0.00252675
+align 19 this 1
+align 20 area 1
+align 21 *DELETE* 0.999992 uh 8.09755e-06 i 2.61669e-07
+align 22 </s> 1

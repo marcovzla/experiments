@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 they 0.606285 *DELETE* 0.383895 there 0.00981998
+align 2 are 0.61216 they're 0.383895 *DELETE* 0.003488 were 0.000457042
+align 3 the 1
+align 4 ones 1
+align 5 i 0.866107 are 0.108694 that 0.0251989
+align 6 going 0.604446 *DELETE* 0.395537 i 1.64556e-05
+align 7 to 0.604446 gonna 0.395554
+align 8 be 1
+align 9 a 0.952849 *DELETE* 0.0471512
+align 10 *DELETE* 0.747645 a 0.205203 and 0.025975 uh 0.0211763
+align 11 nation 1
+align 12 initiating 1
+align 13 the 0.981026 *DELETE* 0.0189741
+align 14 us 0.981026 thus 0.01894 dust 3.41048e-05
+align 15 now 0.999471 maybe 0.000501705 may 2.76574e-05
+align 16 *DELETE* 0.999972 be 2.76574e-05
+align 17 v._c._p. 0.990021 v._c._p.s 0.00725299 i 0.00219417 c._p. 0.000529362 v._c._p._t. 2.109e-06
+align 18 *DELETE* 0.997591 v._c._p. 0.00219417 it 0.000137425 uh 4.4156e-05 at 1.46738e-05 to 7.81531e-06 i 4.22091e-06 the 2.98071e-06 in 1.72984e-06 do 1.17639e-06 if 1.53897e-07 you 8.2102e-08 by 5.36981e-08 is 2.60477e-08
+align 19 </s> 1

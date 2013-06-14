@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 and 0.949673 in 0.0503266
+align 2 our 0.997366 their 0.00263378
+align 3 mission 1
+align 4 is 1
+align 5 to 1
+align 6 next 0.964401 *DELETE* 0.0355987
+align 7 room 0.843116 from 0.121285 natural 0.0355987
+align 8 now 1
+align 9 to 1
+align 10 go 1
+align 11 in 1
+align 12 and 1
+align 13 capture 1
+align 14 those 1
+align 15 insurgents 0.999966 insurgence 2.70528e-05 insurgents' 6.91161e-06
+align 16 *DELETE* 0.999966 uh 3.2446e-05 i 1.15097e-06
+align 17 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 0.998049 do 0.00195066
+align 3 your 1
+align 4 children 1
+align 5 get 1
+align 6 to 1
+align 7 school 1
+align 8 *DELETE* 0.494927 and 0.460925 room 0.0423228 on 0.00135925 my 0.000285015 how 0.000115798 i'm 6.56173e-05 in 1.21985e-11
+align 9 home 0.923774 *DELETE* 0.0423228 on 0.0141993 well 0.00542614 wrong 0.00370341 wall 0.00287526 all 0.00234936 mall 0.00132596 room 0.000939721 rome 0.000779235 from 0.000392212 um 0.000293563 own 0.000285019 whom 0.000232362 roam 0.000205712 when 0.000106882 boom 9.60899e-05 no 8.33735e-05 homes 7.95526e-05 ample 7.33203e-05 mom 7.29105e-05 bomb 6.92346e-05 one 6.80458e-05 warm 5.8127e-05 more 5.80265e-05 small 4.23029e-05 while 3.05876e-05 now 2.09682e-05 ball 1.75343e-05 or 9.65881e-06 rooms 4.00199e-06 oh 2.6083e-06 hammam 9.98152e-07 compound 8.28458e-07 how 3.75531e-07 long 2.26603e-07 brawl 1.25285e-07 boil 7.08999e-08 owned 5.55616e-08 a 5.18179e-08 palm 1.15331e-08 move 1.52174e-11 i'll 6.18765e-12 so 1.47683e-13 go 1.01783e-14
+align 10 *DELETE* 0.999976 i 2.02252e-05 uh 3.40242e-06 a 1.87975e-07
+align 11 </s> 1

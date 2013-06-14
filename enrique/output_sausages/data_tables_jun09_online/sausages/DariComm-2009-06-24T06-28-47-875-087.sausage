@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 use 1
+align 4 a 1
+align 5 lot 1
+align 6 of 1
+align 7 pain 1 paying 3.22081e-20
+align 8 medication 1
+align 9 *DELETE* 0.999895 uh 9.39984e-05 i 1.00376e-05 to 7.80348e-07 now 9.82596e-17 in 5.52677e-25
+align 10 </s> 1

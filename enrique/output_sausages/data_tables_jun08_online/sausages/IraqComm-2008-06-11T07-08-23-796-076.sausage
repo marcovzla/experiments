@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 i 8.21709e-15
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 any 1
+align 6 trucks 1
+align 7 available 1
+align 8 for 0.992869 four 0.00713093
+align 9 how 0.72037 *DELETE* 0.27963
+align 10 in 0.365673 and 0.333055 holland 0.0976312 hauling 0.0822518 helen 0.0777014 hellen 0.0211151 on 0.0128549 one 0.00471329 it 0.0019916 when 0.00105946 an 0.00102225 hawan 0.000930289 *DELETE* 4.5153e-24
+align 11 supply 0.828087 supplies 0.171913 once 8.53136e-21 *DELETE* 3.03796e-24
+align 12 us 0.828013 *DELETE* 0.171913 as 5.14753e-05 was 2.1954e-05 is 1.87715e-09 this 2.58084e-18 suppliers 8.7325e-19 applies 8.53136e-21
+align 13 </s> 1

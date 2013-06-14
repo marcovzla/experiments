@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 you 0.986927 you've 0.013073
+align 4 *DELETE* 0.986927 got 0.013073
+align 5 uh 0.915605 know 0.0843946
+align 6 *DELETE* 0.915605 uh 0.0843946
+align 7 are 1
+align 8 you 1
+align 9 satisfied 1
+align 10 with 1
+align 11 your 1
+align 12 current 1
+align 13 water 1
+align 14 supply 0.99976 supplier 0.000198375 supplies 4.15525e-05
+align 15 *DELETE* 0.999694 are 0.00023464 a 6.92324e-05 our 2.43494e-06 uh 2.1121e-08
+align 16 </s> 1

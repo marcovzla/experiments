@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 must 1
+align 3 align 1
+align 4 the 1
+align 5 rear 1
+align 6 sight 0.979857 site 0.0201431
+align 7 between 1
+align 8 the 0.928716 of 0.0381471 a 0.0166697 *DELETE* 0.00922714 them 0.00669113 that 0.000422545 uh 0.000126444
+align 9 forks 1
+align 10 on 1
+align 11 the 1
+align 12 front 1
+align 13 *DELETE* 0.999326 uh 0.000549884 to 4.90721e-05 that 4.47419e-05 it 1.63572e-05 of 1.35989e-05 and 1.41216e-08 i 1.3889e-10 the 4.95347e-13 in 2.055e-16 so 5.298e-21
+align 14 </s> 1

@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999894 uh 0.000106478
+align 2 okay 1
+align 3 two 0.45917 too 0.342281 to 0.198549
+align 4 are 0.899396 our 0.0970405 hours 0.00278165 hour 0.000782008
+align 5 so 1
+align 6 you 1
+align 7 *DELETE* 0.998389 you 0.00161051
+align 8 have 1
+align 9 no 1
+align 10 idea 1
+align 11 of 0.887695 *DELETE* 0.06077 what 0.0515351
+align 12 what 0.948465 *DELETE* 0.0515351
+align 13 the 0.994775 they 0.00446128 that 0.000624441 did 0.000139581
+align 14 what 1
+align 15 why 0.999667 y 0.000333017
+align 16 in 0.34768 it 0.218738 a 0.200712 you 0.0651934 if 0.0507371 *DELETE* 0.0368503 aid 0.0190571 are 0.0142228 these 0.0125146 at 0.00901901 eid 0.00763577 had 0.00514552 eight 0.00278973 id 0.00235478 he 0.00207472 eat 0.00169958 uh 0.00162547 add 0.000803776 aide 0.000670696 ate 0.000211712 i'd 0.000123572 i 7.76075e-05 you'd 6.31074e-05
+align 17 these 0.981114 *DELETE* 0.0125146 i._e._d.s 0.00637151
+align 18 drugs 1
+align 19 or 0.521082 are 0.283949 *DELETE* 0.194969
+align 20 in 0.800936 on 0.194969 *DELETE* 0.00408785 an 7.40839e-06
+align 21 a 0.549838 your 0.391397 the 0.052559 their 0.00276839 new 0.00196704 our 0.00142572 her 3.44839e-05 there 1.00347e-05 any 1.44121e-07 near 1.34443e-09 under 7.55094e-10 enter 5.9435e-13
+align 22 *DELETE* 0.999813 new 0.000186999
+align 23 car 0.995549 cart 0.0033803 card 0.00105094 corps 1.99085e-05 court 8.91291e-08 core 4.98138e-10
+align 24 *DELETE* 0.999998 i 1.37243e-06 in 1.93806e-07
+align 25 </s> 1

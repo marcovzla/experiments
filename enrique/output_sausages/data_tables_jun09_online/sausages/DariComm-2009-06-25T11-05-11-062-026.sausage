@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 will 0.81522 were 0.18296 we 0.00181977
+align 2 you 0.99818 can 0.00174399 can't 7.57816e-05
+align 3 be 0.692151 need 0.307217 you 0.00063261
+align 4 blocking 0.729945 blocked 0.171265 *DELETE* 0.0697228 locked 0.0169885 block 0.0120787
+align 5 *DELETE* 0.729945 in 0.145221 locking 0.0697228 and 0.0551103
+align 6 the 1
+align 7 access 1
+align 8 roads 1
+align 9 leading 1
+align 10 into 1
+align 11 the 1 that 6.091e-11
+align 12 village 1
+align 13 *DELETE* 0.99996 uh 3.85263e-05 i 1.61185e-06 we 1.47411e-10 do 3.11163e-11 to 3.93672e-12 is 1.02564e-13
+align 14 </s> 1

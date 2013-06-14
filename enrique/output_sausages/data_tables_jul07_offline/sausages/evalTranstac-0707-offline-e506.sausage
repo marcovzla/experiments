@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 i 1
+align 3 *DELETE* 0.997522 i 0.00247795
+align 4 don't 1
+align 5 know 0.999999 *DELETE* 3.85474e-09
+align 6 *DELETE* 0.927308 who 0.072568 how 7.19825e-05 i 5.0245e-05 uh 1.07205e-06 no 5.06881e-07 now 1.01443e-10
+align 7 </s> 1

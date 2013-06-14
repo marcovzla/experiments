@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 brother 1
+align 4 have 1
+align 5 any 1
+align 6 identifying 1
+align 7 marks 1
+align 8 *DELETE* 0.999892 uh 9.09155e-05 i 1.74514e-05
+align 9 </s> 1

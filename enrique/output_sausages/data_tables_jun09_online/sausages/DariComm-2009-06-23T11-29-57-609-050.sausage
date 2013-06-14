@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 you 0.997491 do 0.00250926
+align 2 *DELETE* 0.997491 you 0.00250926
+align 3 want 1
+align 4 to 1
+align 5 meet 1
+align 6 at 1
+align 7 four 1
+align 8 in 1
+align 9 the 1
+align 10 morning 1
+align 11 *DELETE* 0.999114 i 0.000882785 uh 3.23853e-06
+align 12 </s> 1

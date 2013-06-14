@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 *DELETE* 0.999893 then 0.000106917
+align 3 when 0.997663 we're 0.00233747
+align 4 entering 0.997663 not 0.00233747
+align 5 *DELETE* 0.997663 turning 0.00233747
+align 6 into 1
+align 7 base 0.445756 place 0.318041 pace 0.189873 case 0.0414106 paste 0.00323342 a 0.00168615
+align 8 that 0.909201 i 0.0554576 at 0.0168563 uh 0.016799 set 0.00168615
+align 9 will 0.991585 we'll 0.0062041 would 0.00221106
+align 10 better 1
+align 11 better 1
+align 12 suit 0.985686 shoot 0.012499 s'oud 0.00181494
+align 13 the 0.73416 to 0.264491 that 0.00093125 of 0.000202001 they 0.000153828 a 6.24233e-05 it 2.42101e-07
+align 14 people 0.999964 peoples 3.45962e-05 people's 1.3292e-06
+align 15 *DELETE* 1 uh 1.21775e-07
+align 16 </s> 1

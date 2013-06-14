@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 um 1
+align 3 you're 0.995629 your 0.00280397 do 0.00130667 you 0.000260058
+align 4 *DELETE* 0.998693 you 0.00130667
+align 5 going 1
+align 6 to 1
+align 7 have 1
+align 8 the 1
+align 9 first 1
+align 10 three 0.948923 to 0.0510772
+align 11 *DELETE* 0.948923 be 0.0510772
+align 12 initial 1
+align 13 it's 0.568869 once 0.357612 its 0.0455378 what's 0.0196111 wants 0.00837069
+align 14 a 0.687328 to 0.310438 the 0.00223377
+align 15 stop 0.99761 stopped 0.00239043
+align 16 the 0.999946 a 5.38697e-05
+align 17 vehicle 0.999881 vehicles 0.000119252
+align 18 </s> 1

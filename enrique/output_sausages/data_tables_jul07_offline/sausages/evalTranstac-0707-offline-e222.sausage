@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 that 0.950538 uh 0.0494621
+align 4 *DELETE* 0.950538 that 0.0494621
+align 5 is 0.998697 has 0.0013035
+align 6 the 1
+align 7 highest 1
+align 8 i 1
+align 9 can 1
+align 10 go 0.999846 della 7.91822e-05 gala 7.46592e-05
+align 11 *DELETE* 0.976805 i 0.0173157 out 0.00186702 uh 0.00176561 off 0.000997205 on 0.000498686 in 0.000268065 i. 0.000155303 eye 0.000152615 oh 8.72706e-05 are 2.70784e-05 or 2.43077e-05 i'll 1.56064e-05 our 7.38686e-06 all 6.57392e-06 a 5.88499e-06 up 8.57072e-07
+align 12 *DELETE* 0.999993 i 6.82158e-06
+align 13 </s> 1

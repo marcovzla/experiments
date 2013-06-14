@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 that 0.818016 i 0.126332 yeah 0.0157469 have 0.0136677 now 0.0110153 and 0.010603 that's 0.00451927 there 9.91729e-05
+align 2 *DELETE* 0.96068 i 0.0393201
+align 3 seems 0.812769 seen 0.186441 see 0.000789816
+align 4 of 0.494779 some 0.445398 in 0.0447389 or 0.00658819 and 0.005301 to 0.00260361 so 0.000519559 on 4.60492e-05 *DELETE* 1.80367e-05 is 7.55877e-06
+align 5 *DELETE* 0.994746 the 0.00315629 a 0.00188521 of 0.000212483
+align 6 spots 1
+align 7 with 0.625113 why 0.343899 what 0.0309882
+align 8 *DELETE* 0.969012 i 0.0309882
+align 9 us 0.625113 that's 0.343899 saw 0.0309882
+align 10 uh 1
+align 11 been 0.999998 *DELETE* 2.86471e-07
+align 12 uh 0.805461 a 0.0911526 up 0.0801952 in 0.0231907
+align 13 *DELETE* 0.999998 been 2.22803e-06
+align 14 *DELETE* 0.951206 a 0.0485785 cover 0.000215847
+align 15 covered 0.935355 up 0.035404 *DELETE* 0.0253856 a 0.00363499 the 0.000215847 covert 4.96592e-06
+align 16 *DELETE* 0.935575 covered 0.0644245
+align 17 up 0.999999 op 1.12787e-06
+align 18 </s> 1

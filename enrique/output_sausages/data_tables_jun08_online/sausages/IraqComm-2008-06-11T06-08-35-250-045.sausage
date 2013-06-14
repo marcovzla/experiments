@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 0.970285 why 0.0148219 well 0.0141623 wow 0.000730802
+align 2 relatives 0.974925 relative's 0.0163365 relatives' 0.00873874
+align 3 are 0.925289 or 0.0747113
+align 4 you 1
+align 5 going 1
+align 6 to 0.99861 *DELETE* 0.000915479 good 0.000465145 again 9.06042e-06 guys 5.47251e-07
+align 7 *DELETE* 0.999958 go 4.15529e-05 get 1.24483e-17
+align 8 see 0.959153 *DELETE* 0.0408467
+align 9 *DELETE* 0.745715 you 0.199758 it 0.0283964 stay 0.0261306
+align 10 *DELETE* 0.952531 in 0.0313723 city 0.00815662 say 0.00198059 sea 0.0012105 seek 0.000740387 and 0.000717593 uh 0.000642851 ghazali 0.000591029 seeing 0.000584943 save 0.000568061 sing 0.000559385 gsayyan 0.00032445 a 1.60297e-05 i 3.44794e-06 if 9.7549e-07 c 1.20479e-07 an 7.06439e-09 steal 2.08552e-12 who 4.63914e-13 on 1.38234e-14 sit 5.22181e-16
+align 11 </s> 1

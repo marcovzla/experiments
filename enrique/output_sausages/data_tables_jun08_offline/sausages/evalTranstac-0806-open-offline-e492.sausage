@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 as 1
+align 2 we 1
+align 3 plan 0.933009 *DELETE* 0.0432422 plant 0.0237489
+align 4 a 0.819754 our 0.0870525 are 0.0498885 planner 0.0432422 *DELETE* 6.24061e-05
+align 5 route 0.999938 around 6.24061e-05
+align 6 that 1
+align 7 we 1
+align 8 will 1
+align 9 take 1
+align 10 to 0.754834 two 0.24466 too 0.000505795
+align 11 assault 1
+align 12 this 1
+align 13 objective 1
+align 14 do 1
+align 15 you 1
+align 16 know 1
+align 17 of 1
+align 18 any 1
+align 19 cheap 0.755519 key 0.222152 sheep 0.0110799 she 0.00514252 keep 0.0039213 cheat 0.00181661 keys 0.000369004
+align 20 pieces 1
+align 21 of 1
+align 22 terrain 1
+align 23 we 1
+align 24 can 1
+align 25 use 0.992457 used 0.007543
+align 26 for 0.998205 four 0.00179537
+align 27 identification 1
+align 28 </s> 1

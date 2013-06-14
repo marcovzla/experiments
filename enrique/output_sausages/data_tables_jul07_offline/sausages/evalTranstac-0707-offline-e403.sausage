@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 well 0.875021 *DELETE* 0.10797 wow 0.0170093
+align 2 i'll 0.603325 *DELETE* 0.278922 while 0.0759255 wall 0.0202682 wa'el 0.0117763 i 0.00604633 all 0.00373728 if 3.05009e-08 it's 1.35569e-15
+align 3 *DELETE* 0.994292 uh 0.00365924 will 0.00146146 i 0.000587347 a 6.18526e-14
+align 4 </s> 1

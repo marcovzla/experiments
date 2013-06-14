@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 identification 1
+align 5 *DELETE* 0.999975 uh 2.28944e-05 i 2.51016e-06
+align 6 </s> 1

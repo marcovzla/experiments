@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 do 0.6755 did 0.3245
+align 3 not 1
+align 4 understand 1
+align 5 say 0.999972 *DELETE* 2.791e-05 see 1.14726e-23
+align 6 again 0.999854 *DELETE* 0.000143378 a 2.99884e-06 sayigh 3.96522e-16 se 1.39731e-33
+align 7 *DELETE* 0.996684 i 0.00140501 uh 0.00108064 um 0.000500123 now 0.000151091 gang 7.96611e-05 sayediyah 2.791e-05 you 2.61946e-05 gear 1.81323e-05 guess 1.00884e-05 it 5.56186e-06 get 3.93936e-06 gary 3.25675e-06 game 2.23305e-06 ghayr 1.09611e-06 a 5.75579e-07 to 1.15902e-07 guest 4.86063e-08 the 2.26363e-08 with 2.00769e-08 can 1.08425e-08 do 3.28182e-09 at 9.34067e-10 that 6.26249e-10 on 6.08666e-10 i'm 4.74194e-10 gain 2.36047e-10 and 2.87516e-11 we 1.81787e-12 gangs 4.54403e-13 getting 2.13424e-13 in 3.96522e-16 stadium 3.1244e-19 give 1.02093e-27
+align 8 </s> 1

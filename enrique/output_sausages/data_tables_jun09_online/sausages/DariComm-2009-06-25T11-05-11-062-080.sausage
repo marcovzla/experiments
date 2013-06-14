@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 we 1
+align 3 arrest 1
+align 4 him 0.93437 them 0.0656295
+align 5 where 1
+align 6 are 1
+align 7 we 1
+align 8 going 1
+align 9 to 1
+align 10 bring 1
+align 11 him 0.999224 *DELETE* 0.000664661 in 0.000111647
+align 12 too 0.762065 to 0.233601 *DELETE* 0.00433483
+align 13 *DELETE* 0.860258 you 0.135188 two 0.00367017 into 0.000664661 do 0.000107254 uh 7.67128e-05 us 2.15315e-05 the 1.15171e-05 a 2.31114e-06 i 3.00701e-07
+align 14 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.998869 does 0.00113054
+align 3 your 1
+align 4 source 1
+align 5 of 1
+align 6 electricity 1
+align 7 within 0.998718 with 0.0012816
+align 8 *DELETE* 0.998718 in 0.0012816
+align 9 the 1
+align 10 village 1
+align 11 *DELETE* 1 uh 2.11373e-11
+align 12 </s> 1

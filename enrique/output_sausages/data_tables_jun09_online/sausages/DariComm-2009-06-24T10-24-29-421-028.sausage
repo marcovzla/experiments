@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 what 0.958522 why 0.0414776
+align 2 do 1
+align 3 you 1
+align 4 need 1
+align 5 to 1
+align 6 support 1
+align 7 any 0.929094 *DELETE* 0.0709061
+align 8 more 0.929094 anymore 0.0709061
+align 9 possible 1
+align 10 a 0.890149 *DELETE* 0.0486725 and 0.0386833 any 0.0205042 an 0.00199158
+align 11 new 0.781335 any 0.137331 a 0.0406748 *DELETE* 0.0205042 needs 0.0100612 need 0.00782383 knee 0.00171481 ne 0.000555539
+align 12 soldier 1
+align 13 injuries 0.975435 injury 0.0245261 in 3.85111e-05 *DELETE* 3.37747e-17
+align 14 *DELETE* 0.999497 uh 0.000293322 i 0.000151551 injuries 3.85111e-05 you 1.05841e-05 to 4.35951e-06 in 4.10185e-06 that 8.70935e-07 do 1.51544e-10 the 2.47922e-11 injured 9.9863e-12 but 2.21844e-12 if 1.7514e-14 it 1.64282e-14 is 2.00093e-19
+align 15 </s> 1

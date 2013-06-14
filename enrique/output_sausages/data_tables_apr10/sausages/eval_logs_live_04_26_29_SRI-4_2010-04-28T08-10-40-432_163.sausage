@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 job 1
+align 5 in 0.999823 and 0.000177286
+align 6 the 0.999026 a 0.000974198
+align 7 village 1
+align 8 *DELETE* 0.999998 uh 1.8068e-06 i 4.95873e-07
+align 9 </s> 1

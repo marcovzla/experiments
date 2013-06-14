@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.997769 i 0.00223064
+align 2 would 0.999999 which 5.93893e-07
+align 3 you 1
+align 4 like 1
+align 5 to 1
+align 6 respond 1 *DELETE* 1.53875e-19
+align 7 to 0.999998 responded 2.85452e-11 *DELETE* 2.63078e-18
+align 8 test 1
+align 9 your 1
+align 10 volume 0.917761 rahim 0.0816267 body 0.000612119 value 1.18659e-08 *DELETE* 3.33409e-10
+align 11 level 0.978258 low 0.0182835 *DELETE* 0.00148801 levels 0.000858373 oil 0.000818285 my 0.000293789 buying 2.39632e-07 may 5.15975e-08 and 1.49802e-11 in 3.02394e-12
+align 12 *DELETE* 0.998142 well 0.000560988 leveled 0.000443251 will 0.000291637 while 0.000186461 mile 0.00014235 moral 6.0849e-05 uh 5.88619e-05 up 3.68382e-05 i'll 2.262e-05 i 1.29624e-05 um 1.08365e-05 work 1.0544e-05 mild 4.17617e-06 low 3.65055e-06 oil 2.68187e-06 watch 2.53685e-06 oh 2.30662e-06 of 2.18012e-06 a 1.39556e-06 out 3.51038e-07 is 2.83128e-07 war 9.23727e-09 able 1.69896e-09 wa'el 5.14378e-11 more 1.85194e-11 whoa 1.34849e-12 were 5.82728e-13 o 1.01476e-15
+align 13 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 to 1
+align 6 search 1
+align 7 a 0.891192 the 0.108785 *DELETE* 1.65622e-05 your 6.35491e-06 our 7.25752e-08
+align 8 vehicle 0.999931 vehicles 6.88538e-05
+align 9 *DELETE* 0.999987 uh 1.28717e-05 i 7.75175e-08
+align 10 </s> 1

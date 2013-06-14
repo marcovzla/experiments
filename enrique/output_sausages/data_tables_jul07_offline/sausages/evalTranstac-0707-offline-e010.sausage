@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 you 0.950954 do 0.0490458
+align 2 *DELETE* 0.950954 you 0.0490458
+align 3 know 1
+align 4 the 0.710316 what 0.289684
+align 5 *DELETE* 0.710316 the 0.289684
+align 6 a._k. 1
+align 7 in 1
+align 8 the 1
+align 9 back 1
+align 10 of 0.999322 uh 0.000660491 or 1.79444e-05
+align 11 the 0.569424 a 0.237635 *DELETE* 0.19294 it 1.48113e-12
+align 12 car 0.999231 kar 0.000624037 qar 0.000128884 cart 1.5144e-05 card 5.3918e-07
+align 13 </s> 1

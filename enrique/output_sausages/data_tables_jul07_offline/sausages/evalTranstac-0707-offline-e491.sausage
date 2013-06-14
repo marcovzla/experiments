@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 according 1
+align 2 to 1
+align 3 our 1
+align 4 records 0.978341 record 0.0216588
+align 5 sir 0.989389 or 0.0106111
+align 6 he 0.967926 *DELETE* 0.0320742
+align 7 is 0.967926 he's 0.0176266 his 0.0144476
+align 8 suspected 1
+align 9 and 0.998097 in 0.00190347
+align 10 they 1
+align 11 have 1
+align 12 good 0.999865 big 0.000134817
+align 13 reason 1
+align 14 to 1
+align 15 believe 1
+align 16 he 1
+align 17 is 0.996718 has 0.00328228
+align 18 involved 1
+align 19 in 1
+align 20 insurgent 1
+align 21 activity 1
+align 22 </s> 1

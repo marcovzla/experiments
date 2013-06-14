@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 0.999917 *DELETE* 8.26761e-05
+align 2 are 0.999917 how're 8.26761e-05
+align 3 you 1
+align 4 today 1
+align 5 </s> 1

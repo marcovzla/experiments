@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 a 0.565637 okay 0.432671 they 0.00169232
+align 2 cheap 0.566153 chief 0.432531 keep 0.00131676
+align 3 pond 0.446253 on 0.270827 how 0.117593 gone 0.111263 hard 0.0384344 han 0.00897225 iron 0.00389764 uh 0.00275958
+align 4 *DELETE* 0.879647 on 0.120353
+align 5 i've 1
+align 6 i've 1
+align 7 heard 1
+align 8 rumors 1
+align 9 that 0.933612 the 0.0388883 they 0.0275001
+align 10 *DELETE* 0.906108 they 0.0938919
+align 11 uh 1
+align 12 about 0.999539 uh 0.000460788
+align 13 *DELETE* 0.999539 about 0.000460788
+align 14 the 1
+align 15 use 0.994535 *DELETE* 0.00546486
+align 16 of 0.994535 youssef 0.00546486
+align 17 excessive 1
+align 18 force 0.96578 forced 0.0340196 *DELETE* 0.000200786
+align 19 by 0.984426 buy 0.0148927 *DELETE* 0.000480319 for 0.000200786
+align 20 your 0.950674 our 0.046404 air 0.000841604 are 0.000671388 you're 0.000585407 buyer 0.000480319 spider 0.000200786 ear 8.71571e-05 year 3.1155e-05 here 2.39659e-05 their 4.81705e-08
+align 21 officers 0.999906 uh 9.40265e-05
+align 22 *DELETE* 0.999906 officers 9.40265e-05
+align 23 </s> 1

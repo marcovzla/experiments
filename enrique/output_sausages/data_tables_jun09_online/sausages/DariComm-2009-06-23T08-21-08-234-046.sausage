@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 get 1
+align 4 out 1
+align 5 of 1
+align 6 the 1
+align 7 car 0.999413 cart 0.000586702
+align 8 please 1
+align 9 *DELETE* 1 uh 1.01051e-09 do 2.22322e-13
+align 10 </s> 1

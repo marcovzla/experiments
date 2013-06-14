@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 would 1
+align 2 you 1
+align 3 like 1
+align 4 my 1
+align 5 men 0.971623 meant 0.028377
+align 6 to 1
+align 7 do 1
+align 8 it 1
+align 9 or 1
+align 10 would 1
+align 11 you 1
+align 12 like 1
+align 13 your 0.944168 you're 0.0552457 to 0.000586172
+align 14 *DELETE* 0.999414 your 0.000586172
+align 15 men 0.929873 meant 0.0605273 man 0.00959944
+align 16 to 1
+align 17 do 1 *DELETE* 3.19712e-11
+align 18 it 0.998917 what 0.000923432 at 6.45394e-05 *DELETE* 5.30553e-05 a 3.96664e-05 uh 1.95252e-06 doing 2.1024e-07 in 1.13616e-08
+align 19 </s> 1

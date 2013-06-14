@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 that 1
+align 3 doesn't 1
+align 4 work 1
+align 5 and 1
+align 6 the 1
+align 7 bleeding 1
+align 8 uh 1
+align 9 continues 0.907453 uh 0.0915335 continue 0.00101341
+align 10 *DELETE* 0.907455 continues 0.0915335 as 0.00101176
+align 11 you 0.868887 you're 0.131111 to 1.64896e-06
+align 12 gonna 1
+align 13 *DELETE* 0.992517 want 0.00748309
+align 14 wanna 0.992517 to 0.00748309
+align 15 move 0.84198 moving 0.15802
+align 16 in 1
+align 17 in 0.84198 *DELETE* 0.15802
+align 18 the 1
+align 19 go 1
+align 20 ahead 1
+align 21 and 0.991808 in 0.00554501 *DELETE* 0.00264722
+align 22 uh 0.509546 i'll 0.463609 i 0.0159624 *DELETE* 0.0030368 up 0.00285403 now 0.00231231 help 0.00104071 a 0.00100291 no 0.000334919 have 0.000300956
+align 23 *DELETE* 0.999615 uh 0.000385116
+align 24 put 1
+align 25 on 1
+align 26 the 0.965751 a 0.0342487
+align 27 tourniquet 1
+align 28 *DELETE* 0.999987 i 1.08732e-05 you 2.20478e-06
+align 29 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 questions 1
+align 6 how 1
+align 7 do 1
+align 8 you 0.998216 *DELETE* 0.00178371
+align 9 use 1
+align 10 the 0.99959 a 0.00040984
+align 11 car 1
+align 12 *DELETE* 0.666455 to 0.307998 attack 0.0249246 and 0.000622098
+align 13 have 0.374738 *DELETE* 0.36543 yeah 0.0585776 half 0.0421866 that 0.0267415 uh 0.0245493 tap 0.0184259 pat 0.0157795 at 0.0153981 behalf 0.00917986 back 0.0089387 how 0.00743282 had 0.00642884 pass 0.00633079 happen 0.00380195 patch 0.00328106 perhaps 0.00184425 happened 0.00178401 passed 0.0014217 pack 0.00110827 path 0.00107956 packed 0.000989903 attacked 0.000762033 kept 0.000755463 tapped 0.000741788 cap 0.000668251 tat 0.000633876 task 0.000422947 are 0.00029156 past 0.000275892
+align 14 *DELETE* 0.996373 i 0.00130197 uh 0.000471092 catch 0.000384279 captain 0.000230075 attach 0.000202616 happily 0.000147553 tack 0.000127537 as 9.70998e-05 happy 7.87375e-05 happening 7.7942e-05 taps 7.03076e-05 taq 6.78509e-05 tax 6.09618e-05 you 4.96313e-05 attacks 4.53523e-05 it 4.39177e-05 pal 4.15991e-05 tak 1.91512e-05 bak 1.83948e-05 pac 1.80081e-05 can 1.77758e-05 tasks 1.51964e-05 pattern 1.19309e-05 has 6.44732e-06 taak 5.81543e-06 is 4.51363e-06 tactic 2.90512e-06 taxi 2.00578e-06 packet 1.79942e-06 the 1.5724e-06 a 7.23298e-07 packs 5.76186e-07 if 5.41071e-07 in 4.70682e-07 go 1.61284e-07 patent 1.44797e-08 after 1.41938e-08 and 4.88982e-09 i'm 4.65581e-09 to 3.55032e-11 patched 2.88624e-12
+align 15 </s> 1

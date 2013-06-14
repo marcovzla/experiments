@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 but 0.998907 for 0.000826216 flood 0.00026668
+align 2 *DELETE* 0.999174 the 0.000826216
+align 3 do 1
+align 4 you 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 any 1
+align 9 experience 1
+align 10 in 1
+align 11 first 1
+align 12 aid 1
+align 13 or 0.735842 *DELETE* 0.184744 is 0.079394 uh 1.69095e-05 oh 2.62223e-06 of 1.20118e-07 and 7.25897e-09 no 6.53227e-14
+align 14 is 0.920606 *DELETE* 0.079394
+align 15 this 1
+align 16 uh 1
+align 17 pretty 1
+align 18 much 1
+align 19 the 0.999943 to 5.67851e-05 though 5.51183e-07
+align 20 first 1
+align 21 time 1
+align 22 are 0.866066 uh 0.133934
+align 23 you 0.866066 here 0.102085 *DELETE* 0.030107 in 0.0017422
+align 24 in 1.00047 and 4.53868e-08
+align 25 *DELETE* 0.999166 in 0.000833774
+align 26 the 1 be 4.53868e-08
+align 27 learning 1
+align 28 anything 0.999988 thing 1.16879e-05
+align 29 about 1
+align 30 it 0.999731 *DELETE* 0.000265451 that 2.82936e-06 right 8.82553e-07 uh 6.15263e-08 me 4.01579e-08 us 1.09846e-09
+align 31 </s> 1

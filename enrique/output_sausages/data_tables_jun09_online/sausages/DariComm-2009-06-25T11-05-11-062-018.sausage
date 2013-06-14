@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 i 0.748565 *DELETE* 0.251435
+align 2 am 0.746231 i'm 0.253769
+align 3 understanding 0.942855 understand 0.0523833 a 0.00325409 i 0.00146915 uh 3.85101e-05
+align 4 *DELETE* 0.9984 understand 0.00160044
+align 5 *DELETE* 0.942855 in 0.0472389 and 0.00658619 understanding 0.00316131 then 0.000108257 end 5.03771e-05
+align 6 that 0.99999 i 1.03524e-05
+align 7 we 0.996371 *DELETE* 0.00362921
+align 8 are 0.996371 we're 0.00362921
+align 9 going 1
+align 10 to 1
+align 11 conduct 1
+align 12 a 0.994285 uh 0.00571537
+align 13 cordon 1
+align 14 and 0.999947 in 5.32269e-05
+align 15 search 1
+align 16 *DELETE* 0.999758 it 0.000175986 uh 3.59429e-05 you 2.9119e-05 the 1.01623e-06 them 9.54951e-08 in 6.86602e-08
+align 17 </s> 1

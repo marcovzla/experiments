@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 uh 1
+align 7 electricity 0.999954 uh 4.57889e-05 a 1.22639e-10
+align 8 *DELETE* 0.999954 electricity 4.5789e-05
+align 9 </s> 1

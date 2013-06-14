@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 yes 0.66086 usually 0.33634 *DELETE* 0.00279927
+align 2 sure 0.597274 the 0.272846 *DELETE* 0.0653672 you 0.0645131
+align 3 *DELETE* 0.997072 issuing 0.00174401 join 0.00105527 yeah 0.000129064
+align 4 information 0.708458 nation 0.272846 formation 0.0179086 permission 0.000449449 promotion 0.000337317
+align 5 reliable 0.999959 in 4.11237e-05
+align 6 *DELETE* 0.999843 you 9.10011e-05 reliable 4.11237e-05 and 2.33508e-05 in 1.37799e-06 um 3.64526e-16 uh 9.01785e-18 i 4.96867e-22 it 1.29855e-22
+align 7 </s> 1

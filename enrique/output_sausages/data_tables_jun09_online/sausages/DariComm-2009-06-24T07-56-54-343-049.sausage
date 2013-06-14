@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 wrong 1
+align 4 with 1
+align 5 ali 0.80417 the 0.19171 *DELETE* 0.00412049
+align 6 *DELETE* 0.80417 they 0.19171 i 0.00412049
+align 7 electricity 1
+align 8 *DELETE* 0.99742 uh 0.00188172 i 0.000466443 it 6.31072e-05 in 6.08946e-05 to 5.44722e-05 you 1.88464e-05 do 1.28897e-05 and 1.09165e-05 a 5.46571e-06 the 3.73096e-06 too 6.29484e-07 that 2.17369e-07 is 1.73337e-07 if 1.11957e-08 like 5.14528e-12 so 4.08176e-12 at 1.02681e-12 as 1.7414e-14
+align 9 </s> 1

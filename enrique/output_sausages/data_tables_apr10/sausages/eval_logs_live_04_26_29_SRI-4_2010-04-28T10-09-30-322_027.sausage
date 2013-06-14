@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 is 1
+align 3 the 1
+align 4 school 1
+align 5 that 0.997335 they 0.00266508
+align 6 your 0.583826 you're 0.416174
+align 7 two 0.96804 to 0.0192715 too 0.0126884
+align 8 boys 0.998833 boys' 0.000635144 boy's 0.000531948
+align 9 go 1
+align 10 to 0.514819 too 0.458818 two 0.0235503 tool 0.00255052 *DELETE* 0.000262817
+align 11 *DELETE* 0.994027 it 0.00393674 you 0.000876435 a 0.000273598 tube 0.000233254 uh 0.000227915 us 0.000178539 me 7.57231e-05 i 6.85334e-05 of 2.68191e-05 up 2.63659e-05 tomb 1.9378e-05 the 1.37607e-05 tubes 9.16845e-06 do 4.78531e-06 to 1.12789e-06 toul 1.01628e-06 if 6.92894e-10
+align 12 </s> 1

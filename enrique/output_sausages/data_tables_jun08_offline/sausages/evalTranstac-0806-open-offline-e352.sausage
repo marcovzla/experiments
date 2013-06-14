@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 place 1
+align 2 are 0.943379 our 0.0565035 or 9.32456e-05 r 2.39217e-05
+align 3 *DELETE* 0.578334 are 0.411333 our 0.0103338
+align 4 are 1.01082 our 0.0899828 a 0.0181741 in 0.0108151 at 0.00517436 it 0.000659783 aren't 7.82935e-05
+align 5 *DELETE* 0.999882 at 0.000118004
+align 6 lips 0.998486 at 0.00118095 in 0.00033302
+align 7 *DELETE* 0.998486 lips 0.00151397
+align 8 over 1
+align 9 the 1
+align 10 uh 0.503729 of 0.496271
+align 11 victims 1
+align 12 mouth 1
+align 13 and 0.683389 in 0.316611
+align 14 we 1
+align 15 blow 1
+align 16 along 0.966048 alone 0.0182987 the 0.0156537
+align 17 *DELETE* 0.984346 long 0.0155881 lung 6.55776e-05
+align 18 full 1
+align 19 of 1 up 1.92524e-11
+align 20 air 1
+align 21 into 1
+align 22 the 1
+align 23 victims 0.774933 victim's 0.225067
+align 24 lungs 0.623424 longs 0.197588 long's 0.178341 wants 0.000598903 ones 4.84681e-05
+align 25 </s> 1

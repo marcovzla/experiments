@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 or 1
+align 2 we're 0.961745 were 0.0382547
+align 3 gonna 0.947815 going 0.0521855
+align 4 *DELETE* 0.947815 to 0.0521855
+align 5 search 1
+align 6 all 1
+align 7 the 1
+align 8 vehicles 1
+align 9 that 1
+align 10 we 1
+align 11 come 1
+align 12 across 1
+align 13 or 1
+align 14 we're 0.987389 were 0.0126112
+align 15 going 1
+align 16 to 1
+align 17 interact 0.56437 in 0.414278 be 0.0213511
+align 18 *DELETE* 0.978649 in 0.0213511
+align 19 *DELETE* 0.56437 iraq 0.43563
+align 20 with 0.565253 to 0.412162 for 0.0182923 or 0.0042927
+align 21 the 0.992639 a 0.00736124
+align 22 people 1
+align 23 and 1
+align 24 make 1
+align 25 them 1
+align 26 feel 1
+align 27 safe 1
+align 28 *DELETE* 0.999997 i 2.60361e-06
+align 29 </s> 1

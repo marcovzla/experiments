@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 *DELETE* 0.997214 uh 0.00278561
+align 4 if 1
+align 5 you 1
+align 6 don't 1
+align 7 is 1
+align 8 there 0.979482 or 0.0188624 their 0.00165519
+align 9 any 1
+align 10 times 1
+align 11 when 1
+align 12 uh 1
+align 13 are 0.999998 is 1.52046e-06
+align 14 there 1
+align 15 any 0.859176 a 0.140824
+align 16 times 1
+align 17 when 0.963714 and 0.0362861
+align 18 you 1
+align 19 don't 1
+align 20 have 1
+align 21 electricity 1
+align 22 here 0.999999 *DELETE* 6.67625e-15
+align 23 in 0.982874 and 0.0161653 *DELETE* 0.000959355 hearing 1.09815e-06
+align 24 the 0.834217 *DELETE* 0.093082 a 0.0727015
+align 25 house 1
+align 26 </s> 1

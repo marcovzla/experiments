@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 as 1
+align 2 the 1
+align 3 squad 1
+align 4 leader 1
+align 5 it 1
+align 6 is 1
+align 7 important 1
+align 8 that 1
+align 9 you 1
+align 10 give 1
+align 11 orders 0.99684 a 0.00315967
+align 12 *DELETE* 0.99684 orders 0.00315967
+align 13 to 0.997425 two 0.00175549 too 0.00081984
+align 14 your 0.982858 you're 0.0171421
+align 15 fire 1
+align 16 team 1
+align 17 leaders 0.999818 liters 0.000180752 leader's 1.03407e-06
+align 18 </s> 1

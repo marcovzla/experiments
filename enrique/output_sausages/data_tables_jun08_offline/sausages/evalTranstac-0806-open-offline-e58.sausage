@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 got 0.82072 get 0.17928
+align 3 the 0.976808 we 0.0216599 them 0.00153164
+align 4 more 0.702305 will 0.155129 mall 0.0967091 want 0.0319005 what 0.00508867 well 0.00277029 *DELETE* 0.00257512 wall 0.00160998 all 0.00153164 one 0.000302249 won't 7.91834e-05
+align 5 more 0.997425 normal 0.00249837 moment 7.67524e-05
+align 6 power 0.999995 powered 4.73521e-06
+align 7 *DELETE* 0.999977 or 2.22001e-05 in 7.94521e-07 it 3.13404e-07
+align 8 </s> 1

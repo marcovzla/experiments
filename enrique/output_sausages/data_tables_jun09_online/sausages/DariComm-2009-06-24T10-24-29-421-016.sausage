@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 so 0.998663 sir 0.00133654
+align 2 his 0.510049 whose 0.489951
+align 3 leg 1
+align 4 was 1
+align 5 hit 1
+align 6 his 1
+align 7 left 1
+align 8 leg 1
+align 9 was 0.988764 worth 0.00683237 with 0.00274959 worse 0.00140986 words 0.000134466 worst 6.53308e-05 noise 1.54314e-05 *DELETE* 1.18304e-05 works 1.09462e-05 his 3.67307e-06 has 2.99753e-06 rice 6.85284e-11 lois 2.10379e-15
+align 10 hit 0.977236 it 0.0221371 *DELETE* 0.000614769 were 1.18304e-05 we're 1.35848e-22
+align 11 *DELETE* 0.996958 it 0.000796676 you 0.00075951 fit 0.000614769 i 0.000355207 a 0.000299645 me 5.74926e-05 uh 4.73487e-05 too 3.32143e-05 in 3.08968e-05 the 2.46604e-05 sit 1.15832e-05 us 6.3569e-06 them 2.4905e-06 at 7.5011e-07 and 6.98358e-07 say 2.47266e-07 with 8.55638e-08 that 1.48622e-08 do 2.29439e-11 as 2.4146e-15
+align 12 *DELETE* 1 it 2.47266e-07 hit 2.4146e-15
+align 13 </s> 1

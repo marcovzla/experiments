@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 i 0.997007 uh 0.00299331
+align 2 *DELETE* 0.991006 i 0.00899351
+align 3 have 1
+align 4 one 1
+align 5 and 0.859936 in 0.140064
+align 6 um 0.953852 uh 0.0459668 *DELETE* 0.000180764
+align 7 *DELETE* 0.9709 uh 0.0192156 um 0.00714347 i'm 0.00273975 in 1.02974e-06
+align 8 my 0.999998 may 1.51892e-06
+align 9 list 0.542684 less 0.394445 let 0.047006 lesson 0.00546139 let's 0.00373411 last 0.00324307 listen 0.00173613 life 0.0014373 lesser 0.000213349 *DELETE* 4.01451e-05
+align 10 *DELETE* 0.948954 sort 0.0426149 short 0.00800658 some 0.000424685
+align 11 of 0.823807 short 0.0877225 sort 0.0697603 *DELETE* 0.0153862 or 0.00332442
+align 12 a 0.653582 of 0.16199 *DELETE* 0.132444 the 0.0354941 over 0.00865384 to 0.00545363 it 0.00110336 so 0.000686412 alert 0.000265287 and 0.000170977 for 0.000115888 listened 4.01451e-05 talk 9.60711e-07
+align 13 *DELETE* 1 talk 2.74219e-07
+align 14 pocket 0.998226 pockets 0.000934703 talking 0.000805186 talky 2.10343e-05 talkie 1.09379e-05 a 1.19916e-06 talk 1.13546e-06 it 3.57722e-08
+align 15 *DELETE* 0.999742 it 0.000256463 a 1.11748e-06 i 4.69019e-08
+align 16 </s> 1

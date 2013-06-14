@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 my 0.528786 play 0.385092 what 0.0548397 by 0.0207248 i 0.00922871 plain 0.000685472 why 0.000525493 playing 0.000116923
+align 2 instructions 1
+align 3 *DELETE* 0.999964 i 3.06223e-05 to 5.03047e-06 in 5.70785e-11 uh 4.94202e-11 do 7.71769e-12 it 2.31565e-13
+align 4 </s> 1

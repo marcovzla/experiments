@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 years 1 is 3.02191e-08
+align 4 have 1
+align 5 you 1
+align 6 worked 0.998766 *DELETE* 0.00123375
+align 7 *DELETE* 0.993861 in 0.00310036 work 0.00102667 at 0.00085675 there 0.000338898 i 0.000289902 works 0.000207082 to 0.000145454 uh 0.000109267 you 2.54144e-05 it 1.90565e-05 as 6.1069e-06 a 5.41078e-06 on 4.41125e-06 the 4.41048e-06 were 3.12202e-10
+align 8 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 of 0.964801 *DELETE* 0.0351991
+align 4 your 0.964801 their 0.0351991
+align 5 children 1
+align 6 are 0.867449 or 0.130545 our 0.00192443 were 8.1047e-05
+align 7 boys 0.987832 boy's 0.0088182 boys' 0.00322462 a 9.94468e-05 *DELETE* 2.5935e-05
+align 8 *DELETE* 0.999707 i 0.000137116 boys 9.75984e-05 uh 3.08338e-05 boyce 1.45455e-05 voice 1.13896e-05 boy's 1.74167e-06 boys' 1.06725e-07 a 1.57678e-08 in 6.77066e-09
+align 9 </s> 1

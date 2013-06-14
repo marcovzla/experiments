@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 it's 0.517892 and 0.328222 it 0.0678882 that 0.0328414 that's 0.0301961 its 0.0166036 at 0.0050815 uh 0.00127543
+align 2 *DELETE* 0.999411 it's 0.00058921
+align 3 so 1
+align 4 it's 0.996002 its 0.00399755
+align 5 just 0.971295 his 0.0160157 you 0.0126892
+align 6 see 0.99484 sea 0.00516039
+align 7 you 0.527889 yeah 0.264966 *DELETE* 0.207012 uh 0.000132986
+align 8 had 0.518307 yet 0.206885 at 0.163889 it 0.0718038 if 0.0171879 uh 0.0122119 to 0.00958184 *DELETE* 0.000132986
+align 9 the 1
+align 10 general 1
+align 11 um 1
+align 12 health 1
+align 13 of 1
+align 14 uh 0.996094 *DELETE* 0.0039059
+align 15 *DELETE* 0.806227 of 0.189867 um 0.0039059 that 1.8285e-14
+align 16 your 0.999763 you're 0.0002366
+align 17 citizens 1
+align 18 is 0.987457 as 0.0125431
+align 19 that 0.993602 i 0.00473938 at 0.00121285 a 0.000445783
+align 20 correct 1 correctly 8.37071e-10
+align 21 </s> 1

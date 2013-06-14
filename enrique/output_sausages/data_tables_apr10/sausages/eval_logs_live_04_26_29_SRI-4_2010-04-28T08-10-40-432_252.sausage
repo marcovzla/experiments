@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 0.997702 may 0.00229847
+align 3 tell 0.690059 tail 0.117723 talaban 0.117382 tale 0.0748005 touban 2.36435e-05 ten 1.0961e-05 town 1.71128e-06
+align 4 *DELETE* 0.53979 a 0.459329 that 0.00085521 of 2.61467e-05
+align 5 better 0.881713 or 0.0638439 are 0.053952 our 0.000461712 enter 2.55259e-05 *DELETE* 3.67092e-06
+align 6 in 0.999986 and 9.96191e-06 earn 3.05013e-06 entering 6.20771e-07 earned 2.45954e-11
+align 7 this 1
+align 8 area 1
+align 9 </s> 1

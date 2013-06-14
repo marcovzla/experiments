@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 0.972797 *DELETE* 0.0272028
+align 2 you 1
+align 3 know 1
+align 4 anything 1
+align 5 about 1
+align 6 these 1
+align 7 attacks 0.999999 a 6.03508e-07
+align 8 *DELETE* 0.999998 in 9.18298e-07 tax 6.03508e-07
+align 9 </s> 1

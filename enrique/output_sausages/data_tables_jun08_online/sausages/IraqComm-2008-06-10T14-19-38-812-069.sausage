@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 other 1
+align 3 topics 1
+align 4 do 1
+align 5 you 1
+align 6 discuss 0.568087 discussed 0.431913
+align 7 with 1
+align 8 these 1 he's 2.41543e-07 visa 9.34959e-09 ease 1.95597e-17
+align 9 men 0.998242 man 0.00172577 *DELETE* 3.17518e-05
+align 10 *DELETE* 0.999657 uh 0.000310853 name 1.76352e-05 many 1.41166e-05 meant 1.47642e-15
+align 11 </s> 1

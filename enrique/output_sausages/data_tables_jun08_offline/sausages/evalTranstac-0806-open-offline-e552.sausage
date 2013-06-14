@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 well 0.999931 while 6.94221e-05
+align 2 i 1
+align 3 i 0.963613 uh 0.036387
+align 4 i 0.829287 *DELETE* 0.170713
+align 5 *DELETE* 0.964202 i 0.0357982
+align 6 understand 1
+align 7 that 0.997686 uh 0.00231361
+align 8 but 1
+align 9 they 0.87075 the 0.129169 then 8.08841e-05
+align 10 we 0.73192 were 0.212536 *DELETE* 0.0555361 would 8.44243e-06
+align 11 have 0.730717 at 0.186981 going 0.0639263 not 0.0183268 *DELETE* 4.89314e-05
+align 12 to 0.811288 the 0.186981 *DELETE* 0.00168195 won't 4.89314e-05
+align 13 come 0.998269 become 0.00173088
+align 14 and 0.977938 in 0.021954 an 0.000107962
+align 15 meet 0.952639 me 0.0448044 the 0.00255699
+align 16 *DELETE* 0.973046 you 0.0269543
+align 17 at 1
+align 18 the 1
+align 19 in 0.969976 *DELETE* 0.0300244
+align 20 the 0.969627 end 0.0299261 that 0.000348585 and 9.8348e-05
+align 21 *DELETE* 0.997355 it 0.0026171 the 1.98559e-05 that 7.74639e-06
+align 22 in 1
+align 23 the 1
+align 24 middle 1
+align 25 the 0.995804 to 0.00335268 of 0.000821771 but 1.97722e-05 *DELETE* 3.25595e-10
+align 26 *DELETE* 0.999608 a 0.000392037
+align 27 road 0.999471 *DELETE* 0.000528588
+align 28 *DELETE* 0.996472 uh 0.00249233 rode 0.000299871 roads 0.000228718 i 0.000208644 in 6.78245e-05 a 6.21866e-05 sir 5.86753e-05 and 4.5591e-05 you 2.56257e-05 it 2.21803e-05 is 5.34734e-06 if 3.74273e-06 here 3.62673e-06 yeah 2.57151e-06 are 6.12306e-07 at 3.45185e-07 or 1.99451e-07 to 1.75071e-07 that 9.72373e-09
+align 29 </s> 1

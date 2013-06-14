@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 nurses 0.994349 nurse's 0.00289162 nurses' 0.00275974
+align 4 are 0.992843 our 0.00715713
+align 5 well 0.995954 working 0.00190084 work 0.00161472 were 0.000525694 world 3.60955e-06 we're 8.04603e-07 with 3.62108e-08
+align 6 at 1
+align 7 the 1
+align 8 same 1
+align 9 time 1
+align 10 *DELETE* 0.999242 uh 0.000438578 i 0.000303951 you 8.13056e-06 it 4.53892e-06 the 1.80357e-06 to 6.47494e-07 in 3.3061e-13
+align 11 </s> 1

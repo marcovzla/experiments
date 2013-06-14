@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 can't 0.938544 can 0.0614555
+align 3 leave 1
+align 4 until 1
+align 5 the 0.982627 a 0.0171557 *DELETE* 0.000142667 this 7.45953e-05
+align 6 search 0.994775 *DELETE* 0.00522537 as 8.73652e-18 it 1.38856e-31
+align 7 is 0.99452 searches 0.00521044 as 0.00016205 his 9.23436e-05 searchers 1.49235e-05
+align 8 over 0.999728 are 0.000271603
+align 9 *DELETE* 0.999728 over 0.000271603
+align 10 </s> 1

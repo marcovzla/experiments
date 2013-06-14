@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 the 1
+align 3 veterinarian 1
+align 4 need 0.742468 *DELETE* 0.140858 in 0.0947633 and 0.0159792 needs 0.00593142
+align 5 *DELETE* 0.889258 need 0.110742
+align 6 a 0.88928 *DELETE* 0.11072
+align 7 *DELETE* 0.859142 need 0.140858
+align 8 *DELETE* 0.748422 he 0.131574 a 0.120004
+align 9 generator 1
+align 10 as 1
+align 11 well 1
+align 12 </s> 1

@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 three 0.831702 through 0.161374 threw 0.0061876 sure 0.000640975 sir 6.47766e-05 turn 3.04855e-05
+align 2 appears 1
+align 3 to 1
+align 4 be 1
+align 5 four 0.848864 for 0.151136
+align 6 main 0.981635 a 0.0183648
+align 7 *DELETE* 0.981635 main 0.0183648
+align 8 having 0.830466 abby 0.0470472 abbey 0.0470438 abbie 0.0470433 abi 0.0276947 abu 0.000656515 adding 4.8263e-05
+align 9 use 0.611334 you 0.219181 news 0.166506 me 0.00241356 knee 0.000566028
+align 10 *DELETE* 0.77784 use 0.219181 is 0.00297959
+align 11 that 1
+align 12 you 1
+align 13 you 0.988386 he 0.0054935 could 0.00244754 *DELETE* 0.00169894 knew 0.00159421 need 0.000378046 take 1.3063e-06
+align 14 could 0.977785 can 0.0197664 *DELETE* 0.00244754 it 1.3063e-06
+align 15 use 0.996492 used 0.00350752
+align 16 to 1
+align 17 move 1
+align 18 throughout 1
+align 19 the 0.99859 this 0.00140991
+align 20 city 1 *DELETE* 3.83266e-14
+align 21 *DELETE* 1 uh 8.06639e-09 siti 1.60239e-10
+align 22 </s> 1

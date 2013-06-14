@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 how 0.999067 *DELETE* 0.000933434
+align 4 are 0.998603 *DELETE* 0.00139657
+align 5 you 0.994798 they 0.00376519 hello 0.000923918 *DELETE* 0.000354118 may 0.00015832
+align 6 *DELETE* 0.999714 i 0.000152383 yeah 4.71701e-05 uh 3.38909e-05 low 1.35643e-05 in 9.98489e-06 have 9.49786e-06 long 7.69963e-06 right 7.42316e-06 much 2.44765e-06 um 1.42707e-06 him 5.49323e-08 my 3.25995e-08 man 2.93119e-08 were 5.92974e-09 oh 7.73827e-10 learn 4.42664e-11 huh 9.47489e-14 having 1.9107e-17
+align 7 *DELETE* 1 am 4.8069e-19 you 4.59349e-19 a 4.30935e-19 do 1.88107e-20 hurry 1.31968e-20 our 1.4178e-21 here 5.14636e-22 many 8.28634e-23 in 1.31722e-23 an 9.99359e-24 to 3.71319e-24 the 1.51742e-27 we're 1.14086e-27 room 6.57332e-28 how're 1.13657e-29 it 6.24977e-30 hi 8.18112e-31
+align 8 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 did 0.522322 to 0.204357 do 0.198641 the 0.0746798
+align 2 the 1
+align 3 talaban 1
+align 4 hurt 0.93946 heard 0.0605403
+align 5 these 0.999396 the 0.000604266
+align 6 *DELETE* 0.999396 is 0.000427307 east 0.000176279 used 6.80438e-07
+align 7 teachers 0.997633 teachers' 0.00136923 teacher's 0.000997283
+align 8 *DELETE* 0.999719 i 0.000239096 to 1.14145e-05 uh 1.06696e-05 in 8.90083e-06 do 5.89144e-06 at 3.53479e-06 are 7.85378e-07 a 7.07616e-07 that 1.8571e-07 the 1.72277e-07 it 6.32975e-09 of 2.29265e-12
+align 9 </s> 1

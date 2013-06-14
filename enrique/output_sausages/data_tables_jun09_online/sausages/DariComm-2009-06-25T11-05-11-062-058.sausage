@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 rephrase 1
+align 4 the 0.993856 to 0.00582676 *DELETE* 0.000317624
+align 5 question 0.99927 questions 0.000598225 questioned 0.000131667
+align 6 *DELETE* 1 you 3.52946e-10 i 9.88125e-11 uh 5.56902e-12
+align 7 </s> 1

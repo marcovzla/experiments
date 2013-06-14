@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 like 1
+align 2 i 1
+align 3 said 0.997206 say 0.00279393
+align 4 i'm 1
+align 5 just 0.999996 to 3.93101e-06
+align 6 going 0.98443 go 0.0155662 school 3.93101e-06
+align 7 *DELETE* 0.999996 in 3.93101e-06
+align 8 through 0.985155 in 0.013577 to 0.00126758
+align 9 *DELETE* 0.986423 through 0.013577
+align 10 the 1
+align 11 procedures 1
+align 12 and 0.953097 in 0.0425763 of 0.00432705
+align 13 *DELETE* 0.897529 uh 0.0379179 on 0.0337999 um 0.0141747 them 0.0109867 the 0.00271724 work 0.0017952 then 0.00107944
+align 14 how 0.898766 and 0.0507964 on 0.0504376
+align 15 *DELETE* 0.898766 how 0.101234
+align 16 we 1
+align 17 are 1
+align 18 going 0.997651 *DELETE* 0.00234862
+align 19 to 0.997651 gonna 0.00234862
+align 20 stab 1
+align 21 us 0.853145 wish 0.120612 was 0.0105248 which 0.00859804 with 0.00708909 wished 3.05463e-05
+align 22 this 0.989412 to 0.0105877
+align 23 *DELETE* 0.989412 see 0.00867701 seize 0.00191074
+align 24 e._c._p. 0.989412 c._p. 0.0105877
+align 25 *DELETE* 1 i 7.54813e-11
+align 26 </s> 1

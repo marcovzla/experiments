@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 what 1
+align 5 do 0.973569 *DELETE* 0.0264314
+align 6 you 0.973569 the 0.0184006 to 0.00803082
+align 7 use 1
+align 8 a 0.998989 any 0.00101088
+align 9 splint 0.905804 split 0.0941958
+align 10 floor 0.868493 for 0.089331 *DELETE* 0.0420998 four 7.60437e-05 the 3.73482e-09
+align 11 *DELETE* 0.905979 work 0.0266963 before 0.0245529 more 0.0149437 flor 0.00780448 flour 0.00548809 or 0.00378256 war 0.00353959 four 0.00261062 flower 0.00134552 were 0.0012913 our 0.000564768 a 0.000289979 uh 0.000221402 poor 0.000219355 it 0.000174233 we're 0.000152564 you 0.000105505 i 7.07203e-05 her 5.55692e-05 former 4.96152e-05 in 2.49507e-05 floors 1.8324e-05 fore 9.77104e-06 that 2.73723e-06 them 2.31031e-06 the 1.35013e-06 at 1.22024e-06 is 6.0045e-07 me 3.65494e-07 an 1.6185e-07 and 1.52286e-07 for 3.73482e-09 to 3.89443e-10
+align 12 *DELETE* 0.999999 for 1.17891e-06
+align 13 </s> 1

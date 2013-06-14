@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 food 1
+align 5 do 1
+align 6 you 1
+align 7 grow 0.998424 go 0.001576
+align 8 on 0.998306 in 0.00169441
+align 9 the 0.99974 that 0.000259512
+align 10 farm 0.995754 form 0.00371761 far 0.000355603 farms 0.000167545 fire 5.17405e-06 four 3.02456e-07 floor 4.43572e-10 for 4.84865e-23
+align 11 </s> 1

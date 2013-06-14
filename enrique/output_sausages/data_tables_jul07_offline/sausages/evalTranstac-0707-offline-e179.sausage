@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 the 0.994093 a 0.00557057 to 0.000256076 that 8.03608e-05
+align 2 decision 1
+align 3 taxi 0.815748 to 0.184252
+align 4 *DELETE* 0.815315 actually 0.184252 you 0.000433589
+align 5 release 0.92751 *DELETE* 0.0670346 released 0.00545523
+align 6 him 0.915123 releasing 0.0670346 in 0.0124948 and 0.00483389 aim 0.000513956
+align 7 is 0.919813 it's 0.0726655 as 0.00355502 if 0.00119942 he's 0.00114721 his 0.00107411 its 0.000545359
+align 8 not 1
+align 9 in 1
+align 10 my 1
+align 11 hands 0.999976 hand's 2.42176e-05
+align 12 </s> 1

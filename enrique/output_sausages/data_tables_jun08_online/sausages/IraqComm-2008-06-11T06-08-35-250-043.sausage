@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 americans 0.999165 american's 0.000834504
+align 2 are 1
+align 3 here 1
+align 4 to 1
+align 5 help 1
+align 6 you 1
+align 7 *DELETE* 0.999129 uh 0.000870799 on 2.57891e-14
+align 8 </s> 1

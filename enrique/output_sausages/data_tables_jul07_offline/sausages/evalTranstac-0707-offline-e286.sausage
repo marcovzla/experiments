@@ -1,0 +1,52 @@
+numaligns 50
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 it 1
+align 3 would 1
+align 4 be 1
+align 5 *DELETE* 0.890058 um 0.109942
+align 6 uh 0.890058 *DELETE* 0.0840755 it 0.0258668
+align 7 *DELETE* 0.823246 it 0.176754
+align 8 would 0.869296 it'd 0.130704
+align 9 be 1
+align 10 *DELETE* 0.925083 a 0.0749169
+align 11 less 0.840254 a 0.159746
+align 12 *DELETE* 0.840254 less 0.159746
+align 13 likely 1
+align 14 that 1
+align 15 you 1
+align 16 would 1
+align 17 need 1
+align 18 to 1
+align 19 take 1
+align 20 them 0.962242 him 0.0377576
+align 21 aside 1
+align 22 for 1
+align 23 questioning 1
+align 24 *DELETE* 0.545304 and 0.423335 but 0.0263724 that 0.00498816
+align 25 if 1
+align 26 it's 1
+align 27 uh 0.9999 a 0.000100467
+align 28 if 1
+align 29 it's 1
+align 30 a 1
+align 31 man 1
+align 32 of 1
+align 33 military 1
+align 34 age 1
+align 35 and 0.969437 uh 0.030563
+align 36 *DELETE* 0.99828 uh 0.00172015
+align 37 *DELETE* 0.969437 and 0.030563
+align 38 he 1
+align 39 doesn't 1
+align 40 have 1
+align 41 any 1
+align 42 of 0.929098 is 0.0568302 *DELETE* 0.0135953 it 0.000476784
+align 43 this 0.790796 *DELETE* 0.209204
+align 44 paper 0.681373 *DELETE* 0.113689 those 0.108561 his 0.0832848 its 0.0121166 it's 0.000395473 pay 0.000369327 a 0.000105251 newspaper 0.000104826
+align 45 *DELETE* 0.999812 paper 0.000187778
+align 46 is 0.631958 papers 0.312342 as 0.0278568 us 0.0178427 newspapers 0.00459334 his 0.00279279 paper 0.000881506 it's 0.000480322 has 0.000413561 for 0.000369327 its 0.000216843 iz 0.000147643 this 0.000105242
+align 47 *DELETE* 0.998236 is 0.000812256 his 0.000297778 as 0.0001408 a 0.000137981 papers 0.000137706 i 0.000118557 uh 0.000105446 paper 9.89611e-06 in 3.44194e-06
+align 48 *DELETE* 0.99999 is 9.80604e-06 as 9.007e-08
+align 49 </s> 1

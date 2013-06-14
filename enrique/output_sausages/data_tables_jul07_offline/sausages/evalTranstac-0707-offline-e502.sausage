@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 sorry 1
+align 3 to 1
+align 4 hear 1
+align 5 that 1
+align 6 sir 1
+align 7 but 1
+align 8 it 0.999372 is 0.000607986 his 2.03896e-05
+align 9 seems 1
+align 10 like 1
+align 11 there 0.946828 they're 0.0380207 *DELETE* 0.0151516
+align 12 is 0.984841 there's 0.0151516 was 7.70126e-06
+align 13 pretty 1
+align 14 good 1
+align 15 evidence 1
+align 16 that 0.999143 and 0.000856663
+align 17 he 1
+align 18 was 1
+align 19 involved 1
+align 20 in 1
+align 21 insurgent 1
+align 22 activity 1
+align 23 and 0.646614 in 0.353386
+align 24 trying 0.995517 try 0.00448256
+align 25 to 0.993171 and 0.00448256 *DELETE* 0.00234671
+align 26 hurt 0.919186 heard 0.0568957 her 0.0140242 herd 0.00603426 occurred 0.00234671 curb 0.000863415 kurd 0.000649392
+align 27 both 1
+align 28 american 1
+align 29 and 1
+align 30 iraqi 1
+align 31 forces 1
+align 32 </s> 1

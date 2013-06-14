@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 you 0.475553 again 0.324379 yeah 0.124216 and 0.0281155 *DELETE* 0.0276074 in 0.0121953 he 0.00629667 we 0.00163604
+align 2 in 0.533187 *DELETE* 0.336575 and 0.130238
+align 3 the 1
+align 4 truck 1
+align 5 given 0.850589 driven 0.149411
+align 6 by 1
+align 7 the 1
+align 8 iraqi 1
+align 9 merchant 0.990607 merchants 0.00939281
+align 10 stops 0.996735 stop 0.00284855 stuff 0.000416718
+align 11 at 0.992683 so 0.00326527 of 0.00241037 it 0.00164119 that 1.00631e-10
+align 12 the 1
+align 13 syrian 1
+align 14 border 1
+align 15 crossing 1
+align 16 *DELETE* 0.999993 a 5.3561e-06 i 2.06304e-06
+align 17 </s> 1

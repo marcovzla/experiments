@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 we 0.682657 we've 0.17929 would 0.101758 we'd 0.0182313 *DELETE* 0.0180632
+align 2 mean 0.68944 been 0.188688 be 0.0965249 women 0.0180632 need 0.00470329 me 0.0025807
+align 3 getting 1
+align 4 complaints 1
+align 5 from 1
+align 6 the 1
+align 7 civilians 1
+align 8 that 1
+align 9 your 0.998841 you're 0.00115898
+align 10 men 1
+align 11 are 1
+align 12 using 0.997038 used 0.0028106 use 0.000151155
+align 13 *DELETE* 0.997038 in 0.0028106 and 0.000151155
+align 14 too 0.979302 two 0.0163226 to 0.00437544
+align 15 much 1
+align 16 sports 0.492192 force 0.491301 sports' 0.00716586 for 0.00576739 course 0.00357382 pour 1.5103e-15
+align 17 *DELETE* 0.99601 us 0.00399024
+align 18 on 0.998223 some 0.00135551 *DELETE* 0.000421647 sam 6.18977e-12
+align 19 them 0.997361 then 0.000765656 um 0.000422172 someone 0.000421542 loan 0.000394528 the 0.000326992 time 0.000227737 *DELETE* 8.01353e-05
+align 20 *DELETE* 0.999675 um 0.000142272 uh 7.29171e-05 though 5.27434e-05 that 2.63092e-05 him 1.94283e-05 in 5.66197e-06 to 2.92324e-06 home 1.55552e-06 on 9.77304e-07 somehow 1.05016e-07 i 5.76374e-08 something 2.98343e-10 and 9.89518e-13 those 5.22872e-18 one 2.82521e-24
+align 21 </s> 1

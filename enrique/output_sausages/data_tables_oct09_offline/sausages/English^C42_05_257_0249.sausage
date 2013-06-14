@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 uh 1
+align 4 *DELETE* 0.999992 uh 8.3246e-06
+align 5 have 1
+align 6 any 1
+align 7 security 1
+align 8 forces 1
+align 9 that 1 *DELETE* 5.92557e-19
+align 10 you 1 *DELETE* 5.92557e-19
+align 11 can 0.965502 could 0.0344976 chicken 1.15027e-17
+align 12 hire 1 higher 3.47601e-11
+align 13 for 1
+align 14 your 1
+align 15 workforce 0.997434 work 0.00256592
+align 16 *DELETE* 0.997434 force 0.00256592
+align 17 </s> 1

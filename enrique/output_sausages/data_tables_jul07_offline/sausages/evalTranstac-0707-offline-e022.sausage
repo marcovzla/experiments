@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 have 0.852238 if 0.147762
+align 4 you 0.996175 you're 0.00382539
+align 5 done 1
+align 6 this 1
+align 7 before 1
+align 8 </s> 1

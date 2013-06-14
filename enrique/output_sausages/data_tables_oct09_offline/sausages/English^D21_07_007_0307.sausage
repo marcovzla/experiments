@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 all 0.505342 well 0.469143 *DELETE* 0.00884061 oh 0.00827841 i'll 0.00801572 of 0.000380642
+align 2 the 0.968159 do 0.0122102 go 0.00758701 welcome 0.00377301 opel 0.00343721 that 0.00165664 although 0.00131117 *DELETE* 0.000745723 don't 0.000552709 open 0.000212018 to 0.000128952 okay 0.000107203 them 8.23609e-05 come 3.55117e-05 then 1.70957e-06
+align 3 morning 0.993789 mourning 0.00562552 warning 0.000583316 maureen 2.35429e-06 only 1.57543e-07 going 2.40957e-08
+align 4 *DELETE* 0.999874 i 0.00010697 uh 1.93224e-05
+align 5 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 age 1
+align 5 of 1
+align 6 your 0.824152 you 0.175775 *DELETE* 7.30069e-05
+align 7 youngest 0.999999 young 1.3881e-06 younger 4.20355e-08
+align 8 *DELETE* 0.999999 the 6.09023e-07 this 1.52749e-07 to 4.8364e-08
+align 9 son 0.999945 sun 5.22714e-05 on 1.9385e-06 disarm 5.77961e-07 gsayyan 6.69745e-14
+align 10 *DELETE* 0.999786 i 0.000132905 uh 8.10831e-05
+align 11 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 your 0.93507 you're 0.0649304
+align 2 safety 1
+align 3 should 1
+align 4 be 1
+align 5 off 1
+align 6 if 1
+align 7 the 1
+align 8 enemy 1
+align 9 is 1
+align 10 closer 1
+align 11 than 1
+align 12 two 0.98967 to 0.00945002 too 0.000879993
+align 13 blocks 0.998526 block 0.00146858 *DELETE* 5.20183e-06
+align 14 *DELETE* 0.999946 uh 4.43296e-05 blocs 5.20183e-06 i 4.96406e-06
+align 15 </s> 1

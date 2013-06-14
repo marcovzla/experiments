@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 way 1
+align 3 if 1
+align 4 they 0.999538 *DELETE* 0.000462137
+align 5 had 0.963269 uh 0.0286721 *DELETE* 0.00597746 have 0.00161934 they're 0.000462137
+align 6 vehicle 1
+align 7 decide 0.821923 decides 0.178077
+align 8 to 1
+align 9 turn 1
+align 10 around 1
+align 11 that 1
+align 12 seem 0.582153 team 0.416142 seemed 0.00115483 seems 0.000433136 teams 0.000117038
+align 13 to 1
+align 14 stop 1
+align 15 of 0.548926 a 0.259169 uh 0.0669775 um 0.042076 them 0.0415196 *DELETE* 0.0224637 oh 0.017906 it 0.000961519
+align 16 men 0.492159 man 0.380301 and 0.0835956 *DELETE* 0.0297173 amend 0.011606 manned 0.002621
+align 17 snatch 0.970283 man's 0.0172678 amounts 0.0108577 mans 0.00159177
+align 18 him 0.721839 them 0.247939 najem 0.020666 snatch 0.00649517 not 0.0025561 from 0.000504511
+align 19 *DELETE* 0.990949 him 0.00649517 some 0.0025561
+align 20 up 0.988139 uh 0.0114135 of 0.000447746
+align 21 as 1
+align 22 well 1
+align 23 </s> 1

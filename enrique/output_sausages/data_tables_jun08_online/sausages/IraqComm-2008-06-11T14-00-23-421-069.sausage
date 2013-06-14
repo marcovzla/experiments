@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.987724 i 0.0122759
+align 2 did 0.994307 do 0.00538851 that 0.000299187 if 5.45082e-06 *DELETE* 1.60043e-38
+align 3 they 1
+align 4 give 1
+align 5 you 1
+align 6 a 1
+align 7 reason 1
+align 8 for 1
+align 9 searching 1
+align 10 your 1
+align 11 house 1
+align 12 *DELETE* 1 is 7.2613e-10
+align 13 </s> 1

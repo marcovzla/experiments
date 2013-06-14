@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 think 1
+align 3 the 0.954752 this 0.0450241 that 0.000223734
+align 4 sign 0.788172 side 0.0637836 signed 0.0475404 site 0.046679 sides 0.0224668 science 0.0179069 signs 0.00691378 and 0.00303046 i 0.00220118 i'm 0.000934449 sight 0.000280308 item 5.73568e-05 is 3.38251e-05
+align 5 *DELETE* 0.999011 and 0.000723408 in 0.000265272
+align 6 should 1
+align 7 be 1
+align 8 placed 1
+align 9 further 0.998672 it 0.00132778
+align 10 *DELETE* 0.998672 further 0.00132778
+align 11 down 1
+align 12 the 1
+align 13 road 1
+align 14 *DELETE* 0.999955 uh 4.51354e-05
+align 15 </s> 1

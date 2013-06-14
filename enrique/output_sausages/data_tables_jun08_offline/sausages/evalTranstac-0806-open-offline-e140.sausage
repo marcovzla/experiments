@@ -1,0 +1,43 @@
+numaligns 41
+posterior 1
+align 0 <s> 1
+align 1 down 1
+align 2 at 1
+align 3 the 1
+align 4 uh 1
+align 5 we're 0.867363 were 0.12419 uh 0.00844667
+align 6 *DELETE* 0.991553 were 0.00685505 we're 0.00159162
+align 7 the 1
+align 8 the 0.943023 be 0.0481583 he 0.00881885
+align 9 council 0.998707 counsel 0.00129252
+align 10 building 1
+align 11 used 1
+align 12 to 1
+align 13 be 1
+align 14 uh 0.758138 um 0.241862
+align 15 they've 0.8601 they 0.139793 uh 0.000106929
+align 16 *DELETE* 0.999893 they 0.000106929
+align 17 *DELETE* 0.8601 have 0.1399
+align 18 established 1
+align 19 uh 1
+align 20 a 0.998387 oh 0.00108823 *DELETE* 0.000525182
+align 21 local 1
+align 22 town 1
+align 23 council 1
+align 24 there 0.99311 their 0.00467962 they're 0.00221056
+align 25 and 1
+align 26 they 1
+align 27 have 1
+align 28 uh 1
+align 29 pamphlets 0.998199 pant 0.00180073
+align 30 *DELETE* 0.998199 puts 0.00180073
+align 31 now 1
+align 32 that 0.784576 the 0.127188 they 0.0814913 though 0.00462517 to 0.00211973
+align 33 you 0.999529 *DELETE* 0.000471307
+align 34 can 1
+align 35 go 1
+align 36 there 1
+align 37 and 1
+align 38 get 1
+align 39 information 1
+align 40 </s> 1

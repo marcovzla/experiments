@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 no 0.998201 i 0.00179892
+align 2 *DELETE* 0.998201 know 0.00179892
+align 3 i'm 0.999591 i 0.000409205
+align 4 *DELETE* 0.999591 am 0.000409205
+align 5 sorry 1
+align 6 and 0.995644 *DELETE* 0.00435628
+align 7 i 1
+align 8 *DELETE* 0.995644 and 0.00435628
+align 9 *DELETE* 0.995644 i 0.00435628
+align 10 have 1
+align 11 uh 0.950563 *DELETE* 0.0494371
+align 12 uh 0.974021 um 0.0216443 *DELETE* 0.00433444
+align 13 *DELETE* 0.999834 uh 0.000166074
+align 14 i 1
+align 15 i 1
+align 16 *DELETE* 0.997899 i 0.00210123
+align 17 can 0.98895 can't 0.0110501
+align 18 help 1
+align 19 you 0.995001 *DELETE* 0.00499856
+align 20 with 0.656127 if 0.338875 his 0.00499856
+align 21 anything 1
+align 22 and 1
+align 23 i've 0.882686 i 0.117314
+align 24 i've 0.979818 have 0.0197973 i 0.000384594
+align 25 *DELETE* 0.999615 i've 0.000261987 have 0.000122607
+align 26 given 1
+align 27 you 0.917595 *DELETE* 0.0824053
+align 28 as 0.861726 is 0.138274
+align 29 much 1
+align 30 times 0.876223 sums 0.0656951 time 0.0517376 time's 0.00515865 sons 0.00055937 arms 0.000341677 runs 0.000144543 alms 0.000114599 arm's 2.57607e-05
+align 31 *DELETE* 0.948262 as 0.0517376
+align 32 i 0.998166 eye 0.00135904 that 0.000475348 like 7.98636e-09
+align 33 can 0.999443 can't 0.000556636 in 7.45604e-09 an 5.30315e-10
+align 34 spare 0.998405 spend 0.000833264 span 0.000219111 spell 0.000206172 spared 0.000188158 smell 9.33268e-05 spent 2.84396e-05 spirit 1.33672e-05 stand 5.27533e-06 stay 4.91439e-06 staff 2.59984e-06
+align 35 *DELETE* 0.997527 a 0.000457867 uh 0.000437214 of 0.000392712 up 0.000374254 i 0.000329356 in 0.000120292 it 0.00010369 oh 0.000101987 or 8.14263e-05 um 2.64347e-05 eye 2.34774e-05 on 8.21388e-06 if 4.88458e-06 an 3.96656e-06 i'm 2.47459e-06 are 1.95891e-06 o 1.30601e-06 us 9.49716e-07 i've 5.3509e-07 at 2.46965e-07 and 5.69321e-08
+align 36 </s> 1

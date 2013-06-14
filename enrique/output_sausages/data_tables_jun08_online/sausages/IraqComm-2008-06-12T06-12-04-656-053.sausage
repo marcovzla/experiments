@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 far 1
+align 3 away 1
+align 4 for 0.974145 should 0.0258547
+align 5 the 1
+align 6 first 1
+align 7 sign 0.905736 signed 0.0441825 time 0.0331418 side 0.0136066 line 0.00333325
+align 8 *DELETE* 0.986393 and 0.0136066
+align 9 be 0.898265 b 0.0880319 bee 0.0111891 bea 0.0023645 beat 0.00014916
+align 10 *DELETE* 0.999311 uh 0.000351326 a 0.000217552 i 8.07622e-05 in 3.98508e-05
+align 11 </s> 1

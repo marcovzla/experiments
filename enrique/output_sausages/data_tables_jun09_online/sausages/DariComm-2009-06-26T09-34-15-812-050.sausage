@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 medical 1
+align 6 personnel 0.903067 person 0.0969334
+align 7 to 0.814485 all 0.0969334 *DELETE* 0.0756106 that 0.0123233 of 0.000528764 uh 7.37163e-05 a 4.46385e-05 they 3.97555e-07
+align 8 *DELETE* 0.827456 the 0.172544
+align 9 help 0.847416 whole 0.125358 hope 0.0203586 i'll 0.00410337 hole 0.00275936 *DELETE* 4.61103e-06 up 5.67771e-08 how 1.45993e-08
+align 10 out 0.84291 power 0.134406 *DELETE* 0.0226836
+align 11 *DELETE* 0.970672 our 0.0176111 uh 0.0072204 are 0.00260916 hour 0.00118528 car 0.000456247 i 0.000137857 bar 7.89785e-05 to 2.28636e-05 about 4.61103e-06 a 1.45995e-06 the 1.12419e-11 if 9.31385e-12 part 4.06381e-15 by 2.37263e-17 allah 3.17006e-18 i'll 2.12936e-26
+align 12 *DELETE* 1 are 1.28883e-24
+align 13 </s> 1

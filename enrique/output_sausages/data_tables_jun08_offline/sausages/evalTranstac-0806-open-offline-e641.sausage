@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 additionally 1
+align 3 we'll 0.693995 will 0.306005
+align 4 be 1
+align 5 able 1
+align 6 to 1
+align 7 provide 1
+align 8 a 0.998712 the 0.00128849
+align 9 reaction 1
+align 10 force 1
+align 11 from 0.999725 form 0.000275418
+align 12 our 0.898534 are 0.101466
+align 13 bases 0.889817 base's 0.0752301 base 0.0341591 paces 0.000794338
+align 14 *DELETE* 0.965841 is 0.0341591
+align 15 and 0.933323 in 0.062646 an 0.00403116
+align 16 from 1
+align 17 the 1
+align 18 police 1
+align 19 station 1
+align 20 to 1
+align 21 assist 0.99986 *DELETE* 0.000139791
+align 22 in 0.99986 sustain 0.000139791
+align 23 your 0.999744 you're 0.000255884
+align 24 mission 0.999994 missions 6.08291e-06
+align 25 *DELETE* 0.999995 uh 5.13386e-06
+align 26 </s> 1

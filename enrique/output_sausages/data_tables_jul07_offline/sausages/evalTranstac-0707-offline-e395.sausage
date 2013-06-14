@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.59797 uh 0.38809 if 0.0139355 but 5.33375e-06
+align 3 *DELETE* 0.626254 we 0.362532 it's 0.0112145
+align 4 the 0.571884 had 0.252346 have 0.110175 *DELETE* 0.0602024 good 0.0053929 going 1.36303e-07
+align 5 bridge 0.626249 to 0.367168 *DELETE* 0.00656742 it's 1.50247e-05
+align 6 go 0.9935 *DELETE* 0.00539303 got 0.00101948 not 5.00745e-05 at 3.69046e-05 get 6.89927e-08
+align 7 through 0.99327 *DELETE* 0.00539303 their 0.00110652 to 0.000230474
+align 8 a 0.94814 *DELETE* 0.0343507 uh 0.0175091
+align 9 thing 0.994374 everything 0.0056257
+align 10 of 0.978366 are 0.0114322 out 0.00484334 uh 0.00387011 at 0.00108332 *DELETE* 0.00030348 i've 0.000101391
+align 11 the 0.999697 other 0.00030348
+align 12 basics 1
+align 13 *DELETE* 0.840951 first 0.154801 versa 0.00424802
+align 14 personally 0.798138 another 0.0758634 and 0.0701143 person 0.0224022 personnel 0.0137103 personality 0.00670099 in 0.00632645 never 0.0059173 a 0.000821788 to 5.70503e-06
+align 15 *DELETE* 0.910363 i 0.0896367
+align 16 *DELETE* 0.892111 like 0.0975793 other 0.00677732 i'm 0.00225632 never 0.000827493 making 0.00027565 everything 0.000172714
+align 17 you 0.729546 here 0.19979 need 0.0413266 get 0.0221695 it 0.00693829 if 0.000200457 hit 1.38515e-05 at 1.061e-05 thing 5.59082e-06
+align 18 to 0.999769 the 0.000224918 if 5.59082e-06
+align 19 *DELETE* 0.999994 the 5.59082e-06
+align 20 changing 1
+align 21 the 0.987791 *DELETE* 0.0122092
+align 22 oil 1
+align 23 *DELETE* 1 uh 2.53986e-07 i 2.22913e-07
+align 24 </s> 1

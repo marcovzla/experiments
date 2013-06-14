@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 they 1
+align 3 bring 1
+align 4 weapons 1
+align 5 with 1
+align 6 them 1
+align 7 *DELETE* 0.999958 uh 4.15333e-05 to 4.37094e-07 i 3.85796e-14 so 7.42304e-17
+align 8 </s> 1

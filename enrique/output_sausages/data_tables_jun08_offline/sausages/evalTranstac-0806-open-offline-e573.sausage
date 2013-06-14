@@ -1,0 +1,60 @@
+numaligns 58
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 first 1
+align 3 i'll 0.866919 uh 0.133073 up 8.88545e-06
+align 4 *DELETE* 0.998969 uh 0.00103146
+align 5 point 0.996825 *DELETE* 0.00317514
+align 6 here 0.59745 you're 0.361317 your 0.0380574 pointing 0.00317514
+align 7 in 0.923242 on 0.076758
+align 8 a 0.918521 the 0.0814789
+align 9 diagram 1
+align 10 *DELETE* 0.969039 of 0.0309611
+align 11 the 1
+align 12 uh 1
+align 13 the 1
+align 14 vehicle 1
+align 15 control 1
+align 16 point 1
+align 17 *DELETE* 0.665788 and 0.334212
+align 18 i 0.366476 like 0.324275 place 0.305689 placed 0.00143005 is 0.000978774 ties 0.000681775 by 0.00021818 choice 0.000192593 plays 5.68688e-05 places 1.08726e-06
+align 19 you 0.61519 can 0.375544 to 0.00505682 and 0.00420881
+align 20 see 1
+align 21 here 1
+align 22 we're 0.709494 were 0.290506
+align 23 we 1
+align 24 have 1
+align 25 the 1
+align 26 signs 1
+align 27 and 1
+align 28 then 1
+align 29 we 1
+align 30 have 1
+align 31 uh 0.916521 *DELETE* 0.0658116 a 0.0176678
+align 32 a 0.978546 uh 0.0782489
+align 33 *DELETE* 0.998308 uh 0.0016918
+align 34 serpentine 0.983563 *DELETE* 0.0159554 uh 0.000481735
+align 35 *DELETE* 0.996782 uh 0.00321841
+align 36 *DELETE* 0.983563 serpentine 0.0164372
+align 37 that 1
+align 38 will 0.982115 we'll 0.0178852
+align 39 slow 1
+align 40 the 1
+align 41 traffic 1
+align 42 before 1
+align 43 they 1
+align 44 come 1
+align 45 up 1
+align 46 to 1
+align 47 the 1
+align 48 uh 1
+align 49 where 0.792386 were 0.171493 or 0.0320351 we're 0.00279949 more 0.000763051 wear 0.000350044 would 0.000173421
+align 50 they 1
+align 51 will 1
+align 52 stop 1
+align 53 before 1
+align 54 they 0.994966 the 0.00502248 there 1.1772e-05
+align 55 are 0.998781 or 0.0012056 our 1.3147e-05
+align 56 searched 1
+align 57 </s> 1

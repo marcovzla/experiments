@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 years 0.992012 year 0.00686015 year's 0.000732803 use 0.000394803
+align 3 *DELETE* 0.99314 is 0.00686015
+align 4 did 0.953937 that 0.0443886 do 0.00167425
+align 5 you 0.999641 to 0.000359284
+align 6 live 0.999922 look 7.77759e-05
+align 7 in 0.999998 and 1.73393e-06
+align 8 pakistan 1
+align 9 </s> 1

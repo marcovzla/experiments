@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.999883 with 0.000117085
+align 2 do 1
+align 3 you 1
+align 4 inspect 1
+align 5 before 0.996014 the 0.00398593
+align 6 *DELETE* 0.995338 for 0.00392052 a 0.000676366 four 6.54145e-05
+align 7 patrol 1
+align 8 *DELETE* 0.999967 uh 2.52071e-05 i 6.642e-06 a 1.15747e-06
+align 9 </s> 1

@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 do 0.727058 they 0.173381 *DELETE* 0.0995611
+align 3 you 0.602214 *DELETE* 0.300577 the 0.0541655 we 0.0311522 he 0.0118906
+align 4 do 1
+align 5 you 1
+align 6 think 0.999989 take 1.12427e-05
+align 7 we're 0.999971 were 2.54417e-05 we 3.951e-06
+align 8 *DELETE* 0.980746 going 0.0192538
+align 9 gonna 0.980746 to 0.0192538
+align 10 have 1
+align 11 encounter 0.953367 a 0.0438402 encountered 0.00268722 any 0.000105233
+align 12 *DELETE* 0.956055 counter 0.0439454
+align 13 are 0.448105 uh 0.35407 out 0.128511 our 0.0472233 i 0.0167646 at 0.00242759 a 0.00127923 and 0.00112175 or 0.000308656 eye 0.00018914
+align 14 *DELETE* 0.961674 uh 0.0369744 of 0.00135153
+align 15 heavy 1
+align 16 resistance 1
+align 17 come 0.720534 coming 0.279466
+align 18 into 0.71636 to 0.279466 in 0.00372588 and 0.000447895
+align 19 *DELETE* 0.995826 to 0.00417377
+align 20 the 1 that 5.64027e-08
+align 21 town 0.999857 tile 0.000122895 towns 2.05805e-05
+align 22 *DELETE* 0.999989 uh 1.08341e-05 i 3.6344e-07
+align 23 </s> 1

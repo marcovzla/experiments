@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 lieutenant 0.988981 the 0.0109994 that 1.98927e-05
+align 2 *DELETE* 0.988981 tent 0.010933 tenant 4.706e-05 that 1.98927e-05 ten 1.93229e-05
+align 3 ahmed 0.950056 often 0.0306521 off 0.0190871 i 0.000198369 i'm 6.78147e-06
+align 4 *DELETE* 0.986393 and 0.0129954 in 0.000611889
+align 5 *DELETE* 0.950056 it 0.030754 mid 0.0139356 made 0.00525481
+align 6 was 1
+align 7 hurt 1
+align 8 the 1
+align 9 most 0.999951 mouse 4.85342e-05
+align 10 *DELETE* 0.999999 of 1.43466e-06
+align 11 </s> 1

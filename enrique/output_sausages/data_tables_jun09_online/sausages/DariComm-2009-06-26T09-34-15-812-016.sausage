@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 0.995652 *DELETE* 0.00434782
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 1
+align 7 the 1
+align 8 village 0.966248 villagers 0.033752
+align 9 *DELETE* 0.999083 uh 0.00055079 i 0.000184795 the 4.29273e-05 is 3.67311e-05 to 2.32701e-05 do 2.10567e-05 a 1.82171e-05 in 1.2724e-05 it 1.16325e-05 and 1.03681e-05 you 4.32966e-06 that 3.24914e-07 with 2.34538e-07 as 2.46129e-12 so 1.83647e-12 if 3.91584e-14
+align 10 </s> 1

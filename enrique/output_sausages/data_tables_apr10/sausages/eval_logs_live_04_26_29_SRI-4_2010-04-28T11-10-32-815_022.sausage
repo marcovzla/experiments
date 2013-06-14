@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999936 i 6.40306e-05
+align 2 we 1
+align 3 will 1
+align 4 also 1
+align 5 need 1
+align 6 to 1
+align 7 build 1
+align 8 a 0.97784 the 0.02216
+align 9 bridge 1
+align 10 do 0.711159 *DELETE* 0.288841
+align 11 you 0.711159 give 0.154912 *DELETE* 0.13393
+align 12 have 0.688252 me 0.13068 given 0.0884564 any 0.0471385 giving 0.0454735
+align 13 experience 0.99993 any 7.03162e-05
+align 14 *DELETE* 0.99993 experience 7.03162e-05
+align 15 building 1
+align 16 bridges 1
+align 17 *DELETE* 1 i 8.8867e-09
+align 18 </s> 1

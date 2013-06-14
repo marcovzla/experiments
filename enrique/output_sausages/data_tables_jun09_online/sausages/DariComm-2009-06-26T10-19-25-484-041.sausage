@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 money 1
+align 4 does 1
+align 5 the 1
+align 6 hospital 1
+align 7 need 1 *DELETE* 2.94374e-19
+align 8 *DELETE* 0.998346 uh 0.00164258 it 5.23217e-06 a 5.09607e-06 to 1.11517e-06 i 3.09517e-07 made 3.203e-17
+align 9 </s> 1

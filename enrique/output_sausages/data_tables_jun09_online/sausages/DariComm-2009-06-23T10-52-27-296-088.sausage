@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 yes 0.999137 okay 0.000863316
+align 2 sir 0.853245 her 0.146755
+align 3 medic 1
+align 4 will 0.696067 we'll 0.303933
+align 5 give 1
+align 6 you 1
+align 7 pain 1 and 8.9021e-12
+align 8 medication 1
+align 9 *DELETE* 0.994656 and 0.00309868 in 0.00182208 uh 0.000283053 i 9.9662e-05 is 1.97079e-05 now 1.36622e-05 to 6.74902e-06 if 9.26652e-12 um 4.17176e-18
+align 10 </s> 1

@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 what 0.982676 and 0.0121062 what's 0.00464881 in 0.00056888
+align 2 *DELETE* 0.987325 what 0.0126314 what's 4.3724e-05
+align 3 you're 0.691931 you 0.259107 do 0.0368104 your 0.0121511
+align 4 bringing 0.907132 you 0.0365564 *DELETE* 0.0296938 being 0.0266142 your 3.94969e-06
+align 5 *DELETE* 0.929767 bring 0.0500725 bringing 0.0159867 in 0.0039792 being 0.000194896
+align 6 *DELETE* 0.999826 and 0.0001221 in 5.16988e-05
+align 7 that 0.994789 in 0.00422269 *DELETE* 0.000987951
+align 8 *DELETE* 0.995777 that 0.00422269
+align 9 up 0.998106 i 0.000570296 data 0.000515605 that'll 0.000472346 help 0.000335373
+align 10 what 0.98791 we'll 0.0120455 *DELETE* 4.41214e-05
+align 11 type 0.994242 tell 0.00571389 *DELETE* 4.41214e-05
+align 12 of 0.985045 the 0.00769854 a 0.00721245 whatever 4.41214e-05
+align 13 security 1
+align 14 will 0.818429 well 0.0663261 what 0.065629 we'll 0.0460072 while 0.00360861
+align 15 we 1
+align 16 have 1
+align 17 for 1
+align 18 this 1
+align 19 facility 1 facilities 5.15041e-09
+align 20 *DELETE* 0.999999 uh 5.41496e-07
+align 21 </s> 1

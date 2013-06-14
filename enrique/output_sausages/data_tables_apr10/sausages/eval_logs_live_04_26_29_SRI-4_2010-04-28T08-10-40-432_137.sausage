@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 is 1
+align 3 the 1
+align 4 nearest 1
+align 5 afghani 0.987043 asking 0.0129573
+align 6 *DELETE* 0.987043 any 0.0110997 the 0.00185756
+align 7 national 1
+align 8 army 1
+align 9 base 1
+align 10 *DELETE* 0.999901 uh 9.76889e-05 i 6.68325e-07 if 3.61617e-07 in 3.53415e-07
+align 11 </s> 1

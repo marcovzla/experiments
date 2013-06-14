@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.998775 i 0.00122533
+align 3 will 1
+align 4 talk 1
+align 5 to 1
+align 6 my 1
+align 7 command 0.999601 commander 0.000399058
+align 8 and 1
+align 9 see 1
+align 10 if 1
+align 11 i 1
+align 12 can 1
+align 13 get 0.999325 give 0.00067473
+align 14 no 0.758399 not 0.132448 in 0.0401578 him 0.0362445 know 0.017729 a 0.00735006 my 0.00684031 them 0.000716861 it 0.000114034
+align 15 *DELETE* 0.915417 the 0.0299608 uh 0.027928 not 0.0144226 out 0.0122718
+align 16 more 1
+align 17 medical 1
+align 18 down 0.686054 done 0.304513 town 0.00585706 out 0.00156119 don't 0.00102878 in 0.000229127 gun 0.000176964 time 0.000102423 don 8.38933e-05 got 6.42322e-05 now 5.25885e-05 ton 4.42026e-05 um 4.11659e-05 found 3.77789e-05 around 3.63767e-05 dawn 2.92189e-05 dot 2.6157e-05 dung 2.06605e-05 on 1.14617e-05 uh 9.67836e-06 about 6.23293e-06 gone 6.02316e-06 not 4.19666e-06 tonne 2.87574e-06 donn 6.02371e-07 died 1.03944e-07 that 3.25467e-09 and 1.96652e-10 tongue 8.04185e-17 the 3.51334e-19
+align 19 here 0.999387 hear 0.00061257 *DELETE* 1.48786e-11
+align 20 *DELETE* 0.996809 uh 0.00266328 i 0.000410629 to 3.73896e-05 too 2.87386e-05 in 1.41113e-05 um 1.29919e-05 and 8.64907e-06 you 6.06154e-06 so 3.01163e-06 is 2.72631e-06 now 1.89518e-06 then 8.12526e-07 if 1.55476e-07 a 1.51776e-07 that 8.9683e-08 but 5.20561e-08 do 1.26801e-08 it 5.39469e-09 with 4.1594e-10 i'm 3.68876e-10 ear 1.9627e-10 oh 6.51801e-11 the 5.42327e-11
+align 21 </s> 1

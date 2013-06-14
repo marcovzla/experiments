@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 need 1
+align 3 to 1
+align 4 know 1
+align 5 is 0.984133 its 0.0158667
+align 6 or 0.574968 are 0.222497 our 0.104828 there 0.0977064
+align 7 tell 1
+align 8 them 1
+align 9 presence 0.921593 presents 0.0783599 *DELETE* 4.6947e-05
+align 10 *DELETE* 0.999697 uh 0.000189245 persons 4.6947e-05 in 4.29068e-05 is 9.94216e-06 i 7.55263e-06 to 5.36901e-06 and 5.85845e-07 you 1.26109e-08 it 4.8202e-12 present 1.57539e-12 at 6.96712e-13 person's 4.01287e-15
+align 11 </s> 1

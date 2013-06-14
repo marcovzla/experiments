@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 1
+align 3 thank 1
+align 4 you 1
+align 5 again 1
+align 6 and 0.999474 in 0.000526051
+align 7 uh 0.992212 now 0.00778814
+align 8 you 0.662788 uh 0.337212
+align 9 *DELETE* 0.662788 you 0.337212
+align 10 can 0.996081 could 0.00389688 *DELETE* 2.1989e-05
+align 11 be 1
+align 12 on 1
+align 13 your 0.998494 the 0.00150584
+align 14 way 1
+align 15 </s> 1

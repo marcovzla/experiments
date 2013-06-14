@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 are 0.950176 or 0.0486514 i 0.000868752 all 0.000204785 alright 9.86654e-05
+align 2 *DELETE* 0.998926 did 0.000868752 right 0.000204785
+align 3 any 1
+align 4 workers 0.81021 of 0.18978 workers' 1.02989e-05
+align 5 *DELETE* 0.835367 the 0.164633
+align 6 *DELETE* 0.81022 workers 0.189779 workers' 5.83693e-07
+align 7 at 1
+align 8 the 0.936514 this 0.0634856
+align 9 school 1
+align 10 involved 0.991569 and 0.00797803 *DELETE* 0.000355279 in 9.75532e-05
+align 11 *DELETE* 0.990125 involved 0.00595105 fall 0.00192228 in 0.00100051 uh 0.00044044 involve 0.000355279 vault 0.000202249 i 3.43651e-06 um 9.1537e-10 valve 2.18424e-10 to 1.45761e-21 follow 5.63115e-24
+align 12 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 for 1
+align 4 your 1
+align 5 uh 1
+align 6 thank 1
+align 7 you 1
+align 8 for 1
+align 9 the 1
+align 10 tea 0.999949 t 5.07158e-05
+align 11 *DELETE* 0.999993 i 7.10696e-06
+align 12 </s> 1

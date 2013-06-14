@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 we're 1
+align 2 *DELETE* 0.549427 going 0.450573
+align 3 gonna 0.549427 to 0.450573
+align 4 go 1
+align 5 ahead 1
+align 6 and 1
+align 7 uh 0.818798 um 0.181202
+align 8 right 0.961027 uh 0.0389728
+align 9 *DELETE* 0.961027 right 0.0389728
+align 10 now 1
+align 11 we're 0.977875 we'll 0.0220858 *DELETE* 3.92912e-05
+align 12 gonna 0.965941 we'll 0.0221552 going 0.0119338
+align 13 *DELETE* 0.988066 to 0.0119338
+align 14 go 1
+align 15 ahead 1
+align 16 and 0.978109 in 0.0218913
+align 17 go 0.604028 going 0.395972
+align 18 to 0.364203 into 0.298316 in 0.298183 *DELETE* 0.031769 on 0.00752856
+align 19 *DELETE* 0.662374 to 0.196981 too 0.073674 two 0.0668263 a 0.000145272
+align 20 if 0.999911 fair 8.93904e-05
+align 21 it 0.791998 *DELETE* 0.151673 there 0.0314152 he 0.024914
+align 22 is 0.786951 there's 0.0749325 was 0.0697284 it's 0.0678293 his 0.000558603
+align 23 just 1
+align 24 a 0.994217 the 0.0057833
+align 25 chest 1
+align 26 wound 1
+align 27 without 0.999752 of 0.00012269 it 9.96863e-05 in 2.098e-05 or 4.7414e-06
+align 28 *DELETE* 0.999752 without 0.000248098
+align 29 without 1
+align 30 a 0.561068 *DELETE* 0.217128 an 0.198287 in 0.0221775 our 0.00133868
+align 31 next 0.576874 annex 0.217128 *DELETE* 0.164959 x 0.0322735 neck 0.00582105 necks 0.00294483
+align 32 it 0.824252 exit 0.164836 sit 0.00334662 a 0.00331043 see 0.0021318 in 0.000866243 say 0.00034263 is 0.000297716 uh 0.000179806 accident 0.000123147 to 0.000102729 if 8.87494e-05 it's 7.38221e-05 eight 4.8337e-05
+align 33 well 0.912971 wound 0.0777481 will 0.0039362 it 0.00341246 won't 0.000529348 we'll 0.00041202 weld 0.000326631 wealth 0.000268163 while 5.85402e-05 wool 5.74568e-05 went 5.42297e-05 wells 5.31008e-05 wall 4.06209e-05 the 3.81912e-05 willing 2.70705e-05 world 1.76918e-05 wounds 1.14996e-05 willed 9.91119e-06 one 8.25579e-06 once 5.77016e-06 in 5.49966e-06 welds 5.11126e-06 would 1.4781e-06 want 1.08339e-06 with 1.01397e-07
+align 34 *DELETE* 0.989974 and 0.00560659 well 0.00345615 in 0.000410258 if 0.000370036 i 7.69158e-05 it 4.95864e-05 uh 4.44211e-05 of 6.56175e-06 it's 4.86192e-06 is 1.57087e-07 at 1.33799e-07 you 7.68918e-08 then 5.0351e-08 i'm 1.50296e-08 that 1.79044e-09
+align 35 </s> 1

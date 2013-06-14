@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 on 1
+align 2 the 1
+align 3 way 1
+align 4 to 1
+align 5 the 1
+align 6 objective 1
+align 7 can 1
+align 8 you 1
+align 9 think 1
+align 10 of 1
+align 11 any 1
+align 12 areas 0.998007 area's 0.00188725 area 0.000105413
+align 13 *DELETE* 0.999895 is 0.000105413
+align 14 that 1
+align 15 would 1
+align 16 be 1
+align 17 highly 1
+align 18 dangerous 1
+align 19 to 0.960782 two 0.0328876 too 0.00596301 see 0.000366955
+align 20 u._s. 1
+align 21 forces 1
+align 22 in 0.63918 and 0.354617 then 0.00286718 an 0.00279716 end 0.000524264 are 1.28472e-05 enter 1.16746e-06
+align 23 *DELETE* 0.999987 in 1.28472e-05 you're 3.27654e-07
+align 24 yourself 0.99992 your 7.89537e-05 self 1.49511e-06
+align 25 *DELETE* 0.999921 self 7.89537e-05
+align 26 </s> 1

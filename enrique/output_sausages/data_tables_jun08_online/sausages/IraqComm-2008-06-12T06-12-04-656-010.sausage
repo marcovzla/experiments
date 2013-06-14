@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 my 1
+align 3 name 1
+align 4 is 1
+align 5 lieutenant 1
+align 6 reid 0.999603 read 0.000268961 reed 0.000128467
+align 7 *DELETE* 0.999989 uh 1.14225e-05 if 3.57845e-13
+align 8 </s> 1

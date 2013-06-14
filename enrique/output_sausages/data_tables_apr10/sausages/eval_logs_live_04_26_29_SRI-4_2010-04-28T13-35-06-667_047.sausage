@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 clinics 1
+align 4 in 0.998698 and 0.00130231
+align 5 your 1
+align 6 village 1
+align 7 </s> 1

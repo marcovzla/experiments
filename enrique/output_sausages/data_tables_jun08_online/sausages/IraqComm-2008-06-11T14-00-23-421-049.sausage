@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 color 1
+align 5 of 1
+align 6 your 1
+align 7 house 1
+align 8 *DELETE* 0.998962 is 0.00103789 uh 1.35911e-10
+align 9 </s> 1

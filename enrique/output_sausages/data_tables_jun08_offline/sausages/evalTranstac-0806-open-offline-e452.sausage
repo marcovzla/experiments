@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 once 0.912162 what 0.0439258 want 0.0439117
+align 3 you 0.84986 you're 0.15014
+align 4 clear 0.972214 *DELETE* 0.0277861
+align 5 it 0.858903 at 0.113311 clara 0.0277861
+align 6 uh 1
+align 7 your 0.99864 you're 0.00136029
+align 8 second 1
+align 9 platoon 1
+align 10 can 1
+align 11 come 1
+align 12 in 1
+align 13 and 0.684658 uh 0.315342
+align 14 *DELETE* 0.684658 in 0.304611 uh 0.0107315
+align 15 *DELETE* 0.989269 in 0.0107315
+align 16 conduct 1
+align 17 a 1
+align 18 detailed 1
+align 19 search 1
+align 20 um 0.977913 uh 0.0220871 on 7.18475e-17
+align 21 and 0.660277 i 0.26486 in 0.0370268 uh 0.0269061 an 0.00455158 i'm 0.0029188 a 0.0025371 line 0.000896587 i._a. 2.63526e-05 you 7.18475e-17 iron 9.10776e-18 on 8.35707e-19
+align 22 *DELETE* 0.965674 and 0.0157047 in 0.0113892 i 0.00723186
+align 23 remove 1
+align 24 any 1
+align 25 um 0.845881 *DELETE* 0.126984 uh 0.027135
+align 26 uh 0.588646 *DELETE* 0.305146 a 0.105771 i 0.000436856
+align 27 detainees 1
+align 28 </s> 1

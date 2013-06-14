@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 do 1
+align 4 you 1
+align 5 need 1
+align 6 for 0.990884 four 0.00902677 *DELETE* 8.93926e-05
+align 7 new 0.914192 a 0.0819335 knew 0.00298195 nu 0.000665413 me 0.00013804 foreigner 8.93926e-05 near 1.06426e-13
+align 8 *DELETE* 0.918066 new 0.0819335
+align 9 well 0.999963 *DELETE* 3.68007e-05
+align 10 *DELETE* 0.999521 i 0.000302518 uh 0.000129991 will 3.32781e-05 if 7.82261e-06 we'll 3.52253e-06 it 1.57714e-06 um 1.5898e-07 do 2.45916e-08 you 3.60878e-10 and 4.46521e-11 in 4.0825e-11 is 3.27811e-11
+align 11 </s> 1

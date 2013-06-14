@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.599243 one 0.228027 but 0.147974 that 0.0239026 not 0.000601931 about 0.000251682
+align 2 house 0.928523 has 0.0411665 how 0.0291015 how's 0.00120854
+align 3 *DELETE* 0.970898 else 0.0291015
+align 4 do 1
+align 5 you 1
+align 6 live 1
+align 7 in 0.999369 *DELETE* 0.00063071
+align 8 *DELETE* 0.993808 it 0.00544809 here 0.00050899 at 0.00012172 in 0.000113347 an 8.29401e-12 a 1.24381e-21 and 1.00199e-22
+align 9 </s> 1

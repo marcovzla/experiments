@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 is 1
+align 3 the 0.977625 a 0.022375
+align 4 best 1
+align 5 answer 0.922923 i 0.0487904 *DELETE* 0.0189662 task 0.0049029 after 0.00316789 sense 0.00085751 answers 0.000303187 sensor 6.47829e-05 asking 1.90815e-05 sensors 2.54709e-06 is 2.20585e-06
+align 6 *DELETE* 0.932243 ask 0.0651759 answer 0.0025807
+align 7 *DELETE* 0.999355 you 0.000644706
+align 8 that 1
+align 9 i 1
+align 10 can 1
+align 11 give 1
+align 12 *DELETE* 0.999803 i 8.02616e-05 a 7.92655e-05 you 3.75518e-05
+align 13 </s> 1

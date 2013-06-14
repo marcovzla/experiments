@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 *DELETE* 0.999997 old 3.0223e-06
+align 3 some 1
+align 4 ralph 0.583276 route 0.197642 robbed 0.126736 rob 0.0657361 wrong 0.013445 raw 0.010884 routes 0.0021718 rough 0.000109304
+align 5 *DELETE* 0.995324 to 0.00419831 do 0.000477391
+align 6 your 0.998003 you're 0.0017198 pure 0.000272609 here 4.52162e-06 cure 6.58772e-08
+align 7 uh 1
+align 8 men 1
+align 9 doing 1
+align 10 today 1
+align 11 as 0.999914 this 4.49797e-05 it's 4.12539e-05 that's 5.76109e-15
+align 12 well 1 *DELETE* 3.49121e-13
+align 13 *DELETE* 0.999997 um 3.2651e-06 wall 6.94881e-10
+align 14 </s> 1

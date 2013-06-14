@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 live 1
+align 5 here 1
+align 6 *DELETE* 0.999889 uh 0.000109204 i 1.57705e-06
+align 7 </s> 1

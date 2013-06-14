@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 in 1
+align 2 order 1
+align 3 for 1
+align 4 me 0.740951 him 0.255424 them 0.00362559
+align 5 to 1
+align 6 give 1
+align 7 you 1
+align 8 any 0.87865 and 0.0402832 *DELETE* 0.0373731 in 0.0288918 who 0.0148021
+align 9 more 0.67299 my 0.301152 much 0.0152303 of 0.0106276
+align 10 *DELETE* 0.989372 my 0.0106276
+align 11 suggestions 1
+align 12 i 0.994704 *DELETE* 0.00529597
+align 13 just 0.994704 *DELETE* 0.00529597
+align 14 need 0.994704 addition 0.00529597
+align 15 to 0.99935 you 0.000649621
+align 16 get 1
+align 17 some 1
+align 18 more 1
+align 19 information 1
+align 20 *DELETE* 0.99173 uh 0.00826988
+align 21 on 0.999942 and 5.78317e-05
+align 22 the 0.999713 on 0.000286738
+align 23 *DELETE* 0.999713 the 0.000286738
+align 24 mission 0.999528 nation 0.000415277 missions 4.18721e-05 mentioned 1.53362e-05 *DELETE* 9.36278e-17
+align 25 *DELETE* 1 uh 2.50724e-07 mention 6.61655e-13
+align 26 </s> 1

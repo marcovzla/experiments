@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 0.999592 the 0.000408062
+align 5 plan 0.991181 planned 0.00881934
+align 6 for 0.697423 or 0.237484 to 0.0320761 the 0.0206174 a 0.010872 *DELETE* 0.00135433 per 0.000172941
+align 7 recruiting 1
+align 8 new 0.999841 the 0.000119563 'noud 2.30778e-05 knew 9.75947e-06 nude 6.52635e-06 nu 7.56164e-27
+align 9 guards 0.999442 *DELETE* 0.000284042 of 0.000274043 a 3.086e-07
+align 10 *DELETE* 0.999402 guards 0.000274352 guard's 0.000164146 guards' 0.000119896 it 2.71281e-05 uh 1.28463e-05 i 1.02777e-07
+align 11 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 you 0.590314 he 0.409686
+align 3 got 1
+align 4 shot 1
+align 5 right 1
+align 6 here 1
+align 7 where 0.999704 we 0.000296448 were 2.06787e-08
+align 8 *DELETE* 0.999504 i 0.000496115
+align 9 would 1
+align 10 you 1
+align 11 put 0.824409 pull 0.175591
+align 12 *DELETE* 0.952117 uh 0.0266566 out 0.0212262
+align 13 the 1
+align 14 tourniquet 1
+align 15 *DELETE* 0.999817 i 0.000150298 two 2.24394e-05 uh 9.49413e-06 on 2.78784e-07 if 2.66375e-07 in 2.21522e-07 you 1.0224e-07 and 2.00523e-12 is 3.71989e-13 a 3.20631e-14
+align 16 </s> 1

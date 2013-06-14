@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 get 1
+align 4 *DELETE* 0.909183 it 0.0908169
+align 5 from 1
+align 6 the 1
+align 7 river 1
+align 8 or 1
+align 9 do 1
+align 10 you 1
+align 11 have 1
+align 12 a 1
+align 13 well 1
+align 14 </s> 1

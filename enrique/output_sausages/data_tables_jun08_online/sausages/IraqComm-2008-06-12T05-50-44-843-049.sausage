@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 large 0.99681 a 0.00318952
+align 5 *DELETE* 0.99681 large 0.00318952
+align 6 animals 1
+align 7 do 0.996864 to 0.00279546 *DELETE* 0.0002826 that 5.81231e-05
+align 8 you 0.998087 your 0.00191276
+align 9 raise 0.997484 raised 0.00230474 rays 0.000211295
+align 10 on 0.998813 in 0.00117712 and 9.49248e-06
+align 11 this 1
+align 12 farm 0.999608 form 0.000392449 far 1.40337e-15
+align 13 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 place 0.568307 what 0.419181 *DELETE* 0.0125123
+align 3 *DELETE* 0.569882 i 0.430118
+align 4 do 0.460613 see 0.428196 to 0.103369 said 0.00192254 it 0.00177856 places 0.00157489 is 0.000755298 *DELETE* 0.000753568 in 0.000534414 if 0.000217007 of 0.000160789 at 0.000125218
+align 5 the 0.992963 that 0.00450465 at 0.00177856 other 0.000753568
+align 6 people 1
+align 7 go 1
+align 8 to 0.999796 *DELETE* 0.000204475
+align 9 get 1
+align 10 treatment 1
+align 11 *DELETE* 1 and 1.95201e-08 i 1.25272e-11 uh 1.2214e-13 at 7.90854e-14
+align 12 </s> 1

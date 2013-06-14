@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 repeat 1
+align 4 please 0.999551 place 0.00043148 *DELETE* 1.72819e-05
+align 5 *DELETE* 0.999794 do 0.000152847 uh 3.4056e-05 police 1.72819e-05 take 1.19432e-06 be 2.7303e-07 you 1.96814e-08
+align 6 </s> 1

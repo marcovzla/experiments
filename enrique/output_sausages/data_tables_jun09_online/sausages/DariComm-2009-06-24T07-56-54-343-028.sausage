@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 other 1
+align 6 problems 1
+align 7 with 1
+align 8 the 0.999895 a 0.000104733
+align 9 neighborhood 0.999673 *DELETE* 0.000327001
+align 10 *DELETE* 0.998086 uh 0.00158543 neighborhoods 0.000204839 neighborhood's 0.000122161 i 1.18429e-06
+align 11 </s> 1

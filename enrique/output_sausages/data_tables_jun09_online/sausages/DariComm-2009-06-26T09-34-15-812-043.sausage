@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 0.999688 *DELETE* 0.000312328
+align 2 *DELETE* 1 are 2.21142e-07
+align 3 is 0.999688 how's 0.000312328
+align 4 the 1
+align 5 security 1
+align 6 for 1
+align 7 the 1
+align 8 village 1
+align 9 *DELETE* 0.999922 uh 6.03498e-05 i 9.30379e-06 and 3.35152e-06 the 3.26802e-06 to 1.22458e-06 is 1.3707e-07 it 1.31985e-07 in 1.14782e-11 that 2.29239e-13
+align 10 </s> 1

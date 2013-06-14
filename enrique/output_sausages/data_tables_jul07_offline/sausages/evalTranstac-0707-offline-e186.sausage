@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 *DELETE* 0.999968 uh 3.23102e-05
+align 3 what 1
+align 4 is 1 does 4.83141e-09
+align 5 his 1
+align 6 name 1
+align 7 sir 1
+align 8 </s> 1

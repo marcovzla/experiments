@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 some 0.925897 *DELETE* 0.0741028
+align 4 uh 0.676234 will 0.180454 um 0.057107 of 0.0372354 someone 0.0364593 and 0.00945889 *DELETE* 0.0021431 on 0.000682788 won't 0.00022577
+align 5 *DELETE* 0.962357 some 0.0376435
+align 6 *DELETE* 0.962357 uh 0.0336368 of 0.00384044 on 0.000166228 the 1.75703e-08
+align 7 go 1
+align 8 ahead 1
+align 9 and 0.998313 *DELETE* 0.00168741
+align 10 walk 0.89431 *DELETE* 0.104003 in 0.00168741
+align 11 you 0.891706 walking 0.08601 walkie 0.0117474 walky 0.0079327 it 0.00260367
+align 12 through 0.911691 do 0.0460183 to 0.0340742 too 0.00669819 two 0.00151851
+align 13 the 1
+align 14 procedures 1
+align 15 on 0.969381 are 0.0306193
+align 16 how 1
+align 17 to 1
+align 18 do 1
+align 19 and 0.991882 it 0.0080996 with 1.85124e-05
+align 20 *DELETE* 0.996491 and 0.00350485 in 4.41258e-06
+align 21 how 0.995426 now 0.0045744
+align 22 *DELETE* 0.999965 how 3.54489e-05
+align 23 we 1
+align 24 want 0.968071 *DELETE* 0.0319288
+align 25 to 0.907801 *DELETE* 0.0921987
+align 26 run 0.904526 a 0.0509836 wanna 0.0319288 *DELETE* 0.0123691 are 0.000174161 of 1.22523e-05 our 5.81675e-06
+align 27 it 0.899102 running 0.0777917 run 0.01518 a 0.00443394 runny 0.00249553 at 0.000746062 *DELETE* 0.000179139 here 3.4293e-05 to 1.01194e-05 eight 7.61524e-06 in 7.43837e-06 right 5.14846e-06 i 2.58388e-06 that 2.05195e-06 any 1.7926e-06 write 3.99567e-07 they 1.5578e-09 the 8.04045e-10
+align 28 *DELETE* 0.984815 it 0.01518 a 4.17295e-06 running 9.52725e-07
+align 29 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.949718 we're 0.0275682 i 0.0206527 *DELETE* 0.00147231 we 0.000588384
+align 2 going 0.977518 want 0.0224465 go 3.53258e-05
+align 3 to 1
+align 4 ask 1
+align 5 you 1
+align 6 a 0.999916 *DELETE* 8.37241e-05
+align 7 few 1
+align 8 questions 1
+align 9 right 0.999292 were 0.000485467 we're 0.000187108 you 2.60394e-05 are 9.35369e-06 write 1.58896e-14 *DELETE* 7.77354e-15 road 3.17488e-17 ready 4.2071e-30
+align 10 *DELETE* 0.999974 are 2.60394e-05
+align 11 now 0.999994 *DELETE* 6.23038e-06
+align 12 *DELETE* 0.998613 uh 0.00138127 no 6.23026e-06 renault 1.17834e-10 not 1.30399e-12 i 1.93161e-13 know 5.58697e-30
+align 13 </s> 1

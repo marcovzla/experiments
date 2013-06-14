@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 so 0.93126 sir 0.0687401
+align 2 we're 0.996306 were 0.00369364
+align 3 trying 1
+align 4 to 1
+align 5 stabilize 0.999515 stable 0.000484614
+align 6 *DELETE* 0.999515 as 0.000484614
+align 7 our 0.590102 your 0.224029 a 0.170676 their 0.0126259 are 0.001153 the 0.000718902 her 0.000462931 that 0.00014089 it 3.85023e-05 you 2.19026e-05 you're 1.98391e-05 or 7.98649e-06 there 3.45087e-06 him 3.8799e-12
+align 8 country 0.999218 countries 0.000505503 country's 0.000276279
+align 9 *DELETE* 0.997362 uh 0.00225761 i 0.000154333 to 0.000146146 the 2.46719e-05 they 1.67828e-05 is 1.28328e-05 though 9.19689e-06 you 7.42809e-06 if 2.46897e-06 it 2.4262e-06 a 1.10752e-06 of 9.71937e-07 are 6.9015e-07 in 5.14229e-07 too 2.74578e-07 as 2.25787e-07 so 3.20267e-08 at 1.59876e-08 or 1.3313e-08
+align 10 </s> 1

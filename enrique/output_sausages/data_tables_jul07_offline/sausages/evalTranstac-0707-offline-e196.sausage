@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 he's 0.974472 he 0.0254573 you 7.07637e-05
+align 2 *DELETE* 0.974543 is 0.0254573
+align 3 going 1
+align 4 to 1
+align 5 be 1
+align 6 here 1
+align 7 in 0.452315 *DELETE* 0.416016 and 0.131668
+align 8 definitely 0.583984 indefinitely 0.416016
+align 9 until 1
+align 10 we 1
+align 11 understand 1
+align 12 uh 0.998407 the 0.00159312
+align 13 or 0.926536 we're 0.0343401 were 0.033971 oral 0.00515255
+align 14 learn 0.971056 a 0.0200276 lauren 0.0058536 one 0.00259377 earn 0.000469452
+align 15 *DELETE* 0.979972 learn 0.0200276
+align 16 more 1
+align 17 about 1
+align 18 what 1
+align 19 happened 0.999829 happen 0.000170697
+align 20 *DELETE* 0.996014 uh 0.00377262 i 0.000210169 a 2.41839e-06 to 4.61214e-07 the 4.39118e-07 my 8.51523e-08
+align 21 </s> 1

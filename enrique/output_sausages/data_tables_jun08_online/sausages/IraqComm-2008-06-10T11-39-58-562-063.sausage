@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 were 0.959436 are 0.0405638
+align 3 a 1
+align 4 farmer 0.998416 farm 0.000731956 a 0.000434917 *DELETE* 0.000417493
+align 5 *DELETE* 0.995807 or 0.0026791 farmer 0.000434917 former 0.000417493 are 0.000385244 were 0.000244366 i 3.2214e-05 uh 2.32889e-12 we're 1.10542e-12 her 4.0407e-14
+align 6 </s> 1

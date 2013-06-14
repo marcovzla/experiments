@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 he's 1
+align 3 going 0.505314 *DELETE* 0.494686
+align 4 to 0.505314 gonna 0.494686
+align 5 cover 1
+align 6 uh 1
+align 7 *DELETE* 0.97593 uh 0.0240696
+align 8 the 0.761428 uh 0.238572
+align 9 *DELETE* 0.984137 uh 0.0158627
+align 10 different 1
+align 11 types 1
+align 12 of 0.995587 a 0.00436023 the 5.23458e-05
+align 13 bleeding 1
+align 14 in 0.995308 and 0.00361338 *DELETE* 0.00107847
+align 15 a 0.568891 the 0.430027 any 0.00107847 of 4.03778e-06
+align 16 treatment 1
+align 17 for 1
+align 18 bleeding 1
+align 19 and 1
+align 20 uh 0.887418 um 0.112582
+align 21 wounds 0.585027 wound 0.407771 willing 0.00720159
+align 22 such 1
+align 23 as 0.999197 is 0.000803497
+align 24 that 0.999616 uh 0.000213009 a 0.000116266 at 5.51066e-05
+align 25 *DELETE* 0.999993 uh 5.68521e-06 i 1.67585e-06
+align 26 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 who 0.995786 *DELETE* 0.00421366
+align 2 is 0.995786 who's 0.00421366
+align 3 your 1
+align 4 second 0.969583 sacking 0.0286504 sector 0.00176617
+align 5 officer 0.997589 it 0.00174584 office 0.000484461 off 0.000181164
+align 6 *DELETE* 0.999813 the 0.000186759
+align 7 *DELETE* 0.9967 officer 0.00174584 sir 0.000665625 uh 0.000473751 i 0.000239847 in 4.176e-05 um 3.36194e-05 and 1.72955e-05 a 1.54817e-05 is 1.12673e-05 you 1.10367e-05 i'm 1.06982e-05 it 1.0365e-05 who 7.72694e-06 if 4.96012e-06 do 4.80792e-06 to 3.2865e-06 that 1.60615e-06 at 1.45162e-06 of 5.80218e-09 with 4.55388e-11 would 5.47223e-12
+align 8 </s> 1

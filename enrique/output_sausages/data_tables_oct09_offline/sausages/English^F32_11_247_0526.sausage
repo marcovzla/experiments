@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 way 1
+align 3 you 0.384126 they 0.309374 *DELETE* 0.293687 if 0.00837856 he 0.00342001 i 0.00101481 it 1.61423e-11
+align 4 could 0.498859 to 0.287969 can 0.204761 you 0.00837856 too 3.22576e-05
+align 5 use 1
+align 6 it 0.934728 of 0.0448397 a 0.0111051 if 0.00682005 in 0.0022522 an 0.000225362 and 2.28323e-05 this 6.95641e-06
+align 7 for 0.985018 four 0.0132406 or 0.00105086 *DELETE* 0.000690731
+align 8 cover 0.997047 covered 0.00218698 recovered 0.000690731 a 7.56881e-05
+align 9 *DELETE* 0.999505 it 0.00041885 cover 7.56881e-05 a 3.81884e-07
+align 10 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 0.999517 *DELETE* 0.000482535
+align 2 *DELETE* 0.999877 i 0.000122635
+align 3 am 0.999517 i'm 0.000482535
+align 4 well 1
+align 5 how 0.993478 *DELETE* 0.00652173
+align 6 is 0.993478 how's 0.00652173 was 3.30444e-07
+align 7 your 1
+align 8 family 1
+align 9 *DELETE* 0.999884 to 7.3417e-05 uh 4.15893e-05 if 3.84002e-07 is 2.32661e-07 i 2.23238e-07
+align 10 </s> 1

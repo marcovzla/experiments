@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.997683 i 0.00231689
+align 2 i'd 0.999898 *DELETE* 0.000102242
+align 3 like 1
+align 4 to 1
+align 5 see 1
+align 6 your 1
+align 7 driver's 0.982528 drivers 0.0174723
+align 8 license 1
+align 9 or 1
+align 10 contract 1
+align 11 paperwork 0.99968 paper 0.000317834 people 2.1353e-06
+align 12 *DELETE* 0.998646 uh 0.00100432 work 0.00031997 i 2.9298e-05
+align 13 </s> 1

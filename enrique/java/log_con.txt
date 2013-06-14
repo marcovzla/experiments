@@ -1,0 +1,16 @@
+java -cp .:mallet.jar:mallet-deps.jar CRFContinuousTest ../processed_data/train_con.txt ../processed_data/test_con.txt
+State #0 "X"
+initialWeight=0.0, finalWeight=0.0
+#destinations=2
+-> X
+-> O
+State #1 "O"
+initialWeight=0.0, finalWeight=0.0
+#destinations=2
+-> X
+-> O
+State #2 "<START>"
+initialWeight=0.0, finalWeight=0.0
+#destinations=2
+-> X
+-> O

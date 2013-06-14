@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 why 0.981858 lock 0.0100994 wow 0.00245614 *DELETE* 0.00184386 walk 0.00175006 war 0.00136231 i 0.000629685 well 1.02977e-07
+align 2 *DELETE* 0.997517 want 0.00108644 lot 0.000949668 one 0.000360268 y 7.52351e-05 i 8.64118e-06 why 2.03204e-06 are 2.20414e-07 wai 2.67136e-09 you 6.26047e-10 do 1.46465e-14
+align 3 </s> 1

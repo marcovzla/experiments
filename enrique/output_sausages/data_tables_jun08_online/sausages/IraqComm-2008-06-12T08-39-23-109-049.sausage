@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.985818 is 0.0141821
+align 2 this 0.996455 it's 0.00325544 his 0.000222249 its 4.52494e-05 *DELETE* 2.20123e-05
+align 3 is 0.983145 *DELETE* 0.014383 it's 0.00210792 as 0.000364353
+align 4 a 0.943301 apartment 0.0325328 the 0.0241208 department 4.50726e-05
+align 5 *DELETE* 0.999999 it's 5.27398e-07
+align 6 *DELETE* 0.999999 a 5.27398e-07
+align 7 problem 0.967422 *DELETE* 0.0319435 or 0.000634415
+align 8 there 0.353082 our 0.293134 uh 0.142012 or 0.0984395 now 0.0809265 other 0.0143359 they're 0.0134781 nor 0.00388494 *DELETE* 0.000706891
+align 9 with 0.998044 *DELETE* 0.00188312 i 7.24754e-05
+align 10 *DELETE* 0.99604 the 0.00200443 would 0.00193849 wood 1.70856e-05
+align 11 insurgents 1 wooden 2.21064e-08 *DELETE* 1.15375e-14
+align 12 *DELETE* 0.999669 uh 0.000307012 you 2.40672e-05 insurgents' 1.3738e-07 insurgence 3.88575e-08 sergeants 2.21064e-08 in 3.29738e-18
+align 13 </s> 1

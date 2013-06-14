@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 0.992574 *DELETE* 0.00694415 did 0.000481819
+align 2 they 1
+align 3 have 1
+align 4 the 1
+align 5 capabilities 1
+align 6 to 1
+align 7 reinforce 0.937244 reinforced 0.0627558
+align 8 their 0.921906 there 0.0448835 they're 0.0311135 they 0.00122376 *DELETE* 0.000873411
+align 9 *DELETE* 0.987625 are 0.011451 there're 0.000873411 or 2.75305e-05 in 2.30484e-05
+align 10 numbers 0.999829 number's 0.000171185
+align 11 </s> 1

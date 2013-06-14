@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 and 0.696009 *DELETE* 0.297165 i'm 0.00682576
+align 2 in 0.422397 *DELETE* 0.223572 and 0.212726 i 0.113218 an 0.028086
+align 3 *DELETE* 0.976369 mean 0.0137783 i 0.00985292
+align 4 understand 0.725784 in 0.139596 an 0.0760687 and 0.0585518
+align 5 *DELETE* 0.725784 understand 0.274216
+align 6 can 1
+align 7 you 1
+align 8 repeat 1
+align 9 that 1
+align 10 *DELETE* 0.999902 it 8.55202e-05 i 1.17522e-05 uh 5.99118e-07
+align 11 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 adequate 0.921154 uh 0.0742208 a 0.00462523
+align 8 *DELETE* 0.921154 adequate 0.0788461
+align 9 water 1
+align 10 *DELETE* 0.998679 or 0.00131748 are 3.72643e-06
+align 11 </s> 1

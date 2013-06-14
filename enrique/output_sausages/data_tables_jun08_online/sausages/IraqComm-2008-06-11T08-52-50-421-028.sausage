@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 plan 0.620282 plant 0.379069 *DELETE* 0.000649215
+align 3 is 0.999351 planet 0.000649215
+align 4 supposed 0.996758 suppose 0.00324203
+align 5 to 1
+align 6 be 1
+align 7 fully 1
+align 8 operational 1
+align 9 by 0.954932 bye 0.031906 buy 0.0129514 bite 0.000114546 bind 9.63528e-05 bayn 3.29005e-12
+align 10 now 0.999282 no 0.000534642 out 8.67192e-05 *DELETE* 5.01973e-05 a 4.64491e-05
+align 11 *DELETE* 0.999903 now 4.64491e-05 know 3.54538e-05 mouth 1.42422e-05 down 4.88319e-07 uh 2.48132e-07 our 1.29642e-08 i 7.29404e-10 hour 1.98564e-12 i'm 7.67396e-14 narrow 6.29281e-15 um 5.39008e-15 and 2.0652e-16
+align 12 </s> 1

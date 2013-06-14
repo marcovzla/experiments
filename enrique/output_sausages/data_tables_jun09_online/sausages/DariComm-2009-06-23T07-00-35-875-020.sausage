@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 can 0.46507 uh 0.290932 um 0.165194 *DELETE* 0.0264419 or 0.0258177 and 0.0153095 i 0.00989068 a 0.000806984 it 0.000537035
+align 2 *DELETE* 0.932923 i 0.0661952 it 0.000881558
+align 3 *DELETE* 0.999843 i 0.000157149
+align 4 can 0.53493 *DELETE* 0.46507
+align 5 you 1
+align 6 say 1
+align 7 again 0.999883 there 6.33362e-05 that 4.24626e-05 *DELETE* 8.21448e-06 it 2.72212e-06
+align 8 *DELETE* 0.999918 i 4.46368e-05 uh 1.94226e-05 in 1.00064e-05 gang 7.85621e-06 game 3.58276e-07 they're 2.82168e-15
+align 9 </s> 1

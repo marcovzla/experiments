@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 year 1
+align 3 were 1
+align 4 you 1
+align 5 born 1
+align 6 *DELETE* 0.998378 in 0.00161424 i 4.52645e-06 at 2.75072e-06
+align 7 </s> 1

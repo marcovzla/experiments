@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 is 1
+align 3 your 1
+align 4 facilities 0.781906 facility's 0.147788 facility 0.0703054
+align 5 *DELETE* 0.929695 is 0.0703054
+align 6 it 0.911786 if 0.0415246 and 0.0224866 that 0.0154483 *DELETE* 0.00538829 in 0.00325293 a 0.000112919
+align 7 is 0.926276 *DELETE* 0.0415246 if 0.0321997
+align 8 there 0.997738 or 0.0021855 they're 6.29258e-05 their 1.3953e-05
+align 9 any 1
+align 10 problems 1
+align 11 were 0.678317 where 0.166823 we're 0.146822 word 0.00729769 *DELETE* 0.000740071
+align 12 in 0.29566 at 0.285261 you 0.26605 *DELETE* 0.0658957 are 0.0369008 is 0.0254313 you're 0.0162451 your 0.0056458 if 0.00174843 worth 0.000740071 of 0.000422125
+align 13 your 0.682589 or 0.165429 *DELETE* 0.123126 you 0.028855
+align 14 *DELETE* 0.972855 or 0.027145
+align 15 live 0.706423 *DELETE* 0.143767 are 0.0989056 lived 0.0459554 were 0.00342477 leg 0.000909243 you're 0.000584488 girl 3.04979e-05
+align 16 in 0.749916 living 0.246712 and 0.00337149
+align 17 areas 0.994942 the 0.00172154 in 0.00171963 a 0.000715549 *DELETE* 0.00061796 area 0.000283033 to 2.98491e-08
+align 18 *DELETE* 0.99486 areas 0.00415674 area's 0.00061796 is 0.000192243 as 7.67994e-05 i 5.55653e-05 uh 2.6121e-05 has 1.39908e-05 in 1.30006e-07 um 5.42394e-08 to 4.38968e-08 area 4.27325e-09
+align 19 *DELETE* 1 is 4.27325e-09 us 1.07224e-10 if 4.75514e-13
+align 20 </s> 1

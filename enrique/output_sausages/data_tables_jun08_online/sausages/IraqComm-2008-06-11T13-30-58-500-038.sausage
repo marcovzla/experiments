@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 were 1
+align 2 there 1
+align 3 any 1
+align 4 guards 0.999877 guards' 0.000122563
+align 5 *DELETE* 1 i 1.16522e-09
+align 6 </s> 1

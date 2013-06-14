@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 only 0.827104 don't 0.172896
+align 3 *DELETE* 0.827222 like 0.158707 we 0.0123029 leave 0.00176745
+align 4 *DELETE* 0.999929 to 7.14662e-05
+align 5 take 1
+align 6 up 0.999966 upper 3.43503e-05
+align 7 one 0.999944 won 5.58709e-05
+align 8 room 0.999691 rule 0.000309443
+align 9 *DELETE* 0.999948 i 2.75102e-05 uh 2.48386e-05 is 7.70712e-09
+align 10 </s> 1

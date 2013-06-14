@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 questions 1
+align 6 for 0.995756 from 0.00424401
+align 7 me 1
+align 8 *DELETE* 0.999857 um 0.000106892 uh 3.47418e-05 i 1.44827e-06
+align 9 </s> 1

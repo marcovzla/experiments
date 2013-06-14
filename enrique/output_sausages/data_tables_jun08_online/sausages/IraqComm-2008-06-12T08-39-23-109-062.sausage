@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 in 0.43827 you 0.314247 *DELETE* 0.221858 yeah 0.0229776 they 0.00213633 did 0.000472693 if 3.67269e-05 and 2.19605e-06
+align 2 the 0.510244 know 0.316383 a 0.133615 they 0.0235515 no 0.0115446 *DELETE* 0.00466191
+align 3 *DELETE* 0.788591 name 0.210251 are 0.00115779
+align 4 other 0.951596 their 0.0316088 there 0.0130442 they're 0.00228539 of 0.000799757 they 0.000460177 *DELETE* 0.000193301 that 1.20622e-05
+align 5 *DELETE* 0.998611 the 0.000993057 are 0.000382011 were 1.42916e-05
+align 6 needs 1
+align 7 *DELETE* 0.997488 uh 0.00243825 a 7.33537e-05 to 6.57008e-07 i 2.02682e-07
+align 8 </s> 1

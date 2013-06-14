@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 correct 1
+align 4 that's 0.99957 *DELETE* 0.000429895
+align 5 what 0.986679 *DELETE* 0.0128915 this 0.000429895
+align 6 i'll 0.747067 we'll 0.141879 will 0.108642 what'll 0.00219545 i 0.000216827
+align 7 *DELETE* 0.999783 will 0.000216827
+align 8 be 1
+align 9 going 0.998868 doing 0.00113163
+align 10 over 0.997485 or 0.00250552 our 8.54283e-06 hour 1.41342e-06 were 1.09766e-09
+align 11 *DELETE* 0.999982 uh 1.77976e-05 a 2.01685e-07 our 3.12303e-08
+align 12 </s> 1

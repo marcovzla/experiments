@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 happened 1
+align 3 your 0.969107 you're 0.0242774 here 0.00660295 year 1.24482e-05 near 3.21918e-10 there 3.15172e-10
+align 4 brother 1
+align 5 *DELETE* 0.999819 uh 0.000114861 i 4.07203e-05 in 1.69985e-05 do 4.54792e-06 is 3.60993e-06 a 8.78908e-08
+align 6 </s> 1

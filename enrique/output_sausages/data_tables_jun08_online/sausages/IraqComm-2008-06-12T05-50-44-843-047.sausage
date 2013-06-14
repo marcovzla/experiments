@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 is 1
+align 3 business 1
+align 4 these 1
+align 5 days 0.984142 *DELETE* 0.00896834 there 0.00688928 that 3.32223e-23
+align 6 *DELETE* 0.983482 is 0.00683799 guys 0.00363479 theirs 0.00280319 there's 0.00253036 uh 0.000711129 i 7.20717e-08 they 1.0889e-12 this 1.36517e-27
+align 7 </s> 1

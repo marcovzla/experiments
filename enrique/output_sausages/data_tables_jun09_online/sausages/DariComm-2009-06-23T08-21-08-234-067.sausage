@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 seen 1
+align 4 people 1
+align 5 sell 1
+align 6 drugs 1
+align 7 like 1
+align 8 for 0.98441 four 0.0155896
+align 9 the 1
+align 10 talaban 1
+align 11 going 0.999869 low 8.33831e-05 *DELETE* 4.72555e-05
+align 12 *DELETE* 0.999911 i 3.99968e-05 let 1.94519e-05 like 1.22262e-05 le 9.02672e-06 lay 6.3131e-06 a 1.51593e-06 light 1.49878e-07 go 8.76465e-08
+align 13 *DELETE* 1 a 5.3549e-10 i 1.04036e-10
+align 14 </s> 1

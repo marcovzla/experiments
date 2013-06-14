@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 0.999883 *DELETE* 0.000117414
+align 2 are 1
+align 3 you 1
+align 4 doing 1
+align 5 today 1
+align 6 *DELETE* 0.99966 uh 0.00034004
+align 7 </s> 1

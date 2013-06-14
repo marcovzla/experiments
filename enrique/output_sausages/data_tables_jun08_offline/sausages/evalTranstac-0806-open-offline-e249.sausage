@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 should 1
+align 2 uh 1
+align 3 make 1
+align 4 everyone 0.999816 every 0.000183934
+align 5 will 0.794534 *DELETE* 0.18561 we'll 0.0196725 one 0.000183934
+align 6 trained 0.805991 well-trained 0.185794 train 0.00821536
+align 7 so 1
+align 8 that 0.942294 that's 0.0576461 let 6.01665e-05
+align 9 something 1
+align 10 like 1
+align 11 that 1
+align 12 that's 0.544657 does 0.455343
+align 13 not 1
+align 14 happen 1 happening 6.06939e-13
+align 15 again 1 then 7.52822e-21
+align 16 </s> 1

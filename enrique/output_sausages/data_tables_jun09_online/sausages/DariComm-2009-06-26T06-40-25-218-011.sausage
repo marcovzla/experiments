@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 0.968916 *DELETE* 0.0308158 i 0.000268573
+align 2 can 0.966239 *DELETE* 0.0334577 pay 0.000302872
+align 3 *DELETE* 0.999744 pay 0.00025561
+align 4 you 0.86978 *DELETE* 0.0817046 computer 0.0308158 i 0.0150479 cater 0.00259202 peter 4.66037e-05 can 1.29629e-05
+align 5 *DELETE* 0.999984 i 1.29629e-05 counter 3.25895e-06
+align 6 play 0.986351 playing 0.00581154 lay 0.00309452 plate 0.00203181 say 0.00153063 place 0.000406588 buy 0.000397227 pray 0.000197742 pay 0.000108293 to 7.05975e-05
+align 7 *DELETE* 0.999809 a 8.43054e-05 play 7.05975e-05 i 3.64306e-05
+align 8 instructions 0.927934 a 0.0720663
+align 9 *DELETE* 0.927374 instructions 0.0720663 i 0.000242519 to 0.000208644 do 5.26472e-05 you 2.73816e-05 and 1.08471e-05 in 9.39594e-06 too 4.32916e-06 are 1.53973e-06 uh 1.20488e-06 it 6.31929e-07 that 3.11328e-07 a 2.87101e-07 so 2.42664e-14
+align 10 </s> 1

@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 medical 0.865023 the 0.0823547 in 0.052622
+align 2 *DELETE* 0.865023 medical 0.134977
+align 3 supplies 1
+align 4 do 0.978882 *DELETE* 0.021118
+align 5 you 0.978259 the 0.0133748 via 0.00774316 *DELETE* 0.000623307
+align 6 is 1
+align 7 there 1
+align 8 any 1
+align 9 at 0.930688 uh 0.0693121
+align 10 least 0.909748 nice 0.0485787 lease 0.039465 these 0.0022086
+align 11 inside 1
+align 12 the 1
+align 13 within 0.996246 with 0.00360524 weapon 0.000148639
+align 14 *DELETE* 0.996395 in 0.00360524
+align 15 the 0.999759 a 0.000240564 this 5.51626e-08
+align 16 city 0.999999 sitting 5.09752e-07 siti 1.95321e-08
+align 17 *DELETE* 1 i 2.13397e-10
+align 18 </s> 1

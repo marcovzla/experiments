@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.998925 uh 0.00107506
+align 3 i 1
+align 4 will 0.966379 i 0.033621
+align 5 *DELETE* 0.966379 will 0.033621
+align 6 bring 1
+align 7 more 0.985331 in 0.0146687
+align 8 *DELETE* 0.985331 more 0.0146687
+align 9 help 0.999707 helped 0.000291545 *DELETE* 1.18819e-12
+align 10 *DELETE* 0.99879 uh 0.000482133 you 0.000336619 i 0.000213588 them 8.86359e-05 us 7.15885e-05 if 5.52798e-06 and 5.23275e-06 with 5.044e-06 helps 1.26708e-06 to 4.90448e-07 it 9.42565e-08 um 6.4574e-09 health 5.75717e-09 me 7.61094e-11 is 2.15851e-12 a 4.78741e-14
+align 11 </s> 1

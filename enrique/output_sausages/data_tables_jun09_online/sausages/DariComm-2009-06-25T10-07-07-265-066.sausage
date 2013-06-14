@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 where 0.654617 *DELETE* 0.261407 what 0.0839757
+align 2 is 0.738588 where's 0.253914 was 0.00749821
+align 3 the 1
+align 4 main 1
+align 5 medical 1
+align 6 problems 1
+align 7 in 0.999727 *DELETE* 0.000231121 and 4.16737e-05
+align 8 this 0.974031 the 0.0257364 and 0.000231121 *DELETE* 1.5701e-19
+align 9 village 1
+align 10 *DELETE* 0.999982 i 1.81197e-05 uh 4.43415e-16
+align 11 </s> 1

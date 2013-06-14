@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 would 0.990129 were 0.00987113
+align 3 *DELETE* 0.999991 or 8.87272e-06
+align 4 open 0.989639 opened 0.00611454 up 0.00258263 i 0.00166362
+align 5 *DELETE* 0.995754 in 0.00258263 opened 0.000964756 open 0.000698863
+align 6 the 0.999313 to 0.000408943 that 0.00027777
+align 7 tourniquet 0.995683 time 0.00366926 trying 0.000647433
+align 8 *DELETE* 0.995701 to 0.00429877
+align 9 *DELETE* 0.993292 get 0.0042987 at 0.00119901 it 0.000820863 i 0.000198802 uh 7.33664e-05 is 3.95713e-05 if 3.92559e-05 that 1.39601e-05 okay 1.21261e-05 a._k. 5.83997e-06 in 5.38249e-06 you 1.34547e-06
+align 10 *DELETE* 0.999999 you 7.01549e-07 do 2.77205e-07 to 2.77068e-07 on 1.42865e-07 care 3.27647e-08 a 2.93437e-10 and 1.89513e-10 the 5.53246e-11 but 5.10773e-11 can 6.56992e-13
+align 11 </s> 1

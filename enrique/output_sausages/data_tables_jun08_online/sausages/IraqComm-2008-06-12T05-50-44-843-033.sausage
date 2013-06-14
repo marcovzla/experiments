@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 are 0.999997 uh 3.37053e-06 of 3.00724e-10
+align 2 the 1
+align 3 people 1
+align 4 happy 1
+align 5 to 0.999234 the 0.000765522 they'll 3.60108e-08
+align 6 work 1 *DELETE* 7.56159e-25
+align 7 in 0.64867 on 0.350212 *DELETE* 0.000567356 and 0.000550023 i 2.04983e-07
+align 8 the 0.853842 your 0.142495 a 0.00293582 any 0.000566852 *DELETE* 0.000103096 you 2.62913e-05 here 2.2298e-05 to 8.74165e-06 every 5.04057e-07 need 2.04983e-07 it 2.24766e-09 working 1.83471e-20
+align 9 farm 0.994312 form 0.00338399 far 0.00102596 fire 0.000474928 for 0.000206655 farms 0.000195338 father 0.00015681 four 7.69516e-05 phone 5.71834e-05 file 5.08073e-05 or 1.63267e-05 firm 1.22327e-05 farah 1.06185e-05 further 8.72441e-06 fun 4.30155e-06 floor 4.01237e-06 foreign 2.12376e-06 before 7.70125e-07 flour 6.22141e-07 from 3.28801e-08 final 1.41026e-09 farmed 1.62347e-11 fund 1.38557e-12 *DELETE* 1.53757e-18 if 1.83471e-20
+align 10 *DELETE* 1 i 3.23283e-15 five 1.2861e-15 i'm 1.83471e-20 farmer 7.7934e-22
+align 11 </s> 1

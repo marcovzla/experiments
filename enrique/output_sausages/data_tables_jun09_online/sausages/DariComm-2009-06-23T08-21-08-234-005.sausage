@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 0.999503 computers 0.000497392
+align 2 play 0.525691 what 0.457941 quite 0.0149382 place 0.000936657 plane 0.000185787 played 0.00013612 plain 0.000110695 player 6.11429e-05
+align 3 instructions 0.99996 a 4.00453e-05
+align 4 *DELETE* 0.999866 i 8.86252e-05 instructions 4.00453e-05 to 4.09637e-06 uh 1.40705e-06 you 4.01807e-12
+align 5 </s> 1

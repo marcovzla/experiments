@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 okay 0.929126 oh 0.0469891 uh 0.0238846
+align 2 i 0.807502 okay 0.0708737 *DELETE* 0.0562228 i'm 0.0357463 uh 0.0296551
+align 3 i'm 0.727784 i 0.236469 *DELETE* 0.0357463
+align 4 *DELETE* 0.962499 i 0.0375015
+align 5 *DELETE* 0.763531 i'm 0.236469
+align 6 going 0.99962 *DELETE* 0.000379544
+align 7 to 0.99962 gonna 0.000379544
+align 8 take 0.999921 taking 7.92925e-05
+align 9 *DELETE* 0.998901 me 0.000364948 you 0.000345372 to 0.000329185 at 5.07595e-05 a 8.50127e-06
+align 10 your 0.891086 you 0.104379 in 0.00189641 a 0.00106965 *DELETE* 0.000839912 it 0.000729693
+align 11 *DELETE* 0.893927 your 0.0994886 you're 0.00568319 you 0.000901048
+align 12 wells 0.505276 well 0.494365 while 0.000359112
+align 13 thirties 0.745428 dirty 0.236743 thirty 0.0163206 there 0.00149131 dirtied 9.17121e-06 dirtier 5.07236e-06 they're 3.2731e-06 dear 1.82097e-07
+align 14 *DELETE* 0.998506 do 0.00149412
+align 15 *DELETE* 0.998405 you 0.00136377 is 0.000214935 as 6.10231e-06 it 5.77436e-06 us 2.86049e-06 did 6.46485e-07 in 1.82905e-07 to 1.3378e-07 ease 9.5577e-08 was 6.06719e-08 and 1.01468e-08 it's 7.56787e-09
+align 16 </s> 1

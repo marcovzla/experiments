@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.871774 well 0.064981 i'll 0.0383816 uh 0.0120348 all 0.00672206 how 0.00428002 i 0.000931985 oh 0.000894129
+align 2 *DELETE* 0.994833 were 0.00516653
+align 3 here 0.994693 hear 0.00530687
+align 4 today 1
+align 5 to 1
+align 6 conduct 1
+align 7 the 0.821611 a 0.178389
+align 8 neighborhood 0.921857 neighborhood's 0.0575144 neighborhoods 0.0206287
+align 9 survey 0.991654 surveying 0.0022804 surveyor 0.00144 surveyed 0.00133347 service 0.00115523 surveys 0.00109152 serving 0.000864579 serve 0.000163776 *DELETE* 1.65996e-05
+align 10 *DELETE* 0.999046 uh 0.000389238 if 0.000189223 a 0.000163775 of 0.000124445 it 5.96127e-05 survive 1.65996e-05 i 1.15988e-05 is 2.20131e-10 surveyors 1.08539e-12 and 5.45779e-13 at 4.28527e-13 in 2.54198e-14
+align 11 </s> 1

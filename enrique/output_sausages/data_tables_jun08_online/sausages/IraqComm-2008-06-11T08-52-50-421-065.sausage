@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.724999 where 0.258911 were 0.0137928 we're 0.00229737
+align 2 are 0.902705 *DELETE* 0.0552098 do 0.0420852
+align 3 the 1
+align 4 other 1
+align 5 workers 1
+align 6 come 1 *DELETE* 1.37288e-18
+align 7 from 0.999709 form 0.000290514 farm 1.97072e-07 *DELETE* 1.37288e-18
+align 8 *DELETE* 1 uh 2.16173e-08 compound 2.48053e-11
+align 9 </s> 1

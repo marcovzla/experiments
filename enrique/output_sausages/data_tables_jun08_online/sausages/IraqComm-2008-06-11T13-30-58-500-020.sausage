@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 can 0.987935 *DELETE* 0.00772035 i 0.00408674 okay 0.000180944 and 7.6489e-05
+align 2 i 0.999296 thank 0.000704151
+align 3 get 0.999296 you 0.000704151
+align 4 some 1
+align 5 more 1
+align 6 information 1
+align 7 on 1
+align 8 the 0.998246 them 0.00153162 a 0.000222853
+align 9 men 0.996868 man 0.000963825 in 0.0006968 name 0.000617631 and 0.000539602 then 0.000146775 mend 0.000131425 men's 2.68276e-05 many 8.91487e-06 *DELETE* 1.72396e-12
+align 10 *DELETE* 0.999992 uh 7.73704e-06 meant 7.79766e-09
+align 11 </s> 1

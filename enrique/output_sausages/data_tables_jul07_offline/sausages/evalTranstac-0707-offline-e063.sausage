@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 um 0.978783 uh 0.0212173
+align 3 *DELETE* 0.978783 um 0.0212173
+align 4 my 1
+align 5 marines 1
+align 6 will 0.999678 we'll 0.000322355
+align 7 uh 0.665045 i'll 0.278548 i 0.0563455 *DELETE* 6.15033e-05
+align 8 look 1
+align 9 through 0.974594 for 0.0253919 sir 1.45188e-05
+align 10 the 1
+align 11 home 0.766443 hole 0.145803 whole 0.0806816 hall 0.006277 homes 0.000671422 hold 0.000114743 holes 8.90036e-06
+align 12 </s> 1

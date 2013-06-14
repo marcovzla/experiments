@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 it's 0.992136 its 0.00786438
+align 2 excellent 1
+align 3 that's 1
+align 4 a 1
+align 5 great 1
+align 6 idea 1
+align 7 colonel 0.99474 a 0.00495561 i 0.000286761 colonels 1.72421e-05 colonel's 1.92753e-08
+align 8 *DELETE* 0.994533 colonel 0.00524237 i 0.00021327 uh 7.2937e-06 a 3.21339e-06 do 6.10819e-07 in 3.70296e-07
+align 9 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 is 0.97799 does 0.0220101
+align 2 your 1
+align 3 brother 1
+align 4 lieutenant 0.959196 at 0.0408038
+align 5 *DELETE* 0.959196 lieutenant 0.0408038
+align 6 hameed 0.881187 how 0.0919357 i'm 0.0203395 i 0.00489226 *DELETE* 0.0011829 huh 0.000462785
+align 7 *DELETE* 0.881847 need 0.104338 meet 0.00521376 meat 0.00324466 neat 0.00283086 knead 0.00119785 hameedi 0.000762939 hamaidi 0.000419958 am 0.000144909
+align 8 *DELETE* 0.998723 you 0.000459482 eating 0.000253669 meeting 0.000236936 need 0.000144909 mead 0.000141963 many 1.60928e-05 in 1.23994e-05 made 1.14728e-05 to 9.28148e-22 each 1.50867e-22
+align 9 </s> 1

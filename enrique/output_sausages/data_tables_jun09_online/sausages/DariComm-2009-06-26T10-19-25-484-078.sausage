@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 someone 1
+align 4 we 1
+align 5 can 1
+align 6 hire 0.9794 higher 0.0205996
+align 7 to 1
+align 8 build 1
+align 9 this 0.998589 his 0.00117842 these 0.000232511 *DELETE* 1.36314e-09 there 2.75433e-10
+align 10 *DELETE* 0.999773 uh 0.000219057 i 7.45789e-06 those 2.77986e-07 is 2.04922e-07 if 2.40446e-11 does 1.87855e-12
+align 11 </s> 1

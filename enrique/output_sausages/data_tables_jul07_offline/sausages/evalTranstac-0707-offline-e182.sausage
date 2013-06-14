@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 if 0.968136 uh 0.0318642
+align 3 *DELETE* 0.968136 if 0.0318642
+align 4 your 0.998596 you're 0.00140443
+align 5 son 1
+align 6 is 1
+align 7 able 1
+align 8 to 1
+align 9 cooperate 1
+align 10 with 1
+align 11 us 1
+align 12 *DELETE* 1 a 1.08719e-12
+align 13 </s> 1

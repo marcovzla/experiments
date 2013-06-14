@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 for 1
+align 2 example 1
+align 3 if 1
+align 4 he's 1
+align 5 not 1
+align 6 breathing 1
+align 7 and 1
+align 8 his 1
+align 9 airway 1
+align 10 is 1
+align 11 clear 1
+align 12 at 1
+align 13 that 1
+align 14 point 1
+align 15 we 0.98786 *DELETE* 0.0121399
+align 16 will 0.988644 we'll 0.011356
+align 17 give 1
+align 18 what's 1
+align 19 called 0.999978 call 2.19411e-05
+align 20 two 0.973055 to 0.026945
+align 21 rescue 1
+align 22 breaths 1
+align 23 </s> 1

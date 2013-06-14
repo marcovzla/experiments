@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 if 1
+align 3 you 1
+align 4 don't 0.849094 can 0.116187 and 0.0266516 *DELETE* 0.00767584 then 0.000391407
+align 5 see 0.995397 *DELETE* 0.00460309
+align 6 it 0.994867 *DELETE* 0.00513289
+align 7 in 0.999038 eating 0.000529804 seating 0.00043174
+align 8 *DELETE* 0.995829 seating 0.00417135
+align 9 your 1
+align 10 house 1
+align 11 then 0.88468 and 0.0966708 in 0.0186492
+align 12 you 1
+align 13 may 1
+align 14 not 1
+align 15 be 1
+align 16 aware 1
+align 17 of 1
+align 18 *DELETE* 0.605071 of 0.394929
+align 19 your 1
+align 20 son's 0.634639 sons 0.365361
+align 21 activities 0.999995 activity 5.25589e-06
+align 22 *DELETE* 0.999995 is 5.25589e-06 i 4.77781e-08
+align 23 </s> 1

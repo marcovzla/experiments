@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 of 0.997159 all 0.00208939 oh 0.000751471
+align 2 those 1
+align 3 three 0.999729 street 0.000271195
+align 4 children 1
+align 5 how 1
+align 6 many 1
+align 7 are 0.998305 our 0.00169491 of 4.54733e-07
+align 8 boys 0.999315 boy's 0.000353978 boys' 0.000288428 *DELETE* 4.24456e-05
+align 9 *DELETE* 0.999868 i 7.16303e-05 boyce 4.24456e-05 uh 1.79604e-05
+align 10 </s> 1

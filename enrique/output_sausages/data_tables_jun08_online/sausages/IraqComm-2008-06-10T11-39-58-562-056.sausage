@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 work 1
+align 5 do 1
+align 6 you 1
+align 7 do 1
+align 8 *DELETE* 0.958077 you 0.0418939 it 2.91598e-05 to 2.49457e-09 that 2.81421e-12 they 1.27059e-13 do 1.97208e-15
+align 9 </s> 1

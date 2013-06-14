@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 *DELETE* 1 any 2.3023e-07
+align 6 other 1
+align 7 family 1
+align 8 members 1
+align 9 that 1
+align 10 live 1
+align 11 with 1
+align 12 you 1
+align 13 *DELETE* 0.999856 uh 0.000128472 in 1.37661e-05 at 2.09629e-06 i 3.95407e-13
+align 14 </s> 1

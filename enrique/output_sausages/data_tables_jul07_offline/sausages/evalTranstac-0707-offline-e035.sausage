@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.724913 uh 0.273129 and 0.00145569 i 0.000280739 okay 0.000222095
+align 2 *DELETE* 0.995512 uh 0.0044331 i 3.80074e-05 am 1.65991e-05
+align 3 *DELETE* 0.999945 uh 5.46065e-05
+align 4 all 0.95211 *DELETE* 0.0478904
+align 5 right 0.95211 alright 0.0478904
+align 6 *DELETE* 0.999255 uh 0.00044509 now 0.000144019 sir 6.65417e-05 i 3.9938e-05 um 2.95105e-05 if 1.1742e-05 thigh 5.62708e-06 you 2.03515e-06 yeah 1.45415e-07 there 7.25544e-08 okay 3.61335e-09 it 2.40429e-12 with 2.18573e-15 in 1.24496e-17 of 3.26401e-19 write 6.37694e-21 so 2.58064e-21 is 2.03322e-21
+align 7 </s> 1

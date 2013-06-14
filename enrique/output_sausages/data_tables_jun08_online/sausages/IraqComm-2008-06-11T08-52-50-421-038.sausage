@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 other 0.906266 are 0.0937345
+align 3 *DELETE* 0.906266 their 0.0937345
+align 4 jobs 1
+align 5 are 0.811606 of 0.161892 or 0.0213226 a 0.00263426 do 0.00160916 with 0.000476004 uh 0.000419563 our 2.92216e-05 were 1.18962e-05
+align 6 these 1
+align 7 workers 1
+align 8 looking 1
+align 9 for 1
+align 10 that 0.983257 the 0.0111971 their 0.00521945 *DELETE* 0.000299503 they 2.6828e-05
+align 11 leaving 1
+align 12 in 0.520227 and 0.479773
+align 13 they're 0.452093 their 0.445464 there 0.0503048 the 0.044136 they 0.00779928 *DELETE* 0.000203389
+align 14 *DELETE* 0.952157 early 0.0392277 are 0.00781339 uh 0.00080196
+align 15 leaving 0.882342 living 0.0547171 in 0.039144 leading 0.0208963 relieving 0.00281639 and 8.36821e-05
+align 16 your 0.994487 a 0.00513697 you're 0.000375614 here 1.17771e-07
+align 17 plant 0.68374 plan 0.315826 planned 0.00025293 plans 0.000132281 plants 4.84781e-05
+align 18 *DELETE* 0.999995 i 3.48418e-06 to 1.23265e-06 uh 2.01885e-07 a 1.9522e-07 it 7.94166e-13
+align 19 </s> 1

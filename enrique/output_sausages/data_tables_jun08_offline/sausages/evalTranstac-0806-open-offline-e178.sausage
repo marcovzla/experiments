@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 will 0.998933 well 0.001067
+align 2 you 1
+align 3 be 1
+align 4 able 1
+align 5 to 1
+align 6 control 1
+align 7 the 0.999509 *DELETE* 0.000490582
+align 8 bleeding 1
+align 9 and 0.999856 in 0.00014383
+align 10 if 0.999953 there 4.65208e-05
+align 11 so 1
+align 12 how 1
+align 13 long 0.99999 along 9.96278e-06
+align 14 *DELETE* 0.999978 i 1.23492e-05 a 4.94254e-06 do 4.36251e-06 it 1.85144e-07
+align 15 </s> 1

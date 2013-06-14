@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 if 0.999477 it's 0.000523142
+align 2 the 1
+align 3 insurgents 0.685275 insurgent 0.314725
+align 4 should 0.875693 are 0.122657 or 0.00165027
+align 5 try 0.990425 trying 0.00957465
+align 6 to 1
+align 7 escape 1
+align 8 should 0.927618 and 0.037217 *DELETE* 0.0344002 can 0.000764547
+align 9 we 1
+align 10 have 1
+align 11 a 1
+align 12 small 1
+align 13 force 0.995396 forced 0.00453194 for 7.24012e-05
+align 14 out 0.998921 are 0.000900737 uh 0.000106332 sought 7.24012e-05
+align 15 here 1
+align 16 on 0.518068 in 0.481864 and 4.61316e-05 *DELETE* 2.17733e-05
+align 17 the 0.999978 look 2.17733e-05
+align 18 palms 1
+align 19 </s> 1

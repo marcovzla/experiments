@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 crops 1
+align 3 are 1
+align 4 grown 1
+align 5 here 0.999952 hear 4.7708e-05
+align 6 *DELETE* 0.99994 uh 4.24955e-05 i 1.736e-05
+align 7 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.99959 uh 0.00040962
+align 2 and 0.999876 in 0.000123918
+align 3 that 0.999876 a 0.000123918
+align 4 sounds 0.999876 sons 0.000123918
+align 5 very 1
+align 6 good 1
+align 7 *DELETE* 0.999977 uh 1.32991e-05 to 5.24289e-06 i 4.58054e-06
+align 8 </s> 1

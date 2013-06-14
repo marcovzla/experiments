@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.503171 i 0.496599 a 0.00023004
+align 2 i'm 0.818999 around 0.163731 run 0.0135831 ron 0.00368642
+align 3 colonel 1
+align 4 *DELETE* 0.659322 and 0.340678
+align 5 inman 0.659322 then 0.340678
+align 6 with 1
+align 7 the 1
+align 8 um 0.826646 uh 0.173354
+align 9 the 0.997396 with 0.00256755 but 3.64173e-05
+align 10 *DELETE* 0.997396 the 0.00260397
+align 11 local 1
+align 12 civil 1
+align 13 affairs 1
+align 14 team 1
+align 15 and 0.899165 in 0.0567098 then 0.0229058 men 0.0212189
+align 16 i'd 0.999629 i 0.000371163
+align 17 *DELETE* 0.999629 would 0.000371163
+align 18 like 1
+align 19 to 1
+align 20 uh 1
+align 21 *DELETE* 0.949146 uh 0.0508544
+align 22 inspect 1
+align 23 your 1
+align 24 facility 1
+align 25 and 0.986267 in 0.0137323 *DELETE* 4.51836e-11
+align 26 see 1 into 3.80842e-07
+align 27 how 1
+align 28 we 1
+align 29 can 1
+align 30 help 1
+align 31 *DELETE* 0.981393 you 0.00784374 uh 0.00584866 them 0.00217699 us 0.000915504 with 0.000778338 out 0.000326121 me 0.0002563 i 0.000226366 him 5.59783e-05 up 5.0862e-05 her 4.69635e-05 it 3.86064e-05 i'm 1.63957e-05 eye 8.23272e-06 on 7.97208e-06 of 7.68959e-06 in 1.43705e-06 the 1.22559e-06 is 1.86828e-08 pay 1.65105e-08 our 1.83627e-10 that 2.44836e-11 to 1.93984e-12 or 8.0773e-13 a 2.55864e-13 and 9.57162e-16 oh 6.10498e-16 at 3.51738e-16 my 3.73251e-17 i've 3.72951e-17 i'll 6.23795e-18 if 7.42167e-19
+align 32 </s> 1

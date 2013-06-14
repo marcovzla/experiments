@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 does 1
+align 3 he 1
+align 4 go 1
+align 5 to 0.550001 do 0.449999
+align 6 the 1
+align 7 uh 1
+align 8 mosque 1
+align 9 uh 1
+align 10 are 0.517318 our 0.277599 regular 0.0622526 uh 0.0602497 or 0.0411521 *DELETE* 0.0331363 i 0.00829232
+align 11 regular 0.937747 *DELETE* 0.0622463 base 6.30938e-06
+align 12 basis 0.971166 basins 0.0160131 bases 0.0128142 is 6.30938e-06 base's 6.6968e-10
+align 13 </s> 1

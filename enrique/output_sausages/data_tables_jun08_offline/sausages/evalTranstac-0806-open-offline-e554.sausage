@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 about 1
+align 3 if 0.670886 *DELETE* 0.324663 do 0.00380924 to 0.000642502
+align 4 you 0.866864 few 0.126091 fuel 0.00704535
+align 5 and 0.935973 when 0.0640275
+align 6 i 0.987222 i've 0.0127775
+align 7 i 0.494237 *DELETE* 0.314127 go 0.191632 and 3.94305e-06
+align 8 go 0.808368 *DELETE* 0.189941 to 0.00169083
+align 9 *DELETE* 0.999367 to 0.000633342
+align 10 talk 1
+align 11 to 1
+align 12 the 1
+align 13 iraqi 1
+align 14 the 0.898468 *DELETE* 0.101532
+align 15 at 0.873427 that 0.101532 uh 0.0250417
+align 16 the 1
+align 17 chief 1
+align 18 of 1
+align 19 police 1
+align 20 and 0.992824 in 0.00717622
+align 21 maybe 0.998372 may 0.00162798
+align 22 *DELETE* 0.998372 be 0.00162798
+align 23 we 1
+align 24 can 0.999983 could 1.70576e-05
+align 25 come 1
+align 26 to 1
+align 27 an 0.943987 a 0.0560127
+align 28 agreement 1
+align 29 for 0.999385 four 0.000599838 with 1.55106e-05
+align 30 this 0.706502 the 0.293474 that 2.08358e-05 those 3.67017e-06
+align 31 day 0.656817 state 0.280304 thing 0.0235408 date 0.0175271 station 0.00940408 take 0.00602826 stay 0.00532888 daily 0.000544279 they 0.000294 tape 0.000126699 de 4.8109e-05 stage 1.582e-05 tea 1.30279e-05 stayed 2.84612e-06 taee 2.25023e-06 today 1.69509e-06 staying 6.32084e-07 dhayi 4.04757e-07 states 1.11729e-08 then 6.52627e-09 days 3.47052e-10 d 7.74643e-11 to 3.14441e-11 tai 7.7979e-12 tay 3.69951e-12
+align 32 *DELETE* 0.999979 i 1.22025e-05 uh 8.56244e-06
+align 33 </s> 1

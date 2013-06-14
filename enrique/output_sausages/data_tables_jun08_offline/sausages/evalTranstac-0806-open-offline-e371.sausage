@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 i'm 1
+align 4 sergeant 1
+align 5 free 0.854147 freed 0.142722 *DELETE* 0.00313088
+align 6 then 0.708134 but 0.21214 bill 0.0558507 *DELETE* 0.0207442 fried 0.00313088
+align 7 i'll 0.976125 bilal 0.0238751
+align 8 be 1
+align 9 conducting 1
+align 10 today's 0.990089 today 0.00652182 to 0.00338907
+align 11 *DELETE* 0.988879 is 0.00652182 days 0.00338907 d 0.00121029
+align 12 debrief 0.997035 debriefs 0.0017543 brief 0.00121029
+align 13 with 1
+align 14 you 0.999789 your 0.000190976 to 1.03954e-05 *DELETE* 9.01939e-06 do 3.74788e-07
+align 15 *DELETE* 0.999442 uh 0.000467461 i 6.71162e-05 you 1.36199e-05 deal 9.01237e-06 oh 6.48069e-07 in 2.63253e-07 at 3.53802e-08 u 7.01964e-09 all 4.1291e-09
+align 16 </s> 1

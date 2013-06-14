@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 0.969017 *DELETE* 0.0174918 what 0.0134743 well 1.25628e-05 were 3.56391e-06 we're 1.0127e-06
+align 2 is 0.982508 where's 0.0174918
+align 3 your 1
+align 4 house 1
+align 5 located 1
+align 6 *DELETE* 0.999694 in 0.000304049 at 2.18718e-06
+align 7 </s> 1

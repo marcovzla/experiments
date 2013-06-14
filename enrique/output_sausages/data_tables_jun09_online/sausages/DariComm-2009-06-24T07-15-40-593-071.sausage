@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 did 1
+align 3 you 1
+align 4 get 1
+align 5 the 1
+align 6 information 1
+align 7 on 1
+align 8 the 0.999993 that 6.87299e-06
+align 9 talaban 1
+align 10 range 0.318684 rain 0.31176 raining 0.164621 rate 0.125403 reign 0.0491295 ready 0.00745936 right 0.00608469 *DELETE* 0.00529882 rainy 0.00350714 ray 0.00233877 reigning 0.00181387 raided 0.00171029 raids 0.00121465 reda 0.000974266 ria 5.0758e-07 raped 1.3534e-07
+align 11 *DELETE* 0.991678 it 0.00150141 rating 0.000805597 in 0.000769706 rained 0.000733995 raiding 0.000656415 raye 0.00054134 rates 0.000503339 re 0.000402941 i 0.000311809 rape 0.000307642 uh 0.000205039 rey 0.000189662 ring 0.000163782 ranged 0.000138178 rigged 0.000129434 raina 0.000123128 reyna 0.000123128 and 0.000122243 rayyan 9.28003e-05 array 7.0854e-05 raybi 5.7242e-05 drain 4.3123e-05 raheeb 4.21036e-05 rea 3.75088e-05 'raybi 3.08318e-05 rae 3.07735e-05 to 2.9457e-05 you 2.68909e-05 of 2.679e-05 arrange 2.65633e-05 ridge 2.18572e-05 the 1.52283e-05 raymond 1.31224e-05 that 6.78155e-06 do 6.2639e-06 on 3.68791e-06 arranged 3.58803e-06 go 1.75752e-06 a 1.7206e-06 is 1.4492e-06 raised 1.19615e-06 here 1.00423e-06 her 3.16817e-07 if 3.42297e-08 oh 9.62845e-09 up 6.57582e-09 now 2.88198e-09 by 9.24067e-10 guy 5.25005e-10 them 7.20765e-11 but 1.44833e-13 be 1.05525e-14 due 7.14901e-15 did 5.90506e-16 i'm 1.80168e-16 one 1.32364e-20 he 1.16246e-24
+align 12 *DELETE* 0.999911 do 4.95992e-05 at 1.73562e-05 no 1.15793e-05 ranger 6.35905e-06 raped 1.53423e-06 is 1.32423e-06 ria 7.80297e-07 due 1.11189e-16 did 3.20466e-18
+align 13 </s> 1

@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 hello 0.996897 hilal 0.00183049 hella 0.000981669 *DELETE* 0.000239192 hell 5.12888e-05 hi 1.97206e-07 i'll 4.23787e-23
+align 2 *DELETE* 0.998395 uh 0.000934045 i'm 0.000278231 halah 0.000130285 ahlam 0.000100008 i 6.06295e-05 up 5.12888e-05 um 3.69405e-05 sir 1.35991e-05 lab 1.97206e-07 and 5.62721e-11 too 2.15151e-12 do 2.07537e-12 i'll 4.23787e-23
+align 3 *DELETE* 0.999991 love 8.89979e-06
+align 4 </s> 1

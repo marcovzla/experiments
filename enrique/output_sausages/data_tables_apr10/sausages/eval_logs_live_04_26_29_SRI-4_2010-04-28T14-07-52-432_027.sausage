@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 classrooms 1
+align 4 are 1
+align 5 at 0.999284 add 0.000716121
+align 6 the 0.611245 this 0.388755
+align 7 school 0.999988 schools 1.16369e-05
+align 8 *DELETE* 0.999983 uh 8.50536e-06 is 4.08751e-06 i 3.13097e-06 in 5.28432e-07 at 4.01122e-07 if 1.46959e-08 of 2.98658e-09
+align 9 </s> 1

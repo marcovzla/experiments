@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 what 1
+align 4 i'll 1
+align 5 do 1
+align 6 is 1
+align 7 i'll 1
+align 8 i'll 1
+align 9 come 1
+align 10 along 1
+align 11 with 1
+align 12 you 1
+align 13 with 1
+align 14 *DELETE* 0.999994 the 5.59832e-06
+align 15 one 1
+align 16 of 1
+align 17 my 1
+align 18 platoons 0.999857 platoon's 0.0001433
+align 19 </s> 1

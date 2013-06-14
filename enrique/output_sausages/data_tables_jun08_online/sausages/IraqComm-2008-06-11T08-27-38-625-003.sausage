@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i 0.921282 *DELETE* 0.0787179
+align 2 am 0.921282 i'm 0.0787179
+align 3 fine 1
+align 4 what 1
+align 5 is 0.999987 does 1.29143e-05
+align 6 your 1
+align 7 name 1
+align 8 </s> 1

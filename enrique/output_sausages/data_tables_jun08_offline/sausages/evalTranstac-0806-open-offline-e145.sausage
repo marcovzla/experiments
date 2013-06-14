@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 thank 1
+align 3 you 1
+align 4 very 1
+align 5 much 1
+align 6 *DELETE* 0.999829 uh 7.82753e-05 it 7.19639e-05 i 1.58708e-05 so 3.50392e-06 to 6.02324e-07 sir 4.68367e-07 it's 3.53149e-07
+align 7 </s> 1

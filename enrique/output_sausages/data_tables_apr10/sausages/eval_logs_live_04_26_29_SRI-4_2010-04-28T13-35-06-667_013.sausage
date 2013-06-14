@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 specialist 1
+align 7 smith 0.999444 smith's 0.000353147 smell 0.000202937 *DELETE* 2.6116e-18
+align 8 *DELETE* 0.999948 i 3.08697e-05 uh 2.07518e-05 a 3.55452e-07 cement 2.28182e-15
+align 9 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 friend 0.951245 friends 0.0206218 for 0.0126289 sir 0.00731494 *DELETE* 0.00460002 four 0.00358891
+align 4 *DELETE* 0.971851 and 0.0176456 trend 0.00316133 i'm 0.00259621 end 0.00146417 an 0.000991218 in 0.000817633 friend's 0.000616868 friends' 0.000447572 frightened 0.000300293 trends 4.35184e-05 friendly 2.23355e-05 uh 1.57929e-05 any 8.86042e-06 i 8.61725e-06 fred 8.09526e-06 a 5.24369e-07
+align 5 </s> 1

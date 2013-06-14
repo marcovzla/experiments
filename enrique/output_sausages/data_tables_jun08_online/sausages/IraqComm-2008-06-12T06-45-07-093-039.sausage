@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.998625 where 0.00132751 when 4.70902e-05
+align 2 is 0.999812 was 0.000188401
+align 3 the 1
+align 4 name 1
+align 5 of 1
+align 6 the 0.999288 a 0.00071156
+align 7 teacher 0.994232 teachers 0.0057685
+align 8 *DELETE* 0.99998 i 1.50594e-05 uh 4.40724e-06 a 4.68296e-07 in 1.33746e-07
+align 9 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 us 1
+align 5 to 1
+align 6 provide 1
+align 7 weapons 0.999999 weapon's 7.22163e-07
+align 8 and 1
+align 9 ammunition 0.999865 *DELETE* 0.000134535
+align 10 *DELETE* 0.999582 to 0.000256981 ammunitions 0.000134535 uh 2.65883e-05 and 1.25424e-08 i 1.55955e-10 in 6.03193e-12 do 2.82807e-12 is 2.46442e-12
+align 11 </s> 1

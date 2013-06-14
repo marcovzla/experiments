@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 job 1
+align 5 title 1
+align 6 *DELETE* 1 of 9.60794e-09 uh 2.86422e-17
+align 7 </s> 1

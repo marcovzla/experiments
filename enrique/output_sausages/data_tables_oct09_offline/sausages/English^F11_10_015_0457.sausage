@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i 1
+align 3 *DELETE* 0.994998 i 0.00500167
+align 4 have 1
+align 5 a 0.99993 uh 6.96809e-05
+align 6 lot 1
+align 7 of 0.996947 a 0.0030533 to 7.82512e-08
+align 8 different 0.996491 the 0.00350914
+align 9 *DELETE* 0.996491 four 0.00266425 phone 0.000844886
+align 10 ways 1
+align 11 that 0.880104 at 0.0717706 and 0.0384866 out 0.00830332 in 0.00133495
+align 12 uh 0.943259 *DELETE* 0.0567407
+align 13 *DELETE* 0.866687 uh 0.133313
+align 14 i 0.481349 is 0.473622 *DELETE* 0.0425851 uh 0.00244348
+align 15 *DELETE* 0.943294 uh 0.0567062
+align 16 *DELETE* 0.894973 i 0.105027
+align 17 *DELETE* 0.999356 i 0.000643592
+align 18 set 1 said 2.56827e-08
+align 19 up 1
+align 20 we'll 0.939208 *DELETE* 0.0607917
+align 21 uh 0.999904 *DELETE* 9.59831e-05
+align 22 *DELETE* 0.99328 a 0.00410095 uh 0.00261883
+align 23 e._c._p.s 1
+align 24 in 0.912049 then 0.0630694 and 0.0125643 they 0.00655759 an 0.0057593
+align 25 uh 0.991271 know 0.00655759 on 0.00217116
+align 26 *DELETE* 0.991271 a 0.00872875
+align 27 snap 0.799887 a 0.17803 uh 0.0220828
+align 28 *DELETE* 0.799887 snap 0.200113
+align 29 snap 1
+align 30 v._c._p.s 1
+align 31 as 0.813493 is 0.186468 iz 3.42274e-05 this 4.4683e-06 his 4.6259e-07
+align 32 well 0.997027 while 0.00259671 wa'el 0.000298256 will 4.95737e-05 we'll 1.45364e-05 low 1.20722e-05 wall 2.01834e-06
+align 33 </s> 1

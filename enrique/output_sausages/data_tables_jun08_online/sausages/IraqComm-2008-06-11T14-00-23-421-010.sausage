@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 ready 0.999927 already 7.33881e-05
+align 4 *DELETE* 0.999991 to 9.13611e-06
+align 5 </s> 1

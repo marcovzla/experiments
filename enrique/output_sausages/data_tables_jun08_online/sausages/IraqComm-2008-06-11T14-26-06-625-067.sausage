@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 what 1
+align 3 do 0.989151 *DELETE* 0.0108491
+align 4 you 1
+align 5 plan 0.867963 *DELETE* 0.116031 planned 0.0160058
+align 6 to 0.689177 *DELETE* 0.242171 plant 0.068652
+align 7 *DELETE* 0.580971 it 0.146625 do 0.103981 did 0.0962544 planted 0.0473788 that 0.00972436 the 0.00609712 in 0.0033546 good 0.00195613 add 0.00135501 they 0.000900072 to 0.000616012 and 0.000258822 could 0.000175802 then 0.00015287 than 0.000123991 a 3.50377e-05 didn't 2.04677e-05 be 2.02205e-05 dig 3.29372e-09
+align 8 *DELETE* 0.999986 i 1.28345e-05 a 7.79121e-07
+align 9 </s> 1

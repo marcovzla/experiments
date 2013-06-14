@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 what's 0.963375 what 0.0317891 uh 0.00483612
+align 3 *DELETE* 0.995164 what 0.00483612
+align 4 your 1
+align 5 name 1
+align 6 sir 1
+align 7 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 the 1
+align 5 villagers 1
+align 6 worked 0.911074 work 0.0889261 working 1.11488e-09
+align 7 on 1
+align 8 the 1
+align 9 farm 0.99856 form 0.00143954
+align 10 for 0.98471 four 0.0147614 before 0.000528649 *DELETE* 4.76252e-12
+align 11 *DELETE* 0.999575 uh 0.000236106 you 0.000146589 it 2.68799e-05 a 1.50068e-05 i 1.89588e-07 fore 8.28666e-08
+align 12 </s> 1

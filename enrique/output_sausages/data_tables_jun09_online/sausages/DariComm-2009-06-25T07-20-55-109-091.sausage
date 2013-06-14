@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 say 0.999465 said 0.000533313 i 1.36877e-06 saeed 1.09009e-18
+align 2 *DELETE* 0.999999 said 1.36877e-06
+align 3 again 0.999352 then 0.000244237 and 0.000193225 dan 8.63888e-05 jan 5.60547e-05 can 5.06941e-05 *DELETE* 1.1383e-05 it 6.4407e-06
+align 4 *DELETE* 0.999957 i 2.50455e-05 in 1.14279e-05 then 6.39579e-06 uh 3.07267e-09 yeah 5.38395e-16 man 5.16465e-20
+align 5 </s> 1

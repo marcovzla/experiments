@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 see 1
+align 4 my 1
+align 5 hand 0.999635 hands 0.00036467
+align 6 *DELETE* 0.999966 i 2.1204e-05 uh 7.2592e-06 is 5.07443e-06 if 6.58608e-07 it 2.4355e-09
+align 7 </s> 1

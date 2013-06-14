@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 has 0.956569 as 0.043431
+align 2 any 1
+align 3 of 1
+align 4 your 1
+align 5 neighbors 1
+align 6 had 1
+align 7 anything 1
+align 8 stolen 1
+align 9 from 1
+align 10 them 1
+align 11 on 1
+align 12 the 1
+align 13 same 1
+align 14 day 1
+align 15 *DELETE* 0.999998 i 1.66342e-06
+align 16 </s> 1

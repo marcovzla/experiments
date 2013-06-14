@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 we've 0.99858 we're 0.000745962 when 0.000586034 we'd 4.54321e-05 we 4.22945e-05
+align 2 *DELETE* 0.999958 were 4.22945e-05
+align 3 also 1
+align 4 *DELETE* 0.999994 you 5.96382e-06
+align 5 got 0.999954 yeah 4.57578e-05
+align 6 some 1
+align 7 projects 0.881357 products 0.118577 progress 6.57237e-05
+align 8 *DELETE* 0.999934 you 6.57237e-05
+align 9 or 0.991673 role 0.00480011 you 0.00345893 want 6.57237e-05 *DELETE* 6.6593e-11
+align 10 *DELETE* 0.996541 want 0.00345893
+align 11 in 0.999998 jordan 1.82849e-06
+align 12 the 1
+align 13 area 1
+align 14 to 0.9679 *DELETE* 0.0320998
+align 15 help 1
+align 16 uh 1
+align 17 rebuild 1
+align 18 the 1
+align 19 schools 0.974605 school's 0.0243956 schools' 0.000999369
+align 20 *DELETE* 0.999905 in 5.97957e-05 uh 2.80244e-05 i 6.81304e-06
+align 21 </s> 1

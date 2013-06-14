@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 did 1
+align 3 the 1
+align 4 d._v._d.s 1
+align 5 come 1
+align 6 from 1 *DELETE* 7.57292e-20
+align 7 *DELETE* 0.999999 uh 9.67141e-07 a 4.59591e-07 form 5.41001e-16
+align 8 </s> 1

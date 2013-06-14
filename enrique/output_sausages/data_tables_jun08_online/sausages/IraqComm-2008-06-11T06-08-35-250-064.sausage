@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 carrying 1
+align 4 anything 1
+align 5 dangerous 0.999768 dangers 0.000232285
+align 6 in 0.988789 on 0.0112111
+align 7 the 0.894754 a 0.105246
+align 8 car 0.99894 card 0.000968377 cart 9.14468e-05
+align 9 today 0.999909 aday 5.27218e-05 a 3.8725e-05
+align 10 *DELETE* 0.999961 day 3.8725e-05 uh 2.05389e-12 oday 6.36611e-22
+align 11 </s> 1

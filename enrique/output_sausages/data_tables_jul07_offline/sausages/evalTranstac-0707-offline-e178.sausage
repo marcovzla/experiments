@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 i 0.759819 *DELETE* 0.200263 i'm 0.0397919 uh 0.00012658
+align 3 i'm 0.503305 i 0.312213 i've 0.117398 *DELETE* 0.0667058 on 0.000377407
+align 4 *DELETE* 0.999637 a 0.000236492 on 0.00012658
+align 5 *DELETE* 0.999981 a 1.87307e-05
+align 6 honestly 0.732034 i'm 0.123537 *DELETE* 0.0967967 i 0.0465205 on 0.000547819 three 0.000291972 see 0.000248765 thing 2.26077e-05
+align 7 *DELETE* 0.997203 i 0.0020427 i'm 0.000512485 on 0.000242285
+align 8 *DELETE* 0.829685 honestly 0.169584 see 0.000730747
+align 9 i 1
+align 10 *DELETE* 0.902912 honestly 0.0965299 see 0.000557677
+align 11 *DELETE* 0.902912 i 0.0970876
+align 12 don't 1
+align 13 know 1
+align 14 and 1
+align 15 i 1
+align 16 don't 1
+align 17 think 1
+align 18 there's 1
+align 19 anybody 1
+align 20 that's 1
+align 21 *DELETE* 0.938881 going 0.0611193
+align 22 gonna 0.938881 to 0.0611193
+align 23 be 1
+align 24 able 1
+align 25 to 1
+align 26 tell 1
+align 27 you 1
+align 28 specifically 1
+align 29 who 0.999897 do 0.000103404
+align 30 the 0.635386 this 0.3629 they 0.00108668 do 0.000627734
+align 31 source 0.999847 *DELETE* 0.000153048
+align 32 of 0.996285 to 0.00295777 in 0.000604332 *DELETE* 0.000153048
+align 33 this 0.999452 his 0.000395326 sources 0.000153048
+align 34 information 1
+align 35 was 0.905187 wise 0.076716 lies 0.017274 why's 0.000605572 why 0.000110216 what 0.000107158
+align 36 *DELETE* 0.999043 a 0.000393453 i 0.000243659 is 0.000217373 uh 8.07815e-05 it 2.089e-05 in 3.45939e-07 the 1.15948e-07
+align 37 </s> 1

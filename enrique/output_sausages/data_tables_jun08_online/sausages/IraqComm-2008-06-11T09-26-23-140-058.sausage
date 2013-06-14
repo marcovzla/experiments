@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 americans 1
+align 2 can 0.99756 come 0.0024404
+align 3 provide 1
+align 4 security 1
+align 5 at 1
+align 6 the 1
+align 7 beginning 1
+align 8 but 0.98787 that 0.0121304
+align 9 iraqi 0.993616 i 0.00638431
+align 10 *DELETE* 0.993616 iraqi 0.00638431
+align 11 security 1
+align 12 we'll 0.693069 will 0.306928 well 2.81636e-06
+align 13 have 1
+align 14 to 1
+align 15 take 1
+align 16 over 0.999999 *DELETE* 6.17942e-08
+align 17 *DELETE* 0.99973 it 0.000221838 a 3.31614e-05 i 1.06525e-05 the 3.66533e-06 our 3.25626e-07 and 8.81693e-17
+align 18 *DELETE* 0.999999 over 5.56461e-07
+align 19 </s> 1

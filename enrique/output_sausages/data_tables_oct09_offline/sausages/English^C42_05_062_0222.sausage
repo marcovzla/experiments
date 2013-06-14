@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 we 1
+align 3 need 1
+align 4 to 0.989422 you 0.00941781 your 0.00116013
+align 5 replace 1
+align 6 the 1
+align 7 bridge 1
+align 8 over 1
+align 9 the 1
+align 10 river 1
+align 11 that 0.961367 there 0.0386328
+align 12 was 1
+align 13 blown 1
+align 14 up 1
+align 15 recently 1 the 6.72322e-11
+align 16 *DELETE* 1 i 2.31698e-07 recently 6.72322e-11
+align 17 </s> 1

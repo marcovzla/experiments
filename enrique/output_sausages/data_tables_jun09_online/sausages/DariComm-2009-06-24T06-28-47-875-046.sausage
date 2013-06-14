@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 0.536022 *DELETE* 0.463978
+align 3 your 0.463978 have 0.315116 *DELETE* 0.219204 know 0.00170209
+align 4 *DELETE* 0.998298 this 0.00170209
+align 5 nurses 0.998298 is 0.00170209
+align 6 work 0.889324 were 0.077801 we're 0.0301336 *DELETE* 0.00274123
+align 7 on 0.978911 all 0.0182334 welcome 0.00226925 welcomed 0.000471976 well 0.000114084
+align 8 the 1
+align 9 same 1
+align 10 sheet 0.937808 sure 0.0288542 *DELETE* 0.0273106 share 0.00223055 should 0.00130938 shit 0.0011364 she 0.00103742 show 0.000176559 shoe 0.000136264 shia 1.32258e-07
+align 11 of 0.972554 sheriff 0.01868 shelf 0.00703457 *DELETE* 0.00173121
+align 12 *DELETE* 0.964992 uh 0.0175654 you 0.00808286 a 0.00371334 it 0.00240866 should've 0.00144539 i 0.000669148 the 0.000533237 that 0.0002143 shurouf 0.000150659 if 0.000135336 this 2.82934e-05 in 2.74794e-05 to 2.06989e-05 an 5.18873e-06 your 3.10793e-06 do 3.09193e-06 key 1.40167e-06 chauffeur 1.87634e-11
+align 13 </s> 1

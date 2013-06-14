@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 after 0.797499 afternoon 0.202501
+align 2 you 0.502309 *DELETE* 0.358017 he 0.136268 new 0.00174755 noon 0.00165803
+align 3 court 0.598879 *DELETE* 0.204594 quote 0.124864 quit 0.0609918 according 0.0106708
+align 4 in 0.784735 *DELETE* 0.171437 cordon 0.0331572 to 0.0106708
+align 5 the 0.607595 *DELETE* 0.392405
+align 6 *DELETE* 0.87887 cordon 0.12113
+align 7 *DELETE* 0.491697 a 0.457996 court 0.0503069
+align 8 *DELETE* 0.949693 in 0.0503069
+align 9 *DELETE* 0.921413 the 0.0604341 a 0.0134277 to 0.00463497 and 8.98129e-05
+align 10 gas 1
+align 11 station 1
+align 12 what's 0.999197 what 0.000802954 once 2.87227e-17
+align 13 next 0.999197 snacks 0.000802954
+align 14 *DELETE* 0.99997 to 2.27595e-05 do 6.97263e-06
+align 15 </s> 1

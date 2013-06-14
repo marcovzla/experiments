@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we 0.801687 you 0.104851 they 0.0337018 the 0.0255005 me 0.0185624 okay 0.00666057 b 0.00384237 be 0.00262761 good 0.00104809 it 0.000966965 he 0.000552116
+align 2 please 0.990136 police 0.00939211 believe 0.000472085
+align 3 say 0.970121 same 0.0271381 *DELETE* 0.00170721 stay 0.000945102 saying 8.90622e-05
+align 4 *DELETE* 0.554813 a 0.368196 your 0.0633843 you 0.0110173 it 0.00244594 in 0.000143457
+align 5 name 0.998001 aim 0.00152621 saymin 0.0004243 mayme 4.07778e-05 ma'am 8.12183e-06 saymind 3.80632e-08 in 2.51988e-12 named 1.78634e-17 *DELETE* 1.6152e-19
+align 6 again 0.999961 a 3.92241e-05 naeema 1.27952e-15
+align 7 *DELETE* 0.999961 gun 3.92241e-05 i 1.05749e-07 going 1.27952e-15
+align 8 </s> 1

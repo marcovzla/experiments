@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 uh 0.993378 i 0.00662191
+align 2 we'll 0.977371 will 0.0215231 well 0.00109999 i 5.9286e-06
+align 3 *DELETE* 0.999994 will 5.9286e-06
+align 4 also 1
+align 5 need 1
+align 6 us 0.982112 to 0.0178879
+align 7 *DELETE* 0.982112 us 0.0178879
+align 8 like 1
+align 9 strips 1
+align 10 uh 1
+align 11 *DELETE* 0.800657 uh 0.199343
+align 12 and 1
+align 13 flex 1
+align 14 cuffs 1
+align 15 and 0.999477 in 0.000522912
+align 16 the 0.932952 a 0.0670478
+align 17 loudspeaker 0.990345 loudspeakers 0.00965522
+align 18 it 0.752353 *DELETE* 0.136964 that 0.0612485 of 0.0304633 and 0.0167145 but 0.00127337 in 0.000553022 day 0.000430225
+align 19 that 0.937048 *DELETE* 0.0629521
+align 20 you 0.995883 *DELETE* 0.00411739
+align 21 were 0.990509 are 0.00537404 you're 0.00411739
+align 22 talking 1
+align 23 about 1
+align 24 *DELETE* 1 are 5.01016e-09
+align 25 earlier 0.99966 uh 0.000304105 a 3.55842e-05
+align 26 *DELETE* 0.99966 earlier 0.000339689
+align 27 </s> 1

@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 we've 0.894617 we 0.0529517 you've 0.0377842 you 0.00614451 be 0.00457125 b 0.00393169
+align 2 been 0.984291 be 0.0157093
+align 3 getting 1
+align 4 complaints 0.972512 complains 0.0274884
+align 5 about 1
+align 6 from 1
+align 7 the 1
+align 8 civilians 1
+align 9 that 1
+align 10 your 1
+align 11 men 1
+align 12 are 1
+align 13 using 0.987206 you 0.0127938
+align 14 *DELETE* 0.987206 using 0.0127938
+align 15 too 0.973484 two 0.0177895 to 0.00872626
+align 16 much 1
+align 17 force 0.999831 forces 0.000159167 for 1.01579e-05
+align 18 on 0.99999 some 1.01579e-05 someone 4.47622e-18
+align 19 them 0.998105 then 0.00136607 the 0.000494269 *DELETE* 3.48999e-05
+align 20 *DELETE* 0.999806 uh 0.00014591 that 3.44577e-05 in 7.55344e-06 to 3.46277e-06 i 2.22458e-06 there 4.34433e-07 though 7.7997e-09 and 7.59006e-10 but 2.53263e-14 than 1.12108e-15
+align 21 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 0.999943 hi 5.69622e-05 i 3.85693e-07
+align 2 can 1
+align 3 you 1
+align 4 tell 1
+align 5 where 0.9997 were 0.000299627 our 1.99319e-07
+align 6 they're 0.999911 they 4.55328e-05 their 4.345e-05
+align 7 *DELETE* 0.999954 are 4.55328e-05
+align 8 coming 1
+align 9 from 1
+align 10 *DELETE* 0.999981 a 1.86908e-05
+align 11 </s> 1

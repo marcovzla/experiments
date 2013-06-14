@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 fine 1
+align 3 please 0.775935 police 0.224065
+align 4 see 0.995361 say 0.00152758 c 0.00132764 seed 0.000986222 sea 0.000797109
+align 5 to 0.992193 two 0.00419004 too 0.00358962 you 2.78087e-05
+align 6 *DELETE* 0.999972 to 2.78064e-05 too 2.3619e-09
+align 7 it 0.999498 at 0.000502367
+align 8 that 1
+align 9 your 1
+align 10 men 1
+align 11 are 1
+align 12 on 1
+align 13 time 1
+align 14 and 1
+align 15 *DELETE* 0.999636 i 0.000363864
+align 16 are 0.989044 our 0.00613249 or 0.00482323
+align 17 in 1
+align 18 the 0.865527 a 0.134473
+align 19 conference 1
+align 20 room 1
+align 21 at 1 and 6.24852e-09
+align 22 midnight 0.999914 mid 8.57379e-05
+align 23 *DELETE* 0.999914 night 8.57379e-05
+align 24 </s> 1

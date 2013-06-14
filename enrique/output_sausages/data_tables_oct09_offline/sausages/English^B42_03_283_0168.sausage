@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.999982 will 1.77986e-05
+align 2 see 1
+align 3 if 1
+align 4 we 1
+align 5 can 1
+align 6 get 1
+align 7 some 1
+align 8 additional 1
+align 9 support 1
+align 10 for 0.999988 four 1.18704e-05
+align 11 your 1 you're 1.55919e-10
+align 12 hospital 0.999968 hospitals 3.18733e-05
+align 13 </s> 1

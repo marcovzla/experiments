@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 a 0.958958 any 0.041042
+align 4 school 1
+align 5 the 1
+align 6 children 0.982422 chairs 0.017578
+align 7 *DELETE* 0.982422 and 0.017578
+align 8 can 0.964884 *DELETE* 0.0351161
+align 9 at 0.774557 it 0.0829587 *DELETE* 0.0733143 can't 0.0351161 to 0.0197947 a 0.0142593
+align 10 ten 0.89157 attend 0.0893458 at 0.0190846
+align 11 *DELETE* 0.980915 ten 0.0190846
+align 12 around 1
+align 13 the 1
+align 14 area 1
+align 15 *DELETE* 0.993979 uh 0.00596588 now 4.05613e-05 i 1.02246e-05 at 2.36184e-06 is 1.57574e-06 and 2.6357e-09 in 7.50089e-11 a 1.06112e-18
+align 16 </s> 1

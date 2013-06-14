@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 today 1
+align 2 we're 0.972865 we 0.0271346
+align 3 *DELETE* 0.972865 are 0.0271346
+align 4 conducting 1
+align 5 a 1
+align 6 census 1
+align 7 of 0.999972 with 2.76348e-05
+align 8 the 0.999999 that 1.42124e-06
+align 9 villages 0.456888 villagers 0.45154 village's 0.0800874 village 0.011485
+align 10 *DELETE* 0.988515 is 0.011485
+align 11 here 1
+align 12 do 1
+align 13 you 1
+align 14 understand 1
+align 15 this 0.997379 us 0.00232744 that's 0.000179255 thus 8.15981e-05 that 2.72989e-05 the 5.20949e-06
+align 16 *DELETE* 0.999994 us 5.20949e-06 uh 6.397e-07 i 1.63744e-07 is 1.24757e-08
+align 17 </s> 1

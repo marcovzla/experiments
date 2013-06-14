@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 any 1
+align 4 other 1
+align 5 important 1
+align 6 items 0.996808 uh 0.00272506 item 0.00026321 i 0.000203913
+align 7 *DELETE* 0.996808 items 0.00292898 is 0.00026321
+align 8 you 1
+align 9 need 1
+align 10 *DELETE* 0.984465 to 0.0155352
+align 11 for 1
+align 12 the 0.995358 this 0.004642
+align 13 school 1
+align 14 *DELETE* 0.999998 i 1.13291e-06 in 4.91443e-07 uh 4.24755e-07
+align 15 </s> 1

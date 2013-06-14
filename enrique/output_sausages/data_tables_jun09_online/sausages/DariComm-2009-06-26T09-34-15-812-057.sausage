@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 0.997505 *DELETE* 0.00249538
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 veterinarian 1
+align 6 clinic 0.999918 claim 4.63495e-05 *DELETE* 3.58609e-05
+align 7 *DELETE* 0.999017 to 0.000769291 in 7.29237e-05 i 3.7469e-05 uh 3.66386e-05 cleaning 3.58609e-05 is 1.86422e-05 it's 5.38313e-06 and 4.98453e-06 today 1.81434e-06 clan 3.93982e-15
+align 8 *DELETE* 0.999988 tie 3.31423e-06 to 3.19901e-06 it 2.43606e-06 take 9.62935e-07 a 9.21363e-07 today 8.61931e-07 type 1.29301e-07 its 2.39771e-11 the 1.46462e-11 talk 4.95158e-12 uh 1.04091e-12 as 5.21045e-13 tow 1.87053e-13 if 9.48852e-14 need 3.93982e-15
+align 9 </s> 1

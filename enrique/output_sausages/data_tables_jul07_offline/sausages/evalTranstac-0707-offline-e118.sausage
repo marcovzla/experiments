@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 go 1
+align 2 uh 1
+align 3 uh 1
+align 4 is 0.922841 this 0.0771588
+align 5 is 1
+align 6 uh 1
+align 7 there 0.93691 *DELETE* 0.0313667 is 0.0174301 there's 0.00669666 yeah 0.00437727 uh 0.00195977 as 0.00125965
+align 8 *DELETE* 0.999995 uh 5.39411e-06
+align 9 is 0.974614 *DELETE* 0.0253864
+align 10 a 0.997032 there 0.00151564 the 0.00145244 *DELETE* 4.71668e-13
+align 11 pain 0.999999 appearing 2.04491e-10 *DELETE* 4.84724e-12
+align 12 in 0.999999 painting 5.09161e-07
+align 13 the 0.603781 his 0.396219 a 7.47225e-12
+align 14 stomach 1
+align 15 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.554133 and 0.445867
+align 2 uh 0.724912 *DELETE* 0.275088
+align 3 and 0.554133 *DELETE* 0.445867
+align 4 uh 0.82922 *DELETE* 0.17078
+align 5 we 0.989789 uh 0.0102108
+align 6 *DELETE* 0.989789 we 0.0102108
+align 7 cannot 1
+align 8 release 1
+align 9 him 0.993598 them 0.00640234
+align 10 at 1
+align 11 this 1
+align 12 time 1
+align 13 *DELETE* 0.99997 i 1.85826e-05 uh 1.11445e-05
+align 14 </s> 1

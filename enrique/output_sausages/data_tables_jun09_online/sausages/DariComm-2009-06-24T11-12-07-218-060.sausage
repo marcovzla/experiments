@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 ammo 1
+align 6 we 0.641145 when 0.358855
+align 7 *DELETE* 0.934566 need 0.0654343
+align 8 *DELETE* 0.578148 you 0.421852
+align 9 do 0.934566 *DELETE* 0.0629971 to 0.0024372
+align 10 go 1
+align 11 out 0.999989 i 1.12385e-05
+align 12 on 0.999989 don't 1.12385e-05 i'm 7.09219e-15 um 3.56372e-17
+align 13 patrols 1
+align 14 *DELETE* 0.99999 in 4.23472e-06 i 2.84641e-06 you 2.31125e-06 they 2.14183e-07 to 9.07572e-08 if 6.80479e-08
+align 15 </s> 1

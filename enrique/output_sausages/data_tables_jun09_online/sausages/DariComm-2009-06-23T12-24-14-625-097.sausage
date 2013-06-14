@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 will 0.993951 would 0.00604908
+align 4 show 1
+align 5 you 1
+align 6 later 1
+align 7 *DELETE* 0.989688 on 0.00933259 i 0.00053737 uh 0.000396159 now 4.27144e-05 it 2.53737e-06 you 6.02171e-07 in 1.97908e-12 um 1.81706e-13 if 7.52549e-24 a 1.48323e-24
+align 8 </s> 1

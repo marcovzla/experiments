@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 what 0.999824 and 9.15695e-05 the 8.44812e-05
+align 2 *DELETE* 0.999824 what 0.000176051
+align 3 what 0.998804 what's 0.00119606
+align 4 type 0.96809 *DELETE* 0.0319101
+align 5 of 0.922323 *DELETE* 0.0457665 types 0.030714 up 0.00119606
+align 6 medical 0.992955 of 0.00704512
+align 7 *DELETE* 0.992955 medical 0.00704512
+align 8 personnel 1
+align 9 do 1
+align 10 you 1
+align 11 guys 0.991749 have 0.00825116
+align 12 have 1
+align 13 to 0.995446 two 0.00455353
+align 14 support 1
+align 15 five 1
+align 16 hundred 1
+align 17 people 1
+align 18 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 and 0.999439 in 0.000561164
+align 5 what 1
+align 6 type 1
+align 7 of 1
+align 8 weapons 1
+align 9 will 0.999998 well 2.06319e-06
+align 10 they 1
+align 11 have 1
+align 12 *DELETE* 0.998543 a 0.000783796 to 0.000289667 it 0.00027665 uh 0.000106617 that 5.98314e-07 the 1.28049e-08 you 9.8529e-09 i 5.81873e-09
+align 13 </s> 1

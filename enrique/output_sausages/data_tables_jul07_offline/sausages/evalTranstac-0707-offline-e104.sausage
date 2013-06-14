@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 has 0.863471 as 0.136529
+align 2 a 0.994466 the 0.00521473 it 0.00031919
+align 3 doctor 0.982356 doctor's 0.0146975 doctors 0.00294616
+align 4 senior 0.829673 seen 0.137878 seniors 0.0260233 scene 0.00642589
+align 5 *DELETE* 0.855695 your 0.144061 you're 0.000243232 so 6.90107e-07
+align 6 son 0.886851 sun 0.0959135 on 0.0166265 some 0.000539718 sum 5.15598e-05 *DELETE* 1.81631e-05
+align 7 *DELETE* 0.99961 uh 0.000347782 i 2.32712e-05 sound 1.81061e-05 a 6.08763e-07 of 3.52219e-07 san 5.70632e-08
+align 8 </s> 1

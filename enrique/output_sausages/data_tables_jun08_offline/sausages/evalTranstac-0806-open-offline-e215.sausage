@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 all 1
+align 5 the 1
+align 6 equipment 1
+align 7 uh 1
+align 8 that 1
+align 9 you 1
+align 10 need 1
+align 11 to 1
+align 12 treat 1
+align 13 uh 1
+align 14 *DELETE* 0.998162 the 0.0018377
+align 15 such 1
+align 16 as 0.975207 it's 0.0247934
+align 17 the 0.83792 that 0.16208
+align 18 child 1
+align 19 or 0.856334 uh 0.140933 the 0.00273309
+align 20 *DELETE* 0.856334 or 0.143666
+align 21 any 1
+align 22 other 1
+align 23 uh 0.739132 i'll 0.21769 i 0.0256736 are 0.0156773 out 0.00105677 um 0.000770623
+align 24 *DELETE* 0.990323 uh 0.00967663
+align 25 try 1
+align 26 my 0.995959 may 0.00404113
+align 27 injuries 1
+align 28 *DELETE* 1 i 1.96264e-08
+align 29 </s> 1

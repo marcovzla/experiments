@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 were 0.980135 we're 0.0113545 we 0.00851028
+align 5 observed 0.617866 observe 0.381038 observes 0.00109595
+align 6 *DELETE* 0.997834 it 0.0019267 uh 0.000237272 you 1.99493e-06 i 8.66289e-10 a 1.91188e-11 and 1.83717e-24 the 1.25791e-25 in 8.84526e-26
+align 7 </s> 1

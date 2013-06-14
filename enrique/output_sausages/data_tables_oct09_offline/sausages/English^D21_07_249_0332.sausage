@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 i'll 0.998826 all 0.00117353
+align 2 check 1
+align 3 on 1
+align 4 that 0.999924 them 7.60481e-05 that'll 3.21882e-08
+align 5 *DELETE* 0.994716 uh 0.00500497 i 0.000156183 a 0.000122133 if 4.40411e-07
+align 6 </s> 1

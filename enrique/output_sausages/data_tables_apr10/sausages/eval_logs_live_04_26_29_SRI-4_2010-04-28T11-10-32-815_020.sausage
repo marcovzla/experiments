@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 second 1
+align 3 project 1
+align 4 is 1
+align 5 an 0.962993 in 0.0370072
+align 6 irrigation 1
+align 7 system 1
+align 8 *DELETE* 0.977645 do 0.0223554
+align 9 *DELETE* 0.977645 you 0.0223554
+align 10 give 0.720254 *DELETE* 0.187405 get 0.0699856 have 0.0223554
+align 11 any 0.803396 given 0.187405 an 0.00919858
+align 12 experience 1
+align 13 with 1
+align 14 irrigation 1
+align 15 systems 1
+align 16 *DELETE* 0.999963 i 3.71706e-05
+align 17 </s> 1

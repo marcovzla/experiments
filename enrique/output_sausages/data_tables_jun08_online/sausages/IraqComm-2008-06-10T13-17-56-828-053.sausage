@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 the 0.991084 this 0.00891593
+align 3 safety 1
+align 4 is 1
+align 5 on 1
+align 6 a 0.886432 the 0.0837715 *DELETE* 0.0297969
+align 7 white 1
+align 8 keep 1
+align 9 your 1
+align 10 finger 1
+align 11 off 1
+align 12 the 1
+align 13 trigger 1
+align 14 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 some 0.784456 i'm 0.214547 i 0.000946745 *DELETE* 5.05368e-05
+align 3 *DELETE* 0.99897 am 0.000936126 a 9.03038e-05 the 3.73665e-06 um 3.47946e-08 them 2.16004e-19
+align 4 time 0.780247 fine 0.216375 find 0.00210756 *DELETE* 0.000677793 fined 0.000592732
+align 5 *DELETE* 0.998017 i 0.00113862 five 0.000411468 uh 0.000123535 buying 0.000106955 times 4.8897e-05 sign 3.81738e-05 so 3.63964e-05 sometimes 2.99692e-05 vine 2.17701e-05 sometime 2.05328e-05 in 4.69683e-06 to 1.16994e-06 you 1.09145e-06 with 3.39732e-08 via 2.77418e-08 um 1.21814e-10 finds 3.88457e-17
+align 6 </s> 1

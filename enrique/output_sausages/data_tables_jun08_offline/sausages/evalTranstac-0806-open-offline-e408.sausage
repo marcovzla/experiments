@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 now 1
+align 2 only 1
+align 3 hit 0.990043 it 0.00995705
+align 4 checkpoint 1
+align 5 three 0.999264 to 0.000735371 terrain 1.06305e-06
+align 6 *DELETE* 0.999265 read 0.000735371
+align 7 are 0.49186 and 0.397445 uh 0.101459 i 0.00923564
+align 8 *DELETE* 0.999999 and 1.09819e-06
+align 9 we 1
+align 10 *DELETE* 0.54999 we 0.45001
+align 11 groups 0.431132 recruit 0.263242 regroup 0.195132 recruits 0.0916161 grouped 0.00964141 group's 0.00923647
+align 12 i 1
+align 13 didn't 0.923906 did 0.0760942
+align 14 notice 0.99931 noticed 0.000690206
+align 15 that 1
+align 16 there 1
+align 17 is 0.996039 was 0.00396085
+align 18 three 1
+align 19 hundred 1
+align 20 and 1
+align 21 sixty 1
+align 22 degree 1 degrees 2.90663e-14
+align 23 security 1
+align 24 *DELETE* 0.999997 i 2.53021e-06 uh 5.5643e-07
+align 25 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 give 1
+align 2 me 1
+align 3 a 1
+align 4 good 1
+align 5 reason 1
+align 6 why 1
+align 7 i 0.999644 *DELETE* 0.000355989
+align 8 should 1
+align 9 not 1 *DELETE* 1.11804e-32
+align 10 search 0.99716 *DELETE* 0.00283957 that 7.48224e-32
+align 11 your 0.980742 our 0.0063817 a 0.00224756 and 0.00194271 searcher 0.00191407 in 0.00188728 you're 0.00150872 it 0.0012874 searching 0.00092551 of 0.000846621 an 0.000134309 are 9.97422e-05 or 7.07514e-05 sure 1.19878e-05 uh 4.68988e-10
+align 12 land 0.999313 lands 0.000686717
+align 13 *DELETE* 1 i 2.50813e-21
+align 14 </s> 1

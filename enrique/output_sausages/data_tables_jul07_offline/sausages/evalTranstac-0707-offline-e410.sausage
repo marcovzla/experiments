@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 well 1 *DELETE* 1.44506e-09
+align 2 who 0.99998 we'll 2.04366e-05
+align 3 brings 1
+align 4 the 1
+align 5 drugs 0.997427 doors 0.00227078 guards 0.000103917 dogs 0.0001036 bill 6.4854e-05 box 2.69407e-05 *DELETE* 9.78707e-12
+align 6 *DELETE* 0.999935 arts 6.4854e-05
+align 7 to 0.999961 do 3.65152e-05 doctor 2.49024e-06
+align 8 the 1
+align 9 school 1
+align 10 *DELETE* 0.999998 uh 2.21292e-06 in 1.60151e-07
+align 11 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 did 1
+align 3 you 1
+align 4 wait 1
+align 5 so 1
+align 6 long 1
+align 7 to 1
+align 8 act 1
+align 9 on 0.999918 in 8.1939e-05
+align 10 this 1
+align 11 information 1
+align 12 *DELETE* 0.999474 uh 0.000523845 i 2.58757e-06 to 7.6572e-09
+align 13 </s> 1

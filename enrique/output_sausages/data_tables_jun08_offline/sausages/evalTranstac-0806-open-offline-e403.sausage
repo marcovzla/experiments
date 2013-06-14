@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 should 1
+align 3 have 0.956081 of 0.0439189
+align 4 been 1
+align 5 checked 0.99994 check 6.01083e-05
+align 6 ahead 0.916336 at 0.0580299 it 0.014527 the 0.00433597 *DELETE* 0.00337787 in 0.00241732 they 0.000292288 that 0.000251501 i 0.000211671 to 0.000200529 uh 2.00905e-05
+align 7 *DELETE* 0.977995 at 0.021447 had 0.000557866
+align 8 of 0.916336 a 0.0836641
+align 9 *DELETE* 0.996622 at 0.0031714 had 0.000206478
+align 10 *DELETE* 0.996622 a 0.00337787
+align 11 time 1
+align 12 as 0.999816 is 0.000184043
+align 13 well 1
+align 14 </s> 1

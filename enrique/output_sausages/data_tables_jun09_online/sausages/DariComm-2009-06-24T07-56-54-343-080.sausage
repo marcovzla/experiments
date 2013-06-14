@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 the 1
+align 3 school 1
+align 4 have 1
+align 5 many 0.991649 mini 0.00588539 minnie 0.00246579
+align 6 talaban 0.999998 *DELETE* 2.70598e-12
+align 7 *DELETE* 0.997678 i 0.00106505 uh 0.000870014 a 0.000282343 it 3.53571e-05 if 1.79112e-05 to 1.78136e-05 in 1.12723e-05 do 1.07853e-05 the 5.79611e-06 you 2.85353e-06 touban 2.33157e-06 oh 7.41794e-07 i'm 2.0115e-07 and 2.55943e-08
+align 8 </s> 1

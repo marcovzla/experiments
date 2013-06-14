@@ -1,0 +1,57 @@
+numaligns 55
+posterior 1
+align 0 <s> 1
+align 1 no 0.997572 know 0.002428
+align 2 by 0.98898 about 0.00992274 but 0.00109746
+align 3 over 1
+align 4 watch 1
+align 5 it 0.746868 that 0.181624 so 0.0241988 or 0.0172154 at 0.014568 *DELETE* 0.00776994 to 0.00523234 uh 0.0021915 are 0.00020961 what 0.000122651
+align 6 what 0.999884 would 0.000107906 when 8.32362e-06
+align 7 i 1
+align 8 mean 1
+align 9 is 1
+align 10 that 0.912066 uh 0.0873428 at 0.000590794
+align 11 sending 0.997234 uh 0.0016395 send 0.00112617
+align 12 *DELETE* 0.997234 sending 0.0016395 me 0.00112617
+align 13 out 0.998874 not 0.00112617
+align 14 *DELETE* 0.98666 of 0.0133396
+align 15 that 0.477691 it 0.31232 uh 0.0833122 at 0.0419538 let 0.0353754 the 0.0276771 but 0.0153575 our 0.00544854 or 0.000614784 to 0.000182126 *DELETE* 6.73003e-05
+align 16 *DELETE* 0.921398 that 0.0416027 it 0.036797 uh 0.000201955
+align 17 team 1
+align 18 to 0.904705 too 0.0858812 two 0.00941413
+align 19 *DELETE* 0.265602 uh 0.246889 at 0.203375 it 0.159392 the 0.110792 up 0.0115669 are 0.00238296
+align 20 the 0.889208 *DELETE* 0.110293 high 0.000498693
+align 21 highest 0.998852 high 0.000649489 it's 0.000498693
+align 22 *DELETE* 0.999351 it's 0.000649489
+align 23 uh 1
+align 24 *DELETE* 0.997366 i'm 0.00263392
+align 25 building 0.975848 *DELETE* 0.0241519
+align 26 around 0.492517 uh 0.418504 a 0.078539 the 0.00758445 to 0.00275251 it 0.000103533
+align 27 *DELETE* 0.975848 building 0.0241519
+align 28 *DELETE* 0.98851 uh 0.00936561 a 0.00197407 the 0.0001247 to 2.56835e-05
+align 29 around 0.507483 *DELETE* 0.492517
+align 30 the 1
+align 31 facility 1
+align 32 uh 0.977761 to 0.0222394
+align 33 *DELETE* 0.396982 it 0.346041 uh 0.256978
+align 34 in 0.907223 *DELETE* 0.0904636 and 0.00231302
+align 35 the 0.909536 *DELETE* 0.0904636
+align 36 media 0.541823 meeting 0.287997 and 0.0904636 mediate 0.0768222 *DELETE* 0.00231302 mediator 0.000581282
+align 37 *DELETE* 0.773804 the 0.139596 immediate 0.0863593 in 0.000240603
+align 38 *DELETE* 0.993583 media 0.00554618 mediate 0.000871115
+align 39 *DELETE* 0.998442 the 0.00155536 in 2.81045e-06
+align 40 area 1
+align 41 so 1
+align 42 they 0.959456 you 0.0190909 he 0.0174396 we 0.0040138
+align 43 can 0.948037 could 0.0519633
+align 44 get 1
+align 45 a 0.998136 uh 0.00162132 to 0.000243049
+align 46 higher 1
+align 47 higher 0.975738 a 0.0154603 uh 0.00483009 *DELETE* 0.00253084 to 0.00144029
+align 48 or 0.798281 *DELETE* 0.0930874 is 0.0586514 eyes 0.0257188 higher 0.0196602 hire 0.00460133
+align 49 is 0.912854 *DELETE* 0.0843702 eyes 0.00277545
+align 50 on 1
+align 51 the 0.998653 that 0.001133 their 0.000214072
+align 52 town 0.66697 talent 0.311754 towns 0.0202013 town's 0.000756329 telling 0.000318192
+align 53 *DELETE* 0.994248 uh 0.0053479 the 0.000212499 i 0.000134917 to 5.70189e-05
+align 54 </s> 1

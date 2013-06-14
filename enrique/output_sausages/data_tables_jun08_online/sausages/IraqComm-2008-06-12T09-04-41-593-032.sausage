@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 repeat 1
+align 4 that 0.996677 the 0.00332286
+align 5 answer 0.943224 i 0.0551371 *DELETE* 0.000843102 in 0.000796335 it's 4.21603e-16
+align 6 *DELETE* 0.931009 answer 0.0557757 you 0.0123724 answered 0.000843102
+align 7 *DELETE* 0.996596 i 0.000764216 you 0.000744199 me 0.000678983 it 0.000662733 uh 0.000220893 sir 0.000157641 now 0.000131846 and 3.99438e-05 to 2.45653e-06 a 8.15531e-07 who 5.34016e-07 in 5.34487e-10 no 1.08159e-10 we 2.5741e-15 or 4.21683e-16 all 1.16076e-16 is 4.18827e-17
+align 8 </s> 1

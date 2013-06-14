@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 okay 1 *DELETE* 2.07603e-12
+align 2 of 0.381782 and 0.2832 in 0.197531 if 0.0897821 *DELETE* 0.0477047 can 6.61238e-08
+align 3 problem 0.999999 palm 6.43348e-07 column 1.23408e-07
+align 4 with 1
+align 5 the 0.999706 this 0.00029358
+align 6 sewerage 0.936351 sewage 0.0636492
+align 7 </s> 1

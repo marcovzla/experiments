@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 did 1
+align 3 you 1
+align 4 get 1
+align 5 this 0.998873 the 0.000509888 they 0.000376228 that 0.000241319
+align 6 shit 0.920269 ship 0.0398332 shipped 0.0142313 sheet 0.0101635 she'll 0.00442401 shoot 0.00268786 shift 0.00229448 year 0.00225879 you 0.00162663 shoe 0.000897022 should 0.000671839 yet 0.000546778 she 9.15299e-05 issue 3.99949e-06
+align 7 *DELETE* 0.999985 have 1.48217e-05
+align 8 from 0.999984 found 7.08604e-06 farm 7.00427e-06 uh 1.42954e-06
+align 9 *DELETE* 1 uh 2.65721e-08 a 6.72504e-09
+align 10 </s> 1

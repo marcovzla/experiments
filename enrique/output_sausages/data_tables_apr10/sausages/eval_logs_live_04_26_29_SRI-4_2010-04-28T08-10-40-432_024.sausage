@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 describe 0.998628 described 0.0013719
+align 4 *DELETE* 0.996802 in 0.0013719 a 0.00134321 that 0.00030073 their 0.000182367
+align 5 the 0.682659 uh 0.248586 in 0.0512086 to 0.0100165 it 0.00559775 them 0.00193181
+align 6 *DELETE* 0.503513 the 0.495169 uh 0.00131809
+align 7 *DELETE* 0.998682 the 0.00131809
+align 8 other 0.999756 others 0.000243683
+align 9 school 0.999095 schools 0.000905213
+align 10 *DELETE* 0.999784 uh 0.000114586 i 3.11239e-05 it 3.03328e-05 to 2.63253e-05 that 1.13243e-05 so 1.43597e-06 a 3.36729e-07 if 5.08504e-08 in 2.88912e-10 oh 1.76394e-10
+align 11 </s> 1

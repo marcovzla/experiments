@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 *DELETE* 0.99993 i'm 7.02825e-05
+align 3 and 0.999106 i 0.000893512 going 3.66154e-07
+align 4 *DELETE* 0.998631 don't 0.000893512 and 0.000475215
+align 5 how 1
+align 6 and 0.766576 um 0.102771 i'm 0.0538881 often 0.0388258 long 0.0116539 old 0.00966641 *DELETE* 0.00799743 am 0.00420754 he 0.0019041 in 0.0016861 on 0.000519947 him 0.000302909
+align 7 *DELETE* 0.995025 and 0.00497493
+align 8 come 1
+align 9 out 1
+align 10 of 1
+align 11 the 0.999557 a 0.000443419
+align 12 vehicle 1
+align 13 and 0.517587 i'm 0.477633 in 0.00478022
+align 14 go 0.552948 going 0.447052
+align 15 to 1
+align 16 that 0.92115 the 0.0788497
+align 17 search 1
+align 18 area 1
+align 19 that's 0.997942 if 0.00201249 and 3.92879e-05 touch 6.2692e-06
+align 20 *DELETE* 0.99654 that's 0.00205178 or 0.00140775
+align 21 right 0.998464 it 0.00140775 write 7.92301e-05 what 4.89598e-05
+align 22 with 0.99989 we 0.000109803
+align 23 you 0.996272 him 0.00320108 them 0.000319598 can 0.000109803 your 9.75407e-05
+align 24 </s> 1

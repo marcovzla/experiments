@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 refrigerators 1
+align 5 for 1 four 1.61877e-08
+align 6 the 0.999999 a 8.58605e-07
+align 7 hospital 0.999967 hospitals 3.25876e-05
+align 8 </s> 1

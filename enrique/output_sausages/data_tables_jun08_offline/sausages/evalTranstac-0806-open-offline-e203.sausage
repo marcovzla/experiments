@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 1
+align 3 have 1
+align 4 all 1
+align 5 the 1
+align 6 information 1
+align 7 you 1
+align 8 gave 1
+align 9 me 1
+align 10 uh 0.87292 um 0.12708
+align 11 i 0.581489 i've 0.418417 *DELETE* 7.64431e-05 at 1.76556e-05
+align 12 have 0.527784 *DELETE* 0.420937 i've 0.0512785
+align 13 a 0.99748 the 0.00188007 be 0.00062134 i 1.86762e-05
+align 14 *DELETE* 0.999981 be 1.86762e-05
+align 15 detailed 1
+align 16 list 1
+align 17 that 1
+align 18 i 1
+align 19 will 1
+align 20 provide 1
+align 21 to 0.652017 *DELETE* 0.347983
+align 22 my 1
+align 23 superiors 1
+align 24 and 1
+align 25 they 1
+align 26 will 1
+align 27 be 1
+align 28 in 1
+align 29 contact 1
+align 30 with 1
+align 31 the 1
+align 32 administrator 1
+align 33 of 1
+align 34 the 1
+align 35 hospital 1 hospitals 8.35422e-09
+align 36 </s> 1

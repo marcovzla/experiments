@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 explain 0.999781 *DELETE* 0.000219124
+align 4 *DELETE* 0.930629 it 0.0581806 that 0.00572354 in 0.0021863 a 0.00136657 i 0.000563183 uh 0.000381231 explained 0.000219124 the 0.000202579 to 0.000187799 them 0.000143424 you 0.000108046 this 5.96037e-05 me 4.63731e-05 what 1.77906e-06 if 8.26037e-07 all 3.49433e-08
+align 5 *DELETE* 0.999988 you 1.24762e-05
+align 6 </s> 1

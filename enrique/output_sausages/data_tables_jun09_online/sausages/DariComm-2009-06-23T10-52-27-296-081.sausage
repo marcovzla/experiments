@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 who 0.580316 we 0.419684
+align 2 would 0.738602 will 0.261396 we'll 1.40569e-06
+align 3 take 1
+align 4 care 1
+align 5 of 1
+align 6 your 1
+align 7 wounds 1
+align 8 right 0.99996 write 4.01446e-05
+align 9 now 1
+align 10 *DELETE* 0.998066 uh 0.00180513 i 0.0001253 to 1.70889e-06 it 1.07406e-06 and 5.22244e-07 so 2.61578e-07 um 2.44032e-08 in 1.53383e-10 is 2.72084e-11 you 1.00401e-11 if 4.56399e-13
+align 11 </s> 1

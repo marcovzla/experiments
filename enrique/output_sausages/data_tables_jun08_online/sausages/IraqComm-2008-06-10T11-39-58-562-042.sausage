@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 can 0.63917 and 0.346512 i 0.0142626 in 5.57473e-05
+align 2 *DELETE* 0.985737 can 0.0142626
+align 3 they 0.715765 i 0.282253 a 0.00198187
+align 4 take 1
+align 5 him 1
+align 6 to 1
+align 7 the 1
+align 8 hospital 1
+align 9 *DELETE* 1 i 4.71205e-11
+align 10 </s> 1

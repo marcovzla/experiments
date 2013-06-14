@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 okay 0.996724 uh 0.00327625
+align 2 *DELETE* 0.996724 okay 0.00327625
+align 3 here's 1
+align 4 a 0.984982 the 0.0150175
+align 5 copy 1
+align 6 of 0.873452 in 0.126548
+align 7 your 1
+align 8 report 0.999833 reports 0.00016721
+align 9 *DELETE* 1 uh 1.54118e-07
+align 10 </s> 1

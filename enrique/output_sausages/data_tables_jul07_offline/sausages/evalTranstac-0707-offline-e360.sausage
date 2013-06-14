@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 can 0.999833 could 0.000166683
+align 3 *DELETE* 0.999833 be 0.000166683
+align 4 either 1
+align 5 cooperate 1
+align 6 with 1
+align 7 us 1
+align 8 *DELETE* 0.999878 up 0.000101256 uh 1.02013e-05 a 9.29167e-06 i 1.59809e-06
+align 9 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i 0.99966 they 0.000339698 uh 3.63296e-17
+align 3 do 0.947047 did 0.0529532 *DELETE* 3.31409e-13
+align 4 *DELETE* 0.996525 it 0.00198712 i 0.000788509 uh 0.000288361 um 0.000154575 that 8.84212e-05 now 6.42381e-05 you 5.74004e-05 work 2.32845e-05 have 1.82259e-05 know 3.95924e-06 and 1.23791e-06 didn't 1.29515e-10
+align 5 </s> 1

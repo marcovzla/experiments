@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 plan 0.850022 kind 0.149685 time 0.000292378
+align 5 of 0.999994 at 5.54371e-06 that 7.28348e-07
+align 6 *DELETE* 0.999985 the 1.50381e-05
+align 7 action 1
+align 8 for 1
+align 9 the 1
+align 10 gas 1
+align 11 station 0.999197 stations 0.000802695 stationed 3.32114e-15
+align 12 </s> 1

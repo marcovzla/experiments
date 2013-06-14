@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 well 0.999236 we'll 0.000252787 or 0.000171355 oh 0.000165286 all 0.000103313 who 7.13077e-05
+align 2 first 1
+align 3 off 1
+align 4 i 1
+align 5 don't 1
+align 6 know 1
+align 7 how 1
+align 8 he's 0.953601 these 0.0224414 lease 0.0145408 least 0.00941712
+align 9 travelling 1
+align 10 without 0.99389 with 0.00611035
+align 11 *DELETE* 0.99389 out 0.00611035
+align 12 an 0.999259 and 0.000616734 in 0.000124733
+align 13 i._d. 0.90223 i._e._d. 0.0977703
+align 14 *DELETE* 0.999995 i 5.00507e-06 a 2.51936e-07
+align 15 </s> 1

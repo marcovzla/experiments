@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 and 0.98235 uh 0.0170312 i 0.000619283
+align 3 can 1
+align 4 you 1
+align 5 tell 1
+align 6 me 1
+align 7 about 1
+align 8 the 0.990329 that 0.0073205 they 0.00235032
+align 9 kind 1
+align 10 of 1
+align 11 equipment 1
+align 12 do 1
+align 13 you 1
+align 14 you 0.717631 have 0.2438 think 0.0364013 need 0.00216801
+align 15 *DELETE* 0.717631 you 0.282369
+align 16 have 1
+align 17 *DELETE* 0.996993 a 0.00192185 uh 0.000945001 out 9.37218e-05 it 3.37047e-05 to 6.63455e-06 i 6.54633e-06
+align 18 </s> 1

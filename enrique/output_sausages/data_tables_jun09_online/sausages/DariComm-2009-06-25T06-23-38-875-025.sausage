@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 0.9999 i 5.0937e-05 uh 4.89871e-05
+align 2 they 0.516097 there 0.476758 the 0.00714458 do 5.16649e-07
+align 3 enough 1
+align 4 supplies 1
+align 5 for 0.995106 are 0.00489435
+align 6 all 1
+align 7 the 0.999979 that 2.06777e-05
+align 8 children 1 *DELETE* 2.68589e-16
+align 9 *DELETE* 0.999963 in 1.47669e-05 uh 1.23914e-05 do 8.82359e-06 did 1.11899e-06 i 1.56023e-07 children's 2.95071e-09 to 1.18945e-09
+align 10 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 and 0.999775 an 0.000225275
+align 2 as 1
+align 3 we 0.879681 we're 0.120319
+align 4 are 0.873973 *DELETE* 0.113774 a 0.0065077 were 0.00574533
+align 5 dismount 0.765445 dismounted 0.234555
+align 6 from 1
+align 7 the 1
+align 8 trucks 0.999606 truck's 0.00039422
+align 9 we 1
+align 10 will 1
+align 11 stab 0.465958 step 0.243067 stop 0.218555 *DELETE* 0.0724201
+align 12 which 0.552191 wish 0.33505 stabbed 0.0724201 *DELETE* 0.0403392
+align 13 those 0.901112 goes 0.0988877
+align 14 blocking 0.999998 walking 2.08668e-06
+align 15 position 0.999982 positions 1.32736e-05 possession 4.31412e-06
+align 16 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 have 0.975343 i 0.0133143 had 0.0113432
+align 2 *DELETE* 0.986686 have 0.0133143
+align 3 your 1
+align 4 men 1
+align 5 not 0.563369 do 0.403251 that 0.0171363 did 0.0114621 at 0.00166581 they 0.00159375 it 0.00152176 uh 2.17297e-09
+align 6 to 0.461903 not 0.436631 *DELETE* 0.101466
+align 7 *DELETE* 0.974022 to 0.0259784
+align 8 come 1
+align 9 to 1
+align 10 work 1
+align 11 because 1
+align 12 of 1
+align 13 bribes 0.952166 brides 0.0299494 bride's 0.0178846
+align 14 or 1
+align 15 threats 0.999989 threat 1.09509e-05
+align 16 *DELETE* 1 uh 1.30901e-10 i 5.39447e-11
+align 17 </s> 1

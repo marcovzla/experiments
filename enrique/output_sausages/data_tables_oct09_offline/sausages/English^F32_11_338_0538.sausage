@@ -1,0 +1,53 @@
+numaligns 51
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 and 0.831711 now 0.168289 not 1.64974e-10
+align 3 out 0.831711 *DELETE* 0.168277 i've 1.21954e-05
+align 4 the 0.999982 done 1.81709e-05 then 4.43843e-10 don't 1.26824e-11
+align 5 last 1
+align 6 the 1
+align 7 last 1
+align 8 uh 1
+align 9 group 0.844135 uh 0.155865
+align 10 *DELETE* 0.844135 group 0.155865
+align 11 of 1
+align 12 uh 0.998966 us 0.00103355
+align 13 soldiers 1
+align 14 you 1
+align 15 know 0.833585 now 0.166415
+align 16 have 1
+align 17 a 0.994338 *DELETE* 0.00566202
+align 18 um 0.990611 uh 0.00938852
+align 19 do 0.989204 *DELETE* 0.0107964
+align 20 you 0.999998 good 1.50186e-06
+align 21 know 0.990216 *DELETE* 0.00412112 can 0.00329516 gonna 0.00226717 get 0.000100687
+align 22 how 0.9959 get 0.00411962
+align 23 *DELETE* 0.997949 how 0.00205093
+align 24 i'm 0.845928 um 0.0786037 am 0.0683537 on 0.0050654 home 0.00204926
+align 25 set 0.966133 sent 0.0193406 said 0.0145269
+align 26 off 1
+align 27 about 0.957314 a 0.0426858
+align 28 *DELETE* 0.957314 ball 0.0426858
+align 29 two 0.932213 to 0.067787
+align 30 two 1
+align 31 hundred 1
+align 32 to 0.557891 *DELETE* 0.438763 and 0.00334595
+align 33 three 1
+align 34 hundred 1
+align 35 meters 1
+align 36 away 0.996286 oh 0.00371393
+align 37 *DELETE* 0.996286 way 0.00371393
+align 38 you 0.999989 *DELETE* 1.11969e-05
+align 39 from 0.999683 form 0.000316964
+align 40 were 0.653391 where 0.346609
+align 41 you 1
+align 42 having 0.846817 haven't 0.100095 going 0.025451 have 0.0214684 in 0.00359585 had 0.00257295
+align 43 *DELETE* 0.999285 been 0.000498359 him 0.000216816
+align 44 to 0.901252 a 0.0744403 gonna 0.013218 in 0.00925563 an 0.000852535 us 0.000693828 *DELETE* 0.000287416
+align 45 *DELETE* 0.990744 a 0.00925563
+align 46 stop 0.998166 assault 0.00113981 out 0.000693828 *DELETE* 1.21485e-11
+align 47 the 1 assaulted 1.45014e-07
+align 48 vehicle 0.999444 vehicles 0.000556095
+align 49 *DELETE* 0.999992 uh 7.91983e-06
+align 50 </s> 1

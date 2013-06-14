@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 it 0.999996 *DELETE* 3.79474e-06
+align 2 is 0.986959 was 0.013041
+align 3 nice 1
+align 4 to 1
+align 5 meet 1
+align 6 you 1
+align 7 sir 1
+align 8 *DELETE* 0.99833 uh 0.00140347 um 0.000266143 are 1.27321e-07
+align 9 </s> 1

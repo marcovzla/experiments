@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you 0.621334 do 0.378666
+align 2 *DELETE* 0.621334 you 0.378666
+align 3 think 1
+align 4 i 1
+align 5 am 0.999232 have 0.000768291
+align 6 fucking 0.994405 fuck 0.00391151 *DELETE* 0.00168341
+align 7 *DELETE* 0.994405 is 0.00366941 parking 0.000900536 talking 0.000726244 if 0.00015417 pocket 5.66259e-05 in 5.5222e-05 it 3.1909e-05 and 7.94728e-07
+align 8 stupid 1
+align 9 *DELETE* 0.999975 guy 1.01412e-05 to 7.60978e-06 i 6.13762e-06 in 6.32105e-07 and 5.36209e-07 me 3.54677e-07 uh 3.71278e-09
+align 10 </s> 1

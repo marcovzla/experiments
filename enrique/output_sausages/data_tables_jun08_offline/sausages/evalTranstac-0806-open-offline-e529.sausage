@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 what 0.585981 well 0.410144 one 0.00358867 will 0.000286167
+align 2 are 0.458287 uh 0.349335 *DELETE* 0.105472 that 0.0472769 a 0.0139637 the 0.00818755 it 0.00510039 at 0.00441437 i 0.00437432 of 0.00358867
+align 3 those 1
+align 4 are 1
+align 5 the 1
+align 6 basic 1
+align 7 tools 1
+align 8 needed 1
+align 9 for 0.793956 foot 0.169873 four 0.0361711
+align 10 to 0.998761 two 0.00123888
+align 11 conduct 1
+align 12 this 1
+align 13 operation 0.999997 operations 3.36162e-06
+align 14 *DELETE* 0.999994 i 6.0394e-06
+align 15 </s> 1

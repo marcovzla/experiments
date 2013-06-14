@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 treatment 1
+align 3 do 1 to 1.37772e-26
+align 4 you 1
+align 5 need 1 *DELETE* 7.70139e-16
+align 6 *DELETE* 0.99535 uh 0.00349494 to 0.00063661 it 0.000362628 a 0.000105058 them 4.90286e-05 us 9.24968e-07 that 3.05676e-07 you 9.22237e-08 knead 4.25343e-12 i 3.98883e-12
+align 7 </s> 1

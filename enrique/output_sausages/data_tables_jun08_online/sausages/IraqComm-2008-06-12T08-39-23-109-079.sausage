@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 well 0.544703 yeah 0.289067 *DELETE* 0.16623
+align 2 it's 0.83377 wells 0.161262 yes 0.00447958 nice 0.00046688 knows 2.1612e-05
+align 3 the 0.9758 a 0.0128324 this 0.00865107 that 0.00232876 of 0.000387563
+align 4 factory 1
+align 5 important 0.800076 imported 0.189519 import 0.0102415 *DELETE* 0.000163773
+align 6 *DELETE* 0.988992 it 0.0102415 uh 0.000290331 too 0.00025353 importance 0.000163773 i 5.3597e-05 to 5.54702e-06 can 5.52975e-10 in 5.4573e-11 and 2.69987e-15 that 7.34657e-24
+align 7 </s> 1

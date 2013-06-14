@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 are 1
+align 3 you 1
+align 4 from 1
+align 5 *DELETE* 0.999435 it 0.000376929 her 8.95847e-05 uh 6.29169e-05 you 1.64895e-05 sir 9.24955e-06 home 5.11478e-06 who 2.31908e-06 that 2.31708e-06 this 7.92358e-08 and 1.74268e-12 the 3.66084e-13 a 4.8852e-30
+align 6 </s> 1

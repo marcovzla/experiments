@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 at 1
+align 2 the 1
+align 3 same 1
+align 4 time 1
+align 5 we'll 0.991678 will 0.00832181
+align 6 be 1
+align 7 able 1
+align 8 *DELETE* 0.516354 if 0.449714 to 0.0287223 of 0.00520984
+align 9 and 0.589756 an 0.219334 at 0.102249 *DELETE* 0.085859 in 0.00163719 i 0.000773932 add 0.000391019
+align 10 *DELETE* 0.999226 had 0.000773932
+align 11 a 0.805105 it 0.0942235 anna 0.0541991 the 0.0122957 any 0.0112247 ana 0.0111731 ena 0.00724387 anah 0.00201823 if 0.00159633 of 0.000813275 at 0.000107266
+align 12 tape 1
+align 13 yes 0.809798 the 0.188869 yeah 0.00107747 *DELETE* 0.000255808
+align 14 *DELETE* 0.811127 yes 0.188869 a 3.40826e-06 here 9.49779e-07
+align 15 *DELETE* 0.999996 word 3.40826e-06 in 9.49779e-07 here 6.05519e-09
+align 16 *DELETE* 1 in 6.05519e-09
+align 17 seera 0.649331 say 0.250599 they 0.0726158 there 0.0267755 era 0.000417923 yasser 0.000193914 u._s._a. 6.18947e-05 um 4.36409e-06
+align 18 *DELETE* 0.642738 we're 0.178833 were 0.168716 numb 0.00414894 dome 0.00286667 word 0.0026178 are 7.7855e-05 in'am 1.47923e-06 in 6.62355e-08 and 8.20612e-09
+align 19 *DELETE* 0.995019 numb 0.00203622 on 0.0011981 um 0.00114921 none 0.000509839 dome 8.72009e-05
+align 20 numbers 0.930344 number's 0.0576544 is 0.0102941 those 0.0011981 was 0.000509839
+align 21 on 1
+align 22 these 0.995778 his 0.0042216
+align 23 weapons 1
+align 24 in 1
+align 25 case 1
+align 26 we 1
+align 27 do 1
+align 28 *DELETE* 0.835588 you 0.164412
+align 29 have 1
+align 30 *DELETE* 0.754328 them 0.245672
+align 31 in 0.576526 a 0.28032 and 0.130985 of 0.0121685
+align 32 the 0.40298 *DELETE* 0.304531 missed 0.138393 miss 0.0675763 me 0.0324231 mix 0.0208074 may 0.0181118 nice 0.0151775
+align 33 stores 0.473825 doors 0.241954 storage 0.160121 store's 0.0758025 store 0.0477539 stories 0.000543723
+align 34 *DELETE* 0.952246 is 0.0470109 it 0.00074303
+align 35 at 0.987922 out 0.0108544 i 0.000669275 have 0.000444054 are 0.000110604
+align 36 the 0.999546 to 0.000444054 them 1.01305e-05
+align 37 catch 0.979956 cats 0.0200388 cache 5.53792e-06
+align 38 and 0.923252 in 0.0767476
+align 39 some 1
+align 40 of 1
+align 41 these 1
+align 42 bad 0.986676 bag 0.0123556 back 0.000435509 bags 0.000406996 *DELETE* 0.000125867
+align 43 guys 0.993729 is 0.00592916 eyes 0.000215511 baghdad's 0.000125867
+align 44 *DELETE* 0.999909 uh 6.66155e-05 i 2.40033e-05
+align 45 </s> 1

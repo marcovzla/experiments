@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.684948 what's 0.315052
+align 2 *DELETE* 0.561943 is 0.438057
+align 3 does 0.36408 *DELETE* 0.314201 his 0.197864 your 0.123855
+align 4 *DELETE* 0.935067 your 0.0649327
+align 5 route 0.795671 uh 0.188788 wrong 0.0155409
+align 6 the 0.996532 a 0.00313306 to 0.000274567 that 3.31515e-05 of 2.42444e-05 *DELETE* 1.26856e-15
+align 7 problem 0.999751 *DELETE* 0.000248878
+align 8 *DELETE* 0.96725 uh 0.0211681 i 0.0109708 is 0.000293698 problems 0.000248878 to 2.30324e-05 the 1.133e-05 in 9.25063e-06 it 6.23207e-06 you 5.59627e-06 um 5.38504e-06 that 3.65687e-06 a 1.80208e-06 of 1.50773e-06 but 2.84918e-07 with 1.1114e-08 if 6.37292e-10 and 1.81688e-10 do 3.78071e-12 at 2.43059e-12
+align 9 </s> 1

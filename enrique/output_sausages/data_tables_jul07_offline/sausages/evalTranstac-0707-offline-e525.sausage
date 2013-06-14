@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 well 0.736201 when 0.242663 what 0.0211356
+align 2 we 1
+align 3 *DELETE* 0.380839 had 0.286172 think 0.165336 bring 0.0526331 went 0.0435249 hang 0.0294969 thank 0.0151837 need 0.0139908 have 0.00716593 rent 0.00366302 can 0.00117108 want 0.000824307
+align 4 told 1
+align 5 us 0.978641 his 0.0101342 as 0.00642168 is 0.00480348
+align 6 they're 0.715698 that 0.20138 there 0.071663 their 0.00609952 they 0.00359441 i 0.00140174 a 0.000162772
+align 7 probably 1
+align 8 the 1
+align 9 owner 1
+align 10 of 1
+align 11 the 0.997339 this 0.00266132
+align 12 shop 1
+align 13 is 0.961744 as 0.0286693 it's 0.00489507 his 0.00323398 was 0.00145799
+align 14 letting 1
+align 15 them 0.983578 the 0.0164223
+align 16 men 0.537027 man 0.308288 in 0.122378 many 0.0323066
+align 17 but 0.979326 with 0.0200927 what 0.000581582
+align 18 the 1
+align 19 employees 0.999214 employees' 0.000786156
+align 20 are 1
+align 21 gone 0.999975 done 2.5474e-05
+align 22 and 0.994475 in 0.00479713 then 0.000568567 the 0.000119624 on 2.03317e-05 to 1.94024e-05
+align 23 don't 0.999365 oh 0.000376398 own 0.000215559 go 4.24416e-05 *DELETE* 1.83147e-07 o 1.88678e-10
+align 24 know 0.993479 no 0.0065211
+align 25 *DELETE* 0.995381 uh 0.00354574 it 0.000549929 i 0.000424137 of 6.62456e-05 you 1.52674e-05 a 9.08383e-06 if 7.42134e-06 no 1.04383e-06 the 7.77975e-08
+align 26 </s> 1

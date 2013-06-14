@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 so 0.819977 till 0.138399 tell 0.0416237
+align 2 i 1
+align 3 *DELETE* 0.998489 i 0.00151055
+align 4 see 1
+align 5 you 0.946329 it 0.035289 *DELETE* 0.0183609 your 1.4554e-05 you're 6.51358e-06
+align 6 then 0.99979 them 0.00021026
+align 7 uh 0.993125 *DELETE* 0.00346158 and 0.00341351
+align 8 i 0.991534 *DELETE* 0.00454168 uh 0.00392414
+align 9 *DELETE* 0.995334 i 0.00466644
+align 10 have 1
+align 11 a 1
+align 12 good 1
+align 13 day 1
+align 14 *DELETE* 1 uh 6.53527e-08 i 2.32432e-08
+align 15 </s> 1

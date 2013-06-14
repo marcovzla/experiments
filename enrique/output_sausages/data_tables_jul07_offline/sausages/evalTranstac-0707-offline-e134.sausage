@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.997857 does 0.0021429
+align 3 your 1
+align 4 most 1
+align 5 important 1
+align 6 need 0.996029 neat 0.0028204 knead 0.00114655 meat 4.01048e-06 me 5.70136e-08 needs 1.59353e-08 knee 3.39104e-09 meet 3.09154e-11
+align 7 *DELETE* 1 a 5.31334e-08 uh 1.60658e-08
+align 8 </s> 1

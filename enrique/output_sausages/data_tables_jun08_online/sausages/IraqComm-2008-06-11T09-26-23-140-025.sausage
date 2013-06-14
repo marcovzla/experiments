@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 uh 0.976304 *DELETE* 0.0236961
+align 2 please 0.996564 uh 0.00343563
+align 3 *DELETE* 0.996564 please 0.00343563
+align 4 repeat 1
+align 5 yourself 0.999553 your 0.000336764 *DELETE* 0.000110656
+align 6 *DELETE* 0.999553 self 0.000336764 yourselves 0.000110656 cell 9.18558e-12 south 3.62802e-12
+align 7 </s> 1

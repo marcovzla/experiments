@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 *DELETE* 0.603692 would 0.396308
+align 4 perform 1
+align 5 background 1
+align 6 checks 1
+align 7 on 1
+align 8 your 0.99954 their 0.000330207 our 0.000128679 you're 8.40295e-07 you 1.82859e-15
+align 9 workers 0.999281 workers' 0.000436076 worker's 0.000282736
+align 10 </s> 1

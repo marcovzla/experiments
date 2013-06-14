@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 is 1
+align 3 the 1
+align 4 commanding 1
+align 5 officer 1
+align 6 *DELETE* 0.996772 is 0.0028193 i 0.00024869 uh 9.10167e-05 of 6.83823e-05 a 6.05636e-07 in 6.99734e-08 you 3.07777e-10 and 7.79609e-11 if 4.11494e-11 the 4.00958e-11 to 1.21083e-11
+align 7 </s> 1

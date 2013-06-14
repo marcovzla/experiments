@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 now 0.9021 no 0.0978998
+align 2 uh 0.996742 i 0.00325837
+align 3 let's 0.936194 lets 0.0638057
+align 4 go 1
+align 5 uh 0.530504 um 0.469496
+align 6 *DELETE* 0.469577 uh 0.409523 um 0.1209
+align 7 *DELETE* 0.996828 uh 0.0031722 and 2.28986e-07 oh 2.1576e-08
+align 8 let's 0.998086 lets 0.00187746 just 3.69996e-05
+align 9 go 1
+align 10 ahead 1
+align 11 out 0.94309 i'll 0.05271 off 0.00419971
+align 12 to 0.999998 of 2.49175e-06
+align 13 the 1
+align 14 road 1
+align 15 and 0.989998 in 0.0100022
+align 16 that 0.769158 *DELETE* 0.230842
+align 17 way 0.769158 now 0.230842
+align 18 you 0.769158 we 0.230842
+align 19 can 0.803836 can't 0.13252 could 0.0636442
+align 20 uh 0.709044 is 0.288522 i 0.00243402
+align 21 *DELETE* 0.955674 uh 0.0438271 i 0.000498666
+align 22 set 1
+align 23 up 1
+align 24 our 1
+align 25 uh 1
+align 26 our 1
+align 27 snap 0.999839 stay 0.000160795
+align 28 v._c._p.s 1
+align 29 </s> 1

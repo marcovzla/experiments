@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 there 0.393791 sir 0.333098 that 0.230678 so 0.0214523 here 0.00712001 or 0.005359 they're 0.00443225 their 0.00208777 i 0.00134273 they 0.000639196
+align 3 we 1
+align 4 can 0.741055 can't 0.258945
+align 5 do 1
+align 6 that 1
+align 7 and 1
+align 8 we 1
+align 9 will 0.999524 we'll 0.000473601 would 2.42925e-06
+align 10 do 1
+align 11 that 1
+align 12 </s> 1

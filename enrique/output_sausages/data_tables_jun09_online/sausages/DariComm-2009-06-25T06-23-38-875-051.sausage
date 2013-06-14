@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 soon 1
+align 3 do 1
+align 4 you 0.999317 *DELETE* 0.000682759
+align 5 want 0.994 have 0.00600005
+align 6 to 1
+align 7 start 0.994879 stay 0.00479125 *DELETE* 0.000300765 stop 2.85958e-05
+align 8 *DELETE* 0.983929 it 0.00530458 at 0.00416537 off 0.00339055 uh 0.00128689 a 0.0010077 out 0.000594724 stand 0.000110004 on 7.69096e-05 now 4.93372e-05 by 2.78018e-05 stock 1.84805e-05 to 1.59775e-05 stat 1.41789e-05 the 4.33696e-06 from 3.72877e-06 how 2.69518e-07 stack 1.02018e-07 study 6.2018e-08 step 3.58536e-08 stab 1.86278e-08 you 1.36923e-08 in 6.60559e-11 or 1.45714e-12 we 7.44973e-14 is 1.07109e-17 and 3.55504e-18
+align 9 *DELETE* 0.99905 up 0.000313445 i 0.000260894 all 0.000218168 stop 0.000157883
+align 10 </s> 1

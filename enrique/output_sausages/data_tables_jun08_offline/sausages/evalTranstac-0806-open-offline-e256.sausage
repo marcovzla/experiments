@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 that's 0.777516 it's 0.222484
+align 3 a 1
+align 4 very 1
+align 5 bad 1
+align 6 *DELETE* 0.599455 i 0.400373 uh 0.00016893 at 2.84941e-06
+align 7 have 0.604395 *DELETE* 0.394892 a 0.000713136
+align 8 it 0.60272 habit 0.383842 haven't 0.00853931 at 0.000914622 happen 0.000809742 having 0.000559439 have 0.000534148 havoc 0.000532208 habits 0.000480535 a 0.00038461 happened 0.000153592 habid 0.000150112 is 7.99835e-05 in 7.46813e-05 hit 6.38105e-05 if 4.5782e-05 eid 2.60388e-05 that 2.45414e-05 eight 1.98789e-05 been 1.48784e-05 an 1.03275e-05 ill 5.04898e-06 air 3.0425e-06 as 3.02673e-06 him 2.98385e-06 happens 2.00596e-06 average 8.67848e-07 to 8.14682e-07 abed 7.67024e-07 bit 5.10574e-07 aid 2.20225e-07 add 1.1364e-07 added 3.00364e-08 any 2.25372e-09 good 5.76971e-10 uh 4.69662e-11
+align 9 *DELETE* 0.999441 it 0.000551167 i 7.46068e-06 a 1.64864e-07 at 1.47585e-08
+align 10 </s> 1

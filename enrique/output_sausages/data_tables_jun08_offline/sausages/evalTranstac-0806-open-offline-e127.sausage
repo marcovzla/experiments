@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 0.999256 do 0.000743894
+align 3 *DELETE* 0.999256 uh 0.000743894
+align 4 before 1
+align 5 i 1
+align 6 leave 1
+align 7 is 0.946039 *DELETE* 0.0539615
+align 8 just 1
+align 9 like 1
+align 10 a 0.985126 uh 0.0148737
+align 11 couple 1
+align 12 uh 1
+align 13 *DELETE* 0.804525 at 0.113906 uh 0.0758355 a 0.00573353
+align 14 more 0.999087 a 0.000913368
+align 15 *DELETE* 0.999087 more 0.000913368
+align 16 questions 1
+align 17 i'd 0.996817 i 0.00317889 uh 4.05949e-06 i'll 6.81547e-09
+align 18 like 1
+align 19 to 1
+align 20 ask 1
+align 21 you 1
+align 22 *DELETE* 0.999985 uh 9.13194e-06 a 6.22613e-06
+align 23 </s> 1

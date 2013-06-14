@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 well 0.999937 i 3.24073e-05 oh 2.52104e-05 *DELETE* 5.63218e-06 i'm 1.71274e-12
+align 2 why 0.999879 *DELETE* 7.07779e-05 will 3.1186e-05 i 1.1764e-05 low 2.75672e-06 uh 2.74354e-06 don't 1.21799e-06 no 2.79366e-07 oh 2.25041e-08 going 1.71274e-12
+align 3 are 0.999882 uh 9.41877e-05 i 3.04967e-05 allow 1.31924e-07 hi 1.18641e-08 our 3.90863e-15
+align 4 *DELETE* 0.999999 uh 1.0377e-06 i 3.52223e-07
+align 5 you 0.999999 i 1.46835e-06 *DELETE* 1.20286e-11
+align 6 *DELETE* 0.988477 uh 0.00727183 in 0.00415465 i 4.83179e-05 a 4.6765e-05 you 1.46955e-06 u 1.00298e-08 to 1.62229e-09 yu 1.40451e-09 hugh 6.16493e-10 do 6.02989e-10 the 3.61512e-14
+align 7 </s> 1

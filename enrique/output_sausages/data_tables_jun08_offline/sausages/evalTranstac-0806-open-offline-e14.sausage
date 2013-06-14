@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 how 0.549553 no 0.450447
+align 2 accord 0.988007 a 0.00840777 according 0.00358503
+align 3 *DELETE* 0.991753 court 0.00824653
+align 4 you 0.705288 to 0.263513 two 0.0310381 corridor 0.000161242 your 8.97717e-11 too 7.64215e-15 you'll 4.20236e-17
+align 5 personnel 0.977944 a 0.0220549 you 1.57035e-06
+align 6 *DELETE* 0.977944 personnel 0.0220564
+align 7 i 0.949448 *DELETE* 0.0437179 on 0.00515307 at 0.00138815 uh 0.000292782
+align 8 mean 0.947099 and 0.0433 me 0.00825389 *DELETE* 0.000928863 in 0.000417878
+align 9 *DELETE* 0.999898 me 9.38042e-05 the 7.94545e-06
+align 10 what 1
+align 11 is 1
+align 12 the 1
+align 13 morale 1
+align 14 of 1
+align 15 your 1
+align 16 police 1
+align 17 officers 0.999998 offices 1.73007e-06
+align 18 </s> 1

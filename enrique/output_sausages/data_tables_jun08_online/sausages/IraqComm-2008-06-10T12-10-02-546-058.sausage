@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 repeat 1 *DELETE* 3.91379e-18
+align 3 *DELETE* 0.999933 it 6.66381e-05 i 1.86695e-09 ruthie 4.59507e-14
+align 4 </s> 1

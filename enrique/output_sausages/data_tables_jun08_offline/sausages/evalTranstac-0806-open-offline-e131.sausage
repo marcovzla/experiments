@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 agree 1
+align 3 um 1
+align 4 uh 1
+align 5 one 0.988515 oh 0.0114847
+align 6 *DELETE* 0.988515 one 0.0114847
+align 7 last 1
+align 8 thing 1
+align 9 uh 0.764607 i 0.208312 *DELETE* 0.0270814
+align 10 uh 0.98845 *DELETE* 0.00884464 a 0.00270419 i 1.02223e-06
+align 11 uh 0.996175 i 0.00382528
+align 12 *DELETE* 0.999965 uh 3.45199e-05
+align 13 *DELETE* 0.967589 uh 0.0224684 i 0.00994263
+align 14 do 1
+align 15 you 1
+align 16 have 1
+align 17 a 1
+align 18 *DELETE* 0.999922 a 7.82092e-05
+align 19 job 1
+align 20 and 0.988731 in 0.0112693
+align 21 what's 0.996604 what 0.0033962
+align 22 your 1
+align 23 uh 1
+align 24 occupation 0.930578 uh 0.0694219
+align 25 *DELETE* 0.930578 occupation 0.0694219
+align 26 if 1
+align 27 you 1
+align 28 have 1
+align 29 a 0.999979 *DELETE* 2.00343e-05 the 4.71962e-07
+align 30 job 0.999994 jobs 6.22289e-06
+align 31 *DELETE* 0.999997 i 2.90753e-06
+align 32 </s> 1

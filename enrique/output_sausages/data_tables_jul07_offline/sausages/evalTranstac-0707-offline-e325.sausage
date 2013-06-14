@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 uh 1
+align 3 direction 0.999794 drips 0.000205503
+align 4 over 1
+align 5 here 1
+align 6 is 1
+align 7 uh 1
+align 8 north 0.567537 in 0.410414 an 0.0126677 uh 0.00629673 a 0.00237751 and 0.000707593 i 1.29374e-09 *DELETE* 4.70222e-29
+align 9 *DELETE* 0.567405 north 0.432463 uh 7.06591e-05 of 5.38314e-05 i 7.64648e-06 in 1.73276e-18 it 1.64503e-20 a 1.17527e-20 norris 7.13099e-24
+align 10 </s> 1

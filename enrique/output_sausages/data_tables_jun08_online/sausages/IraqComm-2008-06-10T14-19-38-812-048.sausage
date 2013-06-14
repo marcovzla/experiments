@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999059 i 0.000940566
+align 2 have 1
+align 3 you 1
+align 4 requested 1
+align 5 assistance 1
+align 6 from 1
+align 7 the 1 a 1.05434e-09
+align 8 government 1
+align 9 *DELETE* 1 do 3.48943e-08 i 1.20294e-12 to 1.8167e-14
+align 10 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i 0.956441 *DELETE* 0.0435586
+align 3 need 1
+align 4 to 1
+align 5 open 1
+align 6 the 1
+align 7 trunk 1
+align 8 as 0.997204 *DELETE* 0.00268969 was 0.000106624 has 5.05468e-09 and 6.33884e-10
+align 9 well 0.997164 little 0.00268969 will 0.000130508 we'll 1.58015e-05 low 1.32463e-13
+align 10 sir 0.998932 so 0.00106828
+align 11 </s> 1

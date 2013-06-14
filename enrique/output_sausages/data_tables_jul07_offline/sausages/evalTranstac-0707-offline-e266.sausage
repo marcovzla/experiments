@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 that 1
+align 2 is 1
+align 3 a 0.981345 our 0.0186543 the 2.78565e-07
+align 4 problem 1
+align 5 as 0.999908 is 9.21434e-05
+align 6 the 0.965472 a 0.029218 as 0.0043657 is 0.000944004
+align 7 *DELETE* 0.99469 a 0.0053097
+align 8 iraqi 1
+align 9 police 1
+align 10 or 0.99973 are 0.000269689
+align 11 just 1
+align 12 gaining 1
+align 13 your 0.837157 you're 0.16261 year 0.00020423 near 2.70976e-05 you 2.22776e-06
+align 14 *DELETE* 0.999998 are 2.22776e-06
+align 15 confidence 1
+align 16 *DELETE* 0.999945 i 5.34761e-05 in 1.95927e-06
+align 17 </s> 1

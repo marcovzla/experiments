@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 now 0.997496 yeah 0.00247152 no 3.29749e-05
+align 2 also 0.999979 *DELETE* 2.11793e-05
+align 3 i 1
+align 4 *DELETE* 0.999979 also 2.11793e-05
+align 5 *DELETE* 0.999979 i 2.11793e-05
+align 6 to 0.754229 did 0.173468 should 0.0589411 *DELETE* 0.00670548 do 0.0066568
+align 7 *DELETE* 0.993343 you 0.0066568
+align 8 get 0.941627 you 0.0583734
+align 9 away 1
+align 10 from 1
+align 11 the 1
+align 12 guards 0.997603 guard's 0.0017814 guards' 0.000615644
+align 13 do 1
+align 14 you 1
+align 15 have 1
+align 16 any 1
+align 17 concerns 0.868733 concern 0.0832314 concerned 0.0480353
+align 18 with 1
+align 19 your 0.95738 here 0.0208158 you 0.0172776 you're 0.00452613
+align 20 with 1
+align 21 the 0.693225 uh 0.306775
+align 22 internal 0.986285 uh 0.0137153
+align 23 *DELETE* 0.986285 internal 0.0137153
+align 24 sabotage 0.966845 sabotaged 0.0331552
+align 25 with 1
+align 26 your 0.956484 you 0.0414043 you're 0.00211137
+align 27 employees 0.996744 employee's 0.00293621 employees' 0.000319363
+align 28 *DELETE* 1 uh 2.43427e-07
+align 29 </s> 1

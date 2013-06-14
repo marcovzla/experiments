@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 open 1
+align 2 up 1
+align 3 the 1
+align 4 hood 1
+align 5 *DELETE* 0.998263 too 0.000612456 uh 0.000501821 the 0.000362073 to 7.112e-05 i 5.45573e-05 then 5.41615e-05 and 3.64146e-05 now 2.41642e-05 though 1.10891e-05 there 6.5544e-06 thing 1.97023e-06 a 3.2929e-07 you 1.18779e-07 this 8.21521e-14 is 3.69194e-14 it 5.86407e-18 they 6.1951e-19 them 1.5717e-22 that 6.48345e-25 so 1.56908e-30
+align 6 </s> 1

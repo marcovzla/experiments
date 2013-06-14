@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 live 1
+align 5 with 1
+align 6 you 1
+align 7 *DELETE* 0.999991 or 8.58657e-06 in 5.59826e-15 you 4.53235e-18
+align 8 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 know 1
+align 5 *DELETE* 0.99997 of 3.04854e-05
+align 6 the 1
+align 7 people 1
+align 8 in 0.999982 and 1.73865e-05 *DELETE* 2.70059e-11
+align 9 your 0.999883 their 7.05615e-05 her 4.63975e-05 our 1.96732e-07 under 1.2408e-07
+align 10 car 0.999901 cart 9.93645e-05 *DELETE* 2.9276e-21
+align 11 *DELETE* 0.999998 uh 1.22823e-06 i 9.99738e-07 now 3.14424e-15 card 1.07322e-17 have 3.69579e-18 and 4.00377e-19
+align 12 </s> 1

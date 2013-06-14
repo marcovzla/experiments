@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 oh 3.39392e-07
+align 2 okay 1
+align 3 now 1
+align 4 what 1
+align 5 the 1
+align 6 animals 0.996844 anna 0.00261973 adam 0.000536686
+align 7 *DELETE* 0.996844 most 0.00315642
+align 8 out 0.440262 up 0.366758 of 0.148781 uh 0.0315452 have 0.00588943 i've 0.00251327 i'll 0.00216647 i 0.00192285 *DELETE* 0.00016148
+align 9 before 1
+align 10 we 1
+align 11 want 0.556138 go 0.338525 going 0.0647357 don't 0.0406017
+align 12 to 0.661475 into 0.337618 in 0.000906673 so 2.15167e-11 on 1.33914e-12
+align 13 *DELETE* 0.999093 sir 0.000906673 to 1.33914e-12
+align 14 that 1
+align 15 i 0.998872 *DELETE* 0.00112845
+align 16 *DELETE* 0.687337 just 0.277133 would 0.0341203 i'd 0.00112845 did 0.0002375 do 4.32347e-05
+align 17 *DELETE* 0.96453 you 0.0354696
+align 18 want 0.999788 wanted 0.000211847
+align 19 to 0.73702 you 0.26298
+align 20 *DELETE* 0.770614 to 0.229386
+align 21 know 1
+align 22 or 1
+align 23 understand 1
+align 24 that 1
+align 25 some 1
+align 26 of 0.80366 *DELETE* 0.19634
+align 27 the 0.80366 other 0.19634
+align 28 livestock 1
+align 29 around 0.973231 run 0.0177182 round 0.00905045
+align 30 you 0.376529 he 0.370191 here 0.196022 your 0.0552494 you're 0.000729341 there 0.000664438 him 0.000615781
+align 31 may 0.998999 a 0.000615781 men 0.000384942
+align 32 have 0.972271 had 0.0277288
+align 33 to 0.998592 can 0.00134867 *DELETE* 5.94664e-05
+align 34 get 0.975941 give 0.0240593
+align 35 removed 0.999883 remove 0.00011693
+align 36 *DELETE* 0.999868 it 0.000122801 them 8.26244e-06 i 5.4265e-07 the 4.535e-07 a 3.20671e-07 uh 4.88792e-08 do 2.54514e-09
+align 37 </s> 1

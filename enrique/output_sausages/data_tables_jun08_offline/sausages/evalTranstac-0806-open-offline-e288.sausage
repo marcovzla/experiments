@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 uh 1
+align 3 it's 1
+align 4 uh 1
+align 5 it's 1
+align 6 a 0.986013 the 0.0139867
+align 7 suggestion 1
+align 8 that 0.988639 they 0.00857248 then 0.00161535 to 0.000709639 but 0.000463243
+align 9 you 1
+align 10 can 1
+align 11 give 0.999133 get 0.000867233
+align 12 to 0.999885 two 0.000115442
+align 13 your 0.999889 years 0.000110319 year 9.53698e-07
+align 14 soldiers 0.999998 soldiers' 2.13821e-06
+align 15 *DELETE* 0.999976 uh 1.9136e-05 i 4.47096e-06
+align 16 </s> 1

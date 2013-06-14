@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 i 1
+align 3 think 1
+align 4 the 1
+align 5 um 0.939784 uh 0.0602158
+align 6 they 1
+align 7 will 1
+align 8 not 1
+align 9 be 1
+align 10 going 1
+align 11 through 1
+align 12 the 1
+align 13 permanent 0.912839 permit 0.0871611
+align 14 checkpoints 1
+align 15 because 1
+align 16 they 1
+align 17 know 1
+align 18 they 0.948935 they've 0.0375279 the 0.0135372
+align 19 been 0.983592 bin 0.0161954 have 0.000212764
+align 20 *DELETE* 0.999787 been 0.000212764
+align 21 sighted 0.668141 sided 0.326259 side 0.00560093
+align 22 *DELETE* 0.994402 it 0.00555144 did 4.60444e-05 good 3.18288e-07 and 1.55824e-07 add 8.26919e-08 at 8.71877e-09
+align 23 </s> 1

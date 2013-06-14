@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 the 1
+align 3 water 1
+align 4 from 1
+align 5 a 0.952892 the 0.0471078
+align 6 well 1
+align 7 safe 0.968284 a 0.0317161 *DELETE* 7.62963e-15
+align 8 *DELETE* 0.968284 safe 0.0317161
+align 9 to 1 safety 3.10412e-09
+align 10 drink 1
+align 11 *DELETE* 0.999556 it 0.000432408 uh 1.1237e-05 i 4.37707e-07
+align 12 </s> 1

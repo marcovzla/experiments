@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 types 0.995372 is 0.00393202 type 0.000696462
+align 3 of 0.995348 the 0.00465173
+align 4 probably 0.997929 problem 0.00156278 problems 0.000508484
+align 5 *DELETE* 0.99484 you 0.00516022
+align 6 experiencing 0.717615 you 0.2263 experience 0.0560409 experienced 4.38112e-05
+align 7 *DELETE* 0.747386 experiencing 0.1977 experience 0.0284257 in 0.0141818 him 0.0113334 some 0.000783335 experienced 0.000174723 on 1.53521e-05
+align 8 *DELETE* 0.947376 and 0.0384774 him 0.00649606 in 0.00406972 on 0.00140854 them 0.00088247 the 0.000839167 some 0.000450888
+align 9 *DELETE* 0.999975 the 2.50453e-05
+align 10 to 0.894579 two 0.0850059 too 0.0131872 into 0.00658617 through 0.00051553 do 0.000126367
+align 11 facility 1
+align 12 at 0.99874 it 0.00124214 if 1.79052e-05 that 3.84626e-08
+align 13 this 1 the 4.79272e-07
+align 14 time 1 stock 4.78171e-07 start 1.10113e-09
+align 15 *DELETE* 0.999991 uh 8.67978e-06 i 7.66517e-08
+align 16 </s> 1

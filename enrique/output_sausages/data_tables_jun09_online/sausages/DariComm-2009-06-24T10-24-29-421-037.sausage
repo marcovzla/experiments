@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 how 0.998416 hi 0.00158376
+align 2 long 0.998416 i'm 0.00158376
+align 3 does 1
+align 4 this 0.999492 the 0.000507894
+align 5 soldier 1
+align 6 need 0.95985 or 0.0400938 *DELETE* 5.64198e-05
+align 7 *DELETE* 0.959906 need 0.0400938
+align 8 to 0.999844 the 9.93631e-05 needs 5.64198e-05
+align 9 stay 1
+align 10 in 1
+align 11 the 0.98928 *DELETE* 0.0100469 a 0.000673156
+align 12 hospital 0.999991 *DELETE* 9.03951e-06
+align 13 *DELETE* 0.99997 uh 1.56024e-05 hospitals 9.03951e-06 in 2.65843e-06 too 2.59577e-06 and 1.08128e-07 is 2.7653e-08 i 7.99227e-09 to 4.94656e-09 it 4.75056e-11 but 1.63583e-12 you 5.31652e-13 do 9.70747e-14
+align 14 </s> 1

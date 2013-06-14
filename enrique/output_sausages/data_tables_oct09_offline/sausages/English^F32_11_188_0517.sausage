@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i 0.678668 uh 0.307076 that 0.0118231 the 0.00182865 up 0.000603649
+align 3 have 0.678668 *DELETE* 0.306566 uh 0.0147654
+align 4 my 1
+align 5 marines 1
+align 6 *DELETE* 0.877158 are 0.122842
+align 7 and 0.877158 gonna 0.120562 going 0.0022803
+align 8 be 1
+align 9 taking 1
+align 10 the 1
+align 11 other 1
+align 12 side 1
+align 13 of 1
+align 14 the 0.975868 them 0.0227218 him 0.00141032
+align 15 *DELETE* 0.968818 were 0.0133797 or 0.0107524 more 0.00704992
+align 16 uh 1
+align 17 of 0.997108 uh 0.00289194
+align 18 the 0.999351 *DELETE* 0.000649409
+align 19 bridge 1
+align 20 *DELETE* 0.999975 uh 2.43715e-05 i 1.12754e-06
+align 21 </s> 1

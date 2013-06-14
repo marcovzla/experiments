@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 understand 1
+align 3 what 1
+align 4 just 0.955122 this 0.0321021 does 0.0125437 is 0.000168938 did 6.30542e-05 use 1.86511e-10
+align 5 came 1
+align 6 out 1
+align 7 of 1
+align 8 the 1
+align 9 machine 0.999675 machines 0.000325095
+align 10 *DELETE* 0.999149 uh 0.000513364 i 0.000314471 to 1.49419e-05 you 2.84513e-06 it 1.92783e-06 and 1.69819e-06 in 1.02542e-06 do 7.55327e-07 is 2.23306e-07 or 4.46725e-08 a 2.43159e-08 so 1.67878e-11
+align 11 </s> 1

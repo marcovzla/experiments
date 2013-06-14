@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 now 0.988687 no 0.0113125
+align 3 before 1
+align 4 we 1
+align 5 get 1
+align 6 started 1
+align 7 to 0.343577 did 0.33783 the 0.185528 *DELETE* 0.133063 do 1.5721e-06
+align 8 years 0.662168 you 0.223588 used 0.108846 use 0.00539818
+align 9 squad 0.803099 squat 0.178491 a 0.0184098
+align 10 *DELETE* 0.98159 squad 0.0184098
+align 11 have 1
+align 12 any 1
+align 13 immediate 1
+align 14 action 1
+align 15 drills 1
+align 16 </s> 1

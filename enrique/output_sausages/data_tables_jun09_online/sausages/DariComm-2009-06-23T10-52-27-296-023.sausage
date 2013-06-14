@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 0.928959 can 0.0710411
+align 3 of 0.928959 i 0.0710411
+align 4 help 1
+align 5 do 0.988293 *DELETE* 0.0117074
+align 6 you 1
+align 7 need 1
+align 8 *DELETE* 0.994212 uh 0.00413376 it 0.000849915 to 0.000640355 a 0.000141073 that 1.84871e-05 you 2.59914e-06 us 1.00744e-06 me 3.32175e-07 do 3.98861e-09 i 1.79685e-10 in 6.56182e-11
+align 9 </s> 1

@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 what 1
+align 5 uh 1
+align 6 what 1
+align 7 direction 1
+align 8 the 1
+align 9 um 0.622105 uh 0.376866 of 0.00102872
+align 10 the 0.994054 of 0.00409011 uh 0.00185573
+align 11 *DELETE* 0.994054 the 0.00594584
+align 12 red 1
+align 13 car 1
+align 14 um 0.988023 uh 0.0119774
+align 15 drove 0.999185 tour 0.00050857 girl 0.000306485
+align 16 off 0.958824 *DELETE* 0.0406675 of 0.00050857
+align 17 and 0.549133 then 0.335167 in 0.0683047 often 0.0411711 an 0.00568749 them 0.000243979 than 0.000152173 end 7.92593e-05 n 5.62182e-05 off 4.97409e-06 ten 1.06311e-07
+align 18 *DELETE* 0.999913 uh 4.57058e-05 i 2.98517e-05 a 6.26638e-06 and 4.85961e-06 in 1.14488e-07
+align 19 </s> 1

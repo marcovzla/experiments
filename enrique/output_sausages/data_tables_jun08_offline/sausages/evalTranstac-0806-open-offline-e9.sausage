@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 what 0.987461 well 0.0121926 but 0.000346447
+align 2 we 1
+align 3 can 0.883502 could 0.116498
+align 4 do 1
+align 5 certain 0.975332 sir 0.024668
+align 6 *DELETE* 0.976075 and 0.0177425 in 0.0061824 if 3.43116e-07
+align 7 things 1
+align 8 for 1
+align 9 you 1
+align 10 at 1
+align 11 this 1
+align 12 time 1
+align 13 *DELETE* 0.999954 i 3.59086e-05 uh 1.03987e-05
+align 14 </s> 1

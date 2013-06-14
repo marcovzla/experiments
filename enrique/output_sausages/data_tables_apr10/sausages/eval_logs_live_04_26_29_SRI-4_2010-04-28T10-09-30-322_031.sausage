@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 sell 0.999988 *DELETE* 1.15081e-05
+align 5 *DELETE* 0.999668 it 0.000319609 cell 1.15081e-05 a 5.54174e-07 in 4.54076e-07
+align 6 </s> 1

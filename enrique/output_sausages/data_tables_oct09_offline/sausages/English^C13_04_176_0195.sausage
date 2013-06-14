@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 missus 0.650047 this 0.303076 miss 0.0380493 misses 0.00491779 was 0.00276428 mister 0.00114518
+align 2 *DELETE* 0.699008 is 0.300992
+align 3 your 0.999118 you're 0.000881861
+align 4 case 1
+align 5 number 1
+align 6 *DELETE* 0.999973 a 2.68573e-05 uh 6.97988e-10 is 2.81882e-10
+align 7 </s> 1

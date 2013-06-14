@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 yeah 0.729142 and 0.14819 uh 0.0742097 no 0.0237966 *DELETE* 0.0101813 if 0.00764606 then 0.00300264 the 0.0025234 in 0.00130851
+align 2 *DELETE* 0.99922 uh 0.000579429 um 0.000200903
+align 3 this 1
+align 4 is 1
+align 5 the 1
+align 6 uh 0.887657 year 0.112343
+align 7 *DELETE* 0.887657 of 0.112343
+align 8 the 1
+align 9 grand 1
+align 10 mosque 1
+align 11 in 0.92345 and 0.0765497
+align 12 *DELETE* 0.795659 in 0.204341
+align 13 the 0.970442 a 0.0295567 then 1.06469e-06 an 2.14687e-10 *DELETE* 3.15229e-11
+align 14 minaret 0.999994 minarets 6.20989e-06
+align 15 *DELETE* 1 i 1.8903e-09
+align 16 </s> 1

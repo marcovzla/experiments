@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 0.975558 *DELETE* 0.0244425
+align 2 is 0.975558 how's 0.0244425 does 1.42584e-12
+align 3 your 1
+align 4 family 1
+align 5 *DELETE* 0.999803 uh 0.000196939 to 3.16184e-09 i 5.42468e-11
+align 6 </s> 1

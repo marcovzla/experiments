@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 0.782454 what 0.212536 or 0.00430141 well 0.000612506 *DELETE* 9.58135e-05
+align 2 do 0.999689 are 0.000162495 were 9.58135e-05 *DELETE* 5.31822e-05
+align 3 you 1
+align 4 teach 1
+align 5 *DELETE* 0.999996 a 3.42951e-06 uh 4.20174e-07
+align 6 </s> 1

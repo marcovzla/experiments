@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 will 0.990705 would 0.00398482 well 0.00381547 i 0.00148071 we'll 1.25355e-05 what 1.02812e-06
+align 2 *DELETE* 0.998519 will 0.00148071
+align 3 you 0.996186 you'll 0.00381409
+align 4 be 1
+align 5 able 1
+align 6 to 1
+align 7 make 1
+align 8 your 1
+align 9 own 1
+align 10 construction 1
+align 11 plants 0.854802 plans 0.142588 plant's 0.00220588 *DELETE* 0.000222667 plan 0.00018111
+align 12 *DELETE* 0.999163 it 0.000312242 plan's 0.000222667 is 7.0824e-05 it's 6.85775e-05 to 6.19464e-05 i 5.02551e-05 this 4.09079e-05 uh 7.8651e-06 if 9.54135e-07 its 8.00672e-07 a 2.90282e-07 as 4.92565e-08 the 4.16617e-08 do 2.67883e-10
+align 13 </s> 1

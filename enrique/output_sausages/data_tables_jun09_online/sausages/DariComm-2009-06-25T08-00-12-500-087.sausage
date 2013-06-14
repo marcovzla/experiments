@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 you 0.900895 *DELETE* 0.0991049
+align 2 we 0.285876 *DELETE* 0.229195 were 0.188522 will 0.0809557 are 0.0708599 your 0.0515174 you're 0.0475874 know 0.0454866
+align 3 use 0.964695 used 0.0219823 we 0.0133223
+align 4 *DELETE* 0.986678 use 0.0133223
+align 5 the 1
+align 6 gloves 0.998801 globes 0.00119872
+align 7 so 1
+align 8 you 1
+align 9 do 1
+align 10 not 1
+align 11 contaminate 1
+align 12 your 0.99681 you're 0.00319014
+align 13 patient 0.999885 patients 0.000114693 *DELETE* 4.36318e-16
+align 14 *DELETE* 0.999988 uh 4.71431e-06 it 3.69591e-06 i 3.09116e-06 at 6.76131e-08 patience 1.58037e-10 to 1.52891e-14
+align 15 </s> 1

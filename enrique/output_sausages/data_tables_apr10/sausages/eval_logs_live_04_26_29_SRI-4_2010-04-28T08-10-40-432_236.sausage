@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 guards 1
+align 3 the 1 them 6.07378e-12
+align 4 medication 0.998542 medications 0.00145787
+align 5 *DELETE* 0.999734 uh 0.000221852 i 3.45305e-05 now 8.87086e-06 you 6.80443e-07 um 1.32218e-07 is 2.64475e-08
+align 6 </s> 1

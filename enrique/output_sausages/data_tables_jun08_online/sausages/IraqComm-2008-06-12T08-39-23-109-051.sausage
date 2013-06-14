@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 no 0.445557 *DELETE* 0.357762 okay 0.196681
+align 2 *DELETE* 0.705053 they 0.294947
+align 3 *DELETE* 0.925071 put 0.0749289
+align 4 *DELETE* 0.370205 well 0.357762 the 0.15061 a 0.0749289 i 0.0373988 are 0.00732946 uh 0.0017652
+align 5 occurs 0.840468 i 0.140088 workers 0.0194237 there's 2.09386e-05
+align 6 *DELETE* 0.859912 occurs 0.140088
+align 7 be 0.898036 been 0.0960957 please 0.00201791 bin 0.0015213 bins 0.00136177 being 0.0005789 beans 0.000137291 bees 0.000133364 big 0.000113998 do 1.89741e-06 brings 1.18882e-06 bring 1.01401e-06
+align 8 safe 0.999606 *DELETE* 0.000394415
+align 9 *DELETE* 0.998079 uh 0.00141373 saif 0.000394415 now 4.84982e-05 i 3.60819e-05 in 2.73286e-05 you 9.07014e-07 and 8.98172e-10 safer 1.19554e-12
+align 10 </s> 1

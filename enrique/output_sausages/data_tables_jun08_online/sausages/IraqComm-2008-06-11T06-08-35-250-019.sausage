@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 turn 1
+align 2 off 1
+align 3 the 1
+align 4 engine 1
+align 5 *DELETE* 0.999858 uh 0.000141753 and 5.20883e-09 in 1.86281e-10
+align 6 </s> 1

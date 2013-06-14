@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 three 1
+align 2 helicopters 1
+align 3 are 0.99962 or 0.000271029 on 0.000109294
+align 4 available 1
+align 5 </s> 1

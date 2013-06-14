@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 describe 0.976701 described 0.0232991
+align 2 your 0.499152 it 0.365156 that 0.0636387 the 0.0574813 to 0.0114742 uh 0.00276906 their 0.000327995
+align 3 *DELETE* 0.499152 your 0.49884 you're 0.0020075
+align 4 relationship 1
+align 5 with 1
+align 6 the 0.999712 a 0.000288376
+align 7 local 1
+align 8 leaders 0.998666 liters 0.00123985 leader's 8.45258e-05 leaders' 9.19938e-06
+align 9 *DELETE* 1 to 2.74707e-12 a 1.24444e-14
+align 10 </s> 1

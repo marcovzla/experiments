@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 captain 1
+align 5 watson 0.999272 wants 0.000388606 walks 0.000339269 once 2.98775e-10
+align 6 *DELETE* 0.999272 and 0.000452476 in 0.000275399 i 1.37555e-11 an 6.97758e-19
+align 7 </s> 1

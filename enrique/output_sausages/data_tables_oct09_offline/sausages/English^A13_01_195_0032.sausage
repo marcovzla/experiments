@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 need 1
+align 3 you 1
+align 4 to 1
+align 5 open 1
+align 6 the 1
+align 7 trunk 1
+align 8 though 0.872656 *DELETE* 0.0968155 go 0.0114425 oh 0.00633818 them 0.00544216 too 0.00131428 of 0.000968237 to 0.000730065 up 0.000660754 door 0.000627067 don't 0.000523472 dough 0.000427368 o 0.000411201 then 0.000384756 they'll 0.000356271 owe 0.000334547 dome 0.000293549 there 8.56333e-05 no 7.73094e-05 do 3.11308e-05 him 2.56655e-05 dull 2.52763e-05 out 2.20486e-05 on 3.69879e-06 the 3.42831e-06 uh 8.9381e-10
+align 9 *DELETE* 0.999842 oh 0.000146724 uh 1.01314e-05 i 1.1398e-06
+align 10 </s> 1

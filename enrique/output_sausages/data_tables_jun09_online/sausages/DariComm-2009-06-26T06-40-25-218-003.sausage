@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 sir 1
+align 4 did 0.896477 how 0.0966936 what 0.00682983
+align 5 *DELETE* 0.896477 did 0.103523
+align 6 you 0.999964 your 3.58472e-05
+align 7 understand 1
+align 8 the 0.990063 *DELETE* 0.00568084 me 0.0028137 be 0.00108233 he 0.000304654 it 4.10249e-05 do 1.43618e-05
+align 9 *DELETE* 0.999985 you 1.43618e-05 they 7.31403e-07 i 1.28942e-08
+align 10 instructions 0.997685 constructions 0.002315
+align 11 </s> 1

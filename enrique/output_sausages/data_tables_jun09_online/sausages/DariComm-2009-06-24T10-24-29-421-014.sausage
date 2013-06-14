@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 happened 0.993013 happen 0.00652453 happens 0.000462071
+align 3 to 1
+align 4 *DELETE* 0.998175 you 0.0018141 to 1.11582e-05
+align 5 this 1
+align 6 afghanistan 1
+align 7 or 0.867592 all 0.0721464 *DELETE* 0.036371 army 0.0209596 oh 0.0029309
+align 8 army 0.978752 *DELETE* 0.0209596 me 0.000287972
+align 9 soldier 0.996158 soldiers 0.00384176
+align 10 *DELETE* 0.998901 uh 0.000724517 i 0.000212932 too 7.52098e-05 it 3.16035e-05 in 1.8068e-05 to 1.32812e-05 you 1.30643e-05 the 5.50184e-06 that 3.6547e-06 with 8.33659e-07 a 4.60916e-07 is 2.47976e-07 and 7.55371e-08 if 3.64354e-09 do 2.7529e-09 i'm 2.61744e-09 as 3.39051e-12 at 2.93203e-12 who 1.20623e-12 would 7.67174e-13 but 7.13527e-14
+align 11 </s> 1

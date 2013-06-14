@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 0.886899 or 0.111731 who 0.00136992
+align 2 are 1
+align 3 you 1
+align 4 going 1
+align 5 on 1
+align 6 patrol 1
+align 7 tomorrow 1
+align 8 *DELETE* 0.996197 i 0.00179451 you 0.00130342 and 0.000248898 in 0.000211815 uh 7.33671e-05 it 6.16727e-05 me 2.20105e-05 okay 1.68812e-05 i'm 1.57949e-05 if 1.33755e-05 yeah 1.14211e-05 um 8.73868e-06 to 8.03977e-06 on 5.82674e-06 a 4.93376e-06 do 8.45593e-07 but 5.34038e-07 is 4.90629e-07 the 1.32736e-07 at 8.16426e-08 he 3.50113e-08 we 1.81957e-09 could 9.42882e-11 like 1.17802e-12
+align 9 *DELETE* 0.999999 you 7.72683e-07 i 1.09946e-08
+align 10 </s> 1

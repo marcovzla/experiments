@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 as 1
+align 2 far 1
+align 3 as 1
+align 4 the 1
+align 5 enemy's 0.633907 enemy 0.254939 *DELETE* 0.111154
+align 6 *DELETE* 0.633907 is 0.254939 enemies 0.111154
+align 7 concerned 0.618231 concern 0.380068 concerns 0.00170108
+align 8 *DELETE* 0.999949 you 1.89774e-05 i 1.74321e-05 too 7.30074e-06 to 6.83341e-06
+align 9 </s> 1

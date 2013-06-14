@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 think 1
+align 4 that 0.867272 they 0.0892664 *DELETE* 0.0417887 they'd 0.00160157 there 6.39667e-05 pay 7.61916e-06
+align 5 it 0.89767 *DELETE* 0.0605415 they 0.0417887
+align 6 it 0.628981 *DELETE* 0.370174 they 0.000712855 had 0.0001322
+align 7 *DELETE* 0.999868 it 0.0001322
+align 8 would 1
+align 9 be 1
+align 10 beneficial 1
+align 11 for 1
+align 12 us 1
+align 13 to 0.980511 too 0.0151317 two 0.00435697
+align 14 team 0.88506 teen 0.11494
+align 15 you 1
+align 16 up 1
+align 17 with 1
+align 18 the 1
+align 19 iraqi 1
+align 20 military 1
+align 21 *DELETE* 0.999919 uh 8.08153e-05
+align 22 </s> 1

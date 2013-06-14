@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 soldiers 1
+align 4 will 1
+align 5 be 1
+align 6 participating 0.999972 participate 2.80743e-05
+align 7 *DELETE* 0.99997 in 3.04988e-05
+align 8 in 1
+align 9 the 1
+align 10 koran 0.984642 court 0.0145636 *DELETE* 0.000293881 course 0.000178815 corner 0.00017363 core 0.000147764
+align 11 *DELETE* 0.984123 on 0.0147135 i'm 0.000348794 cordon 0.000293873 uh 0.000202044 i 0.000167329 and 9.31656e-05 a 5.02072e-05 in 7.92971e-06 that 3.30278e-07 do 6.32374e-08 if 2.49039e-08 the 1.06727e-08 korans 7.98052e-09
+align 12 *DELETE* 0.999998 on 1.5655e-06
+align 13 </s> 1

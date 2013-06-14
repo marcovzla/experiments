@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 which 1
+align 2 building 1
+align 3 is 1
+align 4 next 1
+align 5 how 0.710466 house 0.283687 *DELETE* 0.0058477
+align 6 is 0.673963 *DELETE* 0.283687 it's 0.0365022 how's 0.0058477
+align 7 priority 0.999995 priorities 2.92676e-06 *DELETE* 2.35064e-15
+align 8 *DELETE* 0.999994 in 3.17309e-06 priorities 1.95348e-06 to 1.12101e-06 i 1.72519e-07 you 1.32406e-21
+align 9 </s> 1

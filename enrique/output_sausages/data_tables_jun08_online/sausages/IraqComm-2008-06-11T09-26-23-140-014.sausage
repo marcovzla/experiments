@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 did 1
+align 3 you 1
+align 4 hear 0.99956 here 0.000440263
+align 5 about 1
+align 6 this 1
+align 7 job 1
+align 8 </s> 1

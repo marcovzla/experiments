@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.984686 i 0.0138948 uh 0.00141892 oh 1.30653e-08
+align 2 *DELETE* 0.984686 am 0.00996093 i'm 0.0053528
+align 3 here 0.999592 hear 0.000407961
+align 4 to 1
+align 5 get 1
+align 6 an 0.930616 in 0.0663023 *DELETE* 0.00308128
+align 7 *DELETE* 0.949917 to 0.0470017 and 0.00308128
+align 8 account 0.952998 count 0.0470017
+align 9 of 1
+align 10 all 1
+align 11 the 0.957941 of 0.0413603 all 0.000698638
+align 12 *DELETE* 0.957941 the 0.042059
+align 13 people 1
+align 14 in 0.99984 and 0.000159784
+align 15 the 1
+align 16 village 1
+align 17 *DELETE* 0.999925 uh 6.39811e-05 the 9.43908e-06 that 1.22921e-06 i 4.63409e-07 to 3.59856e-10
+align 18 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 experience 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 *DELETE* 0.998605 a 0.000757661 uh 0.000637279
+align 8 </s> 1

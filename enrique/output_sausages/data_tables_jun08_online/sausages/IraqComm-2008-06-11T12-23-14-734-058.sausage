@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 plan 1
+align 6 for 1
+align 7 improving 1
+align 8 the 1 we 4.91916e-13
+align 9 clinic 1 *DELETE* 3.34928e-13
+align 10 *DELETE* 0.999909 i 7.41403e-05 uh 1.47927e-05 is 1.84901e-06 a 3.90459e-07 in 2.05703e-07 clinics 1.12977e-07 and 3.88885e-09 are 3.73778e-15
+align 11 </s> 1

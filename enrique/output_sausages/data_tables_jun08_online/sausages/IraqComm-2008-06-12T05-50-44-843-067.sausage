@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 a 1
+align 4 reason 1
+align 5 to 1
+align 6 believe 1
+align 7 *DELETE* 0.992049 that 0.006805 it 0.00099219 in 0.000149884 me 3.43239e-06
+align 8 insurgents 1
+align 9 are 0.999917 uh 8.28142e-05
+align 10 hiding 1
+align 11 weapons 1
+align 12 on 1
+align 13 your 1
+align 14 land 1 *DELETE* 6.36989e-13
+align 15 *DELETE* 0.999978 now 2.1949e-05 lands 7.8485e-08
+align 16 </s> 1

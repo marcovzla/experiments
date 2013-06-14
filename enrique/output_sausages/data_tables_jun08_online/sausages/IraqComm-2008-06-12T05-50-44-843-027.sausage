@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 does 0.929495 was 0.0497547 who's 0.0135551 where's 0.00463532 those 0.00172244 is 0.000425542 there's 0.000392946 close 1.87175e-05 i 5.11159e-10
+align 2 *DELETE* 1 was 5.11159e-10
+align 3 your 1
+align 4 family 1
+align 5 works 0.658787 work 0.300154 worked 0.0410586
+align 6 the 0.999705 a 0.00017008 for 0.000125115
+align 7 land 1
+align 8 </s> 1

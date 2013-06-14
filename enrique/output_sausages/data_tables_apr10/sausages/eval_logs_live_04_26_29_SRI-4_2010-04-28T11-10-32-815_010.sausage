@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.995726 i 0.00427376
+align 3 am 1
+align 4 good 0.999868 *DELETE* 0.000131623
+align 5 i 0.901196 *DELETE* 0.0986719 got 0.000131623
+align 6 am 0.901123 i'm 0.0988767
+align 7 here 1
+align 8 to 1
+align 9 talk 1
+align 10 to 0.999759 *DELETE* 0.00024107
+align 11 you 1
+align 12 today 1
+align 13 about 1
+align 14 three 1
+align 15 jobs 1
+align 16 we 1
+align 17 have 1
+align 18 *DELETE* 0.999282 uh 0.000512468 a 8.98892e-05 it 4.44164e-05 to 3.74026e-05 i 3.36936e-05 the 3.00373e-07
+align 19 </s> 1

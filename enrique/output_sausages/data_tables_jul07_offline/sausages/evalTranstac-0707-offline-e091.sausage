@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 i 0.95278 uh 0.0472196
+align 3 *DELETE* 0.95278 i 0.0472196
+align 4 see 1
+align 5 who 0.925909 you 0.070608 *DELETE* 0.00348282
+align 6 who 0.558659 the 0.392684 *DELETE* 0.0486572
+align 7 *DELETE* 0.513793 who 0.486207
+align 8 *DELETE* 0.904774 the 0.0877944 will 0.00466632 they 0.0027656
+align 9 capture 0.615107 captured 0.384893
+align 10 them 1
+align 11 *DELETE* 1 uh 2.51639e-10
+align 12 </s> 1

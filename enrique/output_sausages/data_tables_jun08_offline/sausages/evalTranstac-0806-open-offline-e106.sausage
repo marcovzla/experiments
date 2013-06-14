@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999778 how 0.00015923 um 6.30988e-05
+align 2 are 1
+align 3 you 1
+align 4 having 1
+align 5 any 1
+align 6 problems 1
+align 7 get 0.752574 *DELETE* 0.247426
+align 8 uh 0.72033 k._r. 0.247426 out 0.0322436
+align 9 with 1
+align 10 *DELETE* 0.452023 the 0.447649 trust 0.0972268 to 0.00310044
+align 11 trust 0.81022 *DELETE* 0.0972268 stressed 0.0669276 tress 0.0256261
+align 12 trash 1
+align 13 picked 1
+align 14 up 1
+align 15 or 1
+align 16 uh 0.999998 a 2.45005e-06
+align 17 do 1
+align 18 you 1
+align 19 have 1
+align 20 to 1
+align 21 go 1
+align 22 for 1
+align 23 a 1
+align 24 very 1
+align 25 long 1
+align 26 way 1
+align 27 to 0.990851 too 0.00914858
+align 28 uh 1
+align 29 keep 0.709183 get 0.267416 uh 0.0234012
+align 30 *DELETE* 0.976599 keep 0.0234012
+align 31 your 1
+align 32 trash 1
+align 33 uh 1
+align 34 out 0.962082 uh 0.0369962 *DELETE* 0.000921578
+align 35 *DELETE* 0.963448 out 0.0365524
+align 36 of 1 if 1.15987e-07
+align 37 your 0.998332 the 0.00157793 you 8.97857e-05
+align 38 house 1
+align 39 </s> 1

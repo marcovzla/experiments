@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 boys 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 *DELETE* 0.999065 uh 0.000495471 a 0.000432503 to 6.5892e-06
+align 8 </s> 1

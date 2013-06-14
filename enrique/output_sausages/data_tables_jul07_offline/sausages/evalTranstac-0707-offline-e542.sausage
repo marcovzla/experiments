@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 one 0.999991 well 8.86937e-06
+align 2 of 1
+align 3 the 1
+align 4 big 1
+align 5 things 1
+align 6 that 0.998575 *DELETE* 0.000795123 and 0.000611243 they 1.85288e-05 there 1.5797e-08
+align 7 we're 0.995705 were 0.00349409 are 0.000795115 *DELETE* 5.78207e-06 a 7.77476e-09 of 3.12791e-18
+align 8 *DELETE* 0.999946 more 5.40255e-05
+align 9 working 1
+align 10 on 1
+align 11 is 0.936461 as 0.0598852 his 0.00365421
+align 12 a 0.686323 the 0.313677
+align 13 coalition 1
+align 14 in 0.976702 of 0.0232984
+align 15 this 1
+align 16 area 1
+align 17 is 0.991486 it's 0.00467022 just 0.00384384
+align 18 trying 1
+align 19 to 1
+align 20 increase 1
+align 21 the 0.949734 you 0.0446161 see 0.00564941
+align 22 hours 0.996295 ours 0.00370522
+align 23 of 1
+align 24 electricity 1
+align 25 this 0.488372 that's 0.280175 does 0.104147 has 0.059462 there's 0.0429817 *DELETE* 0.00797413 those 0.00781826 to 0.00527771 that 0.00284738 the 0.000365204 a 0.000364374 it 0.000215151 and 3.7099e-07
+align 26 *DELETE* 0.983781 thus 0.00560163 us 0.00451302 is 0.00198971 as 0.00134542 theirs 0.00110345 less 0.000792253 lets 0.000238681 let's 0.000238109 this 0.000223644 that's 0.00014073 a 3.25449e-05
+align 27 provided 1 provide 1.12085e-08
+align 28 *DELETE* 0.999959 a 3.09372e-05 i 9.43169e-06 in 3.23822e-07 you 2.16716e-07 the 1.11155e-07 to 9.38558e-08 it 1.12085e-08
+align 29 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 operation 1 *DELETE* 1.76362e-16
+align 5 are 0.999847 i 7.78809e-05 uh 4.97586e-05 or 2.36111e-05 now 1.66221e-06 operational 1.47535e-07 our 9.15816e-20
+align 6 we 1
+align 7 doing 1
+align 8 *DELETE* 0.999935 it 5.08194e-05 uh 1.41875e-05 as 4.65191e-13
+align 9 </s> 1

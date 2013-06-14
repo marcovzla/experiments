@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 1
+align 3 restrain 0.89143 restrained 0.10857
+align 4 then 0.647237 them 0.352763
+align 5 you 1
+align 6 saying 0.672705 seem 0.317685 seen 0.00961005
+align 7 to 1
+align 8 flex 1
+align 9 cuffs 0.999335 cops 0.000429462 cuff 0.000194051 cuffed 4.10609e-05
+align 10 </s> 1

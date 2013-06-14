@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.996313 i 0.00356889 um 0.000118421
+align 2 *DELETE* 0.996431 am 0.00356889
+align 3 here 1
+align 4 to 1
+align 5 do 1
+align 6 a 1
+align 7 count 0.908869 cattle 0.0676678 carol 0.0192458 cow 0.00258212 candle 0.00163561
+align 8 of 1
+align 9 your 0.999926 you're 7.42981e-05
+align 10 family 1
+align 11 *DELETE* 0.997557 uh 0.00228151 to 0.000158974 i 1.29231e-06 with 9.66146e-07 sir 3.91681e-07 you 1.84866e-07 and 5.15464e-08 are 4.17791e-08 do 2.60055e-08 in 3.14694e-10 that 1.20671e-10 get 8.16966e-13
+align 12 </s> 1

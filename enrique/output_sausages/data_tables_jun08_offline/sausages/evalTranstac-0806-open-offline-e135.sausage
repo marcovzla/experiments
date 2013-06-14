@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 were 0.995107 we 0.00380137 we're 0.000714078 or 0.00037799
+align 2 you 0.978718 *DELETE* 0.0212817
+align 3 a 0.978466 your 0.0212817 *DELETE* 0.000251472 were 9.53017e-07
+align 4 teacher 1
+align 5 *DELETE* 0.999856 i 0.00010216 a 1.8435e-05 uh 1.7677e-05 in 3.12976e-06 at 1.96677e-06 is 1.41963e-07 you 1.14013e-07
+align 6 </s> 1

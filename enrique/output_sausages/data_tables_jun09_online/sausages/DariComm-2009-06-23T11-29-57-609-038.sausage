@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 and 1
+align 3 your 1
+align 4 soldiers 1
+align 5 will 0.988026 we'll 0.0119741
+align 6 search 1
+align 7 the 1
+align 8 compound 1
+align 9 my 0.998764 may 0.00123626
+align 10 marines 0.999761 marines' 0.000238937
+align 11 will 0.996098 we'll 0.00390178
+align 12 stay 1
+align 13 outside 1
+align 14 *DELETE* 0.999962 i 2.71099e-05 the 5.13269e-06 and 2.24528e-06 uh 2.23481e-06 now 9.25097e-07 it 3.65245e-07 with 8.11265e-15
+align 15 </s> 1

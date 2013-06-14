@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 do 1
+align 3 *DELETE* 0.905455 you 0.0945452
+align 4 understand 1
+align 5 *DELETE* 0.999363 the 0.000632042 that 4.72267e-06
+align 6 you 1
+align 7 can 0.996853 could 0.00314679
+align 8 only 1
+align 9 have 1
+align 10 one 1
+align 11 weapon 1
+align 12 per 1
+align 13 household 1
+align 14 right 0.998599 write 0.00140012 *DELETE* 3.18397e-10
+align 15 *DELETE* 0.999989 i 1.00927e-05 bright 5.04174e-07
+align 16 </s> 1

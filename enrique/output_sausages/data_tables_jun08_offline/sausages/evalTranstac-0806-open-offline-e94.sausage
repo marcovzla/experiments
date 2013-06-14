@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 what 1
+align 3 we're 1 were 1.16279e-11
+align 4 doing 1
+align 5 here 1
+align 6 today 1
+align 7 is 0.993988 it's 0.00601229
+align 8 uh 1
+align 9 we're 0.997391 were 0.00260936
+align 10 conducting 1
+align 11 a 1
+align 12 uh 1
+align 13 uh 0.783154 *DELETE* 0.163177 a 0.036839 um 0.0168303
+align 14 a 0.816936 census 0.0944192 *DELETE* 0.082562 uh 0.00608279
+align 15 census 0.905581 *DELETE* 0.0944192
+align 16 data 1
+align 17 *DELETE* 0.992833 i 0.00635625 or 0.000810827
+align 18 work 0.950066 or 0.0359346 were 0.0113316 we're 0.00178298 word 0.000724453 *DELETE* 0.000160459
+align 19 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 uh 0.828661 oh 0.171339
+align 2 i 1
+align 3 have 0.963608 i 0.0363921
+align 4 *DELETE* 0.963608 have 0.0363921
+align 5 all 0.738111 uh 0.257105 a 0.00478357
+align 6 another 1
+align 7 question 1
+align 8 as 0.999387 is 0.000612745
+align 9 well 1
+align 10 </s> 1

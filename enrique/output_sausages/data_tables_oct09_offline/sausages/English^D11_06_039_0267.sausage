@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 how 0.450355 *DELETE* 0.400987 uh 0.11092 huh 0.0358917 hi 0.00184646
+align 2 *DELETE* 0.999984 i 1.58427e-05
+align 3 what 1
+align 4 is 1
+align 5 the 1
+align 6 best 1
+align 7 place 1
+align 8 to 1
+align 9 have 1
+align 10 the 1
+align 11 facility 1
+align 12 at 0.850253 uh 0.143964 in 0.00149061 i 0.0013634 air 0.000706904 are 0.000493072 act 0.000445719 as 0.000386242 up 0.00033814 and 0.000204235 out 0.000172662 add 0.000128992 our 3.12609e-05 apt 1.00545e-05 abd 6.35344e-06 *DELETE* 6.06943e-06 an 8.96056e-10
+align 13 *DELETE* 0.98786 at 0.00596428 a 0.00529473 uh 0.000577252 i 0.000303311 the 3.19111e-09
+align 14 </s> 1

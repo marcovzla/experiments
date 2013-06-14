@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 you 0.996866 do 0.00210521 we 0.00102872
+align 2 *DELETE* 0.997895 you 0.00210521
+align 3 have 1
+align 4 a 0.997204 are 0.00279595
+align 5 very 1
+align 6 nice 1
+align 7 big 0.94255 pig 0.0280234 pick 0.0164272 picky 0.00767643 pigs 0.00371657 picks 0.00148743 picking 0.000118876
+align 8 *DELETE* 0.988853 the 0.0111358 it 1.10988e-05
+align 9 house 0.963631 houses 0.036109 mouse 0.000141139 aws 0.000118876
+align 10 *DELETE* 0.999869 uh 5.69077e-05 so 3.34639e-05 i 2.13296e-05 sir 1.87683e-05 a 8.68299e-07
+align 11 </s> 1

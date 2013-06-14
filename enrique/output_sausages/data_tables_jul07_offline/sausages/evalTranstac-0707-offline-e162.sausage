@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 were 1
+align 2 you 1
+align 3 the 1
+align 4 only 1
+align 5 one 1
+align 6 home 1
+align 7 at 1
+align 8 the 1
+align 9 time 1
+align 10 of 1
+align 11 this 1
+align 12 search 1
+align 13 *DELETE* 0.999984 uh 1.39252e-05 i 1.86699e-06 it 4.29685e-07
+align 14 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 0.627528 computers 0.371669 peter 0.000802504
+align 2 say 0.985707 a 0.0137622 they 0.000348593 *DELETE* 0.000147846 sake 1.49921e-05 se 1.44451e-05 stay 5.00453e-06
+align 3 again 0.992755 going 0.00604088 gun 0.00055637 in 0.000406592 taken 0.000147846 game 8.96421e-05 go 2.45535e-06 ken 1.42303e-06 a 1.18027e-08 *DELETE* 1.43959e-13
+align 4 *DELETE* 1 gun 1.17534e-08 aching 4.67929e-10 i 5.60478e-11 going 4.92923e-11 shaken 2.95757e-14 taking 1.93667e-18 can 1.78011e-21
+align 5 </s> 1

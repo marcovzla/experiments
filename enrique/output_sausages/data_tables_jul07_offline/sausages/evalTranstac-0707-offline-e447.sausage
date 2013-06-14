@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.856786 i 0.141999 *DELETE* 0.0012151
+align 2 *DELETE* 0.856786 will 0.143214
+align 3 give 1
+align 4 you 1
+align 5 a 1
+align 6 receipt 0.999183 receipts 0.000816761
+align 7 *DELETE* 0.999961 to 3.06778e-05 so 2.59849e-06 um 2.58023e-06 i 2.07118e-06 each 5.17043e-07 a 4.82832e-07 it 2.89415e-07
+align 8 </s> 1

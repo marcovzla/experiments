@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.997629 oh 0.00220449 uh 0.000166745
+align 2 okay 1
+align 3 sir 0.555722 so 0.441159 send 0.00293166 sent 0.000187242
+align 4 now 0.892 *DELETE* 0.106457 not 0.00129317 and 0.00013614 in 0.0001136
+align 5 the 0.893293 another 0.103338 other 0.00336864
+align 6 profit 0.997164 prophet 0.00283607
+align 7 of 0.836748 off 0.163252
+align 8 *DELETE* 0.99926 uh 0.000667381 to 7.29728e-05
+align 9 of 1
+align 10 uh 1
+align 11 do 1
+align 12 vegetables 1
+align 13 what 0.991434 would 0.00510221 wood 0.00240529 where 0.00105806
+align 14 is 0.883823 does 0.111817 as 0.00261326 has 0.00174675
+align 15 the 0.805275 he 0.120776 it 0.0739488
+align 16 you 0.951468 you've 0.0422549 you'd 0.00627733
+align 17 being 0.854097 been 0.111871 be 0.0332648 bean 0.000376156 do 0.00036207 beam 2.93743e-05
+align 18 *DELETE* 0.999646 you 0.000354251
+align 19 used 0.973973 news 0.0152744 use 0.0107526
+align 20 for 0.997556 four 0.00239773 *DELETE* 4.5899e-05
+align 21 *DELETE* 0.999373 uh 0.000554953 one 4.5899e-05 it 2.2709e-05 a 3.16605e-06
+align 22 </s> 1

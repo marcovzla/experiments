@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999964 oh 3.64959e-05
+align 2 okay 1
+align 3 that's 1
+align 4 great 1
+align 5 information 0.999096 informations 0.000819264 information's 8.51295e-05
+align 6 so 1
+align 7 we'll 0.679985 will 0.320015
+align 8 *DELETE* 0.484543 cops 0.296675 cost 0.218783
+align 9 trade 0.515457 construct 0.412736 concentrate 0.0718066
+align 10 our 0.889759 are 0.110241
+align 11 search 0.987937 searched 0.0120626
+align 12 there 0.757819 their 0.178958 they're 0.0632228
+align 13 in 0.999506 and 0.000494355
+align 14 the 1
+align 15 back 1
+align 16 part 1
+align 17 of 1
+align 18 the 1
+align 19 warehouse 0.999992 were 8.24615e-06
+align 20 *DELETE* 0.999992 house 8.2427e-06 us 3.45438e-09
+align 21 </s> 1

@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 i 0.967889 uh 0.0321114
+align 3 i 1
+align 4 i 0.745714 *DELETE* 0.254286
+align 5 guess 0.998829 get 0.00117146
+align 6 you'll 0.999918 chills 8.23401e-05 she'll 1.05126e-07
+align 7 just 1
+align 8 have 1
+align 9 to 1
+align 10 wait 1
+align 11 and 1
+align 12 see 1
+align 13 what 1
+align 14 they 1
+align 15 decide 1
+align 16 to 1
+align 17 do 1
+align 18 if 0.852622 with 0.143332 a 0.00404572
+align 19 you 0.991061 *DELETE* 0.00486738 few 0.00404572 your 2.5474e-05
+align 20 imprison 0.384444 imprisoned 0.33552 in 0.275169 him 0.00486738
+align 21 *DELETE* 0.719964 prison 0.280036
+align 22 then 0.389723 them 0.363837 in 0.205462 i'm 0.0202924 and 0.0137032 on 0.00537545 him 0.00117566 than 0.000431922
+align 23 because 1
+align 24 that's 1
+align 25 not 1
+align 26 enough 1
+align 27 for 1
+align 28 me 1
+align 29 to 1
+align 30 be 1
+align 31 able 1
+align 32 to 1
+align 33 help 1
+align 34 you 1
+align 35 *DELETE* 0.998787 uh 0.0012109 i 2.12376e-06 if 4.36829e-09
+align 36 </s> 1

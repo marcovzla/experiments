@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.9977 and 0.00113254 you 0.00102908 who 0.000138356
+align 2 do 1
+align 3 they 1
+align 4 have 1
+align 5 any 1
+align 6 uh 0.631832 are 0.293223 our 0.0495842 other 0.0156011 a 0.00674182 i'll 0.00301742
+align 7 *DELETE* 0.999115 uh 0.000884558
+align 8 repercussions 1
+align 9 for 0.993691 four 0.00630859
+align 10 sleeping 1
+align 11 on 1
+align 12 the 1
+align 13 job 1
+align 14 or 1
+align 15 not 1
+align 16 paying 1
+align 17 attention 1
+align 18 to 0.995386 *DELETE* 0.00461397
+align 19 what 1
+align 20 their 0.808453 the 0.0985967 *DELETE* 0.0586445 they're 0.0342933 they 1.22704e-05
+align 21 job 0.911553 *DELETE* 0.0884468
+align 22 is 0.918677 *DELETE* 0.0813227
+align 23 supposed 0.918044 they're 0.0586445 *DELETE* 0.0226782 suppose 0.000632941
+align 24 to 0.918677 jobless 0.0813227
+align 25 be 0.880225 upholstery 0.0813227 me 0.0369732 *DELETE* 0.000957526 do 0.000521147
+align 26 *DELETE* 0.999853 uh 8.19458e-05 a 5.16886e-05 in 7.50626e-06 you 5.83649e-06
+align 27 </s> 1

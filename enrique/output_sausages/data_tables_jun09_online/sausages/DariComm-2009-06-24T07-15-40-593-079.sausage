@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 are 1 do 1.49896e-08
+align 3 the 0.843966 there 0.156014 they 2.03066e-05
+align 4 three 0.997306 through 0.00267376 throw 2.03066e-05
+align 5 of 0.991473 if 0.00447517 have 0.00405149
+align 6 you 1
+align 7 coming 0.971683 come 0.0283168
+align 8 *DELETE* 0.971683 in 0.0283168
+align 9 to 1
+align 10 see 1
+align 11 the 1
+align 12 commander 1
+align 13 *DELETE* 1 is 4.17947e-07
+align 14 </s> 1

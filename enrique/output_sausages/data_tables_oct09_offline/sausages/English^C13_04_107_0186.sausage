@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 can 1
+align 3 you 1
+align 4 tell 1
+align 5 me 1
+align 6 what 1
+align 7 part 1
+align 8 of 1
+align 9 town 1
+align 10 you 1 *DELETE* 5.46951e-10
+align 11 live 0.998452 *DELETE* 0.00114917 living 0.0003976 late 1.0366e-06 you'll 2.82961e-07 lay 2.59295e-09
+align 12 in 0.997425 living 0.00114092 at 0.000831566 *DELETE* 0.000225115 it 0.000205731 and 0.000163022 later 8.24853e-06 event 2.82961e-07 them 2.59295e-09 laden 6.39758e-10
+align 13 *DELETE* 0.999513 it 0.000487117 and 3.45237e-07
+align 14 </s> 1

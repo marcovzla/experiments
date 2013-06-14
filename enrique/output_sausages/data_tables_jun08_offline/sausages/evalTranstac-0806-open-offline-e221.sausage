@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 yeah 1
+align 2 i 1
+align 3 i 1
+align 4 spoke 0.927481 i 0.0725193
+align 5 *DELETE* 0.927481 spoke 0.0725193
+align 6 to 1
+align 7 the 1
+align 8 child's 0.949558 chopped 0.0235152 chops 0.0161693 child 0.00886651 tribes 0.00189099
+align 9 friend 0.982264 freind 0.0177362
+align 10 he 1
+align 11 said 1
+align 12 he 1
+align 13 was 1
+align 14 stung 1
+align 15 by 1
+align 16 a 1
+align 17 yellow 0.999998 l 2.49316e-06
+align 18 *DELETE* 0.999998 a 2.49316e-06
+align 19 scorpion 1
+align 20 *DELETE* 0.999797 i 9.29916e-05 uh 6.40006e-05 a 3.26125e-05 do 8.09865e-06 it 4.73549e-06 if 8.58467e-08 in 7.34999e-09
+align 21 </s> 1

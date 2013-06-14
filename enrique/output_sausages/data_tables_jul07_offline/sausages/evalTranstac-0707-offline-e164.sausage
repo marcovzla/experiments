@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 in 0.97932 and 0.0206804
+align 2 what 1
+align 3 room 1
+align 4 of 1
+align 5 your 0.997993 you're 0.00200669
+align 6 houses 0.777996 house 0.128068 house's 0.0939359
+align 7 as 0.654949 is 0.176661 his 0.158091 this 0.0093224 it's 0.00097218 *DELETE* 4.39118e-06
+align 8 *DELETE* 0.871403 is 0.0652616 his 0.0485927 as 0.0110534 this 0.0030754 close 0.000528912 it's 8.46445e-05
+align 9 clauses 0.575156 clothes 0.334506 closet 0.0809614 causes 0.00660798 closes 0.00180982 as 0.0004733 clause 0.000246733 closets 0.000132847 *DELETE* 5.56708e-05 close 3.37703e-05 claus 1.50237e-05 cause 1.41834e-06
+align 10 and 0.48009 in 0.337618 then 0.165568 them 0.007261 end 0.00312691 him 0.00246243 an 0.00206832 n 0.00111596 name 0.000336754 m 0.000109145 inn 0.000107649 than 6.01328e-05 am 2.12354e-05 isn't 1.81095e-05 en 1.15976e-05 been 1.05494e-05 i'm 8.73236e-06 men 2.01976e-06 aim 1.98456e-06 ann 6.29523e-07 anne 6.29523e-07 named 9.46671e-08 clothing 5.8597e-08 *DELETE* 1.08851e-11
+align 11 *DELETE* 0.999751 i 0.000223453 a 2.5942e-05
+align 12 </s> 1

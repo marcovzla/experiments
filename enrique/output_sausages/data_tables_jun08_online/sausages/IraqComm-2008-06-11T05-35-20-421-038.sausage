@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 why 0.989738 what 0.00718136 well 0.00308107
+align 2 was 1
+align 3 he 1
+align 4 lucky 0.686739 looking 0.310316 like 0.00294524
+align 5 *DELETE* 0.995737 he 0.00239236 i 0.000932214 key 0.000552877 uh 0.000384393 a 4.59813e-07 to 1.72296e-07 in 7.99641e-08 if 7.88596e-08 you 1.90572e-10
+align 6 </s> 1

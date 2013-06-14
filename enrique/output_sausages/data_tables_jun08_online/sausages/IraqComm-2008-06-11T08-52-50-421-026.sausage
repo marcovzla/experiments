@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1 when 1.09161e-07
+align 2 is 1
+align 3 the 1
+align 4 status 1
+align 5 of 1
+align 6 the 1
+align 7 water 1
+align 8 treatment 1
+align 9 plant 0.999799 plants 0.00018207 plan 1.86463e-05
+align 10 *DELETE* 0.999992 it 8.0433e-06
+align 11 </s> 1

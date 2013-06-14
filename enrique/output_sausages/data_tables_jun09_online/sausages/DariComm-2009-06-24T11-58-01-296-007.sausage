@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computer 0.976489 i'm 0.0235107
+align 2 *DELETE* 0.976489 peter 0.0235107
+align 3 play 0.46886 pray 0.401104 prey 0.094605 plate 0.0176528 plea 0.00554753 played 0.00299151 put 0.00281173 prayed 0.00249391 pre 0.00183766 prayer 0.00107168 player 0.000856946 clay 9.23101e-05 gray 7.51132e-05
+align 4 instructions 0.99987 a 9.33779e-05 you 3.42061e-05 to 2.26101e-06
+align 5 *DELETE* 0.999758 instructions 0.000129845 i 9.29811e-05 to 1.88206e-05 uh 1.41582e-07 in 1.64552e-09 you 1.89845e-10 that 1.49112e-12 and 2.31143e-13 let 8.96687e-14
+align 6 </s> 1

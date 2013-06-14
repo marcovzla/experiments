@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 his 0.577997 is 0.284577 was 0.056104 this 0.0413618 *DELETE* 0.0306743 as 0.00441503 it's 0.00394735 yes 0.000773864 yeah 8.82207e-05 the 4.58674e-05 because 1.52896e-05
+align 2 responsible 1
+align 3 *DELETE* 0.999706 uh 0.000222574 i 7.14212e-05 in 1.47337e-12 to 1.17304e-12 it 5.12993e-15 and 3.36679e-21
+align 4 </s> 1

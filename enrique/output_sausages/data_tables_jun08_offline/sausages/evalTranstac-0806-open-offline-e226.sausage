@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.794956 i 0.202685 it 0.00235873
+align 2 is 0.771355 was 0.200789 as 0.0259599 i 0.00189662
+align 3 *DELETE* 0.998103 was 0.00189662
+align 4 also 1
+align 5 going 1
+align 6 to 1
+align 7 ask 1
+align 8 you 0.999704 *DELETE* 0.00029639
+align 9 have 1
+align 10 you 1
+align 11 spoken 1
+align 12 to 1
+align 13 anybody 1
+align 14 that 1
+align 15 you 1
+align 16 may 1
+align 17 think 1
+align 18 is 0.986304 as 0.00952398 it's 0.00417252
+align 19 a 0.683898 say 0.257288 *DELETE* 0.0588145
+align 20 uh 1
+align 21 *DELETE* 0.941186 a 0.0588145
+align 22 *DELETE* 0.941186 uh 0.0588145
+align 23 you 1
+align 24 know 1
+align 25 a 1
+align 26 criminal 1
+align 27 or 1
+align 28 a 0.928877 *DELETE* 0.0711228
+align 29 potential 1
+align 30 insurgent 0.901109 in 0.0951269 insurgence 0.00300247 insurgents 0.000760603 insurgents' 9.53244e-07
+align 31 *DELETE* 0.904908 search 0.0950918
+align 32 *DELETE* 0.904873 it 0.0950918 surgeon 3.51455e-05 uh 4.05332e-08 in 8.0457e-09
+align 33 </s> 1

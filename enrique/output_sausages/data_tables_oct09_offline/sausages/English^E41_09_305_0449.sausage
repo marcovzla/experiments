@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 and 0.989854 at 0.0100293 hey 0.000116189
+align 2 one 1
+align 3 thing 1
+align 4 i 1
+align 5 *DELETE* 0.999998 i 1.59076e-06
+align 6 do 1
+align 7 is 1
+align 8 uh 1
+align 9 i'll 0.956995 i 0.0384951 uh 0.00450983
+align 10 *DELETE* 0.995486 i 0.00451401
+align 11 go 1
+align 12 ahead 1
+align 13 and 1
+align 14 tell 1
+align 15 the 0.996719 *DELETE* 0.00320976 of 7.14429e-05
+align 16 *DELETE* 0.999929 the 7.14429e-05
+align 17 people 1
+align 18 to 1
+align 19 start 0.999442 star 0.000558116
+align 20 drinking 1
+align 21 water 1
+align 22 ensure 0.871297 unsure 0.0706065 and 0.0358777 in 0.0209369 *DELETE* 0.00128174
+align 23 *DELETE* 0.941904 sure 0.0580963
+align 24 their 0.356481 they're 0.320405 there 0.236949 they 0.0577826 that 0.0283825
+align 25 drinking 1
+align 26 water 1
+align 27 before 1
+align 28 they 1
+align 29 even 1
+align 30 uh 0.697812 to 0.212346 a 0.0591131 the 0.0222628 um 0.00743922 i 0.000964333 us 6.25698e-05
+align 31 become 0.378954 becomes 0.338303 uh 0.175795 it's 0.0771458 to 0.0183262 just 0.0112934 is 0.000121805 as 5.9335e-05 his 1.53072e-06
+align 32 *DELETE* 0.717257 become 0.16446 becomes 0.118283
+align 33 sick 1
+align 34 with 1
+align 35 the 0.99799 uh 0.00200998
+align 36 dehydration 1
+align 37 </s> 1

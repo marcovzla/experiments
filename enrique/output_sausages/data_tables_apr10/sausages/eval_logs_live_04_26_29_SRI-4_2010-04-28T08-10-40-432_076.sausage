@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 do 0.996307 does 0.00303556 did 0.0006577
+align 3 the 0.998853 they 0.00114681
+align 4 talaban 0.987185 tell 0.0128148
+align 5 *DELETE* 0.987185 man 0.0128148
+align 6 come 1
+align 7 from 1
+align 8 *DELETE* 0.998828 you 0.000660373 uh 0.000424081 it 6.48949e-05 a 1.10338e-05 i 5.99705e-06 me 5.63094e-06 the 7.22178e-09 um 2.59856e-09 to 1.42168e-10
+align 9 </s> 1

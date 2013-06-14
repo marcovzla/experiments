@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 can 0.981404 to 0.0183453 do 0.000250962
+align 2 you 0.981655 do 0.0183453
+align 3 *DELETE* 0.999749 do 0.000250962
+align 4 tell 1
+align 5 me 1
+align 6 more 1
+align 7 about 1
+align 8 *DELETE* 0.999937 what 6.26733e-05
+align 9 your 1
+align 10 life 1
+align 11 *DELETE* 0.999661 uh 0.000316516 i 2.11315e-05 if 9.45505e-07 in 1.30618e-10 is 3.61072e-11
+align 12 </s> 1

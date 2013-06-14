@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 0.831836 are 0.168164
+align 3 recently 0.97169 uh 0.0283102
+align 4 *DELETE* 0.97169 recently 0.0283102
+align 5 they 1
+align 6 uh 1
+align 7 they 0.982438 uh 0.0175619
+align 8 *DELETE* 0.982438 they 0.0175619
+align 9 have 1
+align 10 had 0.999985 have 1.54254e-05
+align 11 a 1
+align 12 uh 1
+align 13 a 0.955582 uh 0.0354591 *DELETE* 0.00895897
+align 14 no 0.680413 know 0.23168 new 0.0773049 into 0.0106024
+align 15 in 0.745834 and 0.233944 *DELETE* 0.0141291 him 0.0060923
+align 16 election 1
+align 17 but 0.999591 what 0.000409273
+align 18 we're 1
+align 19 trying 1
+align 20 to 1
+align 21 do 1
+align 22 is 1
+align 23 uh 1
+align 24 get 0.881686 uh 0.118314
+align 25 *DELETE* 0.874578 get 0.118314 to 0.00710811
+align 26 *DELETE* 0.999863 to 0.000137099
+align 27 your 1
+align 28 local 1
+align 29 council 0.86078 *DELETE* 0.13922
+align 30 men 0.80022 councilman 0.086749 man 0.0605603 councilmen 0.0524707
+align 31 uh 1
+align 32 to 1
+align 33 visit 1
+align 34 uh 0.992304 um 0.00589197 of 0.0018038
+align 35 *DELETE* 0.831337 uh 0.164222 of 0.00444144
+align 36 the 1
+align 37 people 1
+align 38 in 0.97743 and 0.0225702
+align 39 uh 0.619117 the 0.347893 *DELETE* 0.0329897
+align 40 *DELETE* 0.863516 uh 0.103494 um 0.0329605 a 2.92166e-05
+align 41 in 1
+align 42 his 0.999939 is 5.53401e-05 has 5.52369e-06
+align 43 district 0.99994 districts 6.03192e-05
+align 44 *DELETE* 1 i 1.30663e-08
+align 45 </s> 1

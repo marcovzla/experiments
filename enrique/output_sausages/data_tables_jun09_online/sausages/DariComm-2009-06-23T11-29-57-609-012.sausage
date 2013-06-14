@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 and 0.999962 in 3.78209e-05
+align 2 these 1
+align 3 two 0.99992 to 7.99361e-05
+align 4 other 0.916257 all 0.0453385 older 0.020221 oh 0.0164241 of 0.00112857 o 0.0006309
+align 5 *DELETE* 0.936478 their 0.0496486 other 0.0114194 there 0.000892368 all 0.000826135 they're 0.000735642
+align 6 *DELETE* 0.999174 their 0.000826135
+align 7 men 1
+align 8 have 1
+align 9 information 1
+align 10 on 1
+align 11 the 1
+align 12 place 1
+align 13 we're 1
+align 14 going 1
+align 15 to 0.998885 too 0.00111524
+align 16 rate 0.835877 read 0.0631295 raids 0.0396051 red 0.0232338 raise 0.00829517 rape 0.0070673 re 0.00556874 ray 0.0044994 rid 0.00223735 rail 0.00193682 reda 0.00170398 grade 0.00136761 write 0.0012585 rates 0.0012148 raised 0.000853693 ridge 0.000767988 raye 0.000720275 *DELETE* 0.000663053
+align 17 *DELETE* 0.998646 it 0.000311175 rain 0.000261169 rey 0.000256539 i 0.000108616 in 8.47427e-05 raped 7.63454e-05 is 6.78204e-05 uh 5.06806e-05 rae 3.62964e-05 you 2.53305e-05 to 2.47443e-05 rea 1.08667e-05 rich 8.8368e-06 the 7.62341e-06 rating 7.06147e-06 a 4.37199e-06 and 3.9535e-06 raiding 2.87952e-06 if 1.9072e-06 raven 1.3449e-06 rayba 1.14777e-06 radio 5.33859e-07 do 2.98786e-07 of 9.24019e-08 i'm 4.66883e-08 reva 3.28124e-08 that 1.03247e-08 high 4.69359e-09 like 6.93331e-13
+align 18 </s> 1

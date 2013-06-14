@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 uh 0.71107 well 0.153379 *DELETE* 0.0734476 oh 0.0621032
+align 2 what 1
+align 3 uh 1
+align 4 *DELETE* 0.999986 uh 1.42222e-05
+align 5 what 1
+align 6 kind 1
+align 7 of 1
+align 8 training 1
+align 9 do 1
+align 10 you 1
+align 11 have 1
+align 12 are 1
+align 13 you 1
+align 14 a 0.966033 *DELETE* 0.0339669
+align 15 qualified 0.999815 qualify 0.000185168
+align 16 doctor 0.959543 doctors 0.0404466 *DELETE* 9.96922e-06
+align 17 *DELETE* 0.99907 and 0.000438878 in 0.000207037 uh 0.00016869 i 9.81811e-05 doctrine 9.96922e-06 who 7.15461e-06 um 4.53542e-07 to 1.19863e-08 or 6.81426e-09 now 5.15979e-10 it 7.07796e-14
+align 18 </s> 1

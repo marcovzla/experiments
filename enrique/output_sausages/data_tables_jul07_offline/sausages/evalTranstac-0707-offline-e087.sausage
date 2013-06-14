@@ -1,0 +1,40 @@
+numaligns 38
+posterior 1
+align 0 <s> 1
+align 1 uh 0.930834 *DELETE* 0.069166
+align 2 uh 0.905362 um 0.069166 *DELETE* 0.0237373 the 0.00131176 i 0.000422949
+align 3 we 0.999939 we're 6.12761e-05
+align 4 hope 0.999694 help 0.000306191
+align 5 we 0.99588 uh 0.00411992
+align 6 *DELETE* 0.99365 we 0.00634992
+align 7 will 0.987114 would 0.0128861
+align 8 keep 1
+align 9 an 0.994335 and 0.00566452
+align 10 eye 1
+align 11 on 1
+align 12 on 0.902111 uh 0.0901477 her 0.00388325 a 0.00283 our 0.00102819
+align 13 *DELETE* 0.902111 on 0.0978892
+align 14 your 1
+align 15 house 1
+align 16 even 0.974351 uh 0.0179824 i 0.00766661
+align 17 *DELETE* 0.974351 even 0.0256491
+align 18 after 1
+align 19 we 0.753847 you 0.17136 *DELETE* 0.0747933
+align 20 leave 0.925207 relieve 0.0747933
+align 21 ten 0.87254 two 0.0596711 to 0.0413606 soon 0.0264287
+align 22 *DELETE* 0.914304 you 0.0856963
+align 23 sure 1
+align 24 that 1
+align 25 uh 1
+align 26 uh 1
+align 27 to 0.733984 and 0.134727 uh 0.13129
+align 28 *DELETE* 0.733984 to 0.266016
+align 29 help 1
+align 30 with 1 was 2.49873e-07
+align 31 any 1
+align 32 problems 1
+align 33 that 0.957577 they 0.0424228
+align 34 may 0.969858 make 0.0301418
+align 35 come 0.969858 them 0.0176301 him 0.0125064 a 4.35572e-06 *DELETE* 1.46221e-10
+align 36 up 0.99528 out 0.00390584 uh 0.000808513 well 4.35572e-06 about 9.17141e-07 a 5.78087e-08 all 2.22432e-09 off 1.04518e-11
+align 37 </s> 1

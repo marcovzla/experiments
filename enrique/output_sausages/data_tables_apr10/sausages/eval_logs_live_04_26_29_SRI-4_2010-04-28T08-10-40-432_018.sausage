@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 does 1
+align 3 the 1
+align 4 religious 1
+align 5 school 1
+align 6 look 0.993702 looked 0.00620912 looks 8.92502e-05
+align 7 like 0.927973 alike 0.0720266
+align 8 *DELETE* 0.999466 uh 0.000379949 a 9.93235e-05 i 3.59734e-05 you 1.17253e-05 it 5.45279e-06 the 8.91313e-07 if 4.43792e-07
+align 9 </s> 1

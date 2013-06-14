@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 0.932 *DELETE* 0.0554295 where 0.0125709
+align 2 is 0.944571 well 0.0554295
+align 3 this 0.974712 his 0.0252881
+align 4 *DELETE* 0.943868 this 0.0404764 is 0.0156552
+align 5 red 0.944179 read 0.0307127 rare 0.0219061 rate 0.00320228
+align 6 device 1
+align 7 on 0.99773 *DELETE* 0.00203265 owned 0.000237436
+align 8 the 0.997967 *DELETE* 0.00203265
+align 9 ground 0.99525 wound 0.00211821 underground 0.00190177 *DELETE* 0.000599197 only 0.000130878
+align 10 *DELETE* 0.998099 uh 0.00115046 round 0.000425574 brown 0.000214258 grounds 9.02433e-05 i 2.01162e-05 and 1.67305e-09 you 2.02166e-10 do 1.62147e-10 to 1.11922e-13 ground 9.46012e-32
+align 11 </s> 1

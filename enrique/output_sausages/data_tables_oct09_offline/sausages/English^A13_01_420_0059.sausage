@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 0.994992 so 0.00500804
+align 3 now 0.964039 no 0.0242233 know 0.011738
+align 4 where's 0.748478 where 0.20411 wears 0.0474119
+align 5 *DELETE* 0.79589 is 0.20411
+align 6 uh 1
+align 7 your 0.981717 you 0.0129626 you're 0.00483276 uh 0.000488031
+align 8 *DELETE* 0.999512 your 0.000488031
+align 9 farm 1
+align 10 actually 1
+align 11 located 0.996132 locate 0.00386757
+align 12 *DELETE* 0.996104 it 0.00387481 uh 2.11924e-05
+align 13 up 0.877078 at 0.0934953 out 0.0245555 in 0.00284227 uh 0.00142512 a 0.000228022 op 0.000164902 *DELETE* 0.000103427 i 6.31478e-05 of 1.95566e-05 are 1.07251e-05 ups 7.29876e-06 apt 6.45448e-06 happen 1.48926e-07 to 7.63576e-08 top 3.14992e-08
+align 14 *DELETE* 0.999968 to 1.26633e-05 uh 8.03685e-06 up 5.76583e-06 i 4.64648e-06 a 3.30942e-07 in 7.05355e-08
+align 15 </s> 1

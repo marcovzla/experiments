@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 that 0.999994 bat 5.65658e-06
+align 2 way 0.999668 would 0.000302776 with 2.94029e-05
+align 3 they 0.959546 he 0.0291041 you 0.0112091 we 0.000140448
+align 4 can 1
+align 5 see 1
+align 6 what's 1
+align 7 going 1
+align 8 on 1
+align 9 with 1
+align 10 the 0.999646 *DELETE* 0.0003349 your 1.53069e-05 that 4.1559e-06
+align 11 vehicle 0.997106 vehicles 0.00289259 vehicle's 1.3231e-06
+align 12 </s> 1

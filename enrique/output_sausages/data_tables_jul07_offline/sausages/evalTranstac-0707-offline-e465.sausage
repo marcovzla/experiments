@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 we'll 1
+align 2 do 1
+align 3 our 1
+align 4 best 1
+align 5 to 1
+align 6 make 1
+align 7 a 0.524667 *DELETE* 0.195319 the 0.145475 look 0.134539
+align 8 look 0.865455 *DELETE* 0.134545
+align 9 as 0.993627 is 0.00628025 at 7.11645e-05 it's 1.57985e-05 looking 5.96491e-06
+align 10 though 0.999022 all 0.000725409 so 0.000234841 oh 1.72697e-05
+align 11 this 1
+align 12 is 1
+align 13 not 1
+align 14 of 0.989734 in 0.00941837 if 0.000634773 have 0.000212608
+align 15 your 1
+align 16 own 1
+align 17 free 0.818389 for 0.181611
+align 18 *DELETE* 0.818389 you 0.181611
+align 19 will 0.611843 well 0.250983 we'll 0.137175
+align 20 uh 0.254234 is 0.21782 us 0.202001 of 0.182005 are 0.0639819 a 0.063268 or 0.00939219 i 0.00427858 not 0.00293037 *DELETE* 8.86428e-05
+align 21 staying 1
+align 22 in 1
+align 23 your 1
+align 24 house 1
+align 25 *DELETE* 0.999949 uh 5.1482e-05
+align 26 </s> 1

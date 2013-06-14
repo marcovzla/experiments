@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 0.674765 love 0.325235
+align 3 how 1
+align 4 large 1
+align 5 is 1
+align 6 the 0.999168 it 0.000831577
+align 7 villager 0.540101 village 0.459899
+align 8 *DELETE* 0.530215 of 0.36265 or 0.0537318 through 0.0385741 sir 0.00652164 you're 0.0032789 with 0.00178378 are 0.0013571 at 0.00122271 here 0.000665501
+align 9 the 1
+align 10 town 1
+align 11 where 0.71828 were 0.177556 for 0.0351354 we're 0.0318315 or 0.031709 wear 0.00548825
+align 12 your 0.977608 you're 0.0223916
+align 13 hospital 0.826108 *DELETE* 0.173892
+align 14 is 0.824934 hospital's 0.163509 hospitals 0.010383 as 0.00117385
+align 15 located 0.999858 looking 0.00010366 look 3.82088e-05
+align 16 *DELETE* 0.9999 in 6.11873e-05 at 3.85555e-05 it 1.07661e-07 and 4.01368e-10
+align 17 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 *DELETE* 0.512813 plan 0.487187
+align 5 plenty 0.512813 to 0.487187
+align 6 use 0.990878 *DELETE* 0.00893874 he 0.000183393
+align 7 this 0.990878 uses 0.00912214
+align 8 new 1
+align 9 facility 1
+align 10 for 0.98198 four 0.0179745 *DELETE* 4.51901e-05
+align 11 *DELETE* 0.994947 uh 0.0048777 a 0.000129672 fore 4.51901e-05 i 2.4148e-08
+align 12 </s> 1

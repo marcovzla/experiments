@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 types 1
+align 3 of 1
+align 4 goods 1
+align 5 are 1
+align 6 you 1
+align 7 travelling 1
+align 8 with 1
+align 9 today 1
+align 10 *DELETE* 1 uh 3.57341e-15
+align 11 </s> 1

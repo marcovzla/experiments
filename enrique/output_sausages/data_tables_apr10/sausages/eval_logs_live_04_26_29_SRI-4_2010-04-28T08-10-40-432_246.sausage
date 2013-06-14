@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 0.703245 you 0.174492 uh 0.0570724 i 0.0336579 to 0.0276195 um 0.00317691 did 0.000737219
+align 2 *DELETE* 0.731601 do 0.268399
+align 3 the 0.999999 that 1.47892e-06
+align 4 doctors 1
+align 5 or 0.988242 are 0.0110795 were 0.000462401 our 0.000216059
+align 6 nurses 1
+align 7 need 0.999984 knee 1.56907e-05
+align 8 more 1
+align 9 salary 0.998807 salaries 0.00099986 celery 0.000193571
+align 10 *DELETE* 0.999955 i 4.30743e-05 uh 2.24803e-06 is 9.6938e-08
+align 11 </s> 1

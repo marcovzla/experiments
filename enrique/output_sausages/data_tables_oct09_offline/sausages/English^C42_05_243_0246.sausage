@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 we've 0.879731 we 0.120269
+align 2 heard 1
+align 3 rumors 1
+align 4 uh 0.863913 *DELETE* 0.127392 about 0.0086949
+align 5 about 0.986704 *DELETE* 0.0086949 by 0.00460125
+align 6 *DELETE* 0.933406 uh 0.0665943
+align 7 talaban 1
+align 8 in 0.992441 me 0.0038199 *DELETE* 0.00373874
+align 9 *DELETE* 0.99618 in 0.0038199
+align 10 the 1
+align 11 *DELETE* 0.996261 in 0.00373874
+align 12 *DELETE* 0.996261 the 0.00373874
+align 13 area 1
+align 14 um 0.93295 uh 0.0670497
+align 15 *DELETE* 0.997484 uh 0.00251642
+align 16 and 1
+align 17 they 0.978806 *DELETE* 0.0211937
+align 18 are 0.978806 their 0.0112896 they're 0.00680598 there 0.0030981
+align 19 intimidating 0.998611 are 0.00138851
+align 20 *DELETE* 0.998611 intimidating 0.00138851
+align 21 contractors 0.990945 contractor's 0.00475969 contractors' 0.0042957
+align 22 </s> 1

@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 that 0.864497 there 0.0704005 they 0.0357829 they're 0.0185136 their 0.00884624 the 0.00195985
+align 3 you 0.998968 do 0.00103182
+align 4 *DELETE* 0.998968 you 0.00103182
+align 5 still 1
+align 6 have 1
+align 7 to 1
+align 8 go 1
+align 9 through 0.886495 to 0.113505
+align 10 the 0.999811 be 0.000188957
+align 11 of 0.569014 and 0.272324 up 0.12341 uh 0.0227278 at 0.00799635 i'll 0.00414742 aboard 0.000379661
+align 12 *DELETE* 0.567905 more 0.432095
+align 13 war 0.322777 one 0.244748 are 0.240597 *DELETE* 0.191878
+align 14 *DELETE* 0.588389 of 0.411611
+align 15 the 1
+align 16 militant 1
+align 17 ministry 0.995549 minister 0.0044505
+align 18 of 1
+align 19 interior 1
+align 20 for 1
+align 21 some 1
+align 22 of 1
+align 23 your 1
+align 24 a 0.785185 *DELETE* 0.119949 occurs 0.0745572 workers 0.00734753 of 0.00622752 uh 0.00490046 work 0.00183343
+align 25 *DELETE* 0.992579 this 0.0020587 with 0.00149356 occurred 0.000977294 could 0.000930725 consist 0.000716447 occur 0.00062132 was 0.000290805 cause 0.00022911 cook 5.37378e-05 we 4.90694e-05
+align 26 consistent 0.90156 distance 0.0540279 inconsistent 0.00838638 isas 0.00692309 agents 0.00662769 distances 0.00548327 systems 0.00502483 instance 0.00310803 *DELETE* 0.00200353 consistency 0.00152627 instances 0.0013322 it 0.00132062 this 0.00109137 of 0.000716447 agencies 0.000220063 issues 0.000194266 itching 0.000144187 us 0.000127957 is 6.35227e-05 in 5.08132e-05 as 2.98766e-05 consists 1.25516e-05 because 5.12215e-06 it's 5.04541e-06 and 4.69816e-06 increases 3.52139e-06 consisting 3.32843e-06 its 1.42448e-06 causes 1.08824e-06 agency 6.12777e-07 if 5.97935e-08 his 1.10475e-09 uncle's 1.94557e-10
+align 27 *DELETE* 0.9997 so 0.000172222 since 6.90168e-05 sir 3.07901e-05 some 1.82271e-05 this 5.07233e-06 just 1.70144e-06 sum 9.8731e-07 it's 6.13837e-07 i 5.45404e-07 see 4.1972e-07 uh 8.81312e-08 you 5.9648e-08 and 5.82179e-08 of 1.67814e-08 in 2.57393e-09 say 5.09061e-10 to 1.01705e-10
+align 28 </s> 1

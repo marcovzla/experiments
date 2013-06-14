@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 medical 1
+align 5 personnel 1
+align 6 *DELETE* 0.999315 uh 0.000480477 now 6.36517e-05 i 5.44435e-05 um 4.08978e-05 do 1.09779e-05 you 9.82373e-06 to 9.0737e-06 is 7.68882e-06 it 4.05824e-06 in 1.43403e-06 and 1.05975e-06 on 5.87261e-07 a 3.06524e-07 so 2.66258e-08 or 3.24345e-18 are 9.11059e-22 if 1.72259e-26 go 2.44446e-27
+align 7 </s> 1

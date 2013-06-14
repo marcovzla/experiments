@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 already 0.997553 or 0.00244676
+align 4 *DELETE* 0.997553 do 0.00244676
+align 5 *DELETE* 0.997553 you 0.00244676
+align 6 have 1
+align 7 your 0.991817 you're 0.00818251
+align 8 *DELETE* 0.999995 a 4.9549e-06
+align 9 teams 0.573681 team's 0.415294 it 0.0110062 a 1.82053e-05
+align 10 *DELETE* 0.988976 teams 0.0110244
+align 11 established 0.870527 establish 0.129473
+align 12 for 0.95931 four 0.0364879 per 0.00230384 *DELETE* 0.00189853
+align 13 who 0.998101 further 0.00189853
+align 14 will 0.998101 we'll 0.00189853
+align 15 do 0.69107 pay 0.27522 *DELETE* 0.0335136 be 0.000119844 per 7.65074e-05
+align 16 you 0.989273 your 0.00691642 pure 0.00381106
+align 17 providing 0.997283 the 0.00193973 a 0.000777466
+align 18 *DELETE* 0.997283 providing 0.0027172
+align 19 security 1
+align 20 who 0.908434 it 0.0817546 we 0.00748646 you 0.00228842 there 2.70025e-05 that 9.81088e-06
+align 21 will 0.98979 we'll 0.0102103
+align 22 be 1
+align 23 support 1
+align 24 and 0.991569 in 0.00817884 an 0.000252015
+align 25 who 0.959154 we 0.021891 he 0.0149236 you 0.00403014 *DELETE* 5.45168e-09
+align 26 will 0.999999 you'll 1.1368e-06 who'll 2.11044e-18
+align 27 be 1
+align 28 the 1
+align 29 assault 1
+align 30 </s> 1

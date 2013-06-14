@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 problems 1
+align 5 are 1
+align 6 you 1
+align 7 having 1
+align 8 *DELETE* 0.99939 a 0.000207945 to 0.00017613 uh 0.000125967 it 9.86664e-05 at 5.16343e-07 the 3.33568e-07 in 3.33069e-07 i 3.33749e-08
+align 9 </s> 1

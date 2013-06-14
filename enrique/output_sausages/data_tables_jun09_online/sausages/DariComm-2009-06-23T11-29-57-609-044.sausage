@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 1
+align 3 we'll 1
+align 4 try 1
+align 5 and 1
+align 6 get 1
+align 7 more 1
+align 8 help 0.999785 helped 0.000214991 *DELETE* 4.15074e-10
+align 9 *DELETE* 0.999438 uh 0.000313814 i 0.000136189 you 0.000109752 to 1.10935e-06 with 1.05664e-06 how 4.74364e-08 it 4.1845e-08 if 3.17541e-08
+align 10 </s> 1

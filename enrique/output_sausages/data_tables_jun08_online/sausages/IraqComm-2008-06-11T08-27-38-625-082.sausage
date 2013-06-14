@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 1 i 3.05529e-09
+align 2 we 1
+align 3 will 1
+align 4 talk 1
+align 5 about 1
+align 6 *DELETE* 0.99982 uh 0.000180215
+align 7 how 1
+align 8 to 1
+align 9 react 1
+align 10 to 1
+align 11 military 1
+align 12 engagements 1
+align 13 *DELETE* 0.999995 uh 3.2212e-06 i 1.69323e-06
+align 14 </s> 1

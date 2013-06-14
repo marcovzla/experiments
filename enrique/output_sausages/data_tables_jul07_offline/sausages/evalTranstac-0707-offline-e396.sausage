@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 we 0.999435 where 0.000438924 but 0.000125666
+align 2 then 0.826688 don't 0.121865 can't 0.0356086 did 0.010436 they 0.00365689 can 0.00143152 didn't 0.0003145
+align 3 check 0.831754 take 0.143653 checked 0.0245932
+align 4 *DELETE* 0.968008 the 0.0319586 and 3.29495e-05
+align 5 into 0.95856 engine 0.0319586 danger 0.00607958 inch 0.00336405 you 3.29495e-05 injured 4.36101e-06
+align 6 departments 0.769763 department 0.195383 compartment 0.0261679 apartments 0.0025512 the 0.0024515 apartment 0.00234707 department's 0.0012957 compartments 4.07263e-05
+align 7 *DELETE* 0.997548 apartment 0.00228112 apartments 0.000170385
+align 8 </s> 1

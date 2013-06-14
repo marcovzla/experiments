@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 sir 0.999092 so 0.000908264
+align 2 we're 1
+align 3 here 1
+align 4 to 1
+align 5 help 1
+align 6 *DELETE* 0.999988 uh 1.08031e-05 i 9.82028e-07
+align 7 </s> 1

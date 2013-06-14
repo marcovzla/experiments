@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 are 0.478752 or 0.321499 *DELETE* 0.188255 where 0.0114934
+align 2 are 0.93434 *DELETE* 0.0656603
+align 3 you 1
+align 4 all 1
+align 5 teachers 0.999172 teachers' 0.000482452 teacher's 0.000345186
+align 6 *DELETE* 1 are 2.48365e-07 i 2.50335e-09
+align 7 </s> 1

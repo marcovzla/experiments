@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 0.933927 where 0.0607754 well 0.00529795
+align 2 do 1
+align 3 you 1
+align 4 want 1
+align 5 to 1
+align 6 do 1
+align 7 about 1
+align 8 security 1
+align 9 for 1
+align 10 the 1
+align 11 school 1
+align 12 *DELETE* 0.999959 in 2.1402e-05 i 1.15583e-05 uh 7.87467e-06
+align 13 </s> 1

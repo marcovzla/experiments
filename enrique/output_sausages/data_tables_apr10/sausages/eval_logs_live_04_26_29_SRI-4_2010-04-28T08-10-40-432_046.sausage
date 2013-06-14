@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 do 1
+align 3 your 1
+align 4 children 1
+align 5 go 1
+align 6 to 1
+align 7 school 1
+align 8 *DELETE* 0.99922 uh 0.000514374 now 0.000154276 i 8.57107e-05 no 8.57305e-06 too 8.17461e-06 in 5.89391e-06 with 1.18244e-06 or 7.96586e-07 to 5.60348e-07 the 2.67327e-07 you 3.5298e-08 and 1.77777e-08
+align 9 </s> 1

@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 we 1
+align 3 are 0.987008 up 0.0128524 *DELETE* 0.000139222
+align 4 we 0.999861 i 0.000139222
+align 5 also 1
+align 6 need 1
+align 7 to 1
+align 8 understand 1
+align 9 that 1
+align 10 the 1
+align 11 american 1
+align 12 forces 1
+align 13 can 0.981344 *DELETE* 0.0186557
+align 14 uh 0.893923 um 0.0846546 cannot 0.0186557 that 0.00168629 i'll 0.000733595 i 0.000346388
+align 15 *DELETE* 0.999654 uh 0.000346388
+align 16 provide 0.981704 provides 0.0182963
+align 17 you 1
+align 18 the 0.71193 with 0.152697 *DELETE* 0.109217 a 0.0260733 generate 8.26044e-05
+align 19 generators 0.999917 is 8.26044e-05
+align 20 right 1
+align 21 now 1
+align 22 *DELETE* 0.99999 uh 1.00702e-05
+align 23 </s> 1

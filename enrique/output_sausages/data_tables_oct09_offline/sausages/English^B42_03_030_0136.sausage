@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 are 1
+align 3 you 1
+align 4 from 1
+align 5 this 1
+align 6 village 0.997708 villager 0.00229239
+align 7 are 0.561421 or 0.409352 *DELETE* 0.0292261
+align 8 they 0.967056 area 0.0285073 *DELETE* 0.00340068 there 0.000991343 the 4.49164e-05
+align 9 are 0.968766 or 0.0285522 *DELETE* 0.00268145 should 3.87252e-07
+align 10 actually 0.875276 issued 0.0569239 originally 0.0511563 in 0.00810697 aisha 0.00431731 injury 0.00306969 she 0.00111259 should 3.53464e-05 issue 1.22575e-06 be 3.87252e-07
+align 11 *DELETE* 0.98754 sri 0.00774831 me 0.00431731 she 0.000358666 be 3.53464e-05
+align 12 from 1
+align 13 this 1 his 2.07361e-15
+align 14 town 0.999928 *DELETE* 7.19788e-05
+align 15 *DELETE* 0.999789 uh 0.000137148 tell 6.62809e-05 towns 5.69787e-06 in 2.30535e-06 is 8.08494e-10 um 7.08207e-10
+align 16 </s> 1

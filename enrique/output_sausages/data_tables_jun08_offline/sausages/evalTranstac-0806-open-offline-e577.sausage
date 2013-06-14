@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 exactly 1
+align 2 i 1
+align 3 agree 1
+align 4 a 1
+align 5 hundred 1
+align 6 percent 1
+align 7 uh 1
+align 8 *DELETE* 0.888293 uh 0.111707
+align 9 next 1
+align 10 we 1
+align 11 can 1
+align 12 talk 1
+align 13 about 1
+align 14 the 1
+align 15 uh 1
+align 16 pedestrian 1
+align 17 entry 1
+align 18 control 1
+align 19 point 0.998936 points 0.00106432
+align 20 *DELETE* 0.999989 i 5.7994e-06 uh 4.87922e-06 it 9.88229e-08
+align 21 </s> 1

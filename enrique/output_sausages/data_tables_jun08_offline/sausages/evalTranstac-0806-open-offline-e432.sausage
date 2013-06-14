@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 also 0.977105 i 0.0175197 *DELETE* 0.00537508
+align 3 *DELETE* 0.98248 also 0.0175197
+align 4 uh 1
+align 5 *DELETE* 0.994625 also 0.00537508
+align 6 *DELETE* 0.907746 uh 0.0922538
+align 7 i 0.999945 eye 5.47084e-05
+align 8 can 0.98536 i 0.0146396
+align 9 *DELETE* 0.98536 can 0.0146396
+align 10 request 1
+align 11 uh 1
+align 12 some 1
+align 13 air 1
+align 14 support 1
+align 15 </s> 1

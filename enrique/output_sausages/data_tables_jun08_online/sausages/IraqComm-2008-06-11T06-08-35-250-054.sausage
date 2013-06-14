@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 far 1
+align 3 is 1
+align 4 it 1
+align 5 to 0.999752 do 0.00024824
+align 6 your 1
+align 7 father's 0.992826 fathers 0.00717395
+align 8 house 1
+align 9 </s> 1

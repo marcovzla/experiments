@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 0.618369 *DELETE* 0.236343 have 0.145288
+align 2 have 0.854712 *DELETE* 0.145288
+align 3 all 1
+align 4 the 1
+align 5 teachers 0.881137 teachers' 0.0816946 teacher's 0.0371681
+align 6 gone 0.902199 go 0.0943127 and 0.00237994 going 0.000971811 *DELETE* 0.000137054
+align 7 *DELETE* 0.948195 on 0.0518054
+align 8 to 0.93953 onto 0.0444099 *DELETE* 0.0126428 too 0.00257439 into 0.000614278 two 0.000228927
+align 9 a 0.75245 *DELETE* 0.234859 through 0.0126428 any 4.19406e-05 he 6.3897e-06
+align 10 university 0.999842 a 0.000157809
+align 11 *DELETE* 0.999138 is 0.000448633 university 0.000157809 to 0.000123018 i 0.00010148 if 1.6415e-05 so 8.10957e-06 as 5.53779e-06 in 4.42364e-07 of 6.28095e-08 uh 5.64022e-08 it 5.84786e-11
+align 12 </s> 1

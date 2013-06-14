@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 why 0.967229 well 0.02907 *DELETE* 0.00370052
+align 2 *DELETE* 0.97093 why 0.02907
+align 3 do 0.996299 why'd 0.00370052
+align 4 you 1
+align 5 have 1
+align 6 such 1
+align 7 a 1
+align 8 big 1
+align 9 vehicle 0.994354 vehicles 0.00564611
+align 10 *DELETE* 0.991885 i 0.00751645 uh 0.000527707 and 2.92758e-05 you 1.82472e-05 in 9.42632e-06 it 8.99453e-06 that 3.77469e-06 is 7.65259e-07 to 7.2142e-08 do 1.09775e-10 at 2.16088e-14
+align 11 *DELETE* 1 i 5.60811e-08
+align 12 </s> 1

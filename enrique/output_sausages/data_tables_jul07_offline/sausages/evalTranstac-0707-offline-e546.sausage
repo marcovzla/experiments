@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 i'll 1
+align 2 tell 1
+align 3 you 1
+align 4 what 1
+align 5 why 1
+align 6 don't 1
+align 7 i 1
+align 8 just 1
+align 9 talk 0.960634 talked 0.0393658
+align 10 to 0.993472 *DELETE* 0.00652815
+align 11 a 0.999522 *DELETE* 0.000478236
+align 12 couple 1
+align 13 of 1
+align 14 your 0.999998 you're 2.03999e-06
+align 15 workers 0.999558 workers' 0.0002616 worker's 0.000180413
+align 16 *DELETE* 1 do 3.77762e-07
+align 17 </s> 1

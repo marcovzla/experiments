@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 far 1
+align 6 apart 1
+align 7 the 0.972571 *DELETE* 0.0205449 a 0.0054103 this 0.00147382
+align 8 sign 0.491196 science 0.401946 signs 0.0519176 signed 0.0166168 site 0.0126855 assign 0.0117379 assigned 0.00867356 sides 0.00243297 side 0.00175479 siren 0.000920306 assigns 0.000118967
+align 9 *DELETE* 0.999154 and 0.000429434 in 0.000416729
+align 10 should 0.999955 she'll 4.52809e-05
+align 11 be 1
+align 12 space 1
+align 13 *DELETE* 0.876571 to 0.113411 the 0.00362069 too 0.00300464 do 0.00212314 tie 0.000425465 toe 0.000160913 time 0.000113005 two 9.79209e-05 taha 8.89434e-05 that 8.6575e-05 thai 8.50485e-05 they 6.41374e-05 does 6.28937e-05 die 4.57423e-05 tow 3.86278e-05
+align 14 *DELETE* 0.999802 uh 8.01792e-05 there 3.29899e-05 due 3.26044e-05 i 1.97406e-05 did 1.78486e-05 them 1.48594e-05 though 5.2137e-10 then 3.16393e-10 this 3.05529e-10 toy 1.35253e-10 a 1.7434e-11 take 1.23324e-11 in 5.58536e-14 do 4.11013e-18 ty 1.69942e-19
+align 15 </s> 1

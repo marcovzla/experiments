@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 evening 1
+align 3 doctor 1
+align 4 my 1
+align 5 name 1
+align 6 is 0.999998 *DELETE* 1.33046e-12
+align 7 sergeant 1
+align 8 freed 0.739579 fried 0.260421
+align 9 men 0.861994 mend 0.0740697 man 0.0570549 then 0.00688158
+align 10 i'm 0.931796 i 0.0682035
+align 11 *DELETE* 0.931796 am 0.0500779 i'm 0.0181256
+align 12 with 1
+align 13 the 1
+align 14 united 1
+align 15 states 1
+align 16 marines 1
+align 17 </s> 1

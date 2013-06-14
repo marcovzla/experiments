@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 we've 0.984112 we 0.0158884
+align 2 been 1
+align 3 getting 1
+align 4 complaints 0.990343 complains 0.00965662
+align 5 about 1
+align 6 these 0.999915 he's 6.5632e-05 the 1.88918e-05
+align 7 civilians 1
+align 8 around 0.967359 on 0.0242344 and 0.00820607 in 0.000105905 uh 9.4472e-05
+align 9 *DELETE* 0.999874 on 8.65e-05 the 3.13772e-05 one 7.97195e-06
+align 10 town 1
+align 11 getting 1
+align 12 wrapped 0.592658 rough 0.407342
+align 13 up 0.592658 go 0.402826 dump 0.00353962 though 0.000970909 stuff 5.78722e-06
+align 14 *DELETE* 0.999997 in 2.71597e-06 and 4.39387e-07
+align 15 by 0.997057 buy 0.00219194 *DELETE* 0.00052934 i 0.000102806 now 6.95093e-05 my 4.91657e-05 high 1.44546e-08
+align 16 your 0.999491 you're 0.000356178 our 0.000137396 their 8.71743e-06 or 6.30545e-06 buyer 6.83821e-07 where 5.10532e-10 are 1.3932e-11 ear 5.32661e-16 here 9.86792e-27
+align 17 men 1
+align 18 *DELETE* 0.999967 do 2.81895e-05 uh 4.46703e-06
+align 19 </s> 1

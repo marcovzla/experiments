@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 besides 0.854001 the 0.116478 *DELETE* 0.0182455 to 0.00880393 a 0.00247157
+align 6 *DELETE* 0.854001 sides 0.0838861 size 0.0378073 decides 0.0187831 side's 0.00330372 besides 0.00160055 sights 0.000617976
+align 7 architects 0.995833 architect's 0.00416734
+align 8 *DELETE* 1 i 1.98023e-08
+align 9 </s> 1

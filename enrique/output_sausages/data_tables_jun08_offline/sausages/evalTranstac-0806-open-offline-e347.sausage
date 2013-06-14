@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 in 0.94148 and 0.0370988 *DELETE* 0.0214212
+align 3 a 0.603481 that 0.37131 not 0.0177972 now 0.00362392 i've 0.00152834 i 0.0013882 at 0.000870863
+align 4 technique 1
+align 5 is 0.999768 as 0.000231827
+align 6 done 1
+align 7 like 1
+align 8 this'll 0.672249 this 0.327751
+align 9 *DELETE* 0.672249 will 0.280388 all 0.0240036 i'll 0.0233594
+align 10 be 1
+align 11 behind 1
+align 12 the 0.738989 a 0.260975 uh 3.58763e-05
+align 13 victim 0.999944 victims 5.60537e-05
+align 14 </s> 1

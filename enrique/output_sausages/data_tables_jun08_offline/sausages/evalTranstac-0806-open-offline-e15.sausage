@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 now 0.994431 no 0.00396181 not 0.00160736
+align 2 are 0.993885 our 0.00215073 all 0.00160736 uh 0.00126552 of 0.000643474 i 0.000274908 *DELETE* 0.00017268
+align 3 these 1
+align 4 police 1
+align 5 office 0.991408 officers 0.00859238
+align 6 training 0.700276 trained 0.237639 train 0.0614516 to 0.000633545
+align 7 *DELETE* 0.999366 train 0.000633545
+align 8 by 0.999968 buy 3.24017e-05
+align 9 the 1
+align 10 ministry 1
+align 11 *DELETE* 0.999818 of 0.000111251 i 4.10698e-05 to 1.57537e-05 uh 8.96366e-06 you 3.27715e-06 in 1.33611e-06 and 1.167e-12
+align 12 </s> 1

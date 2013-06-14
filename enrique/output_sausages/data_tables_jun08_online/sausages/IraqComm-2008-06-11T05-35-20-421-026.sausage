@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 will 1
+align 4 we 0.574882 he 0.212115 it 0.188665 you 0.0189219 they 0.00541652
+align 5 be 1
+align 6 in 0.953128 an 0.0276864 and 0.0191858
+align 7 surgery 0.997255 surgeries 0.00274499
+align 8 *DELETE* 0.99983 uh 0.000165926 in 3.28492e-06 i 9.28001e-07 on 1.21014e-24 and 2.54233e-26
+align 9 </s> 1

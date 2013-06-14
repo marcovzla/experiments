@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 medication 1
+align 5 do 1
+align 6 you 0.999388 *DELETE* 0.000612143
+align 7 use 0.541261 used 0.458704 have 3.52257e-05
+align 8 to 1
+align 9 treat 1
+align 10 *DELETE* 0.649584 jobs 0.218386 tribe 0.122045 job 0.00635259 the 0.002257 a 0.000972503 germ 0.000215887 drum 0.000187875
+align 11 tribes 0.451885 *DELETE* 0.22002 is 0.127802 drums 0.107485 germs 0.0323372 drivers 0.0154824 times 0.0108825 drives 0.00955489 jaundice 0.00718593 drugs 0.00644071 tribe's 0.00347187 jobless 0.00202775 jumps 0.00161936 terms 0.00112469 drowns 0.00103958 jobs 0.000787053 as 0.000577344 has 0.000140921 job 0.000135643 drown 6.73779e-07 germ 2.01557e-27
+align 12 *DELETE* 0.998082 driver's 0.000505193 germans 0.000494673 so 0.000225373 job's 0.000193615 is 0.000127892 jams 9.30149e-05 uh 7.67032e-05 i 6.39548e-05 drivers' 6.21753e-05 does 2.79471e-05 this 1.6692e-05 it's 1.27634e-05 jogs 4.53681e-06 to 3.90019e-06 as 3.34459e-06 was 3.24408e-06 in 1.66962e-06 do 1.30043e-06 you 6.73903e-08 and 3.84448e-08 its 2.74208e-12 it 7.25557e-13 of 6.0165e-15 his 1.57829e-26 a 3.64156e-30
+align 13 </s> 1

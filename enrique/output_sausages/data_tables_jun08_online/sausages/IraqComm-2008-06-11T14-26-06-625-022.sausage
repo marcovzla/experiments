@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 live 1
+align 5 in 1
+align 6 this 1
+align 7 town 1
+align 8 *DELETE* 0.998065 uh 0.00187937 i 3.50708e-05 the 1.13977e-05 of 8.50716e-06 that 3.35636e-07 them 6.13262e-08 at 1.02495e-13 or 2.04106e-14 um 1.13523e-14 out 4.87288e-15 a 3.69948e-15
+align 9 </s> 1

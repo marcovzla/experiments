@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 0.985487 where 0.0133881 when 0.00112453
+align 2 is 1
+align 3 your 1
+align 4 first 1
+align 5 up 0.999161 add 0.000626054 out 0.000165687 abd 4.68684e-05
+align 6 to 0.999779 two 0.000220518
+align 7 hire 0.801012 higher 0.195343 *DELETE* 0.00311568 a 0.000529441
+align 8 *DELETE* 0.999471 higher 0.000529441
+align 9 new 0.814942 need 0.165531 if 0.01459 hired 0.00311568 *DELETE* 0.00167946 do 0.000118661 and 2.34444e-05
+align 10 *DELETE* 0.980008 you 0.0192792 knew 0.000712995
+align 11 doctors 0.997113 doctors' 0.00155304 doctor's 0.00133372
+align 12 *DELETE* 1 i 1.99276e-07 a 9.33364e-12
+align 13 </s> 1

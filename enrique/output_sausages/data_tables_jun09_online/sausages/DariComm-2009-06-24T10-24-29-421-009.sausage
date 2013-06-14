@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 the 1
+align 6 status 1
+align 7 of 1
+align 8 this 0.925817 the 0.0741582 that 2.47209e-05
+align 9 soldier 0.999883 *DELETE* 0.000116534
+align 10 *DELETE* 0.999293 uh 0.000405089 i 0.00013256 soldiers 0.000116534 in 1.1869e-05 is 1.04499e-05 to 1.01305e-05 it 9.93362e-06 you 7.63254e-06 do 7.90055e-07 a 6.9115e-07 that 5.83855e-07 who 5.26523e-07 with 2.25257e-07 the 5.42545e-15
+align 11 </s> 1

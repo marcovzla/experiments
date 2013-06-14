@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 no 1
+align 2 of 1
+align 3 course 1
+align 4 *DELETE* 0.972737 i 0.0146429 uh 0.0125406 a 4.90766e-05 the 3.03738e-05
+align 5 </s> 1

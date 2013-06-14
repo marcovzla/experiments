@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 0.983095 what 0.0158711 *DELETE* 0.00103389
+align 2 is 0.998966 where's 0.00103389
+align 3 the 1
+align 4 closest 1
+align 5 well 0.999909 *DELETE* 8.78767e-05 one 3.37788e-06
+align 6 *DELETE* 0.999315 uh 0.000402303 i 0.000172996 wow 4.65696e-05 while 2.69203e-05 whoa 1.43869e-05 it 1.25309e-05 you 5.9225e-06 oh 3.40371e-06 in 6.98575e-10 if 1.02165e-11 um 6.90535e-12 a 3.30247e-12 i'm 2.84112e-12 all 2.59335e-15
+align 7 </s> 1

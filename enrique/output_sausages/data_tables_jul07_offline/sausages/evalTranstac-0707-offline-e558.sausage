@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i 1
+align 3 need 1
+align 4 *DELETE* 0.998384 uh 0.00161576
+align 5 all 1
+align 6 the 1
+align 7 employees 0.988454 employees' 0.00799142 employee's 0.00355472
+align 8 over 0.988479 or 0.011521
+align 9 *DELETE* 0.988578 were 0.0114218
+align 10 the 0.961845 they 0.03759 that 0.000556593 there 8.58935e-06
+align 11 here 0.892191 hear 0.0700052 *DELETE* 0.0378035
+align 12 *DELETE* 0.572704 a 0.159608 are 0.113814 or 0.0664373 i 0.0601547 uh 0.0201324 our 0.00691558 of 0.000233005
+align 13 by 0.815319 about 0.0776347 buy 0.0692431 hereby 0.0378035
+align 14 the 0.984987 a 0.0142005 uh 0.000792735 they 1.93458e-05
+align 15 register 0.996395 registered 0.00357904 registers 2.55968e-05
+align 16 *DELETE* 0.999983 i 8.75112e-06 it 4.64684e-06 a 3.58358e-06
+align 17 </s> 1

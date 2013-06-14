@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 when 0.749588 what 0.250409 went 2.11593e-06 one 3.6273e-08 white 5.50412e-09
+align 2 applying 0.99218 apply 0.00773766 i 8.20677e-05 *DELETE* 4.41636e-10
+align 3 *DELETE* 0.999918 apply 8.20677e-05
+align 4 *DELETE* 0.99218 in 0.00781973
+align 5 a 0.887618 the 0.112363 to 1.9035e-05
+align 6 tourniquet 0.999981 turn 1.9035e-05 applying 5.58419e-10
+align 7 *DELETE* 1 to 5.58419e-10
+align 8 *DELETE* 1 turn 5.58419e-10
+align 9 *DELETE* 0.999981 a._k. 1.90356e-05
+align 10 you 0.657307 you're 0.342684 your 8.92609e-06
+align 11 don't 0.657178 gonna 0.33544 going 0.0073815
+align 12 *DELETE* 0.992619 to 0.0073815
+align 13 *DELETE* 0.90612 want 0.0938796
+align 14 wanna 0.90612 to 0.0938796
+align 15 go 1
+align 16 ahead 1
+align 17 and 1
+align 18 uh 1
+align 19 talk 0.374866 try 0.315086 taught 0.140376 turn 0.064941 tie 0.0369833 trying 0.0363273 time 0.0211099 tight 0.00605522 tied 0.00425618
+align 20 *DELETE* 0.997987 to 0.00201299
+align 21 applied 0.932358 apply 0.0676422
+align 22 directly 0.971564 a 0.0163601 it 0.0120762
+align 23 *DELETE* 0.971564 directly 0.0284363
+align 24 above 1
+align 25 that 1
+align 26 wound 0.976343 wounds 0.0236565
+align 27 and 1
+align 28 uh 1
+align 29 *DELETE* 0.795943 uh 0.204057
+align 30 below 0.99248 blow 0.00752039
+align 31 below 1
+align 32 a 0.993117 what 0.00460893 would 0.00187799 it 0.000248325 wood 0.000139522 *DELETE* 7.07287e-06 and 1.49671e-06
+align 33 joint 0.999004 join 0.000608377 joy 0.000222288 jointly 0.000165601
+align 34 *DELETE* 0.999079 uh 0.000566772 a 0.000190425 it 0.000156985 you 3.83875e-06 me 3.0491e-06 in 2.43864e-07 and 7.56857e-08 i 4.80642e-08
+align 35 </s> 1

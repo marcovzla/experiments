@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 on 1
+align 2 the 1
+align 3 back 1
+align 4 of 0.968089 up 0.031911
+align 5 the 0.999419 a 0.000580854
+align 6 package 1
+align 7 is 1
+align 8 instructions 1
+align 9 *DELETE* 0.999713 i 0.000239793 uh 2.96418e-05 to 9.60036e-06 in 8.03552e-06 and 7.68788e-11 at 4.51688e-12 you 2.97335e-12 that 5.90713e-13
+align 10 </s> 1

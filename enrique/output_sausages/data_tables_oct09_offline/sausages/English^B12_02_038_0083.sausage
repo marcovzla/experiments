@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 1 uh 4.00266e-07
+align 3 yes 1
+align 4 you 0.498483 sir 0.430105 your 0.0564419 *DELETE* 0.0084056 you're 0.00333246 we 0.00114206 there 0.000807615 here 0.000671303 are 0.000610921 search 2.21129e-08
+align 5 chief 0.954824 cheap 0.0254352 achieve 0.0124753 cheat 0.00311213 achieved 0.00285232 cheek 0.000938546 cheese 0.000235548 chiefs 6.90163e-05 cheeks 4.3099e-05 chief's 1.19651e-05 cheats 2.43497e-06 each 2.21129e-08
+align 6 </s> 1

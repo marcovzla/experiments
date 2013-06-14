@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 use 0.889149 he's 0.0883764 ease 0.0218418 is 0.000625146 he 7.96432e-06
+align 2 *DELETE* 0.999992 is 7.96432e-06
+align 3 of 1
+align 4 malaria 1
+align 5 uh 0.514455 or 0.485545
+align 6 work 0.514455 *DELETE* 0.485545
+align 7 tuberculosis 1
+align 8 or 1
+align 9 or 0.431769 you 0.105197 know 0.0978364 your 0.0967768 uh 0.0589611 in 0.0476229 now 0.0419756 you're 0.0229313 that 0.022175 and 0.0205634 *DELETE* 0.0187016 what 0.00900957 do 0.00685395 it 0.00542491 they 0.00419049 no 0.00299096 how 0.00225871 are 0.00158006 not 0.00122852 yeah 0.000913742 the 0.000452591 then 0.000451214 a 0.000134068 i 9.75789e-07
+align 10 what 0.999991 will 8.65481e-06 *DELETE* 9.62651e-12
+align 11 what 1
+align 12 what's 1
+align 13 the 1
+align 14 most 1
+align 15 common 1
+align 16 illness 0.787012 *DELETE* 0.212988
+align 17 as 0.778645 illnesses 0.212988 is 0.00826306 and 0.00010342
+align 18 you 0.878832 *DELETE* 0.121168
+align 19 see 0.874755 use 0.121168 so 0.00407678
+align 20 you 1
+align 21 have 0.999764 had 0.000236018
+align 22 here 0.999895 hear 0.000104699
+align 23 </s> 1

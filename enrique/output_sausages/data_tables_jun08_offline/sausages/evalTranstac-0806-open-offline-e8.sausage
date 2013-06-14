@@ -1,0 +1,34 @@
+numaligns 32
+posterior 1
+align 0 <s> 1
+align 1 they'll 1
+align 2 be 1
+align 3 per 1
+align 4 *DELETE* 0.66329 free 0.336263 pretty 0.00044706
+align 5 freely 0.349543 freeway 0.313747 would 0.307952 what 0.0142894 we 0.0135196 wood 0.000949265
+align 6 assist 1
+align 7 us 1
+align 8 with 1
+align 9 identifying 0.998306 that 0.00166538 identified 2.8673e-05
+align 10 *DELETE* 0.998335 then 0.00166538
+align 11 *DELETE* 0.998335 i 0.00166538
+align 12 *DELETE* 0.998335 find 0.00166538
+align 13 these 1
+align 14 weapons 1
+align 15 but 0.395017 will 0.178691 what 0.136873 well 0.133425 where 0.0681129 when 0.0555846 why 0.0109006 was 0.00473873 weather 0.00406795 whether 0.00386573 way 0.00371513 one 0.00214322 were 0.00208668 with 0.000592243 within 0.000137575 by 4.90902e-05
+align 16 now 0.927105 the 0.0376077 i 0.0101526 not 0.00548516 a 0.00508916 that 0.00380404 know 0.00349187 no 0.00290933 in 0.00234907 uh 0.00137402 and 0.000336895 *DELETE* 0.000208836 though 6.9265e-05 are 1.7272e-05
+align 17 *DELETE* 0.996993 the 0.00216529 i 0.000336895 now 0.00032105 that 0.000183783
+align 18 we 1
+align 19 have 1
+align 20 a 0.900289 in 0.095289 *DELETE* 0.00442247
+align 21 not 0.900289 our 0.095289 enough 0.00442247
+align 22 stockpile 1
+align 23 or 1
+align 24 the 0.680509 they 0.252062 this 0.0621409 they're 0.00340832 that 0.00151931 there 0.000360309
+align 25 still 0.961848 *DELETE* 0.0239515 till 0.0128254 though 0.00121978 steal 9.02312e-05 to 3.73464e-05 tell 2.08961e-05 steel 6.57337e-06
+align 26 on 0.747306 *DELETE* 0.252694
+align 27 the 0.472896 *DELETE* 0.265217 in 0.1674 and 0.024608 stolen 0.023255 i'm 0.0230063 an 0.0108766 a 0.0103745 of 0.00170881 um 0.000530416 up 6.90487e-05 launch 3.73464e-05 them 2.08961e-05 owe 5.66348e-07
+align 28 *DELETE* 0.999303 lawn 0.000696545
+align 29 street 0.994768 a 0.00239247 streets 0.00183453 the 0.00100549
+align 30 *DELETE* 0.996602 street 0.00339796
+align 31 </s> 1

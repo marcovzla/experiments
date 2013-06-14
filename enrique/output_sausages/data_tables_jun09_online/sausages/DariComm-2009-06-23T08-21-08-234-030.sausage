@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 1
+align 3 you 1
+align 4 going 1
+align 5 to 1
+align 6 do 1
+align 7 and 0.673881 in 0.201489 it 0.12463
+align 8 home 0.755702 help 0.178135 how 0.0468499 *DELETE* 0.0178584 whom 0.00145477 hell 3.22329e-07
+align 9 *DELETE* 0.974515 old 0.0254853
+align 10 and 0.747418 men 0.194002 many 0.0156246 helmet 0.0105905 meant 0.0105756 in 0.00959355 mend 0.00475619 homeland 0.00390501 holding 0.00336288 *DELETE* 0.000171968
+align 11 *DELETE* 0.973342 uh 0.0152542 i 0.01036 a 0.000290515 you 0.000174717 then 0.000171949 it 0.000152838 the 9.69144e-05 to 7.57644e-05 all 2.61272e-05 if 1.94814e-05 um 1.87669e-05 he 4.26912e-06 we 2.92768e-06 do 2.86629e-06 in 2.24142e-06 i'm 1.63391e-06 no 1.61487e-06 they 5.11208e-07 on 4.03537e-07 an 1.93789e-08 is 6.3837e-10 it's 3.80884e-13 at 2.65696e-15
+align 12 </s> 1

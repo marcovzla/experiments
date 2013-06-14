@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 is 0.986451 yes 0.00985378 this 0.00369526 if 5.45084e-08 it's 7.61908e-10
+align 2 *DELETE* 0.999942 is 5.79125e-05
+align 3 this 1
+align 4 i 0.876593 uh 0.11768 all 0.00572697
+align 5 i 0.832488 *DELETE* 0.0916398 have 0.0697915 the 0.00574434 uh 0.000297959 of 3.86627e-05
+align 6 have 0.924128 *DELETE* 0.0755745 of 0.000296023 uh 1.93529e-06
+align 7 *DELETE* 0.999998 of 1.93529e-06
+align 8 a 0.964177 an 0.0300784 *DELETE* 0.00574434
+align 9 medicine 1
+align 10 and 1
+align 11 supplies 0.998175 supply 0.00182524
+align 12 *DELETE* 0.998175 is 0.00182524
+align 13 that 1
+align 14 you 1
+align 15 have 1
+align 16 *DELETE* 0.997935 uh 0.000796437 a 0.000457318 to 0.000325825 it 0.000322381 i 7.18894e-05 the 4.21715e-05 that 1.65689e-05 in 1.61333e-05 you 1.20006e-05 um 1.78966e-06 two 1.42231e-06 is 8.18749e-07 with 1.05565e-07 do 6.59158e-09 an 3.69163e-13 as 2.60572e-15
+align 17 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.666547 that 0.31516 i 0.0172767 uh 0.00096622 so 5.0146e-05
+align 2 now 0.541637 would 0.1629 *DELETE* 0.151394 way 0.14407
+align 3 with 0.398521 *DELETE* 0.147771 no 0.12491 that 0.101416 would 0.0675891 the 0.0646858 it 0.0606571 if 0.0284834 what 0.00240834 they 0.0015431 was 0.00104389 they're 0.000971117
+align 4 it 0.538441 *DELETE* 0.400323 that 0.0366238 a 0.0106981 the 0.00879929 at 0.00326495 had 0.00110891 with 0.000367335 they 0.00034941 have 2.36606e-05
+align 5 *DELETE* 0.751873 if 0.236241 it 0.0115367 had 0.000338982 have 1.04279e-05
+align 6 there 0.795509 their 0.158523 other 0.0304561 they're 0.0155116
+align 7 *DELETE* 0.977779 there 0.0222209
+align 8 is 0.851996 eyes 0.148004
+align 9 on 1
+align 10 our 0.621705 are 0.247475 or 0.127581 her 0.00323806
+align 11 further 0.973644 for 0.0263559
+align 12 *DELETE* 0.973644 the 0.0263559
+align 13 out 0.921508 route 0.0776695 i'll 0.000820165 al 2.52651e-06
+align 14 *DELETE* 0.999999 uh 6.96564e-07
+align 15 </s> 1

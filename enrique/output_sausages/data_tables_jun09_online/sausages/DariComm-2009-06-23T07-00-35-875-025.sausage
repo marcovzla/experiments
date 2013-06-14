@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 when 0.999901 why 9.85432e-05
+align 2 *DELETE* 0.999901 don't 9.85432e-05
+align 3 we 1
+align 4 talking 0.61951 talk 0.38049
+align 5 *DELETE* 0.619518 can 0.360371 and 0.0201109
+align 6 you 0.642634 he 0.34977 he's 0.00740701 the 0.000131213 we 5.794e-05
+align 7 say 0.990998 a 0.00718827 stay 0.00181331
+align 8 short 0.995696 a 0.00412767 *DELETE* 0.000176149
+align 9 *DELETE* 0.995696 short 0.00412767 sort 9.46247e-05 shorts 8.15242e-05 sewage 1.38145e-23
+align 10 sentences 1 sentence 4.51523e-13
+align 11 *DELETE* 0.999989 you 1.03242e-05 them 1.04805e-06 and 1.03268e-09 is 4.51523e-13 uh 5.11401e-20 too 1.95926e-21 i 3.05174e-22 are 2.04791e-23 how 3.92453e-25 um 6.02363e-27 as 3.69718e-42
+align 12 </s> 1

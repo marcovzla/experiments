@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 have 0.438663 at 0.434757 i 0.11074 of 0.0158312 and 8.96457e-06
+align 2 *DELETE* 0.88926 have 0.11074
+align 3 the 1
+align 4 will 0.382773 we'll 0.318156 blue 0.285656 well 0.00727428 *DELETE* 0.00390264 police 0.00223783
+align 5 police 0.995868 *DELETE* 0.00223783 please 0.00186148 least 3.30157e-05
+align 6 received 1
+align 7 any 1
+align 8 training 1
+align 9 *DELETE* 1 uh 4.7683e-08
+align 10 </s> 1

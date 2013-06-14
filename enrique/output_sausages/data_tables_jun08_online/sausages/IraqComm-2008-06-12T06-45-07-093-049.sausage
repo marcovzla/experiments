@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 three 1
+align 4 helicopters 1
+align 5 available 1
+align 6 on 0.599855 and 0.399005 in 0.00114008 *DELETE* 9.75808e-33
+align 7 *DELETE* 0.602477 stand 0.397523 i'm 4.63256e-28
+align 8 standby 0.602477 by 0.394977 bye 0.00180142 back 0.000745131 *DELETE* 7.0267e-28
+align 9 *DELETE* 0.999988 in 1.17879e-05 are 4.61111e-22 buy 8.76298e-27
+align 10 </s> 1

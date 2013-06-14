@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 uh 0.899396 i 0.0499242 i'll 0.0241319 um 0.0177373 i'm 0.00881012
+align 3 we'll 0.921947 will 0.0673934 uh 0.00861144 hope 0.00204791
+align 4 *DELETE* 0.989341 we'll 0.00821239 will 0.00244696
+align 5 bring 1
+align 6 in 0.99995 an 5.04768e-05
+align 7 people 1
+align 8 to 0.763292 *DELETE* 0.236708
+align 9 clean 1
+align 10 it 1
+align 11 out 1
+align 12 and 0.99989 an 0.000110189
+align 13 meanwhile 0.999993 me 6.94062e-06
+align 14 *DELETE* 0.999993 while 6.94062e-06
+align 15 we'll 0.761016 will 0.238781 well 0.000202641
+align 16 bring 1
+align 17 in 0.446541 an 0.429024 them 0.11177 on 0.00725168 him 0.00478559 and 0.000628084
+align 18 while 0.986581 wa 0.0108422 wahab 0.00133277 wa'el 0.00124378
+align 19 bottled 1 bottle 1.02425e-07
+align 20 *DELETE* 1 of 9.5644e-09
+align 21 water 1
+align 22 *DELETE* 0.999946 uh 5.3343e-05 i 1.08623e-06
+align 23 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 were 0.997136 we 0.00243274 *DELETE* 0.000430904
+align 2 you 0.997945 *DELETE* 0.00162424 we 0.000430904
+align 3 present 1
+align 4 when 1
+align 5 your 1
+align 6 brother 1
+align 7 was 1
+align 8 taken 0.999783 taking 0.000216544
+align 9 *DELETE* 0.999996 uh 2.53555e-06 it 8.46364e-07 to 3.1496e-07
+align 10 </s> 1

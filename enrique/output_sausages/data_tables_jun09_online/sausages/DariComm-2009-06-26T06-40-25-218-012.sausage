@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 can 0.571005 good 0.428956 tell 3.84657e-05
+align 2 morning 0.428956 *DELETE* 0.399595 learn 0.171448 i 6.09809e-07
+align 3 i'm 0.428021 and 0.247616 *DELETE* 0.196423 i 0.0551056 my 0.0522065 you 0.013307 more 0.00404179 mind 0.00197414 manage 0.00063395 move 0.000502856 germ 5.60759e-05 um 4.2951e-05 me 3.84657e-05 enjoy 1.49215e-05 general 1.27023e-05 measurements 1.62574e-06 gentle 8.89109e-07 informant 6.98e-07 governments 1.98271e-07 jerome 1.39315e-07 from 3.92252e-09 jawla 1.80496e-10 how 4.61394e-21
+align 4 going 0.410194 german 0.381877 gentleman 0.161004 *DELETE* 0.0364428 in 0.0104831
+align 5 *DELETE* 0.935843 to 0.0325563 gentlemen 0.0163396 germany 0.00685751 i'm 0.0033644 government 0.0032705 and 0.00175036 general 1.55116e-05 all 2.49119e-06
+align 6 *DELETE* 0.989975 in 0.00199896 an 0.00163993 do 0.00163025 on 0.00160166 enjoyment 0.000717526 uh 0.000687416 ayman 0.000539008 island 0.000437929 aiman 0.000226826 measurement 0.000182518 element 0.000181747 iman 8.9553e-05 going 6.79326e-05 your 2.32709e-05
+align 7 *DELETE* 0.999766 one 3.7723e-05 germans 3.434e-05 i 3.14767e-05 um 2.98314e-05 man 2.32709e-05 the 1.93685e-05 and 1.9258e-05 only 1.65423e-05 it 8.57318e-06 along 4.50668e-06 though 3.30908e-06 or 2.60873e-06 a 1.70039e-06 amman 1.06647e-06 they 1.97945e-07 you 1.82612e-07 who 1.73999e-07 did 3.60343e-08 with 5.52177e-11 is 6.2114e-13 under 4.47606e-21 we 8.82359e-24
+align 8 </s> 1

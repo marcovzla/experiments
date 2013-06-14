@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 clash 0.998377 clashed 0.00144067 *DELETE* 0.000182461
+align 4 and 0.956906 in 0.0429112 *DELETE* 0.000182461
+align 5 cloth 0.830686 claw 0.0793142 class 0.0382326 clot 0.024386 cloths 0.0223547 call 0.00290462 clots 0.00175639 kalashnikovs 0.000182461 *DELETE* 0.000142152 because 4.10907e-05
+align 6 so 0.990338 that 0.0088105 sir 0.00048586 do 0.000182461 closer 0.000142152 of 4.10907e-05
+align 7 you 0.999879 you're 0.000120818
+align 8 *DELETE* 0.520378 going 0.479622
+align 9 gonna 0.520378 to 0.479622
+align 10 bring 1
+align 11 tomorrow 1
+align 12 *DELETE* 0.999924 i 7.34722e-05 if 2.3653e-06 you 5.48903e-09 to 3.4843e-09 uh 1.30599e-09 do 1.15246e-09
+align 13 </s> 1

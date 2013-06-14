@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 computer 1
+align 2 or 0.939529 *DELETE* 0.0548417 where 0.00562936
+align 3 you 0.945158 *DELETE* 0.0534713 please 0.00137043
+align 4 structure 0.90763 structured 0.0581312 structures 0.0339382 struck 0.000229171 *DELETE* 7.14088e-05
+align 5 *DELETE* 0.999126 uh 0.000273967 and 0.000190622 i 0.000156458 is 9.54905e-05 in 8.13563e-05 stricter 4.72521e-05 strict 2.41403e-05 um 4.45517e-06 of 4.59435e-08 do 2.48572e-08 sure 1.64223e-08 as 1.55978e-08 to 2.30395e-09 structural 2.11557e-11 you 4.7305e-15 if 2.56126e-21 so 2.27213e-21 a 1.7236e-22 the 9.8967e-24 an 9.41063e-24
+align 6 *DELETE* 1 i 1.97138e-12
+align 7 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 all 0.69122 are 0.210779 how 0.0980008
+align 2 *DELETE* 0.767479 all 0.123092 are 0.109428
+align 3 the 1
+align 4 family 1
+align 5 members 1
+align 6 that 0.999928 the 7.18937e-05
+align 7 live 0.998852 have 0.00114847
+align 8 with 1
+align 9 you 1
+align 10 *DELETE* 0.999912 uh 8.74795e-05 in 8.78753e-07 at 5.97652e-11 i 1.05551e-11
+align 11 </s> 1

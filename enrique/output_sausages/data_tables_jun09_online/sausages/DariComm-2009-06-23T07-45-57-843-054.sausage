@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 not 0.934393 *DELETE* 0.0381874 nine 0.0199556 nad 0.00746366
+align 2 in 0.464653 any 0.163001 an 0.1222 *DELETE* 0.089172 a 0.0879838 and 0.0345036 none 0.0213046 madam 0.0139106 natalie 0.0018221 nadeen 0.00115008 to 0.000299046
+align 3 *DELETE* 0.999179 the 0.000452045 be 0.000299046 one 5.14585e-05 on 1.8402e-05
+align 4 questions 1
+align 5 on 0.940465 i 0.0402303 i'm 0.0158996 a 0.00176143 of 0.00098175 uh 0.000595863 or 6.58284e-05
+align 6 my 0.90793 might 0.0920703
+align 7 *DELETE* 0.90793 be 0.0920703
+align 8 behalf 0.90793 have 0.0920703
+align 9 do 1 *DELETE* 8.93047e-17
+align 10 you 1
+align 11 have 1
+align 12 any 1
+align 13 questions 1
+align 14 for 0.981037 from 0.0189626
+align 15 me 1
+align 16 *DELETE* 0.999959 um 2.40594e-05 uh 1.61248e-05 i 1.13231e-06
+align 17 </s> 1

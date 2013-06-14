@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 what 0.812383 well 0.18695 *DELETE* 0.000667135
+align 2 what 0.99571 *DELETE* 0.0028499 will 0.00144017
+align 3 we 1
+align 4 can 1
+align 5 do 1
+align 6 *DELETE* 0.999833 you 0.000167039
+align 7 for 1 four 4.02243e-08
+align 8 the 0.972896 that 0.0190691 they 0.00803531
+align 9 *DELETE* 0.995182 a 0.00343672 it 0.00099146 eight 0.000291753 is 9.78132e-05
+align 10 for 0.993022 *DELETE* 0.00696787 if 9.80254e-06
+align 11 the 0.993022 put 0.00593669 would 0.00103118 of 9.80254e-06
+align 12 interim 0.740425 inner 0.223562 *DELETE* 0.0186712 enter 0.0114084 it 0.00593354
+align 13 *DELETE* 0.754807 in 0.139775 on 0.0879619 interval 0.0174564
+align 14 *DELETE* 0.980026 and 0.0128261 our 0.00592226 intern 0.000951054 rome 0.000160703 entering 0.000107334 a 6.90682e-06
+align 15 *DELETE* 0.999993 room 6.90682e-06
+align 16 time 1
+align 17 is 1
+align 18 ensure 0.958615 in 0.0361486 unsure 0.00523685
+align 19 *DELETE* 0.963851 sure 0.0361486
+align 20 that 1
+align 21 our 0.679889 are 0.273406 all 0.0353061 or 0.0113987
+align 22 marines 0.988492 marines' 0.0113613 marine's 0.000146688
+align 23 are 0.73375 our 0.26625
+align 24 patrol 0.87445 *DELETE* 0.12555
+align 25 in 0.87445 patrolling 0.12555
+align 26 this 1
+align 27 area 0.999119 air 0.000881151
+align 28 more 1
+align 29 frequently 0.999976 frequent 2.41746e-05
+align 30 </s> 1

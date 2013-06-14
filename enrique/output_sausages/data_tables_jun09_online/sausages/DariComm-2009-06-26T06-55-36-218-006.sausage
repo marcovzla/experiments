@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 0.999834 *DELETE* 0.000165769
+align 2 is 0.694863 was 0.304843 how's 0.000165769 does 0.000127797
+align 3 the 1
+align 4 food 1
+align 5 situation 1
+align 6 in 1
+align 7 your 1
+align 8 village 1
+align 9 *DELETE* 0.999987 are 1.1482e-05 and 1.32751e-06 in 9.8836e-08 i 9.99749e-10 if 3.82066e-10 that 4.96893e-13 uh 2.4947e-15
+align 10 </s> 1

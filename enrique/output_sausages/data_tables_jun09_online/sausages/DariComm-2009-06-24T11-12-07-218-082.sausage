@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 like 1
+align 4 to 1
+align 5 do 1
+align 6 for 0.640578 foot 0.3234 full 0.0360228
+align 7 patrols 1
+align 8 or 1
+align 9 mounted 1
+align 10 patrols 1
+align 11 *DELETE* 0.999806 in 8.87747e-05 i 7.93226e-05 uh 1.29036e-05 to 6.68377e-06 the 3.08685e-06 you 1.76327e-06 is 1.02892e-06 a 4.13376e-07 and 3.3393e-07 do 2.11529e-09 it 4.26441e-10 that 6.15644e-11 with 1.39944e-13
+align 12 </s> 1

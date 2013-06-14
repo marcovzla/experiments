@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i'll 0.99895 well 0.000669695 all 0.000357232 oh 2.19611e-05 *DELETE* 3.61858e-11
+align 2 have 0.999717 how 0.00028146 aha 1.08317e-06
+align 3 to 1
+align 4 talk 1
+align 5 to 1
+align 6 my 1
+align 7 command 0.999893 commander 0.00010697
+align 8 first 1 *DELETE* 4.2e-24
+align 9 *DELETE* 0.999344 i 0.000385184 uh 0.000199337 if 2.99967e-05 to 1.90074e-05 it 1.08718e-05 you 9.56208e-06 a 1.75361e-06 the 4.14765e-07 do 3.23611e-07 in 3.54524e-08 is 6.75759e-09 and 6.31523e-10 as 1.10826e-10 for 3.35036e-22
+align 10 </s> 1

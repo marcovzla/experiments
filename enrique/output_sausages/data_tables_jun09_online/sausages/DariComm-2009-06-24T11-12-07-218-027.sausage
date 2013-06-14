@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 repeat 1 *DELETE* 9.82389e-18
+align 2 *DELETE* 0.997405 it 0.00194199 that 0.000402057 i 0.000244532 the 3.8178e-06 uh 2.22102e-06 to 5.9177e-07 them 8.46943e-09 this 2.19994e-09 is 7.07768e-12 rickey 9.01543e-15 rikki 9.01543e-15 rickie 9.01543e-15 ricki 9.01543e-15
+align 3 </s> 1

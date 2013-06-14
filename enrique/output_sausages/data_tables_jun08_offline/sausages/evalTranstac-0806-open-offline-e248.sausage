@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.99581 i 0.00419046
+align 2 *DELETE* 0.99581 am 0.00419046
+align 3 very 1
+align 4 sorry 1
+align 5 to 1
+align 6 hear 1
+align 7 about 1
+align 8 your 1
+align 9 loss 1
+align 10 and 1
+align 11 um 0.998009 uh 0.00199052
+align 12 the 1
+align 13 the 0.997797 *DELETE* 0.00220288
+align 14 training 1
+align 15 that 1
+align 16 uh 1
+align 17 we 1
+align 18 will 0.971164 were 0.0277768 *DELETE* 0.00105885
+align 19 *DELETE* 0.971254 all 0.0249411 were 0.00254807 we'll 0.00105885 we 0.000189547 will 8.50694e-06
+align 20 work 1
+align 21 together 1
+align 22 as 0.999087 is 0.000657904 it's 0.000254911
+align 23 a 0.999614 the 0.000386465 it 2.80035e-11
+align 24 team 1
+align 25 *DELETE* 0.999999 i 5.62118e-07
+align 26 </s> 1

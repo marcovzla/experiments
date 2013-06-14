@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.541344 i 0.458656
+align 3 understand 0.999711 i 0.000289213
+align 4 *DELETE* 0.999711 understand 0.000289213
+align 5 but 1
+align 6 i 1
+align 7 still 1
+align 8 need 1
+align 9 to 1
+align 10 search 1
+align 11 everyone's 0.895325 every 0.104675
+align 12 *DELETE* 0.895325 ones 0.0703252 one's 0.0341058 once 0.000243559
+align 13 vehicle 0.999997 vehicles 2.55195e-06
+align 14 including 1
+align 15 yours 0.999998 your 1.54807e-06 *DELETE* 9.56995e-11
+align 16 *DELETE* 0.999998 is 1.49985e-06 us 4.82181e-08
+align 17 *DELETE* 0.99936 you 0.000633346 like 6.34986e-06
+align 18 *DELETE* 0.999999 or 7.18017e-07
+align 19 *DELETE* 0.999999 us 5.31697e-07 is 1.8632e-07
+align 20 *DELETE* 0.999998 like 6.8734e-07 i 6.36984e-07 let 4.55682e-07 low 3.13174e-07 lay 4.05381e-08 look 3.40263e-08 uh 7.63613e-09 light 2.28392e-09 le 1.6004e-09 let's 1.2153e-09 a 1.01928e-09 you 4.85813e-10 what 2.85832e-10 it 1.86574e-10 if 1.48187e-12
+align 21 *DELETE* 1 i 2.10649e-15 what 3.57394e-16 low 9.1337e-17
+align 22 </s> 1

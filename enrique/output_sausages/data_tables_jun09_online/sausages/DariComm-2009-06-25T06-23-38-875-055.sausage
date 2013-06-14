@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.591503 where 0.302401 when 0.066931 well 0.0391653
+align 2 *DELETE* 0.987023 it 0.0129773
+align 3 is 0.976933 he's 0.023067
+align 4 a 0.506965 it 0.418446 the 0.0745892
+align 5 good 1
+align 6 pay 0.995855 day 0.00344867 okay 0.000695853
+align 7 for 1
+align 8 them 1 then 9.40002e-15
+align 9 </s> 1

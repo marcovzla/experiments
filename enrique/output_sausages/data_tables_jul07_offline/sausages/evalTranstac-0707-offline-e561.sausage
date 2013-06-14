@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 that's 1
+align 3 what 0.995523 why 0.00418551 when 0.000166588 uh 0.000125268
+align 4 we're 1
+align 5 here 1
+align 6 to 1
+align 7 check 1
+align 8 and 0.519565 can 0.240724 in 0.232629 an 0.00414221 *DELETE* 0.0013108 them 0.000847916 him 0.000550033 on 0.00011876 into 0.0001121
+align 9 confirm 0.929754 confirmed 0.0701315 firm 0.000112105 *DELETE* 1.06123e-12 can 4.64891e-20
+align 10 *DELETE* 0.999534 it 0.000283731 i 0.000180242 confirms 2.28189e-06 a 1.49874e-07 the 2.68125e-09 uh 1.44686e-09 four 3.19544e-10 confer 7.17151e-11 for 6.1961e-14
+align 11 </s> 1

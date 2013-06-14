@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 maybe 0.988617 may 0.011383
+align 2 *DELETE* 0.988617 be 0.011383
+align 3 your 0.742054 you're 0.143104 you 0.0782703 ear 0.0223263 *DELETE* 0.0142449
+align 4 *DELETE* 0.907485 are 0.0723774 were 0.0161115 our 0.00402627
+align 5 friendly 1
+align 6 with 1
+align 7 the 0.998994 *DELETE* 0.00100647 he 3.09985e-09
+align 8 insurgents 0.999936 insurgence 6.43189e-05 insurgency 6.88243e-08
+align 9 *DELETE* 0.999996 uh 3.85718e-06
+align 10 </s> 1

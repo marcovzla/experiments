@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 do 1
+align 3 you 1
+align 4 suspect 1
+align 5 that 0.338772 at 0.292406 the 0.265242 it 0.0692127 a 0.0328053 they 0.00156173
+align 6 *DELETE* 0.993132 a 0.0068678
+align 7 worker 0.82883 *DELETE* 0.17117
+align 8 work 0.769624 *DELETE* 0.179864 worked 0.0498227 works 0.000689212
+align 9 *DELETE* 0.82861 or 0.17139
+align 10 *DELETE* 0.648966 worked 0.299571 work 0.0514628
+align 11 for 0.99978 *DELETE* 0.000219803
+align 12 the 1
+align 13 insurgents 0.614874 insurgence 0.385126
+align 14 *DELETE* 1 uh 1.87257e-12
+align 15 </s> 1

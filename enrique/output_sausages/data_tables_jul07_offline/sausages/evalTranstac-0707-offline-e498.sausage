@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 perhaps 1
+align 2 you 0.998481 he 0.00151914
+align 3 can 1
+align 4 request 1
+align 5 help 0.98107 up 0.0165465 uh 0.00238313
+align 6 from 1
+align 7 your 1
+align 8 friends 0.999986 friend's 1.42817e-05
+align 9 and 0.942381 in 0.0465681 a 0.0110514
+align 10 neighbors 0.996502 neighbor's 0.00349838
+align 11 to 0.998761 two 0.000715997 too 0.000522865
+align 12 assist 1
+align 13 you 1
+align 14 with 1
+align 15 this 0.998398 us 0.00097253 his 0.000575135 as 3.57216e-05 its 1.83137e-05
+align 16 time 1
+align 17 *DELETE* 0.999835 i 0.00014162 uh 2.25727e-05 a 1.12055e-06
+align 18 </s> 1

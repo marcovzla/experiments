@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 i 0.452787 uh 0.282042 *DELETE* 0.265171
+align 2 i 0.941511 *DELETE* 0.0584887
+align 3 am 0.999897 i'm 0.000102719 khayyam 7.09184e-24 in 1.58111e-39
+align 4 well 1
+align 5 *DELETE* 0.999918 i 6.45447e-05 uh 1.76325e-05 okay 4.13263e-08 well-off 1.45295e-23 while 2.72064e-33
+align 6 </s> 1

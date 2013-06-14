@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999534 does 0.000466034 *DELETE* 2.49306e-09
+align 3 your 1 *DELETE* 2.49306e-09
+align 4 role 1 a 6.61772e-09
+align 5 here 0.99996 *DELETE* 3.99605e-05 showing 6.61772e-09
+align 6 in 0.999987 and 9.41703e-06 then 3.43516e-06 on 3.03638e-24
+align 7 this 0.505557 the 0.494443
+align 8 city 1
+align 9 </s> 1

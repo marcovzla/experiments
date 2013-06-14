@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 believe 1
+align 3 you 0.835999 these 0.0574622 we 0.0499156 in 0.0426759 he's 0.00800045 they 0.00366419 fees 0.00228303
+align 4 use 0.932254 *DELETE* 0.0677456
+align 5 are 0.972526 a 0.015121 our 0.00674889 uh 0.00560394
+align 6 hiding 1
+align 7 weapons 1
+align 8 on 1
+align 9 your 1
+align 10 land 1 *DELETE* 6.72847e-13
+align 11 *DELETE* 0.999967 now 3.255e-05 lands 1.28508e-07 i 5.76073e-16 for 1.54162e-18
+align 12 </s> 1

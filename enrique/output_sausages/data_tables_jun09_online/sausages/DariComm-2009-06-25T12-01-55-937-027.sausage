@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 route 0.999657 about 0.000343403
+align 3 do 1
+align 4 you 1
+align 5 want 1
+align 6 to 1
+align 7 take 1
+align 8 through 0.978765 threw 0.015726 there's 0.00515646 three 0.000331029 their 1.46164e-05 there 6.75564e-06
+align 9 the 0.991195 a 0.00515646 that 0.00325233 to 0.000388373 is 6.75564e-06 *DELETE* 3.26342e-10
+align 10 *DELETE* 0.999993 a 6.75564e-06
+align 11 bridge 1 *DELETE* 8.28728e-12
+align 12 *DELETE* 0.999663 is 0.000178326 uh 0.000132946 i 2.52135e-05 it 7.72856e-07 if 2.30948e-07 a 2.19109e-09 burij 1.06201e-09
+align 13 </s> 1

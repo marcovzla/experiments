@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 0.99489 yeah 0.00391956 if 0.00119015
+align 2 they 1
+align 3 bring 1
+align 4 guns 0.999657 gun's 0.00034311
+align 5 with 1 *DELETE* 5.25532e-12
+align 6 them 0.999932 time 4.4784e-05 *DELETE* 2.35272e-05 what 2.294e-09
+align 7 *DELETE* 0.999898 uh 7.47827e-05 then 1.28719e-05 i'm 7.79994e-06 to 3.21267e-06 um 2.85765e-06
+align 8 </s> 1

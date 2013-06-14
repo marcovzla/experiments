@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 0.999975 well 2.54675e-05
+align 2 do 0.819266 *DELETE* 0.180734
+align 3 we 1
+align 4 need 1
+align 5 to 1
+align 6 do 1
+align 7 when 1
+align 8 he 1 *DELETE* 7.08787e-16
+align 9 is 0.999725 has 0.000275422 his 1.35197e-12
+align 10 released 1
+align 11 *DELETE* 1 a 1.13482e-20
+align 12 </s> 1

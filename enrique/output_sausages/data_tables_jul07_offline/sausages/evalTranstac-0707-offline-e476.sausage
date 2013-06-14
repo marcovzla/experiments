@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 where 0.995152 or 0.00484761
+align 2 do 1
+align 3 you 0.996547 *DELETE* 0.00345326
+align 4 think 1
+align 5 that 1
+align 6 they're 0.996414 the 0.00181634 their 0.00125721 they 0.000326047 there 0.000186757
+align 7 *DELETE* 0.999674 are 0.000326047
+align 8 coming 1
+align 9 from 1
+align 10 *DELETE* 0.999991 a 7.28819e-06 uh 1.10334e-06 i 4.31309e-07
+align 11 </s> 1

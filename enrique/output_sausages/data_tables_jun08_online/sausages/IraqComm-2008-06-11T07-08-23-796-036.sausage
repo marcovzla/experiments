@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 1
+align 3 a 1
+align 4 particular 1
+align 5 project 0.997088 projects 0.00291199
+align 6 *DELETE* 0.999822 i 0.000101103 uh 7.31385e-05 a 3.34329e-06 is 8.65496e-10 in 2.61824e-15 it 5.61768e-18 to 3.40246e-19 you 4.34161e-21 on 1.91412e-21
+align 7 </s> 1

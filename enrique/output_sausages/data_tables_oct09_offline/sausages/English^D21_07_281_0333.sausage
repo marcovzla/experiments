@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 the 0.506891 uh 0.493109
+align 3 i 1
+align 4 *DELETE* 0.502661 i 0.497339
+align 5 will 1
+align 6 uh 1
+align 7 also 0.787517 i 0.212483
+align 8 *DELETE* 0.787517 also 0.212483
+align 9 see 1
+align 10 if 1
+align 11 i 1
+align 12 cannot 0.836684 can 0.163316
+align 13 *DELETE* 0.836684 i 0.163316
+align 14 get 1
+align 15 a 1
+align 16 few 1
+align 17 generators 1
+align 18 to 0.941256 they 0.0477661 the 0.00837984 that 0.00259802
+align 19 help 1
+align 20 with 1
+align 21 the 0.610352 that 0.221691 *DELETE* 0.15963 day 0.00832681
+align 22 is 0.833821 there's 0.141433 as 0.0111859 this 0.00697718 days 0.00551689 these 0.00106638
+align 23 electricity 0.999895 a 0.000104725
+align 24 *DELETE* 0.999895 electricity 0.000104725
+align 25 problem 0.999546 problems 0.000454328
+align 26 </s> 1

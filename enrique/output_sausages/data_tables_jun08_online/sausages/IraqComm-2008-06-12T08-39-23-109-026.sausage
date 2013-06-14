@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computer 0.929299 okay 0.0626988 oh 0.00599404 in 0.00137947 good 0.000628595
+align 2 *DELETE* 0.929299 other 0.0620989 computer 0.00737351 better 0.00122849
+align 3 play 0.897065 plan 0.0261185 played 0.0218021 plowed 0.0126585 plenty 0.0116258 ploughed 0.0114295 planned 0.00873623 player 0.00683704 *DELETE* 0.00214248 put 0.000868545 plate 0.000475657 i 0.000240354
+align 4 instructions 1
+align 5 *DELETE* 0.999993 i 7.4542e-06
+align 6 </s> 1

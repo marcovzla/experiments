@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 water 0.949383 well 0.0390732 where 0.0115434
+align 2 *DELETE* 0.960927 it 0.0390732
+align 3 is 1
+align 4 fine 1
+align 5 thank 1
+align 6 you 1
+align 7 *DELETE* 0.998862 uh 0.00112972 i 5.32251e-06 yeah 2.54064e-06 um 2.73598e-07
+align 8 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 is 1
+align 3 there 1
+align 4 any 1
+align 5 nurses 1
+align 6 are 0.594859 or 0.303489 there 0.0879556 their 0.00756655 they're 0.00612977
+align 7 anybody 1
+align 8 who's 1
+align 9 going 0.943443 gone 0.0565569
+align 10 to 0.998129 too 0.00165192 two 0.000218652
+align 11 college 0.999907 colledge 9.29401e-05
+align 12 before 1
+align 13 *DELETE* 0.999924 uh 4.68495e-05 i 2.81179e-05 it 5.96815e-07 you 2.12471e-07
+align 14 </s> 1

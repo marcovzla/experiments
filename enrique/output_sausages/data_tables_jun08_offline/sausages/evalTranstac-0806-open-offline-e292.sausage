@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 all 0.689514 *DELETE* 0.310486
+align 2 right 0.689514 alright 0.310486
+align 3 when 1
+align 4 you 1
+align 5 do 1
+align 6 your 1
+align 7 pre 1
+align 8 combat 1
+align 9 checks 1
+align 10 and 1
+align 11 inspections 1
+align 12 you 0.990036 see 0.00996449
+align 13 *DELETE* 0.976767 you 0.0232327
+align 14 need 1
+align 15 to 1
+align 16 make 1
+align 17 sure 1
+align 18 that 1
+align 19 your 1
+align 20 soldiers 1
+align 21 they 0.999719 may 0.00028099
+align 22 have 1
+align 23 all 1
+align 24 the 1
+align 25 required 1
+align 26 gear 0.990633 to 0.00868528 *DELETE* 0.00068164 do 4.86975e-08
+align 27 *DELETE* 0.990633 year 0.00573915 here 0.00232707 dear 0.000650302 hear 0.000374664 your 0.000275785 i 5.94041e-09
+align 28 </s> 1

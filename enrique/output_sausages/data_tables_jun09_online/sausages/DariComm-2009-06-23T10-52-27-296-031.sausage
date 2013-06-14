@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 did 0.999118 do 0.000881576
+align 3 not 1
+align 4 understand 1
+align 5 can 1
+align 6 you 1
+align 7 say 0.998868 see 0.00113179
+align 8 again 0.99997 a 3.04993e-05
+align 9 *DELETE* 0.993789 in 0.00569422 i 0.000253215 and 0.000177233 uh 5.58538e-05 gang 1.57231e-05 again 1.47753e-05 the 4.80225e-08 um 6.37114e-09 game 9.1982e-10 to 1.35561e-10 if 5.69567e-11 you 4.61059e-12 it 9.46893e-13
+align 10 </s> 1

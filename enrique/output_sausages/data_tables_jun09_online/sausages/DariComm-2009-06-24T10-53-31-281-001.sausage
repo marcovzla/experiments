@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 fifteen 1
+align 3 beds 1
+align 4 for 0.981982 four 0.0180184
+align 5 fifty 1
+align 6 people 0.999997 *DELETE* 3.48286e-06
+align 7 *DELETE* 0.999783 uh 0.000143334 do 3.73848e-05 who 1.56858e-05 in 1.13562e-05 peoples 3.48286e-06 are 2.47005e-06 so 1.51847e-06 i 8.05533e-07 and 6.88315e-07 um 2.08594e-07 you 4.47436e-09 there 1.64011e-11 with 8.37593e-12 go 7.29064e-12 i'm 1.65576e-12 it 1.07681e-13
+align 8 </s> 1

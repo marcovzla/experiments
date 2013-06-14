@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 am 0.998617 i'm 0.00138347
+align 3 here 1
+align 4 to 1
+align 5 inspect 1
+align 6 this 1
+align 7 power 1
+align 8 plant 1
+align 9 *DELETE* 0.999986 it 1.33998e-05 is 1.09877e-07 uh 3.69141e-17
+align 10 </s> 1

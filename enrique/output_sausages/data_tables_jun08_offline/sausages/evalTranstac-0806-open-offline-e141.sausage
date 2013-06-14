@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that 1
+align 3 with 0.583752 will 0.328987 well 0.0294306 we'll 0.024946 would 0.0147667 what 0.00948663 *DELETE* 0.00850483 one 0.000125726
+align 4 that 0.476384 that'll 0.237893 the 0.105941 our 0.0956621 i'll 0.0423735 a 0.0290707 i 0.00775215 dial 0.00234659 die 0.00209359 dental 0.000483996 go 2.65152e-07
+align 5 *DELETE* 0.988458 will 0.0110613 we'll 0.000480793
+align 6 work 1
+align 7 right 0.991483 rate 0.00458984 great 0.00326419 write 0.000497239 grade 0.000130122 rates 3.05569e-05 or 4.44294e-06 rich 2.73586e-07 red 5.00042e-08 rights 4.70205e-11
+align 8 *DELETE* 0.999996 eight 4.44294e-06 i 2.38945e-08
+align 9 </s> 1

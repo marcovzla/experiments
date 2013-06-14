@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what's 0.999952 which 4.80688e-05
+align 2 is 0.909138 his 0.0908614 it 7.05987e-07
+align 3 wrong 0.999999 around 8.28392e-07 room 1.69552e-07 role 9.87839e-09
+align 4 with 1
+align 5 your 1
+align 6 electricity 0.999832 you 0.000168214
+align 7 *DELETE* 0.999644 uh 0.000187449 electricity 0.000168214
+align 8 </s> 1

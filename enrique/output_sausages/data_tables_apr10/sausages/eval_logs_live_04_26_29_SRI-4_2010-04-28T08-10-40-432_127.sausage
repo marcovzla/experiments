@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 any 1
+align 4 police 0.999982 *DELETE* 1.77096e-05
+align 5 in 0.998896 and 0.000622016 at 0.000464685 *DELETE* 1.77096e-05
+align 6 the 0.999883 *DELETE* 9.96942e-05 policeman 1.77096e-05
+align 7 village 1
+align 8 </s> 1

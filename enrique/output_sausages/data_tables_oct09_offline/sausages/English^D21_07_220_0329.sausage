@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 like 1
+align 2 i 1
+align 3 said 1
+align 4 i 0.999997 uh 3.00026e-06
+align 5 *DELETE* 0.99916 i 0.000840469
+align 6 have 1
+align 7 those 1
+align 8 of 0.535873 in 0.453598 on 0.00756871 uh 0.00181911 are 0.000964898 *DELETE* 0.000129701 and 3.42251e-05 um 1.24496e-05
+align 9 the 0.999737 other 0.000129701 that 0.000103278 a 2.98076e-05
+align 10 truck 0.989454 trunk 0.00909933 trucks 0.00144713
+align 11 </s> 1

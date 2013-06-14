@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 the 0.767249 a 0.232751
+align 5 name 1
+align 6 of 1
+align 7 the 0.876549 it 0.122477 that 0.000974346
+align 8 of 0.92316 up 0.0517704 uh 0.0250695
+align 9 *DELETE* 0.992037 of 0.00796316
+align 10 this 1
+align 11 individual 0.867907 individually 0.132093
+align 12 looking 0.971477 look 0.0285229
+align 13 after 0.997908 in 0.00200339 now 8.64658e-05 at 2.16929e-06 *DELETE* 5.13082e-11
+align 14 *DELETE* 0.996593 after 0.00209202 i 0.000650774 uh 0.000269421 a 0.000210965 it 0.000179745 the 3.55653e-06 often 3.04102e-07 an 1.2035e-08
+align 15 </s> 1

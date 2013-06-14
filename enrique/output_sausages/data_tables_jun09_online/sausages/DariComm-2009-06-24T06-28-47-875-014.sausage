@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 patients 1
+align 4 do 1
+align 5 you 1
+align 6 currently 1
+align 7 have 1 *DELETE* 2.62768e-24
+align 8 *DELETE* 0.99992 a 6.92736e-05 it 6.55753e-06 uh 4.12786e-06 in 2.48802e-07 you 5.73332e-12 i 1.57733e-13 now 2.23877e-22 um 4.09079e-29
+align 9 </s> 1

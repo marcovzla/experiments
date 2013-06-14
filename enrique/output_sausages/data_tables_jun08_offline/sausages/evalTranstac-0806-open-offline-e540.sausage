@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 on 0.919777 all 0.0802227
+align 2 *DELETE* 0.922964 in 0.0770357
+align 3 this 1
+align 4 operation 1
+align 5 will 0.500514 we'll 0.499443 well 4.33713e-05
+align 6 also 1
+align 7 have 0.998925 had 0.00107506
+align 8 air 1
+align 9 support 1
+align 10 </s> 1

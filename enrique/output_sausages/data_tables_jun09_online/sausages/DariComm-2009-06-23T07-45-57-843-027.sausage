@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 repeat 1
+align 4 that 0.999998 *DELETE* 3.32557e-09
+align 5 *DELETE* 0.999781 uh 0.000151919 in 3.47767e-05 i 3.1147e-05 then 1.59049e-06 now 4.95284e-22
+align 6 </s> 1

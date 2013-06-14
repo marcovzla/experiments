@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 can 1
+align 3 you 1
+align 4 uh 0.989682 *DELETE* 0.00538442 i 0.0049335
+align 5 you 1
+align 6 can 0.979016 *DELETE* 0.0104573 gonna 0.00592937 can't 0.00354218 and 0.00099668 could 5.84738e-05
+align 7 have 0.989405 *DELETE* 0.0104536 add 0.000138072 cannot 3.72177e-06
+align 8 to 0.989546 cannot 0.0104536
+align 9 *DELETE* 0.99881 to 0.00119041
+align 10 open 1
+align 11 up 1
+align 12 the 0.892158 but 0.053916 uh 0.0394409 a 0.0144708 to 1.45456e-05
+align 13 *DELETE* 0.999985 uh 1.45456e-05
+align 14 that 0.941332 the 0.0319612 uh 0.0239607 bat 0.00176937 bab 0.000966964 *DELETE* 9.38743e-06
+align 15 *DELETE* 0.96852 that 0.023865 a 0.00748338 the 9.57217e-05 uh 3.57641e-05
+align 16 box 1
+align 17 that's 0.974417 it's 0.0255828
+align 18 on 1
+align 19 the 1
+align 20 on 1
+align 21 the 1
+align 22 uh 0.878172 *DELETE* 0.121828
+align 23 on 1
+align 24 the 1
+align 25 seat 0.367944 see 0.304884 sea 0.276779 c 0.0437291 seed 0.00652149 *DELETE* 0.000141392
+align 26 please 0.997145 pleas 0.00141515 police 0.000958361 c._p. 0.000141392 peas 0.000114568 pleased 0.00011441 peace 3.99212e-05 these 3.11236e-05 piece 2.69137e-05 place 1.0907e-05 plays 2.54934e-06 things 1.88815e-11
+align 27 *DELETE* 0.999996 is 4.17508e-06 i 1.21668e-07 uh 6.92735e-08
+align 28 </s> 1

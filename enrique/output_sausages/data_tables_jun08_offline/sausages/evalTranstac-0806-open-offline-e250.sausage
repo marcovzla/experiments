@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 use 0.941023 used 0.058977
+align 3 the 0.999071 that 0.000928807
+align 4 four 0.994378 for 0.00562176
+align 5 safety 1
+align 6 rules 1
+align 7 </s> 1

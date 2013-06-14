@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 and 0.604329 uh 0.253407 i 0.142264
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 any 1
+align 6 questions 1
+align 7 *DELETE* 0.99999 uh 7.8451e-06 i 2.50175e-06
+align 8 </s> 1

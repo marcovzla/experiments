@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 um 0.974953 uh 0.0250469
+align 3 what 1
+align 4 kind 1
+align 5 of 1
+align 6 weapons 1
+align 7 do 1
+align 8 you 1
+align 9 have 1
+align 10 for 0.999962 four 3.79345e-05
+align 11 them 0.998777 that 0.000892535 the 0.000327262 this 3.33046e-06 then 4.90842e-08
+align 12 </s> 1

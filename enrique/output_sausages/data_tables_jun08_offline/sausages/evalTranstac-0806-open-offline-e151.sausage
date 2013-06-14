@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 1
+align 3 some 1
+align 4 of 1
+align 5 the 1
+align 6 uh 1
+align 7 most 1
+align 8 critical 1
+align 9 issues 1
+align 10 that 1
+align 11 you're 1
+align 12 facing 1
+align 13 with 1
+align 14 the 1
+align 15 medical 0.999574 uh 0.000425944
+align 16 *DELETE* 0.999574 medical 0.000425944
+align 17 situation 0.999992 situations 7.86058e-06
+align 18 </s> 1

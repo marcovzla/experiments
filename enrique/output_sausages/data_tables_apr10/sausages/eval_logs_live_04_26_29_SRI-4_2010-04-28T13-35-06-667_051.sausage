@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 many 1
+align 4 farmers 1
+align 5 in 0.999878 and 0.000113293 on 8.62146e-06
+align 6 the 1
+align 7 village 1
+align 8 </s> 1

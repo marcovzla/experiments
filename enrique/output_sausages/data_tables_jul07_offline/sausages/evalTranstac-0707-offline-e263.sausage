@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 need 1
+align 3 to 1
+align 4 go 0.920962 *DELETE* 0.0790383
+align 5 to 0.920962 *DELETE* 0.0736539 give 0.00538445
+align 6 the 0.856897 *DELETE* 0.143103
+align 7 cmoc 1
+align 8 to 0.999319 they 0.000681049 *DELETE* 2.98319e-12
+align 9 try 0.998911 *DELETE* 0.00108917 the 1.70565e-10
+align 10 and 0.998679 trying 0.00108917 *DELETE* 0.000231596 in 1.03929e-10
+align 11 do 0.999424 get 0.000370462 you 7.23106e-05 to 6.64315e-05 into 3.29517e-05 be 3.28587e-05 in 5.59053e-07 indeed 2.19145e-09
+align 12 that 0.999983 at 1.65539e-05
+align 13 *DELETE* 0.999991 uh 9.07738e-06 at 1.12655e-09
+align 14 </s> 1

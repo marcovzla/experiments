@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999816 oh 0.000183836
+align 2 okay 1
+align 3 sir 1
+align 4 *DELETE* 0.745313 and 0.254687
+align 5 now 0.731326 uh 0.254687 no 0.0139874
+align 6 they 0.453789 *DELETE* 0.298242 the 0.170139 a 0.0488348 if 0.0281298 that 0.000864938
+align 7 *DELETE* 0.92714 they 0.0728597
+align 8 are 0.526649 uh 0.437936 that 0.0195272 *DELETE* 0.00732464 i'd 0.00201485 they'll 0.0018731 as 0.00185128 other 0.0011738 i 0.000891315 there 0.000758831
+align 9 *DELETE* 0.731157 the 0.177225 they 0.091618
+align 10 *DELETE* 0.818136 uh 0.181864
+align 11 *DELETE* 0.760587 a 0.0976251 are 0.091618 i 0.037306 i'd 0.00762398 uh 0.00416859 would 0.000637946 other 0.000433824
+align 12 do 1
+align 13 you 1
+align 14 see 1
+align 15 this 1
+align 16 uh 1
+align 17 *DELETE* 0.642729 uh 0.294184 a 0.063088
+align 18 big 0.999959 been 4.12141e-05
+align 19 burn 0.996602 burned 0.00273086 burnt 0.000667039
+align 20 here 0.893577 your 0.0983382 hear 0.00706078 you're 0.00102409
+align 21 i 1
+align 22 got 1
+align 23 to 0.888377 *DELETE* 0.111623
+align 24 the 0.869856 too 0.0722446 two 0.0392298 *DELETE* 0.0185211 it 0.000105225 uh 4.32766e-05 do 3.23931e-10
+align 25 right 0.99187 write 0.00810241 the 2.76591e-05
+align 26 *DELETE* 0.999972 right 2.76591e-05
+align 27 </s> 1

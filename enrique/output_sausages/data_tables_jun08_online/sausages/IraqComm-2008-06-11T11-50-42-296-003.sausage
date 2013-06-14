@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 captain 1
+align 7 my 0.93717 may 0.0628297
+align 8 the 0.999849 *DELETE* 0.000150834
+align 9 weather 0.999849 mother 0.000150834
+align 10 is 1
+align 11 nice 1
+align 12 outside 1
+align 13 today 0.994263 to 0.00494858 *DELETE* 0.000695775 the 9.293e-05 that 7.30552e-22
+align 14 *DELETE* 0.993934 there 0.00562368 uh 0.00032889 day 8.54921e-05 delay 1.37499e-05 way 1.32099e-05 pay 9.08413e-07 they 2.39187e-07 their 6.31896e-09 a 7.30552e-22 the 1.26503e-22
+align 15 </s> 1

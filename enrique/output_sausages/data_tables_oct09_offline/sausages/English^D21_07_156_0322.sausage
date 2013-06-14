@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 0.999906 oh 9.36447e-05
+align 2 we 0.986607 uh 0.0133933
+align 3 *DELETE* 0.986607 we 0.0133933
+align 4 have 1
+align 5 uh 0.998665 *DELETE* 0.0013346
+align 6 *DELETE* 0.725067 a 0.231269 uh 0.0436645
+align 7 lots 0.95641 lot 0.0257851 lot's 0.0178045
+align 8 of 1
+align 9 bandages 0.996354 the 0.00360924 bandage 3.63323e-05
+align 10 *DELETE* 0.996098 bandages 0.00360924 i 0.000170896 uh 8.57183e-05 is 3.63323e-05 on 4.38135e-09 um 9.85523e-10 in 2.03971e-12
+align 11 </s> 1

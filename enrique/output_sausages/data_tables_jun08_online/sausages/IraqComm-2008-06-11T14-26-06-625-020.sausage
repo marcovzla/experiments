@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 sir 1
+align 2 i 1
+align 3 just 1
+align 4 need 1
+align 5 to 1
+align 6 ask 1
+align 7 you 1
+align 8 some 1
+align 9 questions 1
+align 10 about 1
+align 11 the 1
+align 12 local 1
+align 13 population 1
+align 14 here 0.99978 *DELETE* 0.000220099
+align 15 *DELETE* 0.999124 i 0.000334831 uh 0.000310183 hear 0.000194897 air 2.52018e-05 to 1.09528e-05 a 5.70116e-08 i'm 3.65471e-08 near 1.06108e-12
+align 16 </s> 1

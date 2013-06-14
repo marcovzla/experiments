@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 um 0.997006 uh 0.00299399
+align 2 *DELETE* 0.999583 uh 0.000416865 i 2.604e-07
+align 3 *DELETE* 0.999358 i 0.000642332
+align 4 i'm 0.898873 uh 0.091678 i 0.00950663
+align 5 *DELETE* 0.999293 i 0.000707376
+align 6 *DELETE* 0.850563 i'm 0.101127 going 0.0483101
+align 7 *DELETE* 0.99843 going 0.00157025
+align 8 gonna 0.95012 to 0.0498803
+align 9 recommend 1
+align 10 we 1
+align 11 do 1
+align 12 snap 1
+align 13 v._c._p.s 1
+align 14 since 1
+align 15 i'm 1
+align 16 guessing 1
+align 17 this 0.954959 they're 0.0211617 there's 0.0136701 the 0.00732545 their 0.0023192 *DELETE* 0.000492993 there 3.83402e-05 to 3.27954e-05
+align 18 side 0.887402 uh 0.0473059 our 0.0240961 out 0.0174529 cell 0.0100047 are 0.00866633 *DELETE* 0.00332476 of 0.00101261 s'oud 0.00071421 so 2.09876e-05
+align 19 *DELETE* 0.996062 sell 0.000595083 of 0.000592019 i've 0.00049769 decide 0.000492993 aside 0.000482809 up 0.000357636 shop 0.000280646 saud 0.000201831 i 0.000103578 all 9.84205e-05 i'll 8.94234e-05 solve 5.2781e-05 sup 3.97465e-05 stop 2.37593e-05 saw 2.3036e-05 site 6.30934e-06
+align 20 bridges 0.995624 bridge's 0.00437558
+align 21 point 0.888339 pointer 0.11138 boy 0.000251692 pointing 1.89051e-05 plan 1.05212e-05
+align 22 uh 0.469647 a 0.260824 i 0.156575 *DELETE* 0.11138 now 0.00154449 to 2.94263e-05
+align 23 opened 0.990547 open 0.00945345
+align 24 opened 0.990547 open 0.00945345
+align 25 uh 0.940492 i 0.059212 the 0.000296498
+align 26 *DELETE* 0.93009 uh 0.0699095
+align 27 open 1
+align 28 location 1
+align 29 when 0.394155 we're 0.374722 were 0.18157 where 0.0194494 one 0.0166569 what 0.0076775 or 0.00321913 we 0.00087996 going 0.000737574 of 0.0004801 win 0.000154431 in 0.000144953 and 0.000106939 uh 4.54591e-05
+align 30 *DELETE* 0.998028 when 0.00197228
+align 31 now 0.568813 i 0.230121 the 0.155125 no 0.0373962 uh 0.00525353 know 0.00137542 to 0.000969661 a 0.000947258
+align 32 open 0.996888 opened 0.00311188
+align 33 road 0.994488 rode 0.00479585 wrote 0.000551324 robe 0.00014126 rope 1.29342e-05 roads 5.57676e-06 route 5.0891e-06 rogue 5.80923e-08
+align 34 *DELETE* 0.999994 uh 6.266e-06 i 4.7513e-08
+align 35 </s> 1

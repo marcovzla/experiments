@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 and 0.959646 then 0.0403544
+align 2 um 0.999983 uh 1.66958e-05
+align 3 if 0.844652 is 0.152521 it 0.00165061 *DELETE* 0.000625753 it's 0.000386053 as 0.000164445
+align 4 it 0.740019 *DELETE* 0.114549 uh 0.0826987 that 0.0514444 like 0.0103453 as 0.000625753 the 0.000317951
+align 5 *DELETE* 0.963911 it 0.0360434 uh 4.59806e-05
+align 6 i 0.593237 that 0.404336 *DELETE* 0.00161965 the 0.000316321 tie 0.000270968 uh 0.000219643
+align 7 *DELETE* 0.881518 thought 0.0861395 tie 0.0196006 that 0.00929973 die 0.00318634 it 0.00025612
+align 8 *DELETE* 0.999744 that 0.00025612
+align 9 they 0.486614 think 0.467364 thing 0.0426276 talking 0.00276207 attacking 0.00057482 packing 5.73595e-05
+align 10 we're 0.513363 were 0.486637
+align 11 ready 1
+align 12 to 1
+align 13 conduct 1
+align 14 these 0.956618 this 0.0433817
+align 15 uh 1 thus 2.38577e-13
+align 16 so 0.717736 *DELETE* 0.186093 side 0.0961715
+align 17 i 0.679355 psy 0.186093 *DELETE* 0.0961715 have 0.0383805
+align 18 v._c._p.s 0.961619 e._c._p.s 0.032776 you 0.00560458
+align 19 *DELETE* 0.994395 see 0.00560458
+align 20 *DELETE* 0.994202 please 0.00557076 at 0.000140999 it 4.66668e-05 peas 3.38177e-05 uh 4.35261e-06 that 1.22065e-06 i 2.28025e-07
+align 21 </s> 1

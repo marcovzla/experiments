@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 wrong 1
+align 4 with 0.997405 which 0.00259472
+align 5 her 0.525823 your 0.462606 our 0.00799796 are 0.00301211 or 0.000455829 four 6.57766e-05 their 2.34246e-05 for 9.70132e-06 the 4.97093e-06 were 1.08407e-06 two 2.62169e-07 of 7.87044e-15 him 1.00719e-23 drove 1.41638e-36
+align 6 brother 0.971302 brothers 0.025291 broken 0.00293825 broke 0.00024787 brother's 0.000221261 *DELETE* 2.15071e-13
+align 7 *DELETE* 0.998666 in 0.000586365 uh 0.000288317 i 0.000279469 and 7.49868e-05 do 3.21745e-05 is 3.04051e-05 he 1.15159e-05 you 9.80941e-06 okay 4.60194e-06 it 4.44567e-06 who 4.24693e-06 a 2.55615e-06 the 2.42162e-06 now 2.3031e-06 here 5.51491e-07 um 5.00282e-08 bravo 2.0084e-09 as 1.85458e-09 if 2.65183e-16 of 6.4528e-30
+align 8 </s> 1

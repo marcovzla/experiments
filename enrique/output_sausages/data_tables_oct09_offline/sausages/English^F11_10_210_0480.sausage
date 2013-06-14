@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 one 1
+align 2 thing 1
+align 3 uh 0.999484 i 0.000515816
+align 4 we're 0.999407 want 0.000515816 were 7.68896e-05
+align 5 *DELETE* 0.965228 going 0.0347721
+align 6 gonna 0.964712 to 0.0352879
+align 7 go 1
+align 8 ahead 1
+align 9 and 1
+align 10 uh 1
+align 11 go 1
+align 12 into 1
+align 13 is 1
+align 14 uh 1
+align 15 establish 0.948406 established 0.0515936
+align 16 a 0.975658 *DELETE* 0.0243076 the 3.40349e-05
+align 17 uh 0.980407 um 0.0195928
+align 18 *DELETE* 0.800505 uh 0.157549 i 0.0419464
+align 19 how 0.616062 have 0.378222 *DELETE* 0.00571675
+align 20 to 0.539398 *DELETE* 0.361636 the 0.049964 a 0.0337226 does 0.00586441 this 0.00369872 house 0.00354472 has 0.0010447 houses 0.000752831 how's 0.000374491
+align 21 status 0.571087 establish 0.339932 established 0.0420841 staffers 0.034136 times 0.0125369 to 0.000199802 divers 2.41955e-05 *DELETE* 2.59867e-14
+align 22 *DELETE* 0.999802 others 0.000197653
+align 23 these 0.999552 he's 0.000246018 ease 0.000198365 either 1.34503e-06 other 8.0429e-07 stab 1.68378e-08 *DELETE* 4.19762e-09
+align 24 *DELETE* 0.999997 sees 2.89236e-06 seize 2.94566e-07
+align 25 v._c._p.s 1
+align 26 *DELETE* 1 is 6.40119e-08
+align 27 </s> 1

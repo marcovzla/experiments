@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 did 1
+align 3 you 1
+align 4 contact 1
+align 5 *DELETE* 0.998476 it 0.00143482 them 5.00869e-05 you 2.85035e-05 the 8.5189e-06 to 9.31202e-07 uh 7.7814e-07 me 6.26184e-07 i 3.26196e-08 in 6.15294e-15 a 7.21835e-16
+align 6 </s> 1

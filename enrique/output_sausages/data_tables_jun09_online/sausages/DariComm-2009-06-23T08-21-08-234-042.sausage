@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 please 1
+align 4 stand 1
+align 5 over 1
+align 6 here 1
+align 7 *DELETE* 0.990863 uh 0.00758935 um 0.000819376 now 0.00028431 and 0.000191057 in 0.00013543 i 0.000117204 on 3.82473e-10
+align 8 </s> 1

@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 now 1
+align 3 do 0.927445 that 0.0725062 the 4.83608e-05
+align 4 we 1
+align 5 know 1
+align 6 what's 0.85293 what 0.14707
+align 7 uh 0.852032 so 0.145557 sir 0.00151215 it 0.000898201
+align 8 what 0.979315 what's 0.0206848
+align 9 side 1
+align 10 of 1
+align 11 the 1
+align 12 uh 0.999728 *DELETE* 0.00027205
+align 13 *DELETE* 0.774247 uh 0.225753
+align 14 the 1
+align 15 bridges 0.888114 bridge 0.111886
+align 16 *DELETE* 0.888114 is 0.111886
+align 17 red 0.241361 right 0.165193 wrecked 0.141797 rent 0.141281 wreck 0.115931 rare 0.104531 read 0.037142 rec 0.0331446 write 0.00822944 ready 0.00535226 run 0.00506432 rack 0.000972529
+align 18 *DELETE* 0.987291 a 0.0127092
+align 19 cruel 0.716083 role 0.276296 roll 0.00427612 crew 0.00310362 rule 0.000119582 rula 7.31264e-05 roula 4.84709e-05
+align 20 will 0.793414 we'll 0.206136 the 0.000429885 of 1.96834e-05
+align 21 *DELETE* 0.99945 will 0.000393561 we'll 0.000156407
+align 22 be 1
+align 23 approaching 0.98653 approach 0.0134699 approaches 3.95926e-08
+align 24 *DELETE* 0.98653 in 0.00830828 it 0.00421255 an 0.00065906 and 0.00029006
+align 25 from 1
+align 26 *DELETE* 0.999988 a 1.20368e-05 i 2.56311e-07
+align 27 </s> 1

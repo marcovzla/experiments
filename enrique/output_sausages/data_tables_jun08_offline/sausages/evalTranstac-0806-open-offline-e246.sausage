@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 that's 1
+align 2 great 1
+align 3 thanks 0.811862 thank 0.188138
+align 4 your 0.962073 here 0.0329808 you're 0.00494619
+align 5 assistance 1
+align 6 in 1
+align 7 this 1
+align 8 uh 0.916533 um 0.0834674
+align 9 it's 1
+align 10 very 1
+align 11 important 1
+align 12 that 1
+align 13 your 0.880828 you 0.0924739 you're 0.0218547 to 0.00396331 care 0.000879804
+align 14 *DELETE* 0.90453 are 0.0801859 were 0.0113203 your 0.00396331
+align 15 younger 1
+align 16 soldiers 1
+align 17 *DELETE* 0.999444 i 0.000555561
+align 18 understand 1
+align 19 that 1
+align 20 uh 1
+align 21 mishandling 0.89759 you 0.0427839 needs 0.0259182 miss 0.0190205 the 0.0146768 nasan 1.00938e-05
+align 22 *DELETE* 0.89759 mishandling 0.0574607 handling 0.0449387 ling 1.00938e-05
+align 23 weapons 1
+align 24 is 1
+align 25 on 1
+align 26 </s> 1

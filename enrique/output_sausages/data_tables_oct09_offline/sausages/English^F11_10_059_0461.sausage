@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 from 1
+align 3 uh 0.869551 my 0.121049 all 0.00940003
+align 4 uh 0.774851 *DELETE* 0.184961 a 0.0292931 serves 0.0103042 oh 0.000371868 sir 0.000219221
+align 5 *DELETE* 0.999961 uh 3.90956e-05
+align 6 so 0.975628 serves 0.0214629 sir 0.00290879 *DELETE* 2.04242e-33
+align 7 whose 0.640487 who's 0.218422 so 0.114945 *DELETE* 0.0261456
+align 8 sole 0.483745 will 0.360385 *DELETE* 0.119535 slow 0.015622 role 0.0147802 after 0.00593324 so-so 1.83229e-07
+align 9 afternoon 0.994067 noon 0.00428329 known 0.000782345 no 0.000397563 know 0.000196611 note 0.000169993 knowing 6.2396e-05 new 4.10425e-05
+align 10 to 0.963181 too 0.0154214 till 0.0114748 two 0.0099227
+align 11 midnight 1
+align 12 that's 0.998146 that 0.00185432
+align 13 usually 1
+align 14 when 0.566992 *DELETE* 0.430173 with 0.00283543
+align 15 one 0.430173 uh 0.329455 *DELETE* 0.240373
+align 16 other 0.313458 *DELETE* 0.306349 of 0.239431 the 0.120237 uh 0.0157904 though 0.00418974 i 0.000545424
+align 17 the 0.537934 *DELETE* 0.35188 that 0.0877848 uh 0.0211619 other 0.00122271 they 1.68328e-05
+align 18 *DELETE* 0.963527 the 0.0202391 that 0.0162342
+align 19 talaban 1
+align 20 go 1
+align 21 ahead 0.949847 *DELETE* 0.050153
+align 22 and 0.984134 now 0.0151001 *DELETE* 0.000765575
+align 23 attack 0.945439 uh 0.0545615
+align 24 *DELETE* 0.945438 attack 0.0536393 tack 0.000418769 taq 0.000224431 tak 0.000164668 taak 0.000108643 tax 5.65547e-06 a 1.51129e-07
+align 25 </s> 1

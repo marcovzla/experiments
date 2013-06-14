@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 your 1
+align 3 brother 1
+align 4 have 1
+align 5 a 1
+align 6 cell 1
+align 7 phone 0.999984 phones 1.59164e-05
+align 8 </s> 1

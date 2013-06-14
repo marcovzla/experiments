@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 fuel 1
+align 6 to 1
+align 7 run 1
+align 8 these 1
+align 9 generators 1
+align 10 *DELETE* 0.999999 uh 5.79376e-07
+align 11 </s> 1

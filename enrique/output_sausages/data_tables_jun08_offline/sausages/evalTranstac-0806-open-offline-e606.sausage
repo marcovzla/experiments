@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 then 0.978527 than 0.0214726
+align 3 we 1
+align 4 can 1
+align 5 confirm 0.987072 confirmed 0.0129277
+align 6 the 1
+align 7 information 1
+align 8 *DELETE* 0.999826 uh 0.000160757 i 1.29143e-05
+align 9 </s> 1

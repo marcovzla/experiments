@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 0.819142 so 0.179756 sure 0.00108029 *DELETE* 2.1377e-05
+align 3 *DELETE* 0.995316 i'm 0.00468436
+align 4 not 0.999479 knot 0.000405991 non 9.37599e-05 send 2.1377e-05
+align 5 in 0.542539 an 0.302007 on 0.0649955 um 0.0477003 and 0.0274665 i'm 0.0147942 him 0.000418867 to 7.82245e-05
+align 6 *DELETE* 0.999979 and 2.1377e-05
+align 7 have 0.970487 had 0.029513
+align 8 to 0.995821 two 0.00372329 too 0.00045551
+align 9 need 1
+align 10 you 1
+align 11 to 1
+align 12 come 1
+align 13 over 1
+align 14 here 1
+align 15 on 1
+align 16 the 0.962522 this 0.037478
+align 17 side 1
+align 18 uh 0.645697 of 0.146381 *DELETE* 0.102943 us 0.0863503 to 0.0186282
+align 19 *DELETE* 0.606433 us 0.267952 uh 0.125614
+align 20 so 0.924132 are 0.0758685
+align 21 you 1
+align 22 you 1
+align 23 can 1
+align 24 *DELETE* 0.939306 do 0.0606943
+align 25 you 0.994415 *DELETE* 0.00558086 your 4.58612e-06
+align 26 can 0.999634 can't 0.000365583 came 1.74326e-17
+align 27 get 1 to 1.74326e-17
+align 28 searched 1 search 1.26293e-07
+align 29 </s> 1

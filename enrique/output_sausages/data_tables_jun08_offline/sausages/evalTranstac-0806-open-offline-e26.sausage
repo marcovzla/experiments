@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i'll 0.999363 i 0.000637078
+align 3 *DELETE* 0.999363 will 0.000637078
+align 4 get 1
+align 5 back 1
+align 6 to 1
+align 7 you 1
+align 8 within 1
+align 9 a 0.999269 the 0.000731056
+align 10 week 0.999936 weak 5.99513e-05 wheat 4.49078e-06
+align 11 *DELETE* 1 to 9.20303e-08
+align 12 </s> 1

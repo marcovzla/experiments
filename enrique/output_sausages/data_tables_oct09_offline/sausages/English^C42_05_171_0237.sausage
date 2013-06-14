@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 source 1
+align 6 for 0.999942 four 5.7596e-05
+align 7 concrete 1
+align 8 *DELETE* 0.999965 uh 2.03719e-05 i 1.45449e-05 a 4.50192e-07
+align 9 </s> 1

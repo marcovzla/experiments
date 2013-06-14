@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 afternoon 1
+align 3 *DELETE* 0.995805 uh 0.00380599 sir 0.000177237 i 7.93773e-05 i'm 7.24693e-05 um 5.65807e-05 if 3.75842e-06 how 2.8085e-08 you 1.60271e-08 it 3.71431e-14
+align 4 </s> 1

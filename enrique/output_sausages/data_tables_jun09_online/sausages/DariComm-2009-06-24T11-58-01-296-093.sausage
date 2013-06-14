@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 sir 1
+align 4 and 1
+align 5 have 1
+align 6 a 1
+align 7 great 1
+align 8 day 1
+align 9 *DELETE* 0.999991 uh 8.93089e-06
+align 10 </s> 1

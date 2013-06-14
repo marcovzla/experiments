@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 okay 0.769665 oh 0.230335
+align 2 *DELETE* 0.769665 okay 0.230335
+align 3 so 1
+align 4 um 1
+align 5 *DELETE* 0.999969 and 3.1348e-05
+align 6 we're 0.998901 i'm 0.00109869
+align 7 going 0.95587 *DELETE* 0.0441305
+align 8 to 0.949812 gonna 0.0441305 *DELETE* 0.00605784
+align 9 be 1
+align 10 on 1
+align 11 the 1
+align 12 look 0.853645 *DELETE* 0.146355
+align 13 out 0.853645 lookout 0.146355
+align 14 for 1
+align 15 recruitment 0.779982 recruit 0.218973 a 0.00101031 recruiting 3.14994e-05 recruits 3.503e-06
+align 16 *DELETE* 0.779998 and 0.105728 them 0.0662301 then 0.0325123 in 0.00705968 an 0.00264232 end 0.00217362 on 0.00117866 recruitment 0.00101031 than 0.000398026 land 0.000263518 him 0.000132157 n 0.000123519 done 0.000107125 men 9.413e-05 band 8.04604e-05 been 4.51668e-05 bin 4.01851e-05 banned 3.3194e-05 dent 3.30235e-05 going 2.57591e-05 man 2.3947e-05 i'm 1.86287e-05 ben 1.34848e-05 i 1.07394e-05 hand 1.01879e-05 uh 4.49075e-06 bend 3.0363e-06 hind 2.12562e-06 none 1.90864e-06 den 1.46921e-06 lend 2.90277e-07 the 1.78943e-07 en 1.42149e-07 any 9.74894e-10
+align 17 *DELETE* 0.999953 uh 3.90162e-05 i 7.89353e-06 to 2.7318e-07 and 1.94162e-07
+align 18 </s> 1

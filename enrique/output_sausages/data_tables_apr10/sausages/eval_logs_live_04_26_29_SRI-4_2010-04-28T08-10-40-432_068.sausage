@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 1
+align 3 your 1
+align 4 main 1
+align 5 crops 0.790316 traps 0.208225 drops 0.00114315 craps 0.00028097 *DELETE* 3.49872e-05 crop 1.04345e-10
+align 6 *DELETE* 0.99956 i 0.00017752 if 8.6426e-05 uh 7.38701e-05 crafts 3.32263e-05 to 2.35114e-05 in 1.13527e-05 is 1.12529e-05 as 7.8733e-06 and 5.71396e-06 do 3.75742e-06 of 2.92986e-06 crowds 1.7609e-06 it 6.53185e-07 for 3.89257e-08 the 1.03508e-09 this 1.04345e-10
+align 7 </s> 1

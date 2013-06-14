@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 all 0.943483 *DELETE* 0.0565171
+align 2 right 0.943483 alright 0.0565171
+align 3 to 1
+align 4 try 0.940175 train 0.0598252
+align 5 and 0.913581 *DELETE* 0.0598252 in 0.0265939
+align 6 the 1
+align 7 nurses 0.967205 nurse 0.0274783 nurses' 0.00524579 nurse's 7.05449e-05
+align 8 *DELETE* 0.968902 is 0.0274783 more 0.00185271 they 0.00176653
+align 9 are 0.646653 more 0.228538 my 0.0536225 were 0.0271417 well 0.0235133 *DELETE* 0.0156082 may 0.00474066 why 0.000121908 i 6.06627e-05
+align 10 on 0.567806 all 0.384838 are 0.0137778 own 0.0132083 our 0.0120046 *DELETE* 0.00828533 small 6.98505e-05 mall 7.15928e-06 myong 3.12045e-06 maud 3.0512e-07 maude 3.02905e-07
+align 11 medical 1
+align 12 issues 1
+align 13 *DELETE* 0.999746 i 0.000211854 you 3.44617e-05 uh 7.55023e-06 to 3.37207e-08 a 1.75391e-09 um 2.57054e-11 in 6.7698e-13
+align 14 </s> 1

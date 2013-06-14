@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 1
+align 3 now 0.856089 *DELETE* 0.143911
+align 4 in 0.636529 i'm 0.173707 *DELETE* 0.17057 uh 0.0156242 i 0.00301663 to 0.000469901 and 6.34004e-05 a 1.95099e-05
+align 5 in 0.743645 no 0.143911 from 0.0850693 some 0.0116938 them 0.00809592 and 0.00627897 come 0.000683353 *DELETE* 0.000610456 i'm 1.22228e-05
+align 6 the 0.856089 no 0.141012 from 0.00284782 and 5.08714e-05
+align 7 *DELETE* 0.997101 the 0.00289869
+align 8 conference 0.522097 conscience 0.437004 contents 0.0361786 conscious 0.00472071
+align 9 and 1
+align 10 of 0.999997 you've 2.86722e-06
+align 11 new 0.871122 and 0.0441183 your 0.032943 *DELETE* 0.0325801 knew 0.0171535 near 0.00159949 the 0.000483277
+align 12 *DELETE* 0.925462 you 0.0725226 you're 0.00153162 new 0.000403518 near 7.97597e-05
+align 13 back 0.997328 your 0.00264414 *DELETE* 2.73819e-05
+align 14 see 0.997328 back 0.00260722 backseat 6.43034e-05
+align 15 *DELETE* 0.997393 see 0.00260722
+align 16 you 0.999301 your 0.0006991
+align 17 become 0.911529 *DELETE* 0.0884713
+align 18 ever 0.778781 a 0.125414 becoming 0.0884713 every 0.00732731 our 6.69451e-06 an 6.78045e-08
+align 19 *DELETE* 0.752788 very 0.213141 a 0.0271804 as 0.00600436 worse 0.000664891 i 0.000141477 ever 5.82106e-05 or 2.12866e-05 array 6.78045e-08
+align 20 suspicious 0.906735 is 0.093265
+align 21 *DELETE* 0.906325 suspicious 0.093265 uh 0.000290488 i 0.000113833 if 4.35806e-06 of 4.92263e-07 in 3.9159e-07
+align 22 </s> 1

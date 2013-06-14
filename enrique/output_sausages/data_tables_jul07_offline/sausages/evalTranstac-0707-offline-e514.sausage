@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 direction 1
+align 3 over 0.999372 *DELETE* 0.000628308
+align 4 here 0.999372 overhear 0.000628308
+align 5 is 0.998713 as 0.00128726
+align 6 north 0.997708 norris 0.000655271 *DELETE* 0.000636335 no 0.00052351 nor 0.000454916 the 2.21532e-05
+align 7 *DELETE* 0.998347 nours 0.000636335 ours 0.00052351 is 0.000454772 north 2.21532e-05 uh 1.59683e-05 as 1.43777e-07 i 8.82502e-09 of 6.57848e-09
+align 8 </s> 1

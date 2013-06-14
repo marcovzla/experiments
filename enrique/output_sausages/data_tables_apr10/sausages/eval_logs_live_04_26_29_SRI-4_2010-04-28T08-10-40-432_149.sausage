@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 require 1
+align 4 more 1
+align 5 refrigeration 1
+align 6 units 0.809876 unit's 0.188823 unit 0.00130151
+align 7 *DELETE* 0.999505 is 0.000495072
+align 8 for 0.999721 fill 0.000160676 four 0.000112111 full 6.48498e-06 feel 1.40352e-08 *DELETE* 1.33852e-11
+align 9 the 0.988404 a 0.0115957 fulla 4.72323e-09
+align 10 hospital 0.999952 hospitals 4.78477e-05
+align 11 </s> 1

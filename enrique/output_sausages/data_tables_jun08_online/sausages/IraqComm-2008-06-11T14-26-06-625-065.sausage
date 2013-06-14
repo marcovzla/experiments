@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 where 1
+align 3 is 1
+align 4 this 1
+align 5 warehouse 1
+align 6 located 1
+align 7 *DELETE* 0.999946 in 4.99151e-05 at 4.17262e-06 uh 2.35628e-12
+align 8 </s> 1

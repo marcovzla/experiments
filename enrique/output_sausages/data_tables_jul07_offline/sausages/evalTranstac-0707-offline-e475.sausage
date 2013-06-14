@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 reason 1
+align 3 we're 1
+align 4 here 1
+align 5 is 1
+align 6 to 1
+align 7 try 1
+align 8 and 1
+align 9 get 1
+align 10 rid 1
+align 11 of 1
+align 12 the 1
+align 13 people 1
+align 14 that 1
+align 15 are 1
+align 16 doing 1
+align 17 that 0.995288 there 0.00467956 that's 2.61186e-05 *DELETE* 6.02062e-06
+align 18 *DELETE* 0.999982 i 9.3089e-06 it 5.42538e-06 uh 2.79436e-06 now 5.95238e-07 to 5.33043e-09
+align 19 </s> 1

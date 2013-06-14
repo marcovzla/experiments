@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 0.937897 they 0.0621032
+align 3 any 1
+align 4 enemies 1
+align 5 in 0.998713 and 0.00128746
+align 6 this 0.808173 the 0.186777 his 0.00351901 its 0.000977576 it's 0.000539247 is 1.37393e-05 it 2.41045e-09 that's 3.52539e-45
+align 7 village 1
+align 8 *DELETE* 0.99994 i 5.18242e-05 um 7.86248e-06 now 2.60597e-11 uh 1.66598e-12 and 9.13703e-18 or 6.10999e-18 do 5.68711e-20
+align 9 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.995999 do 0.00400147
+align 2 you 0.988638 you're 0.00928287 your 0.00207882
+align 3 know 0.812896 don't 0.11466 will 0.0593556 young 0.00481385 going 0.00446903 room 0.00207882 and 0.00172673
+align 4 i'm 0.619531 *DELETE* 0.37725 to 0.00321964
+align 5 go 1
+align 6 ahead 1
+align 7 and 1
+align 8 do 1
+align 9 that 0.985216 they 0.00561885 the 0.00350255 do 0.0026432 this 0.00258042 then 0.000113904 them 0.000109931 there 9.22549e-05 their 6.00115e-05 did 5.16666e-05 though 9.69831e-06 deal 1.70889e-06 due 8.65564e-08
+align 10 *DELETE* 0.999621 uh 0.000318067 do 3.38662e-05 in 1.39969e-05 go 1.07494e-05 i 1.35311e-06 too 8.32645e-07 the 1.09648e-07 and 8.56337e-08 it 3.46394e-08 two 1.1448e-08 at 6.97963e-09 if 5.61971e-09 a 5.44627e-09
+align 11 </s> 1

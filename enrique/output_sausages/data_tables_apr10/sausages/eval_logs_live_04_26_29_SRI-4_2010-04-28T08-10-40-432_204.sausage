@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 is 0.501345 as 0.411829 it's 0.0856074 does 0.0011199 its 9.89113e-05
+align 2 the 1
+align 3 government 1
+align 4 afghanistan 1
+align 5 planning 0.981754 planting 0.0179791 by 0.000266655
+align 6 *DELETE* 0.999733 planning 0.000246585 planting 2.00695e-05
+align 7 on 0.998854 of 0.0010179 i'm 0.000128182
+align 8 purchasing 1
+align 9 these 0.526909 the 0.414874 this 0.0582169 a 2.75972e-08 they 1.99078e-08
+align 10 supplies 0.998924 applies 0.00107639
+align 11 for 0.998951 were 0.000645676 where 0.000366298 *DELETE* 2.97432e-05 war 4.36061e-06 or 3.0459e-06 wore 3.28423e-08 wear 9.31258e-14
+align 12 you 0.99997 worry 2.97432e-05
+align 13 *DELETE* 0.999998 uh 2.30499e-06 are 1.07346e-07
+align 14 </s> 1

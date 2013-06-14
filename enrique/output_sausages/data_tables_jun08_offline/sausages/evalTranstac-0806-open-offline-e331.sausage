@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 you 1
+align 3 can 1
+align 4 do 1
+align 5 that 1
+align 6 *DELETE* 0.999908 uh 9.23761e-05
+align 7 </s> 1

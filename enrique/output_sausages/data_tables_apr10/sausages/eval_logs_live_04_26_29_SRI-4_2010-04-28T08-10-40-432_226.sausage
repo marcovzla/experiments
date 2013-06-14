@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 do 1
+align 4 you 1
+align 5 receive 1
+align 6 medical 1
+align 7 supplies 1
+align 8 *DELETE* 0.999188 so 0.000304752 to 0.000201283 uh 0.000160153 in 9.78578e-05 it 2.39147e-05 i 2.12987e-05 if 3.09507e-06 you 1.37407e-10
+align 9 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 how 1
+align 3 old 1
+align 4 your 1
+align 5 equipment 1
+align 6 and 1
+align 7 *DELETE* 0.82287 need 0.15094 in 0.0188074 and 0.00404662 mean 0.00333625
+align 8 your 0.999272 you're 0.000400442 gear 0.000328045
+align 9 facilities 0.99387 facility's 0.0056676 facility 0.000462516
+align 10 *DELETE* 0.999202 is 0.000331021 are 0.000302291 so 0.000160974 and 3.25156e-06 i 2.52732e-07 to 3.99996e-08 uh 7.76333e-11 if 8.29457e-12 on 3.82948e-13 or 4.39933e-15
+align 11 </s> 1

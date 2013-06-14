@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 for 0.735958 from 0.243573 four 0.0198446 form 0.000525348 i 9.90656e-05
+align 2 *DELETE* 0.999901 for 9.90656e-05
+align 3 my 0.662746 our 0.240694 more 0.0931562 uh 0.00219526 are 0.00120874
+align 4 safety 1
+align 5 are 1
+align 6 there 1
+align 7 any 1
+align 8 enemy 0.677354 any 0.182215 *DELETE* 0.140432
+align 9 *DELETE* 0.678225 me 0.176966 anything 0.140432 any 0.00437689
+align 10 in 0.997939 and 0.00206058
+align 11 this 0.999769 his 0.000217983 is 1.29404e-05 it's 2.53236e-63
+align 12 village 1
+align 13 *DELETE* 0.999997 i 3.48373e-06 uh 2.53715e-38
+align 14 </s> 1

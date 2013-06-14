@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999987 uh 7.17013e-06 i 3.48509e-06 um 2.12016e-06
+align 2 i 1
+align 3 think 1
+align 4 we 0.99977 you 0.000229592
+align 5 don't 1
+align 6 report 0.504777 inform 0.494538 important 0.000679528 *DELETE* 5.45245e-06
+align 7 job 0.999075 jabur 0.000292879 jabir 0.0002652 on 0.000153661 out 0.000142252 i'll 5.67584e-05 *DELETE* 9.07952e-06 reported 5.45245e-06
+align 8 over 0.999984 oliver 1.4532e-05 of 2.3219e-07 *DELETE* 1.3452e-12
+align 9 *DELETE* 1 a 2.31933e-07 her 9.97486e-12
+align 10 here 0.999999 overhear 9.31275e-07
+align 11 *DELETE* 0.999991 uh 9.30256e-06
+align 12 </s> 1

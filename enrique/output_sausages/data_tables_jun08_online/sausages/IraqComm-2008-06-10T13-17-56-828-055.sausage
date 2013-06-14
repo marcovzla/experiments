@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 you 0.999527 i 0.000472884
+align 2 *DELETE* 0.999527 you 0.000472884
+align 3 keep 1
+align 4 your 1
+align 5 finger 1
+align 6 off 1
+align 7 the 1
+align 8 trigger 1
+align 9 to 0.997925 two 0.00120561 too 0.000869626
+align 10 avoid 1
+align 11 accidents 0.999323 accident 0.000676594
+align 12 *DELETE* 0.999954 i 4.55537e-05 uh 4.53205e-10 is 1.52947e-15
+align 13 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 information 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 about 1
+align 7 the 1
+align 8 talaban 0.999997 talla 2.51028e-06
+align 9 *DELETE* 0.996235 uh 0.00158313 i 0.000713898 it 0.000253469 that 0.000194706 in 0.000166788 a 0.000159812 the 0.000123642 and 9.23252e-05 you 7.76732e-05 to 7.50972e-05 if 6.39763e-05 oh 5.27752e-05 at 4.93054e-05 but 4.50346e-05 i'm 2.64098e-05 with 2.58734e-05 do 2.21691e-05 so 1.52144e-05 who 5.66393e-06 is 5.29846e-06 would 4.81624e-06 as 3.81712e-06 band 2.51028e-06 they 1.34332e-06 them 9.02627e-09 let 5.32611e-09 what 2.10489e-09 of 1.03741e-09
+align 10 </s> 1

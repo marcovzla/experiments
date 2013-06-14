@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 not 1
+align 4 uh 1
+align 5 seeing 0.963269 seen 0.0353844 scene 0.00134696
+align 6 this 1
+align 7 vehicle 1
+align 8 *DELETE* 0.998319 uh 0.00148625 now 0.000146506 i 3.02773e-05 is 8.11901e-06 it 4.71049e-06 um 2.23901e-06 a 2.04464e-06 and 7.80397e-07 you 1.69157e-07 go 7.34746e-09 no 4.13343e-09
+align 9 </s> 1

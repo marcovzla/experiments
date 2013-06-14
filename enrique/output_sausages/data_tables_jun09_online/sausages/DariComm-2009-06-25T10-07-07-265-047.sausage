@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 is 0.997066 if 0.00281971 it's 0.000114705
+align 2 there 1
+align 3 *DELETE* 0.854144 tell 0.145856
+align 4 *DELETE* 0.854144 about 0.145856
+align 5 a 0.888989 *DELETE* 0.0645268 are 0.0464839
+align 6 tall 0.773473 *DELETE* 0.147326 touban 0.0792003
+align 7 ben 0.363703 *DELETE* 0.225057 bound 0.138694 benn 0.0688286 been 0.0502319 about 0.0431063 bent 0.0343915 band 0.0331076 bend 0.0210121 banned 0.00853003 bad 0.00679622 bin 0.00507146 talaban 0.00147016
+align 8 *DELETE* 0.999999 a 7.09299e-07
+align 9 presence 0.998558 persons 0.00133558 presents 9.66611e-05 person's 9.28526e-06
+align 10 here 0.999954 *DELETE* 4.6002e-05
+align 11 *DELETE* 0.999417 uh 0.000422612 i 0.000114133 hear 4.6002e-05 in 4.90274e-07 you 5.45428e-11 to 4.95481e-13 it 1.21245e-14 is 3.65844e-15
+align 12 </s> 1

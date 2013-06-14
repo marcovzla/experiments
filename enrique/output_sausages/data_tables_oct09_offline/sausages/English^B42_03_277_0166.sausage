@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 thank 1
+align 3 you 1
+align 4 very 1
+align 5 much 1
+align 6 for 1
+align 7 your 1
+align 8 time 1
+align 9 doctor 0.984276 doc 0.0157235
+align 10 *DELETE* 0.984069 to 0.0156044 you 0.000326821
+align 11 *DELETE* 0.999777 know 0.000220311 lina 2.8203e-06
+align 12 units 0.910959 younis 0.0397504 eunice 0.0374258 unit's 0.0112517 unit 0.000286966 sir 0.000138918 nurse 0.000101374 so 8.42125e-05 nursed 1.55789e-06 nest 2.33383e-07
+align 13 *DELETE* 0.995223 uh 0.00429197 i 0.000283328 i. 7.32821e-05 eye 3.80831e-05 so 3.71478e-05 oh 1.78292e-05 if 1.68969e-05 sir 1.1141e-05 a 6.4594e-06 it 4.9655e-07 taha 1.34929e-07 to 2.22896e-08
+align 14 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 when 0.910886 what 0.0876825 one 0.0014312
+align 3 was 1
+align 4 he 1
+align 5 taken 0.999925 take 7.51495e-05 taking 5.44238e-12
+align 6 sir 0.99301 to 0.0044015 turn 0.00201954 term 0.000459506 concern 7.51495e-05 tar 3.42859e-05 chair 6.05012e-08
+align 7 *DELETE* 0.999996 uh 2.73714e-06 a 1.61737e-06 i 9.49783e-08 turn 2.32279e-12
+align 8 </s> 1

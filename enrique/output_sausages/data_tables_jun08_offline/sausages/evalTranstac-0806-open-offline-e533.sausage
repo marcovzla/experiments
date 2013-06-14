@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 we're 0.961586 would 0.030812 were 0.00760186
+align 3 doing 1
+align 4 right 1
+align 5 now 1
+align 6 we 1
+align 7 are 1
+align 8 i 1
+align 9 guess 1
+align 10 what 0.868406 well 0.126043 we'll 0.00526993 will 0.000280862
+align 11 we 1
+align 12 are 1
+align 13 in 1
+align 14 a 0.648037 the 0.350246 *DELETE* 0.00171755
+align 15 planning 1
+align 16 stages 1
+align 17 of 1
+align 18 this 1
+align 19 operation 1 operations 2.9437e-07
+align 20 *DELETE* 0.999998 i 2.15041e-06
+align 21 </s> 1

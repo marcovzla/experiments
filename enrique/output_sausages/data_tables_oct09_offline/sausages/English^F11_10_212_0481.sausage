@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 so 0.947889 uh 0.0513616 is 0.00065853 zawd 5.06763e-05 sells 4.01467e-05
+align 2 i 0.944412 *DELETE* 0.0549129 uh 0.00065853 all 1.65657e-05
+align 3 just 0.998377 let's 0.00147623 this 0.000102162 us 4.45018e-05
+align 4 go 1
+align 5 ahead 1
+align 6 and 1
+align 7 give 1
+align 8 you 1
+align 9 quick 1
+align 10 uh 0.963981 a 0.0360194
+align 11 brief 1
+align 12 on 1
+align 13 this 0.999044 these 0.000820283 the 0.000135883
+align 14 *DELETE* 0.999864 is 6.98871e-05 us 6.59957e-05 uh 4.04613e-07
+align 15 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you're 0.990667 your 0.00933286
+align 2 trying 0.99988 tried 0.000119534
+align 3 to 1
+align 4 sell 1
+align 5 them 0.965221 in 0.0306933 i'm 0.00195908 um 0.001816 on 0.000186379 and 0.000124436 *DELETE* 9.7702e-15
+align 6 prior 0.881546 pride 0.0392756 part 0.0284397 probably 0.0267854 my 0.0202172 right 0.0013534 by 0.00119036 might 0.000528903 pried 0.000399642 *DELETE* 0.00026365
+align 7 to 0.900845 of 0.0698897 do 0.0283365 due 0.000432285 writer 0.00023476 *DELETE* 0.0001675 did 3.68218e-05 might've 2.19447e-05 in 1.56234e-05 a 1.30826e-05 five 6.87645e-06 imported 6.81787e-08
+align 8 the 1
+align 9 mujahideen 1
+align 10 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 0.884257 where 0.115612 well 0.000119313 *DELETE* 1.09298e-05
+align 2 is 0.999989 where's 1.09298e-05
+align 3 the 0.546392 this 0.32581 his 0.107621 a 0.0201773
+align 4 source 1
+align 5 of 1
+align 6 all 1
+align 7 the 0.999882 they 0.000118154
+align 8 health 0.974787 help 0.0128881 whole 0.00805521 hell 0.00415121 hold 0.000118154
+align 9 problems 1
+align 10 here 0.999853 hear 0.000146918
+align 11 *DELETE* 0.999851 uh 0.00014868 i 1.1222e-11 are 5.60921e-12
+align 12 </s> 1

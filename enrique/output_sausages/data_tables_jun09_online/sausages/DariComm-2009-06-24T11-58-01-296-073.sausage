@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 1
+align 3 are 1
+align 4 your 0.97112 you 0.0288798
+align 5 children 1
+align 6 *DELETE* 1 uh 4.47198e-12 i 5.08993e-14 to 2.55874e-14
+align 7 </s> 1

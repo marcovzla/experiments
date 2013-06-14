@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 are 0.997052 or 0.00294794
+align 2 *DELETE* 0.998017 are 0.00198348
+align 3 any 1
+align 4 of 1
+align 5 you 1
+align 6 soldiers 0.974165 soldier's 0.0258355
+align 7 medics 0.999995 mad 4.63682e-06
+align 8 *DELETE* 0.999418 uh 0.000485897 i 3.88494e-05 you 3.40978e-05 in 1.57037e-05 x 4.63682e-06 and 2.29761e-06 a 3.58104e-07 um 5.91627e-08 to 8.91495e-10 who 7.82043e-13
+align 9 </s> 1

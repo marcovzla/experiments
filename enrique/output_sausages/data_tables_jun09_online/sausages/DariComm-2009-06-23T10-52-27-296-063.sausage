@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we 0.982 who 0.0179995
+align 2 will 0.536845 would 0.463155
+align 3 take 1
+align 4 it 0.960291 you 0.0397094
+align 5 to 0.999886 so 9.54252e-05 with 1.82709e-05
+align 6 the 0.996482 that 0.00349977 a 1.82709e-05
+align 7 doctor 0.997695 doctors 0.00230522 *DELETE* 2.48451e-18
+align 8 *DELETE* 0.999833 i 0.000117671 uh 1.54738e-05 do 1.44832e-05 is 1.41291e-05 and 2.53789e-06 to 1.47713e-06 in 8.58801e-07 it 6.50275e-08 if 5.31625e-08 now 3.95761e-09 but 6.28743e-11 doctor's 2.27315e-11 at 2.12871e-11 the 1.68121e-12 so 4.43484e-14
+align 9 </s> 1

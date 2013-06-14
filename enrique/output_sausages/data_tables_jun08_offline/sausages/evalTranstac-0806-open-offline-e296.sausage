@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 um 0.970151 uh 0.0298489
+align 2 to 1
+align 3 make 1
+align 4 sure 1
+align 5 that 1
+align 6 they 1
+align 7 have 1
+align 8 all 1
+align 9 the 1
+align 10 equipment 1
+align 11 that 1
+align 12 they 1
+align 13 need 1
+align 14 because 0.999983 to 1.72403e-05
+align 15 *DELETE* 0.999983 because 1.72403e-05
+align 16 as 1
+align 17 a 0.964019 the 0.019758 of 0.0162234
+align 18 leader 0.969498 liter 0.0305024
+align 19 you 0.812461 you're 0.182973 *DELETE* 0.00456511
+align 20 are 0.812461 *DELETE* 0.182973 your 0.00456511
+align 21 responsible 1
+align 22 for 1
+align 23 ensuring 0.996467 insuring 0.00353258
+align 24 that 1
+align 25 they 1
+align 26 have 1
+align 27 everything 0.618158 every 0.381842
+align 28 </s> 1

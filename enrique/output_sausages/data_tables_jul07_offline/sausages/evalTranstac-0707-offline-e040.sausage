@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 maybe 1
+align 2 if 0.999909 of 9.11136e-05
+align 3 there 0.409491 they 0.240627 may 0.199129 maybe 0.0771256 *DELETE* 0.0736281
+align 4 with 0.503542 was 0.422829 mavis 0.0736281
+align 5 a 0.984263 the 0.0157371
+align 6 couple 1
+align 7 *DELETE* 0.999884 of 0.000116308
+align 8 days 0.995172 they 0.00443014 day 0.000397808
+align 9 you'll 0.845833 she'll 0.110337 should 0.04383
+align 10 be 1
+align 11 able 1
+align 12 *DELETE* 0.837636 to 0.162364
+align 13 think 0.972015 *DELETE* 0.0249502 thing 0.00249678 thank 0.000538068
+align 14 of 0.893524 a 0.0634847 thinking 0.0249502 i 0.00477129 it 0.00391895 you 0.00344796 is 0.00290764 to 0.00250295 it's 0.000268887 if 0.000103632 *DELETE* 6.63118e-05 as 3.53224e-05 or 1.56272e-05 us 1.68672e-06 that 1.13571e-06
+align 15 something 1
+align 16 more 1
+align 17 in 0.755983 and 0.231661 an 0.00987597 end 0.0011896 it 0.000430446 inn 0.00028935 i 0.000287222 then 0.000231344 than 5.29392e-05
+align 18 maybe 0.691494 may 0.308506
+align 19 *DELETE* 0.691494 be 0.308506
+align 20 then 0.999996 that 3.73422e-06
+align 21 we'll 0.994046 will 0.00591042 would 4.4005e-05
+align 22 be 1
+align 23 able 1
+align 24 to 1
+align 25 help 1
+align 26 each 1
+align 27 other 1
+align 28 *DELETE* 1 uh 6.25732e-08
+align 29 </s> 1

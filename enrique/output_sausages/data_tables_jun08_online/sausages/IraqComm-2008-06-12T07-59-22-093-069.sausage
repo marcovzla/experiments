@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 well 0.848901 wow 0.107664 why 0.0434318 *DELETE* 3.15974e-06
+align 2 at 0.712613 it 0.223857 *DELETE* 0.062863 what 0.000646106 let 2.08838e-05 are 1.50813e-08 white 3.02077e-13
+align 3 this 1
+align 4 time 1
+align 5 *DELETE* 0.999999 um 6.36444e-07 i 5.66529e-07 uh 1.57984e-08
+align 6 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 also 0.981574 i 0.0184256
+align 3 *DELETE* 0.981574 also 0.0184256
+align 4 have 0.983957 had 0.0160427
+align 5 fifteen 0.996977 fifty 0.00302273 fifteenth 6.28652e-17
+align 6 soldiers 0.999999 *DELETE* 6.41715e-15
+align 7 *DELETE* 0.998793 uh 0.00103029 i 0.000102665 do 3.77666e-05 to 2.41231e-05 in 5.07537e-06 um 2.6533e-06 you 1.63894e-06 who 6.77024e-07 soldier's 5.9315e-07 a 4.57798e-07 we 4.31393e-07 and 1.36046e-07 it 3.65309e-09 were 1.29427e-10 soldiers' 3.8583e-12
+align 8 </s> 1

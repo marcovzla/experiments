@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 did 1
+align 3 you 1
+align 4 used 0.984513 use 0.0154868
+align 5 to 1
+align 6 do 0.999999 due 7.10708e-07
+align 7 *DELETE* 0.999112 it 0.000887568
+align 8 </s> 1

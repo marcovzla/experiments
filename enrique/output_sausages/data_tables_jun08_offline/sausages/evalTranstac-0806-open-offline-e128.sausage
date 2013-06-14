@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 is 1
+align 3 it 1
+align 4 uh 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 uh 0.50547 all 0.49453
+align 9 water 1
+align 10 coming 1
+align 11 to 1
+align 12 your 1
+align 13 house 1
+align 14 and 1 in 1.38891e-07
+align 15 *DELETE* 0.9995 uh 0.0004996
+align 16 is 1
+align 17 there 1
+align 18 any 1
+align 19 time 1
+align 20 when 1
+align 21 you 1
+align 22 uh 1
+align 23 don't 0.984445 uh 0.0155553
+align 24 *DELETE* 0.984445 don't 0.0155553
+align 25 have 1
+align 26 water 1
+align 27 *DELETE* 0.999995 uh 4.28968e-06 i 3.07663e-07 in 3.82927e-08
+align 28 </s> 1

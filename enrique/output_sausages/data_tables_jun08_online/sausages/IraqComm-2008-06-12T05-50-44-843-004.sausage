@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 live 1
+align 5 here 1
+align 6 in 1
+align 7 this 1
+align 8 house 1
+align 9 *DELETE* 0.999987 in 1.08729e-05 uh 2.57066e-06 i 2.36963e-17
+align 10 </s> 1

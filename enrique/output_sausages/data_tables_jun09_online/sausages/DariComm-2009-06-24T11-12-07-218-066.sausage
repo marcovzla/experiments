@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 types 1
+align 5 of 1
+align 6 formations 1
+align 7 *DELETE* 0.999933 i 3.1791e-05 to 1.75514e-05 uh 1.37618e-05 it 1.963e-06 do 9.45873e-07 in 5.90133e-07 you 3.60436e-08
+align 8 </s> 1

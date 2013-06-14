@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 but 0.999855 what 0.000145074
+align 2 i 1
+align 3 believe 1
+align 4 there 0.938775 they 0.061225
+align 5 were 0.951345 is 0.0486555
+align 6 some 1
+align 7 of 0.611512 other 0.388398 *DELETE* 9.01672e-05
+align 8 the 0.611512 *DELETE* 0.388398 um 7.77569e-05 money 1.24103e-05
+align 9 other 1
+align 10 casualties 1
+align 11 they 0.329239 we 0.219729 that 0.215911 it 0.149774 a 0.0749751 the 0.00696409 i 0.00135895 and 0.00130987 of 0.000486399 ache 0.000185751 to 6.7409e-05
+align 12 came 1
+align 13 in 0.997272 and 0.00165556 *DELETE* 0.0010726
+align 14 as 0.999934 is 6.58931e-05
+align 15 well 1
+align 16 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 0.99997 *DELETE* 3.04092e-05
+align 2 tall 0.99997 i 3.04092e-05 who 2.09242e-17
+align 3 is 0.99997 told 3.04092e-05
+align 4 your 0.994482 our 0.00541541 you're 5.01089e-05 you 3.04092e-05 he 2.02533e-05 the 1.8527e-06 are 2.0987e-09
+align 5 brother 1
+align 6 *DELETE* 0.999792 in 0.000165843 do 2.10051e-05 uh 1.52232e-05 at 6.01817e-06
+align 7 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 uh 1
+align 5 how 0.939629 uh 0.0603407 i 3.0409e-05
+align 6 *DELETE* 0.98567 uh 0.0114702 i 0.00230557 are 0.000554064
+align 7 *DELETE* 0.620746 how 0.379254
+align 8 many 1
+align 9 vehicles 1
+align 10 do 1
+align 11 you 1
+align 12 have 1
+align 13 for 0.999968 four 3.1576e-05
+align 14 your 1
+align 15 officers 1
+align 16 </s> 1

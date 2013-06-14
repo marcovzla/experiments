@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 *DELETE* 0.998369 are 0.00163102
+align 3 you 1
+align 4 doing 1
+align 5 sir 0.958983 *DELETE* 0.0334923 so 0.00715779 some 0.000366965
+align 6 um 0.673056 my 0.177958 i'm 0.0798296 some 0.0334923 may 0.0207127 uh 0.0173945 how 0.00255744
+align 7 *DELETE* 0.984921 i'm 0.01154 uh 0.00281452 my 0.000520065 a 0.000204509
+align 8 </s> 1

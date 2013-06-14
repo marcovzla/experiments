@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999909 uh 9.12693e-05
+align 2 okay 1
+align 3 sir 1
+align 4 the 0.911055 *DELETE* 0.0755636 this 0.0114539 do 0.00192755
+align 5 *DELETE* 0.980779 is 0.0114539 fat 0.00649402 the 0.0012734
+align 6 faster 0.978361 so 0.0179479 fast 0.00369119
+align 7 we 1
+align 8 get 0.42849 go 0.30336 can 0.171031 could 0.0449769 good 0.0390108 give 0.0131246 going 6.88138e-06
+align 9 *DELETE* 0.983682 done 0.0159503 them 0.000217399 by 0.000115006 on 3.31817e-05 that 2.13313e-06
+align 10 *DELETE* 0.983555 with 0.0164453
+align 11 don't 0.965254 the 0.0295239 them 0.00369081 going 0.00128622 *DELETE* 0.000245265
+align 12 *DELETE* 0.988204 will 0.0117964
+align 13 *DELETE* 0.9484 to 0.0502447 with 0.00135518
+align 14 *DELETE* 0.996664 the 0.00333632
+align 15 search 0.978513 to 0.0113108 *DELETE* 0.0101759
+align 16 *DELETE* 0.958225 search 0.0214866 for 0.020288
+align 17 fast 0.946395 first 0.0332845 us 0.020288 fess 2.31932e-05 fresh 9.60053e-06 fetch 1.72239e-13
+align 18 you 1
+align 19 going 0.996735 gonna 0.00256486 go 0.000679672 get 1.51642e-05 got 4.67819e-06 can 9.207e-07
+align 20 *DELETE* 0.999224 on 0.000622015 and 8.76199e-05 in 6.28137e-05 to 3.8364e-06
+align 21 away 0.927087 way 0.0257494 with 0.0235201 where 0.0117754 well 0.00882163 when 0.000900553 and 0.000844476 anyway 0.00046746 right 0.000376689 weigh 0.000321205 a 0.00012414 we 6.27483e-06 wear 2.01073e-06 underway 2.00708e-06 to 1.4644e-06 anywhere 1.2896e-07 wrong 1.20744e-07 wait 3.70164e-08 why 7.2971e-09 wei 5.1811e-09
+align 22 *DELETE* 0.999031 where 0.000605925 way 0.000234276 when 5.83631e-05 why 3.32748e-05 away 2.86505e-05 weigh 7.16306e-06 we 9.63357e-07
+align 23 </s> 1

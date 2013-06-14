@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 you 1
+align 3 could 1
+align 4 bring 1
+align 5 two 0.984317 to 0.0156827
+align 6 r._p._g.s 1
+align 7 one 0.995231 ones 0.00476856
+align 8 for 0.999905 four 9.49133e-05
+align 9 each 1
+align 10 truck 1
+align 11 *DELETE* 0.996674 uh 0.00207669 and 0.000567394 i 0.000295357 in 0.000279879 it 4.05276e-05 to 3.47342e-05 a 2.05779e-05 is 6.49523e-06 with 2.37836e-06 that 1.74412e-06 you 4.58375e-07 do 2.82316e-09 the 2.00798e-09 so 9.99587e-10 at 4.41796e-11 but 3.54529e-12
+align 12 *DELETE* 1 i 2.77542e-10
+align 13 </s> 1

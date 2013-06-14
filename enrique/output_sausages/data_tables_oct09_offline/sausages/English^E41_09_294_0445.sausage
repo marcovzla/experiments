@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 0.999218 i 0.000781816
+align 3 uh 0.686231 *DELETE* 0.313195 i 0.000574494
+align 4 that's 0.957818 that 0.0421816
+align 5 uh 0.711497 so 0.288503
+align 6 where 0.517736 what 0.254916 way 0.164147 oh 0.0357663 whey 0.019325 uh 0.00582648 why 0.00228347
+align 7 *DELETE* 0.958407 where 0.0364661 way 0.00502785 what 9.89335e-05
+align 8 you 0.99983 you'll 0.000169801
+align 9 do 0.732498 *DELETE* 0.267502
+align 10 you 0.732498 get 0.249437 *DELETE* 0.0180641
+align 11 *DELETE* 0.915128 need 0.0637434 give 0.0180641 a 0.00306493
+align 12 uh 1
+align 13 *DELETE* 0.538464 year 0.461536
+align 14 each 0.461518 your 0.430992 you're 0.0545784 years 0.0528935 he 1.81229e-05
+align 15 *DELETE* 0.999923 she 7.69919e-05
+align 16 you 0.524571 your 0.257168 each 0.190814 you're 0.0180675 u 0.00580739 you'd 0.00355933 you've 1.38003e-05
+align 17 *DELETE* 0.809186 you 0.163507 your 0.0222274 you're 0.00254189 u 0.00164437 you'd 0.00089354
+align 18 dehydration 1
+align 19 *DELETE* 0.999185 the 0.000727066 though 3.95415e-05 uh 3.19122e-05 they 8.88663e-06 to 5.44784e-06 now 2.39685e-06 no 1.60229e-08 you 3.54917e-09
+align 20 </s> 1

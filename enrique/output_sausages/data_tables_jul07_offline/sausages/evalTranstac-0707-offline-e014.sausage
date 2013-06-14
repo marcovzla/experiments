@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 you 0.86984 you've 0.13016
+align 4 been 1
+align 5 in 1
+align 6 syria 1
+align 7 </s> 1

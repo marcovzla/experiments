@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.791601 no 0.127238 and 0.0635603 now 0.017601
+align 2 *DELETE* 0.995464 and 0.00453603
+align 3 *DELETE* 1 and 1.24758e-07
+align 4 i 0.75331 i'm 0.149533 *DELETE* 0.0970665 nine 9.00513e-05
+align 5 don't 0.728077 gonna 0.149533 *DELETE* 0.0635239 and 0.0588663
+align 6 *DELETE* 0.999584 i 0.000416086
+align 7 have 0.999294 had 0.000706264
+align 8 to 1
+align 9 come 1
+align 10 you 0.968523 and 0.0189159 in 0.0125615
+align 11 need 1
+align 12 you 0.7114 *DELETE* 0.2886
+align 13 to 1
+align 14 come 1
+align 15 to 1
+align 16 the 0.957823 *DELETE* 0.0421772
+align 17 front 1
+align 18 of 1
+align 19 the 1
+align 20 vehicle 1
+align 21 on 0.998981 or 0.0010191
+align 22 uh 0.998952 no 0.0010191 the 2.90511e-05
+align 23 open 0.999998 opened 2.2485e-06
+align 24 the 1
+align 25 hood 1
+align 26 </s> 1

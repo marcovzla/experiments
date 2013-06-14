@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 need 0.999987 you 1.33544e-05
+align 5 *DELETE* 0.992864 to 0.0030821 uh 0.00285356 it 0.00105674 a 0.000125513 need 1.33544e-05 me 4.82748e-06 you 5.82838e-10 in 1.61203e-12 do 7.07294e-25
+align 6 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 is 1
+align 3 used 1
+align 4 to 1
+align 5 replenish 1
+align 6 fluids 1
+align 7 in 0.997045 and 0.00295492
+align 8 your 1 you're 2.43153e-13
+align 9 body 1
+align 10 *DELETE* 0.999843 in 0.00014274 sir 1.21342e-05 do 1.49811e-06 i 3.25821e-07 the 3.12512e-12
+align 11 </s> 1

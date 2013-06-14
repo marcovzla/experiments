@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 0.704788 uh 0.295212
+align 2 i 0.459462 *DELETE* 0.311905 and 0.210422 add 0.0182112
+align 3 ads 0.453603 this 0.228633 ask 0.175686 add 0.0922368 i 0.0385574 *DELETE* 0.0112837
+align 4 *DELETE* 0.999963 i 3.74429e-05
+align 5 *DELETE* 0.982631 add 0.0173689
+align 6 *DELETE* 0.857922 this 0.109606 ads 0.0203364 adds 0.0104452 as 0.00169063
+align 7 are 1
+align 8 the 0.699944 there 0.300056
+align 9 *DELETE* 0.699944 any 0.300056
+align 10 enemies 0.611863 needs 0.288647 enemy's 0.0880811 knees 0.0114089 nice 1.08481e-07
+align 11 in 0.982478 and 0.0175221
+align 12 this 0.993827 it's 0.00208221 its 0.00196856 his 0.00174764 is 0.000367499 does 7.15585e-06
+align 13 village 1
+align 14 *DELETE* 0.999225 and 0.000315379 i 0.00023833 do 7.75847e-05 though 6.78558e-05 the 2.62233e-05 but 2.49864e-05 there 2.44127e-05 right 3.64674e-19 you 1.39705e-19 um 9.94274e-20 so 7.62726e-21 now 5.04054e-21 to 3.72018e-21 too 1.90906e-23 or 1.6085e-23 we 6.77352e-24 in 3.41788e-24 that 2.11466e-25 them 6.47782e-26 of 1.37089e-26 uh 4.96991e-27 it 9.80228e-30
+align 15 </s> 1

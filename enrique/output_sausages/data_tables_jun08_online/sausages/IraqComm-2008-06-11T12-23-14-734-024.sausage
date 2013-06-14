@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.995517 does 0.00448279
+align 3 the 1
+align 4 ratio 0.999968 issue 3.24458e-05
+align 5 of 1
+align 6 men 1
+align 7 to 1
+align 8 women 1
+align 9 *DELETE* 1 uh 1.17917e-13 i 7.94433e-16 in 3.08232e-18
+align 10 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 chance 0.989665 chances 0.0103353
+align 5 *DELETE* 0.99967 i 0.000211358 uh 0.000115318 to 2.68289e-06 of 2.39102e-07 it 5.23097e-08 a 3.97128e-13
+align 6 </s> 1

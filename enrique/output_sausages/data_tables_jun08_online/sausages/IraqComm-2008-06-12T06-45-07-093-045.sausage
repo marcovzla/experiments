@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 do 1
+align 5 you 1
+align 6 think 1
+align 7 you 0.985617 *DELETE* 0.0143832
+align 8 are 0.966651 were 0.018966 you're 0.0143832
+align 9 *DELETE* 1 are 3.04092e-08
+align 10 going 1
+align 11 to 1
+align 12 need 0.999871 *DELETE* 0.000128702
+align 13 *DELETE* 0.996853 uh 0.00159185 to 0.000596264 a 0.000595147 you 0.000235466 knead 0.000128702 it 1.05619e-12 is 5.90696e-17 i 1.43015e-18 if 3.7894e-25
+align 14 </s> 1

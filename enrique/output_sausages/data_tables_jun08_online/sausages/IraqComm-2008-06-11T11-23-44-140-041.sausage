@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 have 1
+align 3 you 1
+align 4 not 1
+align 5 seen 0.998899 see 0.00107666 seeing 2.00982e-05 seem 4.57291e-06 *DELETE* 1.34746e-11
+align 6 a 0.998904 the 0.00109163 to 4.57291e-06 seena' 8.78308e-08 in 6.9825e-10 no 1.65786e-10 that 1.95497e-20
+align 7 *DELETE* 1 a 6.9825e-10
+align 8 doctor 1
+align 9 </s> 1

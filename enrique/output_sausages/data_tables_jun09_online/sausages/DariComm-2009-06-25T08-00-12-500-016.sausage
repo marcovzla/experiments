@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 do 1
+align 6 clyde 0.998955 klaib 0.00104528
+align 7 gauze 1
+align 8 *DELETE* 0.999056 so 0.000821756 uh 7.42588e-05 i 3.37893e-05 to 3.98375e-06 a 3.45172e-06 and 3.41656e-06 you 2.48685e-06 it 4.25232e-07 the 3.02945e-07 do 2.49242e-07 in 7.74676e-09 is 9.47739e-13 no 1.97807e-14
+align 9 </s> 1

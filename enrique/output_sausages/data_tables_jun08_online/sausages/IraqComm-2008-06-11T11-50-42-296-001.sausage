@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 the 0.982384 a 0.0176163
+align 2 truck 1
+align 3 driven 0.792792 given 0.207208
+align 4 by 1
+align 5 an 0.999323 in 0.000539373 *DELETE* 7.72396e-05 and 6.0822e-05
+align 6 iraqi 1
+align 7 merchant 1
+align 8 arrives 0.999896 arise 0.000103553
+align 9 at 1
+align 10 the 1
+align 11 syrian 1
+align 12 border 1
+align 13 </s> 1

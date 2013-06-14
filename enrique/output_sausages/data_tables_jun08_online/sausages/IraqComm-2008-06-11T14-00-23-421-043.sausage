@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 0.999791 i 0.000140168 i'll 6.88344e-05
+align 2 do 0.996939 did 0.0030606 *DELETE* 6.35622e-16
+align 3 they 1 does 3.47049e-13 *DELETE* 1.74101e-13
+align 4 suffer 1 this 4.70752e-11
+align 5 *DELETE* 0.999998 a 1.61491e-06 i 8.0662e-07 offer 4.70752e-11 or 1.13459e-11
+align 6 </s> 1

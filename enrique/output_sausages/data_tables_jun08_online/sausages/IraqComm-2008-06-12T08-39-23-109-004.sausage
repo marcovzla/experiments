@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 0.999967 we 3.3452e-05
+align 2 are 1
+align 3 you 1
+align 4 going 1
+align 5 *DELETE* 0.990421 to 0.0069013 now 0.000918724 in 0.000863177 uh 0.000800855 with 7.22555e-05 on 2.25071e-05 you 1.23711e-13 i 8.6859e-14
+align 6 </s> 1

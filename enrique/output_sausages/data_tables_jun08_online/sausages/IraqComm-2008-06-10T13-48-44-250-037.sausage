@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.99877 i 0.00122964
+align 3 will 0.999978 won't 2.21336e-05
+align 4 make 1
+align 5 an 1
+align 6 effort 1
+align 7 to 1
+align 8 get 1
+align 9 these 1
+align 10 items 1
+align 11 that 1
+align 12 you 1
+align 13 need 1
+align 14 to 1
+align 15 ensure 1
+align 16 *DELETE* 0.999457 that 0.000542569
+align 17 they 1
+align 18 are 1
+align 19 not 1
+align 20 stolen 1
+align 21 *DELETE* 1 i 1.28308e-12 uh 3.65533e-15
+align 22 </s> 1

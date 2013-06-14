@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 problems 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 with 0.998366 what 0.00143986 would 0.000193824 wood 2.3687e-18
+align 9 the 0.99992 be 7.96821e-05
+align 10 insurgents 0.999937 insurgence 6.33123e-05
+align 11 </s> 1

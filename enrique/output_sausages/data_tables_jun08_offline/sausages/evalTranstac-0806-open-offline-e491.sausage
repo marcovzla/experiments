@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 after 1
+align 2 you 1
+align 3 brief 1
+align 4 your 1
+align 5 men 1
+align 6 ensure 0.998032 in 0.00196821
+align 7 *DELETE* 0.998032 sure 0.00196821
+align 8 that 1
+align 9 they 1
+align 10 don't 1
+align 11 make 1
+align 12 any 1
+align 13 phone 1
+align 14 calls 1
+align 15 and 1
+align 16 will 0.992527 we'll 0.00747309
+align 17 not 1
+align 18 have 0.990993 had 0.00900702
+align 19 contact 1
+align 20 with 1
+align 21 anyone 1
+align 22 else 1
+align 23 </s> 1

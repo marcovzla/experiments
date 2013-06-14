@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 five 1
+align 3 hundred 1
+align 4 *DELETE* 0.997859 in 0.00119389 is 0.000713074 uh 0.00010432 an 5.2516e-05 a 4.83104e-05 it 1.76118e-05 and 9.44191e-06 to 9.38585e-07 as 3.90901e-07 if 2.03431e-07 of 9.24814e-08
+align 5 </s> 1

@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 rephrase 1
+align 3 </s> 1

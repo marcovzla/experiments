@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 well 0.992737 will 0.00726273
+align 2 the 1
+align 3 money 1
+align 4 we're 1
+align 5 trying 1
+align 6 to 0.410169 i'll 0.296534 i 0.200465 and 0.0725984 *DELETE* 0.0115573 you 0.00612572 our 0.00236802 let 0.000182349 like 3.29464e-07
+align 7 *DELETE* 0.680529 uh 0.250787 i 0.0439304 i'll 0.0246583 you 5.12486e-05 we 3.509e-05 let 8.63886e-06 the 6.29177e-07 blue 7.33394e-08
+align 8 loudly 0.818742 allow 0.173746 allowed 0.00751232
+align 9 *DELETE* 0.818742 but 0.181258
+align 10 you 0.996023 ute 0.00397747
+align 11 the 1
+align 12 *DELETE* 0.880492 uh 0.119508
+align 13 iraqi 1
+align 14 government 1
+align 15 to 1
+align 16 pay 0.998796 *DELETE* 0.00120432
+align 17 off 0.79177 out 0.206205 pale 0.00120432 i'll 0.000446438 all 0.000374703
+align 18 for 0.971324 or 0.0286757
+align 19 a 1
+align 20 lot 1
+align 21 of 1
+align 22 these 1
+align 23 uh 1
+align 24 *DELETE* 0.999912 uh 8.41184e-05 item 4.18155e-06
+align 25 items 0.999996 so 4.18155e-06
+align 26 *DELETE* 0.998923 uh 0.000872971 i 0.000166619 so 1.28808e-05 oh 1.18572e-05 if 5.96718e-06 in 3.23312e-06 to 2.34084e-06 of 1.35268e-06 are 2.07696e-07
+align 27 </s> 1

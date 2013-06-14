@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.994505 uh 0.003157 i 0.00233841
+align 2 would 0.852346 when 0.147654
+align 3 you 1
+align 4 travel 1
+align 5 to 1
+align 6 syria 1
+align 7 do 0.982528 and 0.0148806 in 0.00259114
+align 8 *DELETE* 0.982528 do 0.0174717
+align 9 you 1
+align 10 ever 1
+align 11 see 1
+align 12 insurgents 0.999998 insurgence 2.0189e-06
+align 13 *DELETE* 1 uh 6.68791e-13 i 2.18046e-13
+align 14 </s> 1

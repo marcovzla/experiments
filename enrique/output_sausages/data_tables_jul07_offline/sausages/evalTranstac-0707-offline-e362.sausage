@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 will 1
+align 3 uh 1
+align 4 question 0.986067 questioned 0.0139325
+align 5 each 1
+align 6 one 1
+align 7 of 1
+align 8 you 0.998661 your 0.00133921
+align 9 individually 0.989262 individual 0.0107377
+align 10 *DELETE* 0.989068 a 0.00788327 a. 0.00249431 way 0.000200644 e 0.000149329 uh 0.000118666 i 7.45043e-05 lay 8.8688e-06 if 1.62289e-06 eight 9.34751e-07 ache 2.50943e-07 weigh 7.55186e-08 a._k. 6.94892e-09
+align 11 *DELETE* 0.999999 uh 6.90444e-07
+align 12 </s> 1

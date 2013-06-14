@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.998447 i 0.00155283
+align 2 *DELETE* 0.998447 am 0.00155283
+align 3 doing 1
+align 4 excellent 1
+align 5 this 0.995648 *DELETE* 0.00417643 to 0.000175598 does 1.35565e-13
+align 6 morning 0.994916 dismounted 0.00414736 one 0.00029363 woman 0.000267945 someone 0.000175598 *DELETE* 0.000152861 more 4.62391e-05
+align 7 *DELETE* 0.999693 i 9.98367e-05 man 7.51692e-05 than 4.62391e-05 mourning 4.31427e-05 disloyal 1.66719e-05 disappointed 1.21907e-05 in 7.74625e-06 money 5.48405e-06 destroyed 2.01731e-07 um 1.14619e-08 we 7.09358e-10 morgan 6.32564e-10 swim 6.25808e-18
+align 8 </s> 1

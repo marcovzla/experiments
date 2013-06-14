@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 repeat 1
+align 2 sentence 0.971612 sentenced 0.0259178 sentiments 0.00163879 sentences 0.000783859 the 4.72656e-05
+align 3 *DELETE* 0.99829 i 0.001125 uh 0.000148899 you 7.67172e-05 them 7.24445e-05 now 5.07725e-05 sentence 4.72656e-05 in 3.42204e-05 to 3.2015e-05 that 2.84739e-05 do 2.74483e-05 a 2.62079e-05 it 2.04656e-05 of 6.22872e-06 the 3.83382e-06 um 3.31796e-06 is 2.82513e-06 but 1.73035e-06 no 1.66283e-06 and 7.13353e-07 i'm 8.36752e-08 oh 4.67246e-09 did 3.83236e-10 so 1.1017e-10 all 7.27523e-11 go 1.69523e-11 at 5.71194e-13 does 3.0308e-14
+align 4 </s> 1

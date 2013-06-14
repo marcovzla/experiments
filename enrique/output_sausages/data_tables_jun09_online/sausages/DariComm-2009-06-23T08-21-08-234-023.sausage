@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.999481 i 0.000518908
+align 3 need 1
+align 4 you 1
+align 5 to 1
+align 6 *DELETE* 1 the 2.35396e-08
+align 7 please 1
+align 8 get 1
+align 9 out 1
+align 10 of 1
+align 11 the 1
+align 12 car 1
+align 13 so 1
+align 14 i 1
+align 15 can 1
+align 16 search 1
+align 17 it 0.998782 you 0.00121765
+align 18 *DELETE* 0.99991 uh 9.01697e-05 all 1.178e-10 in 1.07047e-14 i 9.76447e-15
+align 19 </s> 1

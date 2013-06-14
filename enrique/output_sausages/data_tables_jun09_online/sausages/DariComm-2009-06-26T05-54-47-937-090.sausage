@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 a 1
+align 5 special 0.988413 a 0.0115872
+align 6 *DELETE* 0.988413 special 0.0115872
+align 7 type 1
+align 8 of 1
+align 9 fuel 1
+align 10 to 1
+align 11 run 1
+align 12 the 1
+align 13 generators 1
+align 14 </s> 1

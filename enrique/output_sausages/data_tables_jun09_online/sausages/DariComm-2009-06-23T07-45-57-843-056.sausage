@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 understand 1
+align 3 is 1
+align 4 there 1
+align 5 any 1
+align 6 equipment 1
+align 7 or 1
+align 8 any 1
+align 9 wilber 0.604844 wilbur 0.390868 *DELETE* 0.00428771
+align 10 cans 0.995712 lubricant 0.00428771
+align 11 for 1
+align 12 the 1
+align 13 vehicles 0.906306 vehicle 0.0916062 *DELETE* 0.00208729
+align 14 and 0.598299 *DELETE* 0.151356 you 0.089565 is 0.0868449 do 0.0657018 as 0.00476132 vehicle's 0.00192228 uh 0.00138474 vehicles' 0.000165009
+align 15 you 0.909109 *DELETE* 0.089565 uh 0.00132629
+align 16 *DELETE* 0.998674 you 0.00132629
+align 17 need 1
+align 18 to 1
+align 19 fix 0.873993 fixed 0.126007
+align 20 to 0.925365 the 0.0583926 it 0.00966787 them 0.00402301 that 0.00255108
+align 21 *DELETE* 0.931109 to 0.0688906
+align 22 fix 0.982364 fixed 0.0176362
+align 23 them 1 *DELETE* 1.20782e-14
+align 24 *DELETE* 0.999999 uh 2.90879e-07 up 2.24585e-07 in 4.52112e-12 that 5.99411e-13
+align 25 </s> 1

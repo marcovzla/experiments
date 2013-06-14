@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 what's 1
+align 2 the 1
+align 3 average 1
+align 4 length 1
+align 5 of 1
+align 6 time 1
+align 7 that 1
+align 8 your 0.875457 you're 0.124543
+align 9 officer 0.999953 *DELETE* 4.72519e-05
+align 10 has 0.996233 who's 0.00229745 hers 0.000663957 his 0.000487037 is 0.000271584 officers 4.72519e-05
+align 11 been 1
+align 12 working 1
+align 13 with 1
+align 14 you 1
+align 15 here 0.991942 hear 0.00805753 her 5.45536e-10
+align 16 </s> 1

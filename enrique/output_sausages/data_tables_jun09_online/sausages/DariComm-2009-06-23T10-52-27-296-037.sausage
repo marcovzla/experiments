@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 uh 1
+align 3 we 0.942463 uh 0.0456608 i 0.0118767
+align 4 *DELETE* 0.942463 we 0.0575375
+align 5 have 1
+align 6 bandages 1
+align 7 do 0.998646 to 0.00135407
+align 8 you 0.999254 your 0.000745852
+align 9 need 1
+align 10 the 0.994016 to 0.00598374
+align 11 bandages 1
+align 12 to 1
+align 13 cover 1
+align 14 your 0.968075 it 0.012195 you're 0.0092399 you 0.00907248 the 0.00107183 here 0.000343807 in 1.53785e-06 *DELETE* 1.42426e-18
+align 15 *DELETE* 0.986732 your 0.00908587 you're 0.00418247
+align 16 well 0.503346 will 0.462604 we'll 0.0220983 wound 0.0046633 willing 0.00435297 women 0.00228886 *DELETE* 0.000331503 when 0.000315543
+align 17 *DELETE* 0.992792 and 0.0030705 um 0.00105876 uh 0.000720259 i 0.000653487 we 0.000356977 well-known 0.000259143 when 0.000181703 in 0.000157574 own 0.000132027 then 0.000128027 home 0.000106731 do 5.93075e-05 it 5.24639e-05 wells 4.13626e-05 on 3.88908e-05 we'll 3.55682e-05 or 3.31171e-05 oh 3.21913e-05 weld 3.07254e-05 owned 2.14056e-05 well 1.64333e-05 the 8.48181e-06 if 8.25494e-06 be 2.17928e-06 to 1.25893e-06 a 1.16048e-06 wills 1.516e-07 let 1.35174e-07 wounds 1.1895e-07 one 2.92344e-08 you 6.95424e-09 is 6.59834e-11 i'm 5.3044e-11 all 1.80303e-11 at 5.78145e-13 will 7.62796e-19 where 1.48303e-21
+align 18 *DELETE* 1 i 5.86307e-15
+align 19 </s> 1

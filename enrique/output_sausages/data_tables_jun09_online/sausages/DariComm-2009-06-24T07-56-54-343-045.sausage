@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.746532 i 0.253468
+align 2 *DELETE* 0.746532 am 0.253468
+align 3 good 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 any 1
+align 8 problems 1
+align 9 with 1
+align 10 the 0.999981 a 1.70376e-05 that 1.4588e-06 uh 5.09268e-08
+align 11 neighborhood 0.999982 *DELETE* 1.83917e-05
+align 12 *DELETE* 0.998113 uh 0.00183329 i 3.03644e-05 neighborhoods 1.57707e-05 is 4.7296e-06 neighborhood's 2.621e-06 you 8.71585e-12 the 8.39306e-12
+align 13 </s> 1

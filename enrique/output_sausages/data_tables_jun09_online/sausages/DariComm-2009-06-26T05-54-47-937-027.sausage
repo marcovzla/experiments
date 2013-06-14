@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 repeat 1
+align 4 were 0.986902 we're 0.0130984
+align 5 are 1
+align 6 you 1
+align 7 from 1
+align 8 *DELETE* 0.999305 it 0.00064895 uh 4.02586e-05 sir 5.72194e-06 you 5.81354e-18
+align 9 </s> 1

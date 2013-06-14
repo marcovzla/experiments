@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 cars 1
+align 4 are 1
+align 5 in 1
+align 6 the 0.999715 a 0.000284659
+align 7 village 1
+align 8 *DELETE* 0.999966 uh 2.75754e-05 i 4.34487e-06 to 1.09171e-06 if 8.0025e-07 and 2.79946e-09 it 1.61075e-09 the 6.02788e-10
+align 9 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 take 1
+align 4 a 1
+align 5 flak 0.525085 flack 0.474906 fly 9.01356e-06
+align 6 *DELETE* 0.999991 check 9.01356e-06
+align 7 jacket 0.99964 check 0.000351042 it 9.01356e-06
+align 8 *DELETE* 0.999649 it 0.000351042
+align 9 and 1
+align 10 weapons 1
+align 11 with 1
+align 12 you 1 deal 8.44458e-34
+align 13 on 0.991363 um 0.00387841 know 0.00250889 i'm 0.00224976 i 7.05753e-08 go 7.99424e-28
+align 14 *DELETE* 0.997491 i'm 0.0014845 on 0.000820043 um 0.000204351 am 7.05753e-08
+align 15 patrol 0.999999 patrolling 5.2973e-07 *DELETE* 6.3366e-11
+align 16 *DELETE* 0.999999 in 6.37514e-07 patrolling 3.12901e-07 i'll 1.34367e-10 to 1.25937e-10 i 1.1161e-11 uh 1.14302e-12 all 1.5343e-21
+align 17 </s> 1

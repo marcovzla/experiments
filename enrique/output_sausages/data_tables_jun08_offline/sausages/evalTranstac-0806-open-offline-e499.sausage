@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 medical 1
+align 4 official 0.963085 of 0.0326885 all 0.00422633
+align 5 *DELETE* 0.963085 facial 0.0369148
+align 6 personnel 1
+align 7 do 1
+align 8 you 1
+align 9 have 1
+align 10 going 0.988552 a 0.0114476
+align 11 *DELETE* 0.988552 going 0.0114476
+align 12 with 1
+align 13 each 0.965391 the 0.0346092
+align 14 *DELETE* 0.965391 each 0.0346092
+align 15 one 1
+align 16 of 1
+align 17 your 1
+align 18 teams 0.99748 team's 0.00251979
+align 19 </s> 1

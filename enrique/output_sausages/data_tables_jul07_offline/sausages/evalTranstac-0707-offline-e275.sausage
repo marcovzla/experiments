@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 it's 0.619404 yes 0.256582 its 0.0914287 is 0.0201625 *DELETE* 0.0121648 if 0.000254636 just 2.75271e-06
+align 2 there's 0.601313 there 0.38619 it 0.0121648 it's 0.000130719 theirs 0.000105977 their 8.3484e-05 this 1.20764e-05
+align 3 *DELETE* 0.620713 is 0.379282 just 5.26144e-06
+align 4 *DELETE* 0.987692 there's 0.00631687 there 0.00599071
+align 5 *DELETE* 0.999945 is 5.46528e-05
+align 6 someone 0.999121 is 0.00182767
+align 7 *DELETE* 0.999121 someone 0.000878615
+align 8 sick 1
+align 9 in 0.995928 and 0.0036536 a 0.000418315
+align 10 *DELETE* 0.999582 in 0.000418315
+align 11 one 1
+align 12 of 1
+align 13 the 1
+align 14 vehicles 1
+align 15 that 0.999889 the 0.000110899
+align 16 needs 0.989871 need 0.0101291
+align 17 to 1
+align 18 be 1
+align 19 searched 1
+align 20 you'll 0.908454 your 0.0908772 fuel 0.000620537 you're 4.80831e-05
+align 21 radio 1
+align 22 for 0.960996 four 0.039004
+align 23 an 0.503638 of 0.45953 other 0.0342043 the 0.0014206 it 0.00120672 *DELETE* 2.14934e-17
+align 24 ambulance 0.999772 the 0.00022775
+align 25 *DELETE* 0.999772 ambulance 0.00022775
+align 26 do 0.993485 to 0.00651455
+align 27 you 1
+align 28 come 1
+align 29 take 1
+align 30 that 1
+align 31 person 1
+align 32 *DELETE* 0.999418 uh 0.000448713 i 9.05136e-05 is 3.03428e-05 a 9.96066e-06 in 2.30066e-06 to 6.02703e-08
+align 33 </s> 1

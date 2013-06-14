@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 describe 1
+align 2 the 1
+align 3 personal 1
+align 4 stuff 1
+align 5 *DELETE* 0.999955 uh 3.56656e-05 i 9.65105e-06
+align 6 </s> 1

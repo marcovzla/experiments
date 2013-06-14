@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 which 0.99962 okay 0.000379921
+align 2 building 1
+align 3 is 0.997052 as 0.00290893 it's 3.95672e-05
+align 4 most 1
+align 5 important 1
+align 6 </s> 1

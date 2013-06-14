@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 miss 1
+align 4 uh 0.461904 afghanistan 0.442347 at 0.0957488
+align 5 dentist 0.557653 *DELETE* 0.442347
+align 6 the 0.530117 *DELETE* 0.432167 then 0.0247341 and 0.00668233 in 0.0034982 than 0.00280204
+align 7 *DELETE* 0.99514 uh 0.00261806 and 0.00177904 i 0.000210428 a 7.88548e-05 off 6.08112e-05 now 1.84376e-05 of 1.24743e-05 is 1.23315e-05 all 1.14229e-05 um 1.11011e-05 do 1.05909e-05 oh 8.16236e-06 on 8.06667e-06 are 7.6356e-06 it 7.33714e-06 or 4.8618e-06 to 6.33332e-08 in 3.00487e-18 if 5.12257e-19 up 4.8124e-19 i'm 2.29464e-27 we 5.48299e-42 you 2.397e-43 how 8.89882e-46 so 7.11933e-49
+align 8 </s> 1

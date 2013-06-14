@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 lot 1
+align 6 of 1
+align 7 agriculture 1
+align 8 in 0.999862 and 0.000138065
+align 9 your 1 you're 1.76568e-12 here 1.5651e-13 year 8.0872e-16
+align 10 area 1
+align 11 *DELETE* 1 uh 6.3586e-09 and 5.45524e-13
+align 12 </s> 1

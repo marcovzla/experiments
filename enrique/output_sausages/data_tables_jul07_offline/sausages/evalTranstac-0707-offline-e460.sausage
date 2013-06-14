@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 so 1
+align 3 you 1
+align 4 let 1
+align 5 us 1
+align 6 stay 1 staying 2.26346e-07
+align 7 here 1
+align 8 the 1
+align 9 night 1
+align 10 you 1
+align 11 move 1
+align 12 your 1
+align 13 family 1
+align 14 i 0.827015 to 0.12913 and 0.0405695 uh 0.00227659 *DELETE* 0.00100884
+align 15 give 0.930793 gave 0.0692072
+align 16 you 1
+align 17 fifty 1
+align 18 dollars 1
+align 19 and 0.975083 in 0.0116087 a 0.00934748 or 0.00181307 *DELETE* 0.0014235 an 0.000724128
+align 20 uh 0.971945 out 0.0115694 not 0.00675514 *DELETE* 0.00366652 note 0.00353523 about 0.00100818 no 0.000678618 i 0.000352367 all 0.000191988 night 0.000122326 amount 6.58802e-05 i'll 6.33001e-05 now 4.63389e-05
+align 21 you 1
+align 22 keep 1
+align 23 the 1
+align 24 weapon 0.996713 weapons 0.00328676
+align 25 *DELETE* 0.9996 uh 0.000229256 i 0.000104449 in 6.54611e-05 a 9.82462e-07
+align 26 </s> 1

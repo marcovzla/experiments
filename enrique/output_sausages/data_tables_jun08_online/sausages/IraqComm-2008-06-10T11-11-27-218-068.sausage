@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 the 1
+align 3 water 1
+align 4 stops 1
+align 5 do 1
+align 6 you 1
+align 7 store 1
+align 8 the 1
+align 9 water 1
+align 10 in 0.999904 and 9.5873e-05
+align 11 parts 0.716357 pots 0.259669 parks 0.022771 pilots 0.00118095 pipes 2.17235e-05 pox 8.78038e-09 pockets 5.12446e-09 pads 1.12153e-17
+align 12 </s> 1

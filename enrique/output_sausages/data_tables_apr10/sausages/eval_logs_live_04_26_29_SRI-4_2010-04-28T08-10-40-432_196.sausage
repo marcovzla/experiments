@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 equipment 1
+align 3 is 0.999504 as 0.000492389 it's 3.74124e-06
+align 4 needed 1
+align 5 </s> 1

@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 i've 0.679968 uh 0.239735 i'm 0.0441919 *DELETE* 0.0280589 i 0.00804669
+align 2 *DELETE* 0.833944 i'm 0.164627 i 0.00142861
+align 3 *DELETE* 0.729865 sure 0.158922 i've 0.111213
+align 4 shared 0.841078 it 0.158922
+align 5 with 0.553131 if 0.446869
+align 6 you 1
+align 7 how 0.511337 help 0.488662 helped 4.14875e-07
+align 8 to 0.999964 too 3.54702e-05 two 7.61566e-08
+align 9 *DELETE* 0.99775 to 0.00224967
+align 10 correct 1
+align 11 the 1
+align 12 situation 1
+align 13 like 0.646959 by 0.253395 i 0.0499863 are 0.0463073 but 0.00297486 uh 0.000312763 that 4.97474e-05 *DELETE* 1.45062e-05
+align 14 going 1
+align 15 to 1
+align 16 the 0.998589 *DELETE* 0.0014108
+align 17 cmoc 1
+align 18 *DELETE* 0.999998 uh 2.25533e-06
+align 19 </s> 1

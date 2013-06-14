@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 evening 1
+align 3 my 1
+align 4 name 1
+align 5 is 1
+align 6 lieutenant 1
+align 7 inman 0.998843 *DELETE* 0.00115698 into 3.96368e-21
+align 8 *DELETE* 0.998514 in 0.00148559
+align 9 *DELETE* 0.999096 indian 0.000508585 the 0.000286392 then 0.000103421 in 5.82257e-06
+align 10 *DELETE* 0.999271 end 0.000199456 main 0.000174773 men 0.000123726 n 5.87092e-05 in 5.83064e-05 me 4.99746e-05 ain 2.93754e-05 ending 1.1143e-05 ayn 9.13039e-06 how 8.52513e-06 a 1.4074e-06 you 1.25041e-06 now 1.19257e-06 man 7.2249e-07 at 5.61532e-07 name 2.6607e-07 mean 1.03133e-09 and 3.623e-10 her 1.11668e-14 an 5.04187e-17 any 2.59889e-17 en 1.16077e-17 uh 1.33036e-19
+align 11 </s> 1

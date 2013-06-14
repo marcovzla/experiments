@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 why 0.982472 wow 0.00983651 *DELETE* 0.00694456 well 0.000746943
+align 2 your 0.733676 you're 0.184186 are 0.0443811 you 0.0308123 wire 0.00542791 hwayyir 0.00151665
+align 3 *DELETE* 0.969936 are 0.0206568 a 0.00753242 were 0.00187514
+align 4 workers 0.909755 worker's 0.0532908 workers' 0.0369541
+align 5 not 1
+align 6 showing 1
+align 7 up 0.99993 out 7.02051e-05
+align 8 *DELETE* 1 to 3.84007e-09 uh 3.78812e-10
+align 9 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.987755 i 0.0122452
+align 2 *DELETE* 0.987755 i'm 0.0122452
+align 3 here 1
+align 4 to 1
+align 5 give 1
+align 6 you 1
+align 7 where 0.381315 a 0.315767 wear 0.224027 what 0.0413256 were 0.0311792 are 0.00487948 i 0.00111659 uh 0.000390042
+align 8 weapons 0.99742 a 0.00149052 weapon's 0.00108988
+align 9 *DELETE* 0.998509 weapons 0.00149052
+align 10 training 1
+align 11 class 0.991948 classes 0.00805249
+align 12 *DELETE* 0.999869 i 0.000130994 uh 1.77456e-07 so 5.33121e-16 is 1.8024e-22
+align 13 </s> 1

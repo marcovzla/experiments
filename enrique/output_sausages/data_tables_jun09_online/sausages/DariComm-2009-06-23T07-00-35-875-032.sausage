@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999533 he 0.000448885 we 1.76346e-05
+align 2 can 1
+align 3 you 1
+align 4 repeat 1
+align 5 the 1
+align 6 answer 1
+align 7 i 0.999841 again 0.000159191
+align 8 do 0.617846 *DELETE* 0.152719 did 0.124649 could 0.104786
+align 9 not 0.847266 cannot 0.151114 can 0.00144551 i 0.000173348 didn't 2.51076e-07
+align 10 *DELETE* 1 i 2.51076e-07 on 8.06851e-29
+align 11 understand 0.999851 i 0.000148958 as 1.38464e-10
+align 12 *DELETE* 0.991361 uh 0.00526597 it 0.00147441 you 0.00117358 i 0.000354076 understand 0.000148958 a 5.42499e-05 her 5.13855e-05 how 4.67718e-05 if 2.88681e-05 him 1.53137e-05 who 1.46997e-05 the 9.22277e-06 me 1.61518e-06 that 3.28391e-08 and 3.57698e-09 to 2.49648e-09 they 1.38464e-10 do 1.54305e-25 at 4.23569e-32
+align 13 </s> 1

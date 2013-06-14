@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 you 0.997354 yeah 0.00264556
+align 2 tighten 1
+align 3 the 1
+align 4 tourniquet 1
+align 5 down 0.992912 it 0.00664724 *DELETE* 0.000440678
+align 6 *DELETE* 0.987856 down 0.00664724 uh 0.00307215 to 0.000767574 now 0.000440678 it 0.000278254 or 0.000202936 i 0.000174751 on 0.000169993 oh 0.000111898 a 0.000107601 in 8.94447e-05 the 4.55018e-05 you 2.84177e-05 do 3.4627e-06 um 1.67761e-06 too 1.39713e-06 at 6.35484e-07 and 4.87918e-07 is 1.38035e-07 if 1.35139e-10 there 3.54783e-11 two 1.70886e-13 as 1.10561e-13
+align 7 </s> 1

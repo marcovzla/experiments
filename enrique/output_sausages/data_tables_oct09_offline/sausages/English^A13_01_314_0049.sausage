@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 you 0.984042 he 0.0159581
+align 2 should 1
+align 3 be 1
+align 4 you 0.999377 *DELETE* 0.000623006
+align 5 should 0.999152 aisha 0.000623006 sure 0.000224639
+align 6 know 0.999794 no 0.000206465
+align 7 what 1
+align 8 is 1
+align 9 in 1
+align 10 the 0.667834 your 0.306535 a 0.0256314
+align 11 car 1
+align 12 </s> 1

@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 marked 0.935855 mark 0.060966 market 0.00317898
+align 4 *DELETE* 0.993265 the 0.00355928 to 0.00317615
+align 5 out 1
+align 6 in 0.940034 *DELETE* 0.0599659
+align 7 *DELETE* 0.583495 el 0.356539 an 0.0599659
+align 8 elsie 0.643461 z 0.2934 zee 0.0631387
+align 9 in 1
+align 10 case 1
+align 11 we 1
+align 12 take 1
+align 13 casualties 1
+align 14 in 0.981786 and 0.0166859 an 0.0015276
+align 15 need 1
+align 16 to 1
+align 17 conduct 1
+align 18 a 0.991498 the 0.00518432 an 0.00209866 in 0.00109176 of 0.000127483
+align 19 medevac 0.998331 medivac 0.00166005 metal 8.94235e-06
+align 20 *DELETE* 0.999991 back 8.94235e-06
+align 21 </s> 1

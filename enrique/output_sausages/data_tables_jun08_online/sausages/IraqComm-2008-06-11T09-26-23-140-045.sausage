@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 subcontractors 1
+align 4 do 1
+align 5 you 1
+align 6 employ 0.873102 employed 0.12159 *DELETE* 0.00530865
+align 7 *DELETE* 0.962049 a 0.030416 employer 0.00433922 employee 0.000768517 him 0.000589959 it 0.000579163 i 0.000402847 in 0.000275164 you 0.000221262 employing 0.000192694 to 6.76534e-05 or 4.91208e-05 an 2.69099e-05 employs 8.21923e-06 the 7.71083e-06 uh 6.20202e-06 who 7.62025e-09 all 2.98725e-14 at 7.49627e-16 of 1.04557e-16
+align 8 </s> 1

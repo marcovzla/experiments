@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 you're 1
+align 3 not 1
+align 4 going 1
+align 5 to 1
+align 6 come 0.969683 uh 0.030317
+align 7 *DELETE* 0.969683 come 0.030317
+align 8 out 1
+align 9 of 1
+align 10 the 1
+align 11 vehicle 1
+align 12 open 1
+align 13 the 0.999772 to 0.000226237 do 1.0915e-08 *DELETE* 2.68743e-10
+align 14 hood 0.999783 the 0.000200993 that 1.56526e-05
+align 15 </s> 1

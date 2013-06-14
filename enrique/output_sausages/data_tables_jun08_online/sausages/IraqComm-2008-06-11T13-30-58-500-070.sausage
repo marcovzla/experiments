@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 any 1
+align 5 help 1
+align 6 with 1
+align 7 the 0.999867 a 0.00013265
+align 8 cordon 0.999988 court 1.22159e-05 *DELETE* 1.87009e-22
+align 9 *DELETE* 0.999988 in 1.22159e-05 cordoned 3.34631e-15
+align 10 </s> 1

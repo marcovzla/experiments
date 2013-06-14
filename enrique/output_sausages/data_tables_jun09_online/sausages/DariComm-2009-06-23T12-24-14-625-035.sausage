@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 say 1
+align 4 again 1 *DELETE* 2.09165e-27
+align 5 *DELETE* 0.999669 i 0.00010482 in 0.0001023 uh 0.000100448 to 2.34478e-05 it 1.45079e-11 the 4.12629e-12 but 2.38318e-12 against 3.0699e-23
+align 6 </s> 1

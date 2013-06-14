@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 do 0.835375 did 0.164625
+align 2 so 0.471445 *DELETE* 0.332879 you 0.120696 to 0.0531929 the 0.0217872
+align 3 okay 0.984267 *DELETE* 0.00895822 to 0.00677508
+align 4 *DELETE* 0.993225 okay 0.00677508
+align 5 so 1
+align 6 *DELETE* 0.991042 okay 0.00895822
+align 7 *DELETE* 0.991042 so 0.00895822
+align 8 it's 0.533623 if 0.202316 it 0.187179 is 0.0488426 *DELETE* 0.0280387
+align 9 as 0.473099 since 0.329215 that 0.177931 this 0.013177 says 0.00610868 that's 0.000469157
+align 10 you 1
+align 11 have 1
+align 12 personnel 0.88452 personal 0.108839 *DELETE* 0.00664151
+align 13 that 0.517082 they 0.296192 there 0.153211 the 0.0215392 personally 0.00664151 their 0.00308525 they're 0.00201855 then 0.00023069
+align 14 what 1
+align 15 is 0.999766 as 0.000167156 does 6.63741e-05
+align 16 the 1
+align 17 current 1
+align 18 information 1
+align 19 on 1
+align 20 ground 0.994226 crown 0.0057744
+align 21 now 0.64355 i'll 0.329085 out 0.0240482 oil 0.00239469 no 0.000873402 know 4.75782e-05 oh 5.42247e-07 nell 2.55471e-11 nelle 2.55471e-11
+align 22 *DELETE* 0.999988 i 7.5248e-06 uh 4.74615e-06
+align 23 </s> 1

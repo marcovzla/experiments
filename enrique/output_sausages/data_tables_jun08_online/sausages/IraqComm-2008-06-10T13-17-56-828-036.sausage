@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 the 0.97156 this 0.0284396
+align 3 safety 1
+align 4 is 1
+align 5 on 1
+align 6 you 1
+align 7 will 0.994756 we'll 0.00524403
+align 8 see 1
+align 9 a 1
+align 10 white 1
+align 11 dot 0.966088 doc 0.0129278 talk 0.00911042 dog 0.0044595 taught 0.00305431 *DELETE* 0.00255808 dots 0.00180177
+align 12 *DELETE* 0.994941 it 0.0016316 tall 0.00138644 uh 0.000721536 dock 0.000582157 top 0.000240736 i 0.000121672 thought 0.000112933 the 8.62679e-05 in 7.87517e-05 talked 6.83093e-05 to 1.84059e-05 on 5.4517e-06 down 3.52255e-06 at 9.92469e-07 a 5.02456e-07 do 8.881e-11 is 8.66617e-11 of 7.40897e-12 if 3.06111e-13 that 2.84872e-15 as 9.879e-19 and 1.17127e-19 taq 8.03909e-21
+align 13 </s> 1

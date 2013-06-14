@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 well 0.908706 will 0.0791072 low 0.00823614 we'll 0.0039511
+align 2 you 0.914759 are 0.0852406
+align 3 *DELETE* 0.914759 you 0.0852406
+align 4 you 1
+align 5 know 1
+align 6 the 1
+align 7 area 1
+align 8 the 0.9946 is 0.00304392 at 0.00235575
+align 9 *DELETE* 0.9946 the 0.00539967
+align 10 best 1
+align 11 uh 1
+align 12 when 1
+align 13 you 1
+align 14 think 1
+align 15 uh 1
+align 16 that 1
+align 17 traffic 1
+align 18 is 1
+align 19 the 1
+align 20 least 0.99732 lease 0.00268005
+align 21 uh 1
+align 22 busy 0.99813 dizzy 0.0018701
+align 23 *DELETE* 0.999466 uh 0.000499966 i 3.3552e-05 a 9.81955e-10 in 4.60991e-10 you 2.59165e-10
+align 24 </s> 1

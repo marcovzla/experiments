@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 one 0.99422 when 0.00578045
+align 2 one 0.997438 that 0.00138465 or 0.00117714
+align 3 *DELETE* 0.997438 one 0.00256178
+align 4 thing 1
+align 5 that 1
+align 6 i've 0.999532 i 0.00045919 is 9.20521e-06
+align 7 *DELETE* 0.99998 i 2.00998e-05
+align 8 seen 1
+align 9 *DELETE* 0.50202 you 0.49798
+align 10 know 0.49798 *DELETE* 0.319504 or 0.122908 uh 0.0261888 her 0.0245746 i 0.008844
+align 11 as 0.890618 is 0.10789 was 0.00149264
+align 12 a 0.914404 uh 0.0855964
+align 13 being 0.648365 p 0.351635
+align 14 up 0.534065 no 0.26999 know 0.145393 uh 0.0505524
+align 15 corpsman 0.883759 corpsmen 0.116241
+align 16 is 1
+align 17 uh 1
+align 18 with 0.92779 what 0.0722101
+align 19 the 0.981009 a 0.017079 uh 0.00191229
+align 20 high 0.769012 uh 0.219194 *DELETE* 0.0117944
+align 21 high 0.966616 *DELETE* 0.0215899 hi 0.0117944
+align 22 *DELETE* 0.747422 high 0.213508 higher 0.021589 hi 0.0174815
+align 23 excess 0.481282 access 0.258853 axis 0.257239 *DELETE* 0.00262574
+align 24 of 0.922823 to 0.0745508 excessive 0.00262574
+align 25 the 0.974953 uh 0.0250471
+align 26 exercise 0.996102 *DELETE* 0.00389827
+align 27 and 0.985202 in 0.0108881 exercising 0.00389827 an 1.11644e-05
+align 28 what 0.71737 with 0.282605 and 2.46327e-05
+align 29 *DELETE* 0.999975 what 2.46327e-05
+align 30 the 0.991703 a 0.00829711
+align 31 height 0.589553 hot 0.340557 high 0.0648474 hi 0.00427458 higher 0.000763048 *DELETE* 4.37259e-06
+align 32 he 0.999763 hee 0.00012991 e 0.00010285 hye 4.37259e-06
+align 33 *DELETE* 0.997793 uh 0.00101901 a 0.000580885 i 0.000335916 you 0.000172939 is 8.06812e-05 we 1.06751e-05 he 6.07415e-06 if 9.03962e-07
+align 34 </s> 1

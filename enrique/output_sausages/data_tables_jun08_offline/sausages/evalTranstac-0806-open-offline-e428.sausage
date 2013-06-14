@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 uh 0.754858 oh 0.245142
+align 2 *DELETE* 0.92846 oh 0.0677273 uh 0.00381255
+align 3 what 0.91677 oh 0.0832296
+align 4 *DELETE* 0.91677 what 0.0832296
+align 5 i'll 1
+align 6 do 1
+align 7 is 1
+align 8 i'll 1
+align 9 uh 0.969462 i'll 0.0304985 um 3.96867e-05
+align 10 *DELETE* 0.62112 uh 0.352954 i 0.0259256
+align 11 *DELETE* 0.999981 i 1.90262e-05
+align 12 again 1
+align 13 i 0.964052 uh 0.0359478
+align 14 *DELETE* 0.964052 i 0.0359478
+align 15 have 0.928835 i 0.0711647
+align 16 *DELETE* 0.928835 have 0.0711647
+align 17 one 1
+align 18 of 1
+align 19 my 1
+align 20 platoons 1
+align 21 and 1
+align 22 i'll 1
+align 23 bring 1
+align 24 uh 1
+align 25 also 0.819657 *DELETE* 0.180343
+align 26 uh 1
+align 27 *DELETE* 0.819657 also 0.180343
+align 28 *DELETE* 0.802436 uh 0.197564
+align 29 gun 1
+align 30 truck 0.925588 trucks 0.0744119
+align 31 support 0.995253 a 0.0045847 the 0.000157816 of 3.63262e-06 supports 1.15864e-06
+align 32 *DELETE* 0.995254 port 0.00474615
+align 33 </s> 1

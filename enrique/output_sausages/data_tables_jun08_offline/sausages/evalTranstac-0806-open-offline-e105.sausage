@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 suspect 1
+align 2 clean 1
+align 3 and 0.97406 in 0.024274 an 0.000973709 then 0.000691947
+align 4 and 0.998506 an 0.00126726 in 0.000187729 end 3.86001e-05
+align 5 tidy 1
+align 6 </s> 1

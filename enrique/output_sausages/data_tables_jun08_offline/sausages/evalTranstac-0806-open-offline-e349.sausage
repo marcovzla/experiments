@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 then 1
+align 3 i 1
+align 4 will 0.885751 i 0.114249
+align 5 *DELETE* 0.885751 will 0.114249
+align 6 tilt 1
+align 7 the 1
+align 8 head 1
+align 9 upward 0.792102 up 0.207775 of 0.000123506
+align 10 *DELETE* 0.792102 word 0.207775 upward 0.000123506
+align 11 with 1
+align 12 the 0.985347 each 0.014653
+align 13 chain 0.550618 chin 0.395556 chiam 0.0391723 and 0.0115575 in 0.00309552
+align 14 going 1
+align 15 up 1
+align 16 like 1 lake 1.25339e-08
+align 17 *DELETE* 0.999996 at 3.9516e-06
+align 18 this 1
+align 19 </s> 1

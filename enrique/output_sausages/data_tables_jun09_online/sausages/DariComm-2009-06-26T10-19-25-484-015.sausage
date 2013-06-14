@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 do 1
+align 3 not 1
+align 4 understand 1
+align 5 *DELETE* 0.99893 it 0.000686338 uh 0.000270633 i 6.63709e-05 you 3.06283e-05 if 9.14286e-06 that 3.98864e-06 the 1.94585e-06 a 5.37915e-07 and 4.29361e-14
+align 6 </s> 1

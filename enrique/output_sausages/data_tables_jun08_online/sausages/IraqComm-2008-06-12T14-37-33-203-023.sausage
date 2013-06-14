@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 which 1
+align 2 buildings 0.999938 building's 5.8291e-05 building 3.51431e-06
+align 3 are 0.838046 or 0.16188 our 6.95977e-05 sir 3.51431e-06 there 5.27328e-07 their 8.2661e-25
+align 4 damaged 0.980714 damage 0.0192856
+align 5 *DELETE* 1 i 6.00687e-15
+align 6 </s> 1

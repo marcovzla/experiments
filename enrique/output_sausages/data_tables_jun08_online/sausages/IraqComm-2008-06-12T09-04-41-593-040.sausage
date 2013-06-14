@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 0.986354 i 0.010426 our 0.00282082 all 0.000399306
+align 2 *DELETE* 0.999601 right 0.000399306
+align 3 any 0.989574 did 0.00645016 do 0.00397586
+align 4 *DELETE* 0.989574 a 0.00645016 any 0.00397586
+align 5 school 1
+align 6 employees 0.971979 employees' 0.0171016 employee's 0.0109157 and 3.43478e-06
+align 7 *DELETE* 0.999997 please 3.43478e-06
+align 8 involved 0.999813 involve 0.000186843
+align 9 *DELETE* 0.999849 uh 8.52973e-05 in 4.34592e-05 i 2.09515e-05 a 1.62331e-06 at 2.19198e-23
+align 10 </s> 1

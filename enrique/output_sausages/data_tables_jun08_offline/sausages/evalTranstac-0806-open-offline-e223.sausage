@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 his 0.64097 a 0.153919 uh 0.143079 he 0.0328933 in 0.0143552 yeah 0.00897006 if 0.00303168 it 0.00277696 is 3.89572e-06
+align 2 *DELETE* 0.64097 his 0.35903
+align 3 mother 1
+align 4 was 1
+align 5 asking 1
+align 6 about 1
+align 7 him 1
+align 8 uh 0.992309 um 0.00769059
+align 9 *DELETE* 0.993048 uh 0.00695248
+align 10 when 1
+align 11 can 1
+align 12 i 0.995104 right 0.00489635
+align 13 tell 1
+align 14 her 0.951664 heard 0.0483363
+align 15 in 0.900024 and 0.0999758
+align 16 the 1
+align 17 family 1
+align 18 uh 1
+align 19 that 1
+align 20 he's 0.99976 he 0.000239851
+align 21 *DELETE* 0.99976 is 0.000239851
+align 22 *DELETE* 0.903677 going 0.0963229
+align 23 gonna 0.903677 to 0.0963229
+align 24 be 1
+align 25 early 0.684587 here 0.315413
+align 26 sanaa 0.325236 every 0.315413 so 0.163889 sana'a 0.120999 some 0.0719259 slow 0.00190051 smell 0.000636624
+align 27 *DELETE* 0.684359 lease 0.315413 of 0.000228317
+align 28 hospital 0.999435 hospitals 0.0005649 hospital's 5.5232e-08
+align 29 *DELETE* 1 i 1.14178e-07
+align 30 </s> 1

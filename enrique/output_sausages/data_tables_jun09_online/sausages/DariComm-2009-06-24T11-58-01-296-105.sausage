@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 would 0.98406 will 0.0159395
+align 3 talk 1
+align 4 about 1
+align 5 the 1
+align 6 well 0.990676 will 0.00390067 world 0.00272768 we'll 0.00194677 weld 0.000748425
+align 7 later 0.998883 greater 0.000613547 letter 0.000412481 *DELETE* 9.08142e-05
+align 8 *DELETE* 0.999312 i 0.000307265 uh 9.97778e-05 nader 8.41297e-05 you 5.9937e-05 if 5.97709e-05 on 4.72374e-05 to 1.13173e-05 it 1.11691e-05 labor 3.41593e-06 leather 2.64638e-06 leader 6.22178e-07 a 4.36567e-07 in 1.16056e-07 the 8.46363e-08 so 5.05373e-11 grader 3.51722e-12 and 1.2526e-12 is 6.95567e-13 but 2.97652e-15
+align 9 </s> 1

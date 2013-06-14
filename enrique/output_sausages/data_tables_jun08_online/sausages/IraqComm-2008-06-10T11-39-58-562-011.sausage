@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 a 1
+align 5 favorite 1 favor 5.80979e-12
+align 6 color 0.928182 cholera 0.0616674 collar 0.0101355 *DELETE* 1.55553e-05 call 1.13944e-15
+align 7 *DELETE* 0.991607 or 0.00442873 are 0.00218686 sir 0.000607239 of 0.000541123 it 0.000403554 her 0.00020967 caller 1.55553e-05 i 5.81946e-11 and 9.73504e-20 our 1.63342e-21 in 1.24146e-21 a 7.1227e-23 uh 3.11761e-24 carlotta 7.29554e-29
+align 8 </s> 1

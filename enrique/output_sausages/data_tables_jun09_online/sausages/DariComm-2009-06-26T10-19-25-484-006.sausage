@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999924 was 7.56943e-05
+align 3 the 1
+align 4 purpose 1
+align 5 of 1
+align 6 your 1
+align 7 visit 1
+align 8 today 1 to 3.68985e-20
+align 9 *DELETE* 0.999619 uh 0.000222999 is 0.000138283 i 1.56274e-05 to 3.59934e-06 do 4.73153e-07 day 3.68985e-20
+align 10 </s> 1

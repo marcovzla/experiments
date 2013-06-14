@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 like 1
+align 4 the 0.999539 to 0.000246616 then 0.000172411 that 4.17177e-05
+align 5 neighborhood 0.99986 *DELETE* 0.000139792
+align 6 *DELETE* 0.993856 uh 0.00586619 i 0.000112057 neighborhoods 0.000105476 neighborhood's 3.43159e-05 is 2.4547e-05 in 1.6483e-06 you 3.51877e-08 it 4.41356e-09 the 1.56278e-11 that 1.43695e-12 to 7.78846e-14
+align 7 </s> 1

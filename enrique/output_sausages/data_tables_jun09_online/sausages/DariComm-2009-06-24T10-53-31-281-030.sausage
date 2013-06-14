@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 extra 1
+align 5 generator 1
+align 6 support 1
+align 7 meaning 0.788191 needing 0.144178 meeting 0.0325809 leaning 0.0222072 cleaning 0.0128421
+align 8 another 0.956522 on 0.0165946 in 0.0156324 and 0.0112507
+align 9 *DELETE* 0.956522 another 0.0320203 other 0.0114574
+align 10 generator 0.999744 generator's 0.00025627
+align 11 *DELETE* 0.999497 uh 0.00020183 i 0.00015168 it 4.65867e-05 you 3.47149e-05 is 3.18956e-05 do 1.69052e-05 in 1.31617e-05 to 2.77405e-06 that 2.56707e-06 at 4.34658e-07 does 6.28275e-08 if 2.50468e-08 and 1.11932e-08 so 2.68913e-09 a 8.74917e-10 but 2.33733e-10 as 1.07749e-12
+align 12 </s> 1

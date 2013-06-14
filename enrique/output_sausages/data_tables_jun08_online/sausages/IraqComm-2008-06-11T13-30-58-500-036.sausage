@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.490963 do 0.291802 did 0.0697591 in 0.0683112 if 0.0285535 good 0.0199245 they 0.0150517 and 0.00932837 he 0.00502824 we 0.000619483 you 0.000614061 i 4.51985e-05
+align 2 *DELETE* 0.999955 think 4.51985e-05
+align 3 the 0.879732 then 0.0979703 been 0.0206994 them 0.000767181 can 0.000614061 even 0.000217155
+align 4 *DELETE* 0.998647 been 0.00107659 bin 0.000223173 thing 5.29825e-05
+align 5 men 0.847468 then 0.121377 man 0.0231638 name 0.00434504 men's 0.00324391 and 0.000243949 meant 0.000103592 demand 5.44778e-05
+align 6 stay 0.999947 say 5.3104e-05
+align 7 overnight 1
+align 8 </s> 1

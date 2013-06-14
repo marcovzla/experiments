@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 uh 0.770751 *DELETE* 0.191092 so 0.0381568
+align 2 i 0.996416 *DELETE* 0.00354925 uh 3.48804e-05
+align 3 need 1
+align 4 you 1
+align 5 to 1
+align 6 tell 1
+align 7 all 1
+align 8 of 1
+align 9 your 1
+align 10 employees 1
+align 11 to 1
+align 12 drop 0.595445 dropped 0.404555
+align 13 your 0.434191 or 0.404555 their 0.136873 her 0.0123248 dear 0.00830787 per 0.00360642 there 0.000141407
+align 14 tools 1
+align 15 to 0.962868 do 0.0371323
+align 16 *DELETE* 0.970837 a 0.0291627
+align 17 come 0.918282 a 0.0817182
+align 18 *DELETE* 0.918282 come 0.0817182
+align 19 over 1
+align 20 here 1
+align 21 *DELETE* 0.932899 or 0.0396373 are 0.0249203 uh 0.00254304
+align 22 </s> 1

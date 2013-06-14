@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 i'm 0.866251 am 0.133749
+align 3 going 1
+align 4 to 1
+align 5 inspect 1
+align 6 your 1
+align 7 vehicle 1 *DELETE* 2.38602e-24
+align 8 *DELETE* 0.999997 uh 3.39044e-06 vehicles 9.91887e-17
+align 9 </s> 1

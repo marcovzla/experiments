@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 um 0.520255 uh 0.479745 *DELETE* 1.47763e-09
+align 5 *DELETE* 0.915594 uh 0.0844062 a 4.58365e-08
+align 6 do 1
+align 7 you 1
+align 8 have 1
+align 9 the 0.965238 a 0.0260538 *DELETE* 0.00870834
+align 10 people 1
+align 11 and 0.983993 in 0.0160068
+align 12 equipment 1
+align 13 available 1
+align 14 to 1
+align 15 start 0.465926 started 0.460005 starting 0.0740684
+align 16 *DELETE* 0.419715 in 0.377892 a 0.126479 now 0.0444085 their 0.0156043 nader 0.0119558 mayor 0.00317323 make 0.000772286
+align 17 net 0.297751 there 0.250556 name 0.163664 the 0.112798 and 0.0582974 it 0.0323966 naming 0.0211649 *DELETE* 0.0179114 to 0.0133719 their 0.00933239 neda 0.00879027 named 0.00405287 nine 0.00369245 may 0.00256099 note 0.00195325 making 0.00161449 never 8.65421e-05 end 6.33005e-06
+align 18 *DELETE* 0.999879 it 0.000120532 i 8.54336e-08
+align 19 in 0.965978 and 0.0201862 *DELETE* 0.0137668 end 6.52747e-05 add 3.73882e-06
+align 20 one 0.998921 when 0.00107923
+align 21 week 0.998638 we 0.00127597 weak 8.61461e-05
+align 22 to 1
+align 23 build 1
+align 24 the 0.999152 a 0.000847887
+align 25 schools 0.999149 school's 0.000681439 school 0.000166279 schools' 3.62435e-06
+align 26 *DELETE* 0.999752 so 0.000166279 uh 5.1588e-05 in 2.00816e-05 i 1.02405e-05
+align 27 </s> 1

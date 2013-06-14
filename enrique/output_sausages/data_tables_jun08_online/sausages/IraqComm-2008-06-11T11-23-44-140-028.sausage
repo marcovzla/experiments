@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.999971 one 2.94273e-05
+align 2 are 0.999968 of 2.94273e-05 *DELETE* 2.02537e-07
+align 3 the 0.999998 other 2.27649e-06
+align 4 symptoms 1
+align 5 of 0.543724 *DELETE* 0.456276
+align 6 other 0.456276 their 0.293142 this 0.179074 the 0.0591352 your 0.0101283 there 0.000843583 they're 0.0007605 his 0.000599063 theirs 4.18786e-05 others 1.26889e-09
+align 7 sickness 1
+align 8 *DELETE* 0.999968 i 2.98153e-05 uh 1.55662e-06 is 4.1553e-07 a 3.32422e-07
+align 9 </s> 1

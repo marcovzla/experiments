@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 specialists 0.428971 special 0.398514 specialist 0.172514
+align 5 *DELETE* 0.601486 us 0.398514
+align 6 would 1
+align 7 you 1
+align 8 like 1
+align 9 at 0.854889 it 0.141129 if 0.00398145
+align 10 this 0.999991 that's 8.64632e-06 does 6.34976e-13
+align 11 clinic 1
+align 12 </s> 1

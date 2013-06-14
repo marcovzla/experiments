@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 i 0.994183 uh 0.00563997 hi 0.00017654
+align 2 i 1
+align 3 i 0.853973 wish 0.0769572 *DELETE* 0.0690699
+align 4 *DELETE* 0.999249 i 0.000750562
+align 5 *DELETE* 0.924297 i 0.0757027
+align 6 wish 0.923043 *DELETE* 0.0769572
+align 7 i 1
+align 8 could 1
+align 9 provide 1
+align 10 additional 1
+align 11 finds 0.545574 fines 0.452392 fine 0.00131401 find 0.000720074
+align 12 uh 0.332084 a 0.19676 *DELETE* 0.188567 it 0.0952049 are 0.0844219 out 0.0373139 of 0.0330675 i 0.0137097 as 0.00498191 that 0.00429155 or 0.00399626 up 0.00207551 is 0.00105459 our 0.000784972 at 0.000575203 in 0.000487524 i'm 0.000359687 on 0.000179158 i'll 8.43373e-05
+align 13 *DELETE* 0.999246 i 0.000753991
+align 14 but 0.999997 that 3.12165e-06
+align 15 this 1
+align 16 was 1
+align 17 sent 0.881724 set 0.118276
+align 18 by 1
+align 19 baghdad 1
+align 20 um 0.99976 *DELETE* 0.000239954
+align 21 *DELETE* 0.998407 uh 0.00149295 i 9.00927e-05 a 1.01417e-05
+align 22 *DELETE* 0.99976 um 0.000239954
+align 23 </s> 1

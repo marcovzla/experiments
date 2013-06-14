@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 because 1
+align 3 everyone 1
+align 4 around 1
+align 5 you 1
+align 6 has 0.918676 as 0.0806458 is 0.000677961
+align 7 there 0.737797 they're 0.144343 their 0.116296 they 0.00117022 *DELETE* 0.000393034
+align 8 *DELETE* 0.998437 are 0.00156348
+align 9 certainly 0.986881 certain 0.0131194
+align 10 *DELETE* 0.987148 where 0.0128434 i 8.9007e-06
+align 11 the 0.916998 it 0.0568672 is 0.0159668 they'll 0.00859544 it'll 0.000463372 they 0.000434181 are 0.00038482 would 0.000169974 later 6.59743e-05 laid 4.00183e-05 to 8.9007e-06 there 4.41642e-06 no 7.42195e-07
+align 12 *DELETE* 0.932672 a 0.0673278
+align 13 luck 0.461519 like 0.247068 look 0.203228 lock 0.0503084 lucky 0.0273752 alike 0.00589078 lack 0.00460109 looking 9.85167e-06
+align 14 *DELETE* 0.999755 a 0.000137824 uh 4.38995e-05 you 3.26516e-05 i 2.17961e-05 at 4.65968e-06 it 4.20469e-06
+align 15 </s> 1

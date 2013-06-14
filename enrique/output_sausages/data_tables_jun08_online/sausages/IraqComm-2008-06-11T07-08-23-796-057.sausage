@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.99999 i 1.02411e-05
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 any 1
+align 6 experience 1
+align 7 building 0.845111 billing 0.154889
+align 8 shopping 1
+align 9 centers 0.998954 center's 0.00104577
+align 10 *DELETE* 1 uh 1.39657e-16
+align 11 </s> 1

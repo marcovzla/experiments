@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 problems 1
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 *DELETE* 0.999907 a 5.84681e-05 uh 3.4837e-05
+align 9 </s> 1

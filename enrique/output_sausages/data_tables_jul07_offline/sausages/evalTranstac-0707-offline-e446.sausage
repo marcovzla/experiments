@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 until 1
+align 3 then 1
+align 4 we're 1
+align 5 going 1
+align 6 to 1
+align 7 have 1
+align 8 to 1
+align 9 seize 1
+align 10 one 0.999208 want 0.000791886
+align 11 of 0.877945 *DELETE* 0.122055
+align 12 the 0.877719 other 0.122055 a 0.00022525
+align 13 weapons 0.999682 weapon's 0.000315158 *DELETE* 1.07977e-13
+align 14 *DELETE* 0.999775 i 0.000111909 uh 9.11622e-05 in 1.53672e-05 are 3.7263e-06 weapons' 2.36255e-06 it 3.94133e-07 to 2.85473e-08
+align 15 </s> 1

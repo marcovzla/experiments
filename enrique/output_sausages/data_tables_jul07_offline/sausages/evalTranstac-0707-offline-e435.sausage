@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 it's 0.996818 is 0.00204949 yes 0.00113205
+align 2 just 1
+align 3 a 1
+align 4 routine 1
+align 5 security 1
+align 6 patrol 0.999146 patrols 0.000854118
+align 7 *DELETE* 1 i 9.41806e-08 uh 5.48099e-08 in 9.17263e-09
+align 8 </s> 1

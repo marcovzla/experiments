@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 i 0.607822 i'm 0.391482 uh 0.000695306
+align 2 am 0.607439 *DELETE* 0.391482 i'm 0.00107839
+align 3 lieutenant 1
+align 4 colonel 1
+align 5 loman 1 *DELETE* 2.21816e-12
+align 6 *DELETE* 0.999998 i 1.3272e-06 a 4.71432e-07 uh 1.92638e-07 omen 1.95912e-08
+align 7 </s> 1

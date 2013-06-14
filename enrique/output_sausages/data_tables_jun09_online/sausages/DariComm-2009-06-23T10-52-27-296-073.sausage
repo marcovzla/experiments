@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 any 1
+align 5 medication 1
+align 6 at 1
+align 7 the 1
+align 8 moment 1
+align 9 *DELETE* 0.999674 i 0.00027909 no 4.58573e-05 it 1.27062e-06 you 2.89594e-09 now 4.58124e-10 is 5.21108e-11 i'm 2.73048e-11 the 3.38856e-13
+align 10 </s> 1

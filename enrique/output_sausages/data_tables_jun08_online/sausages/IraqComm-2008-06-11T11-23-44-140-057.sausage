@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 your 0.502776 you 0.476755 it 0.00876837 you're 0.00614103 *DELETE* 0.00293825 we 0.0012437 if 0.00114375 yeah 0.000234642
+align 2 daughter 0.482077 daughters 0.383041 daughter's 0.131764 daughters' 0.00311805
+align 3 *DELETE* 0.517923 is 0.482077
+align 4 about 1
+align 5 to 0.92061 the 0.0478101 a 0.0315798
+align 6 feel 1
+align 7 a 1
+align 8 slight 1
+align 9 pinch 1
+align 10 *DELETE* 0.999868 i 4.19868e-05 a 3.52529e-05 in 3.02946e-05 it 2.19317e-05 do 1.7105e-06 the 1.13459e-06 to 3.08842e-08
+align 11 </s> 1

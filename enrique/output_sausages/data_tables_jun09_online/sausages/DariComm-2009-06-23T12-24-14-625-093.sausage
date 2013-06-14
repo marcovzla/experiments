@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.974978 i 0.0250218
+align 3 have 1
+align 4 security 1
+align 5 around 1
+align 6 the 1
+align 7 area 1
+align 8 *DELETE* 0.997193 uh 0.0027936 i 1.35313e-05 at 1.2006e-10 that 3.36289e-12 and 2.13331e-12 is 6.31287e-13 a 6.34094e-17 in 1.89157e-26
+align 9 </s> 1

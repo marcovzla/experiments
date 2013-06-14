@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 collecting 1
+align 2 information 0.99955 the 0.0004499
+align 3 *DELETE* 0.99955 information 0.0004499
+align 4 from 1
+align 5 all 1
+align 6 the 1
+align 7 *DELETE* 0.387817 um 0.336257 uh 0.275925
+align 8 the 0.578165 *DELETE* 0.398571 other 0.0124959 uh 0.0107688
+align 9 houses 1
+align 10 in 0.994372 of 0.00562761
+align 11 the 0.999999 a 8.78696e-07
+align 12 neighborhood 1
+align 13 *DELETE* 0.999989 uh 1.10941e-05
+align 14 </s> 1

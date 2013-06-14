@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 they 0.725106 there 0.274461 *DELETE* 0.000432849
+align 2 will 0.999567 they'll 0.000432849
+align 3 be 1
+align 4 any 0.889412 in 0.110588
+align 5 *DELETE* 0.87317 a 0.12683
+align 6 uh 0.983758 *DELETE* 0.0162422
+align 7 *DELETE* 0.967075 uh 0.0329251
+align 8 keeping 1
+align 9 a 1
+align 10 circular 1
+align 11 pattern 1
+align 12 around 1
+align 13 the 1
+align 14 objective 1
+align 15 area 1
+align 16 *DELETE* 1 if 2.2309e-07 uh 2.70705e-09 i 4.31399e-10
+align 17 </s> 1

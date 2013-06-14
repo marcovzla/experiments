@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 0.992068 we 0.0051266 it 0.00165161 they 0.00115333 i'm 5.06879e-07
+align 2 *DELETE* 0.999016 i 0.000984092
+align 3 might 1
+align 4 have 1
+align 5 to 1 two 1.63175e-10
+align 6 tell 1
+align 7 my 1
+align 8 commander 1
+align 9 and 1
+align 10 uh 0.973835 um 0.0259318 *DELETE* 0.000233152
+align 11 *DELETE* 0.985849 uh 0.0123093 i 0.00180142 you 3.44767e-05 a 6.05881e-06
+align 12 detain 0.999999 detained 9.33572e-07
+align 13 you 1
+align 14 *DELETE* 0.999977 i 1.66159e-05 uh 5.38049e-06 a 6.68729e-07 do 1.57261e-07 if 2.02687e-08
+align 15 </s> 1

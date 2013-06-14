@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 understand 0.963694 uh 0.0264523 a 0.00844771 are 0.00090245 in 0.000371459 going 0.000108231 it 2.38663e-05
+align 2 *DELETE* 0.999892 to 0.000108231
+align 3 *DELETE* 0.963694 understand 0.0361977 send 0.000108231
+align 4 that 0.986268 uh 0.0137323 they 1.17012e-07 day 1.34666e-10
+align 5 *DELETE* 0.999785 uh 0.000214702
+align 6 you 1
+align 7 need 1
+align 8 *DELETE* 0.564562 uh 0.345713 our 0.0897244
+align 9 *DELETE* 0.646308 our 0.345713 are 0.00797912
+align 10 our 0.920507 *DELETE* 0.0794929
+align 11 assistance 1
+align 12 to 1
+align 13 conduct 1
+align 14 us 0.651936 that's 0.345771 a 0.00128936 uh 0.00052892 thus 0.000385064 that 4.64515e-05 the 4.17236e-05 does 2.18363e-06
+align 15 not 0.996162 *DELETE* 0.00193121 snap 0.001878 a 2.84475e-05
+align 16 *DELETE* 0.999972 snap 2.84475e-05
+align 17 be 0.989912 beat 0.00279061 a 0.00216535 nappy 0.00192403 to 0.00114209 the 0.000957534 b 0.000798947 v 0.000301819 nadi 7.17825e-06
+align 18 *DELETE* 0.998858 be 0.00114209
+align 19 snap 0.976998 a 0.0215569 the 0.0014454
+align 20 *DELETE* 0.976998 snap 0.0230023
+align 21 and 0.997744 *DELETE* 0.00225579
+align 22 uh 0.629519 that 0.340412 i 0.0278134 ended 0.00225579 that'd 7.01549e-08
+align 23 *DELETE* 1 be 7.01549e-08
+align 24 *DELETE* 1 see 7.01549e-08
+align 25 v._c._p.s 0.999992 v._c._p. 8.14573e-06 peace 6.77187e-08 piece 2.43628e-09
+align 26 </s> 1

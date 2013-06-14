@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 would 0.798739 wood 0.15284 i 0.0484213
+align 2 *DELETE* 0.951579 would 0.0484213
+align 3 iraqis 0.793062 you 0.0873378 it 0.0598083 *DELETE* 0.0407627 your 0.0182616 have 0.000767222
+align 4 *DELETE* 0.921163 back 0.0788371
+align 5 *DELETE* 0.8804 in 0.0788371 iraqi 0.0407627
+align 6 *DELETE* 0.793062 iraqis 0.0873378 these 0.0788371 nice 0.0407627
+align 7 civilians 1
+align 8 or 0.999962 were 3.78271e-05
+align 9 soldiers 0.998664 soldier's 0.000902009 soldiers' 0.000433766
+align 10 *DELETE* 0.999508 uh 0.00049218 i 3.71597e-09
+align 11 </s> 1

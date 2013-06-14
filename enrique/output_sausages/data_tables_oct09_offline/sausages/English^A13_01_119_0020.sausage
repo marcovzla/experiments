@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 just 1
+align 3 need 1
+align 4 you 0.999992 *DELETE* 8.21296e-06
+align 5 to 1
+align 6 pull 1
+align 7 the 1
+align 8 the 1
+align 9 open 0.959642 opened 0.0403577
+align 10 the 1
+align 11 hood 1
+align 12 when 1
+align 13 i 1
+align 14 come 1
+align 15 out 1
+align 16 of 1
+align 17 the 1
+align 18 hood 0.968445 head 0.0272113 *DELETE* 0.00434352
+align 19 and 0.8638 in 0.0685252 *DELETE* 0.0589103 you 0.00796177 then 0.000803017
+align 20 the 0.885798 then 0.114173 *DELETE* 2.93585e-05
+align 21 little 0.781863 we'll 0.0976416 load 0.075468 the 0.0165607 *DELETE* 0.0109875 bill 0.00564357 low 0.00408097 door 0.00393883 build 0.00222218 nor 0.00110395 no 0.000315484 building 0.00017389
+align 22 lever 0.807404 never 0.151644 ever 0.0307228 deliver 0.00872194 delivered 0.00106462 delivery 0.000418383 liver 2.34577e-05
+align 23 *DELETE* 0.999996 i 3.75555e-06
+align 24 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 you'll 0.99774 you 0.00225969
+align 2 bring 1
+align 3 the 1
+align 4 tourniquet 1
+align 5 off 0.394513 i'll 0.188552 up 0.151283 i 0.127161 all 0.0530044 above 0.0520015 *DELETE* 0.0245258 i'm 0.00895894
+align 6 uh 0.901835 *DELETE* 0.0981654
+align 7 *DELETE* 0.918196 of 0.0461639 uh 0.0245258 open 0.0111143
+align 8 the 1
+align 9 wound 1
+align 10 to 1
+align 11 stop 1
+align 12 the 1
+align 13 bleeding 1
+align 14 *DELETE* 0.999972 i 2.78121e-05 and 7.97829e-09 if 3.81843e-09 in 1.12735e-12 it 2.41988e-13
+align 15 </s> 1

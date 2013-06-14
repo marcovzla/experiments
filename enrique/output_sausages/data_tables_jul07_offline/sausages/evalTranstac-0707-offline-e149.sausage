@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 0.978161 *DELETE* 0.0218391
+align 2 there 0.978161 whether 0.0126319 either 0.0046966 mother 0.0022854 further 0.00222526
+align 3 akhi 0.720132 active 0.17463 i 0.0954646 act 0.00582723 acted 0.00201226 'aqeed 0.00143391 acting 0.000500807
+align 4 *DELETE* 0.898708 can 0.0667423 could 0.0287223 as 0.00582723
+align 5 soldiers 0.979412 soldier's 0.0139708 soldiers' 0.00661686
+align 6 with 0.999998 *DELETE* 1.85029e-09
+align 7 them 0.938427 him 0.0552587 me 0.00517939 some 0.000383222 an 0.000175662 in 0.000175662 i'm 0.000156082 *DELETE* 7.85176e-05 on 4.88283e-05 uh 3.88217e-05 and 3.14898e-05 um 1.58015e-05 us 1.35661e-05 from 7.17466e-06 one 4.68656e-06 time 2.79763e-06 within 1.89717e-06 m 3.03372e-07 then 2.93671e-07 a 1.20618e-07 thing 1.67658e-08
+align 8 </s> 1

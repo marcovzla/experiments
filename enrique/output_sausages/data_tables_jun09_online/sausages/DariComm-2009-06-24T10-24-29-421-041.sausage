@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 well 0.776467 are 0.141048 al-awn 0.0386892 allowing 0.0338596 along 0.00991039 am 2.56645e-05
+align 3 *DELETE* 0.858952 low 0.10214 long 0.0386712 lower 0.000237217
+align 4 *DELETE* 0.896388 and 0.103612
+align 5 does 1
+align 6 he 1
+align 7 *DELETE* 0.998318 you 0.00168183
+align 8 need 1
+align 9 to 1
+align 10 stay 1
+align 11 in 1
+align 12 your 1
+align 13 hospital 0.999985 hospitals 1.50043e-05
+align 14 *DELETE* 0.999996 do 2.07761e-06 to 1.60081e-06 i 4.43939e-08 and 1.78914e-08 is 1.2752e-09 it 9.03312e-12 with 3.29464e-13
+align 15 </s> 1

@@ -1,0 +1,48 @@
+numaligns 46
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 i 1
+align 3 agree 1 am 4.71974e-09 *DELETE* 8.81633e-12
+align 4 *DELETE* 0.977824 a 0.0221337 it 4.23012e-05
+align 5 and 0.942929 *DELETE* 0.0570705
+align 6 i 0.995723 *DELETE* 0.00399419 at 0.000283
+align 7 *DELETE* 0.94908 and 0.0365084 am 0.014412
+align 8 *DELETE* 0.868238 i 0.131762
+align 9 *DELETE* 0.996831 i 0.00316943
+align 10 agree 0.990673 angry 0.00932664
+align 11 as 1
+align 12 you 1
+align 13 as 1
+align 14 you 1
+align 15 will 0.982105 we'll 0.0103657 all 0.00660165 well 0.000927821
+align 16 know 1
+align 17 if 0.513617 *DELETE* 0.397463 it's 0.0685173 its 0.0204021
+align 18 the 0.545407 hasty 0.397463 tea 0.0571298
+align 19 u._s. 1
+align 20 forces 0.99135 forces' 0.00865043
+align 21 main 1
+align 22 concern 0.999291 concerned 0.000708869
+align 23 to 0.79722 too 0.155404 *DELETE* 0.0339013 two 0.0101159 turn 0.00335905
+align 24 to 0.92096 *DELETE* 0.057851 get 0.0127702 could 0.0083637 did 5.51824e-05 keep 1.52226e-07 give 2.2829e-09
+align 25 provide 1
+align 26 power 1
+align 27 water 0.91731 of 0.0826904
+align 28 *DELETE* 0.91731 water 0.0826904
+align 29 and 0.899793 as 0.100201 i 5.87266e-06
+align 30 security 0.936544 secure 0.0634558
+align 31 *DELETE* 0.936544 you 0.0634558
+align 32 to 0.999996 too 4.08886e-06
+align 33 the 1
+align 34 local 1
+align 35 populace 1
+align 36 and 0.586783 in 0.402941 since 0.00760512 an 0.0026708
+align 37 *DELETE* 0.904295 the 0.0957052
+align 38 snow 0.965247 this 0.0128393 snake 0.0124051 *DELETE* 0.00416929 night 0.00310566 sneak 0.00190312 now 0.000330174
+align 39 *DELETE* 0.982991 new 0.0170086
+align 40 in 1
+align 41 this 1
+align 42 uh 1
+align 43 city 1
+align 44 *DELETE* 0.999761 uh 0.000237326 i 8.57707e-07 of 3.25046e-07 you 1.60398e-08 in 1.49652e-08
+align 45 </s> 1

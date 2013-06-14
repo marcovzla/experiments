@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 computer 1
+align 2 play 0.837944 plate 0.0354359 played 0.0350102 plan 0.032662 plane 0.0219082 plain 0.0158413 player 0.0119088 plenty 0.00441607 clay 0.00220212 playing 0.00120385 plant 0.00116107 place 0.000188161 planned 0.000118216
+align 3 instructions 0.995213 a 0.00478677
+align 4 *DELETE* 0.995213 instructions 0.00478677 i 1.13264e-08
+align 5 </s> 1

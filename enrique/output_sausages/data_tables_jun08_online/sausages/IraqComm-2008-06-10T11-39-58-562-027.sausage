@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 is 0.990803 has 0.00595443 does 0.00324211
+align 2 anyone 1
+align 3 else 1
+align 4 with 1
+align 5 you 1 *DELETE* 9.08019e-20
+align 6 *DELETE* 0.999991 uh 5.79004e-06 you 2.55224e-06 i 6.26299e-07 in 1.50826e-14 it 2.11902e-15 the 1.4192e-18
+align 7 </s> 1

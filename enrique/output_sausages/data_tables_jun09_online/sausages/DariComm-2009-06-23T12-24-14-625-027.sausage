@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 the 1
+align 3 first 1
+align 4 thing 1
+align 5 you 1
+align 6 would 0.997075 will 0.00292466
+align 7 do 1
+align 8 is 1
+align 9 *DELETE* 0.998939 i 0.000988189 to 7.26373e-05
+align 10 take 1
+align 11 the 1
+align 12 people 1
+align 13 out 1
+align 14 the 1 of 3.34052e-12
+align 15 car 0.992306 call 0.00410844 core 0.00193817 corps 0.00076851 court 0.000574572 *DELETE* 0.000304437
+align 16 *DELETE* 0.998706 uh 0.000818162 in 0.000130288 kar 0.000129036 qar 7.77294e-05 cart 5.46935e-05 corn 2.98115e-05 to 2.07757e-05 too 2.01811e-05 corp 7.98626e-06 cough 5.17972e-06 at 1.15125e-07 i 2.45454e-08 it 2.09684e-08 is 2.29272e-10 and 3.65285e-11 coal 3.14368e-11 the 1.20698e-13 caught 3.79988e-21
+align 17 </s> 1

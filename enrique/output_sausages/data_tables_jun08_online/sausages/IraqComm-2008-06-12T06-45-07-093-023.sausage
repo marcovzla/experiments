@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 with 0.960835 we 0.0391653
+align 2 *DELETE* 0.960835 do 0.0391653
+align 3 *DELETE* 0.960835 have 0.0391653
+align 4 iraqi 0.74024 iraqis 0.25976
+align 5 civilians 1
+align 6 or 0.787663 we 0.209789 where 0.00248902 *DELETE* 5.83833e-05
+align 7 were 0.819838 with 0.153423 would 0.0105349 will 0.00851681 where 0.00307756 what 0.00237585 *DELETE* 0.00185398 we're 0.000380217 wood 2.43572e-07
+align 8 they 0.845488 a 0.120744 the 0.0319148 whether 0.00185398
+align 9 soldiers 0.965946 soldier's 0.0286472 soldiers' 0.00540719
+align 10 *DELETE* 0.999733 uh 0.000186302 i 7.16158e-05 a 5.98316e-06 do 1.87634e-06 in 1.52239e-06 you 1.64081e-07
+align 11 </s> 1

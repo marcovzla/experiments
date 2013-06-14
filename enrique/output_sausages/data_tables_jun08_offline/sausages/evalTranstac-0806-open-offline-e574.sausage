@@ -1,0 +1,63 @@
+numaligns 61
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 great 1
+align 3 you 0.959995 do 0.0357699 he 0.0038993 you'd 0.000336123
+align 4 *DELETE* 0.963742 you 0.0362581
+align 5 see 1
+align 6 we're 0.863516 were 0.136484
+align 7 uh 1
+align 8 *DELETE* 0.998358 up 0.00164226
+align 9 or 0.539187 right 0.349527 *DELETE* 0.111286
+align 10 i 0.539187 *DELETE* 0.349527 write 0.0534078 bribe 0.0502442 arrived 0.00516422 ride 0.00119629 bright 0.000684732 bribed 0.000328414 bribes 0.000259903
+align 11 put 1
+align 12 a 1
+align 13 diagram 1
+align 14 for 1
+align 15 uh 1
+align 16 of 0.496176 a 0.487097 uh 0.0167266
+align 17 vehicle 1
+align 18 an 0.92929 in 0.0396846 and 0.0310259
+align 19 armored 1
+align 20 vehicle 1
+align 21 in 0.637374 and 0.302879 *DELETE* 0.0597468
+align 22 that 0.546568 a 0.303085 uh 0.0503687 of 0.025919 annette 0.0189822 annett 0.0189773 anette 0.0189746 i've 0.00825042 have 0.0051415 i 0.00373326
+align 23 vehicle 1
+align 24 there 1
+align 25 is 0.997448 it's 0.0025519
+align 26 to 0.864112 two 0.135574 too 0.000313428
+align 27 you 0.653193 *DELETE* 0.346807
+align 28 uh 0.988483 i 0.011517
+align 29 just 0.99152 to 0.00848
+align 30 *DELETE* 0.99152 see 0.00848
+align 31 case 0.968661 qais 0.025126 qays 0.006213
+align 32 say 0.994906 they 0.0041566 a 0.00093775
+align 33 uh 1
+align 34 *DELETE* 0.825809 uh 0.174191
+align 35 as 1
+align 36 soon 1
+align 37 as 1
+align 38 side 1
+align 39 uh 1
+align 40 bomber 1
+align 41 in 0.962583 *DELETE* 0.0374171
+align 42 a 0.555345 the 0.228552 *DELETE* 0.173017 any 0.0374171 uh 0.00566945
+align 43 vehicle 1
+align 44 tries 1
+align 45 to 1
+align 46 *DELETE* 0.767351 you 0.232649
+align 47 uh 1
+align 48 approach 1
+align 49 and 0.942535 in 0.0574648
+align 50 uh 0.519844 i 0.474848 help 0.00530873
+align 51 blow 1
+align 52 themselves 1
+align 53 up 1
+align 54 in 0.635173 *DELETE* 0.364827
+align 55 the 0.635173 any 0.364827
+align 56 uh 0.717275 um 0.282725
+align 57 the 0.998719 to 0.00127676 *DELETE* 4.59023e-06
+align 58 search 0.999999 searcher 7.85036e-07
+align 59 area 1
+align 60 </s> 1

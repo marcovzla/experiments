@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 no 0.839103 now 0.13516 know 0.0230348 i 0.00270196
+align 2 *DELETE* 0.997298 know 0.00270196
+align 3 if 0.999956 it's 4.3777e-05
+align 4 you 1
+align 5 see 1
+align 6 here 1
+align 7 on 1
+align 8 the 0.9912 a 0.00880025
+align 9 map 1
+align 10 what 0.751741 *DELETE* 0.157112 uh 0.0576734 we 0.0242736 but 0.00510033 of 0.00335806 will 0.000616475 a 8.31217e-05 well 3.90256e-05 the 3.25454e-06 we'll 1.07619e-08
+align 11 we'll 0.825863 will 0.174137
+align 12 do 1
+align 13 is 1
+align 14 as 1
+align 15 we 1
+align 16 come 1
+align 17 or 0.958503 are 0.0414969
+align 18 uh 0.994731 up 0.00526874
+align 19 behind 0.99693 uh 0.00307015
+align 20 *DELETE* 0.99693 behind 0.00307015
+align 21 this 1
+align 22 building 1
+align 23 here 1
+align 24 that 1
+align 25 is 0.998107 it's 0.00132038 its 0.000248067 as 0.000211141 this 0.000113302
+align 26 where 0.926022 for 0.0737654 wear 0.000212932
+align 27 will 0.694281 we 0.190765 we'll 0.0900343 rule 0.0239543 real 0.000965248
+align 28 *DELETE* 0.614897 to 0.194338 will 0.190765
+align 29 *DELETE* 0.983625 to 0.016375
+align 30 dismount 0.789287 smoke 0.205163 smile 0.00555002
+align 31 from 1
+align 32 the 0.999998 that 1.60535e-06
+align 33 trucks 0.99788 truck's 0.00212002
+align 34 *DELETE* 0.999991 i 6.16378e-06 uh 3.27681e-06
+align 35 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 your 0.973158 you're 0.0268415
+align 3 friend 1
+align 4 got 0.996616 that 0.00137856 at 0.00134157 a 0.000649798 up 1.36397e-05
+align 5 bit 0.994771 that 0.00522939
+align 6 by 1
+align 7 a 0.699454 the 0.300546
+align 8 dog 1
+align 9 *DELETE* 1 you 2.86807e-07 is 3.68558e-18 it 2.38236e-18
+align 10 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 been 0.54345 built 0.37673 pull 0.0756706 book 0.00415026
+align 4 shopping 1
+align 5 centers 0.999525 center's 0.000474784 center 1.62887e-07
+align 6 *DELETE* 0.99999 uh 9.59225e-06 should 1.62887e-07 of 2.87872e-09 as 2.6708e-13 i 2.52226e-17
+align 7 </s> 1

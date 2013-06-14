@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 vehicle 1
+align 3 checkpoints 1
+align 4 how 1
+align 5 many 1
+align 6 will 0.983324 we'll 0.00967279 well 0.00503301 would 0.00138014 what 0.000589594
+align 7 you 1
+align 8 set 0.999596 said 0.000336576 side 6.71203e-05 sat 9.1286e-09
+align 9 up 1
+align 10 *DELETE* 0.998598 a 0.000729833 uh 0.000651525 i 2.07332e-05 in 3.57462e-07 the 3.95943e-09 to 2.44526e-20
+align 11 </s> 1

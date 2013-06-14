@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.871426 well 0.0859824 will 0.0316243 i 0.0109674
+align 2 *DELETE* 0.984824 will 0.0109674 i 0.00420885
+align 3 have 0.999852 uh 0.000148072
+align 4 a 0.515489 the 0.484511
+align 5 corpsman 1
+align 6 examine 0.999997 examined 2.93377e-06
+align 7 the 1
+align 8 children 1
+align 9 and 1
+align 10 *DELETE* 0.912467 they 0.087336 i 0.000197404
+align 11 they'll 0.90639 will 0.0863821 it'll 0.00606923 would 0.000619932 we'll 0.000531438 help 7.76362e-06
+align 12 provide 1
+align 13 them 1
+align 14 with 0.884243 a 0.115757
+align 15 treatment 0.999746 treatments 0.000253822
+align 16 *DELETE* 0.999827 i 9.27222e-05 uh 4.80542e-05 of 1.3523e-05 if 1.26314e-05 is 4.74385e-06 a 1.31224e-06 in 2.44585e-07 and 3.63112e-08 to 2.10745e-09
+align 17 </s> 1

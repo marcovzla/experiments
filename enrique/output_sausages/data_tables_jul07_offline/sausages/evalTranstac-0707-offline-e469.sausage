@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 your 0.997137 you're 0.00286294
+align 2 house 1
+align 3 was 1
+align 4 the 1
+align 5 best 1
+align 6 one 0.998202 *DELETE* 0.00179844
+align 7 for 0.986981 *DELETE* 0.00843205 four 0.00278874 want 0.00179844
+align 8 us 0.926115 is 0.0568488 first 0.00605062 his 0.00449917 forest 0.00417987 as 0.00142913 each 0.000877122
+align 9 to 1
+align 10 use 0.878045 used 0.121955
+align 11 to 0.990595 two 0.00749745 too 0.00108876 *DELETE* 0.000819045
+align 12 observe 0.811287 observer 0.188713
+align 13 *DELETE* 0.188728 a 0.177271 will 0.151797 what 0.10064 are 0.0944338 or 0.0732879 the 0.0479068 oh 0.0456877 it 0.0438131 but 0.0272788 all 0.0262502 when 0.0100874 well 0.00324207 then 0.00255205 out 0.00221385 i'll 0.00133834 we'll 0.0012925 our 0.000646864 that 0.000575594 them 0.000493305 and 0.000463408
+align 14 we 1
+align 15 need 1
+align 16 to 0.999745 two 0.000245861 too 9.18771e-06
+align 17 observe 1
+align 18 *DELETE* 0.999621 it 0.000289683 i 3.46542e-05 uh 2.82169e-05 the 2.48439e-05 a 1.69972e-06
+align 19 </s> 1

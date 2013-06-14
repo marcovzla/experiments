@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.993411 do 0.00658879
+align 2 you 0.999991 *DELETE* 8.72039e-06
+align 3 need 1
+align 4 to 1
+align 5 make 1
+align 6 sure 1
+align 7 that 1
+align 8 they 1
+align 9 do 0.999999 due 7.05096e-07
+align 10 *DELETE* 0.999228 you 0.000771342 i 2.57008e-07
+align 11 </s> 1

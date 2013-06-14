@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.872197 so 0.125799 do 0.00200364
+align 2 we 0.685632 you 0.314368
+align 3 don't 1
+align 4 want 1
+align 5 to 1
+align 6 tell 0.809122 talaban 0.190878
+align 7 abandoned 0.809122 *DELETE* 0.123705 and 0.0671734
+align 8 dating 0.511358 eighteen 0.317251 invading 0.123705 they 0.0437362 *DELETE* 0.00394944
+align 9 *DELETE* 0.952314 eating 0.0437362 bathing 0.00394944
+align 10 our 0.552441 are 0.446075 art 0.000824395 r 0.00066025 ar 2.19984e-15
+align 11 facilities 0.989129 facility's 0.0108712
+align 12 and 0.882676 in 0.117324
+align 13 then 0.879421 them 0.11694 and 0.0036391
+align 14 taking 0.655039 taken 0.298421 take 0.0465402
+align 15 *DELETE* 0.965558 in 0.0344417
+align 16 our 0.735628 all 0.192137 are 0.0565294 an 0.0120985 *DELETE* 0.00360707
+align 17 *DELETE* 0.984294 arm 0.0138234 are 0.00176122 armed 0.000120972
+align 18 medical 1
+align 19 supplies 1
+align 20 *DELETE* 0.998579 to 0.000929575 so 0.000491377
+align 21 </s> 1

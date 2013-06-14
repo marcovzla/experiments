@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 please 1 news 1.37814e-07
+align 2 repeat 1
+align 3 *DELETE* 0.991606 it 0.00716851 that 0.000716245 i 0.000426008 a 4.91171e-05 uh 3.43317e-05
+align 4 </s> 1

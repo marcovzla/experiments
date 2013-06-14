@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 it's 1
+align 2 just 1
+align 3 uh 0.998583 a 0.00114506 to 0.000272157
+align 4 *DELETE* 0.998583 uh 0.00141722
+align 5 routine 1
+align 6 security 1
+align 7 patrol 1
+align 8 um 0.997034 uh 0.00296635
+align 9 *DELETE* 0.996764 um 0.00296635 uh 0.000227207 i 3.6337e-05 a 5.52007e-06 if 5.83043e-07 do 6.35994e-08
+align 10 </s> 1

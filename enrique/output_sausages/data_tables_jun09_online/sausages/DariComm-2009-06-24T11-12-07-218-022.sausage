@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 often 1
+align 3 do 1
+align 4 you 1
+align 5 go 1
+align 6 on 1
+align 7 patrols 0.999648 patrol 0.000352451
+align 8 *DELETE* 0.999452 so 0.000352451 i 9.2896e-05 in 8.12315e-05 you 1.21346e-05 do 5.68937e-06 uh 2.3193e-06 but 5.74725e-07 and 3.05505e-07 to 2.19501e-07 with 2.015e-09 the 2.38572e-10 it 1.40511e-10 are 5.03277e-11 that 9.70958e-13 also 7.24864e-21 all 3.69145e-21 or 3.76279e-22
+align 9 </s> 1

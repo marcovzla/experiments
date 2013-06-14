@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 uh 0.85368 i'll 0.091042 our 0.0364498 now 0.0181415 are 0.000686984
+align 2 coalition 1
+align 3 forces 1
+align 4 can 1
+align 5 help 1
+align 6 training 0.999512 train 0.000407356 trained 8.04419e-05
+align 7 for 1 four 1.56544e-15
+align 8 you 1
+align 9 </s> 1

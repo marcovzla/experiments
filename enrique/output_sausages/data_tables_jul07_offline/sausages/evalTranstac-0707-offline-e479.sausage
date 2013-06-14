@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i've 1
+align 3 heard 1
+align 4 that 1
+align 5 there 0.739719 *DELETE* 0.260281
+align 6 are 0.669738 there's 0.260281 is 0.0673976 *DELETE* 0.00258319
+align 7 some 1
+align 8 coming 1
+align 9 from 1
+align 10 the 1
+align 11 outside 1
+align 12 but 1
+align 13 i've 1
+align 14 also 1
+align 15 for 0.999673 heard 0.000326859
+align 16 the 0.9213 this 0.0773383 that 0.00136117
+align 17 *DELETE* 0.999633 some 0.000366951
+align 18 summer 0.999604 were 0.000366951 sumar 2.89076e-05
+align 19 rock 0.957908 rak 0.0236891 rocky 0.013163 raw 0.00523957
+align 20 these 0.885887 he's 0.0511284 use 0.021996 ease 0.019937 is 0.0137274 keys 0.00702657 you's 0.000297586 *DELETE* 9.39336e-13
+align 21 also 0.999906 all 9.41286e-05 zaal 7.78286e-09
+align 22 *DELETE* 0.999871 so 9.41364e-05 a 3.46501e-05 i 2.67944e-16
+align 23 </s> 1

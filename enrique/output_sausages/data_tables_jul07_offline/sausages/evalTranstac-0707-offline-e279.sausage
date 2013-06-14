@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 open 1
+align 3 the 1
+align 4 hood 1
+align 5 the 1
+align 6 trunk 1
+align 7 all 1
+align 8 the 0.910845 of 0.0891552
+align 9 *DELETE* 0.910845 the 0.0891552
+align 10 doors 1
+align 11 and 0.653464 in 0.336021 *DELETE* 0.0101003 of 0.000350511 an 5.23854e-05 on 1.17738e-05
+align 12 any 0.9462 an 0.0424416 many 0.0113582
+align 13 internal 1
+align 14 compartments 1
+align 15 so 1
+align 16 that 1
+align 17 they 1
+align 18 can 1
+align 19 be 1
+align 20 searched 1
+align 21 *DELETE* 0.999868 it 5.12376e-05 uh 4.95121e-05 i 2.14089e-05 a 4.92772e-06 if 4.13136e-06 the 3.63218e-07 us 1.5271e-07 in 1.12737e-07
+align 22 </s> 1

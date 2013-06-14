@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 my 1
+align 2 name 1
+align 3 is 1
+align 4 uh 1
+align 5 *DELETE* 0.993746 uh 0.0062541
+align 6 mister 1
+align 7 david 1
+align 8 uh 0.988362 um 0.0116383
+align 9 *DELETE* 0.996716 i 0.00174602 oh 0.00153761
+align 10 with 1
+align 11 the 1
+align 12 u._s. 1
+align 13 coalition 1
+align 14 forces 0.999979 forces' 1.3997e-05 force's 6.52817e-06
+align 15 *DELETE* 0.999957 uh 4.26878e-05
+align 16 </s> 1

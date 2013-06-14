@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 that 1
+align 3 water 1
+align 4 safe 1
+align 5 to 1
+align 6 drink 1
+align 7 *DELETE* 0.99997 it 2.95935e-05
+align 8 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 you're 0.903902 *DELETE* 0.0706171 you 0.0186538 your 0.0068274
+align 3 a 0.869167 your 0.0706171 *DELETE* 0.0410563 are 0.0191596 were 5.54876e-12
+align 4 proper 0.997707 a 0.00229291
+align 5 *DELETE* 0.997707 proper 0.00229291
+align 6 example 1
+align 7 is 0.987795 it's 0.00947102 his 0.00273353
+align 8 very 1
+align 9 important 1
+align 10 to 0.933286 too 0.040157 two 0.0243827 tea 0.00217478
+align 11 *DELETE* 0.761104 you 0.236566 your 0.00233032
+align 12 weapon 0.77816 weapons 0.192319 weapon's 0.0295215
+align 13 safety 1
+align 14 *DELETE* 1 i 1.82487e-13
+align 15 </s> 1

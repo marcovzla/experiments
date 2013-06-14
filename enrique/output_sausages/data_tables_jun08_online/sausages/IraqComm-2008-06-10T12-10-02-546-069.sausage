@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 trouble 1
+align 5 with 0.999678 would 0.000151122 at 0.000126159 it 4.49818e-05 wait 3.46647e-11 wood 1.99696e-15 in 8.38674e-16 if 9.70632e-21
+align 6 insurgents 0.99988 the 0.000114716 *DELETE* 5.68998e-06
+align 7 *DELETE* 0.999879 insurgents 0.000114716 insurgents' 3.6427e-06 insurgence 2.04728e-06 uh 1.14163e-07
+align 8 </s> 1

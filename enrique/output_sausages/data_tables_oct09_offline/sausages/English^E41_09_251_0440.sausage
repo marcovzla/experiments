@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 this 0.735407 yes 0.209018 *DELETE* 0.055575
+align 2 is 0.92378 missus 0.055575 this 0.018401 it's 0.0010276 his 0.000661512 as 0.000324835 iz 0.000230126
+align 3 to 1
+align 4 prevent 1
+align 5 all 0.871407 uh 0.0367946 i'll 0.0340285 of 0.0235407 off 0.00866821 out 0.00704201 up 0.00688692 us 0.00618716 are 0.00290049 or 0.00116666 it 0.000979243 a 0.000398071
+align 6 from 1
+align 7 those 1
+align 8 longs 0.514453 long's 0.462714 logs 0.0184829 lungs 0.00266665 long 0.00168366
+align 9 filling 0.997818 feeling 0.00157196 stealing 0.000551151 ceiling 5.93723e-05
+align 10 up 1
+align 11 with 1
+align 12 the 0.993088 of 0.00409791 uh 0.00276377 a 4.99688e-05
+align 13 blood 0.991734 uh 0.00793664 bullet 0.000254919 bloody 5.99016e-05 black 1.38855e-05 blind 3.71819e-07
+align 14 *DELETE* 0.992063 blood 0.00793664 in 2.74762e-07 i 2.05174e-08 uh 1.99539e-08 it 1.16284e-08
+align 15 </s> 1

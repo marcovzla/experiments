@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 money 0.992668 my 0.00733181
+align 2 *DELETE* 0.992668 knee 0.00733181
+align 3 for 0.999984 four 1.58393e-05
+align 4 what 0.97642 war 0.0202392 want 0.00152007 work 0.0011994 were 0.000519128 we're 0.000102121 one 4.34186e-09 *DELETE* 1.07041e-12 a 5.64104e-18
+align 5 *DELETE* 0.997849 i 0.00146411 out 0.000621254 uh 5.11951e-05 you 8.24104e-06 is 3.89708e-06 a 2.34592e-06 watt 4.76631e-08 to 4.24899e-10 it 3.01072e-10 i'm 8.77037e-14 one 2.64343e-16 what 5.64104e-18
+align 6 </s> 1

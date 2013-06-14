@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 with 0.979966 well 0.0149265 live 0.00405594 where 0.00102905 *DELETE* 2.22222e-05 where's 1.24027e-07 wolf 2.5595e-12
+align 2 *DELETE* 0.99999 if 1.00163e-05
+align 3 what 0.998113 *DELETE* 0.00188712
+align 4 *DELETE* 0.999978 if 2.22222e-05
+align 5 *DELETE* 0.988905 i 0.006712 uh 0.00139314 wet 0.00116505 you 0.000749468 way 0.000394876 one 0.000235701 i'm 0.000138003 well 8.68731e-05 if 7.57337e-05 it 6.47051e-05 is 4.68558e-05 what 2.22222e-05 we 5.5102e-06 wed 3.55591e-06 weigh 8.35961e-07 whey 2.2212e-07 do 1.82072e-07 with 1.03758e-08 i've 4.05795e-11 was 1.6152e-11 he 4.39252e-13 weapons 5.94857e-14 west 4.36975e-17 what's 4.17135e-19 to 8.16866e-22
+align 6 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 other 1
+align 4 units 0.960269 unit's 0.0397311
+align 5 do 1
+align 6 you 0.999987 your 1.30809e-05
+align 7 work 1
+align 8 with 0.999077 *DELETE* 0.000923411
+align 9 *DELETE* 0.999034 what 0.000490831 well 0.00043258 uh 2.38198e-05 us 1.64029e-05 a 1.90815e-06 worth 1.01448e-10
+align 10 </s> 1

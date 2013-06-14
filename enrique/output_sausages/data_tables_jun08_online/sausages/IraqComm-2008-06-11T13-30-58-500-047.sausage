@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 plan 0.999868 kind 0.000132241
+align 5 of 1
+align 6 action 1
+align 7 </s> 1

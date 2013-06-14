@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 but 1
+align 3 we 1
+align 4 do 1
+align 5 not 1
+align 6 have 1
+align 7 all 1
+align 8 the 0.999936 they 6.39055e-05
+align 9 *DELETE* 0.998228 who 0.00146644 the 0.00023314 go 6.39055e-05 legal 8.94687e-06
+align 10 *DELETE* 0.999768 who 0.000231548
+align 11 *DELETE* 0.998221 in 0.00176783 wind 9.20637e-06 green 1.36558e-06 and 1.7786e-07
+align 12 equipment 0.997442 it 0.00177531 women 0.000604965 agreement 9.95258e-05 equipments 5.35003e-05 *DELETE* 2.44525e-05
+align 13 *DELETE* 0.999774 i 0.000140966 uh 5.68025e-05 commitment 1.83564e-05 that 3.26804e-06 to 3.06552e-06 admit 2.82809e-06 you 2.78151e-07 the 1.52201e-10 and 1.33137e-11 in 2.08469e-12 grenade 9.12662e-19
+align 14 </s> 1

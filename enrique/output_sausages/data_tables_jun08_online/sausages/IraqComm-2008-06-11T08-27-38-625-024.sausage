@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999563 i 0.000436522
+align 2 i'm 0.996173 i 0.00382691
+align 3 *DELETE* 0.996173 am 0.00382691
+align 4 going 1
+align 5 to 1
+align 6 ask 1
+align 7 you 1
+align 8 some 1
+align 9 questions 1
+align 10 is 0.999418 as 0.000581501 *DELETE* 3.47333e-13
+align 11 that 0.999738 out 0.000259865 not 1.70816e-06 at 8.30079e-12
+align 12 alright 0.713377 all 0.286623
+align 13 *DELETE* 0.713377 right 0.286623 it 2.43538e-12
+align 14 </s> 1

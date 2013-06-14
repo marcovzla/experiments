@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.526472 we 0.473528
+align 2 are 0.461202 we're 0.388904 you're 0.137568 were 0.012326
+align 3 going 1
+align 4 from 1
+align 5 house 1
+align 6 to 1
+align 7 house 1
+align 8 to 0.999946 *DELETE* 5.4473e-05
+align 9 determine 0.999946 determined 5.4473e-05
+align 10 who 1
+align 11 lives 1
+align 12 in 1
+align 13 this 1
+align 14 area 1
+align 15 *DELETE* 0.999994 uh 5.62476e-06 i 4.70389e-07
+align 16 </s> 1

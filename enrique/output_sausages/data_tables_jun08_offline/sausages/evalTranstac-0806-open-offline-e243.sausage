@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 one 1
+align 3 of 1
+align 4 the 1
+align 5 most 1
+align 6 important 1
+align 7 uh 0.496162 to 0.36841 the 0.135428
+align 8 *DELETE* 0.945562 the 0.0490798 to 0.00535783
+align 9 examples 1
+align 10 that 0.916327 it 0.0836731
+align 11 you 1
+align 12 can 1
+align 13 use 1 you 3.74091e-10
+align 14 *DELETE* 0.999265 it 0.00063518 a 9.95869e-05 to 2.50669e-07 use 3.74091e-10
+align 15 </s> 1

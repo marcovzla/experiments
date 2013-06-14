@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 0.905216 well 0.0942728 oh 0.000274575 *DELETE* 0.00023699
+align 2 do 0.999763 would 0.00023699
+align 3 you 0.999996 *DELETE* 4.48917e-06
+align 4 use 1
+align 5 for 0.811591 a 0.168133 foot 0.0182598 it 0.00190155 put 0.000115008
+align 6 *DELETE* 0.999998 foot 1.92336e-06 put 4.13995e-10
+align 7 *DELETE* 0.996318 for 0.00190155 back 0.00178047
+align 8 backup 0.99822 of 0.000896702 up 0.000617137 at 0.000266627
+align 9 power 1 *DELETE* 1.72589e-15
+align 10 *DELETE* 0.988752 or 0.00648267 uh 0.00426452 on 0.000272878 um 0.000129976 in 5.32061e-05 oh 4.42263e-05 now 2.83027e-07 our 2.24861e-12 i 2.4036e-14 you 1.64291e-15 and 7.36963e-16 to 3.46578e-17 all 6.66937e-19 o 5.7037e-22
+align 11 </s> 1

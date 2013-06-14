@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.991771 i 0.00822877
+align 3 will 1
+align 4 uh 1
+align 5 check 0.975075 uh 0.0129549 to 0.0119702
+align 6 *DELETE* 0.975075 check 0.0249251
+align 7 on 1
+align 8 this 1
+align 9 uh 1
+align 10 child 1
+align 11 again 1
+align 12 in 0.999992 and 8.39307e-06
+align 13 the 1
+align 14 next 1
+align 15 couple 1
+align 16 days 1
+align 17 uh 0.517395 so 0.482605
+align 18 *DELETE* 0.508338 uh 0.491662
+align 19 does 0.954341 this 0.0368141 the 0.00761057 did 0.000713075 these 0.000521581
+align 20 *DELETE* 0.725011 it 0.240436 is 0.0344936 the 5.96345e-05
+align 21 to 0.636257 the 0.363743
+align 22 check 1
+align 23 on 1
+align 24 his 1
+align 25 status 1
+align 26 </s> 1

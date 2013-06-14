@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 another 1
+align 4 tourniquet 0.901518 tariq 0.0940246 target 0.00149899 charlie 0.00140714 time 0.000781002 tire 0.000526396 turn 0.000232988 *DELETE* 1.07624e-05 child 6.01998e-07
+align 5 *DELETE* 0.998308 a 0.00116103 to 0.000530085 it 6.4442e-07
+align 6 *DELETE* 0.901073 kit 0.0449523 hit 0.0438823 here 0.00707402 it 0.00179494 kid 0.000654502 i 0.000297932 uh 0.000156466 a._k. 4.86634e-05 is 2.44115e-05 at 1.33172e-05 tourniquets 1.07624e-05 um 7.43277e-06 you 7.21953e-06 in 1.3328e-06 do 9.76238e-07 if 8.89644e-07 and 1.16948e-11 can 1.80617e-20
+align 7 </s> 1

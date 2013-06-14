@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 came 0.858638 kamal 0.141362
+align 2 alone 0.858638 own 0.141362
+align 3 uh 1
+align 4 some 1
+align 5 marines 0.996306 uh 0.00369351
+align 6 *DELETE* 0.996306 marines 0.00369351
+align 7 brought 1
+align 8 him 1
+align 9 into 0.998448 in 0.00155187
+align 10 *DELETE* 0.998448 to 0.00155187
+align 11 the 1
+align 12 hospital 1
+align 13 *DELETE* 0.999995 i 5.17095e-06
+align 14 </s> 1

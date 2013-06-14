@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 is 0.999177 yes 0.000771418 if 5.20555e-05
+align 2 this 1
+align 3 house 0.99596 have 0.00235988 how 0.00167981
+align 4 a 0.486633 so 0.485676 oh 0.0089288 of 0.00891187 uh 0.00812353 what 0.00147202 in 0.000255213
+align 5 weapon 0.998743 weapons 0.00125744
+align 6 *DELETE* 0.999816 uh 0.000149424 i 3.01057e-05 you 4.57477e-06 a 1.29643e-07 in 1.7063e-08 um 1.32868e-13 to 8.91636e-21 do 1.64586e-21 it 4.15705e-24
+align 7 </s> 1

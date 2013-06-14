@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 construction 1
+align 6 licenses 0.999799 in 0.000200927 license 3.26374e-09
+align 7 *DELETE* 0.999615 licenses 0.000200927 uh 7.82568e-05 to 6.10849e-05 i 3.83492e-05 if 4.3726e-06 it 8.09674e-07 a 7.80457e-07 so 2.70649e-07 and 3.27107e-08 is 3.26374e-09
+align 8 </s> 1

@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 well 0.969939 was 0.0246145 we'll 0.00544625
+align 2 as 0.878365 *DELETE* 0.121062 is 0.000573304
+align 3 for 0.987308 far 0.00904734 suppose 0.00364478
+align 4 the 0.993832 a 0.00364478 as 0.00252295
+align 5 *DELETE* 0.997477 a 0.002516 the 6.95244e-06
+align 6 camera 1
+align 7 situation 1
+align 8 we 1
+align 9 i 1
+align 10 would 1
+align 11 be 1
+align 12 glad 1
+align 13 to 1
+align 14 help 1
+align 15 you 1
+align 16 with 1
+align 17 that 1
+align 18 *DELETE* 0.999879 uh 0.000115173 i 5.93583e-06
+align 19 </s> 1

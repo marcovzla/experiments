@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 could 1
+align 2 you 1
+align 3 elaborate 1
+align 4 more 1
+align 5 *DELETE* 0.995085 uh 0.00391308 i 0.000742213 you 6.50591e-05 a 6.18033e-05 to 6.07243e-05 in 3.36981e-05 it 1.92777e-05 do 1.1171e-05 if 8.17461e-06 of 8.49534e-08 i'm 4.52194e-08 and 8.17082e-09 is 4.00487e-10
+align 6 </s> 1

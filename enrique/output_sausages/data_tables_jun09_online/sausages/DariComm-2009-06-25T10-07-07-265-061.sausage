@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 supplies 1
+align 3 do 1
+align 4 you 1 *DELETE* 1.58447e-13 your 1.38165e-15
+align 5 require 1
+align 6 *DELETE* 0.99995 a 2.48092e-05 uh 1.40976e-05 in 1.08487e-05 it 9.74513e-10
+align 7 </s> 1

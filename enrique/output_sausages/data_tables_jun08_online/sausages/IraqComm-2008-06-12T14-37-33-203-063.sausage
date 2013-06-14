@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 is 0.975891 does 0.0121271 his 0.011982
+align 2 that 1
+align 3 area 0.935433 a 0.0645675
+align 4 *DELETE* 0.930172 area 0.0645675 a 0.00386242 it 0.00137234 of 2.59427e-05
+align 5 dangerous 0.99991 dangers 8.96617e-05
+align 6 *DELETE* 0.999882 uh 6.47996e-05 i 5.33479e-05
+align 7 </s> 1

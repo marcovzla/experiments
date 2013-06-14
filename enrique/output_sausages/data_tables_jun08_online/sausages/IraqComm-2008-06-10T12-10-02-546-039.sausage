@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 done 1
+align 4 security 1
+align 5 training 1
+align 6 *DELETE* 0.99994 uh 4.92175e-05 i 1.08145e-05 a 4.37624e-07
+align 7 </s> 1

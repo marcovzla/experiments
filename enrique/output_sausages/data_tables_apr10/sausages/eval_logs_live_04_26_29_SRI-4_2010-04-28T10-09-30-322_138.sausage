@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 were 1
+align 2 they 1
+align 3 wearing 1
+align 4 gray 1
+align 5 or 0.997869 i 0.00213104
+align 6 *DELETE* 0.997869 or 0.00213104
+align 7 brown 0.999961 round 3.88113e-05
+align 8 uniforms 0.999991 uniform 8.88668e-06
+align 9 *DELETE* 0.999987 so 8.88668e-06 i 3.67522e-06
+align 10 </s> 1

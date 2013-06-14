@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 0.998998 were 0.00100157
+align 2 you 0.989898 are 0.010102
+align 3 *DELETE* 0.989898 you 0.010102
+align 4 going 0.999957 *DELETE* 4.29177e-05
+align 5 *DELETE* 0.999929 go 4.29177e-05 to 2.85364e-05
+align 6 </s> 1

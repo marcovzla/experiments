@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 the 0.991411 they 0.00858876
+align 3 elderly 1
+align 4 people 1
+align 5 suffer 1
+align 6 from 1
+align 7 any 1
+align 8 specific 1
+align 9 health 0.999988 help 1.16753e-05
+align 10 problems 0.988707 problem 0.0112933
+align 11 *DELETE* 0.999967 uh 3.28859e-05 so 2.71951e-16
+align 12 </s> 1

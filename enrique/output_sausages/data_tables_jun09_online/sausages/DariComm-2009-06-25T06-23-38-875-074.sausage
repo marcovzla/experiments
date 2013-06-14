@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 types 1
+align 3 of 1
+align 4 jobs 1
+align 5 are 0.997451 i 0.00253149 our 1.22506e-05 or 5.43237e-06
+align 6 needed 0.995142 need 0.00485761
+align 7 *DELETE* 0.994919 it 0.00492186 uh 6.03597e-05 in 3.18416e-05 a 2.94411e-05 to 2.20915e-05 i 1.54136e-05 them 2.46803e-08 how 7.84695e-10
+align 8 </s> 1

@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 will 1
+align 3 i 1
+align 4 will 1
+align 5 try 1
+align 6 to 1
+align 7 help 1
+align 8 you 1
+align 9 and 1
+align 10 uh 1
+align 11 see 0.9699 uh 0.0301002
+align 12 *DELETE* 0.9699 see 0.0301002
+align 13 if 1
+align 14 we 1
+align 15 can 1
+align 16 get 1
+align 17 some 1
+align 18 additional 1
+align 19 equipment 1
+align 20 for 1
+align 21 you 1
+align 22 but 1
+align 23 uh 1
+align 24 it 1
+align 25 it's 1
+align 26 it 0.99728 a 0.00120556 eight 0.000651298 *DELETE* 0.00029283 hit 0.000285502 here 0.00022542 in 3.95153e-05 uh 2.0304e-05
+align 27 is 0.999974 it's 2.57228e-05 his 3.01651e-07 as 2.45807e-10
+align 28 difficult 1
+align 29 *DELETE* 0.999999 i 1.42261e-06
+align 30 </s> 1

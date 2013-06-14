@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 weapons 1
+align 5 *DELETE* 0.995821 uh 0.00309262 do 0.000486882 i 0.000248968 in 0.000124209 he 0.000120435 you 4.29315e-05 to 1.31594e-05 and 1.23879e-05 are 1.02806e-05 is 9.53656e-06 it 8.65588e-06 they 4.84088e-06 that 2.0781e-06 the 1.66329e-06 a 4.50344e-08 like 1.75098e-09 did 1.60961e-09 does 7.43746e-11 but 2.72464e-11 can 4.64851e-13 i'm 3.04e-14 were 1.83411e-15
+align 6 </s> 1

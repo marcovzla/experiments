@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 also 1
+align 3 have 1
+align 4 medevac 1
+align 5 capability 0.99689 capabilities 0.00310987
+align 6 with 0.992124 what 0.00787572
+align 7 the 0.959193 a 0.0403224 that 0.000484276
+align 8 helicopters 0.997945 helicopter's 0.00205463
+align 9 *DELETE* 0.999982 uh 1.84571e-05 i 3.10438e-11
+align 10 </s> 1

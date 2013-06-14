@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 route 1
+align 3 we 1
+align 4 are 1
+align 5 taking 1
+align 6 in 1
+align 7 the 1
+align 8 past 1
+align 9 twenty 1
+align 10 four 1
+align 11 hours 1
+align 12 can 1
+align 13 you 1
+align 14 describe 1
+align 15 all 1
+align 16 the 1
+align 17 activity 1
+align 18 that 0.99992 there 8.02694e-05
+align 19 is 0.997648 has 0.0017094 it's 0.000643059
+align 20 taking 0.98366 taken 0.0163395
+align 21 place 1
+align 22 </s> 1

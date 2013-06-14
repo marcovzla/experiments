@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 also 0.996052 i 0.00394768
+align 2 *DELETE* 0.996052 also 0.00394768
+align 3 some 1
+align 4 of 0.997229 *DELETE* 0.00277107
+align 5 your 1
+align 6 equipment 1
+align 7 with 0.998817 would 0.0011834
+align 8 your 1
+align 9 vehicles 1
+align 10 in 0.77391 and 0.22609
+align 11 your 0.997742 you're 0.00225786
+align 12 a._k.s 1
+align 13 were 0.82305 we're 0.17695
+align 14 rusted 1
+align 15 meaning 1
+align 16 that 0.989776 it 0.0102243
+align 17 they're 0.927502 there 0.0496874 they 0.0228101
+align 18 *DELETE* 0.976223 are 0.0237767
+align 19 not 1
+align 20 conducting 1
+align 21 personal 1
+align 22 maintenance 1
+align 23 of 1
+align 24 their 0.987852 there 0.00795528 they're 0.00416686 they 2.55366e-05
+align 25 *DELETE* 0.999974 are 2.55366e-05
+align 26 gear 0.967679 do 0.0295971 dear 0.00272358
+align 27 *DELETE* 0.970403 year 0.0272934 your 0.00160949 you 0.000694216
+align 28 *DELETE* 0.999787 or 0.000213328 are 1.27832e-07 you're 3.07839e-08
+align 29 </s> 1

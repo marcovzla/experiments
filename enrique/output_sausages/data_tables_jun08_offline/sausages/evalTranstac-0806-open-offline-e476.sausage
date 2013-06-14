@@ -1,0 +1,33 @@
+numaligns 31
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 *DELETE* 0.813591 you 0.186409
+align 4 do 0.676155 *DELETE* 0.323845
+align 5 you 1.49454 they 1.52161e-05
+align 6 *DELETE* 0.800596 do 0.121117 hear 0.0503129 he 0.0279749
+align 7 *DELETE* 0.991699 it 0.0081219 they 0.00013179 the 2.86949e-05 he 1.84915e-05
+align 8 *DELETE* 1 do 1.73191e-08
+align 9 what 1
+align 10 do 1
+align 11 you 1
+align 12 anticipate 1
+align 13 being 1
+align 14 the 1
+align 15 most 1
+align 16 uh 1
+align 17 dangerous 0.993796 uh 0.00442812 a 0.0017756
+align 18 *DELETE* 0.993796 dangerous 0.00620372
+align 19 course 1
+align 20 of 1
+align 21 action 1
+align 22 the 1
+align 23 enemy 1
+align 24 can 1
+align 25 take 1
+align 26 on 1
+align 27 this 1
+align 28 rain 0.448216 rate 0.275028 range 0.101507 ray 0.0856127 reign 0.0448626 raye 0.0200742 rey 0.00721012 re 0.00596041 raids 0.00432009 reda 0.00340208 rae 0.00126281 rape 0.00096759 rea 0.000668272 raheeb 0.00042291 raise 0.000269853 'rayyim 0.000107202 race 5.0253e-05 rates 4.79575e-05 rains 9.98076e-06
+align 29 *DELETE* 0.99977 in 0.000227018 and 1.59861e-06 it 1.5738e-06 i 7.60162e-08
+align 30 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.9996 well 0.000372725 *DELETE* 2.74811e-05
+align 2 is 0.993109 does 0.00258071 i 0.00213041 was 0.00108518 *DELETE* 0.000988472 a 0.000106159
+align 3 your 0.99673 sure 0.00216571 assure 0.000560697 asia 0.000237482 show 0.000211146 shirt 6.70592e-05 washer 2.74811e-05
+align 4 transportation 1
+align 5 to 0.999329 too 0.000608538 two 4.15102e-05 into 2.05759e-05
+align 6 the 0.95212 this 0.0478706 to 9.1974e-06
+align 7 school 1
+align 8 *DELETE* 0.99999 in 9.69373e-06 uh 3.28206e-18 now 1.07779e-20
+align 9 </s> 1

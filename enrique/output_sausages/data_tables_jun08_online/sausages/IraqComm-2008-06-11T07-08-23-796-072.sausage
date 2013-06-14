@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 subcontractors 1
+align 4 you 0.62338 *DELETE* 0.348224 she 0.0281634 do 0.000232513
+align 5 have 0.613848 shia 0.291795 *DELETE* 0.0403768 sheeha 0.0368488 here 0.0146222 shoe 0.00224464 in 0.000263976
+align 6 *DELETE* 0.999783 uh 0.000110774 a 8.66641e-05 of 1.773e-05 i 1.51901e-06 to 4.35998e-08 half 3.97994e-10 sheet 8.44197e-11 yeah 6.29138e-13 shit 3.68919e-13 u 9.05281e-17 if 9.35962e-20 sheep 8.52995e-21 shoot 5.60522e-21 share 1.21521e-21 had 1.12655e-21 she'll 1.12148e-21 shya 6.45856e-24 sheehan 3.35549e-24
+align 7 </s> 1

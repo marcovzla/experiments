@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 give 0.999575 get 0.000425021
+align 2 it 1
+align 3 to 1
+align 4 him 1
+align 5 uh 1
+align 6 two 0.965735 uh 0.0341657 three 6.29042e-05 to 3.66653e-05
+align 7 *DELETE* 0.965834 two 0.0341657
+align 8 times 1
+align 9 a 1
+align 10 day 1
+align 11 </s> 1

@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 it 0.997735 that 0.00226504
+align 3 uh 0.992537 out 0.00673345 *DELETE* 0.000730047
+align 4 *DELETE* 0.962376 uh 0.0268186 are 0.0108056
+align 5 within 0.893208 with 0.106062 *DELETE* 0.000729901
+align 6 a 0.897194 the 0.102806
+align 7 *DELETE* 0.99927 uh 0.000729901
+align 8 *DELETE* 0.99927 with 0.000729901
+align 9 *DELETE* 0.999238 the 0.000735622 a 2.61392e-05
+align 10 week 0.998748 weak 0.00125212 *DELETE* 4.88525e-14
+align 11 or 1 weaker 6.05388e-10
+align 12 so 1
+align 13 </s> 1

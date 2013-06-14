@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 you're 0.989514 you 0.0100684 your 0.000417796
+align 3 not 1
+align 4 coming 0.997486 come 0.0025136
+align 5 out 0.987912 *DELETE* 0.012088
+align 6 of 0.999937 *DELETE* 6.32644e-05
+align 7 the 0.984339 a 0.0156607
+align 8 vehicle 0.999999 vehicles 9.94356e-07
+align 9 *DELETE* 0.997942 uh 0.00199053 i 5.11962e-05 if 4.84863e-06 eye 3.67154e-06 it 2.48907e-06 at 1.79133e-06 oh 1.30702e-06 a 1.06197e-06 are 5.23338e-07 in 2.84223e-07 out 1.84307e-07 up 1.75153e-07 us 9.29456e-08 of 9.14972e-08 as 4.63308e-08 off 1.10898e-08
+align 10 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 well-trained 1
+align 3 are 0.455785 or 0.405849 well 0.0660963 all 0.0560166 while 0.00708346 our 0.00408386 oh 0.00367035 where 0.00141559
+align 4 your 0.922115 you're 0.0716661 year 0.0062194
+align 5 nurses 0.995999 nurses' 0.00207392 nurse's 0.00185032 nurse 7.70439e-05
+align 6 *DELETE* 0.998977 in 0.000183574 i 0.000178084 uh 0.000158335 too 0.000121115 do 8.87861e-05 you 8.60527e-05 is 7.79604e-05 to 6.62071e-05 if 2.2314e-05 that 1.08838e-05 it 8.93099e-06 and 8.79195e-06 so 4.00622e-06 the 3.64588e-06 a 2.14716e-06 with 1.25661e-06 did 9.13973e-07 who 3.18999e-07 but 1.10876e-07 at 2.52597e-08 are 5.11141e-10
+align 7 </s> 1

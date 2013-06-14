@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 your 0.984973 you 0.0150271
+align 3 *DELETE* 0.984973 or 0.0150271
+align 4 weapons 1
+align 5 and 1
+align 6 your 0.914225 good 0.0441535 get 0.0287775 the 0.00462592 they 0.00346785 giga 0.00136859 gate 0.00102169 *DELETE* 0.000921453 you 0.000728217 dig 0.000710107
+align 7 *DELETE* 0.998548 a 0.000669723 gay 0.000368836 gave 0.00014945 give 0.000104894 take 7.0964e-05 you're 5.48483e-05 get 1.65625e-05 to 1.41009e-05 do 1.8927e-06 pay 1.11124e-06
+align 8 condition 0.999912 *DELETE* 8.76736e-05
+align 9 *DELETE* 0.999169 is 0.000373671 i 0.000198732 uh 5.49541e-05 conditioned 5.44911e-05 conditions 3.31825e-05 you 2.71991e-05 sir 1.42771e-05 do 1.3243e-05 it 1.27362e-05 now 1.24291e-05 in 1.15271e-05 the 9.03212e-06 and 4.29672e-06 that 4.20717e-06 to 2.76066e-06 like 2.2035e-06 so 1.41196e-06 with 6.45234e-07 of 2.45424e-07 as 1.31906e-07 but 4.59404e-08 does 3.82202e-15
+align 10 </s> 1

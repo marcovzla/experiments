@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 saying 1
+align 4 you 0.814178 he 0.0807633 they 0.0643306 the 0.0400424 *DELETE* 0.000562034 you're 0.000123562
+align 5 require 1
+align 6 protection 1 a 1.90818e-08 *DELETE* 2.85132e-17
+align 7 *DELETE* 0.9998 i 0.000121473 uh 7.80298e-05 a 2.52289e-07 protections 2.24059e-08 protection 1.90818e-08 you 4.757e-10 at 3.59211e-12 is 1.87897e-12 it 8.37274e-13 and 2.0939e-13 to 4.01451e-19
+align 8 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 there 1
+align 2 are 1
+align 3 many 1
+align 4 civilians 1
+align 5 in 0.999195 and 0.00080534
+align 6 the 1
+align 7 surrounding 1
+align 8 area 1
+align 9 *DELETE* 0.999999 i 5.4622e-07 uh 8.68913e-08
+align 10 </s> 1

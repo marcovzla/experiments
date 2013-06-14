@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 uh 0.8041 alright 0.162943 i 0.0277931 oh 0.0051634
+align 2 *DELETE* 0.989297 i 0.00739456 uh 0.00330875
+align 3 individuals 0.940119 i 0.0414873 uh 0.0119021 individual's 0.00649152
+align 4 *DELETE* 0.946611 individuals 0.0523869 i 0.00100254
+align 5 *DELETE* 0.998997 individuals 0.00100254
+align 6 don't 1
+align 7 drink 0.991453 *DELETE* 0.00852078 turn 2.64049e-05
+align 8 enough 0.911362 and 0.0632267 in 0.0138801 drinking 0.00852078 a 0.00288205 the 7.28105e-05 to 4.38401e-05 they 1.20143e-05
+align 9 *DELETE* 0.911362 of 0.0842109 no 0.00243177 know 0.00199556
+align 10 *DELETE* 0.995573 if 0.00442734
+align 11 water 1
+align 12 *DELETE* 0.999909 or 8.73361e-05 i 1.90352e-06 uh 1.65167e-06
+align 13 </s> 1

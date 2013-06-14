@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 first 1
+align 3 that 1
+align 4 you 0.999645 if 0.000354972
+align 5 are 0.999645 a 0.000354972
+align 6 performing 1
+align 7 first 0.990587 a 0.00941349
+align 8 *DELETE* 0.990587 first 0.00941349
+align 9 aid 1
+align 10 will 0.968287 we'll 0.0317127
+align 11 be 1
+align 12 check 0.807417 checked 0.192583
+align 13 the 0.999928 though 3.19495e-05 that 2.32159e-05 *DELETE* 1.30119e-05 to 4.29382e-06
+align 14 breathing 0.952042 bleeding 0.0367731 breeding 0.0111816 breed 3.03551e-06
+align 15 *DELETE* 0.99954 uh 0.00026737 i 0.000116036 in 3.08623e-05 and 3.06046e-05 you 1.11413e-05 thing 3.03551e-06 it 8.57209e-07 is 1.1051e-08 um 1.74839e-09 do 9.14282e-11 that 5.07654e-11 if 1.37873e-13
+align 16 </s> 1

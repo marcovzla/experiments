@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 doctors 1
+align 4 work 1
+align 5 for 1 four 1.59048e-07
+align 6 you 0.999066 him 0.000702891 your 0.000231133
+align 7 *DELETE* 0.999673 um 0.000189693 now 6.20252e-05 uh 5.42059e-05 all 8.00334e-06 know 6.75672e-06 i 3.76455e-06 you 2.74342e-06 on 2.74192e-08 in 1.61596e-09 or 3.98705e-10
+align 8 </s> 1

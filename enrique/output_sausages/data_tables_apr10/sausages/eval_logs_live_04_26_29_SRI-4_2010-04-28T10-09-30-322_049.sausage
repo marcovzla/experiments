@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 does 1
+align 3 the 1
+align 4 water 1
+align 5 come 1
+align 6 from 1
+align 7 right 1 write 2.98433e-07
+align 8 now 1
+align 9 *DELETE* 0.999949 uh 4.53634e-05 i 5.93327e-06
+align 10 </s> 1

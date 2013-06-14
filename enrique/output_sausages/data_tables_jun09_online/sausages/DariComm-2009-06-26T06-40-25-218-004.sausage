@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.510476 *DELETE* 0.4884 okay 0.00112359
+align 2 peter 0.550558 computer 0.380561 computers 0.0677567 they 0.00112359
+align 3 say 1
+align 4 again 0.999995 *DELETE* 4.74525e-06
+align 5 *DELETE* 0.99957 i 0.000265232 uh 0.000157454 against 4.74525e-06 um 1.38975e-06 to 7.27862e-07 a 4.82639e-07 it 3.6298e-07 and 3.03944e-10
+align 6 </s> 1

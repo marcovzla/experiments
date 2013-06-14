@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i'm 0.69363 i 0.30637
+align 3 *DELETE* 0.69363 am 0.306126 i'm 0.000243812
+align 4 very 1
+align 5 good 1
+align 6 friends 1
+align 7 with 0.999997 of 3.46004e-06
+align 8 him 1
+align 9 in 0.832393 and 0.166795 man 0.000646068 men 0.000137742 at 2.80209e-05 *DELETE* 4.47764e-12
+align 10 his 0.986122 is 0.0137298 as 0.000126688 its 1.69418e-05 iz 3.84289e-06 this 1.12204e-06 ines 6.14e-08 it's 1.89922e-11
+align 11 family 1 family's 4.91371e-08
+align 12 *DELETE* 0.999804 in 0.000196193
+align 13 </s> 1

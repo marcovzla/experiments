@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 people 1
+align 4 in 1
+align 5 your 1
+align 6 village 0.992703 *DELETE* 0.00729677
+align 7 or 0.887567 are 0.104359 villager 0.00729677 our 0.000576709 *DELETE* 0.000199984
+align 8 her 0.555184 hurt 0.424493 *DELETE* 0.0136663 or 0.00496321 more 0.000780844 are 0.000582161 a 0.000317046 if 1.08939e-05 it 9.17225e-07 the 8.20815e-07 do 7.03027e-07 um 2.01135e-07 is 8.37839e-08 ur 2.94585e-08 an 2.72408e-08 that 1.84385e-08 does 7.78939e-09 did 7.18115e-09 hire 1.86984e-09 your 1.7768e-09 as 1.88483e-15 i'm 1.47038e-17 how 1.36136e-30
+align 9 *DELETE* 0.998925 her 0.000190768 earlier 0.000162024 our 0.000120353 i 0.000118766 hur 0.000108455 or 9.44815e-05 uh 5.42418e-05 you 5.21795e-05 in 4.13468e-05 to 4.09718e-05 a 3.91295e-05 over 3.61591e-05 at 6.9745e-06 if 5.71996e-06 the 2.91543e-06 and 4.03114e-08 hurt 3.48719e-11 as 1.16513e-14 are 1.36136e-30
+align 10 </s> 1

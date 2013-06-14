@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 for 1
+align 4 the 0.999436 that 0.000564432
+align 5 information 1
+align 6 *DELETE* 0.999524 you 0.000264449 uh 0.000134713 i 2.68616e-05 that 2.08188e-05 and 1.57131e-05 is 1.38242e-05 in 1.21943e-11 to 6.14737e-12
+align 7 </s> 1

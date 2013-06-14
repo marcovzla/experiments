@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 uh 0.675502 um 0.316082 *DELETE* 0.00841587
+align 2 *DELETE* 0.993121 uh 0.0068792
+align 3 stop 1 *DELETE* 9.54283e-18
+align 4 the 1 stopped 2.49319e-12 *DELETE* 8.07332e-14
+align 5 vehicle 1 *DELETE* 4.06297e-19
+align 6 *DELETE* 0.999314 uh 0.000684 is 1.59152e-06 vehicles 2.15804e-13
+align 7 </s> 1

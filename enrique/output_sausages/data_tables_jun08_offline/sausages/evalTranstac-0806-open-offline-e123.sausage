@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 is 0.840784 as 0.130691 it's 0.028525
+align 2 a 0.975501 the 0.0169259 it 0.00757277
+align 3 *DELETE* 0.992427 a 0.00757277
+align 4 large 1
+align 5 like 0.97451 lake 0.0253043 sileikh 0.000185643
+align 6 more 1
+align 7 than 1
+align 8 five 1
+align 9 or 0.711425 four 0.243158 for 0.0454171
+align 10 or 0.935809 were 0.0641908
+align 11 less 0.998987 *DELETE* 0.0010052 a 7.96607e-06
+align 12 than 0.983306 in 0.00813783 and 0.00753412 lesson 0.000948066 lessen 6.50959e-05 then 9.29538e-06
+align 13 five 1
+align 14 </s> 1

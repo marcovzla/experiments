@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 did 1
+align 3 you 1
+align 4 have 1
+align 5 for 0.999683 four 0.000316787
+align 6 dinner 1
+align 7 *DELETE* 1 in 7.55161e-22 uh 1.39755e-22 i 1.35413e-22
+align 8 </s> 1

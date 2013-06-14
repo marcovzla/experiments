@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 well 0.99773 now 0.00227009
+align 2 it 0.44253 uh 0.305117 i 0.252354
+align 3 just 1
+align 4 to 0.999935 a 6.45805e-05
+align 5 be 1
+align 6 you 1
+align 7 know 1
+align 8 upfront 0.992505 uh 0.00749478
+align 9 *DELETE* 0.992505 upfront 0.00749478
+align 10 and 1
+align 11 uh 1
+align 12 truthful 0.998134 truth 0.00186646
+align 13 all 0.673598 *DELETE* 0.324535 full 0.00186646
+align 14 regardless 1
+align 15 of 0.99711 if 0.00289042
+align 16 anything 1
+align 17 that 1
+align 18 we 1
+align 19 uh 1
+align 20 *DELETE* 0.993234 i 0.00605959 a 0.000673724 it 3.30274e-05
+align 21 discuss 1
+align 22 your 0.837866 you 0.129825 you're 0.0312518 here 0.00105719
+align 23 today 1
+align 24 i 1
+align 25 won't 0.980008 i 0.0199923
+align 26 *DELETE* 0.980008 won't 0.0199923
+align 27 be 1
+align 28 *DELETE* 0.967541 i 0.0324592
+align 29 *DELETE* 0.95202 would 0.0317015 i'll 0.0155208 don't 0.000757701 of 2.03961e-07 all 2.03756e-17
+align 30 other 0.949498 let 0.04798 either 0.00252222 the 2.03961e-07
+align 31 madam 0.924414 him 0.0431202 let 0.0276056 *DELETE* 0.00485977
+align 32 *DELETE* 0.967535 him 0.0208517 them 0.0116137
+align 33 then 0.510017 them 0.45467 land 0.0353128
+align 34 go 0.969372 down 0.0297685 bell 0.000638117 dough 0.000220804 dell 1.28451e-07 *DELETE* 1.61546e-16
+align 35 *DELETE* 1 i 2.19039e-11 del 5.98916e-12
+align 36 </s> 1

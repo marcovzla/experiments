@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 can 1
+align 3 you 1
+align 4 show 1
+align 5 me 1
+align 6 on 1
+align 7 the 1
+align 8 map 1
+align 9 where 1
+align 10 uh 1
+align 11 where 0.74524 were 0.172125 we're 0.0826348
+align 12 the 1
+align 13 warehouse 0.999982 where 1.7633e-05
+align 14 is 0.999982 houses 1.7633e-05
+align 15 located 1
+align 16 *DELETE* 0.999572 at 0.000401171 in 2.6796e-05
+align 17 </s> 1

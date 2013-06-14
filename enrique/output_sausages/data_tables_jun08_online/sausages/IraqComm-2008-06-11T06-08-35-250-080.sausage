@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 is 0.999998 does 1.76509e-06
+align 2 it 1
+align 3 okay 1
+align 4 if 1
+align 5 i 1
+align 6 see 0.99997 *DELETE* 3.01211e-05
+align 7 these 0.977381 the 0.0211256 you 0.00115279 any 0.000255273 *DELETE* 4.62537e-05 c._v. 2.9931e-05 be 8.73113e-06 c._v.s 1.90091e-07
+align 8 things 0.999876 thinks 7.11183e-05 sphinx 5.27587e-05 *DELETE* 7.98462e-19
+align 9 *DELETE* 0.999997 uh 3.42436e-06 thing's 1.6671e-13 i 2.11611e-18 anything's 7.58337e-23
+align 10 </s> 1

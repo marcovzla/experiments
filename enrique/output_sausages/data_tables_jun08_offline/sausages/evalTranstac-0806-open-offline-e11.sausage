@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 what 0.848693 but 0.0733554 well 0.0562372 *DELETE* 0.0207751 we'll 0.000544726 will 0.000353956 when 4.06118e-05
+align 2 we 1
+align 3 can 1
+align 4 do 1
+align 5 a 0.84513 in 0.0871502 an 0.0278116 *DELETE* 0.0266592 and 0.0132494
+align 6 not 0.463327 nap 0.370612 uh 0.107899 ona 0.0266592 op 0.0195161 map 0.00780015 knot 0.0033907 i 0.000795774 up 1.46575e-10
+align 7 process 1
+align 8 be 0.54887 we 0.417432 b 0.0313027 *DELETE* 0.00239539
+align 9 will 0.99761 people 0.00239042
+align 10 assist 1
+align 11 you 1
+align 12 with 1
+align 13 that 0.992316 tap 0.00530596 the 0.0023689 *DELETE* 9.19933e-06
+align 14 *DELETE* 0.99996 uh 3.99806e-05
+align 15 process 1
+align 16 the 0.60983 of 0.357083 in 0.0102655 and 0.00728104 that 0.00519284 it 0.00418859 them 0.00302039 to 0.00120451 they 0.00111426 then 0.000802691 there 1.68518e-05
+align 17 maybe 0.996473 may 0.00352708
+align 18 *DELETE* 0.996473 be 0.00352708
+align 19 speed 1
+align 20 up 0.999994 it 6.03235e-06
+align 21 *DELETE* 0.999994 up 6.03235e-06
+align 22 there 1
+align 23 *DELETE* 0.979336 in 0.0206636
+align 24 and 0.979336 the 0.0200994 *DELETE* 0.000564151
+align 25 of 0.972313 uh 0.0276866
+align 26 the 1
+align 27 uh 1
+align 28 of 0.989688 uh 0.0103123
+align 29 *DELETE* 0.999999 uh 9.51045e-07
+align 30 the 1
+align 31 dealing 0.457987 deal 0.329842 dealings 0.203303 deals 0.00843826 dealers 0.000429895
+align 32 with 0.989155 is 0.00868708 but 0.00205734 put 0.000100128
+align 33 *DELETE* 0.991311 but 0.00308913 with 0.00308596 put 0.00251199 that 1.55169e-06
+align 34 this 0.973724 us 0.0262755 is 2.51183e-09
+align 35 </s> 1

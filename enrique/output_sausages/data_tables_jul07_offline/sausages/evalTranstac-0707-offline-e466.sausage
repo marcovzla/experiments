@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 we're 1
+align 2 doing 1
+align 3 our 1
+align 4 best 1
+align 5 to 0.990934 a 0.00898814 the 7.81905e-05
+align 6 stay 1
+align 7 out 1
+align 8 of 1
+align 9 your 1
+align 10 way 1
+align 11 in 0.997124 and 0.00287577
+align 12 your 1
+align 13 house 1
+align 14 *DELETE* 0.999985 uh 1.542e-05
+align 15 </s> 1

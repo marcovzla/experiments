@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 this 0.963589 it's 0.0257769 its 0.00924783 as 0.00111303 is 0.000114284 that's 0.000111338 yes 4.75251e-05
+align 2 would 0.999936 will 6.36364e-05
+align 3 have 1
+align 4 to 1
+align 5 be 1
+align 6 somebody 1
+align 7 who 1
+align 8 is 0.954924 was 0.0450764
+align 9 very 1
+align 10 very 1
+align 11 trusted 1
+align 12 *DELETE* 0.996483 me 0.0035173
+align 13 they 0.99789 i 0.00127221 that 0.000838158
+align 14 can 1
+align 15 go 1
+align 16 in 0.987113 and 0.0128873
+align 17 there 0.929207 their 0.0683405 they're 0.00245278
+align 18 tomorrow 1
+align 19 to 1
+align 20 see 1
+align 21 the 1
+align 22 insides 0.991541 inside 0.00678951 in 0.000821962 and 0.000492342 end 0.000355023
+align 23 *DELETE* 0.99833 sides 0.00166933 i 6.89157e-07 a 1.30177e-08 so 4.66683e-22
+align 24 </s> 1

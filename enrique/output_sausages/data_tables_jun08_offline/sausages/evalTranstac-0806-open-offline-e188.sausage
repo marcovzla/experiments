@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 that 1
+align 3 sounds 1
+align 4 good 1
+align 5 i 1
+align 6 will 1
+align 7 submit 1
+align 8 this 1
+align 9 list 0.989395 less 0.010557 last 4.76061e-05
+align 10 to 0.998945 too 0.00105528 two 1.90878e-09
+align 11 my 1
+align 12 superiors 1
+align 13 </s> 1

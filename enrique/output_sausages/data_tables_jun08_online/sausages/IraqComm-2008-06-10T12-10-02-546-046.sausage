@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.909437 you 0.0467436 i 0.0322932 we 0.00787297 a 0.00260005 eight 0.000912611 he 0.000140362
+align 2 have 1
+align 3 you 0.927281 *DELETE* 0.0727192
+align 4 ask 0.537823 asked 0.389458 u._s. 0.0727192
+align 5 local 1
+align 6 leaders 0.998746 liters 0.0012379 leader's 1.17409e-05 leaders' 3.91234e-06
+align 7 *DELETE* 1 i 7.98918e-14
+align 8 </s> 1

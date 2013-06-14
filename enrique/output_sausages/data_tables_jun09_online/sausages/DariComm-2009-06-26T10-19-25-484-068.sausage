@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 any 1
+align 3 reconstruction 1
+align 4 teams 0.998206 team's 0.00179415
+align 5 come 0.99814 comes 0.00186033
+align 6 through 0.999417 threw 0.000583465
+align 7 before 0.999976 a 2.41756e-05
+align 8 *DELETE* 0.986332 or 0.0106619 uh 0.00146756 our 0.000686373 i 0.000433625 you 0.00016388 now 0.000100942 um 4.16005e-05 we 2.46092e-05 it 2.45325e-05 before 2.41756e-05 a 2.30451e-05 the 1.61547e-05 us 3.75429e-08 and 8.7309e-10 are 7.20735e-10 to 2.58488e-11 in 8.92345e-13
+align 9 </s> 1

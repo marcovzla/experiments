@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 were 0.998212 where 0.00105376 we're 0.000650985 more 8.36832e-05
+align 5 there 0.999137 their 0.000634479 they're 0.000228093
+align 6 </s> 1

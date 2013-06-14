@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 there 0.842263 they 0.157737
+align 2 are 1
+align 3 many 1
+align 4 different 1
+align 5 types 1
+align 6 of 1
+align 7 medicine 1
+align 8 used 0.546038 use 0.415228 you 0.0387336 *DELETE* 4.01567e-23
+align 9 *DELETE* 0.961266 use 0.0387336 you's 1.02794e-07
+align 10 for 0.99368 four 0.00632048
+align 11 painting 0.972516 praying 0.0210712 paying 0.0037262 pain 0.00268673
+align 12 and 0.993864 an 0.00452852 in 0.00160766
+align 13 injuries 0.999544 injury 0.000456296
+align 14 *DELETE* 0.999386 so 0.000428641 uh 7.94264e-05 sir 5.16118e-05 or 3.38721e-05 are 9.99526e-06 you 9.87566e-06 i 6.57599e-07 and 8.22367e-09 in 1.02334e-10 all 1.54091e-17 is 1.47599e-17
+align 15 </s> 1

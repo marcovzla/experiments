@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 you're 1
+align 2 only 1
+align 3 allowed 1
+align 4 one 1
+align 5 </s> 1

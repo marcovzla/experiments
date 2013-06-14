@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 what 0.993921 *DELETE* 0.00607885 well 2.64795e-08
+align 5 uh 1
+align 6 what 1
+align 7 the 0.352738 uh 0.315384 *DELETE* 0.163795 they 0.130407 day 0.0376758
+align 8 uh 0.71855 *DELETE* 0.28145
+align 9 time 1
+align 10 they 0.941903 *DELETE* 0.0527593 may 0.00533794
+align 11 have 0.889462 had 0.0570179 they've 0.0527593 *DELETE* 0.000761054
+align 12 been 1
+align 13 seen 0.993251 scene 0.00674932
+align 14 doing 1
+align 15 all 1
+align 16 this 1
+align 17 </s> 1

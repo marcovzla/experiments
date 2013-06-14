@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 workers 0.99859 workers' 0.000788233 worker's 0.000621347
+align 5 do 1
+align 6 you 0.999999 *DELETE* 1.88423e-09
+align 7 staff 0.992868 staffs 0.00511375 staffed 0.0013644 stand 0.000292527 stash 0.00018844 staff's 0.000172067 use 6.24717e-07 *DELETE* 3.54167e-16
+align 8 *DELETE* 0.999992 i 6.11153e-06 uh 7.87797e-07 task 6.24126e-07 tap 5.91291e-10 is 9.73531e-13 stat 4.98658e-13
+align 9 </s> 1

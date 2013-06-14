@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 will 0.887005 would 0.10953 do 0.00346526
+align 3 you 1
+align 4 do 1
+align 5 *DELETE* 0.992598 it 0.00671995 that 0.000459578 with 0.000222578
+align 6 with 1
+align 7 the 0.837845 a 0.162155
+align 8 machine 1
+align 9 gun 1
+align 10 *DELETE* 1 uh 2.71763e-07 i 3.77203e-08
+align 11 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 we'll 0.980835 will 0.0191652
+align 2 do 1
+align 3 that 1
+align 4 after 1
+align 5 we 1
+align 6 have 0.976898 had 0.0231018
+align 7 security 0.999974 to 2.64313e-05
+align 8 *DELETE* 0.999195 uh 0.000495179 i 0.000248627 security 2.64313e-05 in 1.47096e-05 do 1.32769e-05 then 5.96618e-06 the 4.7496e-07 you 3.60328e-07 a 9.82127e-08 is 2.29441e-08 and 2.97211e-09 to 3.17251e-10 that 3.11633e-13
+align 9 </s> 1

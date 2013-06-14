@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 your 1
+align 3 parents 1
+align 4 live 1
+align 5 with 1
+align 6 you 0.958207 him 0.0344231 them 0.00452541 here 0.00145233 me 0.00138142 the 1.06111e-05
+align 7 *DELETE* 0.998651 in 0.00114288 and 0.000134863 know 5.74532e-05 uh 1.37002e-05 you 7.10538e-08 on 6.11267e-08 are 3.02711e-08 or 9.05287e-09 i 9.01073e-10
+align 8 </s> 1

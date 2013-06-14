@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 hello 1
+align 2 i'm 0.825065 i 0.174935
+align 3 *DELETE* 0.825065 am 0.174935
+align 4 uh 1
+align 5 uh 0.999612 *DELETE* 0.000388079
+align 6 lieutenant 0.98452 uh 0.0154802
+align 7 *DELETE* 0.98452 lieutenant 0.0154802
+align 8 dan 1 *DELETE* 1.22102e-08
+align 9 *DELETE* 0.999825 i 9.54078e-05 how 7.74549e-05 and 1.16681e-06 then 3.46225e-07 you 2.14004e-07 her 3.28919e-13
+align 10 </s> 1

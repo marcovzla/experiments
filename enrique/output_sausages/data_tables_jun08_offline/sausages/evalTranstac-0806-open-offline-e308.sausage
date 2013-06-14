@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.604846 uh 0.395154
+align 3 somebody 0.957973 somebody's 0.0420271
+align 4 you 1
+align 5 may 0.999812 main 0.000188145
+align 6 know 0.979968 no 0.0200322
+align 7 *DELETE* 0.99936 oh 0.00042405 i 0.000147209 of 3.75116e-05 a 2.00649e-05 uh 7.97641e-06 if 2.87603e-06 the 8.29006e-08
+align 8 </s> 1

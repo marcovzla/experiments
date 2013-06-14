@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 could 0.996144 would 0.00385557
+align 2 you 1
+align 3 please 1
+align 4 rephrase 1
+align 5 your 1
+align 6 answer 1
+align 7 *DELETE* 1 it 5.50021e-23
+align 8 </s> 1

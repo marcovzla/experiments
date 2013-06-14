@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 yeah 1
+align 2 absolutely 1
+align 3 uh 1
+align 4 we'll 0.96269 will 0.0363975 well 0.000912054
+align 5 just 1
+align 6 keep 1
+align 7 working 1
+align 8 together 1
+align 9 will 0.509598 we'll 0.46206 and 0.0283414
+align 10 *DELETE* 0.971659 we'll 0.0283414
+align 11 keep 1
+align 12 pushing 0.997281 push 0.00271933
+align 13 *DELETE* 0.997281 in 0.00271933
+align 14 through 1
+align 15 there 0.937569 their 0.0618951 there'll 0.00053621
+align 16 and 0.862499 *DELETE* 0.104746 i 0.0327552
+align 17 we 0.457959 *DELETE* 0.294151 we'll 0.0943208 will 0.0900767 own 0.0414619 who 0.0216714 won't 0.000321613 work 3.73011e-05
+align 18 keep 1
+align 19 *DELETE* 0.999996 in 3.78636e-06
+align 20 developing 1
+align 21 those 0.979608 knows 0.0116271 nose 0.00753351 does 0.00123098
+align 22 good 1
+align 23 relationships 0.999895 relation 9.87741e-05 relationship 6.38458e-06
+align 24 *DELETE* 0.999868 ships 9.87741e-05 i 1.97578e-05 so 6.38458e-06 uh 4.79572e-06 a 1.96321e-06 you 6.43913e-08
+align 25 </s> 1

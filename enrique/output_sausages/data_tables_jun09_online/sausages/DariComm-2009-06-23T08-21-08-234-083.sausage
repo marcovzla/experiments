@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 1
+align 3 you 1
+align 4 going 1
+align 5 to 1
+align 6 do 1
+align 7 in 0.872862 *DELETE* 0.127138
+align 8 home 0.871936 *DELETE* 0.128064
+align 9 and 0.999017 *DELETE* 0.000983144
+align 10 *DELETE* 0.871936 how 0.128064
+align 11 *DELETE* 0.855727 mint 0.0596385 meant 0.0410699 mend 0.0125709 uh 0.0118735 manned 0.00621532 men 0.00431945 many 0.00424327 i 0.00394303 a 0.000193615 it 5.89344e-05 into 5.33989e-05 you 2.54597e-05 the 2.44583e-05 to 1.6735e-05 do 1.63253e-05 almonds 6.52729e-06 in 3.33146e-06 if 4.99405e-07 um 3.94407e-08 we 2.38216e-11 i'm 5.38375e-12
+align 12 </s> 1

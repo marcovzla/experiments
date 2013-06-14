@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 describe 1
+align 4 to 1
+align 5 me 1
+align 6 your 0.714936 you're 0.284534 you 0.00053034
+align 7 *DELETE* 0.999278 are 0.00053034 saying 0.000191586
+align 8 single 0.999808 go 0.000191586
+align 9 your 0.885758 you're 0.114231 in 1.11003e-05
+align 10 *DELETE* 0.999989 your 1.11003e-05
+align 11 signal 1
+align 12 plan 1
+align 13 for 1
+align 14 what 1
+align 15 happens 1
+align 16 when 1
+align 17 you 0.91591 you've 0.0840898
+align 18 reach 0.912427 reached 0.0875727
+align 19 the 1
+align 20 objective 1
+align 21 *DELETE* 0.994081 it 0.00589528 the 2.41135e-05
+align 22 and 0.999927 n 4.04761e-05 m 1.93047e-05 end 1.13163e-05 aim 1.42775e-06 en 2.84024e-07
+align 23 what 1
+align 24 happens 1
+align 25 in 1
+align 26 the 1
+align 27 event 1
+align 28 of 1
+align 29 an 0.553818 a 0.416068 in 0.0227175 the 0.00711311 and 0.000283224
+align 30 no 0.925878 know 0.0741221
+align 31 communications 1
+align 32 plan 0.990799 planned 0.00894793 plant 0.000252522 plans 3.9637e-07 planning 5.73326e-08
+align 33 </s> 1

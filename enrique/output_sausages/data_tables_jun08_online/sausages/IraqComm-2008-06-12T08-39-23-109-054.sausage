@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 well 0.760912 i'm 0.149355 no 0.0386657 oh 0.022773 yeah 0.0172007 i 0.00870246 in 0.000920057 *DELETE* 0.000829592 and 0.000641529
+align 2 *DELETE* 0.991298 have 0.00870246
+align 3 the 0.841943 a 0.158057
+align 4 construction 1
+align 5 workers 1
+align 6 be 0.976981 been 0.0161288 to 0.0057939 b 0.000859518 pay 0.000164689 bee 5.58614e-05 peace 1.19137e-05 p 3.94657e-06 please 1.62766e-12 piece 2.94243e-17 in 2.52638e-23
+align 7 *DELETE* 0.994206 be 0.0057939
+align 8 safe 0.999623 saif 0.000314237 *DELETE* 6.29011e-05
+align 9 *DELETE* 0.998995 uh 0.000910812 safer 6.29011e-05 i 1.74584e-05 now 1.38982e-05 in 1.22729e-18 and 2.87011e-23
+align 10 </s> 1

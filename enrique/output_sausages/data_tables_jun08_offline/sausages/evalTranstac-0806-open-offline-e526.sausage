@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 personnel 0.995443 personal 0.00455705
+align 4 do 1
+align 5 you 1
+align 6 expect 1
+align 7 to 1
+align 8 have 1
+align 9 on 0.982632 all 0.0173677
+align 10 *DELETE* 0.982632 on 0.0173677
+align 11 site 0.990452 sight 0.00954759
+align 12 from 0.999961 for 3.8818e-05
+align 13 *DELETE* 0.999961 me 3.8818e-05 you 2.49472e-07
+align 14 your 0.99999 you're 7.19901e-06 year 3.042e-06
+align 15 staff 0.999999 stuff 5.38169e-07
+align 16 </s> 1

@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 i 0.999991 *DELETE* 8.83887e-06
+align 2 see 0.999804 *DELETE* 0.000195791
+align 3 *DELETE* 0.990855 uh 0.00760228 it 0.00106389 seen 0.000185881 you 0.000103413 i 8.63442e-05 okay 4.89377e-05 her 1.14911e-05 a 1.10816e-05 that 1.01063e-05 i._c. 8.83887e-06 um 7.97235e-06 them 3.96311e-06 c 1.07197e-06 there 1.84253e-07
+align 4 </s> 1

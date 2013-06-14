@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 if 1
+align 3 we 1
+align 4 need 1
+align 5 them 0.997557 down 0.00244322
+align 6 we 1
+align 7 can 0.999957 can't 4.27391e-05
+align 8 call 0.997888 *DELETE* 0.00211238
+align 9 them 0.959698 um 0.0242567 uh 0.00653875 i 0.00329259 the 0.00271145 column 0.00211238 of 0.00139038
+align 10 in 0.946255 and 0.0398118 men 0.0106406 meant 0.00329259
+align 11 for 0.886877 four 0.113123
+align 12 uh 0.938524 off 0.0415246 a 0.019951
+align 13 *DELETE* 0.999886 uh 0.000113845
+align 14 fire 1 far 8.9091e-08
+align 15 support 1
+align 16 *DELETE* 0.999997 uh 2.76297e-06 i 4.96193e-07
+align 17 </s> 1

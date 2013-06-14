@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.988174 uh 0.0112238 i 0.000602064
+align 2 do 1
+align 3 you 1
+align 4 like 0.99848 lock 0.00105843 lack 0.000461189
+align 5 americans 0.999669 americans' 0.000269102 american's 6.16742e-05
+align 6 *DELETE* 0.999992 uh 5.87939e-06 i 2.34147e-06
+align 7 </s> 1

@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.997687 i 0.00231339
+align 3 would 1
+align 4 say 1
+align 5 come 1
+align 6 back 1
+align 7 in 1
+align 8 about 1
+align 9 four 0.99515 for 0.00484965
+align 10 days 1 days' 4.34597e-07
+align 11 and 1
+align 12 see 1
+align 13 if 1
+align 14 we 1
+align 15 know 0.996971 no 0.00302911
+align 16 something 1
+align 17 more 1
+align 18 then 0.776831 than 0.210902 they 0.00734983 *DELETE* 0.00431703 the 0.000316257 that 0.000283296
+align 19 *DELETE* 0.947822 i 0.0174921 have 0.00734983 uh 0.0062613 on 0.00520232 that 0.00366951 a 0.00338403 in 0.0032393 you 0.00143958 them 0.00142861 and 0.00102373 an 0.000850852 it 0.000468588 hand 0.000232168 if 6.89596e-05 the 6.1466e-05 what 2.22594e-06 at 1.64695e-06 to 1.02517e-06 they 3.84475e-07 than 1.1312e-08
+align 20 </s> 1

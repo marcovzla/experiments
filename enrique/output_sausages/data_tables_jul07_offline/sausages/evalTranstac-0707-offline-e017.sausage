@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.875658 what 0.124342
+align 2 would 0.875658 do 0.124342
+align 3 you 1
+align 4 transporting 0.955872 transport 0.0441285
+align 5 *DELETE* 0.955872 and 0.0411757 in 0.00203146 them 0.000921337 an 1.39716e-09
+align 6 today 1
+align 7 </s> 1

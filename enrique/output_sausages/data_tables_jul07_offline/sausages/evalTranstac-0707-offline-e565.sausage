@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 spectrum 0.863652 *DELETE* 0.136348
+align 2 *DELETE* 0.70022 spectacles 0.121859 you 0.0532678 to 0.0341603 his 0.032428 her 0.0182609 speculate 0.0144887 who 0.0130812 as 0.00482047 your 0.00263773 is 0.00247743 here 0.000887818 has 0.000693683 have 0.000512219 you've 5.86393e-05 and 5.23964e-05 you're 4.07952e-05 who's 3.91623e-05 heard 1.34377e-05
+align 3 shop 0.995936 shops 0.00333697 shaab 0.000357704 shihab 0.0003507 shout 7.9809e-06 shopped 7.85901e-06 shot 2.4413e-06 shab 7.08422e-07 shock 5.25981e-11 *DELETE* 3.05104e-14
+align 4 *DELETE* 1 shab 1.40133e-11 i 1.33449e-11 shot 8.44591e-14
+align 5 </s> 1

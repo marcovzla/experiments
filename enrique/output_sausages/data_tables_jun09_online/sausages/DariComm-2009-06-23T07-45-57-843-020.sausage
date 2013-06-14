@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 are 1
+align 3 you 1
+align 4 and 0.991577 in 0.00842282
+align 5 your 1
+align 6 men 1
+align 7 doing 0.999431 do 0.000569093
+align 8 *DELETE* 0.999431 in 0.000537976 and 3.1117e-05
+align 9 today 1 to 4.56518e-27
+align 10 *DELETE* 0.999126 uh 0.000857252 is 8.60243e-06 i 4.17913e-06 i'm 3.65105e-06 you 3.78602e-08 do 3.03638e-10 in 7.18517e-11 um 2.43727e-14 day 4.56518e-27
+align 11 </s> 1

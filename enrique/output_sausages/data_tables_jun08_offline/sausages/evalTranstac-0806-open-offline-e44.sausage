@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 think 1
+align 3 now 1
+align 4 that 0.999745 the 0.000255499
+align 5 you 1
+align 6 *DELETE* 0.775439 you 0.224561
+align 7 have 1
+align 8 told 1
+align 9 us 1
+align 10 about 1
+align 11 the 0.948518 this 0.0514821
+align 12 situation 0.999859 situations 0.000140975
+align 13 *DELETE* 0.999644 in 0.000300291 and 2.21174e-05 uh 2.18642e-05 now 5.73832e-06 of 3.52019e-06 i 9.52244e-07 is 6.15753e-07 the 4.70453e-07
+align 14 </s> 1

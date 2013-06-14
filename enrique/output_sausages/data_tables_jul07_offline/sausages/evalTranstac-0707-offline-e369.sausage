@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 understand 1
+align 3 your 0.651979 you're 0.348021
+align 4 fair 0.994119 fare 0.00588095
+align 5 uh 0.966404 um 0.0335964
+align 6 we're 0.881868 over 0.118132
+align 7 just 1
+align 8 trying 1
+align 9 to 1
+align 10 uh 1
+align 11 ensure 1
+align 12 that 1
+align 13 everybody's 0.793497 everybody 0.132523 anybody 0.0739794
+align 14 getting 0.793497 seeing 0.164141 skinny 0.0323041 see 0.00632829 is 0.00371622 steal 1.34751e-05
+align 15 *DELETE* 0.98998 you 0.006304 getting 0.00371622
+align 16 what 0.981151 if 0.006304 like 0.00398495 it 0.00331924 that 0.00271652 with 0.00198353 but 0.000337848 would 0.000161236 look 2.58626e-05 late 1.29436e-05 which 3.32166e-06
+align 17 they 0.999998 a 1.67558e-06
+align 18 need 0.999998 knead 2.43825e-06
+align 19 *DELETE* 1 to 3.2402e-07 a 3.24348e-08
+align 20 </s> 1

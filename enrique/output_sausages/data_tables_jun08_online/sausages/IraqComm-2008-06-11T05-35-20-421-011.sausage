@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 i'm 1
+align 4 captain 1
+align 5 smith 1
+align 6 *DELETE* 1 i 1.06858e-17
+align 7 </s> 1

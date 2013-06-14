@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 your 0.969938 you're 0.0298041 you 0.000257759
+align 2 brother 1
+align 3 is 0.975613 as 0.0243873
+align 4 from 1
+align 5 fallujah 1
+align 6 *DELETE* 0.999912 uh 7.18599e-05 huh 1.59511e-05 i 1.5175e-08
+align 7 </s> 1

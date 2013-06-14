@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 i'll 0.998762 i 0.00123763
+align 3 *DELETE* 0.998762 i'll 0.00123763
+align 4 demonstrate 1
+align 5 that 1
+align 6 now 1
+align 7 on 0.924265 in 0.0712003 i'm 0.00292303 and 0.00161129
+align 8 a 0.742165 the 0.221337 in 0.0142754 an 0.0138503 then 0.00837237
+align 9 dummy 1
+align 10 what 0.952137 well 0.0395739 when 0.00443667 or 0.00230859 we 0.000534629 will 0.000438793 while 0.000404912 we'll 8.71272e-05 where 7.83617e-05
+align 11 we 1
+align 12 do 1
+align 13 is 1
+align 14 we'll 0.947975 will 0.0520245
+align 15 do 1
+align 16 thirty 1
+align 17 compressions 1
+align 18 to 0.993118 so 0.00688195
+align 19 the 1
+align 20 chest 1
+align 21 and 1
+align 22 then 1
+align 23 we'll 1
+align 24 do 1
+align 25 two 0.864273 to 0.135727
+align 26 rescue 1
+align 27 breaths 0.999968 brass 3.22941e-05
+align 28 </s> 1

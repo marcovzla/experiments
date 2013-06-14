@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 not 0.995635 know 0.00436479
+align 6 *DELETE* 0.993607 i 0.00562359 a 0.000736594 to 3.30283e-05
+align 7 had 0.721913 have 0.277727 hand 0.000360216
+align 8 water 0.9999 a 9.64295e-05 *DELETE* 3.28798e-06 war 4.40018e-11
+align 9 *DELETE* 0.999793 water 9.64295e-05 uh 8.57692e-05 i 1.15081e-05 it 6.27562e-06 to 3.80661e-06 wander 1.79858e-06 wider 1.4894e-06 there 4.40018e-11
+align 10 </s> 1

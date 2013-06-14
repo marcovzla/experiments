@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 cheap 0.999466 keep 0.000533602
+align 2 it's 0.5523 is 0.364292 its 0.0806014 his 0.00220867 as 0.000598314
+align 3 very 1
+align 4 nice 1
+align 5 to 1
+align 6 meet 1
+align 7 you 1
+align 8 *DELETE* 0.999913 uh 8.71565e-05 i 2.14333e-07
+align 9 </s> 1

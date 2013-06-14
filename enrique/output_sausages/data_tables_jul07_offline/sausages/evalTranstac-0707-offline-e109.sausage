@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 going 1
+align 3 to 1
+align 4 give 1
+align 5 your 1
+align 6 son 1
+align 7 this 1
+align 8 bottle 1
+align 9 of 1
+align 10 medicine 0.997505 medicines 0.00138656 madison 0.00110815
+align 11 *DELETE* 0.999924 uh 4.98976e-05 i 1.3017e-05 and 9.78749e-06 in 3.46131e-06 on 1.82723e-07
+align 12 </s> 1

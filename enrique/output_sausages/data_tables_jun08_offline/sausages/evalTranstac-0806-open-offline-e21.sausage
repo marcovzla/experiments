@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 as 1
+align 2 you 1
+align 3 *DELETE* 0.995416 know 0.0029312 can 0.000996132 do 0.000657083
+align 4 as 1
+align 5 you 1
+align 6 might 0.962089 may 0.0379109
+align 7 know 1
+align 8 or 0.519616 a 0.408011 it 0.0667781 of 0.00559417
+align 9 may 1
+align 10 not 1
+align 11 know 0.956445 no 0.0435548
+align 12 iraqi 0.579424 the 0.420576
+align 13 *DELETE* 0.579424 iraqi 0.420576
+align 14 military 1
+align 15 does 0.978445 this 0.0123542 is 0.00920065
+align 16 not 1
+align 17 get 1
+align 18 paid 1
+align 19 as 1
+align 20 much 1
+align 21 as 1
+align 22 iraqi 0.956492 you 0.0435085
+align 23 *DELETE* 0.956492 like 0.0435085
+align 24 police 1
+align 25 officers 0.744109 officer 0.209746 *DELETE* 0.0461451
+align 26 *DELETE* 0.932212 offices 0.0431707 do 0.012672 it 0.00674955 office 0.00297436 to 0.00222145
+align 27 *DELETE* 0.996045 in 0.00118495 are 0.000762173 uh 0.000587784 do 0.000492766 to 0.000296948 of 0.000153391 and 0.000134882 at 0.000121636 is 7.04987e-05 or 5.66575e-05 as 3.17696e-05 i'm 3.09147e-05 if 1.93105e-05 um 1.04702e-05 that 8.57348e-07 sir 1.12684e-08 an 3.10137e-09 due 2.39338e-09 i 1.76754e-10 end 6.45005e-11 does 3.34198e-11 a 1.60555e-11 so 7.2935e-12 office's 1.69558e-12
+align 28 </s> 1

@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 uh 1
+align 3 now 0.649684 uh 0.350316
+align 4 *DELETE* 0.649684 now 0.350148 uh 0.000167674
+align 5 *DELETE* 0.999832 now 0.000167674
+align 6 let's 1
+align 7 go 1
+align 8 over 1
+align 9 here 1
+align 10 and 0.998861 *DELETE* 0.00107583 are 6.10326e-05 or 1.7168e-06
+align 11 i'll 0.998709 not 0.00111733 out 0.000129894 uh 2.29318e-05 now 2.12485e-05
+align 12 *DELETE* 0.999975 of 2.49671e-05
+align 13 teach 1
+align 14 you 1
+align 15 how 1
+align 16 to 1
+align 17 change 1
+align 18 the 1
+align 19 oil 1
+align 20 in 0.999898 of 0.000102205
+align 21 a 0.999653 the 0.000347323
+align 22 vehicle 1
+align 23 </s> 1

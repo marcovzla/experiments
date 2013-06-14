@@ -1,0 +1,35 @@
+numaligns 33
+posterior 1
+align 0 <s> 1
+align 1 uh 0.787351 *DELETE* 0.165577 unfortunately 0.0359058 um 0.0111658
+align 2 unfortunately 0.964094 *DELETE* 0.0359058
+align 3 while 0.997437 well 0.00256258
+align 4 we're 0.999663 were 0.000337452
+align 5 here 1
+align 6 we're 0.967499 were 0.0325009
+align 7 not 1
+align 8 able 1
+align 9 to 1
+align 10 uh 0.899429 up 0.100571
+align 11 partake 0.899429 are 0.100571
+align 12 in 0.899429 taken 0.100571
+align 13 that 1
+align 14 uh 0.570346 um 0.429654
+align 15 and 0.986612 uh 0.013355 in 3.26221e-05
+align 16 *DELETE* 0.986645 and 0.013355
+align 17 we 1
+align 18 will 0.97833 we'll 0.0216697
+align 19 continue 1
+align 20 to 1
+align 21 monitor 1
+align 22 the 1
+align 23 situation 1
+align 24 *DELETE* 0.818706 and 0.155278 in 0.0260157
+align 25 hopefully 1
+align 26 get 0.824875 good 0.175125
+align 27 *DELETE* 0.766557 it 0.163006 a 0.0645516 at 0.00588521
+align 28 taken 0.979813 taking 0.020187
+align 29 care 1
+align 30 of 0.999999
+align 31 *DELETE* 1 uh 2.21992e-07
+align 32 </s> 1

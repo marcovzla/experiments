@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 repeat 1
+align 4 your 0.999736 you're 0.000264493
+align 5 last 0.953094 lasts 0.0398022 lives 0.00705946 *DELETE* 4.4287e-05
+align 6 *DELETE* 0.994994 uh 0.00228539 so 0.00161139 you 0.000520681 i 0.000377708 a 0.000109622 lasted 4.4287e-05 two 1.97559e-05 in 1.8739e-05 of 9.9401e-06 it 2.68598e-06 the 1.87642e-06 that 1.56833e-06 to 1.47574e-06 i'm 2.59269e-07 do 2.43528e-07 too 2.39367e-07 with 1.0472e-07 like 3.02321e-09 are 4.48778e-10 search 1.03202e-10 and 6.30343e-11 this 1.85161e-11 on 1.83835e-11 but 2.50308e-12 alas 4.03583e-18
+align 7 </s> 1

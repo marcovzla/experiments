@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 have 1
+align 3 our 0.885371 a 0.114629
+align 4 own 0.885371 uh 0.104645 a 0.00998449
+align 5 *DELETE* 0.946781 mill 0.0307769 know 0.0215816 a 0.000812604 ill 4.81235e-05
+align 6 *DELETE* 0.999202 mill 0.000797747
+align 7 *DELETE* 0.946796 in 0.0311228 oh 0.0196066 and 0.00235966 it 0.000115271
+align 8 no 0.99868 *DELETE* 0.00131973
+align 9 i 0.459795 *DELETE* 0.196896 oh 0.168658 a 0.0535458 uh 0.0445647 and 0.0419655 in 0.0188491 but 0.0118516 o 0.00158596 it 0.00128882 of 0.000843646 or 0.000155581
+align 10 no 0.80412 know 0.142024 *DELETE* 0.0518846 it'll 0.000957994 ago 0.000937079 go 7.65583e-05
+align 11 building 1
+align 12 or 0.931216 a 0.0292402 to 0.0215065 aware 0.0176318 the 0.000405141
+align 13 *DELETE* 0.948848 wear 0.0473777 where 0.0037741
+align 14 shoes 0.547735 she's 0.452265
+align 15 and 0.500687 gonna 0.382411 going 0.0748453 been 0.0167892 in 0.0140699 them 0.00625803 name 0.00493978
+align 16 *DELETE* 0.999947 to 5.27305e-05
+align 17 be 0.999026 to 0.000970499 b 9.57415e-07
+align 18 going 1
+align 19 in 1
+align 20 there 1
+align 21 with 1
+align 22 our 0.96124 are 0.0326604 their 0.00609918
+align 23 female 1
+align 24 personnel 0.991452 personal 0.00854835 person 5.90879e-09
+align 25 *DELETE* 1 i 3.5498e-08 no 5.90879e-09
+align 26 </s> 1

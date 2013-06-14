@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 you 0.999558 he 0.000442175
+align 3 don't 1
+align 4 want 1
+align 5 the 0.501406 to 0.399111 a 0.0920236 *DELETE* 0.00745901
+align 6 trunk 1
+align 7 broke 0.879147 *DELETE* 0.120853
+align 8 and 0.86694 broken 0.120853 in 0.0122063
+align 9 open 0.999069 opened 0.000930997 *DELETE* 8.98005e-22
+align 10 it 0.999963 at 2.9793e-05 its 4.44081e-06 in 1.42484e-06 it's 1.06488e-06 opening 5.9383e-08 a 2.67829e-12
+align 11 *DELETE* 1 uh 3.06443e-07 i 1.48883e-07 in 3.95389e-08 it 7.15478e-10 is 4.98959e-10
+align 12 </s> 1

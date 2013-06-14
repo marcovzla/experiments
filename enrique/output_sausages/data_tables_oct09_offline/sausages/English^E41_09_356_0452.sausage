@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 if 0.814236 okay 0.183558 uh 0.00127073 i 0.000559839 and 0.000375217
+align 2 *DELETE* 0.997794 if 0.00220579
+align 3 a 0.36492 individuals 0.25124 *DELETE* 0.173618 individual 0.0835794 it 0.0768118 any 0.04983
+align 4 individual 0.521138 *DELETE* 0.334819 individuals 0.142197 individual's 0.00184501
+align 5 sign 0.845046 son 0.114975 on 0.0243809 sun 0.013888 signed 0.00152425 saw 0.000186126
+align 6 multiple 1
+align 7 places 1
+align 8 are 0.9998 you're 0.000157943 you 3.97621e-05 your 2.01026e-06 or 3.46287e-07
+align 9 *DELETE* 0.994282 going 0.00571831
+align 10 gonna 0.994282 to 0.00571831
+align 11 go 1
+align 12 ahead 0.99928 *DELETE* 0.000720252
+align 13 and 1 in 7.43939e-09
+align 14 uh 1
+align 15 *DELETE* 0.999044 i 0.000955998
+align 16 apply 1
+align 17 those 1
+align 18 pressure 0.774391 pressured 0.225609
+align 19 dressings 1
+align 20 to 1
+align 21 each 1
+align 22 one 1
+align 23 of 1
+align 24 those 1
+align 25 *DELETE* 0.99997 are 2.15946e-05 uh 6.13086e-06 i 2.55516e-06
+align 26 areas 0.999981 area's 1.88676e-05
+align 27 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 not 0.994491 now 0.00550877
+align 3 today 0.998847 to 0.00113475 a 8.9547e-06 two 8.86086e-06
+align 4 *DELETE* 0.998847 they 0.00115257
+align 5 we're 0.998808 were 0.0011918
+align 6 going 1
+align 7 to 1
+align 8 dismount 1
+align 9 a 0.753794 to 0.239455 of 0.00619324 it 0.000253111 *DELETE* 0.000227701 and 4.78007e-05 i 2.26048e-05 in 3.45113e-06 at 2.54338e-06
+align 10 patrol 1
+align 11 *DELETE* 0.999991 uh 8.45186e-06 i 4.35476e-07
+align 12 </s> 1

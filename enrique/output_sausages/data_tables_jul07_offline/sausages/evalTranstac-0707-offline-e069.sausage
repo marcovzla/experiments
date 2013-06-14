@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 good 0.967275 gray 0.0111314 girl 0.00948203 go 0.00727646 great 0.00302899 growth 0.0007797 the 0.000738551 goods 0.000133748 god 6.29624e-05 goes 4.66398e-05 grows 4.34833e-05 there 1.39798e-06 going 2.86563e-08
+align 2 *DELETE* 0.999766 to 0.000229202 uh 1.86497e-06 are 1.39798e-06 is 6.6658e-07 it 3.94137e-07
+align 3 </s> 1

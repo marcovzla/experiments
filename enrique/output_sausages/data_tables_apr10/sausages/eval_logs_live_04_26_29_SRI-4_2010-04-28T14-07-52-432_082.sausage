@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 think 1
+align 4 the 0.970425 *DELETE* 0.0232549 a 0.00316988 of 0.00193627 this 0.000757416 is 0.000378603 these 7.82694e-05
+align 5 students 0.998881 students' 0.00111866
+align 6 are 1
+align 7 in 0.998499 *DELETE* 0.00150104
+align 8 danger 0.998499 endanger 0.00150104
+align 9 right 1 write 2.0888e-08
+align 10 now 1
+align 11 *DELETE* 0.999386 uh 0.000590491 i 2.38125e-05
+align 12 </s> 1

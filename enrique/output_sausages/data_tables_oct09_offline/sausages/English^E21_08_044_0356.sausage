@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 okay 0.995914 oh 0.00408566
+align 2 now 0.980523 *DELETE* 0.00822935 no 0.00716216 can 0.00408566
+align 3 *DELETE* 0.995914 i 0.00408566
+align 4 before 1
+align 5 we 1
+align 6 get 1
+align 7 started 1
+align 8 up 0.824692 uh 0.114399 the 0.051932 to 0.00897654
+align 9 *DELETE* 0.999994 i 6.34896e-06
+align 10 a 0.739418 amount 0.155526 i'm 0.0402394 i'll 0.0305151 um 0.0160335 uh 0.0129705 up 0.00529741
+align 11 *DELETE* 0.994703 amount 0.00402753 i'll 0.00126988
+align 12 mounted 0.840447 of 0.159553
+align 13 patrol 1
+align 14 you 1
+align 15 don't 1
+align 16 visually 0.999944 vigil 5.57908e-05 vision 5.15526e-10
+align 17 *DELETE* 0.999944 you 5.57913e-05
+align 18 see 1
+align 19 everything 0.999535 every 0.000465398
+align 20 *DELETE* 0.999535 team 0.000465398
+align 21 you 0.999489 do 0.00051134
+align 22 *DELETE* 0.999489 you 0.00051134
+align 23 want 0.999555 *DELETE* 0.000444527
+align 24 to 0.999555 wanna 0.000444527
+align 25 see 1
+align 26 *DELETE* 0.567108 you 0.304226 as 0.114658 is 0.0139456 a 5.09088e-05 eyes 1.19105e-05
+align 27 as 0.867006 *DELETE* 0.128615 is 0.00437872
+align 28 you 1
+align 29 do 1
+align 30 *DELETE* 0.99784 it 0.00215954
+align 31 as 0.997491 *DELETE* 0.0016035 has 0.000905184
+align 32 a 0.993562 the 0.00414189 azza 0.0016035 it 0.00059417 of 9.82454e-05
+align 33 dismounted 0.996498 discounted 0.00282743 dismount 0.000638464 discount 3.568e-05
+align 34 *DELETE* 0.999326 it 0.000671312 at 2.13188e-06 of 7.00558e-07
+align 35 </s> 1

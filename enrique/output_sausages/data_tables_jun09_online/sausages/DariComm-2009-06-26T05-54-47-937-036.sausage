@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 *DELETE* 0.92447 miss 0.0673754 this 0.00815455
+align 4 mean 0.926999 *DELETE* 0.0730013
+align 5 it's 0.92447 *DELETE* 0.07553
+align 6 being 0.997247 *DELETE* 0.00252869 bean 0.000224732
+align 7 home 0.99954 homes 0.000460287 *DELETE* 7.74332e-26
+align 8 *DELETE* 0.999553 now 0.000172266 i 0.00013462 uh 0.000129521 it 2.49215e-06 okay 2.25996e-06 in 1.36513e-06 at 1.04605e-06 a 8.18272e-07 to 6.80877e-07 is 6.76161e-07 and 5.95559e-07 as 2.71487e-07 do 1.84196e-07 um 1.22919e-08 i'm 1.88997e-10 we 1.83667e-10 homer 1.57668e-14 you 1.50523e-17 by 5.48962e-18 the 1.49401e-18 so 2.24832e-19 no 1.68625e-20 on 3.88074e-21 of 4.53458e-23 if 2.89792e-26 home's 2.6501e-35
+align 9 </s> 1

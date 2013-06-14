@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 if 0.407726 it 0.29026 did 0.206546 that 0.0462131 the 0.0359404 i 0.00395599 to 0.00352338 at 0.00262784 do 0.00187898 *DELETE* 0.000713857 yeah 0.000298165 okay 0.000238763 get 7.83429e-05
+align 2 *DELETE* 0.996044 did 0.00395599
+align 3 the 1
+align 4 i 0.890261 *DELETE* 0.109739
+align 5 mean 0.890261 army 0.109739
+align 6 knock 0.936601 not 0.0551486 and 0.00825041
+align 7 *DELETE* 0.99175 knock 0.00825041
+align 8 before 1
+align 9 entering 0.941991 entry 0.0508657 *DELETE* 0.00714352
+align 10 *DELETE* 0.963236 and 0.0204413 in 0.0158685 an 0.000454248
+align 11 *DELETE* 0.990373 train 0.00212193 terrain 0.00202866 it 0.00127829 drain 0.00110354 entrance 0.000906555 the 0.000680094 during 0.000348538 to 0.000346151 drink 0.00018406 dream 9.79481e-05 answering 9.52018e-05 a 9.11127e-05 into 7.61111e-05 ring 4.7168e-05 training 4.26748e-05 anything 4.14248e-05 entrant 3.52705e-05 bring 3.12701e-05 green 2.47364e-05 rain 1.53817e-05 you 6.15883e-06 turn 5.83874e-06 i 5.28931e-06 trained 5.12711e-06 treated 4.81105e-06 drinking 2.16195e-06 drained 5.00063e-07 trade 3.83996e-07 drainage 3.41904e-07 injuring 4.33912e-11 of 3.95803e-11 three 1.01177e-11 dreem 6.72465e-13 turned 1.79037e-14
+align 12 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 why 0.998856 well 0.00114431
+align 2 *DELETE* 0.997894 i 0.0011824 you 0.000923279
+align 3 did 1
+align 4 he 0.991272 you 0.00872817
+align 5 inject 0.998631 injects 0.00136908
+align 6 you 0.580301 here 0.418432 hear 0.000795184 *DELETE* 0.000471756 to 1.05763e-07
+align 7 *DELETE* 0.997704 are 0.000603514 uh 0.000541542 i 0.000324692 year 0.000238252 or 0.000220978 few 0.000133141 u 9.58703e-05 know 8.13068e-05 a 3.52634e-05 to 8.16086e-06 in 5.58668e-06 your 4.4239e-06 if 2.28643e-06 do 7.4457e-07 you 1.05763e-07 you're 6.82172e-08 on 1.79762e-09 yu 3.59673e-10 were 5.39621e-11
+align 8 </s> 1

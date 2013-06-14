@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 definitely 1
+align 3 be 1
+align 4 able 1
+align 5 to 1
+align 6 help 1
+align 7 *DELETE* 0.999942 uh 3.96287e-05 you 1.01933e-05 i 7.8832e-06
+align 8 </s> 1

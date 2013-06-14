@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 which 1
+align 2 people 1
+align 3 of 1
+align 4 the 0.971895 this 0.0281047
+align 5 city 1
+align 6 *DELETE* 1 uh 6.97474e-08
+align 7 </s> 1

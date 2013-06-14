@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 i'm 0.598295 uh 0.302019 i 0.0996854
+align 4 *DELETE* 0.598295 i'm 0.305995 am 0.0957104
+align 5 specializes 1
+align 6 i 0.705091 is 0.294909
+align 7 specialized 0.81641 specialize 0.18359
+align 8 in 1
+align 9 infantry 1
+align 10 uh 1
+align 11 *DELETE* 0.939559 uh 0.0604409
+align 12 patrolling 1
+align 13 and 0.771311 an 0.197685 in 0.0310039
+align 14 infantry 0.999818 if 0.000181766
+align 15 *DELETE* 0.999818 a 0.000159572 the 2.21939e-05
+align 16 *DELETE* 0.999818 tree 0.000181766
+align 17 tactics 1
+align 18 *DELETE* 1 uh 2.98703e-10
+align 19 </s> 1

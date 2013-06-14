@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 i 0.951747 uh 0.0479404 *DELETE* 0.000312298
+align 2 i 1
+align 3 am 1
+align 4 showing 1
+align 5 you 1
+align 6 have 0.999413 how 0.00058738
+align 7 to 0.940887 a 0.0506239 it 0.00848907
+align 8 *DELETE* 0.940887 to 0.059113
+align 9 be 0.995155 b 0.00484535
+align 10 more 1
+align 11 ready 1
+align 12 and 0.998177 in 0.00161086 an 0.000211946
+align 13 safer 0.900323 safe 0.0884921 say 0.0111848
+align 14 *DELETE* 0.900323 for 0.0557068 or 0.04397
+align 15 at 0.999736 it 0.000264331
+align 16 the 1
+align 17 same 1
+align 18 time 1
+align 19 but 0.999088 *DELETE* 0.000911975
+align 20 it 0.999959 *DELETE* 4.08858e-05
+align 21 will 0.999957 we'll 4.28063e-05
+align 22 be 1
+align 23 the 1
+align 24 uh 0.8741 *DELETE* 0.1259 office 1.45817e-07
+align 25 officer 1 or 1.45817e-07
+align 26 over 1
+align 27 here 1
+align 28 that 1
+align 29 we'll 0.672004 will 0.327996
+align 30 give 1
+align 31 you 1
+align 32 those 0.999036 goes 0.000482581 a 0.000481584
+align 33 *DELETE* 0.999518 those 0.000481584
+align 34 orders 0.999601 owners 0.000199896 odors 0.000199125
+align 35 </s> 1

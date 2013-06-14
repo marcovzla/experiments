@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 has 0.970923 as 0.029077
+align 2 anyone 1
+align 3 ever 1
+align 4 come 1
+align 5 to 1
+align 6 your 1
+align 7 house 1
+align 8 and 1
+align 9 search 0.944948 searched 0.0550523
+align 10 your 1
+align 11 house 1
+align 12 before 1
+align 13 *DELETE* 1 i 1.67274e-07
+align 14 </s> 1

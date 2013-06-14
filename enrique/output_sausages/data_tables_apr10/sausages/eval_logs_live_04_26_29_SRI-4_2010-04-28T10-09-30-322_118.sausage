@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 why 0.991628 what 0.00837241
+align 2 did 0.997953 is 0.00204659
+align 3 you 1
+align 4 come 1
+align 5 here 1
+align 6 today 1
+align 7 *DELETE* 0.996494 uh 0.00342441 to 7.07715e-05 if 9.49916e-06 i 1.39591e-06 is 1.45396e-07 i'm 3.87253e-09
+align 8 </s> 1

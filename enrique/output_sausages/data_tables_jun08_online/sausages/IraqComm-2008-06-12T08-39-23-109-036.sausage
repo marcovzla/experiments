@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i 0.976329 *DELETE* 0.0236715
+align 2 am 0.788179 i'm 0.211821
+align 3 here 1
+align 4 to 1
+align 5 help 1
+align 6 we 0.997017 *DELETE* 0.00298341
+align 7 need 0.947636 boil 0.0328989 *DELETE* 0.0154405 blow 0.00167246 we've 0.00073413 have 0.000722635 with 0.00060813 we'd 9.0647e-05 rebuild 6.96062e-05 buy 6.45138e-05 borrow 6.13006e-05 relieve 1.30823e-06
+align 8 bullets 0.950365 it 0.0351617 will 0.00410491 *DELETE* 0.00253825 world 0.00192679 rebuild 0.00147682 bullet 0.00119338 well 0.00098011 more 0.00086278 bald 0.000325854 blow 0.000279422 go 0.000160872 build 0.000114376 know 8.9926e-05 oil 8.88044e-05 below 8.74039e-05 uh 8.34851e-05 no 7.48492e-05 old 6.43068e-05 the 2.08449e-05 been 1.48218e-27
+align 9 *DELETE* 0.999754 low 5.40341e-05 built 3.51439e-05 uh 2.87879e-05 barrel 2.22788e-05 old 2.14585e-05 boiled 2.12588e-05 bolt 1.63351e-05 both 9.32106e-06 pull 8.57481e-06 it 7.49995e-06 book 6.99045e-06 books 3.11847e-06 bow 3.08612e-06 bill 2.84849e-06 rebuilt 2.77067e-06 the 7.7994e-07 a 5.82912e-07 booked 5.34906e-07 boats 4.96623e-07 bold 4.53759e-09 boil 3.96359e-10 votes 4.5524e-11 but 1.68175e-11 bullet's 5.82343e-15 to 3.9568e-17
+align 10 *DELETE* 1 of 1.05811e-19 to 5.78915e-21 new 2.87751e-22 bold 4.37995e-23 in 1.41215e-23 and 5.95276e-24 good 3.74452e-25 some 2.01531e-27 or 6.37921e-28
+align 11 </s> 1

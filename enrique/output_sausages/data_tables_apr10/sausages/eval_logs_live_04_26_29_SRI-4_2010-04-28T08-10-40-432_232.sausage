@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 is 1
+align 3 your 1
+align 4 medications 0.969625 medication 0.0303748
+align 5 stored 0.986461 storage 0.0112405 toward 0.00136802 store 0.000930746
+align 6 *DELETE* 0.999708 uh 0.000124669 in 0.000114618 it 4.22387e-05 i 9.66655e-06 a 5.56588e-07 you 3.24159e-07
+align 7 </s> 1

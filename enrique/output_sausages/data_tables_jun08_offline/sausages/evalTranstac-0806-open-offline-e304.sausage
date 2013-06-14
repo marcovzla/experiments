@@ -1,0 +1,38 @@
+numaligns 36
+posterior 1
+align 0 <s> 1
+align 1 it 0.539307 let's 0.133227 you 0.127902 *DELETE* 0.127214 uh 0.0394524 a 0.0192379 oh 0.0104063 he 0.00162982 the 0.00121616 good 0.000407084
+align 2 let's 0.717598 lets 0.149175 *DELETE* 0.133227
+align 3 say 1
+align 4 an 0.941749 in 0.0558244 and 0.00242701
+align 5 *DELETE* 0.999958 the 4.23966e-05
+align 6 explosion 1
+align 7 were 0.871558 where 0.0920787 word 0.0267869 we're 0.00884492 wear 0.000731886
+align 8 to 0.992841 *DELETE* 0.00651649 did 0.000642466
+align 9 happen 1
+align 10 right 0.99971 write 0.000290022
+align 11 in 1
+align 12 the 1
+align 13 middle 1
+align 14 your 1
+align 15 patrol 1
+align 16 or 1
+align 17 a 1
+align 18 uh 1
+align 19 an 0.950135 and 0.0341926 in 0.0156446 uh 2.8172e-05
+align 20 *DELETE* 0.999972 in 2.8172e-05
+align 21 enemy 0.999771 any 0.000229055
+align 22 *DELETE* 0.999771 me 0.000229055
+align 23 was 0.726961 wears 0.124769 were 0.0699137 we're 0.0315524 where's 0.0266942 worse 0.0199853 where 0.000124696
+align 24 sister 0.607732 so 0.130804 to 0.105156 the 0.0976477 a 0.0442273 said 0.0124543 sir 0.00197845
+align 25 or 0.477676 throw 0.298245 through 0.0940227 a 0.0678669 are 0.0612377 *DELETE* 0.000951901
+align 26 *DELETE* 0.894582 a 0.0735908 or 0.0318253 our 1.12621e-06 thorough 4.54176e-07 thrower 2.46751e-07 throat 1.32955e-08
+align 27 grenade 1
+align 28 right 1
+align 29 name 0.962312 and 0.0373596 no 0.000328026
+align 30 ill 0.961585 they 0.0373596 *DELETE* 0.000553129 miller 0.000502699
+align 31 *DELETE* 0.96264 were 0.0373596
+align 32 your 0.994835 you're 0.00461186 ilya 0.000341943 earlier 0.000211187
+align 33 patrol 0.999997 *DELETE* 1.01022e-13
+align 34 *DELETE* 0.999971 if 2.64598e-05 patrols 2.86206e-06 i 4.37442e-08
+align 35 </s> 1

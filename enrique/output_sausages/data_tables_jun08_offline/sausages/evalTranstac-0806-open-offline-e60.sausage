@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999973 i 2.67102e-05
+align 2 we 1
+align 3 have 1
+align 4 to 1
+align 5 go 1
+align 6 to 0.625883 through 0.374117
+align 7 the 1
+align 8 uh 0.871585 um 0.128415
+align 9 *DELETE* 0.999603 uh 0.000396659
+align 10 ministry 1
+align 11 of 1
+align 12 interior 1
+align 13 for 1
+align 14 those 0.998643 low 0.000792503 will 0.000368793 though 0.000107567 we'll 7.4591e-05 little 1.38129e-05
+align 15 systems 0.999549 system's 0.000451431
+align 16 </s> 1

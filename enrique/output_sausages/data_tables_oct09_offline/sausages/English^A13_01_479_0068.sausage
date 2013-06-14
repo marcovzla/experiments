@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 okay 0.984598 they 0.0112009 be 0.00247023 around 0.00173064
+align 2 *DELETE* 0.998269 three 0.00173064
+align 3 sure 0.999175 say 0.000455496 she 0.000369267
+align 4 *DELETE* 0.996646 you 0.00335423
+align 5 no 0.892574 know 0.107426
+align 6 something 1
+align 7 else 0.970643 i'll 0.0293566
+align 8 uh 0.883094 to 0.0477874 that 0.0397618 stop 0.0293566
+align 9 you 0.930594 you're 0.0654133 uh 0.00399304
+align 10 *DELETE* 0.996007 you 0.00399304
+align 11 not 1
+align 12 telling 0.999969 *DELETE* 3.11336e-05
+align 13 us 0.99989 this 7.16425e-05 talents 3.11336e-05 if 6.11208e-06 of 1.47137e-06 those 1.78784e-08
+align 14 </s> 1

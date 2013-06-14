@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.891449 i 0.108551
+align 2 right 0.475272 like 0.260876 i 0.164862 why 0.069515 life 0.0183149 by 0.0100508 my 0.000625614 leith 0.000482951
+align 3 thank 1
+align 4 you 1
+align 5 for 1
+align 6 coming 1
+align 7 in 0.979801 and 0.0201993
+align 8 but 1
+align 9 there's 0.536991 there 0.463009
+align 10 *DELETE* 0.536991 is 0.463009
+align 11 nothing 1
+align 12 i 1
+align 13 can 1
+align 14 do 1
+align 15 to 1
+align 16 release 1
+align 17 him 0.995824 them 0.0041758
+align 18 at 1
+align 19 this 1
+align 20 time 1
+align 21 *DELETE* 0.998833 uh 0.000923804 i 0.000242803
+align 22 </s> 1

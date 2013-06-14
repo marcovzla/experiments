@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 now 0.513478 *DELETE* 0.182739 so 0.0655625 it 0.0653682 i 0.0581221 a 0.0469026 in 0.0223935 and 0.0144168 or 0.0108133 no 0.00748633 the 0.00424319 sir 0.00391572 uh 0.00251575 at 0.00201095 that 3.19979e-05
+align 3 *DELETE* 0.765004 now 0.12807 know 0.049793 all 0.0386586 our 0.0103668 no 0.00810699
+align 4 all 0.708348 about 0.0935047 hello 0.0850634 oh 0.0642205 out 0.0236671 i'll 0.0144168 not 0.0102959 *DELETE* 0.000483702
+align 5 what 1
+align 6 i'll 1
+align 7 do 1
+align 8 is 1
+align 9 i'll 0.9991 all 0.000900129
+align 10 demonstrate 0.999485 *DELETE* 0.0005152
+align 11 that 0.484639 it 0.466964 at 0.0477499 demonstrated 0.0005152 hit 4.70502e-05 had 4.09364e-05 there 3.04304e-05 the 8.58979e-06 their 2.38297e-06 a 2.28226e-06 uh 7.05527e-07
+align 12 now 1
+align 13 *DELETE* 0.999618 i 0.000353995 uh 2.61885e-05 you 7.19837e-07 in 3.18502e-07 a 2.80113e-07 to 2.38574e-07 the 1.38176e-07
+align 14 </s> 1

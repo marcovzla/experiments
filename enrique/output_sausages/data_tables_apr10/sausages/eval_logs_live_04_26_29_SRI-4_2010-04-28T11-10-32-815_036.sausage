@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 type 1
+align 3 of 1
+align 4 schooling 1
+align 5 do 1
+align 6 you 1
+align 7 have 1 i 4.67541e-19
+align 8 *DELETE* 0.999259 a 0.000419422 uh 0.000315239 to 3.83746e-06 it 1.74506e-06 the 2.89697e-07 i 1.24913e-07 in 9.94331e-08 have 4.67541e-19
+align 9 </s> 1

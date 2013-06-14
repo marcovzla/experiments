@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 we're 0.590296 we 0.290007 well 0.11487 where 0.0018576 when 0.00168866 what 0.00101145 oh 0.000162138 who 0.000106726
+align 2 working 0.924381 were 0.0693742 we 0.00624516
+align 3 *DELETE* 0.924381 working 0.0756193
+align 4 on 1
+align 5 it 0.997068 *DELETE* 0.00117095 that 0.00105582 a 0.000538016 her 9.81199e-05 is 3.02301e-05 uh 2.58535e-05 him 1.30445e-05
+align 6 *DELETE* 0.999988 now 9.88064e-06 i 1.53725e-06 so 1.97752e-07 to 1.67286e-09 in 9.04913e-11 is 3.37801e-12 it 5.30693e-13 and 3.56041e-13 um 3.33139e-15 or 3.75299e-27
+align 7 </s> 1

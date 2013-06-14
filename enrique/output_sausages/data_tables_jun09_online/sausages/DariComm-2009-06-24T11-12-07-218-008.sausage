@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 is 1
+align 3 your 1
+align 4 patrolling 1
+align 5 experience 0.999051 experienced 0.000834859 *DELETE* 0.000114612
+align 6 *DELETE* 0.995778 uh 0.0034347 i 0.000456321 it 0.00012899 experiences 0.000114612 in 2.96872e-05 do 2.12771e-05 you 1.23277e-05 is 1.17643e-05 to 6.70965e-06 a 4.86628e-06 that 7.30609e-07 the 1.15943e-09 did 8.70672e-10 if 2.27417e-10 at 4.80325e-11 as 2.04298e-11 with 2.94899e-13 on 2.39439e-20
+align 7 </s> 1

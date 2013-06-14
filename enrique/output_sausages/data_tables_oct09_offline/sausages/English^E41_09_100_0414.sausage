@@ -1,0 +1,47 @@
+numaligns 45
+posterior 1
+align 0 <s> 1
+align 1 you 0.999447 do 0.000553105
+align 2 *DELETE* 0.999447 you 0.000553105
+align 3 *DELETE* 0.999447 want 0.000553105
+align 4 wanna 0.978618 want 0.0207918 to 0.000553105 will 3.74398e-05
+align 5 *DELETE* 0.979208 to 0.0207918
+align 6 go 1
+align 7 ahead 1
+align 8 now 0.968523 and 0.0300553 *DELETE* 0.00142209
+align 9 *DELETE* 0.960316 uh 0.031204 i 0.00847998 a 3.2793e-10
+align 10 apply 0.768202 i 0.156398 *DELETE* 0.0753999
+align 11 *DELETE* 0.85631 apply 0.14369
+align 12 that 0.666085 the 0.245808 applied 0.0881072
+align 13 *DELETE* 0.984951 uh 0.0107771 i 0.00272589 at 0.0015456
+align 14 person 0.662126 oppression 0.261383 a 0.0461389 pressure 0.0113437 up 0.010532 pressuring 0.00766397 operation 0.000812106
+align 15 *DELETE* 0.943329 oppression 0.0461386 fresh 0.010532 pressure 2.54186e-07
+align 16 *DELETE* 0.987037 and 0.0112661 on 0.00169641
+align 17 go 1
+align 18 ahead 1
+align 19 now 0.687618 i'll 0.162695 no 0.0935648 *DELETE* 0.0285915 of 0.0134459 uh 0.00599566 not 0.00342902 and 0.00238189 know 0.00227794
+align 20 *DELETE* 0.993829 a 0.00617121
+align 21 put 0.967168 open 0.0328318
+align 22 on 1
+align 23 that 1
+align 24 person 1
+align 25 dressing 0.971454 just 0.0283404 *DELETE* 0.000205663
+align 26 *DELETE* 0.971454 thing 0.0207988 think 0.00754155 jasim 0.000205663
+align 27 and 1
+align 28 uh 0.714007 i've 0.143084 i 0.135434 i'd 0.00667904 eye 0.00048969 i. 0.000306383
+align 29 uh 0.647871 *DELETE* 0.298802 if 0.0533271
+align 30 that 1
+align 31 doesn't 1
+align 32 work 1
+align 33 either 0.999711 in 0.000288766
+align 34 *DELETE* 0.999711 a 0.000288766
+align 35 one 0.997905 while 0.00126526 in 0.000829754
+align 36 *DELETE* 0.998796 one 0.000829754 in 0.000373803 on 8.73176e-07
+align 37 imply 0.914349 apply 0.0680441 of 0.0122326 i'm 0.00389845 on 0.000956971 five 0.000374676 applied 0.000144465
+align 38 *DELETE* 0.982912 by 0.0122326 fly 0.00426143 five 0.000593988
+align 39 that 0.99985 at 0.000149632
+align 40 tourniquet 0.997598 turn 0.00240189 *DELETE* 4.8349e-13
+align 41 *DELETE* 0.997331 a 0.00156197 the 0.000966461 if 0.000101372 you 1.64439e-05 in 1.02e-05 at 6.03078e-06 yeah 4.87178e-06 is 8.70435e-07 to 3.29668e-07 on 1.9659e-07 do 1.52805e-07 so 1.20433e-07 tourniquets 9.8087e-08
+align 42 *DELETE* 0.997199 key 0.00240171 i 0.000167218 uh 0.000145751 it 8.64243e-05
+align 43 *DELETE* 1 you 1.7895e-07
+align 44 </s> 1

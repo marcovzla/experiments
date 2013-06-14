@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 tell 1
+align 4 me 1
+align 5 uh 0.998018 are 0.00198229
+align 6 *DELETE* 0.998324 uh 0.00167573
+align 7 what 1
+align 8 he 0.997175 it 0.00282519
+align 9 looks 1
+align 10 like 1
+align 11 *DELETE* 1 a 4.71384e-08 that 8.32881e-10
+align 12 </s> 1

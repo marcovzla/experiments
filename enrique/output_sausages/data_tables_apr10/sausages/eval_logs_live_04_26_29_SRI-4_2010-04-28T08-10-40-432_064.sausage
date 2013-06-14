@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.922599 do 0.0658115 does 0.0115896 did 2.54783e-07
+align 3 your 1
+align 4 job 0.982358 ground 0.0171667 drowned 0.000260671 grab 6.89676e-05 guy 5.39e-05 jobs 4.70822e-05 gas 1.63183e-05 grandpa 1.59913e-05 jan 8.90476e-06 *DELETE* 3.77081e-06
+align 5 *DELETE* 0.999991 gap 3.74019e-06 i'm 3.35226e-06 uh 1.20538e-06 is 7.53292e-07 i 4.91098e-08 drug 3.05704e-08 gun 3.87114e-11 drive 5.66605e-12 graham 4.28053e-12 jam 8.7922e-14 drugs 4.47942e-14 driving 1.34663e-18
+align 6 </s> 1

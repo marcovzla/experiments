@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 i 1 at 4.42058e-08 *DELETE* 1.68323e-58
+align 2 don't 1 in 4.42058e-08 aydin 1.79487e-29
+align 3 understand 1
+align 4 *DELETE* 0.999958 you 4.02462e-05 i 1.25799e-06 uh 6.59476e-07 it 1.52524e-12
+align 5 </s> 1

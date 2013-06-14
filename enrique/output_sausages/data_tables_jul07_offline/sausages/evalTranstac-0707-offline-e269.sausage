@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.996826 uh 0.00317434
+align 2 when 0.993552 on 0.0054822 in 0.000965603
+align 3 the 1
+align 4 vehicle 1
+align 5 approaches 1
+align 6 you 0.999992 your 7.59784e-06
+align 7 wait 0.999444 way 0.000555589
+align 8 for 1
+align 9 it 0.986348 *DELETE* 0.00996803 a 0.00368397
+align 10 to 1
+align 11 come 1
+align 12 to 1
+align 13 a 0.999916 *DELETE* 8.41443e-05
+align 14 halt 0.999786 hall 0.000186175 hole 2.72175e-05 home 6.12714e-07
+align 15 *DELETE* 0.999998 i 1.57754e-06 a 1.54647e-07
+align 16 </s> 1

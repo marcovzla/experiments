@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 well 1
+align 2 with 1
+align 3 the 0.980484 a 0.0195157
+align 4 barrier 1
+align 5 in 1
+align 6 place 1
+align 7 that 1
+align 8 should 0.831797 *DELETE* 0.168203
+align 9 cause 0.911279 caused 0.0887211
+align 10 the 0.998278 *DELETE* 0.00172174
+align 11 vehicle 1
+align 12 to 0.978195 *DELETE* 0.0212913 do 0.000513813
+align 13 come 1
+align 14 to 1
+align 15 a 0.994282 us 0.00516527 *DELETE* 0.00055306
+align 16 stop 0.999995 stopped 4.80408e-06
+align 17 *DELETE* 0.999996 i 4.26496e-06 uh 1.33544e-08
+align 18 </s> 1

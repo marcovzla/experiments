@@ -1,0 +1,37 @@
+numaligns 35
+posterior 1
+align 0 <s> 1
+align 1 uh 0.895708 i 0.0669623 oh 0.0253263 *DELETE* 0.0120038
+align 2 i 0.999862 *DELETE* 0.000137932
+align 3 would 0.972616 i 0.0273839
+align 4 *DELETE* 0.972616 would 0.0273839
+align 5 like 1
+align 6 to 1
+align 7 share 1
+align 8 with 1
+align 9 you 1
+align 10 a 1
+align 11 few 1
+align 12 *DELETE* 0.874285 of 0.125715
+align 13 the 1
+align 14 other 1
+align 15 uh 0.63189 *DELETE* 0.36811
+align 16 uh 0.424424 um 0.36811 *DELETE* 0.0860198 at 0.0366749 i 0.0305332 a 0.01645 it 0.0159575 in 0.0142208 an 0.00461754 and 0.00290529 to 8.68284e-05
+align 17 notes 1
+align 18 that 1
+align 19 i've 1
+align 20 taken 1
+align 21 down 1
+align 22 on 1
+align 23 my 1
+align 24 previous 1
+align 25 visits 1
+align 26 that 0.99998 the 2.00051e-05
+align 27 could 0.996849 kid 0.00315095
+align 28 *DELETE* 0.998083 gate 0.00191667
+align 29 eating 0.756735 eighty 0.143061 aiding 0.0726082 eighteen 0.0147651 aid 0.00790127 dating 0.00301279 and 0.00191667
+align 30 *DELETE* 0.991354 and 0.00864619
+align 31 your 0.85015 near 0.125036 in 0.0176997 you're 0.00605542 year 0.000754909 years 0.000131254 mir 0.000114287 here 4.32114e-05 ear 9.11337e-06 you 6.40005e-06
+align 32 *DELETE* 0.981757 your 0.0176907 a 0.000532194 you're 8.94946e-06 are 6.40005e-06 safe 5.02658e-06
+align 33 safety 0.999995 tea 5.02658e-06
+align 34 </s> 1

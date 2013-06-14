@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 who 0.99969 the 0.000309816 *DELETE* 2.80666e-22
+align 2 lives 1 *DELETE* 2.80666e-22
+align 3 here 0.999826 there 0.000159398 year 1.4228e-05 hello 1.86962e-07
+align 4 *DELETE* 0.999989 i 1.06513e-05 sir 1.86962e-07 uh 1.79446e-09
+align 5 </s> 1

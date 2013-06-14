@@ -1,0 +1,5 @@
+numaligns 3
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.756087 uh 0.150908 um 0.0544363 i 0.0347506 a 0.00206443 oh 0.00148153 if 0.000174541 the 7.25589e-05 we 2.49134e-05 you 3.63007e-07 we're 1.9388e-09 do 1.04354e-09 were 5.493e-11
+align 2 </s> 1

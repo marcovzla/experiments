@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 the 0.950943 do 0.0319825 *DELETE* 0.0170747
+align 3 of 0.788414 a 0.140977 you 0.0320742 did 0.00872112 it 0.00814883 if 0.00661409 are 0.0054406 their 0.00490753 they're 0.00282592 *DELETE* 0.00187616
+align 4 *DELETE* 0.998498 i've 0.000965663 they 0.000528458 have 7.48999e-06
+align 5 *DELETE* 0.998989 have 0.000618986 air 0.000382044 are 9.47066e-06
+align 6 determine 0.93652 determined 0.0634798
+align 7 is 0.994222 his 0.00469261 does 0.000976244 as 0.000109523
+align 8 that 0.999417 uh 0.000582854
+align 9 when 0.9958 one 0.00419991
+align 10 the 1
+align 11 employees 0.928214 employee's 0.051633 employees' 0.0201532
+align 12 go 1
+align 13 home 1
+align 14 the 0.999955 *DELETE* 4.52423e-05
+align 15 insurgents 0.96175 insurgence 0.0382497
+align 16 come 1
+align 17 in 1
+align 18 at 0.999485 a 0.000515314
+align 19 night 1
+align 20 to 1
+align 21 make 1
+align 22 the 1
+align 23 bombs 1
+align 24 *DELETE* 0.999991 i 8.88915e-06 in 2.23485e-07
+align 25 </s> 1

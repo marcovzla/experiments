@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 uh 0.616556 *DELETE* 0.383444
+align 3 it's 1
+align 4 probably 1
+align 5 uh 1
+align 6 uh 0.961154 *DELETE* 0.038846
+align 7 in 0.415019 *DELETE* 0.39508 uh 0.116309 um 0.0722627 i'm 0.00132966
+align 8 *DELETE* 0.994322 uh 0.00416824 in 0.00151001
+align 9 about 1
+align 10 two 1
+align 11 weeks 0.99584 weeks' 0.00416019
+align 12 worth 1
+align 13 of 1
+align 14 work 0.614997 *DELETE* 0.358578 worked 0.0262545 working 0.000170748
+align 15 as 0.598066 workers 0.358578 is 0.0433559
+align 16 they 0.779903 a 0.220097
+align 17 finish 0.999861 finnish 0.000139081
+align 18 up 0.916915 shop 0.0590542 it 0.0224456 op 0.00136205 out 0.000222931
+align 19 *DELETE* 0.977547 up 0.0224456 uh 7.549e-06 a 3.7654e-08
+align 20 </s> 1

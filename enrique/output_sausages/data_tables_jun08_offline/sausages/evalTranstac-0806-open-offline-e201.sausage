@@ -1,0 +1,46 @@
+numaligns 44
+posterior 1
+align 0 <s> 1
+align 1 uh 0.995656 oh 0.00434438
+align 2 *DELETE* 0.996271 uh 0.00370842 oh 2.08432e-05
+align 3 that's 0.999974 it's 2.62675e-05
+align 4 all 1
+align 5 i 1
+align 6 can 1
+align 7 think 1
+align 8 of 1
+align 9 for 0.985474 four 0.0144617 *DELETE* 6.45484e-05
+align 10 right 1
+align 11 now 1
+align 12 i'll 0.871511 it 0.0405253 *DELETE* 0.0376991 is 0.0226087 it's 0.0192996 if 0.0053921 i 0.00296451
+align 13 just 1
+align 14 make 1
+align 15 sure 1
+align 16 you 1
+align 17 have 1
+align 18 all 1
+align 19 my 1
+align 20 information 1
+align 21 please 1
+align 22 keep 0.981368 key 0.0186315
+align 23 me 1
+align 24 informed 0.975286 inform 0.0247143
+align 25 is 0.813394 as 0.14228 does 0.0250909 his 0.00947269 *DELETE* 0.00486476 us 0.0040454 this 0.000851708
+align 26 *DELETE* 0.998617 of 0.001383
+align 27 the 0.995135 business 0.00486476
+align 28 status 1
+align 29 of 1
+align 30 lieutenant 1
+align 31 men 0.953157 mend 0.0468429
+align 32 and 0.891956 then 0.108044
+align 33 when 0.999693 one 0.000306944
+align 34 he'll 0.998828 i'll 0.000910812 will 0.000132839 who'll 0.000128116
+align 35 be 1
+align 36 able 1
+align 37 to 0.970433 *DELETE* 0.0295669
+align 38 return 0.990006 returned 0.00999421
+align 39 to 1
+align 40 duty 0.995158 duties 0.00473078 do 0.000108207 due 2.73315e-06
+align 41 *DELETE* 0.999911 to 8.86825e-05 it 7.76026e-11
+align 42 *DELETE* 0.99994 you 3.83161e-05 do 8.23069e-06 they 7.07501e-06 need 2.64061e-06 i 2.1203e-06 the 1.2462e-06 in 7.76026e-11
+align 43 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 all 0.726829 i 0.273171
+align 2 right 0.726829 *DELETE* 0.273171
+align 3 have 0.991584 had 0.00841622
+align 4 no 1
+align 5 idea 0.900945 i._d. 0.0866697 i 0.0123857
+align 6 *DELETE* 0.987614 do 0.0123857
+align 7 what 1
+align 8 you're 0.533252 you 0.466748
+align 9 talking 1
+align 10 about 1
+align 11 *DELETE* 0.998866 uh 0.00112249 i 6.10158e-06 it 4.74834e-06 you 1.97138e-07 a 2.33597e-12
+align 12 </s> 1

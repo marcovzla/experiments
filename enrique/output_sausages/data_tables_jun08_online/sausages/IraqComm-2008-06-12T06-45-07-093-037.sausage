@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 any 1
+align 3 of 1
+align 4 the 1
+align 5 school 1
+align 6 employees 0.987597 employee's 0.0124027
+align 7 involved 0.921914 in 0.0486263 and 0.0286658 *DELETE* 0.000581625 an 0.000212353
+align 8 *DELETE* 0.92183 bald 0.0774995 involve 0.000581625 in 6.37151e-05 uh 1.36584e-05 i 7.05479e-06 bold 4.60784e-06 ball 2.72658e-07
+align 9 *DELETE* 1 the 1.41374e-09
+align 10 </s> 1

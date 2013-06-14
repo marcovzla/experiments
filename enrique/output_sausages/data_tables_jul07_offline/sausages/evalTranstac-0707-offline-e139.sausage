@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 uh 1
+align 3 we 1
+align 4 will 1
+align 5 look 1
+align 6 into 1
+align 7 the 0.99998 that 2.04055e-05
+align 8 problem 0.834978 problems 0.161372 problem's 0.00364946
+align 9 *DELETE* 0.996964 i 0.00128762 to 0.000934371 is 0.000654608 uh 0.000134383 if 8.93829e-06 so 6.84727e-06 of 6.30324e-06 do 2.48912e-06 the 2.07426e-07 it 1.17652e-07 just 2.93474e-08 she 7.84264e-09
+align 10 </s> 1

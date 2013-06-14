@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 then 0.99646 do 0.00220138 they 0.000908362 and 0.000325557 the 7.76066e-05 did 2.69442e-05
+align 2 *DELETE* 0.999092 do 0.000908362
+align 3 you 0.995851 he 0.00397969 do 9.20298e-05 new 7.76066e-05
+align 4 *DELETE* 0.999908 you 9.20298e-05
+align 5 will 0.996066 we'll 0.00393411
+align 6 provide 1
+align 7 i._v. 0.997341 a 0.00265852
+align 8 *DELETE* 0.997341 i._v. 0.00265852
+align 9 fluids 1
+align 10 because 1
+align 11 she's 0.999998 she 1.71305e-06
+align 12 *DELETE* 0.999998 is 1.71305e-06
+align 13 dehydrated 0.999949 be 4.88634e-05 the 2.03717e-06
+align 14 *DELETE* 0.999949 hydrated 5.09006e-05 i 5.3418e-14
+align 15 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 you 1
+align 4 use 1
+align 5 for 1
+align 6 backup 0.999812 back 0.000187789
+align 7 *DELETE* 0.999812 up 0.000187789
+align 8 power 1 *DELETE* 3.5585e-16
+align 9 *DELETE* 0.999117 uh 0.000769701 on 8.2576e-05 i 2.55134e-05 or 4.79797e-06 to 1.27588e-11 our 1.01804e-13 in 6.00946e-17 a 9.36826e-20 oh 2.73034e-21
+align 10 </s> 1

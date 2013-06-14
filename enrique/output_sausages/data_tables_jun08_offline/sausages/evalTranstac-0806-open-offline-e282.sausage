@@ -1,0 +1,46 @@
+numaligns 44
+posterior 1
+align 0 <s> 1
+align 1 i 0.997782 uh 0.00221298 oh 5.30418e-06
+align 2 i 1
+align 3 *DELETE* 0.78916 i 0.21084
+align 4 *DELETE* 0.998835 i 0.00116458
+align 5 understand 1
+align 6 uh 1
+align 7 uh 0.936823 *DELETE* 0.0631768
+align 8 that 0.967516 uh 0.0320631 *DELETE* 0.00032305 they 9.76722e-05
+align 9 *DELETE* 1 they 2.6356e-07
+align 10 *DELETE* 0.967931 that 0.0320629 uh 6.40171e-06
+align 11 the 1
+align 12 *DELETE* 0.999677 uh 0.00032305
+align 13 *DELETE* 0.999677 the 0.00032305
+align 14 reason 0.999895 reasons 0.00010459
+align 15 for 1
+align 16 doing 1
+align 17 that 1
+align 18 but 1
+align 19 also 1
+align 20 um 1
+align 21 i 1
+align 22 *DELETE* 0.996468 i 0.00353185
+align 23 would 1
+align 24 hope 1
+align 25 that 1
+align 26 you 1
+align 27 in 0.782647 and 0.209059 would 0.00829389
+align 28 a 1
+align 29 brays 1
+align 30 and 1
+align 31 *DELETE* 1 i 2.73994e-11
+align 32 uh 1
+align 33 a 0.982977 i 0.0170228 uh 3.64482e-07
+align 34 *DELETE* 1 i 3.64482e-07
+align 35 different 0.968149 differ 0.031748 definite 0.000102552
+align 36 way 1
+align 37 of 1
+align 38 doing 1
+align 39 things 1
+align 40 um 0.999997 *DELETE* 3.19775e-06
+align 41 *DELETE* 0.999713 uh 0.000262808 i 2.33838e-05 a 4.70208e-07
+align 42 *DELETE* 0.999997 um 3.17759e-06
+align 43 </s> 1

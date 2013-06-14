@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 small 0.766025 smile 0.186041 is 0.0479348
+align 3 *DELETE* 0.952065 small 0.0479348
+align 4 pools 0.8582 poles 0.076538 tools 0.0652613 pulls 4.68965e-07
+align 5 do 1
+align 6 you 1
+align 7 have 1
+align 8 available 1 a 7.73209e-14
+align 9 *DELETE* 0.999995 to 4.50175e-06 available 7.73209e-14
+align 10 </s> 1

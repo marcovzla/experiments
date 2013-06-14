@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 medication 1
+align 5 do 1
+align 6 you 1
+align 7 need 1
+align 8 most 0.999945 a 5.47967e-05
+align 9 *DELETE* 0.999638 i 0.000169802 uh 0.000102469 most 5.47967e-05 of 2.60519e-05 if 6.81677e-06 are 1.23173e-06 to 7.65504e-07 a 5.06022e-07
+align 10 </s> 1

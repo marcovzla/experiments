@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 done 1
+align 4 anything 1
+align 5 about 1
+align 6 it 1 *DELETE* 2.05678e-18
+align 7 *DELETE* 0.999937 uh 6.23385e-05 i 8.72184e-07 that 5.82634e-18 it 9.26953e-20
+align 8 </s> 1

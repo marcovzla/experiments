@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 it's 0.997118 its 0.00288223
+align 3 not 1
+align 4 his 1
+align 5 stomach 1
+align 6 that 1
+align 7 is 1
+align 8 rising 1
+align 9 up 0.985011 uh 0.0139056 out 0.000799889 op 0.000283662 um 2.42346e-07
+align 10 *DELETE* 0.998562 up 0.00136857 uh 6.95514e-05
+align 11 </s> 1

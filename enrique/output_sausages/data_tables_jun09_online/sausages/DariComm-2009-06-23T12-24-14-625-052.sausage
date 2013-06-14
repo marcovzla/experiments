@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 0.52872 i'll 0.289682 i'd 0.142006 uh 0.0378818 um 0.00117973 and 0.000529725
+align 2 *DELETE* 0.949224 i 0.0507762
+align 3 say 1
+align 4 again 1
+align 5 then 0.723265 and 0.254603 they 0.012827 in 0.00930509
+align 6 i 0.964951 uh 0.0221592 not 0.012827 *DELETE* 6.25939e-05 on 1.09962e-18
+align 7 understand 1 the 1.09962e-18
+align 8 *DELETE* 0.992047 uh 0.00670296 you 0.000414604 that 0.000407231 i 0.000225361 it 0.000191441 um 6.66245e-06 the 4.50642e-06 stand 1.09962e-18
+align 9 </s> 1

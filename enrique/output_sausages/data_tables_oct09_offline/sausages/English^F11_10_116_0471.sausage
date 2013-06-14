@@ -1,0 +1,42 @@
+numaligns 40
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.848387 if 0.151613
+align 2 you 0.998913 few 0.00108694
+align 3 can 1
+align 4 go 1
+align 5 ahead 1
+align 6 and 1
+align 7 show 1
+align 8 me 1
+align 9 uh 1
+align 10 *DELETE* 0.95002 uh 0.0499803
+align 11 where 0.981514 were 0.0139527 wear 0.00414282 we're 0.000371371 was 1.9619e-05
+align 12 the 1
+align 13 most 1
+align 14 talaban 0.918192 talla 0.081808
+align 15 *DELETE* 0.918192 band 0.0790265 banned 0.00278141
+align 16 no 0.524924 uh 0.265031 know 0.201276 oh 0.00876798
+align 17 *DELETE* 1 if 3.57926e-10
+align 18 activity 1
+align 19 has 0.679093 is 0.316795 it's 0.0041114
+align 20 been 0.860816 being 0.138232 bin 0.000952161
+align 21 in 0.602237 a 0.397638 and 0.00012566
+align 22 no 0.367775 *DELETE* 0.33725 the 0.119076 now 0.0952594 though 0.0632584 know 0.0173808
+align 23 i 0.472929 uh 0.412487 and 0.044166 our 0.0275684 *DELETE* 0.0267085 know 0.0081096 not 0.00803068
+align 24 *DELETE* 0.99891 i 0.000635489 and 0.000454188
+align 25 that's 0.998733 i 0.00126657
+align 26 *DELETE* 0.998733 that's 0.00126657
+align 27 why 0.747262 what 0.183125 *DELETE* 0.0670963 where 0.00251701
+align 28 the 0.505833 uh 0.424769 where 0.0670963 *DELETE* 0.00224777 it 5.37139e-05
+align 29 *DELETE* 0.995514 the 0.00448435 it 2.04036e-06
+align 30 that's 0.999266 dust 0.000728468 does 6.03018e-06
+align 31 when 0.661999 we 0.203666 one 0.0799088 what 0.042832 well 0.0044227 where 0.00411592 we'll 0.00159478 will 0.000546574 who 0.000408803 with 0.000272396 on 9.93422e-05 why 8.13772e-05 whom 2.39008e-05 *DELETE* 1.96799e-05 wound 8.3328e-06
+align 32 we'll 0.762342 will 0.23766
+align 33 start 1
+align 34 planning 1
+align 35 or 0.999978 *DELETE* 2.23289e-05
+align 36 uh 0.95461 um 0.0422683 *DELETE* 0.00295145 of 0.000170102
+align 37 v._c._p. 0.999621 v._c._p.s 0.000379211 e._c._p. 1.66905e-07 the 3.79161e-08
+align 38 *DELETE* 1 c._p. 3.79161e-08
+align 39 </s> 1

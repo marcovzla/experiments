@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 sir 0.999999 *DELETE* 1.23037e-12
+align 2 it 0.999928 *DELETE* 7.10572e-05 sorry 5.0711e-07 sarraj 9.84806e-08
+align 3 is 1
+align 4 nice 1
+align 5 to 1
+align 6 meet 1
+align 7 you 1
+align 8 i 1
+align 9 am 0.907278 mean 0.0927216
+align 10 you 0.844754 your 0.0837104 year 0.0337695 you're 0.0311362 here 0.0066301
+align 11 new 0.704452 knew 0.295548
+align 12 company 1
+align 13 meant 0.730295 man 0.122504 men 0.0790288 ma'am 0.0290773 manned 0.0227046 mental 0.00673683 *DELETE* 0.00600265 mend 0.00172699 mount 0.00164547 mann 0.00027847
+align 14 tore 0.644076 for 0.225323 or 0.0461545 war 0.0228777 to 0.0224854 *DELETE* 0.0200507 four 0.0190327
+align 15 *DELETE* 0.955039 or 0.0151395 work 0.0101374 tour 0.00757623 mansour 0.00600027 wore 0.00180534 toward 0.00098131 a 0.000887127 uh 0.000424534 were 0.000384512 poor 0.000349361 it 0.000346073 you 0.000322003 the 0.000179474 i 0.000164151 torn 8.09851e-05 up 7.68814e-05 our 6.59269e-05 them 1.39723e-05 we're 1.30275e-05 in 8.19287e-06 manpower 2.37942e-06 i'm 1.73244e-06 to 5.79788e-07 and 4.54519e-10 of 3.35635e-11 towards 7.68699e-12 an 5.58975e-13
+align 16 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 need 1
+align 4 medical 1
+align 5 assistance 0.612681 assistants 0.387319
+align 6 with 1
+align 7 your 0.999909 you 4.77594e-05 you're 4.27555e-05
+align 8 situation 0.999997 uh 2.95193e-06 *DELETE* 1.81173e-24
+align 9 *DELETE* 0.999997 situation 2.95193e-06 situations 7.05013e-10 i 1.31712e-10 uh 4.05884e-12 now 1.36191e-14
+align 10 </s> 1

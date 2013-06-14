@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 we 0.999992 *DELETE* 8.12533e-06
+align 2 will 0.993133 we'll 0.00685907 you'll 8.12533e-06
+align 3 talk 1
+align 4 to 1
+align 5 the 1
+align 6 command 0.977546 commander 0.0224543
+align 7 and 1
+align 8 see 1
+align 9 if 1
+align 10 we 1
+align 11 get 1
+align 12 some 1
+align 13 more 1
+align 14 arranged 0.86287 range 0.0689228 ranged 0.0681176 *DELETE* 8.99401e-05
+align 15 *DELETE* 0.993595 it 0.00415542 uh 0.00135797 i 0.000240892 a 0.000229894 to 0.000200717 arrange 8.99401e-05 do 5.19136e-05 in 5.0095e-05 you 2.10612e-05 me 6.15702e-06 the 4.20633e-07 and 2.03786e-07 oh 5.34594e-09
+align 16 </s> 1

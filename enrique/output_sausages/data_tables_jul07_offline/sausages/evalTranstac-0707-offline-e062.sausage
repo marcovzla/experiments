@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 we'll 0.875518 will 0.124482
+align 3 be 1
+align 4 gone 1
+align 5 you 0.95771 is 0.0271964 use 0.0150934
+align 6 soon 0.959758 seen 0.0399811 see 0.000217846 scene 4.27514e-05 *DELETE* 4.47705e-13
+align 7 as 1 is 4.18798e-09 seize 2.05925e-09
+align 8 we 1
+align 9 can 0.999418 can't 0.000581631 *DELETE* 5.96416e-13
+align 10 *DELETE* 1 do 3.14589e-10 uh 2.20413e-11 came 2.17112e-11
+align 11 </s> 1

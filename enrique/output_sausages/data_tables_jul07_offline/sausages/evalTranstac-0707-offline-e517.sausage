@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 this 1
+align 2 is 1
+align 3 the 0.721208 a 0.278792
+align 4 grand 1
+align 5 mosque 1
+align 6 in 0.919386 and 0.080598 end 1.59131e-05
+align 7 the 0.997166 a 0.00283384
+align 8 minaret 0.982888 minarets 0.0171117
+align 9 *DELETE* 1 i 4.63976e-07
+align 10 </s> 1

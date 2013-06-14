@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 have 1
+align 4 you 1
+align 5 worked 1
+align 6 in 0.9996 on 0.000400082
+align 7 a 0.990268 the 0.00973248
+align 8 hospital 1
+align 9 *DELETE* 0.999995 i 5.09559e-06
+align 10 </s> 1

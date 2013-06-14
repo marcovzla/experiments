@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 you 1
+align 3 speak 1
+align 4 into 0.990677 it's 0.00569204 inside 0.00363103
+align 5 *DELETE* 0.994308 on 0.0040316 in 0.00166044
+align 6 the 0.982193 that 0.00953457 them 0.00827238
+align 7 might 1
+align 8 can 1
+align 9 you 1
+align 10 speak 1
+align 11 a 1
+align 12 little 1
+align 13 slower 0.980319 slow 0.0196815
+align 14 *DELETE* 0.972472 or 0.0192626 uh 0.00659206 um 0.000962731 and 0.00039626 i 0.000274943 in 1.90752e-05 a 1.00194e-05 you 8.70319e-06 it 1.2599e-06 of 1.90479e-07 if 1.09069e-07 do 1.05108e-07 to 2.35572e-52 on 3.72552e-56 for 7.08119e-61 than 5.29976e-68
+align 15 </s> 1

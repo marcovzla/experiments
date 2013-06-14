@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999994 i 6.09086e-06
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 problems 1
+align 6 with 1
+align 7 the 1
+align 8 talaban 1
+align 9 in 0.998481 and 0.00151256 an 5.74148e-06 end 1.02259e-06
+align 10 this 1
+align 11 area 1
+align 12 *DELETE* 0.99976 uh 0.000238143 sir 1.9668e-06 and 8.07497e-09 is 1.83514e-09 to 9.41426e-13 are 8.27084e-14
+align 13 </s> 1

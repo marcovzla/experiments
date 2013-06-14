@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.999812 i 0.0001884
+align 2 *DELETE* 0.999812 am 0.0001884
+align 3 good 0.999962 *DELETE* 3.84479e-05
+align 4 *DELETE* 0.999048 uh 0.000913701 dead 3.84479e-05 and 2.64179e-17 i 1.10678e-17 it 7.26942e-19
+align 5 </s> 1

@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 rephrase 0.99939 three 0.000610185
+align 2 *DELETE* 0.999357 friends 0.000514565 phase 9.56206e-05 it 2.48468e-05 that 8.42928e-06 uh 9.08302e-10 i 2.17197e-10 a 1.0034e-11
+align 3 </s> 1

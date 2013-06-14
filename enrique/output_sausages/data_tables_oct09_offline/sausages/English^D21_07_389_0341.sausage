@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 well 0.793605 what 0.151544 where 0.0547626 why 8.83493e-05
+align 2 *DELETE* 0.999854 it 0.000145948
+align 3 does 0.990675 *DELETE* 0.00932509
+align 4 the 0.655552 a 0.279452 *DELETE* 0.0535445 doesn't 0.00932509 it 0.00212584
+align 5 writing 0.999107 riding 0.000893304
+align 6 on 1
+align 7 the 1
+align 8 wall 1
+align 9 say 1
+align 10 anything 1
+align 11 uh 1
+align 12 that'd 1
+align 13 be 1
+align 14 helpful 1
+align 15 to 1
+align 16 us 1
+align 17 coalition 1
+align 18 forces 0.99852 forces' 0.000940892 force's 0.000502654 force 3.67711e-05
+align 19 *DELETE* 0.999963 is 3.67711e-05
+align 20 </s> 1

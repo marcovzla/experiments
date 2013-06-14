@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999921 oh 7.8795e-05
+align 2 okay 1
+align 3 then 0.999585 they 0.000393043 there 2.22349e-05
+align 4 we're 0.998592 were 0.00140786
+align 5 going 0.652539 *DELETE* 0.347461
+align 6 to 0.652539 gonna 0.347461
+align 7 go 1
+align 8 ahead 1
+align 9 and 1
+align 10 uh 1
+align 11 secure 0.598442 uh 0.400692 secured 0.000865492
+align 12 *DELETE* 0.599308 secure 0.400692
+align 13 that 1
+align 14 area 1
+align 15 *DELETE* 0.953536 they 0.0417869 the 0.00467701
+align 16 there 0.951759 have 0.0399223 of 0.00318788 if 0.00309237 they're 0.000650669 there's 0.000430625 their 0.000380088 are 0.000236976 that's 0.000167235 there've 7.1516e-05 this 5.91881e-05 *DELETE* 2.43756e-05 that 9.65924e-06 does 7.87434e-06
+align 17 *DELETE* 0.996986 if 0.00162262 is 0.00130651 of 8.51091e-05 are 1.26533e-09
+align 18 </s> 1

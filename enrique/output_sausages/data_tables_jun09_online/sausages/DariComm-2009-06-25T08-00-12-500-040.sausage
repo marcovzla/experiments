@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 inside 1
+align 2 this 1
+align 3 packet 0.999135 back 0.000865061
+align 4 there 1
+align 5 are 1
+align 6 many 1
+align 7 medical 1
+align 8 supplies 1
+align 9 *DELETE* 0.9994 uh 0.000339466 it 0.000141128 in 8.22237e-05 i 3.36264e-05 to 2.23823e-06 you 8.16942e-07 so 3.22588e-09 if 3.69289e-12 do 1.87896e-15
+align 10 </s> 1

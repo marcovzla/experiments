@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 doesn't 0.999839 does 0.000161295
+align 3 *DELETE* 0.999839 not 0.000161295
+align 4 matter 1
+align 5 you 0.991252 you've 0.00874845
+align 6 you 0.837013 he 0.149765 do 0.0131572 *DELETE* 6.56344e-05
+align 7 *DELETE* 0.986536 you 0.0134638
+align 8 would 0.849176 what 0.0977476 which 0.043435 with 0.00665691 put 0.00298473
+align 9 sick 0.842415 take 0.0970522 stick 0.0218208 steak 0.0160484 sake 0.0118435 sic 0.0108201
+align 10 anyway 0.953798 any 0.045763 a 0.00030333 *DELETE* 0.000135594
+align 11 *DELETE* 0.953561 way 0.0456292 anyway 0.00030333 i 0.00018452 weigh 0.000133841 anyone 9.99472e-05 uh 3.07772e-05 anywhere 2.69764e-05 anyways 8.66987e-06 um 7.35895e-06 it 5.16295e-06 i'm 5.06335e-06 so 1.94316e-06 you 1.27236e-06 the 5.17684e-07 now 2.93209e-08 we 4.38834e-09 to 3.2007e-12 and 2.49938e-12 in 4.21633e-13 do 3.63986e-13
+align 12 *DELETE* 0.999998 uh 1.52649e-06 to 2.69161e-13
+align 13 </s> 1

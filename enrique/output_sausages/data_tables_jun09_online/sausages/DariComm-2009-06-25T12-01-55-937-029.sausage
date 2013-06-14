@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 set 1
+align 4 up 1
+align 5 any 0.992759 a 0.00707019 in 0.000170701
+align 6 *DELETE* 0.992991 any 0.00467045 need 0.00216804 the 0.000170701
+align 7 v._c._p.s 0.999862 e._c._p.s 0.000132261 v._c._p. 5.6664e-06
+align 8 *DELETE* 0.999905 uh 6.86558e-05 i 1.70637e-05 is 5.6664e-06 a 3.04064e-06 at 9.85187e-07 to 1.59995e-08 ease 7.10025e-14
+align 9 </s> 1

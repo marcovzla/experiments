@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 let's 0.788024 that's 0.128247 it's 0.0779 since 0.00495136 does 0.00087693
+align 2 uh 1
+align 3 go 1
+align 4 back 1
+align 5 downstairs 0.998814 down 0.000809551 dumpsters 0.00037664
+align 6 *DELETE* 0.99919 stairs 0.000809531 stirs 1.99504e-08
+align 7 </s> 1

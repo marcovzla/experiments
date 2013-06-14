@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you 0.981679 we 0.0183212
+align 2 think 1
+align 3 uh 0.909022 they 0.0548679 go 0.012436 i 0.0116822 they're 0.0100272 the 0.00196388 you 4.09391e-07
+align 4 *DELETE* 0.943168 are 0.0540375 uh 0.00279472
+align 5 keep 1
+align 6 these 0.949356 you 0.0278961 this 0.0215694 your 0.00117822
+align 7 guys 0.981849 guy's 0.0181507
+align 8 away 0.978111 a 0.0109797 *DELETE* 0.00778451 the 0.00199937 oh 0.000661026 are 0.00044938 i 1.50768e-05 or 3.84271e-08
+align 9 *DELETE* 0.977607 way 0.0141266 awai 0.00773683 i 0.0003228 uh 9.10567e-05 in 5.37587e-05 aware 2.56381e-05 a 2.21069e-05 if 9.16532e-06 it 4.43497e-06 at 1.46927e-07 and 9.80919e-08 you 5.55749e-08 to 2.14563e-08
+align 10 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 get 1
+align 4 hit 0.534066 it 0.39816 there 0.0624381 a 0.00349987 their 0.00155412 they 0.00028195
+align 5 by 0.999586 buy 0.000413691
+align 6 a 0.999912 the 8.75651e-05 *DELETE* 1.18939e-15
+align 7 dog 1
+align 8 *DELETE* 0.999852 you 6.51917e-05 to 5.04014e-05 they 1.57444e-05 them 1.50191e-05 and 1.67915e-06 high 1.17256e-07 uh 9.92485e-08 there 9.04857e-09 it 6.66931e-09 in 1.07401e-10 that 5.45986e-13 hi 1.2613e-13 now 7.34062e-14 too 1.28562e-15 do 2.67406e-17 me 1.16921e-18 name 7.55349e-20 the 6.05711e-22
+align 9 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 certified 1
+align 4 to 1
+align 5 build 0.996519 built 0.0034781 *DELETE* 4.46832e-15
+align 6 things 0.999888 *DELETE* 7.75334e-05 a 3.49222e-05
+align 7 *DELETE* 0.998704 uh 0.00085148 i 0.000300631 thing's 7.47217e-05 things 3.49222e-05 it 1.73613e-05 to 1.19343e-05 buildings 2.81163e-06 in 1.97024e-06 the 1.06527e-07
+align 8 </s> 1

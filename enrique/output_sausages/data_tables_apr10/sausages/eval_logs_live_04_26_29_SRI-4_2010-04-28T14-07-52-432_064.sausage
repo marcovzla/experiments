@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 of 1
+align 4 these 1
+align 5 are 0.985319 our 0.0146807
+align 6 boys 0.992519 *DELETE* 0.00448442 boy 0.0029961
+align 7 *DELETE* 0.991992 is 0.0029961 boy's 0.00235265 boys' 0.0018915 i 0.000353992 boyce 0.000240268 uh 0.000163785 it 4.2208e-06 to 3.74659e-06 of 9.67209e-07 in 9.41186e-07 as 2.09153e-07
+align 8 </s> 1

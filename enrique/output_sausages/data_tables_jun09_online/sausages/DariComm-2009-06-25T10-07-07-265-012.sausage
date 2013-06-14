@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 how 1 *DELETE* 2.57669e-12
+align 2 are 0.998197 *DELETE* 0.00171797 our 8.51895e-05
+align 3 you 0.999371 here 0.000605598 new 2.12853e-05 him 1.17998e-06 i 6.16918e-10 hear 5.23991e-10 we 8.0065e-12 *DELETE* 4.99201e-19
+align 4 *DELETE* 1 i 9.91489e-16 hour 3.29024e-17 uh 6.35148e-19 do 3.44483e-27
+align 5 </s> 1

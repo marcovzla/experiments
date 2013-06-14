@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999943 if 5.67561e-05
+align 2 the 1
+align 3 first 1
+align 4 job 0.504055 shop 0.329972 shab 0.0812281 shabi 0.0713587 shot 0.00744787 shahba' 0.00403918 shaab 0.00180802 shihab 9.04168e-05
+align 5 is 0.846144 it 0.0938553 he's 0.0524474 as 0.00636576 in 0.000831622 at 0.00026122 if 9.47298e-05
+align 6 *DELETE* 0.905218 is 0.0946869 he's 9.47298e-05
+align 7 a 0.885426 oh 0.111186 the 0.00266349 o 0.000462468 his 0.00026122
+align 8 *DELETE* 0.999739 oh 0.00026122
+align 9 well 1
+align 10 in 1
+align 11 the 1
+align 12 village 1
+align 13 to 1
+align 14 support 1
+align 15 twenty 1
+align 16 houses 0.999929 house's 3.48515e-05 house 3.19999e-05 how's 4.54699e-06 how 1.13914e-12
+align 17 *DELETE* 0.999933 is 3.19878e-05 i 3.04176e-05 this 4.55911e-06 uh 3.41635e-07 in 1.81679e-07
+align 18 *DELETE* 1 this 1.13914e-12
+align 19 </s> 1

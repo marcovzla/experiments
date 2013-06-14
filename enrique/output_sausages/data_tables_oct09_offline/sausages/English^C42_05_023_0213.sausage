@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 reason 1
+align 3 i 1
+align 4 wanted 0.888399 want 0.110774 *DELETE* 0.0008265
+align 5 to 0.999174 wanna 0.0008265
+align 6 talk 1
+align 7 to 0.999792 *DELETE* 0.000207884
+align 8 you 1
+align 9 today 1
+align 10 is 0.997492 as 0.0025084
+align 11 a 0.723871 it 0.250309 uh 0.0162394 that 0.00624496 i 0.00193535 *DELETE* 0.000990327 the 0.000145249 in 8.36418e-05 are 8.1124e-05 an 5.60064e-05 our 4.03274e-05 of 3.32261e-06
+align 12 we 1
+align 13 have 1
+align 14 a 1
+align 15 number 1
+align 16 of 1 *DELETE* 3.66825e-17
+align 17 projects 1
+align 18 that 0.982968 the 0.016915 to 0.000117378
+align 19 we 1
+align 20 need 1
+align 21 help 1
+align 22 with 0.984273 well 0.0109653 *DELETE* 0.00476202
+align 23 *DELETE* 0.98819 that 0.00475331 oil 0.00460604 it 0.000959617 you 0.000796201 us 0.00026901 where 0.000153497 uh 0.000131695 them 9.22455e-05 this 3.13406e-05 me 1.12901e-05 the 3.37356e-06 or 2.4743e-06 a 7.07977e-08 when 5.52301e-09 way 4.67589e-10 in 2.38289e-10
+align 24 </s> 1

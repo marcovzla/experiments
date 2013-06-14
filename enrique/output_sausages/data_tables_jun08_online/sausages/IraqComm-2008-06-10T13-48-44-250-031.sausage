@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 types 1
+align 3 of 1
+align 4 weapons 1
+align 5 are 0.998638 or 0.00127727 were 7.82698e-05 we're 5.9192e-06 they're 7.87942e-08 our 1.1286e-10
+align 6 missing 1
+align 7 </s> 1

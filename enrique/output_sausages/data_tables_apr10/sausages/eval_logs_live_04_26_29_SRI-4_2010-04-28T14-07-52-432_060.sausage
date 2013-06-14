@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 students 1
+align 4 are 0.834557 *DELETE* 0.165443
+align 5 at 0.968763 in 0.0287069 *DELETE* 0.00248678 of 3.83568e-05 add 5.25121e-06 are 6.12711e-09
+align 6 the 0.84414 this 0.155075 that 0.000784287
+align 7 school 0.999958 schools 4.18498e-05
+align 8 *DELETE* 0.999994 at 5.62217e-06 in 4.58117e-08 i 1.87369e-09 uh 4.90687e-10
+align 9 </s> 1

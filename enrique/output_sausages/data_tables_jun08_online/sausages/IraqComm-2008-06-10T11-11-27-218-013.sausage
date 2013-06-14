@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 1
+align 3 is 1
+align 4 the 1
+align 5 third 1
+align 6 child 1
+align 7 *DELETE* 0.999773 uh 0.000126737 i 9.6193e-05 in 4.15045e-06 a 3.5249e-07 to 3.05307e-13 and 1.06177e-23
+align 8 </s> 1

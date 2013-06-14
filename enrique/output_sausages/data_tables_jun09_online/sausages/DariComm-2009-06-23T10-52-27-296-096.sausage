@@ -1,0 +1,6 @@
+numaligns 4
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 *DELETE* 0.999014 i 0.000735929 uh 0.00024944 good 4.08705e-07 you 1.62284e-09
+align 3 </s> 1

@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.994724 and 0.00343011 well 0.00130942 why 0.000536557 what 2.08752e-11
+align 2 once 0.994287 ones 0.00370377 as 0.00130938 is 0.000405862 *DELETE* 0.000163111 it's 0.000124372 was 6.36212e-06
+align 3 they 0.998522 *DELETE* 0.00131518 was 0.000161676 wanna 1.23964e-06 may 1.9543e-07
+align 4 *DELETE* 0.999938 they 6.18661e-05
+align 5 are 0.998584 they're 0.00120185 there 0.000213137 stay 1.43507e-06
+align 6 *DELETE* 0.963175 out 0.0357633 off 0.00106128
+align 7 all 0.963175 *DELETE* 0.0293526 of 0.00747201
+align 8 the 0.999872 *DELETE* 0.000128449
+align 9 car 1
+align 10 you 1
+align 11 with 0.64145 was 0.296534 were 0.0422949 will 0.0195945 would 0.000126572
+align 12 searching 0.980727 search 0.0191237 urged 0.000148917
+align 13 the 0.999995 to 5.22516e-06
+align 14 people 1 *DELETE* 4.93538e-15
+align 15 *DELETE* 0.999791 uh 0.000142884 do 5.2272e-05 you 8.21254e-06 in 4.35132e-06 and 1.20163e-06 i 1.54597e-07 peoples 1.22286e-09 depot 2.63453e-20
+align 16 </s> 1

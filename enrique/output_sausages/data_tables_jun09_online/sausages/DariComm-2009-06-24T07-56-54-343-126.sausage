@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 problems 1
+align 6 lately 0.998916 lightly 0.00108357
+align 7 *DELETE* 0.999295 i 0.000572335 uh 0.000125561 you 4.07222e-06 it 1.87038e-06 um 6.84794e-07 that 7.55927e-08 in 6.57518e-09
+align 8 </s> 1

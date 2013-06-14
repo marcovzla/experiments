@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 to 1
+align 6 identify 1
+align 7 a 1
+align 8 gunshot 1
+align 9 wound 0.999883 wounds 0.000116677
+align 10 *DELETE* 0.999965 in 1.63104e-05 to 1.61225e-05 i 2.31205e-06 uh 4.38201e-10 up 2.01532e-10 like 1.01187e-10 is 8.45622e-12
+align 11 </s> 1

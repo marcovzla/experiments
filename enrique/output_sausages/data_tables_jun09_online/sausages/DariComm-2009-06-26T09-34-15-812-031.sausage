@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what's 0.728163 that's 0.14209 it's 0.123147 was 0.00363793 is 0.0021711 its 0.000554956 yes 0.00022288 as 1.34431e-05 this 4.67487e-08 i 4.18073e-09
+align 2 *DELETE* 1 was 4.18073e-09
+align 3 the 1
+align 4 problem 1
+align 5 with 1
+align 6 it 0.779391 that 0.218121 the 0.00247557 *DELETE* 1.2971e-05 a 2.47549e-33
+align 7 *DELETE* 0.999729 it 0.000257618 a 5.19575e-06 uh 4.4977e-06 this 3.27756e-06 to 1.26198e-15 them 5.76061e-17 i 1.1278e-17 us 5.28723e-29
+align 8 </s> 1

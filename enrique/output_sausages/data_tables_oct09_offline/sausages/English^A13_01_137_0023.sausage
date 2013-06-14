@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 sir 0.995915 so 0.00408521
+align 3 can 1
+align 4 you 1
+align 5 come 1
+align 6 out 1
+align 7 of 1
+align 8 the 1
+align 9 vehicle 1
+align 10 *DELETE* 0.999514 uh 0.000453756 up 3.198e-05
+align 11 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 the 1
+align 3 other 0.95429 others 0.0440502 other's 0.00165952
+align 4 son 0.979699 sun 0.0153468 some 0.00495388
+align 5 have 1
+align 6 a 0.999994 the 5.8337e-06
+align 7 job 1
+align 8 *DELETE* 0.999929 i 7.05877e-05
+align 9 </s> 1

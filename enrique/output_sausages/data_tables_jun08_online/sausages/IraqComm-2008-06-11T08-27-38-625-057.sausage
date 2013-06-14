@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 of 1
+align 4 the 1
+align 5 people 1
+align 6 *DELETE* 0.999998 who 2.29082e-06
+align 7 are 1
+align 8 sunni 1
+align 9 and 1
+align 10 shia 1
+align 11 </s> 1

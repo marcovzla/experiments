@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 primary 1
+align 5 need 0.999609 knead 0.000216105 needs 0.000175022
+align 6 for 0.999766 four 0.000233626
+align 7 electricity 1
+align 8 *DELETE* 1 i 1.32669e-14 a 1.45102e-16
+align 9 </s> 1

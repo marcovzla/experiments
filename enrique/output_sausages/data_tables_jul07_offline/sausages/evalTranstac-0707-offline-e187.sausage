@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 oh 0.999973 uh 2.68064e-05
+align 2 *DELETE* 0.999334 oh 0.000666017
+align 3 i 0.999996 *DELETE* 3.73824e-06
+align 4 *DELETE* 0.999987 i 1.28787e-05
+align 5 see 0.999996 i._c. 3.73824e-06
+align 6 *DELETE* 0.977905 it 0.0088158 you 0.00669761 uh 0.00601529 if 0.000313489 her 0.000160587 a 2.07296e-05 um 1.77388e-05 the 1.53493e-05 them 1.14788e-05 him 8.65611e-06 how 5.37606e-06 in 5.17206e-06 too 3.08421e-06 or 1.56711e-06 i 1.00602e-06 are 9.83506e-07 this 4.61197e-07 of 2.65697e-07 is 2.07716e-07 two 1.78514e-07 do 1.09861e-07 so 3.43173e-08
+align 7 *DELETE* 0.99994 uh 5.88199e-05 i 1.09409e-06
+align 8 </s> 1

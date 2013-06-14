@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 you've 1
+align 2 already 0.99767 are 0.00233004
+align 3 *DELETE* 0.99767 we 0.00233004
+align 4 provided 0.610519 provide 0.354415 providing 0.0350662
+align 5 me 0.98681 a 0.0131902
+align 6 *DELETE* 0.98681 me 0.0131902
+align 7 the 1
+align 8 intelligence 1
+align 9 and 0.998328 in 0.00161408 then 5.81532e-05
+align 10 now 1
+align 11 *DELETE* 0.555305 we're 0.444695
+align 12 we'll 0.555305 going 0.305083 gonna 0.139612
+align 13 go 0.999349 to 0.000651266
+align 14 *DELETE* 0.999349 go 0.000651266
+align 15 over 1
+align 16 the 1
+align 17 uh 1
+align 18 the 1
+align 19 actual 0.995595 actor 0.00440515
+align 20 proper 1
+align 21 procedures 1
+align 22 for 1 four 7.9263e-17
+align 23 this 1
+align 24 *DELETE* 0.999997 uh 2.8858e-06
+align 25 operation 1
+align 26 *DELETE* 0.999997 i 3.21435e-06
+align 27 </s> 1

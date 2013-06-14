@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 and 1
+align 2 they 1
+align 3 didn't 1
+align 4 *DELETE* 0.999982 i 1.84329e-05
+align 5 have 0.999936 had 6.23104e-05 know 1.92054e-06
+align 6 the 0.990392 he 0.00883779 any 0.000760264 you 9.82521e-06
+align 7 answers 1
+align 8 for 1
+align 9 me 1
+align 10 which 1
+align 11 tells 1
+align 12 me 1
+align 13 *DELETE* 0.999991 in 9.38285e-06
+align 14 that 1
+align 15 they 1
+align 16 were 0.985711 will 0.0142891
+align 17 not 1
+align 18 briefed 0.939949 brief 0.0600514
+align 19 prior 0.997839 *DELETE* 0.00216117
+align 20 to 1
+align 21 *DELETE* 0.997839 prior 0.00216117
+align 22 *DELETE* 0.997839 to 0.00216117
+align 23 stepping 0.951967 step 0.0453237 stay 0.00229236 study 0.000315457 stacking 0.000101021
+align 24 *DELETE* 0.952327 thing 0.0301402 in 0.0143647 me 0.00165811 and 0.000988519 a 0.000145401 an 8.9377e-05 you 8.44075e-05 being 5.52177e-05 i 5.31355e-05 they 4.7461e-05 things 3.15433e-05 at 1.22249e-05 during 1.96873e-06 think 7.69006e-07 ping 1.00073e-07
+align 25 *DELETE* 0.999988 a 1.22249e-05
+align 26 </s> 1

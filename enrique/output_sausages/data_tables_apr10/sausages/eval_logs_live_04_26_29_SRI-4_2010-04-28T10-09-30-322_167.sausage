@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 was 1
+align 2 anything 1
+align 3 else 1
+align 4 taken 1
+align 5 with 1
+align 6 your 0.999937 you're 6.27562e-05 their 1.50146e-07
+align 7 brother 1
+align 8 *DELETE* 0.999936 uh 4.48345e-05 in 1.22003e-05 do 6.83232e-06 i 2.62535e-07
+align 9 </s> 1

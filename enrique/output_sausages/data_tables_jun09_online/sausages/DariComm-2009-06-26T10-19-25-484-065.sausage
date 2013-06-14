@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 much 1
+align 3 will 0.935166 we'll 0.0624153 it 0.00241878
+align 4 *DELETE* 0.997581 will 0.00241878
+align 5 in 0.951216 they 0.0327904 and 0.0086631 i 0.00733026
+align 6 new 0.807569 you 0.143441 knew 0.0395011 nu 0.00922271 your 0.000265765
+align 7 well 0.982493 will 0.0175074
+align 8 cost 0.780812 costs 0.219166 *DELETE* 2.16363e-05
+align 9 *DELETE* 0.998918 you 0.000554991 i 0.0002362 it 5.99384e-05 to 5.7147e-05 a 4.61965e-05 uh 4.33494e-05 in 3.2472e-05 if 2.09534e-05 is 1.80171e-05 do 9.19245e-06 me 2.22306e-06 and 6.16229e-07 that 2.01499e-07 of 7.01605e-08 the 2.37429e-08
+align 10 *DELETE* 0.999978 cost 1.79805e-05 costs 3.65581e-06
+align 11 </s> 1

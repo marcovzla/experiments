@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 who 1
+align 2 gave 1
+align 3 you 1
+align 4 this 1
+align 5 information 1
+align 6 *DELETE* 0.999971 uh 2.91908e-05
+align 7 </s> 1

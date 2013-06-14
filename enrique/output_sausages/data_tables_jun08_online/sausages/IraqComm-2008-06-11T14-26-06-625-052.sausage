@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 desire 1
+align 4 to 1
+align 5 any 0.840214 add 0.0957767 and 0.0245366 i 0.0195844 i'd 0.0161259 *DELETE* 0.00376237
+align 6 *DELETE* 0.840214 the 0.0509685 he 0.0266285 any 0.0223927 need 0.0195017 be 0.0169388 these 0.0110907 new 0.00634963 acne 0.00218896 me 0.0021531 i._d. 0.00157342
+align 7 services 1
+align 8 to 0.988318 too 0.0116417 two 4.00999e-05
+align 9 this 1
+align 10 new 0.821909 need 0.175603 knew 0.000968617 knead 0.000765469 near 0.000427765 knee 0.00028349 neat 4.20415e-05 and 8.42563e-13
+align 11 *DELETE* 1 you 8.42563e-13
+align 12 clinic 0.999503 clinics 0.000497078 *DELETE* 1.80747e-17
+align 13 *DELETE* 0.999987 i 1.26366e-05 uh 1.81636e-08 chronic 9.75775e-15
+align 14 </s> 1

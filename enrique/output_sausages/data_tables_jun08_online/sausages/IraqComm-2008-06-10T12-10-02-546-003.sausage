@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computers 0.757408 computer 0.220575 i'm 0.0220175
+align 2 *DELETE* 0.977983 peter 0.0220175
+align 3 say 0.999988 *DELETE* 1.19613e-05
+align 4 again 0.999917 a 7.1331e-05 *DELETE* 1.19613e-05 eighty 9.15867e-23
+align 5 *DELETE* 0.999916 again 7.1331e-05 stadium 1.19613e-05 i 6.46956e-07 uh 1.11534e-07 and 9.15867e-23
+align 6 </s> 1

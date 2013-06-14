@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 we're 0.504246 or 0.456825 were 0.0389283
+align 2 inspecting 1
+align 3 see 0.999183 c 0.000817393
+align 4 if 1
+align 5 there's 1
+align 6 anything 1
+align 7 wrong 1
+align 8 with 1
+align 9 the 0.99996 a 4.02194e-05
+align 10 facility 0.999989 facilities 1.07018e-05
+align 11 *DELETE* 0.999752 uh 0.0002015 i 4.53549e-05 in 6.39643e-07 is 6.11263e-07
+align 12 </s> 1

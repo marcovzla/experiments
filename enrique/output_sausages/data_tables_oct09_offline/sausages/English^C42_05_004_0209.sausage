@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i'm 0.928427 i 0.0624583 oh 0.00562317 uh 0.00349129
+align 2 *DELETE* 0.928427 am 0.0624583 i'm 0.00911445
+align 3 colonel 1
+align 4 inman 0.999992 in 8.37498e-06
+align 5 *DELETE* 0.999992 than 8.37498e-06
+align 6 with 1
+align 7 the 1
+align 8 uh 0.879354 *DELETE* 0.10134 up 0.0116133 of 0.00769277
+align 9 *DELETE* 1 a 3.64936e-07
+align 10 provincial 1
+align 11 reconstruction 1
+align 12 team 0.999702 teams 0.000297885
+align 13 *DELETE* 0.999944 to 2.59843e-05 in 1.09455e-05 i 9.02307e-06 uh 4.54412e-06 do 3.80683e-06 the 8.61486e-07 a 2.64439e-07 if 1.30285e-07 is 1.27649e-07
+align 14 </s> 1

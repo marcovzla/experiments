@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 sort 1
+align 3 of 1
+align 4 uh 0.999954 a 4.62599e-05
+align 5 operation 0.595061 uh 0.404939
+align 6 *DELETE* 0.595061 operation 0.404879 uh 6.00561e-05
+align 7 *DELETE* 0.99994 operation 6.00561e-05
+align 8 are 1
+align 9 you 1
+align 10 planning 0.999402 planting 0.00059786
+align 11 *DELETE* 0.999995 a 4.67109e-06 i 4.6817e-07 to 1.82085e-07
+align 12 </s> 1

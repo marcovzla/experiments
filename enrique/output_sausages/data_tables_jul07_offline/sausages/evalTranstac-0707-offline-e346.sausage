@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 0.999775 what's 0.000224712
+align 2 other 0.663981 type 0.335793 up 0.00022577
+align 3 *DELETE* 0.663981 of 0.335879 was 0.00012549 a 1.51778e-05
+align 4 services 1
+align 5 do 0.988844 *DELETE* 0.0111556
+align 6 you 0.986586 to 0.0111556 *DELETE* 0.00225823
+align 7 *DELETE* 0.997572 your 0.00242808
+align 8 provide 0.999407 *DELETE* 0.000592802
+align 9 here 0.758655 air 0.192513 ear 0.0304438 there 0.00811773 hear 0.00680807 their 0.00127203 provider 0.000592802 year 0.000386099 her 0.000373776 hair 0.000282946 they're 0.000167426 the 0.000147321 err 9.58142e-05 near 6.74559e-05 a 3.19229e-05 dear 2.80218e-05 either 7.8785e-06 heir 6.34636e-06 your 2.25404e-06
+align 10 *DELETE* 0.99982 air 0.000139955 there 3.19229e-05 ear 7.3656e-06 i 2.63809e-07
+align 11 </s> 1

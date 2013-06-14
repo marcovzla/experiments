@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 and 0.994771 i 0.00522893
+align 2 *DELETE* 0.994771 need 0.00522893
+align 3 you 0.951008 do 0.0394662 did 0.00926401 he 0.00026204
+align 4 *DELETE* 0.94523 you 0.0487302 to 0.00603971
+align 5 come 1
+align 6 back 1
+align 7 in 1
+align 8 one 1
+align 9 week 1
+align 10 and 1
+align 11 i 1
+align 12 will 1
+align 13 have 1
+align 14 more 1
+align 15 information 1
+align 16 for 1
+align 17 you 0.999989 *DELETE* 1.08389e-05
+align 18 </s> 1

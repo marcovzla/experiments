@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 own 0.998744 *DELETE* 0.000789467 want 0.000466432
+align 4 a 0.99772 *DELETE* 0.00147283 wanna 0.000789467 the 1.05073e-05 uh 4.69652e-06 own 2.74741e-06 no 8.09825e-08 to 3.39209e-15 of 7.05834e-16 only 9.2456e-24
+align 5 weapon 0.999987 weapons 1.27706e-05
+align 6 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computer 0.997898 come 0.00210202
+align 2 *DELETE* 0.997898 peter 0.00210202
+align 3 play 0.966946 plate 0.0279149 played 0.00212192 plane 0.00163249 plain 0.00115413 playing 0.000230115
+align 4 instructions 0.984173 a 0.0158267
+align 5 *DELETE* 0.983521 instructions 0.0158267 i 0.000248249 to 0.000207965 and 9.83852e-05 in 4.89935e-05 you 3.41616e-05 uh 7.51467e-06 do 4.79292e-06 them 1.63426e-06 we 7.7846e-07 with 9.2337e-08 now 4.04602e-09 were 6.4791e-10 are 4.61744e-10 the 7.27185e-13 it 3.61265e-13
+align 6 </s> 1

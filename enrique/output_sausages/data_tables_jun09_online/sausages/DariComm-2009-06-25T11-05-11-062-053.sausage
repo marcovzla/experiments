@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 *DELETE* 0.786923 i 0.213077
+align 3 recommend 1
+align 4 that 1
+align 5 we 1
+align 6 place 0.968442 police 0.0315575
+align 7 and 0.826354 an 0.173646
+align 8 open 0.93141 *DELETE* 0.0454588 opened 0.0217277 o._p. 0.00140326
+align 9 he 0.5875 the 0.365638 openly 0.0454588 *DELETE* 0.00140326
+align 10 here 0.892664 year 0.100646 gear 0.00568615 ear 0.000999609 hear 3.17e-06 dear 3.93498e-07
+align 11 and 0.999546 in 0.000453846
+align 12 *DELETE* 0.79743 i'll 0.20257
+align 13 open 0.928107 opened 0.0648907 *DELETE* 0.00654815 all 0.000453846
+align 14 he 0.827887 the 0.160095 openly 0.00654815 any 0.00460047 pretty 0.000453846 we 0.000415369 t._v. 1.57419e-07
+align 15 here 0.938576 year 0.027684 hear 0.0160813 he 0.00813076 *DELETE* 0.00770111 the 0.00182634
+align 16 *DELETE* 0.981388 here 0.00846959 heater 0.006786 ear 0.00169114 uh 0.000737834 gear 0.000425469 year 0.000223145 i 0.000198826 there 4.09993e-05 hear 1.98105e-05 um 1.46652e-05 near 2.05397e-06 you 1.06038e-06 a 7.17332e-07 and 2.47501e-07 is 1.12328e-07 in 2.75047e-09 to 2.10713e-09 wear 5.94517e-11 air 8.08384e-12 do 9.34543e-13 i'm 2.58067e-13
+align 17 *DELETE* 1 i 3.52754e-08
+align 18 </s> 1

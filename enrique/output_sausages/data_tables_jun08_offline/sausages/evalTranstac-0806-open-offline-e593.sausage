@@ -1,0 +1,49 @@
+numaligns 47
+posterior 1
+align 0 <s> 1
+align 1 how 0.790852 uh 0.141268 oh 0.0548194 are 0.0104067 i 0.001898 hi 0.000755425
+align 2 *DELETE* 0.998678 are 0.00132177
+align 3 we 1
+align 4 can 0.997331 could 0.00266947
+align 5 do 1
+align 6 this 1
+align 7 jointly 1
+align 8 uh 1
+align 9 for 1
+align 10 example 1
+align 11 uh 1
+align 12 crap 0.662728 perhaps 0.318795 craps 0.016246 traps 0.000864798 have 0.000684432 i 0.0006818
+align 13 *DELETE* 0.999318 have 0.0006818
+align 14 so 0.999974 *DELETE* 2.59669e-05
+align 15 i 1
+align 16 want 0.645011 wanna 0.354989
+align 17 *DELETE* 0.999035 to 0.000451103 a 0.000365757 of 0.00013444 i 1.35243e-05
+align 18 my 1
+align 19 patrols 0.928662 patrol's 0.0713377
+align 20 can 0.999899 come 0.000101424
+align 21 go 1
+align 22 out 1
+align 23 first 1
+align 24 three 1
+align 25 hours 1
+align 26 on 1
+align 27 saturday 1
+align 28 *DELETE* 0.763644 a 0.229315 an 0.00626159 in 0.000779454
+align 29 and 0.993773 an 0.00622746
+align 30 then 0.788723 and 0.20371 *DELETE* 0.00756704
+align 31 *DELETE* 0.988335 and 0.00802684 in 0.00363824
+align 32 one 0.635884 *DELETE* 0.35793 what 0.00618659
+align 33 of 0.635884 when 0.35793 do 0.00534956 are 0.000837028
+align 34 your 1
+align 35 patrols 1
+align 36 can 1
+align 37 go 1
+align 38 out 1
+align 39 for 0.999617 four 0.000235354 first 0.000147884
+align 40 *DELETE* 0.999952 a 4.768e-05
+align 41 three 1
+align 42 hours 1
+align 43 on 0.985178 and 0.0142841 in 0.000533996 an 4.08787e-06
+align 44 saturday 0.999713 saturdays 0.000167954 said 9.23515e-05 sa'ad 1.61373e-05 sad 9.03235e-06 saeed 1.14331e-06 side 8.78249e-08
+align 45 *DELETE* 0.999999 i 9.93826e-07
+align 46 </s> 1

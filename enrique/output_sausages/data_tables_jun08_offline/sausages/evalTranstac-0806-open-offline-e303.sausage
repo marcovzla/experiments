@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 it 1
+align 2 is 1
+align 3 a 1
+align 4 uh 0.96142 um 0.0385796
+align 5 uh 0.557652 a 0.364332 *DELETE* 0.0780159
+align 6 it's 0.919812 its 0.080188
+align 7 for 0.764369 first 0.23025 four 0.00538098
+align 8 safety 1
+align 9 and 1
+align 10 for 1
+align 11 uh 1
+align 12 security 0.978343 uh 0.0216569
+align 13 *DELETE* 0.977824 security 0.0216569 uh 0.000482941 if 3.14271e-05 i 4.72163e-06 in 9.3613e-09
+align 14 </s> 1

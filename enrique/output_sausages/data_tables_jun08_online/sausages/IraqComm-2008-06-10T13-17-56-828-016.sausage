@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 to 1
+align 6 align 0.788651 a 0.211349
+align 7 *DELETE* 0.788651 line 0.211349
+align 8 the 1
+align 9 sights 0.933426 sites 0.0650345 site's 0.0015394
+align 10 on 1
+align 11 the 1
+align 12 target 0.999728 targets 0.000272102
+align 13 *DELETE* 0.99999 that 6.77068e-06 to 2.99009e-06 the 5.15332e-12 uh 2.38372e-14
+align 14 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 have 1
+align 3 been 1
+align 4 assigned 1
+align 5 to 1
+align 6 help 0.999958 *DELETE* 4.20108e-05 have 4.91384e-15
+align 7 with 0.999412 *DELETE* 0.000544997 happen 4.20108e-05 but 5.11354e-07 of 3.31021e-07 at 1.44249e-08 put 3.96245e-15 it 5.77226e-21
+align 8 the 0.993254 *DELETE* 0.00634948 we 0.000272047 a 7.4744e-05 to 3.0443e-05 other 1.65486e-05 three 2.74851e-06 they 2.03273e-07 put 9.51396e-16 me 1.60333e-32
+align 9 *DELETE* 0.999999 they 5.46437e-07 the 3.11055e-07 my 2.31015e-10 three 4.38174e-11 their 1.88694e-18 that 3.00992e-20 me 5.94301e-32
+align 10 construction 0.992707 reconstruction 0.00729317
+align 11 *DELETE* 0.999999 uh 6.43849e-07
+align 12 </s> 1

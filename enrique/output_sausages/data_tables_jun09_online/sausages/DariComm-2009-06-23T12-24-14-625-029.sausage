@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 you 0.992256 he 0.00573426 if 0.00153536 do 0.00032734 we 0.000146877
+align 2 *DELETE* 0.998137 you 0.0018627
+align 3 will 0.99577 we'll 0.00423048
+align 4 make 1
+align 5 them 0.977954 and 0.0105547 him 0.00853336 on 0.00109478 can't 0.00088428 an 0.000534797 can 0.000443649
+align 6 get 1
+align 7 out 0.999825 up 0.000175379
+align 8 *DELETE* 0.999935 of 6.54794e-05
+align 9 the 1 of 2.53655e-09
+align 10 car 1 *DELETE* 8.69156e-11
+align 11 *DELETE* 0.999541 uh 0.000415434 in 4.09161e-05 i 2.73477e-06 to 4.97142e-08 call 1.94872e-08
+align 12 </s> 1

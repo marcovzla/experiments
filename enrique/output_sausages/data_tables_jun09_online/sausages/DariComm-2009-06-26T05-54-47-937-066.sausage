@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 all 0.998256 own 0.0017438
+align 4 work 0.950215 working 0.0497848
+align 5 in 1
+align 6 the 1
+align 7 village 1
+align 8 *DELETE* 0.999766 uh 0.000230017 okay 2.26555e-06 i 2.21232e-06 it 2.00254e-32
+align 9 </s> 1

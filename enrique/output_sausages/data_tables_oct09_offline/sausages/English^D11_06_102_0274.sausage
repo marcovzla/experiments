@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 we 0.53395 *DELETE* 0.46605
+align 3 we'll 0.438759 would 0.373761 will 0.187481
+align 4 be 1
+align 5 able 1
+align 6 to 1
+align 7 supply 1
+align 8 of 0.97394 *DELETE* 0.00817972 you 0.00749583 the 0.00742759 have 0.00132376 uh 0.00116206 do 0.000471136
+align 9 most 1
+align 10 of 1
+align 11 it 0.963251 the 0.0366802 their 6.90326e-05
+align 12 for 0.984198 four 0.0158025
+align 13 for 0.915326 four 0.0846048 a 6.94326e-05
+align 14 *DELETE* 0.999931 for 6.94326e-05
+align 15 now 1
+align 16 sir 1
+align 17 until 1
+align 18 we 1
+align 19 get 1
+align 20 is 0.667008 this 0.156253 his 0.0774128 it's 0.0245135 these 0.0220063 please 0.0200535 the 0.0163233 a 0.00488922 its 0.00477362 face 0.00195383 *DELETE* 0.00186475 to 0.00108893 as 0.000693608 case 0.000591368 pays 0.000186715 pace 0.000157119 base 0.000132898 police 5.33217e-05 pissed 1.35001e-05 picks 1.26369e-05 placed 9.00259e-06 peace 7.56601e-06 based 8.80588e-07
+align 21 *DELETE* 0.975834 place 0.0123709 please 0.0107891 pace 0.00039618 police 0.000244475 case 0.00011697 pays 9.17062e-05 plays 7.05811e-05 peace 3.8531e-05 piece 2.94546e-05 picks 7.10653e-06 placed 4.77353e-06 base 3.68446e-06 paste 2.59625e-06
+align 22 going 0.974591 go 0.0254087 school 7.67037e-08
+align 23 *DELETE* 0.974591 on 0.0253791 one 1.49108e-05 in 1.48235e-05 i 1.9341e-08 to 6.93686e-09
+align 24 </s> 1

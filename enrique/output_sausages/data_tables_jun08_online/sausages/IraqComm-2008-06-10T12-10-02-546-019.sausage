@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 who 0.998042 do 0.00188519 whom 7.26069e-05
+align 2 do 1
+align 3 you 1
+align 4 have 1
+align 5 a 1
+align 6 problem 1
+align 7 with 0.993537 where 0.00645222 *DELETE* 1.10227e-05 when 1.35837e-14 one 1.19987e-17
+align 8 *DELETE* 0.962771 uh 0.0359263 the 0.000902788 a 0.000379303 when 1.10227e-05 i 9.67353e-06 if 1.51806e-14 of 1.19987e-17
+align 9 </s> 1

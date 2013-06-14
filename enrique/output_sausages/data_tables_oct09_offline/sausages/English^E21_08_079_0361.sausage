@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.999367 the 0.00063335
+align 2 and 0.998729 a 0.00127109
+align 3 then 0.916617 in 0.0760352 i'm 0.0051585 them 0.000918362 new 0.000900333 name 0.000370753
+align 4 *DELETE* 0.535369 we 0.464631
+align 5 could 0.76642 can 0.149142 good 0.0743949 go 0.0100429
+align 6 do 1
+align 7 a 0.988784 at 0.00686487 it 0.00435151
+align 8 year 0.729918 *DELETE* 0.268047 you 0.0020347
+align 9 *DELETE* 0.312836 you're 0.150545 in 0.147743 ago 0.135271 your 0.10767 to 0.0987918 of 0.0259689 urine 0.0098329 and 0.00330057 or 0.00296595 uh 0.00235464 are 0.0020347 i 0.000685747
+align 10 the 1
+align 11 way 0.963867 we 0.0267219 *DELETE* 0.00941123
+align 12 do 0.990589 wage 0.00794385 weighed 0.00146738
+align 13 you 1
+align 14 guys 1
+align 15 do 0.990951 *DELETE* 0.00904933
+align 16 it 0.990946 doing 0.00904933 a 2.32426e-06 and 2.24684e-06
+align 17 </s> 1

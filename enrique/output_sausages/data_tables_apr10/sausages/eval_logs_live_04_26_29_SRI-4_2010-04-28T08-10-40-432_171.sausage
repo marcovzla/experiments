@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 the 1
+align 5 names 1
+align 6 of 1
+align 7 these 1
+align 8 other 0.999982 either 1.75542e-05
+align 9 villages 0.912006 villagers 0.0878972 village's 9.64204e-05
+align 10 *DELETE* 0.999972 i 2.14754e-05 uh 4.08864e-06 to 2.11158e-06 in 1.83194e-07 it 1.56062e-08
+align 11 </s> 1

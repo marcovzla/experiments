@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 ramadi 0.823016 rmayyih 0.144523 rmayyid 0.0170684 rumaid 0.0153921
+align 3 have 0.976135 of 0.0143967 had 0.00776979 hope 0.00169827
+align 4 *DELETE* 0.999296 a 0.000703586
+align 5 friends 0.997748 friends' 0.00225244
+align 6 that 0.998847 they 0.000974177 take 0.000178505
+align 7 get 0.999775 it 0.000178505 *DELETE* 4.64578e-05
+align 8 into 0.999807 in 0.000146846 getting 4.64578e-05 and 1.99629e-08 him 7.11485e-17
+align 9 *DELETE* 0.999807 the 0.000103377 to 8.9946e-05
+align 10 trouble 1
+align 11 *DELETE* 0.999983 uh 1.42172e-05 i 2.57773e-06
+align 12 </s> 1

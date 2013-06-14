@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 what 1
+align 3 pizza 1
+align 4 equipment 1
+align 5 do 0.96007 *DELETE* 0.0399296
+align 6 you 1
+align 7 need 1
+align 8 most 0.98106 us 0.0189402
+align 9 badly 1
+align 10 right 1
+align 11 now 1
+align 12 </s> 1

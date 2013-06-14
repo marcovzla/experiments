@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 0.996699 but 0.00258958 my 0.000296602 not 0.000275072 well 0.000140094
+align 2 materials 0.999932 maternal 6.75625e-05
+align 3 do 1
+align 4 you 1
+align 5 need 1
+align 6 for 1
+align 7 the 1 that 1.35956e-25
+align 8 checkpoints 0.999755 checkpoint 0.000244625
+align 9 *DELETE* 0.999847 i 0.000153208
+align 10 </s> 1

@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 but 1
+align 2 i 1
+align 3 believe 1
+align 4 *DELETE* 0.999728 you 0.000271921
+align 5 if 1
+align 6 you 1
+align 7 do 1
+align 8 an 1
+align 9 operation 1
+align 10 to 1
+align 11 find 0.718518 fine 0.281482
+align 12 them 1
+align 13 uh 0.918758 um 0.0251192 i 0.0248747 *DELETE* 0.0187348 and 0.0125132
+align 14 *DELETE* 0.902622 i 0.0972532 uh 0.000124505
+align 15 will 0.798658 uh 0.10827 we'll 0.0499576 *DELETE* 0.0323036 i 0.0108102
+align 16 *DELETE* 0.848616 will 0.141107 we'll 0.0102774
+align 17 be 1
+align 18 very 0.999992 area 8.27065e-06 areas 2.43082e-10 there 9.43699e-23
+align 19 *DELETE* 1 is 9.43699e-23
+align 20 successful 1
+align 21 </s> 1

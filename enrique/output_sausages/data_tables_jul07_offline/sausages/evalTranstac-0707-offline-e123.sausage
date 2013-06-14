@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 well 0.907068 uh 0.0851149 i 0.00479553 low 0.00265005 why 0.000256939 *DELETE* 9.48701e-05 we 1.98748e-05
+align 3 i 0.998034 uh 0.00175736 *DELETE* 0.000208816
+align 4 *DELETE* 0.981657 i 0.0183428
+align 5 recommend 1
+align 6 you 1
+align 7 give 0.998639 *DELETE* 0.00136056
+align 8 him 0.995242 in 0.00252615 given 0.00136056 them 0.000871768 giving 6.16261e-13
+align 9 this 1
+align 10 pepto-bismol 1
+align 11 *DELETE* 0.999999 i 4.5484e-07 a 1.79925e-07
+align 12 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 to 1
+align 6 use 1
+align 7 a 1
+align 8 syringe 0.982627 sir 0.0160128 a 0.00129286 cell 6.77707e-05
+align 9 *DELETE* 0.982359 range 0.0160806 syringe 0.00129286 uh 0.000168795 i 9.85006e-05 and 4.29242e-07 in 2.60298e-10 you 1.89571e-10
+align 10 </s> 1

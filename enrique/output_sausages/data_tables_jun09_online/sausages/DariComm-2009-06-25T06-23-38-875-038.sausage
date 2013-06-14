@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 0.840915 *DELETE* 0.159085
+align 3 has 0.963311 is 0.0360755 how's 0.000613789
+align 4 your 1
+align 5 school 1
+align 6 been 0.929094 *DELETE* 0.0396499 up 0.0312558
+align 7 *DELETE* 0.929094 and 0.0312558 opened 0.023205 open 0.0125283 then 0.00220723 bin 0.00158801 than 4.7579e-05 going 3.69267e-05 bint 3.04697e-05 opens 6.38023e-06 urban 1.23076e-09 weapon 6.47968e-11 in 1.43074e-14
+align 8 threatened 1 *DELETE* 5.70415e-17
+align 9 *DELETE* 0.999447 you 0.000379883 i 8.44642e-05 to 3.83652e-05 me 2.85789e-05 uh 1.38887e-05 us 7.70119e-06 a 1.66205e-08 the 4.65591e-10 flattened 6.58642e-11 and 1.38627e-14
+align 10 </s> 1

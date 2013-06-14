@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 that 0.999919 i 8.05522e-05 *DELETE* 1.71287e-15
+align 3 would 0.999331 will 0.000668872 that'll 1.21777e-12
+align 4 be 1
+align 5 wonderful 1
+align 6 </s> 1

@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 he 1
+align 3 collect 1
+align 4 taxes 0.993741 tax 0.00625942
+align 5 *DELETE* 0.993457 is 0.0062591 to 0.000267504 i 1.43404e-05 uh 1.33673e-06 as 3.27291e-07
+align 6 </s> 1

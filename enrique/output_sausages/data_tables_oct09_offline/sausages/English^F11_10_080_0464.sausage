@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 don't 1
+align 2 worry 1
+align 3 you 0.986328 you're 0.00700781 are 0.00636762 a 0.000296279
+align 4 don't 0.966983 gonna 0.0330169
+align 5 be 1
+align 6 able 1
+align 7 do 0.963839 due 0.0361606
+align 8 that 1
+align 9 is 0.996027 as 0.00397276
+align 10 the 1
+align 11 if 0.930478 case 0.0695223
+align 12 *DELETE* 0.916284 do 0.083716
+align 13 you 0.963345 do 0.0224612 *DELETE* 0.0141936
+align 14 *DELETE* 0.963345 you 0.0366549
+align 15 have 1
+align 16 plenty 1
+align 17 of 0.999988 *DELETE* 1.24232e-05 in 2.28965e-13
+align 18 men 0.996633 man 0.00251684 mean 0.000351041 main 0.000221349 many 0.000142513 me 0.000109182 amend 1.24232e-05 name 1.07776e-05 ma'am 1.9513e-06 mu'men 1.2933e-06 *DELETE* 4.12355e-11
+align 19 *DELETE* 1 uh 1.94906e-07 may 3.66825e-09 in 6.45375e-11
+align 20 </s> 1

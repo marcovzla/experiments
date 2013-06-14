@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 does 1
+align 2 this 0.998829 the 0.0011707
+align 3 soldier 1
+align 4 have 0.821485 or 0.176004 are 0.00178921 had 0.000722169
+align 5 *DELETE* 0.822207 have 0.177512 had 0.000280883
+align 6 any 1
+align 7 family 1
+align 8 *DELETE* 0.999615 uh 0.000290171 i 5.52589e-05 in 3.53453e-05 is 2.39826e-06 that 1.32813e-06 a 6.12819e-07 you 4.22375e-09 it 1.51561e-12
+align 9 </s> 1

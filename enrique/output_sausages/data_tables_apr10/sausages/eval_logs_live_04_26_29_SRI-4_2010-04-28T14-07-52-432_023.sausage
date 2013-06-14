@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 old 1
+align 3 is 1
+align 4 this 1
+align 5 school 1
+align 6 *DELETE* 0.999642 uh 0.000143554 is 0.000126358 i 3.86077e-05 if 2.56777e-05 to 1.85863e-05 of 3.85488e-06 and 1.36285e-06 in 9.71767e-08 it's 9.39876e-09
+align 7 </s> 1

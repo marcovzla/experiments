@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 repeat 1
+align 4 answer 0.806434 the 0.129645 *DELETE* 0.0634547 and 0.000360529 that 0.000106155
+align 5 *DELETE* 0.8048 answer 0.128205 answers 0.0435855 answered 0.0204103 it 0.000523578 i 0.000513564 anza 0.000385411 uh 0.000320677 so 0.000256502 you 0.000197531 aunts 0.00017053 ants 0.000153933 acid 0.000141061 ansar 0.000123422 sir 9.19058e-05 a 6.53865e-05 ask 1.74853e-05 soon 1.21212e-05 to 1.18544e-05 as 5.98152e-06 answering 5.35034e-06 ass 1.78354e-06 if 1.23944e-06 in 1.53385e-07 me 6.63052e-09 all 1.23859e-09 the 1.05377e-10 aunt's 8.31938e-11 on 8.00507e-13 asses 4.69424e-16
+align 6 *DELETE* 0.999997 a 2.08695e-06 it 9.84708e-07 in 1.76474e-20 an 1.02004e-23
+align 7 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 do 1
+align 3 your 1
+align 4 children 1
+align 5 learn 0.999304 learned 0.000696452
+align 6 in 0.999826 and 0.000171592 an 2.44847e-06
+align 7 school 1 schools 7.77828e-08
+align 8 *DELETE* 0.999902 i 9.78442e-05
+align 9 </s> 1

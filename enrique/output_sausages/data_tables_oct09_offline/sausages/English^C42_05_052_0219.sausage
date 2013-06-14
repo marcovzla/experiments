@@ -1,0 +1,23 @@
+numaligns 21
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 i'd 1
+align 3 like 1
+align 4 to 1
+align 5 build 1
+align 6 two 0.991337 to 0.00866253
+align 7 schools 1
+align 8 with 0.996228 was 0.00377155
+align 9 six 1
+align 10 rooms 1
+align 11 each 0.510884 age 0.426695 a 0.0378978 they 0.0217223 in 0.00148339 you 0.00131686
+align 12 *DELETE* 0.93758 each 0.0624204
+align 13 for 0.999458 four 0.000542026
+align 14 the 1
+align 15 children 1
+align 16 with 1 would 2.41235e-07
+align 17 two 0.982843 to 0.0119267 too 0.00523061
+align 18 offices 0.994004 officers 0.00557379 oh 0.000185015 office's 0.000127028 office 8.35986e-05 uh 2.62131e-05 o 1.33108e-11
+align 19 *DELETE* 0.999705 offices 0.000211228 is 8.35986e-05
+align 20 </s> 1

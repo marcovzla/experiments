@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 are 1
+align 3 you 1
+align 4 going 1
+align 5 *DELETE* 0.997073 to 0.002891 uh 3.25375e-05 good 3.19755e-06 in 4.59566e-08 with 3.45177e-08
+align 6 *DELETE* 1 do 2.16007e-07
+align 7 </s> 1

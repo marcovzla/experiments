@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 it's 0.96043 the 0.0346307 that 0.00261957 it 0.00161763 *DELETE* 0.000702286
+align 3 enough 0.96043 tata 0.0166424 ten 0.00725021 town 0.00597494 tent 0.0047632 that 0.00262124 can 0.00160552 attend 0.000700614 *DELETE* 1.21163e-05
+align 4 *DELETE* 0.96043 off 0.0395702
+align 5 men 0.806548 meant 0.190077 mend 0.00333025 men's 4.5299e-05
+align 6 he 1
+align 7 *DELETE* 0.996578 he 0.00342211
+align 8 had 1
+align 9 a 1
+align 10 gunshot 1
+align 11 wounds 0.582546 wound 0.417454
+align 12 to 0.996164 too 0.00175658 two 0.00151463 through 0.000565278
+align 13 his 1
+align 14 chest 1
+align 15 and 1
+align 16 his 1 is 6.41531e-10
+align 17 leg 1
+align 18 now 0.533621 *DELETE* 0.314988 and 0.0823138 there 0.0237196 then 0.017359 in 0.0133605 it 0.00753115 that 0.00710744
+align 19 i 0.999148 *DELETE* 0.000836186 and 1.55606e-05
+align 20 believe 1
+align 21 he 0.467233 you 0.454771 *DELETE* 0.0611142 the 0.00909315 me 0.0077882
+align 22 *DELETE* 0.936697 had 0.0613084 at 0.00199497
+align 23 it's 0.561752 is 0.315923 some 0.0633034 has 0.02674 its 0.02604 adds 0.00426332 yes 0.00197813
+align 24 shrapnel 0.981966 in 0.0180338
+align 25 *DELETE* 0.981966 shrapnel 0.0180338
+align 26 as 0.999869 is 0.000131359 was 1.65336e-09
+align 27 well 1
+align 28 *DELETE* 0.999997 uh 2.63236e-06 i 7.90691e-07
+align 29 </s> 1

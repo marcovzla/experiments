@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 0.607457 *DELETE* 0.392543
+align 2 did 0.993537 would 0.00646265
+align 3 you 1
+align 4 have 1
+align 5 a 0.482052 to 0.357629 *DELETE* 0.160319
+align 6 back 0.884133 *DELETE* 0.115867
+align 7 this 0.88401 *DELETE* 0.0959212 the 0.0197929 other 0.000150425 that 0.000125973
+align 8 is 0.883451 breakfast 0.0493587 baathists 0.0214181 baathist 0.0203846 back 0.0136182 ba'athists 0.0108111 *DELETE* 0.000559028 persons 0.00022548 person 0.000125973 his 4.83489e-05 because 7.31014e-10
+align 9 *DELETE* 0.985424 this 0.0145762
+align 10 *DELETE* 0.978476 is 0.0169064 was 0.00268837 as 0.00192882
+align 11 one 0.57618 morning 0.24927 warning 0.14797 mourning 0.0143184 warrant 0.00499696 more 0.00193806 warren 0.00157185 wanting 0.00115755 wanted 0.00102089 worn 0.000997451 *DELETE* 0.000471375 want 0.000107166
+align 12 *DELETE* 0.998062 of 0.000564818 and 0.000395595 in 0.000251598 won 0.000185721 on 0.000134737 warnings 0.000119857 to 0.000107166 mornings 8.93123e-05 warn 3.9866e-05 born 2.41746e-05 warned 1.24431e-05 i 1.03652e-05 uh 2.36648e-06 a 3.90932e-09 wan 2.53841e-13 who 1.36613e-14 wanna 1.1211e-14 warranty 1.04423e-14 morning's 1.03802e-15 i'm 8.30208e-17 when 2.25856e-24
+align 13 </s> 1

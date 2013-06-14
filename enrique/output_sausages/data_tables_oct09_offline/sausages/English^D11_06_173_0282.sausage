@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 well 0.680471 it 0.180886 what 0.116148 uh 0.0224962
+align 2 *DELETE* 0.67873 will 0.209477 what 0.0892964 well 0.0224962
+align 3 *DELETE* 0.986115 we 0.00916042 we're 0.00367529 be 0.00104938
+align 4 we're 0.989864 were 0.0101359
+align 5 going 1
+align 6 to 0.830804 is 0.0990556 as 0.0701407
+align 7 end 0.831403 and 0.168597 *DELETE* 8.50752e-13
+align 8 of 0.565417 up 0.434583 *DELETE* 9.99662e-13
+align 9 setting 0.942764 seven 0.0471568 sending 0.00472736 send 0.00303938 the 0.00231283 *DELETE* 9.99662e-13
+align 10 up 0.958596 of 0.0390735 number 0.00231283 *DELETE* 1.80305e-05 upset 3.31208e-09
+align 11 *DELETE* 0.939269 them 0.0390735 women 0.0131183 oven 0.00853957
+align 12 and 0.809941 a 0.186882 in 0.00315853 *DELETE* 1.8052e-05 anderson 1.47419e-08
+align 13 and 0.784992 then 0.193283 *DELETE* 0.0217248
+align 14 *DELETE* 0.813051 and 0.0972842 then 0.089598 uh 4.84038e-05 abandoned 1.30546e-05 abandon 5.01543e-06 in 3.53276e-07 an 2.83661e-08
+align 15 try 1
+align 16 to 1
+align 17 sup 0.968078 suck 0.0245735 sell 0.00432582 step 0.0023757 set 0.000646857
+align 18 medical 1
+align 19 dental 1
+align 20 and 1
+align 21 a 0.95417 of 0.04583
+align 22 veterinary 0.92034 veterinarian 0.0796601
+align 23 *DELETE* 0.999995 uh 5.05885e-06 i 3.52314e-08 a 1.23453e-10
+align 24 </s> 1

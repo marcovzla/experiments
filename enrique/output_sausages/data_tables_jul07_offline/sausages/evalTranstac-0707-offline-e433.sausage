@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 we're 0.948701 were 0.0484831 or 0.00177154 where 0.0010446
+align 2 doing 1
+align 3 household 0.979083 households 0.0204068 how 0.000406476 a 0.000103915
+align 4 *DELETE* 0.99949 sold 0.000406476 household 0.000103915
+align 5 searches 1
+align 6 in 0.991095 and 0.00890501
+align 7 your 0.942186 *DELETE* 0.0415048 you're 0.0162687 year 4.05033e-05
+align 8 is 0.895177 his 0.05795 euros 0.0414349 as 0.00447242 this 0.000702531 ears 0.00011451 has 7.86231e-05 yours 6.98195e-05
+align 9 next 1
+align 10 *DELETE* 0.999857 to 8.26995e-05 i 4.36625e-05 uh 1.69794e-05
+align 11 </s> 1

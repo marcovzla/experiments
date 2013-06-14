@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 are 1
+align 3 you 1
+align 4 headed 1
+align 5 today 1
+align 6 *DELETE* 0.999698 sir 0.000151788 uh 0.000148287 i 1.35033e-06 you 4.16168e-07
+align 7 </s> 1

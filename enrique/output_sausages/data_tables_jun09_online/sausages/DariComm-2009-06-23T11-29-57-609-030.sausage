@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 what 0.884754 well 0.115246
+align 2 i 1
+align 3 would 1
+align 4 like 1
+align 5 to 1
+align 6 do 1
+align 7 is 1
+align 8 put 1
+align 9 my 1
+align 10 trucks 0.852594 truck's 0.147406
+align 11 around 1
+align 12 the 1
+align 13 outside 1 *DELETE* 1.13048e-13
+align 14 *DELETE* 0.998272 uh 0.00105929 it 0.000373833 i 0.000147757 of 8.55657e-05 the 1.92059e-05 is 1.36537e-05 to 1.33126e-05 in 7.55479e-06 a 4.88697e-06 that 1.6505e-06 if 8.80331e-07 and 4.92738e-08 you 3.13141e-08 outset 1.69212e-08 at 4.3537e-10
+align 15 </s> 1

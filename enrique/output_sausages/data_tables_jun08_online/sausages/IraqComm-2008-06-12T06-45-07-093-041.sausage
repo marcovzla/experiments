@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 the 1
+align 4 name 1
+align 5 of 1
+align 6 the 1
+align 7 principal 0.971822 principle 0.0269831 principals 0.000657236 principles 0.000537479 *DELETE* 7.4463e-15
+align 8 *DELETE* 0.999998 i 1.3775e-06 of 5.0069e-07 principal's 2.5715e-07 uh 1.57722e-07 sensible 1.05894e-17
+align 9 </s> 1

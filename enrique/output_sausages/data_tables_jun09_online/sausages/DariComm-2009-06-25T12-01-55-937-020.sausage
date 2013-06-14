@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 information 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 on 1
+align 7 the 0.883811 a 0.0894148 *DELETE* 0.0267741
+align 8 patrol 1
+align 9 and 1
+align 10 operation 0.985457 operations 0.0143156 i 0.000224623 *DELETE* 1.77482e-52
+align 11 *DELETE* 0.998353 uh 0.00134159 operation 0.000224623 i 7.07936e-05 you 6.65716e-06 operation's 2.43072e-06 a 6.76613e-07 in 4.91322e-08 it 2.41866e-09 to 2.56229e-10 is 1.73005e-10
+align 12 </s> 1

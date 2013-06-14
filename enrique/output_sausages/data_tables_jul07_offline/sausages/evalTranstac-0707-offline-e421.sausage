@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.998342 and 0.00150592 what 7.74252e-05 well 4.17094e-05 but 3.28102e-05
+align 2 what 1
+align 3 sort 1
+align 4 of 1
+align 5 problems 1
+align 6 are 1
+align 7 you 1
+align 8 having 1
+align 9 with 1
+align 10 it 0.999271 *DELETE* 0.000684393 that 3.94007e-05 uh 5.3711e-06
+align 11 </s> 1

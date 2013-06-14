@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 okay 0.999834 oh 0.000166352
+align 2 a 0.464424 it's 0.151407 *DELETE* 0.0913259 the 0.080373 school 0.0697389 at 0.0428157 is 0.0393877 this 0.013934 in 0.0111952 uh 0.0109976 as 0.00957712 it 0.00883925 if 0.00238997 to 0.00207831 i 0.000905715 are 0.000231339 okay 0.000166352 us 0.000160473 and 5.22799e-05
+align 3 school 0.756113 cool 0.174148 *DELETE* 0.0697389
+align 4 that'd 0.795018 that'll 0.204982 they'll 6.68977e-11
+align 5 be 1
+align 6 great 1
+align 7 *DELETE* 1 uh 4.6056e-07
+align 8 </s> 1

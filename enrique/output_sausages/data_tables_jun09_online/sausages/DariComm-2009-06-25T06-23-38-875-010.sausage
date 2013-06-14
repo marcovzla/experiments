@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 0.998992 why 0.00100815
+align 2 does 1
+align 3 your 1
+align 4 school 1
+align 5 building 1
+align 6 need 0.999153 knead 0.000847357
+align 7 *DELETE* 0.998836 uh 0.000386253 it 0.000279611 to 0.000275727 a 8.24431e-05 i 4.87098e-05 you 4.57936e-05 them 1.90558e-05 the 1.4838e-05 that 8.42162e-06 and 2.37714e-06 um 3.06922e-07 do 9.89348e-08 in 1.80941e-08 at 1.93196e-11
+align 8 </s> 1

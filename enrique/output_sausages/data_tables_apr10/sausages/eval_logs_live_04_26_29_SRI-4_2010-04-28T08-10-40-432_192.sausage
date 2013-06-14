@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 areas 0.999875 area 0.000125362
+align 3 of 0.964446 at 0.0349014 are 0.000480177 is 0.000125362 *DELETE* 4.42168e-05 it 3.15443e-06
+align 4 the 1
+align 5 hospital 1
+align 6 are 0.989293 or 0.0103008 our 0.000406636
+align 7 damaged 0.995573 damage 0.0044267
+align 8 *DELETE* 0.999994 i 3.04135e-06 it 2.22002e-06 if 2.08079e-07 uh 1.22938e-07
+align 9 </s> 1

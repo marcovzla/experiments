@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 don't 1
+align 3 you 1
+align 4 want 0.997575 *DELETE* 0.00242487
+align 5 to 0.996817 wanna 0.00242487 *DELETE* 0.000687913 i 7.07105e-05
+align 6 open 1
+align 7 it 0.999604 *DELETE* 0.000207252 at 0.000104823 a 8.31963e-05 to 7.22253e-07
+align 8 </s> 1

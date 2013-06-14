@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 trust 1
+align 4 your 1 you're 3.25679e-07
+align 5 leader 0.99517 liter 0.00482971
+align 6 *DELETE* 0.999988 i 1.17393e-05 uh 4.66754e-07 is 2.53694e-11
+align 7 </s> 1

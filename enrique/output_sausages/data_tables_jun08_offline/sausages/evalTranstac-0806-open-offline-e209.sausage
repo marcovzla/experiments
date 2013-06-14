@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 well 0.892139 yeah 0.0613133 it 0.0420752 a 0.00447258
+align 2 *DELETE* 0.892139 well 0.107861
+align 3 i 1
+align 4 i'd 0.998219 i 0.00178128
+align 5 *DELETE* 0.999999 i 1.13939e-06
+align 6 like 1
+align 7 to 1
+align 8 ask 1
+align 9 if 0.998336 *DELETE* 0.00166418
+align 10 you've 0.981214 you 0.0180989 *DELETE* 0.000686688
+align 11 *DELETE* 0.999192 a 0.000807542
+align 12 *DELETE* 0.998336 few 0.00166418
+align 13 treated 0.998914 treat 0.00108571
+align 14 him 1
+align 15 before 1
+align 16 if 1
+align 17 you 0.704378 he 0.295622
+align 18 should 1
+align 19 be 1
+align 20 a 1
+align 21 small 1
+align 22 boy 0.99999 *DELETE* 9.9437e-06
+align 23 ache 0.815669 eight 0.0705127 it 0.033308 a 0.0251381 take 0.0225846 *DELETE* 0.0170266 ate 0.0054437 aid 0.00437912 eighth 0.00297941 age 0.000692253 at 0.000406369 he 0.000402828 i 0.000373846 a._k. 0.000327442 you 0.000225356 aged 0.000212276 aide 7.97381e-05 eat 6.59605e-05 aches 6.36911e-05 h 3.3364e-05 if 3.02284e-05 it's 2.64561e-05 boyd 9.9437e-06 in 6.1411e-06 to 2.1695e-06 they 6.21766e-07 we 2.51937e-07
+align 24 *DELETE* 0.9979 it 0.0020886 a 7.91615e-06 at 2.19113e-06 i 9.25837e-07
+align 25 </s> 1

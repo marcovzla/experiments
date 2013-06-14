@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 where 0.572367 what 0.426573 well 0.000691476 when 0.000368833
+align 2 *DELETE* 0.999999 it 5.53243e-07
+align 3 is 1
+align 4 the 1
+align 5 oldest 1
+align 6 child 0.966666 to 0.0333344
+align 7 *DELETE* 0.96281 our 0.0333344 i 0.00385536
+align 8 a 0.508225 age 0.485574 *DELETE* 0.00620101
+align 9 *DELETE* 0.485363 each 0.363618 age 0.148691 aged 0.00211721 i 0.000108549 uh 7.81515e-05 it 1.13652e-05 to 8.37225e-06 you 2.913e-06 a 1.07983e-06 in 1.86367e-09 if 1.18137e-09 the 4.7697e-10 do 7.17226e-12 but 1.11835e-13
+align 10 *DELETE* 0.999998 uh 1.54508e-06
+align 11 </s> 1

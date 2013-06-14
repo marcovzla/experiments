@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 are 0.999539 *DELETE* 0.000461345
+align 3 their 0.993799 the 0.00574 other 0.000461345
+align 4 names 1
+align 5 *DELETE* 1 uh 2.09115e-18 and 9.45012e-19 in 1.84492e-22
+align 6 </s> 1

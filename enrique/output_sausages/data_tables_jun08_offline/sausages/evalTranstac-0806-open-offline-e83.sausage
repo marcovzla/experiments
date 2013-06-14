@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 it 0.985619 a 0.0116587 eight 0.00272249
+align 2 it 1
+align 3 can 0.510645 could 0.486213 can't 0.00314185
+align 4 be 1
+align 5 very 1
+align 6 aggravate 0.964774 aggravated 0.0352258
+align 7 indian 0.930834 going 0.026795 engine 0.0116279 in 0.00956348 india 0.00755167 and 0.00519761 doing 0.0045638 down 0.00386701
+align 8 *DELETE* 0.985239 doing 0.00956348 then 0.00519761
+align 9 with 0.998902 what 0.00109804
+align 10 the 1
+align 11 ministry 1
+align 12 of 1
+align 13 interior 1
+align 14 but 1
+align 15 *DELETE* 0.968804 that 0.0169318 if 0.00593367 uh 0.0041999 the 0.0033703 it 0.000485169 at 0.000274845
+align 16 that 0.999825 there 0.000175406
+align 17 is 0.997979 as 0.00132827 it's 0.000692491
+align 18 the 0.998058 to 0.00194176
+align 19 process 0.999204 price 0.000588846 processed 0.000206926
+align 20 we 1
+align 21 have 0.976868 had 0.0231324
+align 22 to 1
+align 23 take 0.989346 taste 0.00884606 tayyij 0.00141046 taking 0.000397596
+align 24 *DELETE* 0.784626 you 0.117156 it 0.0587811 him 0.0262817 a 0.0126191 uh 0.000315661 here 0.000144483 her 3.25787e-05 i 2.14163e-05 his 1.02709e-05 the 4.83212e-06 in 4.17668e-06 your 2.09522e-06 up 6.92272e-07 an 2.41858e-07
+align 25 *DELETE* 1 a 5.22538e-08
+align 26 </s> 1

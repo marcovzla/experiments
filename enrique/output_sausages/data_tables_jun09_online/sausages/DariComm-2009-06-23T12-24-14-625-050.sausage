@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 start 1
+align 2 at 0.967786 up 0.0322141
+align 3 the 0.99983 *DELETE* 0.000170178
+align 4 front 0.988841 *DELETE* 0.0109885 to 0.000170178
+align 5 *DELETE* 0.618259 and 0.369196 flat 0.00683287 far 0.0039412 it 0.00076069 of 0.000625134 fight 0.000384641
+align 6 then 0.999999 them 5.49926e-07
+align 7 go 1
+align 8 to 1
+align 9 the 1 *DELETE* 3.69945e-28
+align 10 rear 0.999676 river 0.000228392 roof 6.69098e-05 room 2.8446e-05
+align 11 *DELETE* 1 and 3.32095e-07 it 1.10907e-11
+align 12 </s> 1

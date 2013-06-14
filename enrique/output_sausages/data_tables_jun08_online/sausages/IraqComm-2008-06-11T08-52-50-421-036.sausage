@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 effect 0.8847 effects 0.0913265 affects 0.012146 *DELETE* 0.011483 defected 0.00023694 affect 5.71e-05 defects 5.01975e-05
+align 3 of 0.418534 is 0.314598 because 0.166125 does 0.0562452 affected 0.011483 *DELETE* 0.00898629 us 0.00821344 as 0.00762726 to 0.00665609 at 0.00123219 did 0.000299802
+align 4 this 1
+align 5 have 1
+align 6 on 1
+align 7 the 1
+align 8 current 0.690366 car 0.286137 cart 0.0200727 card 0.00228385 coming 0.000691829 currant 0.000327054 comment 7.92358e-05 content 4.22389e-05
+align 9 workforce 0.990286 work 0.00668363 it 0.00245479 that 0.000575955 i 5.99932e-13
+align 10 *DELETE* 1 work 5.99932e-13
+align 11 *DELETE* 0.990286 force 0.00668363 workforce 0.00302778 work 2.97374e-06
+align 12 *DELETE* 0.999997 force 2.97374e-06 forces 1.08931e-12 is 6.22613e-17
+align 13 </s> 1

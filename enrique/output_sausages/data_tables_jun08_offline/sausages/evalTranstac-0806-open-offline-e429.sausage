@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 and 0.631501 in 0.368499
+align 2 *DELETE* 0.800103 uh 0.109052 it 0.0894447 then 0.00140032
+align 3 that 0.979734 *DELETE* 0.0160188 the 0.00419623 a 5.13948e-05
+align 4 *DELETE* 0.53797 that 0.46203
+align 5 will 0.590968 that'll 0.354092 we'll 0.0549399
+align 6 help 1
+align 7 you 1
+align 8 with 1
+align 9 *DELETE* 0.999994 the 6.45034e-06
+align 10 uh 1
+align 11 cordoning 1
+align 12 off 1
+align 13 of 0.919612 uh 0.0692508 um 0.0107636 the 0.000373618
+align 14 the 0.999648 that 0.000267396 they 6.86478e-05 be 1.57901e-05 a 5.61191e-07 day 3.132e-08
+align 15 area 1
+align 16 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 checkpoints 1
+align 4 will 0.734183 what 0.106502 would 0.0523453 we'll 0.0448544 with 0.0340758 we 0.00854656 when 0.00790281 where 0.00761343 well 0.00366377 were 0.000313667
+align 5 you 1
+align 6 set 0.999828 said 0.000172057
+align 7 up 1
+align 8 *DELETE* 0.995215 uh 0.00262959 a 0.00201611 i 0.000110097 in 1.68529e-05 the 1.22139e-05
+align 9 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.99994 does 5.95208e-05
+align 3 the 1
+align 4 leader's 0.964659 leaders 0.0327807 leaders' 0.00228003 liters 0.000280538
+align 5 name 1 *DELETE* 1.80101e-15
+align 6 *DELETE* 0.99734 is 0.00197114 i 0.000244706 uh 0.000183878 it 0.000150425 if 5.8794e-05 to 3.29714e-05 of 1.2603e-05 a 3.32941e-06 do 1.02223e-06 the 7.99841e-07 and 1.42713e-08 named 2.78001e-11
+align 7 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 you 1
+align 3 seen 1
+align 4 any 1
+align 5 drug 1
+align 6 trafficking 1
+align 7 in 1
+align 8 the 1
+align 9 area 1
+align 10 *DELETE* 0.999435 uh 0.00056256 you 2.79678e-06 and 1.47805e-08 so 8.88064e-10 like 6.33195e-10 is 3.88409e-12 that 5.53969e-14
+align 11 </s> 1

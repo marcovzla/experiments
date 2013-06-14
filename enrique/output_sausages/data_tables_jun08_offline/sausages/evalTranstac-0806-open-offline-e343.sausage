@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 were 0.816965 where 0.161883 we're 0.0104721 or 0.00939258 *DELETE* 0.00083734 to 0.000261888 it 0.000177806 it's 1.00087e-05
+align 2 *DELETE* 0.99955 where 0.000358588 were 8.93626e-05 or 1.75315e-06
+align 3 you 0.997145 he 0.00201803 *DELETE* 0.000708447 we 0.000128894
+align 4 simply 0.999292 recently 0.000708447
+align 5 place 1
+align 6 your 1
+align 7 hand 1
+align 8 on 1
+align 9 uh 1
+align 10 uh 0.563252 *DELETE* 0.425272 i 0.0114765
+align 11 your 0.54862 you 0.436074 you're 0.00803643 if 0.00727008
+align 12 hand 1 can 1.63342e-10
+align 13 on 1
+align 14 his 1
+align 15 forehead 1
+align 16 and 1
+align 17 you 1
+align 18 lift 0.791291 live 0.208709
+align 19 the 0.999995 ditch 5.00667e-06
+align 20 chin 0.99999 chan 4.6002e-06 in 4.00819e-06 and 9.98477e-07 chain 1.34355e-10
+align 21 up 1
+align 22 </s> 1

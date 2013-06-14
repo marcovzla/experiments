@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 we 1
+align 3 will 0.99411 we'll 0.00588995
+align 4 come 1
+align 5 from 1
+align 6 the 1
+align 7 east 1
+align 8 along 1
+align 9 this 1
+align 10 road 1
+align 11 *DELETE* 0.999843 uh 0.000154698 i 1.64348e-06 it 1.39774e-07 is 6.68332e-08 to 2.03846e-15
+align 12 </s> 1

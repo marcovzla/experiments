@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 where 0.789348 what 0.103323 we'll 0.0764496 *DELETE* 0.0153996 i 0.00860731 we 0.0048798 well 0.00108143 will 0.000911125
+align 2 *DELETE* 0.991393 will 0.00860731
+align 3 do 0.967114 are 0.0164386 with 0.0153996 did 0.00104811
+align 4 the 1
+align 5 d._v._d.s 1
+align 6 come 1
+align 7 from 1
+align 8 *DELETE* 0.99998 uh 1.2358e-05 a 6.84117e-06 you 4.48101e-07
+align 9 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 0.999817 which 0.00018299
+align 2 type 1
+align 3 of 1
+align 4 services 0.999994 service 6.30515e-06
+align 5 *DELETE* 0.999994 is 6.30515e-06
+align 6 do 1
+align 7 you 1
+align 8 provide 1
+align 9 here 0.991021 hear 0.00892081 your 5.86745e-05
+align 10 *DELETE* 0.999959 uh 3.65251e-05 i 4.60406e-06
+align 11 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 your 1
+align 3 children 1
+align 4 attend 1
+align 5 school 1
+align 6 *DELETE* 1 oh 4.99361e-12 in 1.33053e-19
+align 7 </s> 1

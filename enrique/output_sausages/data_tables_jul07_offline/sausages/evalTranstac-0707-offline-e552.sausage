@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 was 1
+align 3 hoping 1
+align 4 you'd 1
+align 5 be 1
+align 6 a 1
+align 7 little 1
+align 8 bit 1
+align 9 more 1
+align 10 cooperative 1
+align 11 *DELETE* 0.999904 uh 7.60909e-05 i 1.77416e-05 in 1.01399e-06 a 8.17964e-07 if 7.29049e-08
+align 12 </s> 1

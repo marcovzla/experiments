@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 there 1
+align 3 any 1
+align 4 uh 1
+align 5 *DELETE* 0.99915 uh 0.000850012
+align 6 weapons 1
+align 7 in 0.999979 and 2.10418e-05
+align 8 the 1
+align 9 house 1
+align 10 that 1
+align 11 i 1
+align 12 need 1
+align 13 to 1
+align 14 be 1
+align 15 aware 1
+align 16 of 0.999836 on 6.77334e-05 off 5.12125e-05 uh 3.80436e-05 *DELETE* 7.26716e-06
+align 17 *DELETE* 0.999911 uh 4.77845e-05 it 4.07959e-05 a 7.19007e-07
+align 18 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 0.999955 *DELETE* 2.30606e-05 where 2.20643e-05
+align 2 is 0.999977 was 2.30606e-05
+align 3 the 1
+align 4 name 1
+align 5 of 1
+align 6 the 1 this 2.22509e-14
+align 7 school 1
+align 8 in 0.997802 on 0.00183485 and 0.000363161
+align 9 your 1
+align 10 village 1
+align 11 *DELETE* 1 uh 2.57936e-08 to 2.24991e-08
+align 12 </s> 1

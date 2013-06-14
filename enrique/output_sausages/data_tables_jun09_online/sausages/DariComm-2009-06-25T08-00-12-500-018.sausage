@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 pull 0.568581 put 0.431419
+align 5 this 1
+align 6 bandage 1
+align 7 on 1
+align 8 the 0.998463 a 0.00153678
+align 9 wound 1
+align 10 *DELETE* 0.999995 uh 4.14418e-06 i 3.14089e-07 up 1.05894e-07 and 2.51364e-08 is 4.2218e-13 to 4.16764e-14 it 4.06231e-14
+align 11 </s> 1

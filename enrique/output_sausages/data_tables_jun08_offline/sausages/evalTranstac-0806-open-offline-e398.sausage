@@ -1,0 +1,25 @@
+numaligns 23
+posterior 1
+align 0 <s> 1
+align 1 they 0.501814 *DELETE* 0.498186
+align 2 are 0.501814 they're 0.498186
+align 3 allowed 1
+align 4 to 1
+align 5 have 1
+align 6 one 1
+align 7 a._k. 1
+align 8 per 1
+align 9 house 1
+align 10 and 1
+align 11 it's 0.999362 is 0.000638095
+align 12 important 1
+align 13 that 1
+align 14 they're 0.968226 there 0.0276183 they 0.00405372 their 0.000101578
+align 15 *DELETE* 0.995946 are 0.00405372
+align 16 not 1
+align 17 taking 0.998878 taken 0.00112233
+align 18 him 0.545724 them 0.360644 in 0.0261393 *DELETE* 0.0257146 on 0.0216678 an 0.0184196 and 0.0016906
+align 19 for 0.64589 to 0.327614 anything 0.0182687 into 0.00743399 through 0.000393016 four 0.000382472 include 1.19273e-05 from 5.24994e-06
+align 20 themselves 0.999205 them 0.000781807 a 1.28797e-05
+align 21 *DELETE* 0.999205 selves 0.000781807 themselves 1.28797e-05
+align 22 </s> 1

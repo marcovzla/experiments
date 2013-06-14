@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 wrong 1
+align 4 with 1
+align 5 your 0.999864 their 0.000136248
+align 6 brother 0.999829 father 0.000171322
+align 7 *DELETE* 0.999512 uh 0.000238036 do 0.000162283 in 8.46674e-05 at 2.1529e-06 as 2.33931e-07 and 1.35448e-07 is 5.04607e-10 i 1.1252e-10 to 6.15072e-14
+align 8 </s> 1

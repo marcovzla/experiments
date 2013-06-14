@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 absolutely 0.872962 i 0.0880446 oh 0.038993
+align 2 *DELETE* 0.87287 absolutely 0.127038 uh 9.20569e-05
+align 3 um 1
+align 4 *DELETE* 0.999736 uh 0.000250188 i 8.95602e-06 do 4.2144e-06 a 3.95601e-07
+align 5 </s> 1

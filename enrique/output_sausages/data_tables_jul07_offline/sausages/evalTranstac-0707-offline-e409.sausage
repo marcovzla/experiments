@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 you 0.999494 do 0.00050584
+align 2 *DELETE* 0.999494 you 0.00050584
+align 3 doing 0.975037 do 0.0249633
+align 4 *DELETE* 0.960521 and 0.0247794 to 0.0142299 do 0.000285746 in 0.000176558 an 7.34239e-06
+align 5 drugs 0.956489 uh 0.0282875 us 0.0093835 drug 0.00266273 drunk 0.00162296 *DELETE* 0.00155386
+align 6 *DELETE* 1 uh 1.58249e-07
+align 7 </s> 1

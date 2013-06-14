@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 we've 0.875221 we 0.124779
+align 2 been 1
+align 3 getting 1
+align 4 complaints 1
+align 5 by 0.899286 but 0.100714
+align 6 the 1
+align 7 villagers 1
+align 8 that 1
+align 9 your 1
+align 10 men 1
+align 11 are 1
+align 12 going 1
+align 13 around 0.587978 on 0.412022
+align 14 town 0.915125 time 0.0805469 tom 0.00432831
+align 15 without 0.999817 with 0.000183415
+align 16 *DELETE* 0.999817 out 0.000183415
+align 17 the 0.995968 they 0.00403234
+align 18 normal 0.995952 don't 0.00226336 go 0.00178443
+align 19 *DELETE* 0.995952 know 0.00226336 no 0.00156895 now 0.000215479
+align 20 ones 0.985138 forms 0.0148625
+align 21 in 0.859916 and 0.120632 of 0.00987734 are 0.00957487
+align 22 the 0.688028 no 0.191959 *DELETE* 0.0569457 a 0.0404825 not 0.0102698 it 0.00640509 that 0.00311958 our 0.00133634 or 0.000979663 their 0.000294217 nope 0.000143626 know 3.58709e-05
+align 23 weapons 0.629798 weapon 0.238599 weapon's 0.131602
+align 24 still 0.998746 *DELETE* 0.00125389
+align 25 slow 0.663457 *DELETE* 0.329417 sly 0.00585771 steel 0.000807822 steal 0.000391375 steals 5.41732e-05 a 1.37598e-05 till 5.24525e-07
+align 26 and 0.577491 slung 0.1936 slum 0.084587 *DELETE* 0.0610192 slump 0.0280055 on 0.0165989 in 0.0153765 slowing 0.0153333 suleiman 0.00798802
+align 27 *DELETE* 0.987938 i 0.00412094 now 0.00231557 on 0.00173394 um 0.00107738 slang 0.000589889 me 0.000534855 them 0.000326552 slowness 0.000243101 sloppy 0.000240891 i'm 0.000225156 no 0.000148072 him 0.000114688 uh 0.000109753 you 8.03134e-05 slabi 4.38144e-05 slums 3.93885e-05 an 3.41609e-05 a 2.4745e-05 slow 1.3956e-05 it 1.35276e-05 in 1.16262e-05 to 6.06395e-06 do 5.73726e-06 if 3.07632e-06 who 2.023e-06 need 1.07023e-06 the 6.80202e-07 they 5.10052e-07 we 2.38062e-07 new 7.91651e-09 is 5.28561e-14 as 1.63921e-15
+align 28 </s> 1

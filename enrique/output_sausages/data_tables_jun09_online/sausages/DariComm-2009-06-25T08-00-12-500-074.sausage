@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 how 1
+align 5 to 1
+align 6 use 1
+align 7 a 1
+align 8 call 0.849438 coral 0.136931 clue 0.00644013 global 0.00436155 clear 0.00155089 court 0.000660302 coal 0.000302771 car 0.00027035 coil 4.4913e-05
+align 9 *DELETE* 0.997373 will 0.0023694 the 0.000164266 we'll 9.32844e-05
+align 10 back 0.791323 pack 0.14702 attack 0.0470532 bak 0.00733464 packed 0.00359333 pac 0.00285118 tack 0.00039648 taq 0.000198309 tak 0.000137314 taak 8.56648e-05 *DELETE* 6.67904e-06
+align 11 *DELETE* 0.999854 it 5.77618e-05 uh 3.82682e-05 a 2.94411e-05 i 8.9025e-06 pat 6.67904e-06 in 1.54419e-06 if 1.49612e-06 to 1.36051e-06 the 6.53852e-07 up 1.18318e-08 and 4.2647e-09 of 4.15294e-09 at 6.327e-10 that 2.47109e-15 as 5.93686e-16
+align 12 </s> 1

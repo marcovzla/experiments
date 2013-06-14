@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 which 0.99838 much 0.000970127 that 0.000649643
+align 2 *DELETE* 0.99935 you 0.000649643
+align 3 building 1
+align 4 is 0.896095 as 0.103905
+align 5 the 1
+align 6 next 1
+align 7 time 0.990625 town 0.00937521
+align 8 is 0.653001 as 0.340879 this 0.00612005
+align 9 priority 1
+align 10 *DELETE* 0.988134 here 0.00676103 in 0.00212506 you 0.00140925 uh 0.00123315 and 0.00021679 to 0.000112132 on 7.95398e-06 it 1.63733e-07 of 9.45118e-10 i 6.3822e-10 is 2.55146e-16 a 7.49233e-17 we 2.18428e-17 he 1.85564e-21
+align 11 </s> 1

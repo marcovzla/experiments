@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 hours 1
+align 4 do 1
+align 5 you 1
+align 6 plan 0.9931 plant 0.00690024
+align 7 on 1
+align 8 operating 0.965715 uh 0.0310694 the 0.00255262 i 0.000663318
+align 9 *DELETE* 0.965715 operating 0.0342853
+align 10 this 0.998523 is 0.000966065 as 0.000510305 his 2.63567e-07 us 3.82208e-11 thus 7.38476e-15
+align 11 hospital 1
+align 12 *DELETE* 1 i 1.47592e-07
+align 13 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 men 1
+align 4 are 0.939056 on 0.0396871 *DELETE* 0.0212571
+align 5 on 0.87884 in 0.0798854 *DELETE* 0.041275
+align 6 all 1
+align 7 four 0.954276 for 0.0457239
+align 8 units 0.997142 unit's 0.00285827
+align 9 *DELETE* 0.999869 uh 0.000121436 i 8.35427e-06 in 5.7422e-07 a 3.83473e-07
+align 10 </s> 1

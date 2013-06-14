@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 when 1
+align 2 can 1
+align 3 he 1
+align 4 go 0.999712 get 0.000288382
+align 5 home 0.999887 homes 0.000112867
+align 6 *DELETE* 0.999901 uh 8.01646e-05 i 1.84763e-05
+align 7 </s> 1

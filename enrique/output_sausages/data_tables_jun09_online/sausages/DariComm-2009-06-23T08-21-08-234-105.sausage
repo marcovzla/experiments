@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 thank 1
+align 2 you 1
+align 3 *DELETE* 0.991685 uh 0.0077252 and 0.000589475
+align 4 if 1
+align 5 you 1
+align 6 don't 1
+align 7 mind 1
+align 8 i'm 0.99632 i 0.00368028
+align 9 *DELETE* 0.99632 am 0.00368028
+align 10 almost 1
+align 11 done 0.999995 *DELETE* 4.66713e-06
+align 12 *DELETE* 0.998875 uh 0.000407347 i 0.00020194 it 0.000178386 in 0.000124923 with 9.65732e-05 you 8.34467e-05 and 1.83659e-05 that 6.37219e-06 to 5.88768e-06 a 1.47748e-06 on 1.704e-08 the 6.56258e-09 but 3.34208e-11
+align 13 </s> 1

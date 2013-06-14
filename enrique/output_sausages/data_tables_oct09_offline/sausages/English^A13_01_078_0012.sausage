@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 *DELETE* 0.882986 sir 0.117014
+align 3 i 0.999605 *DELETE* 0.000394564
+align 4 understand 1
+align 5 that 0.799079 it 0.127542 uh 0.0419004 *DELETE* 0.00832011 i'll 0.00616377 oh 0.00458179 um 0.00376967 now 0.00361987 the 0.00130864 them 0.00106495 i 0.000735599 though 0.000552897 o 0.000350666 go 0.000288465 owe 0.000204193 there 0.00015504 how 0.000143435 no 0.000104797 i'm 4.75835e-05 of 2.59715e-05 our 2.52465e-05 their 7.70008e-06 they 7.20295e-06 know 1.27705e-06
+align 6 *DELETE* 0.999942 uh 5.78807e-05
+align 7 </s> 1

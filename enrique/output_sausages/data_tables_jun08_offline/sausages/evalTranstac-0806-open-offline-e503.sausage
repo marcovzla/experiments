@@ -1,0 +1,26 @@
+numaligns 24
+posterior 1
+align 0 <s> 1
+align 1 please 1
+align 2 reiterate 1
+align 3 to 0.9121 two 0.0479272 too 0.0388288 *DELETE* 0.00114363
+align 4 your 0.998856 tuyour 0.00114363
+align 5 men 1
+align 6 that 1
+align 7 they 1
+align 8 need 1
+align 9 to 1
+align 10 where 0.744864 wear 0.255136
+align 11 they're 0.744864 their 0.252467 *DELETE* 0.00266825
+align 12 all 0.967894 uh 0.0293466 other 0.00266825 *DELETE* 9.1434e-05
+align 13 i 0.999909 eyes 5.48283e-05 either 3.66056e-05
+align 14 are 0.628648 r 0.273811 our 0.0975413
+align 15 be 0.535874 b 0.348528 begins 0.110273 bee 0.00213486 being 0.00174314 bea 0.0014473
+align 16 cans 0.889727 to 0.110273
+align 17 tool 0.571924 to 0.185558 two 0.132245 *DELETE* 0.0852967 all 0.0249762
+align 18 *DELETE* 0.5969 all 0.252857 of 0.150243
+align 19 void 1
+align 20 blue 0.999971 blew 2.91761e-05
+align 21 on 0.999941 one 5.8502e-05
+align 22 blue 0.999145 below 0.000855343
+align 23 </s> 1

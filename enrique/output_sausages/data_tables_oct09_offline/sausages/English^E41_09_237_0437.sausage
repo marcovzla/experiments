@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 i 0.703901 *DELETE* 0.296099
+align 2 have 1
+align 3 a 0.997266 uh 0.00273404
+align 4 regular 1
+align 5 doctor 1
+align 6 do 0.999794 due 0.000206333
+align 7 that 0.997512 there 0.00124663 the 0.000767544 they 0.000335185 their 0.000123649 you 7.58355e-06 this 7.49503e-06
+align 8 *DELETE* 0.999968 uh 2.42324e-05 that 7.58355e-06 at 1.84727e-07
+align 9 </s> 1

@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 0.971042 where 0.0250123 *DELETE* 0.00369525 or 0.000250306
+align 2 were 1
+align 3 you 1
+align 4 doing 1
+align 5 in 1
+align 6 damascus 1
+align 7 </s> 1

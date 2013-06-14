@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 do 1
+align 3 you 1
+align 4 treat 1
+align 5 from 0.806207 drums 0.0867966 tribe 0.0859243 try 0.016126 *DELETE* 0.00286613 drum 0.00139308 it 0.000482018 jawn 0.000205266
+align 6 *DELETE* 0.999518 from 0.000482018
+align 7 us 0.762598 is 0.0937275 *DELETE* 0.086803 this 0.0264602 arms 0.016126 his 0.0072928 as 0.00290998 tribes 0.00194351 its 0.000806549 drivers 0.00042765 has 0.000272161 drives 0.000257995 jaundice 0.000236973 because 7.98838e-05 house 5.77683e-05
+align 8 *DELETE* 0.999915 a 6.91552e-05 uh 9.52394e-06 it's 6.34121e-06 it 5.22372e-08 i 2.52226e-08 of 2.20924e-08 so 2.8961e-29
+align 9 </s> 1

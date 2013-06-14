@@ -1,0 +1,31 @@
+numaligns 29
+posterior 1
+align 0 <s> 1
+align 1 our 0.997298 all 0.0026069 are 9.5329e-05
+align 2 *DELETE* 0.997393 our 0.0026069
+align 3 goal 1
+align 4 is 1
+align 5 to 1
+align 6 identify 0.999999 identified 8.6179e-07
+align 7 police 1
+align 8 also 0.885605 are 0.0661535 or 0.0419835 all's 0.00298095 officer 0.00249522 office 0.000604001 is 0.000135767 off 4.19371e-05
+align 9 *DELETE* 0.98642 i 0.00885687 they 0.00196251 do 0.00193187 to 0.000829029
+align 10 exist 0.244972 guest 0.166023 yes 0.136336 against 0.109061 suggest 0.108137 the 0.0896128 a 0.0574535 guessed 0.0485754 just 0.0322345 guess 0.00759148 you 3.43519e-06
+align 11 *DELETE* 0.85293 guest 0.147066 ask 2.16108e-06 have 1.27411e-06
+align 12 they 0.992072 the 0.0079277
+align 13 need 1
+align 14 the 1
+align 15 money 1
+align 16 but 1
+align 17 also 0.992075 all 0.00792501
+align 18 the 0.301256 with 0.236941 at 0.146619 let 0.134263 *DELETE* 0.11081 it 0.0545123 so 0.00792501 that 0.00353486 do 0.00262936 of 0.00139545 it's 0.000114067
+align 19 the 0.704444 *DELETE* 0.295556
+align 20 one 0.56767 when 0.43233
+align 21 it 0.989663 at 0.0103365
+align 22 to 0.820835 two 0.0878697 too 0.085681 do 0.00333806 through 0.00136243 can 0.000913568 *DELETE* 3.01891e-27
+align 23 *DELETE* 0.996924 you 0.0030757
+align 24 better 1
+align 25 their 0.941745 there 0.0351045 they're 0.0124468 the 0.0105422 of 0.00015842 *DELETE* 2.07729e-09
+align 26 *DELETE* 0.999839 their 0.00015842 that 2.74654e-06
+align 27 communities 0.992804 community 0.00678921 community's 0.000406613
+align 28 </s> 1

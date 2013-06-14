@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 and 0.999938 in 6.18622e-05 an 8.02635e-14
+align 2 maybe 0.999997 may 2.58468e-06
+align 3 *DELETE* 0.999997 be 2.58468e-06
+align 4 provide 0.986139 providing 0.0138607
+align 5 *DELETE* 0.99937 them 0.000627167 more 2.58468e-06
+align 6 one 0.994307 won 0.00331103 *DELETE* 0.00228422 want 9.79611e-05
+align 7 more 0.992001 will 0.00799683 *DELETE* 6.68851e-08
+align 8 *DELETE* 0.998748 one 0.00125213
+align 9 *DELETE* 0.997265 more 0.0022868 put 0.000448476
+align 10 *DELETE* 1 put 3.9461e-07
+align 11 platoon 0.999551 two 0.00044887
+align 12 from 1
+align 13 your 1
+align 14 side 0.998355 site 0.00144364 sight 0.000201068
+align 15 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 animal 1
+align 6 doctors 1
+align 7 *DELETE* 0.999845 uh 6.96226e-05 i 3.26235e-05 that 3.02407e-05 do 2.03979e-05 in 1.512e-06 a 3.8516e-07 to 8.01361e-10 so 1.09223e-25
+align 8 </s> 1

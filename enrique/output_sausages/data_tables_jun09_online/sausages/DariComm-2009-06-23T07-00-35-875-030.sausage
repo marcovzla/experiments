@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 *DELETE* 0.99822 uh 0.00178016
+align 3 what 0.999958 where 4.21752e-05
+align 4 are 1
+align 5 your 1
+align 6 problems 1
+align 7 in 0.997859 and 0.00214023 *DELETE* 1.14249e-13
+align 8 the 0.997754 that 0.00105378 a 0.00101684 *DELETE* 0.000163565 in 1.07382e-05 into 7.22612e-07
+align 9 village 0.999743 delays 0.000257245 the 7.19495e-36
+align 10 *DELETE* 0.998747 uh 0.0011092 now 0.000107612 and 2.89573e-05 i 4.13251e-06 in 2.6769e-06 if 1.86976e-07 yeah 1.2598e-08 um 4.64776e-09 the 3.84822e-10 you 2.87158e-10 do 5.25653e-15 are 2.06176e-16 that 1.44275e-16 to 8.32409e-25 lives 7.19495e-36
+align 11 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 target 0.962693 charghad 0.0373072
+align 3 is 0.997501 *DELETE* 0.00249942
+align 4 the 0.997501 izzi 0.00249942
+align 5 auto 1
+align 6 mechanic 1
+align 7 shop 1
+align 8 over 0.99556 *DELETE* 0.0044404
+align 9 here 0.653269 there 0.20597 a 0.1283 *DELETE* 0.00540231 in 0.00525689 it 0.00180191 you 8.49293e-08 at 3.79012e-13 the 7.8326e-16
+align 10 *DELETE* 0.858336 year 0.128139 here 0.00730278 overhear 0.00356961 operator 0.000870789 uh 0.000850162 earlier 0.00066114 later 0.000125183 i 4.34821e-05 ear 3.5299e-05 your 3.19837e-05 you 1.87119e-05 um 9.19691e-06 the 5.39747e-06 eager 7.23175e-07 in 3.2584e-08 hear 3.93611e-16 their 1.34443e-20
+align 11 *DELETE* 0.999995 air 5.39747e-06
+align 12 </s> 1

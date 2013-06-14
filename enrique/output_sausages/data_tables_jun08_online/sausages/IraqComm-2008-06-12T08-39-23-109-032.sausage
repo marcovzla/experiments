@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 please 0.999988 *DELETE* 7.37805e-06 they 2.79053e-06 i 1.64733e-06
+align 2 say 0.999872 *DELETE* 0.000118934 okay 7.37805e-06 saw 1.64733e-06
+align 3 your 0.998346 it 0.000694515 *DELETE* 0.00044378 or 0.000390427 send 8.46936e-05 sir 3.42081e-05 so 6.41375e-06
+align 4 name 0.998777 in 0.000703398 again 0.000442783 him 6.9509e-05 an 6.30232e-06 surname 9.55634e-07 open 4.13046e-08
+align 5 again 1 i 2.23778e-12
+align 6 *DELETE* 0.999992 uh 5.60079e-06 um 2.42238e-06 can 2.23778e-12 and 4.35164e-21 you 1.33273e-22 began 2.64823e-30
+align 7 </s> 1

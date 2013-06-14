@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.998356 one 0.00163179 well 9.34704e-06 why 3.31263e-06
+align 2 do 0.972833 did 0.0255353 to 0.00163179
+align 3 the 0.983976 they 0.0160243
+align 4 guards 0.985642 guard's 0.0143493 guards' 8.79983e-06
+align 5 carry 1
+align 6 what 0.998946 were 0.00105354
+align 7 items 0.988173 i 0.0108103 a 0.00101632
+align 8 *DELETE* 0.988173 items 0.0118266 i 3.33806e-12
+align 9 </s> 1

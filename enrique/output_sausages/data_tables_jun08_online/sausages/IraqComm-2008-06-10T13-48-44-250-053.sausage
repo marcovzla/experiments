@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 kind 1
+align 3 of 1
+align 4 threats 1
+align 5 do 0.999156 to 0.000844069
+align 6 you 1
+align 7 have 1
+align 8 *DELETE* 0.99756 uh 0.00124132 a 0.00119729 the 1.06052e-06 to 2.00296e-08 in 7.07395e-11 it 5.80274e-12
+align 9 </s> 1

@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 don't 1
+align 3 you 1
+align 4 continue 1
+align 5 looking 1
+align 6 that 0.999843 at 0.000157186
+align 7 way 0.999993 weigh 7.45655e-06
+align 8 </s> 1

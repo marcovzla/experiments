@@ -1,0 +1,32 @@
+numaligns 30
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 you 0.999939 *DELETE* 4.76888e-05 he 1.23238e-05 i 5.25617e-07
+align 3 you 1
+align 4 will 0.994786 we'll 0.00521373
+align 5 be 1
+align 6 in 0.997512 into 0.00231791 and 0.000170275
+align 7 the 0.999918 to 8.23029e-05
+align 8 *DELETE* 0.999918 the 8.23029e-05
+align 9 center 1
+align 10 of 1
+align 11 the 1
+align 12 convoy 1
+align 13 and 0.955374 in 0.0392178 a 0.00381548 an 0.00146646 end 0.000126635
+align 14 *DELETE* 0.996185 and 0.00370916 an 0.000106317
+align 15 my 1
+align 16 gun 1
+align 17 trucks 1
+align 18 will 0.90595 *DELETE* 0.0549972 would 0.0211607 or 0.011115 and 0.00677742
+align 19 be 0.999997 b 2.84252e-06
+align 20 in 1
+align 21 the 1
+align 22 front 1
+align 23 and 1
+align 24 the 1
+align 25 rear 1
+align 26 providing 1
+align 27 uh 0.746405 a 0.147711 us 0.0634677 i 0.0344993 out 0.00594304 um 0.00176915 on 0.000202643 *DELETE* 7.83016e-15
+align 28 escort 1
+align 29 </s> 1

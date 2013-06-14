@@ -1,0 +1,19 @@
+numaligns 17
+posterior 1
+align 0 <s> 1
+align 1 he 1
+align 2 might 1
+align 3 be 1
+align 4 able 1
+align 5 to 1
+align 6 get 1
+align 7 just 0.630117 *DELETE* 0.369883
+align 8 a 1
+align 9 *DELETE* 0.630117 just 0.369883
+align 10 *DELETE* 0.630117 a 0.369883
+align 11 little 1
+align 12 pass 0.684493 past 0.165562 passed 0.149945
+align 13 the 0.999129 a 0.000870987
+align 14 barrier 1
+align 15 *DELETE* 0.99998 uh 1.44731e-05 i 3.12947e-06 in 1.77396e-06 it 2.60673e-07 to 4.36777e-09
+align 16 </s> 1

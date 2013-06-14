@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 way 0.785822 where 0.214178
+align 2 or 0.785822 *DELETE* 0.214178
+align 3 do 1
+align 4 you 1
+align 5 teach 1
+align 6 *DELETE* 0.999995 a 5.35484e-06
+align 7 </s> 1

@@ -1,0 +1,7 @@
+numaligns 5
+posterior 1
+align 0 <s> 1
+align 1 since 0.48556 census 0.363664 sense 0.0862796 senses 0.021092 sends 0.0175097 i 0.00929312 yeah 0.00686878 cents 0.00595843 senseless 0.00289795 sounds 0.000706107 sciences 0.000135154 sons 3.23814e-05 son 1.98017e-06
+align 2 *DELETE* 0.987947 sense 0.00689359 since 0.00515954
+align 3 this 0.483128 *DELETE* 0.387788 us 0.124104 census 0.00410877 those 0.000529749 as 0.000337824 says 1.98017e-06 to 8.90231e-07 it's 7.20431e-07 i 3.31074e-07
+align 4 </s> 1

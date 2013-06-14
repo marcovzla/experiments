@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 can 1
+align 3 you 1
+align 4 uh 1
+align 5 can 1
+align 6 we 0.759324 you 0.240676
+align 7 go 1
+align 8 over 0.988529 we're 0.00740629 were 0.00260254 are 0.000746077 or 0.000418459 our 0.00025952 *DELETE* 3.83813e-05
+align 9 by 0.999967 buy 3.33678e-05
+align 10 the 1
+align 11 window 0.999953 *DELETE* 4.73177e-05
+align 12 *DELETE* 0.999823 open 0.000115942 windows 4.73177e-05 and 1.38101e-05 is 1.44462e-08 up 9.01268e-11
+align 13 </s> 1

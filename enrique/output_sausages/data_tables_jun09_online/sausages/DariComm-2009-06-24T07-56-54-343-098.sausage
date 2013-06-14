@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 is 0.909915 *DELETE* 0.0900846
+align 2 there 0.906038 has 0.0875771 *DELETE* 0.00387711 as 0.00250751
+align 3 any 1
+align 4 other 1
+align 5 problems 0.989262 problem 0.0107378
+align 6 beside 0.983006 besides 0.0119048 decide 0.00484099 be 0.000121951 *DELETE* 0.000116048 with 1.07246e-05
+align 7 *DELETE* 0.999867 side 0.000121951 decide 1.07246e-05
+align 8 the 1
+align 9 *DELETE* 0.999884 decide 0.000116048
+align 10 *DELETE* 0.999884 the 0.000116048
+align 11 trash 1
+align 12 problem 1
+align 13 *DELETE* 0.999813 uh 0.000140894 i 4.35524e-05 um 2.28853e-06 and 5.78723e-13
+align 14 </s> 1

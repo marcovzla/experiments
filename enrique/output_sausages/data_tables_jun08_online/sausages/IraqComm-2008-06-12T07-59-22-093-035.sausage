@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.822534 where 0.151012 well 0.0195605 *DELETE* 0.0068729 uh 2.00855e-05
+align 2 is 1
+align 3 the 1
+align 4 truck 1
+align 5 currently 0.999738 that 0.000197872 *DELETE* 6.383e-05 i 3.54408e-07
+align 6 *DELETE* 0.999738 we 0.000197872 kiley 3.3176e-05 kylie 2.70141e-05 kaley 3.63986e-06 ali 3.54404e-07 oily 3.66197e-12 only 3.63668e-12 mentally 2.26732e-13
+align 7 located 1
+align 8 *DELETE* 0.999937 in 4.43707e-05 at 1.81341e-05 uh 1.31996e-07
+align 9 </s> 1

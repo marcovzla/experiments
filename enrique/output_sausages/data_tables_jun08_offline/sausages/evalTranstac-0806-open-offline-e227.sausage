@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 know 1
+align 4 when 1
+align 5 uh 0.948157 the 0.0503086 now 0.00153394
+align 6 *DELETE* 0.941117 uh 0.0588827
+align 7 what 1
+align 8 day 0.999839 date 0.000161363
+align 9 he 1
+align 10 was 1
+align 11 brought 0.862961 bright 0.120325 right 0.0164853 bride 0.000119673 pride 0.000108832
+align 12 into 0.834847 in 0.165065 and 8.66394e-05 end 1.78024e-06
+align 13 *DELETE* 0.835452 to 0.164508 of 3.9235e-05
+align 14 the 1
+align 15 *DELETE* 0.999852 the 0.00014829
+align 16 hospital 1 *DELETE* 9.04421e-23
+align 17 *DELETE* 0.999985 and 1.50273e-05 in 1.23967e-10 hospitals 2.22197e-14
+align 18 </s> 1

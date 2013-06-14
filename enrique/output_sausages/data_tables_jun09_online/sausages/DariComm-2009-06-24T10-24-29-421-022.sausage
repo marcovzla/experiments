@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 0.999951 uh 4.54379e-05 oh 3.3687e-06
+align 2 they 0.999651 there 0.000348678
+align 3 aware 0.99948 were 0.000236463 where 0.000210251 wear 4.77654e-05 way 1.87887e-05 *DELETE* 6.35047e-06 well 8.71183e-07
+align 4 of 0.999993 with 4.02856e-06 well 2.32191e-06 uh 1.66502e-08
+align 5 the 0.952652 this 0.0473482
+align 6 situation 0.999996 *DELETE* 3.7579e-06
+align 7 *DELETE* 0.999951 is 2.5544e-05 i 1.94154e-05 situations 3.7579e-06 uh 5.41746e-07 in 9.66303e-08 to 1.37228e-08 and 9.98268e-09 it 2.2645e-12 that 1.56227e-12
+align 8 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 0.997674 my 0.002041 well 0.000278132 but 7.28235e-06
+align 2 materials 0.999998 maternal 1.71675e-06
+align 3 do 1
+align 4 you 0.999992 *DELETE* 7.97393e-06
+align 5 need 1
+align 6 for 1
+align 7 the 1
+align 8 cordon 0.998306 court 0.00146154 *DELETE* 0.000232805 cord 1.58301e-21
+align 9 *DELETE* 0.998306 in 0.00137593 cordoned 0.000232805 and 8.56069e-05 uh 2.28067e-21
+align 10 </s> 1

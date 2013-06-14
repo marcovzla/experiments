@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 say 0.962739 you 0.0354812 i 0.00177936
+align 2 *DELETE* 0.962739 say 0.0372606
+align 3 again 1
+align 4 in 0.995289 *DELETE* 0.00471126
+align 5 a 0.975694 *DELETE* 0.0242622 and 4.39575e-05
+align 6 different 1
+align 7 way 0.999472 ways 0.000472804 weigh 5.42549e-05 *DELETE* 1.29316e-08
+align 8 *DELETE* 0.999974 uh 2.57335e-05 away 5.47468e-07 if 3.29742e-08 to 4.76285e-09 wei 2.26148e-14
+align 9 </s> 1

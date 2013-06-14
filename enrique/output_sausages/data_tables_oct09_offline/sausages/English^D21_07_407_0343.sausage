@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 uh 0.954244 *DELETE* 0.0412166 oh 0.00453982
+align 2 oh 0.99546 *DELETE* 0.00453982
+align 3 make 1
+align 4 sure 1
+align 5 i 0.989153 uh 0.00745059 *DELETE* 0.0033969
+align 6 *DELETE* 0.99866 i 0.00134038
+align 7 stop 0.788101 stopped 0.210293 i 0.00160596
+align 8 *DELETE* 0.998394 stop 0.00160596
+align 9 by 1
+align 10 a 0.780144 uh 0.147311 *DELETE* 0.0725457
+align 11 again 1
+align 12 before 1
+align 13 the 1
+align 14 end 0.998807 *DELETE* 0.00119288
+align 15 of 0.998807 into 0.00119288
+align 16 the 0.999986 a 1.37432e-05
+align 17 week 0.998969 weak 0.0010313
+align 18 </s> 1

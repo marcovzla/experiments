@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 engineers 1 engineer's 2.11808e-18 engineers' 1.59778e-19
+align 5 </s> 1

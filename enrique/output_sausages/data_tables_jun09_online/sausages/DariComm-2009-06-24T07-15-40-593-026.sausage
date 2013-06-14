@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 0.990061 all 0.00849281 *DELETE* 0.000694666 right 0.000583554 and 0.00016753
+align 2 *DELETE* 0.990645 right 0.00918748 what 0.00016753
+align 3 is 1
+align 4 this 1
+align 5 device 0.999904 the 9.56921e-05
+align 6 *DELETE* 0.999904 vice 9.56921e-05
+align 7 for 0.988162 four 0.0118138 *DELETE* 2.44905e-05
+align 8 *DELETE* 0.97719 it 0.013928 uh 0.00308815 you 0.00296788 a 0.00126845 that 0.000829309 the 0.000426076 i 0.000222426 to 4.37803e-05 fore 2.44905e-05 do 5.90492e-06 if 3.02301e-06 but 2.43455e-06 and 2.97064e-07 an 1.49112e-07 in 2.98182e-09 at 1.13545e-10
+align 9 </s> 1

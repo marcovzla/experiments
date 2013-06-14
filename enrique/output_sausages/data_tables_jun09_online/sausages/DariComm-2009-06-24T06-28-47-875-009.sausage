@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 i'm 1
+align 2 here 1
+align 3 to 1
+align 4 talk 1
+align 5 to 1
+align 6 you 1
+align 7 about 1
+align 8 medical 1
+align 9 issues 1
+align 10 *DELETE* 0.999475 i 0.000346636 uh 8.23924e-05 in 3.31808e-05 you 2.03218e-05 um 1.96839e-05 and 9.90702e-06 do 8.82803e-06 to 2.86422e-06 a 7.28408e-07 the 3.96841e-08 it 3.86556e-12
+align 11 </s> 1

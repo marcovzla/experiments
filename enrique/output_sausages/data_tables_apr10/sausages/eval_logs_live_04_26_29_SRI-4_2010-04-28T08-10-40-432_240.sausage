@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 nurses 1
+align 4 work 1
+align 5 here 1
+align 6 *DELETE* 0.999481 uh 0.000298717 or 8.74146e-05 i 8.62428e-05 i'm 1.61014e-05 now 1.50411e-05 um 5.57914e-06 oh 4.92968e-06 too 2.76491e-06 you 1.62883e-06 with 4.54075e-07 are 2.79313e-07 in 2.4604e-07 for 2.48387e-08 i'll 7.74282e-09 well 4.9802e-09 were 1.46939e-09 will 1.26382e-09 on 1.17644e-09 no 3.96955e-11
+align 7 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 any 1
+align 5 problems 1
+align 6 with 1
+align 7 americans 0.918498 american's 0.0815016
+align 8 near 0.999831 *DELETE* 0.000168926
+align 9 the 0.998244 them 0.00151801 new 0.000168926 *DELETE* 6.86254e-05
+align 10 mosque 0.693846 mosques 0.304679 *DELETE* 0.00147407
+align 11 *DELETE* 0.99586 is 0.00266392 mosque's 0.00147407 as 1.80489e-06 this 3.25799e-14 so 1.85142e-15 in 2.05548e-16 to 2.97433e-17
+align 12 </s> 1

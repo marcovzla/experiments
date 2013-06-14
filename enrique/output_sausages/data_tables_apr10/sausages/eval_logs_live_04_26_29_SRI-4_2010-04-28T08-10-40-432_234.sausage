@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 is 0.863137 as 0.133816 it's 0.00304652
+align 2 the 1
+align 3 medication 0.995479 medications 0.00452116
+align 4 locked 0.908501 locks 0.0325415 blocked 0.0174994 rocks 0.0141845 lot 0.00927612 lock 0.00923227 unlocked 0.00411387 rock 0.00206526 *DELETE* 0.00129305 to 0.000784128 in 0.000283105 i 0.000225776
+align 5 *DELETE* 0.997224 locked 0.00122816 lots 0.000631712 blocks 0.000564435 it 0.000115383 i 6.7389e-05 lock 5.97917e-05 rot 3.61031e-05 block 3.55781e-05 rockets 1.26539e-05 clocked 1.10281e-05 uh 4.65975e-06 locks 3.60733e-06 in 2.83229e-06 clot 1.53329e-06 lot 1.44788e-06 if 9.71862e-09 rocks 3.9358e-09 glock 3.24479e-09 rocket 1.92112e-10
+align 6 </s> 1

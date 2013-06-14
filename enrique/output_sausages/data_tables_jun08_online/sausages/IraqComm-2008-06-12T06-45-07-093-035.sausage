@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 are 0.452996 by 0.382571 uh 0.0957544 but 0.0615397 oh 0.00607008 of 0.000678956 i 0.000358785 well 3.02318e-05 now 3.17243e-08 or 1.80986e-08 all 2.54629e-10 no 1.13517e-12 i've 2.15329e-13 i'd 4.70408e-14 and 2.57683e-16
+align 2 the 1
+align 3 school 1 schools 6.9362e-08
+align 4 employees 0.888754 employee 0.0453131 *DELETE* 0.0286212 employ 0.0208812 employer 0.0153489 employed 0.000880274 for 0.000186095 in 8.64047e-06 and 6.16209e-06
+align 5 *DELETE* 0.888754 is 0.0812697 employers 0.0129502 employee's 0.0124118 employees' 0.00209262 his 0.00133982 employer's 0.00101 employs 0.000155521 plays 1.58291e-05 boys 5.695e-09
+align 6 involved 0.986474 involve 0.0134021 involves 0.000123752
+align 7 *DELETE* 0.999578 uh 0.000245993 in 0.000172797 i 2.97485e-06 a 1.09129e-09 if 7.8706e-23 the 3.54892e-23 you 1.47692e-23 for 3.36026e-24 at 2.17083e-25
+align 8 </s> 1

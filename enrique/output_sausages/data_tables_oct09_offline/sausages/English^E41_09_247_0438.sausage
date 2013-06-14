@@ -1,0 +1,39 @@
+numaligns 37
+posterior 1
+align 0 <s> 1
+align 1 after 1
+align 2 you 1
+align 3 check 0.992549 checked 0.00745079
+align 4 for 1
+align 5 that 0.993639 the 0.00636086
+align 6 rising 0.999963 arising 3.6683e-05
+align 7 following 0.974198 phone 0.0245004 fine 0.00130124
+align 8 in 0.800207 of 0.149772 *DELETE* 0.0262517 with 0.0237695
+align 9 the 1
+align 10 chest 1
+align 11 you 0.999517 *DELETE* 0.000483023
+align 12 know 0.999517 area 0.000483023
+align 13 wanna 0.971992 want 0.0280081
+align 14 *DELETE* 0.971992 to 0.0280081
+align 15 go 1
+align 16 ahead 1
+align 17 and 0.98228 no 0.00915395 *DELETE* 0.00761283 now 0.000759431 in 0.000193433
+align 18 uh 0.991419 *DELETE* 0.00858104
+align 19 *DELETE* 0.999642 uh 0.000358353
+align 20 put 1
+align 21 uh 0.770409 a 0.122509 it 0.107082
+align 22 i'll 0.905255 uh 0.0708197 *DELETE* 0.0223619 all 0.00154771 oh 1.5639e-05
+align 23 *DELETE* 0.870079 i'll 0.12945 uh 0.000470976
+align 24 roll 0.998778 role 0.00122163
+align 25 roll 0.94581 rolled 0.0397308 role 0.0144588
+align 26 that 0.826555 the 0.166491 uh 0.006954
+align 27 individual 1
+align 28 aren't 0.91491 and 0.0319975 armed 0.0257197 pond 0.016577 are 0.00974295 on 0.0007528 *DELETE* 0.00029163 our 8.72918e-06 arm 1.20893e-08 i'm 2.22831e-09 r 9.14001e-11
+align 29 *DELETE* 0.995515 and 0.00448192 under 3.00151e-06
+align 30 uh 0.935927 i 0.0576985 the 0.00430234 and 0.00146625 another 0.00029163 *DELETE* 0.000207744 does 3.80534e-05 to 3.09736e-05 done 2.34115e-05 on 1.37613e-05 a 6.98298e-07 in 1.77249e-08
+align 31 *DELETE* 0.998334 i 0.00164995 he 1.6023e-05 uh 2.04417e-07 to 4.25801e-08 the 1.77249e-08
+align 32 his 0.987468 he's 0.00535433 is 0.00517534 *DELETE* 0.00140827 this 0.000283215 as 0.000144346 it's 5.88799e-05 iz 4.24344e-05 dahi's 2.29977e-05 he 1.55901e-05 the 1.37187e-05 a 1.12268e-05 dahi 6.38484e-07 dhahi 3.96356e-07 you 1.18426e-07
+align 33 *DELETE* 0.999999 is 5.24344e-07
+align 34 side 0.998567 inside 0.00139829 aside 2.2217e-05 sides 1.25627e-05
+align 35 *DELETE* 0.999989 uh 1.12917e-05
+align 36 </s> 1

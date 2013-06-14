@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 do 1
+align 2 you 1
+align 3 have 1
+align 4 enough 1
+align 5 teachers 1
+align 6 at 1
+align 7 the 0.999955 this 4.47011e-05
+align 8 school 1
+align 9 *DELETE* 0.999943 at 3.44442e-05 in 1.20373e-05 oil 1.075e-05 oh 1.77822e-07 i 3.21811e-08 uh 3.10069e-08 is 1.68654e-11
+align 10 </s> 1

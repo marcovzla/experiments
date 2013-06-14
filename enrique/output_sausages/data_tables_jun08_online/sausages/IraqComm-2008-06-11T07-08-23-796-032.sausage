@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what's 1
+align 2 your 1 you're 2.47349e-07
+align 3 company 1 *DELETE* 1.96802e-17
+align 4 *DELETE* 0.980839 uh 0.0191525 i 4.57156e-06 a 4.31515e-06 companies 2.12566e-10 is 6.21294e-11 company's 4.71402e-11 in 6.54785e-28
+align 5 </s> 1

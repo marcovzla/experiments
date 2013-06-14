@@ -1,0 +1,21 @@
+numaligns 19
+posterior 1
+align 0 <s> 1
+align 1 one 1
+align 2 of 1
+align 3 my 1
+align 4 sergeants 1
+align 5 just 1
+align 6 told 1
+align 7 me 0.999998 *DELETE* 1.23179e-08
+align 8 they 0.916274 the 0.0837257
+align 9 fall 0.991425 *DELETE* 0.00857345 the 1.63218e-06
+align 10 another 0.962757 in 0.0279889 fallen 0.0080126 and 0.000665054 falling 0.000562485 on 1.36885e-05
+align 11 *DELETE* 0.962757 other 0.0371991 the 4.35895e-05
+align 12 *DELETE* 0.999956 other 4.35895e-05
+align 13 weapon 1
+align 14 in 1
+align 15 your 1
+align 16 bedroom 1
+align 17 *DELETE* 0.999779 uh 0.000221473
+align 18 </s> 1

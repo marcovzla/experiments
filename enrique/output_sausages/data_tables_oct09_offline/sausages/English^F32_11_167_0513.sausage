@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 oh 0.687142 uh 0.312858
+align 2 yes 1
+align 3 we 0.998972 you 0.00102833
+align 4 do 1
+align 5 have 0.99999 *DELETE* 1.03934e-05
+align 6 it 0.966536 a 0.0120138 him 0.0103524 in 0.00813847 them 0.00117022 ill 0.000784096 been 0.000580603 that 0.000100523 the 8.8044e-05 an 7.16569e-05 at 5.35414e-05 and 4.15784e-05 if 3.10038e-05 good 1.09005e-05 haven't 1.03934e-05 air 7.07154e-06 uh 5.54736e-06 any 3.42182e-06 is 1.95222e-07 but 1.92444e-07 up 1.34462e-09
+align 7 *DELETE* 0.998582 uh 0.00126656 a 7.58528e-05 in 3.91998e-05 to 2.19968e-05 um 6.52314e-06 it 5.88045e-06 up 1.45181e-06 at 2.98797e-07 big 3.6659e-08
+align 8 </s> 1

@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 you 0.629151 do 0.370849
+align 2 *DELETE* 0.629151 you 0.370849
+align 3 have 0.879716 *DELETE* 0.120284
+align 4 an 0.861547 haven't 0.119169 in 0.00882249 a 0.00811123 *DELETE* 0.00123541 having 0.00111466
+align 5 assignment 1
+align 6 to 1
+align 7 watch 1
+align 8 the 1
+align 9 rear 1
+align 10 </s> 1

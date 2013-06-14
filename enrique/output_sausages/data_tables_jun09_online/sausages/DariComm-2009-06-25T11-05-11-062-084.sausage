@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 well 0.850903 when 0.148722 or 0.000356306 *DELETE* 1.82376e-05
+align 2 we 0.879368 the 0.119677 he 0.000954391
+align 3 exit 0.991515 eggs 0.00518438 actually 0.00301052 acted 0.000274317 as 1.53167e-05
+align 4 *DELETE* 0.9948 it 0.0051997
+align 5 this 1
+align 6 area 0.999091 uh 0.000908843
+align 7 *DELETE* 0.99809 uh 0.000922398 area 0.000908843 is 5.1387e-05 i 2.71231e-05 a 3.07706e-07 if 3.98515e-09 it 9.83381e-10 in 1.24684e-13
+align 8 </s> 1

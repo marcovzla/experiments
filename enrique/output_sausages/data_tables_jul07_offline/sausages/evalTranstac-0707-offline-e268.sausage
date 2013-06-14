@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 so 1
+align 2 we'll 0.831464 will 0.0968548 we 0.0574606 i 0.0142204
+align 3 *DELETE* 0.928319 will 0.071681
+align 4 begin 1
+align 5 with 1
+align 6 use 0.995926 used 0.00407393
+align 7 the 0.99506 they 0.00207256 to 0.00157832 *DELETE* 0.000868278 that 0.000420344
+align 8 barrier 0.481217 barriers 0.155692 various 0.141133 bury 0.106332 dairy 0.0367571 very 0.0367045 barrie 0.0189227 barry 0.0154184 diri 0.0037814 vary 0.00248793 buried 0.000690507 douri 0.000488992 period 0.000370444 dirt 4.62223e-06
+align 9 sentry 0.746142 entry 0.145685 century 0.105174 sent 0.00166122 centuries 0.000568671 so 0.000399278 central 0.000291366 center 7.72589e-05 and 6.85064e-07 centrally 1.96909e-08
+align 10 *DELETE* 0.997758 you 0.00166253 entry 0.000399278 at 6.87536e-05 of 3.77002e-05 a 2.9013e-05 i 1.97291e-05 if 1.72405e-05 it 3.89237e-06 in 3.07547e-06 treat 6.85064e-07 to 6.52338e-09
+align 11 </s> 1

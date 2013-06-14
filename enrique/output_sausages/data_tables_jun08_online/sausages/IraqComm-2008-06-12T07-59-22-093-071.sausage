@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 the 1
+align 2 policeman 0.673183 policemen 0.326817
+align 3 must 1
+align 4 be 1
+align 5 prepared 1
+align 6 for 0.999105 four 0.000894534
+align 7 training 1
+align 8 *DELETE* 0.999849 uh 0.000133513 in 1.55715e-05 you 1.65269e-06 i 1.48867e-08 and 8.23428e-15
+align 9 </s> 1

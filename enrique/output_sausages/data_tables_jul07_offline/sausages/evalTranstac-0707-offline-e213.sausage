@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 and 0.99888 an 0.000793895 at 0.000199181 in 0.000127389
+align 2 are 0.866778 uh 0.115345 i 0.0156212 our 0.00196267 or 0.000293415
+align 3 *DELETE* 0.869034 are 0.13094 our 2.61738e-05
+align 4 any 1
+align 5 of 1
+align 6 them 1
+align 7 skilled 0.932716 skill 0.0671865 still 9.73464e-05
+align 8 *DELETE* 0.999993 uh 6.75424e-06
+align 9 </s> 1

@@ -1,0 +1,18 @@
+numaligns 16
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 in 0.999861 *DELETE* 0.000138681
+align 3 order 1
+align 4 for 1
+align 5 us 1
+align 6 to 1
+align 7 be 1
+align 8 here 1
+align 9 uh 0.999998 *DELETE* 2.40072e-10
+align 10 in 0.999869 *DELETE* 0.000127676 at 2.28429e-06 and 1.41668e-06
+align 11 the 1
+align 12 first 1
+align 13 place 1 *DELETE* 3.23302e-14
+align 14 *DELETE* 0.999908 i 8.95656e-05 uh 2.28488e-06 boys 1.37143e-12 to 5.50121e-14
+align 15 </s> 1

@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 how 0.999965 i 3.51115e-05 i'm 7.13943e-08
+align 2 *DELETE* 0.988806 much 0.0111944
+align 3 does 0.988758 do 0.00947625 *DELETE* 0.00171818 was 2.79586e-05 don't 1.05508e-05 would 5.69415e-06 many 3.20582e-06 may 1.75498e-07 a 7.13943e-08
+align 4 he 0.986063 you 0.00947625 she 0.00443103 see 2.9851e-05 the 7.4986e-08
+align 5 pay 0.999999 paid 8.709e-07
+align 6 you 1
+align 7 to 0.999719 *DELETE* 0.000281124
+align 8 take 1
+align 9 this 1
+align 10 car 1
+align 11 in 0.956083 and 0.0424076 a 0.00137419 *DELETE* 7.54559e-05 to 5.93496e-05
+align 12 austria 0.993605 austrian 0.00484077 nasiriya 0.00137862 naseri 9.12875e-05 *DELETE* 3.90842e-05 i 2.44203e-05 uh 1.90566e-05 ask 1.66542e-06
+align 13 *DELETE* 0.999818 of 7.9458e-05 syria 4.21388e-05 nasaria 3.90842e-05 up 9.41791e-06 a 4.9894e-06 serious 3.00345e-06 if 2.55239e-06 in 5.76544e-07 it 3.32077e-07 f 1.12956e-07 us 5.84606e-09 at 3.84337e-10 and 8.12079e-13
+align 14 </s> 1

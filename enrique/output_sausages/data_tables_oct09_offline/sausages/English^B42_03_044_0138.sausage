@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 oh 1
+align 2 excellent 1
+align 3 uh 1
+align 4 how 0.998939 uh 0.0010613
+align 5 how 1
+align 6 *DELETE* 0.998939 how 0.0010613
+align 7 long 1
+align 8 has 0.591507 his 0.243514 is 0.0960513 he's 0.0237643 these 0.0216023 it's 0.0104649 as 0.00776356 this 0.00513891 there's 0.000193555
+align 9 medical 1
+align 10 school 1
+align 11 at 0.999118 if 0.000881996
+align 12 the 1
+align 13 university 1
+align 14 of 1
+align 15 couple 0.932733 ka'ab 0.0601191 *DELETE* 0.0044641 cop 0.00195018 'qab 0.000385848 qab 0.000347639
+align 16 *DELETE* 0.932438 old 0.0328511 all 0.00976152 wall 0.00896516 will 0.00782721 couples 0.00213729 we'll 0.00209206 cobbler 0.00177387 well 0.00084659 low 0.00036284 kamel's 0.000338414 couples' 0.000214466 uh 0.000172403 of 0.000102869 walled 4.78032e-05 or 4.17155e-05 i 1.98492e-05 oh 4.26528e-06 one 1.22832e-06 over 6.67037e-07 what 3.88799e-07 more 1.24876e-07 qabas 5.76859e-08 in 5.19647e-08 a 1.12982e-08 won't 6.88544e-09 walls 1.21595e-09
+align 17 </s> 1

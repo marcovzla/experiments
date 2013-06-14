@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 police 1
+align 4 are 0.998941 our 0.0010301 r 2.887e-05
+align 5 there 0.996445 their 0.00262905 they're 0.000926283
+align 6 *DELETE* 0.999979 uh 1.66387e-05 i 4.19794e-06
+align 7 </s> 1

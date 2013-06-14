@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 *DELETE* 0.999992 the 7.99224e-06
+align 3 everybody 1
+align 4 is 0.998535 it's 0.000777867 as 0.000687031
+align 5 close 1
+align 6 to 0.626708 together 0.373292
+align 7 gather 0.626708 *DELETE* 0.373292
+align 8 that's 1
+align 9 going 0.922539 *DELETE* 0.077461
+align 10 to 0.922539 gonna 0.077461
+align 11 injure 1
+align 12 uh 0.97293 i'll 0.0270697
+align 13 larger 0.627231 a 0.372769 large 7.08579e-09
+align 14 *DELETE* 0.62024 larger 0.372769 a 0.0069589 in 3.19024e-05 or 7.08579e-09
+align 15 number 1
+align 16 of 1
+align 17 people 1
+align 18 then 0.93105 than 0.0689501
+align 19 if 1
+align 20 we 1
+align 21 had 0.998599 have 0.00140148
+align 22 good 0.99992 get 7.98998e-05
+align 23 dispersion 1
+align 24 *DELETE* 0.999998 i 2.47757e-06
+align 25 </s> 1

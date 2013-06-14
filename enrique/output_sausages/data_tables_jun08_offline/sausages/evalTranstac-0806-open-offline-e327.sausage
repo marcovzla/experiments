@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.849252 do 0.150748
+align 2 you 0.982769 you'll 0.0154119 if 0.0014195 it's 0.000399221
+align 3 look 0.738455 cook 0.244354 hook 0.0171911
+align 4 at 0.739103 it 0.260897
+align 5 out 1
+align 6 and 0.991087 in 0.00891349
+align 7 pull 1
+align 8 it 1
+align 9 out 1
+align 10 of 1
+align 11 the 0.974923 their 0.025077
+align 12 mouth 1
+align 13 of 0.543238 or 0.446663 are 0.00663372 through 0.00208754 for 0.000662866 and 0.000252335 to 0.000226892 *DELETE* 0.000190983 with 4.44695e-05
+align 14 the 0.995374 *DELETE* 0.00355697 a 0.000626299 they 0.000238079 early 0.000190983 this 1.36214e-05 our 2.16353e-13
+align 15 threat 0.720202 throat 0.26228 throw 0.0146955 through 0.00209344 three 0.000530496 threats 6.82725e-05 thrown 2.94363e-05 thread 2.89945e-05 thrower 2.3944e-05 threw 1.88108e-05 threaten 1.86214e-05 throws 9.9832e-06 threatened 5.0707e-08
+align 16 *DELETE* 0.999706 uh 0.000176858 of 4.42987e-05 i 4.41263e-05 in 1.15845e-05 out 8.40726e-06 on 3.99308e-06 a 1.80933e-06 it 1.3779e-06 or 1.14933e-06 is 1.70246e-07 oh 1.46092e-07
+align 17 </s> 1

@@ -1,0 +1,29 @@
+numaligns 27
+posterior 1
+align 0 <s> 1
+align 1 um 1
+align 2 that'll 1
+align 3 work 1
+align 4 great 0.933827 rate 0.0661733
+align 5 because 1
+align 6 it 0.989142 uh 0.00543701 that 0.00324971 a 0.00110849 sir 0.000658665 of 0.000279181 the 0.000125435
+align 7 looks 1
+align 8 like 0.999622 a 0.000377935
+align 9 our 0.946734 are 0.0525031 car 0.000523436 r 0.000239725
+align 10 entry 1
+align 11 uh 1
+align 12 we'll 0.676402 uh 0.150928 will 0.119562 oh 0.0531071
+align 13 *DELETE* 0.795965 we'll 0.185408 will 0.0186278
+align 14 be 1
+align 15 in 1
+align 16 that 0.97099 the 0.0290096
+align 17 uh 1
+align 18 eastern 1
+align 19 door 1
+align 20 as 0.996195 is 0.0038051
+align 21 we 1
+align 22 cross 0.831465 crossed 0.168535
+align 23 the 0.99314 a 0.00517869 to 0.00167422 this 6.96105e-06
+align 24 street 1
+align 25 *DELETE* 0.99999 uh 9.80928e-06
+align 26 </s> 1

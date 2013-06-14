@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 types 0.997652 is 0.00185252 times 0.000495606
+align 3 of 0.998147 the 0.00185252
+align 4 fruit 0.985244 food 0.0136456 fruits 0.000514544 four 0.000301716 from 0.000223759 for 4.03675e-05 truth 1.5636e-05 route 1.46724e-05
+align 5 </s> 1

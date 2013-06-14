@@ -1,0 +1,30 @@
+numaligns 28
+posterior 1
+align 0 <s> 1
+align 1 um 0.999969 *DELETE* 3.11639e-05
+align 2 *DELETE* 0.997162 uh 0.00283808
+align 3 *DELETE* 0.999969 i'm 3.11639e-05
+align 4 can 1
+align 5 you 1
+align 6 tell 1
+align 7 me 1
+align 8 about 1
+align 9 the 1
+align 10 uh 1
+align 11 *DELETE* 0.999996 uh 3.59762e-06
+align 12 the 1
+align 13 enemy 1
+align 14 situation 1
+align 15 there 0.856473 or 0.0670708 their 0.0382281 they're 0.0382281
+align 16 how 1
+align 17 many 1
+align 18 enemy 1
+align 19 um 0.81107 uh 0.18893
+align 20 are 0.998189 our 0.00166739 uh 0.000143316
+align 21 *DELETE* 0.999857 are 0.000143316
+align 22 located 1
+align 23 in 1
+align 24 this 1
+align 25 warehouse 0.802663 work 0.194333 were 0.00233327 we're 0.000635186 where 3.5119e-05
+align 26 *DELETE* 0.997048 house 0.00295175
+align 27 </s> 1

@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 i'll 0.887818 i 0.0360191 and 0.0341575 *DELETE* 0.0214258 i'd 0.0205801
+align 2 take 1
+align 3 your 0.997345 this 0.00265498
+align 4 answer 0.997345 *DELETE* 0.00265498
+align 5 as 1
+align 6 he 0.647367 *DELETE* 0.262827 you 0.0898057
+align 7 is 0.647367 years 0.262827 as 0.0874991 it's 0.00230658
+align 8 the 0.749778 to 0.239778 you 0.00677241 a 0.00367197
+align 9 only 1
+align 10 be 0.999611 *DELETE* 0.000388764
+align 11 too 0.941017 *DELETE* 0.0585945 the 0.000388764
+align 12 in 0.920761 to 0.05793 it 0.0197245 two 0.00105331 *DELETE* 0.000530975 and 2.79734e-08
+align 13 *DELETE* 0.966862 a 0.021093 it 0.0120448
+align 14 three 0.971889 agree 0.0263765 *DELETE* 0.00162056 we 0.000113515
+align 15 days 0.976665 day 0.0214628 today 0.00162056 days' 0.000178964 *DELETE* 7.22126e-05
+align 16 *DELETE* 0.999133 uh 0.000764892 day's 7.21534e-05 i 2.19035e-05 if 8.13102e-06 dates 5.9187e-08 to 4.49195e-12 guys 4.42948e-20
+align 17 </s> 1

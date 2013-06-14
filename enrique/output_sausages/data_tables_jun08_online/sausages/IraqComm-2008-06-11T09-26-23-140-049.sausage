@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.61108 do 0.38892
+align 2 you 1
+align 3 have 1
+align 4 trucks 1
+align 5 available 1
+align 6 for 1
+align 7 falling 0.610089 hauling 0.351772 following 0.0123275 polling 0.0104716 flowing 0.00884735 filing 0.00227427 failing 0.00224374 calling 0.00177613 filings 0.00010165 piling 9.71532e-05
+align 8 supplies 1 supplied 4.94366e-18
+align 9 *DELETE* 0.997745 uh 0.00191871 i 0.000228089 them 3.57992e-05 to 2.6841e-05 it 2.12961e-05 so 1.68086e-05 do 4.87225e-06 in 1.8157e-06 you 4.99151e-07 a 7.53746e-08 of 7.14793e-08 if 4.45176e-08 and 1.34054e-08 we 5.9845e-09 the 4.53396e-09 is 4.94366e-18
+align 10 </s> 1

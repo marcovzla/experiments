@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 what 0.999336 why 0.00066443
+align 2 do 0.978583 would 0.0131707 *DELETE* 0.00644433 did 0.00180161
+align 3 you 0.975545 *DELETE* 0.0180104 we 0.00644433
+align 4 do 0.916384 after 0.068603 *DELETE* 0.00679498 know 0.00524922 have 0.00296898
+align 5 *DELETE* 0.988277 after 0.0116754 can 2.91767e-05 it 1.50254e-05 uh 3.15169e-06
+align 6 *DELETE* 0.999997 can 3.15169e-06
+align 7 you 0.99706 to 0.0029398
+align 8 get 1
+align 9 the 0.82016 to 0.179795 *DELETE* 4.52415e-05
+align 10 *DELETE* 0.820205 the 0.179795
+align 11 gas 1
+align 12 station 0.999715 stations 0.000284706
+align 13 </s> 1

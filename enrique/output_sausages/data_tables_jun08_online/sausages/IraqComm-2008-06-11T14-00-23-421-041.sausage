@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 was 1
+align 2 anybody 1
+align 3 hurt 1
+align 4 during 1
+align 5 the 0.99889 a 0.000837848 this 0.000272575 that 3.79298e-19
+align 6 search 0.998387 searching 0.00161343
+align 7 </s> 1

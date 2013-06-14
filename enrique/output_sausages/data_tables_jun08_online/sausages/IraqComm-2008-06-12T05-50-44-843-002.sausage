@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 good 1
+align 2 morning 1
+align 3 how 1
+align 4 are 0.992608 were 0.00739178
+align 5 you 1
+align 6 doing 0.913135 going 0.0828579 do 0.00400659 *DELETE* 2.41991e-18
+align 7 *DELETE* 0.990716 it 0.0079453 uh 0.00109761 them 0.000120557 in 8.8496e-05 with 2.47196e-05 well 6.36413e-06 i 6.16879e-07 um 7.10503e-14 go 4.10766e-16 or 3.08035e-16 will 4.99659e-19
+align 8 </s> 1

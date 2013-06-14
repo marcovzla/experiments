@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 if 1
+align 2 it's 1
+align 3 ever 1
+align 4 resistance 1
+align 5 i 1
+align 6 can 1
+align 7 call 1
+align 8 in 0.543127 and 0.446412 a 0.00951417 an 0.000946241
+align 9 *DELETE* 0.990486 in 0.00951417
+align 10 the 1
+align 11 rest 1
+align 12 of 0.790454 a 0.134108 to 0.0371863 *DELETE* 0.0281113 in 0.00466748 so 0.00394482 the 0.00149155 and 2.21528e-05 some 1.43042e-05
+align 13 my 0.998219 may 0.00178115
+align 14 company 1
+align 15 to 1
+align 16 assist 1
+align 17 uh 0.495402 *DELETE* 0.333997 on 0.147398 in 0.0232023
+align 18 on 0.81731 *DELETE* 0.170601 in 0.0120893
+align 19 the 1
+align 20 uh 1
+align 21 the 0.999857 be 0.000143012
+align 22 assault 0.999115 a 0.000619065 itself 0.000101415 uh 8.58146e-05 us 7.32983e-05 so 4.25507e-06 it's 1.24922e-06
+align 23 *DELETE* 0.999221 cell 0.000601633 all 7.45476e-05 solve 6.47669e-05 salt 2.04598e-05 so 1.77603e-05 slow 2.59658e-07
+align 24 </s> 1

@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 uh 1
+align 2 is 0.999471 as 0.000528561
+align 3 acceptable 0.867099 that 0.132901
+align 4 *DELETE* 0.867098 acceptable 0.132901 uh 5.15095e-08
+align 5 </s> 1

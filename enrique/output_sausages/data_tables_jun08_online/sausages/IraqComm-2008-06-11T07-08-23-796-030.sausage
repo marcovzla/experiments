@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 company 1
+align 3 are 1
+align 4 you 1
+align 5 with 1
+align 6 *DELETE* 0.499731 the 0.414861 a 0.0621239 you 0.00810547 me 0.0055926 be 0.00379027 this 0.00189447 we 0.00142706 these 0.00118586 three 0.000508629 who 0.000450766 two 0.000198239 peace 0.000122079 your 8.82795e-06 loose 1.5305e-26 face 6.17791e-29
+align 7 hussein 0.48649 same 0.429682 sign 0.0616895 sand 0.0110139 saying 0.00679626 and 0.00201655 sent 0.00184417 send 0.000282416 assign 0.000184 *DELETE* 1.6753e-09
+align 8 *DELETE* 0.999949 uh 2.6758e-05 i 2.08695e-05 a 2.58659e-06 san 7.26714e-07 beside 2.22668e-08 saint 6.66885e-21
+align 9 </s> 1

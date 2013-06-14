@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 are 1
+align 2 you 1
+align 3 going 1
+align 4 to 1
+align 5 visit 1
+align 6 your 1
+align 7 brother 1
+align 8 *DELETE* 0.999433 in 0.000326336 uh 0.000112745 do 5.12212e-05 is 3.96237e-05 at 2.12127e-05 i 8.13103e-06 you 5.49317e-06 it 9.63586e-07 who 6.31461e-07 and 2.71539e-07 could 1.10993e-14
+align 9 </s> 1

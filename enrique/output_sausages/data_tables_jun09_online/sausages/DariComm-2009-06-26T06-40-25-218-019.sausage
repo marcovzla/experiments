@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 *DELETE* 0.880443 old 0.0689399 how 0.0506174
+align 3 are 1
+align 4 the 1
+align 5 animals 1
+align 6 and 0.878779 in 0.121221
+align 7 farmland 1
+align 8 been 0.942462 then 0.0397774 bin 0.0128203 bend 0.00127914 ben 0.000899427 did 0.000839056 being 0.000476181 there 0.000450336 bidan 0.000384096 getting 0.000202238 din 0.000161427 their 0.000137046 they're 6.51807e-05 didn't 4.59254e-05
+align 9 lately 0.999496 lightly 0.000504416
+align 10 *DELETE* 0.999929 i 6.58499e-05 um 4.48675e-06 uh 3.71285e-07 it 6.73648e-15
+align 11 </s> 1

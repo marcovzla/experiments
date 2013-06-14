@@ -1,0 +1,22 @@
+numaligns 20
+posterior 1
+align 0 <s> 1
+align 1 is 0.976826 it's 0.018102 a 0.00507185 its 1.12419e-07
+align 2 there 0.953337 that 0.0218238 the 0.0197676 state 0.00507185
+align 3 is 0.980666 a 0.0193336
+align 4 *DELETE* 0.980666 is 0.0193336
+align 5 there 1
+align 6 any 1
+align 7 other 1
+align 8 uh 1
+align 9 main 0.997152 mainly 0.00149052 mayme 0.000982643 name 0.000375148
+align 10 grows 0.610223 role 0.115304 roles 0.0813243 rose 0.0757655 rolls 0.0724449 *DELETE* 0.0449379
+align 11 *DELETE* 0.821777 is 0.0665029 was 0.0392515 rows 0.0162304 gross 0.0141883 roads 0.0123528 as 0.00954954 be 0.00840973 peace 0.00638999 crows 0.00136114 piece 0.00113655 b 0.000962522 p 0.00092495 throws 0.00080525 pee 0.000157286
+align 12 besides 0.981645 size 0.0104545 is 0.00752654 be 0.000373893
+align 13 *DELETE* 0.999626 size 0.000373893
+align 14 the 1
+align 15 north 1
+align 16 and 0.999778 in 0.000222457 *DELETE* 1.57286e-15
+align 17 south 1 inside 7.3384e-14
+align 18 *DELETE* 1 and 5.72694e-09 there 5.5112e-09
+align 19 </s> 1

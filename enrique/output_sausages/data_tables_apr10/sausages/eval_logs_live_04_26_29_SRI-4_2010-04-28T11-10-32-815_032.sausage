@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 will 0.993066 i 0.00571588 we'll 0.001218
+align 2 *DELETE* 0.994284 will 0.00571588
+align 3 you 1
+align 4 use 1
+align 5 steel 1
+align 6 for 1
+align 7 the 1
+align 8 bridge 1
+align 9 *DELETE* 1 uh 5.51589e-10 i 2.50495e-10
+align 10 </s> 1

@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 tell 1 talk 1.4685e-12
+align 4 me 1 a 4.90588e-10
+align 5 which 0.99932 much 0.000680487
+align 6 buildings 0.999912 bookings 8.7545e-05
+align 7 have 1
+align 8 been 1
+align 9 damaged 0.999817 damage 0.00018338
+align 10 *DELETE* 0.999999 too 5.243e-07
+align 11 </s> 1

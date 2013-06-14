@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 *DELETE* 0.985801 of 0.0141993
+align 4 those 1
+align 5 children 1
+align 6 are 0.852871 or 0.137282 *DELETE* 0.00535764 were 0.00445199 report 3.68184e-05
+align 7 boys 0.976524 boy's 0.009239 reports 0.0052123 boards 0.00504449 boys' 0.00339347 bores 0.000310045 reporters 0.000141086 boyce 9.45134e-05 is 3.68184e-05 voice 4.25325e-06
+align 8 *DELETE* 0.999999 i 1.33588e-06
+align 9 </s> 1

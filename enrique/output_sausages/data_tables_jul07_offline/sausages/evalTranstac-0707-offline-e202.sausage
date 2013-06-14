@@ -1,0 +1,28 @@
+numaligns 26
+posterior 1
+align 0 <s> 1
+align 1 you 0.867345 *DELETE* 0.132517 he 0.000136135 i 1.82565e-06 a 1.25697e-09
+align 2 you 1.13226 eat 0.000221535 he 1.6044e-05
+align 3 you 0.944873 *DELETE* 0.0551267
+align 4 *DELETE* 0.962559 you 0.0374412
+align 5 you 0.94903 *DELETE* 0.0509702
+align 6 can 1
+align 7 *DELETE* 0.989643 uh 0.0103572
+align 8 and 1
+align 9 i 1
+align 10 will 1
+align 11 write 1
+align 12 it 1
+align 13 down 1
+align 14 for 1
+align 15 you 1
+align 16 and 1 in 1.79006e-11
+align 17 give 1
+align 18 it 1
+align 19 to 1
+align 20 you 1
+align 21 before 1
+align 22 you 1
+align 23 leave 1
+align 24 *DELETE* 0.999965 i 3.41275e-05 uh 3.4196e-07 it 1.50249e-07
+align 25 </s> 1

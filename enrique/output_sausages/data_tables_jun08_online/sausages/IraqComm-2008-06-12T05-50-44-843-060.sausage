@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 we 1
+align 2 randomly 1
+align 3 chose 1
+align 4 your 1
+align 5 house 1
+align 6 *DELETE* 0.998082 uh 0.00184331 is 7.3998e-05 i 1.13603e-06
+align 7 </s> 1

@@ -1,0 +1,27 @@
+numaligns 25
+posterior 1
+align 0 <s> 1
+align 1 have 1
+align 2 them 1
+align 3 open 0.999997 opened 3.2807e-06
+align 4 up 1
+align 5 all 1
+align 6 the 1
+align 7 outside 0.999445 al-sayd 0.0005552
+align 8 compartments 0.946115 compartment 0.0538851
+align 9 as 1
+align 10 well 1
+align 11 uh 0.645958 the 0.349078 at 0.0049637
+align 12 *DELETE* 0.995036 the 0.0049637
+align 13 *DELETE* 0.995107 uh 0.00489303
+align 14 gas 0.728874 uh 0.271126
+align 15 *DELETE* 0.728874 gas 0.271126
+align 16 cap 0.979323 cab 0.0206771
+align 17 back 1
+align 18 trunk 1
+align 19 hood 0.999909 could 9.11097e-05
+align 20 and 1
+align 21 all 0.999999 *DELETE* 2.07001e-07
+align 22 the 0.99974 *DELETE* 0.000259614 i'll 7.18778e-07
+align 23 doors 0.99999 door's 9.50451e-06
+align 24 </s> 1

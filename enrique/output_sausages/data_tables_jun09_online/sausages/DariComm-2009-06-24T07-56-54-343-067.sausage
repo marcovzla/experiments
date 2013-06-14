@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 is 1
+align 2 there 0.997306 their 0.00269412
+align 3 just 1
+align 4 one 0.997996 want 0.00119783 won 0.000699375 warn 0.000105495 *DELETE* 3.35853e-11
+align 5 *DELETE* 0.999234 i 0.000337177 uh 0.000221079 in 4.84467e-05 day 4.38351e-05 two 2.9444e-05 eight 1.621e-05 oh 1.54182e-05 you 1.20598e-05 is 1.12503e-05 do 9.48747e-06 it 5.65382e-06 or 5.15397e-06 so 4.89888e-06 to 2.05677e-06 a 1.42571e-06 worn 1.04014e-06 that 6.30548e-07 but 4.39035e-07 the 3.75102e-08 and 1.29202e-08 of 2.20239e-10 would 1.79749e-10 with 9.24526e-12 warm 2.71464e-15
+align 6 </s> 1

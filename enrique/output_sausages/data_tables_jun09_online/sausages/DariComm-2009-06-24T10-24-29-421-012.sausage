@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 could 1
+align 2 you 1
+align 3 please 1
+align 4 say 1
+align 5 again 0.999932 going 6.75295e-05
+align 6 *DELETE* 0.999986 i 8.87692e-06 uh 5.34954e-06
+align 7 </s> 1

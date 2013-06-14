@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 i 0.998537 uh 0.000970846 oh 0.000491789
+align 2 *DELETE* 0.966077 i 0.0339233
+align 3 see 1
+align 4 there's 1
+align 5 a 1
+align 6 bandage 1
+align 7 around 1
+align 8 your 1
+align 9 leg 0.872504 weight 0.070051 way 0.052872 wait 0.00455414 lay 1.90674e-05
+align 10 what's 1
+align 11 the 1
+align 12 problem 1
+align 13 *DELETE* 0.99785 i 0.00183043 uh 0.0003149 with 4.65522e-06 is 8.5192e-08
+align 14 </s> 1

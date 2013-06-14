@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 can 1
+align 2 you 1
+align 3 say 1
+align 4 that 1
+align 5 again 1
+align 6 please 1
+align 7 *DELETE* 0.999911 do 8.09098e-05 uh 8.14837e-06
+align 8 </s> 1

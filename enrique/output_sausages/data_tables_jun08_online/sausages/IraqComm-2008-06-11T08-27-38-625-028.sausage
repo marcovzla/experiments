@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 vehicles 1
+align 3 do 1
+align 4 you 1
+align 5 have 1
+align 6 *DELETE* 0.999711 a 0.000158759 uh 0.000129912
+align 7 </s> 1

@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 other 0.976993 are 0.0230067
+align 3 *DELETE* 0.976993 their 0.0230067
+align 4 needs 1
+align 5 for 1
+align 6 electricity 1
+align 7 you 0.49327 or 0.460933 *DELETE* 0.0418206 our 0.00397613
+align 8 are 0.532752 *DELETE* 0.447961 or 0.0192285 a 5.86096e-05 of 5.75185e-10
+align 9 there 0.891506 their 0.0524092 they 0.0288133 *DELETE* 0.0269698 the 0.000301423
+align 10 *DELETE* 0.943748 are 0.0286444 they're 0.0269676 air 0.000297795 were 0.000225987 uh 9.66921e-05 is 2.00049e-05
+align 11 *DELETE* 0.999946 uh 2.01302e-05 i 1.96815e-05 in 1.1636e-05 there're 2.21343e-06 a 1.27616e-08 our 3.27619e-14 to 3.98897e-15 or 2.50817e-15 all 2.33026e-16 it 2.7996e-17 and 4.92365e-22
+align 12 </s> 1

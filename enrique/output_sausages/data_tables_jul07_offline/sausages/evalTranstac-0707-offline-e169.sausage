@@ -1,0 +1,16 @@
+numaligns 14
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 long 1
+align 3 did 0.999991 they 9.31764e-06
+align 4 take 0.999519 taking 0.000481242
+align 5 you 0.999522 a 0.000453773 to 2.37807e-05
+align 6 say 0.924155 save 0.0586061 to 0.0171985 you 4.06636e-05
+align 7 *DELETE* 0.982761 say 0.0124964 save 0.0047428
+align 8 the 0.594054 this 0.405764 that 0.000105943 *DELETE* 7.60032e-05
+align 9 smell 0.59736 amount 0.396404 wound 0.00287313 some 0.00212417 man 0.00104278 dismount 7.60032e-05 mount 7.56891e-05 mound 2.77002e-05 um 1.69707e-05
+align 10 *DELETE* 0.99752 of 0.00248038
+align 11 money 0.999165 monte 0.000601321 mani 0.00011325 money's 8.01187e-05 moneys 3.87248e-05 only 1.24572e-06
+align 12 *DELETE* 0.999986 i 1.2299e-05 uh 8.14297e-07 to 5.30687e-07 in 2.25335e-08 if 1.35359e-08
+align 13 </s> 1

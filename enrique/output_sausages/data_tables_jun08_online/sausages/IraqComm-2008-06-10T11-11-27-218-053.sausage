@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 how 1
+align 2 many 1
+align 3 kids 1
+align 4 do 1
+align 5 you 1
+align 6 have 1
+align 7 with 0.802721 would 0.122128 what 0.0581541 wood 0.0169967
+align 8 the 0.414322 you 0.363807 *DELETE* 0.201102 be 0.0207702
+align 9 each 1
+align 10 why 0.490769 wife 0.416816 wise 0.0924031 *DELETE* 1.15027e-05 one 3.73491e-09
+align 11 *DELETE* 0.999377 if 0.000463245 uh 7.6303e-05 i 7.08349e-05 y 8.53176e-06 why's 2.94944e-06 a 5.76182e-07 is 2.63682e-07 it 7.0534e-08 to 4.11371e-08 wife's 2.15006e-08 wives 2.1958e-18
+align 12 </s> 1

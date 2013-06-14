@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 1
+align 3 your 1
+align 4 relationship 1
+align 5 like 1
+align 6 with 1
+align 7 the 1
+align 8 sheikh's 0.999285 sheikhs 0.00071525
+align 9 *DELETE* 0.999743 uh 0.000255427 a 1.0361e-06 i 3.76945e-07 of 1.08734e-10 is 3.09928e-14
+align 10 </s> 1

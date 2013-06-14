@@ -1,0 +1,13 @@
+numaligns 11
+posterior 1
+align 0 <s> 1
+align 1 well 0.634986 with 0.255536 we'll 0.059791 will 0.0243268 what 0.0131589 would 0.00705054 i 0.00466295 *DELETE* 0.000488013
+align 2 the 0.841725 do 0.07585 a 0.0655618 *DELETE* 0.00759504 will 0.00458117 be 0.0041174 wood 0.000488013 would 8.17846e-05
+align 3 *DELETE* 0.995419 do 0.00458117
+align 4 workers 0.88792 workers' 0.0775695 worker's 0.0345109
+align 5 be 1 b 8.11175e-29
+align 6 safe 0.999919 *DELETE* 4.24818e-05 say 3.73853e-05 safely 1.28975e-06 saif 5.91854e-23
+align 7 here 0.500698 there 0.495176 their 0.00214604 they're 0.000921221 air 0.000356883 *DELETE* 0.000305352 fair 0.000267352 sir 5.73063e-05 later 4.71115e-05 they 2.4143e-05
+align 8 *DELETE* 0.999715 fear 5.80495e-05 are 5.47474e-05 year 4.5115e-05 fare 4.30901e-05 safer 4.24818e-05 either 4.15087e-05 you 1.63922e-07
+align 9 *DELETE* 0.999882 there 3.26022e-05 ear 2.64662e-05 hear 2.44269e-05 theater 2.22428e-05 here 7.06022e-06 uh 3.12614e-06 err 1.80575e-06 near 5.56488e-10 bitter 2.94125e-10 i 1.78602e-12 better 3.86737e-15 heir 4.71359e-20 error 3.30174e-20 ever 3.71989e-22 their 9.51146e-24 her 8.04154e-27
+align 10 </s> 1

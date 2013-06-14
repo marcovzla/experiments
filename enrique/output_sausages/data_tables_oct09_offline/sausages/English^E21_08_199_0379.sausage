@@ -1,0 +1,36 @@
+numaligns 34
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.997419 uh 0.0025808
+align 2 so 1
+align 3 we 0.937139 we've 0.0628607
+align 4 fire 1
+align 5 one 1
+align 6 round 1
+align 7 into 0.999532 and 0.000296515 in 0.000171863
+align 8 *DELETE* 0.999532 to 0.000468378
+align 9 the 1
+align 10 uh 0.996232 *DELETE* 0.00376833
+align 11 to 1
+align 12 the 1
+align 13 uh 0.996245 that 0.00184335 *DELETE* 0.00160282 food 0.000178008 hood 8.15926e-05 third 4.96778e-05
+align 14 *DELETE* 0.997481 are 0.00190635 hood 0.000304365 of 0.000227686 food 6.21267e-05 to 1.85956e-05
+align 15 *DELETE* 0.999634 are 0.000304365 of 6.21267e-05
+align 16 the 0.843357 of 0.0681721 that 0.0548371 uh 0.0289243 there 0.00470986
+align 17 *DELETE* 0.892917 are 0.0548371 to 0.0328262 of 0.0194196
+align 18 the 0.567327 other 0.431472 *DELETE* 0.00120022
+align 19 *DELETE* 0.931943 of 0.0680568
+align 20 *DELETE* 0.861956 the 0.124695 other 0.0133488
+align 21 car 1
+align 22 uh 0.975633 um 0.0243668
+align 23 try 0.626293 *DELETE* 0.361061 uh 0.0126457
+align 24 *DELETE* 0.987354 try 0.0126457
+align 25 to 0.638939 tried 0.361061
+align 26 it 0.671565 *DELETE* 0.272272 get 0.0303417 at 0.0132585 eat 0.0106784 hit 0.00188484
+align 27 the 0.941808 to 0.0503731 *DELETE* 0.00781864
+align 28 engine 1
+align 29 to 0.969589 too 0.0244649 two 0.00594635
+align 30 disable 0.987703 disabled 0.0122969
+align 31 *DELETE* 0.488211 a 0.471389 it 0.0342807 of 0.00611952
+align 32 car 0.931294 iqar 0.0413883 kar 0.0126066 card 0.00748532 qar 0.005037 cart 0.00218854
+align 33 </s> 1

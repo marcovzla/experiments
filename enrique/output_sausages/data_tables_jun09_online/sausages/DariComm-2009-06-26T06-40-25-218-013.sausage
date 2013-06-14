@@ -1,0 +1,10 @@
+numaligns 8
+posterior 1
+align 0 <s> 1
+align 1 did 1
+align 2 you 1
+align 3 understand 1
+align 4 the 1
+align 5 instructions 1
+align 6 *DELETE* 0.999987 in 5.65172e-06 to 5.21256e-06 and 2.22663e-06 you 2.43807e-11 do 6.31949e-12 that 5.66314e-12 i 1.0917e-12
+align 7 </s> 1

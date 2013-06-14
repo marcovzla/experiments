@@ -1,0 +1,11 @@
+numaligns 9
+posterior 1
+align 0 <s> 1
+align 1 who 0.998102 *DELETE* 0.0015333 the 0.00024437 they 0.000119928 there 5.11423e-15
+align 2 does 1
+align 3 your 1
+align 4 father 1
+align 5 live 1
+align 6 with 0.992176 live 0.00782436
+align 7 *DELETE* 0.998971 you 0.00100441 uh 2.49992e-05 a 1.23069e-08
+align 8 </s> 1

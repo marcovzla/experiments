@@ -1,0 +1,17 @@
+numaligns 15
+posterior 1
+align 0 <s> 1
+align 1 why 1
+align 2 you 0.642889 are 0.19919 do 0.157921
+align 3 *DELETE* 0.642889 you 0.357111
+align 4 want 1
+align 5 us 0.589899 this 0.404702 it's 0.00539925
+align 6 back 1
+align 7 side 1
+align 8 *DELETE* 0.941658 road 0.0581908 wrote 0.00014979 broke 1.53913e-06
+align 9 roads 0.941658 if 0.0461254 *DELETE* 0.0112547 of 0.000741182 it 0.000220956
+align 10 are 0.937507 you 0.03447 you're 0.0276823 your 0.000340375
+align 11 going 1
+align 12 to 0.999999 up 4.00283e-08 *DELETE* 6.09122e-13
+align 13 baghdad 1
+align 14 </s> 1

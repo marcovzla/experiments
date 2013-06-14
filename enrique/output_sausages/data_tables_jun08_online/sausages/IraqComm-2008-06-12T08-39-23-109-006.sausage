@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 where 1
+align 2 do 1
+align 3 you 1
+align 4 work 1
+align 5 *DELETE* 0.994246 in 0.0045319 uh 0.000918946 at 0.000125774 on 0.000118945 as 5.88023e-05
+align 6 </s> 1

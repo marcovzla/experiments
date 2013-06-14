@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 he's 0.299992 cease 0.292087 she's 0.228703 he 0.0592191 she 0.0474675 see 0.0375032 c 0.0198068 peace 0.0143211 these 0.000899387
+align 2 uh 0.516415 i'll 0.277083 saw 0.101223 so 0.0529367 of 0.0388169 south 0.0135255
+align 3 fix 0.998199 fixed 0.00180091
+align 4 of 0.962272 the 0.0377275
+align 5 *DELETE* 0.999865 the 0.000134695
+align 6 fridge 1
+align 7 on 0.99836 um 0.00158828 i'm 5.14921e-05
+align 8 base 1
+align 9 *DELETE* 0.849184 next 0.150816
+align 10 snakes 0.849184 *DELETE* 0.146304 of 0.00451133
+align 11 *DELETE* 0.811337 and 0.166559 it 0.0217697 of 0.000333648
+align 12 good 1
+align 13 at 1
+align 14 fixing 1
+align 15 vehicles 0.807998 vehicle 0.192001 vehicle's 9.26992e-07
+align 16 *DELETE* 0.956553 it 0.0410365 at 0.000632413 that 0.000479632 to 0.000445472 uh 0.000409521 i 0.000167291 in 0.000120339 of 0.000107135 a 2.70853e-05 and 1.2814e-05 do 7.37259e-06 eye 9.57469e-07 be 4.57125e-07 the 1.40244e-08
+align 17 </s> 1

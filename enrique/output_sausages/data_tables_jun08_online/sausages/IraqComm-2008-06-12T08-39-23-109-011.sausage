@@ -1,0 +1,8 @@
+numaligns 6
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 is 0.999965 was 3.46576e-05 does 8.59883e-18
+align 3 your 1
+align 4 name 0.999992 day 8.36014e-06
+align 5 </s> 1

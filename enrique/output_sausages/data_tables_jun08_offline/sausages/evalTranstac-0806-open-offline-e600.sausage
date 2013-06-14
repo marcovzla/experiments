@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 i 1
+align 2 heard 1
+align 3 there 1
+align 4 was 1
+align 5 an 1
+align 6 incident 1
+align 7 uh 0.441808 that 0.31831 to 0.218256 the 0.0216268
+align 8 that 0.999323 thank 0.000677207
+align 9 you 0.943185 *DELETE* 0.056815
+align 10 are 0.915694 you're 0.056815 were 0.0274913 your 4.90827e-11
+align 11 involved 1
+align 12 in 0.983721 and 0.0162788
+align 13 earlier 0.982485 our 0.0139658 a 0.00230402 are 0.000900732 or 0.000174263 early 0.000168022 order 1.7388e-06
+align 14 *DELETE* 0.982487 earlier 0.0170216 later 0.000174263 or 0.000168022 alert 0.000148942
+align 15 today 1
+align 16 *DELETE* 0.999966 uh 3.44374e-05
+align 17 </s> 1

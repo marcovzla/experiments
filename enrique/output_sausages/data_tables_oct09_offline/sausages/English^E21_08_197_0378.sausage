@@ -1,0 +1,24 @@
+numaligns 22
+posterior 1
+align 0 <s> 1
+align 1 *DELETE* 0.995599 uh 0.00440121
+align 2 if 1
+align 3 they 1
+align 4 still 1
+align 5 don't 1
+align 6 stop 1
+align 7 then 0.983548 them 0.0164516
+align 8 we 1
+align 9 go 0.711628 *DELETE* 0.287703 get 0.000669389
+align 10 by 0.712297 give 0.287703
+align 11 uh 1
+align 12 *DELETE* 0.963542 uh 0.0364581
+align 13 uh 1
+align 14 the 0.952121 uh 0.0478788
+align 15 *DELETE* 0.952121 the 0.0478788
+align 16 a 1
+align 17 mobile 1
+align 18 uh 1
+align 19 shot 0.952804 shop 0.0220532 shock 0.0206332 shots 0.00217368 shat 0.00148851 shad 0.000463737 shaab 0.000124742 shihab 8.51538e-05 shout 7.27929e-05 shops 4.04893e-05 shatha 2.34172e-05 shocked 1.32102e-05 shahba' 1.23231e-05 shab 1.12803e-05 shada 5.54012e-08
+align 20 *DELETE* 0.997465 at 0.000974837 a 0.000845075 of 0.000309589 uh 0.000173447 us 0.000123592 it 5.76297e-05 is 2.77227e-05 in 1.168e-05 as 1.03239e-05 i 1.01945e-06 and 7.28828e-08
+align 21 </s> 1

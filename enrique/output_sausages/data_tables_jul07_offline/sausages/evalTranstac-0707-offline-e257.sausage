@@ -1,0 +1,20 @@
+numaligns 18
+posterior 1
+align 0 <s> 1
+align 1 uh 0.995865 yeah 0.00413505
+align 2 *DELETE* 0.991227 uh 0.00877315
+align 3 this 1
+align 4 is 1
+align 5 an 1
+align 6 iraqi 1
+align 7 law 1
+align 8 that 1
+align 9 the 1
+align 10 uh 0.988256 at 0.0117436
+align 11 the 1
+align 12 new 0.999763 *DELETE* 0.000237173
+align 13 government 1
+align 14 has 0.999948 hats 4.55893e-05 cats 6.06401e-06
+align 15 adopted 0.962549 about 0.0374508
+align 16 *DELETE* 0.962195 that 0.0374082 a 0.000203506 i 0.000120955 the 4.84149e-05 it 1.07282e-05 uh 7.95791e-06 do 4.6149e-06 in 2.48923e-07
+align 17 </s> 1

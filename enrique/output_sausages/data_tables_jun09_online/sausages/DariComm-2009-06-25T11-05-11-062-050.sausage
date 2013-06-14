@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 where 0.9974 we'll 0.00168331 will 0.000597347 well 0.000209918 were 0.000109276
+align 2 do 1
+align 3 you 1
+align 4 want 1
+align 5 the 0.966762 *DELETE* 0.0214578 to 0.0117797
+align 6 for 0.468693 four 0.302282 floor 0.207568 before 0.0214578
+align 7 marine 0.508747 morning 0.223882 blowing 0.195322 going 0.0683909 point 0.0036576
+align 8 down 0.530031 gun 0.430044 done 0.0225507 gone 0.0173746
+align 9 trucks 0.987043 truck's 0.0129568
+align 10 placed 0.877384 place 0.113295 plates 0.00893797 *DELETE* 0.000382266
+align 11 *DELETE* 0.996436 it 0.000939679 to 0.000756326 them 0.000431245 the 0.000363587 please 0.000266826 a 0.000251009 uh 0.000111059 do 0.000105051 i 7.11564e-05 pledge 7.05411e-05 in 4.60857e-05 pledged 3.63096e-05 though 3.52839e-05 there 3.08391e-05 that 2.40866e-05 plagued 8.58968e-06 they 7.9483e-06 so 3.53958e-06 then 3.04568e-06 this 9.35167e-07 at 4.68759e-07 their 2.84399e-08 if 2.64602e-08 an 1.17981e-08 did 3.35343e-09 that's 2.73756e-09 due 1.38383e-11 than 4.50186e-15
+align 12 </s> 1

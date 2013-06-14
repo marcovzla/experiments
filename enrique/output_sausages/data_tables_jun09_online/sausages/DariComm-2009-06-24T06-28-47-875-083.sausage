@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 what 1
+align 2 medication 1
+align 3 is 1
+align 4 used 0.998031 use 0.00196942
+align 5 to 1
+align 6 treat 1
+align 7 germs 0.768424 jobs 0.119948 um 0.0770671 from 0.0237222 *DELETE* 0.0100664 uh 0.000769905 you 2.32156e-06
+align 8 *DELETE* 0.999998 from 2.32156e-06
+align 9 *DELETE* 0.925757 is 0.0471186 jams 0.0100664 it's 0.00475102 this 0.00312164 as 0.0029157 us 0.00251971 has 0.00192296 his 0.000780104 so 0.000568566 he's 0.000301469 because 0.000122191 does 4.70824e-05 in 6.13305e-06 uh 1.10212e-06 it 4.26806e-09 you 2.24341e-09 and 5.30336e-10 i 4.80622e-10
+align 10 *DELETE* 1 you 6.07806e-15 uh 1.15614e-15 was 5.07606e-20
+align 11 </s> 1

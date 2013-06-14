@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 say 0.994565 so 0.00540944 *DELETE* 2.55594e-05
+align 2 *DELETE* 0.995355 i 0.00464485
+align 3 *DELETE* 0.999974 say 2.55594e-05
+align 4 again 0.999741 you 0.000257743 *DELETE* 2.90006e-09
+align 5 *DELETE* 0.99968 have 0.000230018 i 5.63358e-05 had 2.77252e-05 uh 4.25179e-06 yeah 1.59853e-06 um 2.71399e-08 and 2.00814e-15
+align 6 </s> 1

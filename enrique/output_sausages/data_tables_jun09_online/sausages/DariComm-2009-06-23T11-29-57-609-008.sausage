@@ -1,0 +1,14 @@
+numaligns 12
+posterior 1
+align 0 <s> 1
+align 1 yes 1
+align 2 i'm 0.970189 i 0.0269779 *DELETE* 0.00283265
+align 3 *DELETE* 0.970189 am 0.0269779 some 0.00283265
+align 4 fine 1
+align 5 how 1
+align 6 are 1
+align 7 your 1
+align 8 soldiers 0.999639 soldiers' 0.000361406
+align 9 doing 1
+align 10 *DELETE* 0.997415 uh 0.00148904 it 0.000961193 a 5.65632e-05 i 4.67815e-05 that 2.35071e-05 this 6.79829e-06 um 1.24574e-06 you 1.1097e-07 in 5.71707e-08 is 1.22512e-08 to 9.70389e-09 the 2.96852e-12
+align 11 </s> 1

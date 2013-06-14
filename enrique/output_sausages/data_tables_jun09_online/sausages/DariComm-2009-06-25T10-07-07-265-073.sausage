@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 you 0.951467 he's 0.0348045 you're 0.0130849 do 0.000643102
+align 2 *DELETE* 0.999357 you 0.000643102
+align 3 saying 1
+align 4 you 1
+align 5 do 1
+align 6 not 1
+align 7 have 1
+align 8 a 1
+align 9 police 1
+align 10 force 1
+align 11 *DELETE* 0.999762 uh 8.492e-05 it 7.86844e-05 is 4.94959e-05 i 1.7195e-05 to 4.27036e-06 you 3.70994e-06 in 1.13778e-07 there 5.62784e-09 if 1.62637e-13 that 1.10744e-13 the 1.77782e-14 a 1.14591e-14
+align 12 </s> 1

@@ -1,0 +1,12 @@
+numaligns 10
+posterior 1
+align 0 <s> 1
+align 1 you 1
+align 2 need 1
+align 3 a 0.999368 to 0.000632176
+align 4 car 1
+align 5 for 1
+align 6 the 1
+align 7 future 0.999776 feature 0.00022418
+align 8 *DELETE* 0.999972 do 1.43586e-05 to 1.35609e-05 it 5.02135e-11 is 3.92313e-13
+align 9 </s> 1

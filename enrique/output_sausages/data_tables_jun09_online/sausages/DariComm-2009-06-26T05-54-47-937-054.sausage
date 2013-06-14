@@ -1,0 +1,9 @@
+numaligns 7
+posterior 1
+align 0 <s> 1
+align 1 computers 0.948632 i'm 0.029733 *DELETE* 0.0179149 computer 0.00371977
+align 2 *DELETE* 0.952352 peter 0.0476479
+align 3 say 0.51571 see 0.448066 c 0.024089 sea 0.0121342
+align 4 again 0.99318 a 0.00682023 get 8.45708e-41
+align 5 *DELETE* 0.992396 again 0.00675608 uh 0.00051702 i 0.000259851 gang 6.4147e-05 um 6.36518e-06 it 1.22339e-07 now 2.55905e-12 do 5.35424e-34 oh 1.79359e-34 you 1.88042e-35 in 8.45708e-41
+align 6 </s> 1

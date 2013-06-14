@@ -1,0 +1,52 @@
+numaligns 50
+posterior 1
+align 0 <s> 1
+align 1 okay 1
+align 2 first 1
+align 3 we'll 0.99809 will 0.00191037
+align 4 talk 1
+align 5 about 1
+align 6 it 1
+align 7 uh 1
+align 8 vehicle 1
+align 9 *DELETE* 0.575351 and 0.424649
+align 10 your 0.403981 injured 0.326382 injure 0.149856 enter 0.0682227 inter 0.0250774 you're 0.0206677 injury 0.005813
+align 11 control 1
+align 12 point 0.999905 points 9.54702e-05
+align 13 that'll 0.855259 the 0.141096 that 0.00242583 there 0.000455158 if 0.000326638 though 0.000263125 their 0.000107827 battle 6.62493e-05
+align 14 *DELETE* 0.999674 that'll 0.000326213
+align 15 lead 0.835029 *DELETE* 0.161855 a 0.00242583 leader 0.000675468 it'll 1.44778e-05 that'll 4.25359e-07
+align 16 into 0.833522 eating 0.0995336 leading 0.0647619 in 0.00164055 to 0.000501607 and 3.98402e-05
+align 17 *DELETE* 0.9933 to 0.00403171 two 0.00266848
+align 18 our 0.494754 or 0.256732 tore 0.0797616 are 0.0763686 to 0.0483927 too 0.0311214 more 0.0128695
+align 19 *DELETE* 0.920486 or 0.0401572 our 0.0224959 are 0.0168301 more 3.08653e-05
+align 20 parking 1
+align 21 area 1
+align 22 and 1
+align 23 then 1
+align 24 we'll 1
+align 25 uh 1
+align 26 have 1
+align 27 a 1
+align 28 foot 1
+align 29 uh 1
+align 30 entry 0.999997 ensure 3.24098e-06
+align 31 control 1
+align 32 point 1
+align 33 for 0.998317 four 0.00168312
+align 34 once 0.954703 wants 0.0452972
+align 35 the 0.924127 to 0.0755527 *DELETE* 0.000320247
+align 36 *DELETE* 0.540057 exit 0.459623 axes 0.000320247
+align 37 extra 0.540057 their 0.422346 the 0.0236682 there 0.0120619 they're 0.00186673
+align 38 vehicles 1
+align 39 and 0.924531 in 0.0754692
+align 40 actually 1
+align 41 start 0.961435 you 0.0385653
+align 42 *DELETE* 0.961435 start 0.0385653
+align 43 going 1
+align 44 into 0.97219 in 0.0278098
+align 45 *DELETE* 0.97219 to 0.0278098
+align 46 the 0.999979 their 2.12229e-05
+align 47 recruiting 1
+align 48 center 0.998775 sooner 0.00102671 singer 0.000198205
+align 49 </s> 1

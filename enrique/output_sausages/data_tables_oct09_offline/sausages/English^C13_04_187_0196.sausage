@@ -1,0 +1,15 @@
+numaligns 13
+posterior 1
+align 0 <s> 1
+align 1 uh 0.749415 um 0.166152 i 0.0774136 *DELETE* 0.00701905
+align 2 i 0.970513 *DELETE* 0.0294867
+align 3 guess 0.970513 yes 0.0294867
+align 4 i'll 0.999977 all 2.34128e-05
+align 5 have 1
+align 6 the 1
+align 7 interpreter 1
+align 8 write 1
+align 9 it 1
+align 10 for 1
+align 11 you 1
+align 12 </s> 1
